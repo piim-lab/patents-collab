@@ -16,8 +16,8 @@ Os dados podem ser encontrados em:
 1. Crie  e ative um ambiente virtual python
 
 ```
-    python -m venv venv
-    .\venv\Scripts\Activate
+python -m venv venv
+.\venv\Scripts\Activate
 ```
 
 2. Instale as dependências:
@@ -46,10 +46,9 @@ DATABASE_PORT=port
 DATABASE_HOST=host
 ```
 
-3. Execute os arquivos models.py e dataset.py:
+3. Execute o arquivo dataset.py:
 
 ```
-python models.py
 python dataset.py
 ```
 
