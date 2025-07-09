@@ -1,42 +1,43 @@
+
 # Enhanced INPI Dataset
 
-Os dados podem ser encontrados em:
+The data can be found in:
 
--   `data/raw`: Banco de dados original, sem deduplicação e classificação.
--   `data/final`: Arquivos processados de cada revista utilizada.
--   `data/dicionario-dados.pdf`: Dicionário de dados explicando o que cada campo significa nos JSON's das patentes
+- `data/raw`: Original database, without deduplication and classification. It can also be obtained at https://github.com/cie-cefet-mg/inpi-db/tree/main/data/processos/patente.
+- `data/final`: Processed files from each magazine used.
+- `data/dicionario-dados.pdf`: Data dictionary explaining what each field means in the patents' JSON files.
 
-## Pré-requisitos  
+## Prerequisites
 
-- Python 3
+- Python 3  
 - MySQL
 
-## Ínicio Rápido
+## Quick Start
 
-1. Crie  e ative um ambiente virtual python
+1. Create and activate a Python virtual environment:
 
 ```
 python -m venv venv
 .\venv\Scripts\Activate
 ```
 
-2. Instale as dependências:
+2. Install the dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-Faça o download do arquivo binário da língua portuguesa em https://fasttext.cc/docs/en/crawl-vectors.html
-e o adicione na pasta WordBank (o nome do arquivo é cc.pt.300.bin).
+Download the Portuguese language binary file from https://fasttext.cc/docs/en/crawl-vectors.html  
+and add it to the `WordBank` folder (the file name is `cc.pt.300.bin`).
 
-3. Crie um banco de dados relacional MySQL
+3. Create a MySQL relational database:
 
 ```
 mysql -u user -p password
 create database name_database
 ```
 
-4. Na pasta `.\src`, crie um arquivo `.env` e preencha com as seguintes informações sobre o BD:
+4. In the `.\src` folder, create a `.env` file and fill it with the following database information:
 
 ```
 DATABASE_NAME=name_database
@@ -46,10 +47,10 @@ DATABASE_PORT=port
 DATABASE_HOST=host
 ```
 
-3. Execute o arquivo dataset.py:
+5. Run the `dataset.py` file:
 
 ```
 python dataset.py
 ```
 
-Os dados de patentes deduplicados e classificados estarão disponíveis na pasta `data/final`. 
+The deduplicated and classified patent data will be available in the `data/final` folder.
