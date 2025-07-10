@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0911925-6",
+    "filingDate": "05/08/2009",
+    "grantDate": "30/01/2024",
+    "title": "M\u00c9TODO PARA DETECTAR UM C\u00c2NCER E REGENTES PARA DETECTAR UM C\u00c2NCER",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-202320",
+            "priorityDate": "05/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2762"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": []
+}

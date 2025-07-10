@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0819213-8",
+    "filingDate": "27/10/2008",
+    "grantDate": null,
+    "title": "DESCONECTORES DE DESCARREGADOR E CONJUNTO DE DESCARREGADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/925,194",
+            "priorityDate": "26/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "JONATHAN JAY WOODWORTH",
+        "JAMES A STRONG",
+        "DAVID R MILLER"
+    ],
+    "holders": [
+        98713
+    ],
+    "ipcCodes": [
+        "H01H 39/00"
+    ]
+}

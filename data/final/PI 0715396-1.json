@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0715396-1",
+    "filingDate": "07/08/2007",
+    "grantDate": "19/02/2019",
+    "title": "M\u00e9todo de produ\u00e7\u00e3o de uma composi\u00e7\u00e3o para vacina",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/835,944",
+            "priorityDate": "07/08/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/933,764",
+            "priorityDate": "08/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "JOHN J MEKALANOS"
+    ],
+    "holders": [
+        80035
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "A61K 39/385",
+        "A61K 39/095",
+        "A61K 31/70",
+        "A61K 39/116",
+        "A61K 39/02",
+        "A61K 39/09"
+    ]
+}

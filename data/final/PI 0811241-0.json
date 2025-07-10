@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "PI 0811241-0",
+    "filingDate": "22/04/2008",
+    "grantDate": "25/06/2019",
+    "title": "INSTALA\u00c7\u00c3O E M\u00c9TODO DE TRATAMENTO A V\u00c1CUO",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "00843/07",
+            "priorityDate": "25/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "J\u00dcRGEN RAMM",
+        "BENO WIDRIG",
+        "STEPHAN KASEMANN",
+        "MARCELO DORNELLES PIMENTA",
+        "ORLAW MASSLER",
+        "BARBARA HANSELMANN"
+    ],
+    "holders": [
+        82039
+    ],
+    "ipcCodes": [
+        "C23C 14/06",
+        "C23C 30/00",
+        "C23C 28/00",
+        "C23C 14/22",
+        "C23C 16/26",
+        "C23C 14/02"
+    ]
+}

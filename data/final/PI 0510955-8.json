@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0510955-8",
+    "filingDate": "12/05/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE UM APLIQUE PARA UNHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/570,713",
+            "priorityDate": "12/05/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/126,862",
+            "priorityDate": "11/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        }
+    ],
+    "inventors": [
+        "FA YOUNG PARK"
+    ],
+    "holders": [
+        376381
+    ],
+    "ipcCodes": [
+        "A61K 8/04"
+    ]
+}

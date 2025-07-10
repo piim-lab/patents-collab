@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0409335-6",
+    "filingDate": "22/01/2004",
+    "grantDate": "23/02/2016",
+    "title": "AMPOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "103 17 665.9",
+            "priorityDate": "17/04/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2670"
+        }
+    ],
+    "inventors": [
+        "BERND HANSEN"
+    ],
+    "holders": [
+        107121
+    ],
+    "ipcCodes": [
+        "A61J 1/00",
+        "A61J 1/06"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 8708013-3",
+    "filingDate": "27/01/1987",
+    "grantDate": "12/07/2011",
+    "title": "PROCESSO PARA PRODUZIR O COMPOSTO N-{(4,6- DIMETOXIPIRIMIDIN-2-IL)-AMINOCARBONIL}-3-DIMETIL- AMINOCARBONIL-2-PIRIDINOSSULFONAMIDA OU UM SEU SAL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "19006/86",
+            "priorityDate": "30/01/1986"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "19863/86",
+            "priorityDate": "31/01/1986"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "178489/86",
+            "priorityDate": "29/07/1986"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/01/1987",
+        "applicationNumber": "PI 8700357-0"
+    },
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2786"
+        }
+    ],
+    "inventors": [
+        "FUMIO KIMURA",
+        "TAKAHIRO HAGA",
+        "NOBUYUKI SAKASHITA",
+        "CHIMOTO HONDA",
+        "SHIGEO MURAI"
+    ],
+    "holders": [
+        64849
+    ],
+    "ipcCodes": [
+        "A01N 47/36",
+        "C07D 401/12"
+    ]
+}

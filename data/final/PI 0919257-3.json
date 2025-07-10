@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0919257-3",
+    "filingDate": "22/09/2009",
+    "grantDate": "04/05/2021",
+    "title": "PROCESSO DE PREPARA\u00c7\u00c3O DE NEBIVOLOL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0856415",
+            "priorityDate": "24/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "YVON DERRIEN",
+        "ERIC CHENARD",
+        "ALAIN BURGOS"
+    ],
+    "holders": [
+        134800
+    ],
+    "ipcCodes": [
+        "C07D 407/04",
+        "C07D 311/58",
+        "C07D 311/66"
+    ]
+}

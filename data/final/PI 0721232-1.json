@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0721232-1",
+    "filingDate": "25/01/2007",
+    "grantDate": null,
+    "title": "PLACA DE MADEIRA COMP\u00d3SITA",
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "ROGER JACKSON",
+        "TONY AINDOW",
+        "GEORGE BAYBUTT"
+    ],
+    "holders": [
+        388421
+    ],
+    "ipcCodes": [
+        "C08L 97/02",
+        "B27N 3/00"
+    ]
+}

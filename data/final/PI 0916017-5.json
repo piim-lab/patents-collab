@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0916017-5",
+    "filingDate": "10/11/2009",
+    "grantDate": null,
+    "title": "SISTEMA DE RETROALIMENTA\u00c7\u00c3O PARA FREIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0850088-6",
+            "priorityDate": "21/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "ANDERSSON JONNY",
+        "BREDBERG LINUS",
+        "ANDERSSON JON"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "G07C 5/08",
+        "B60T 8/00"
+    ]
+}

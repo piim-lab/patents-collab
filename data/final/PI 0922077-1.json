@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0922077-1",
+    "filingDate": "26/11/2009",
+    "grantDate": null,
+    "title": "PROCESSO DE FABRICA\u00c7\u00c3O DE UMA PE\u00c7A DE FORMA COMPLEXA DE MATERIAL COMP\u00d3SITO.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0858098",
+            "priorityDate": "28/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "NICOLAS EBERLING",
+        "ERIC BOUILLON",
+        "NICOLAS OTIN",
+        "DOMINIQUE COUPE",
+        "CL\u00c9MENT ROUSSILLE"
+    ],
+    "holders": [
+        88649,
+        79254
+    ],
+    "ipcCodes": [
+        "B29C 70/22",
+        "C04B 35/83"
+    ]
+}

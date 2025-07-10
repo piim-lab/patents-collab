@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0812334-9",
+    "filingDate": "04/06/2008",
+    "grantDate": "09/07/2019",
+    "title": "HASTE DO EMB\u00d4LO E CONJUNTO DE HASTE DO EMB\u00d4LO E BATENTE ANTIGO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/941.851",
+            "priorityDate": "04/06/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/950.741",
+            "priorityDate": "19/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "MICHAEL QUINN",
+        "JOHANNA TORRES",
+        "E GUAN",
+        "GANG JU",
+        "ERIC SCHILLER",
+        "ANTHONY ECONOMOU"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "A61M 5/315"
+    ]
+}

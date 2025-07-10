@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0810909-5",
+    "filingDate": "02/05/2008",
+    "grantDate": "16/10/2018",
+    "title": "RECIPIENTESA DE TUBO DOBR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0708493.2",
+            "priorityDate": "02/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "PHILIP COLIN ASHMAN"
+    ],
+    "holders": [
+        392124
+    ],
+    "ipcCodes": [
+        "B32B 27/08",
+        "B32B 1/08",
+        "B65D 35/08"
+    ]
+}

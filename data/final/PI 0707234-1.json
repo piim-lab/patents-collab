@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0707234-1",
+    "filingDate": "24/01/2007",
+    "grantDate": "11/12/2018",
+    "title": "APARELHO \u00c0 PROVA DE CHAMA E M\u00c9TODO PARA OPERAR SISTEMAS E DISPOSITIVOS EM UM AMBIENTE DE RISCO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/761,801",
+            "priorityDate": "24/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2774"
+        }
+    ],
+    "inventors": [
+        "RONALD L UHLENBERG",
+        "STEPHEN G SEBERGER",
+        "RIYAZ M ALI",
+        "JIMMIE L SNOWBARGER",
+        "CLYDE THOMAS EISENBEIS"
+    ],
+    "holders": [
+        90026
+    ],
+    "ipcCodes": [
+        "H02H 9/00"
+    ]
+}

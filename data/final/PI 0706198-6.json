@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0706198-6",
+    "filingDate": "27/01/2007",
+    "grantDate": null,
+    "title": "EVAPORADOR DE \u00c1GUA CONDENSADA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 013 271.8",
+            "priorityDate": "21/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        }
+    ],
+    "inventors": [
+        "STEFAN SCHNEIDER",
+        "JOACHIM MAUL"
+    ],
+    "holders": [
+        5819
+    ],
+    "ipcCodes": [
+        "H05K 7/20",
+        "F25D 21/14"
+    ]
+}

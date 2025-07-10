@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0704508-5",
+    "filingDate": "23/07/2007",
+    "grantDate": "16/04/2019",
+    "title": "FERRAMENTAS EL\u00c9TRICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-202746",
+            "priorityDate": "26/07/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-243170",
+            "priorityDate": "07/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "NAOKI TADOKORO",
+        "TAKUMA SAITO",
+        "TAKUYA TERANISHI",
+        "KATSUHIRO OOMORI",
+        "KAZUHIKO FUNABASHI"
+    ],
+    "holders": [
+        91885
+    ],
+    "ipcCodes": [
+        "B25F 5/00"
+    ]
+}

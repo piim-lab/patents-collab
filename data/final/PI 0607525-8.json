@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "PI 0607525-8",
+    "filingDate": "04/04/2006",
+    "grantDate": "02/05/2018",
+    "title": "M\u00c9TODO DE UTILIZA\u00c7\u00c3O DE UM CONJUNTO DE INJE\u00c7\u00c3O DE FLUIDO M\u00c9DICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/668,647",
+            "priorityDate": "06/04/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/668,681",
+            "priorityDate": "06/04/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/681,252",
+            "priorityDate": "16/05/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/716,166",
+            "priorityDate": "12/09/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/718,545",
+            "priorityDate": "19/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2679"
+        }
+    ],
+    "inventors": [
+        "VALERIE ANN SCOTT",
+        "ROBIN MICHAEL LEE",
+        "GARY S WAGNER",
+        "ROBERT G MOLL",
+        "DEBRA C HASSE",
+        "ELAINE BORGEMENKE",
+        "ROBERT J ZIEMBA",
+        "VERNON D ORTENZI",
+        "CHAD M GIBSON",
+        "DAVID W WILSON",
+        "WILLIAM E BAUSMITH",
+        "JOHN H LEWIS",
+        "FRANK M FAGO",
+        "ELAINE E HAYNES"
+    ],
+    "holders": [
+        123410
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "A61M 5/00",
+        "G06Q 50/22",
+        "A61M 5/178",
+        "A61M 5/315",
+        "A61M 5/168",
+        "G06F 19/00",
+        "A61M 5/145",
+        "A61M 5/44",
+        "A61B 90/98"
+    ]
+}

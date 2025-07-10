@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0911226-0",
+    "filingDate": "17/02/2009",
+    "grantDate": null,
+    "title": "Mistura de borracha que compreende \u00e1cido sil\u00edcico precipitado, e sua utiliza\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 017 731.8",
+            "priorityDate": "07/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "CARMEN SCHMIDT",
+        "CARLA RECKER",
+        "THOMAS FEY"
+    ],
+    "holders": [
+        84656
+    ],
+    "ipcCodes": [
+        "C08L 21/00",
+        "B60C 1/00",
+        "C08L 9/00",
+        "C08K 3/36",
+        "C08L 15/00",
+        "B29B 7/74",
+        "F16G 1/06"
+    ]
+}

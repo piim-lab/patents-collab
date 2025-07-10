@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0413018-9",
+    "filingDate": "30/07/2004",
+    "grantDate": "26/12/2018",
+    "title": "COMPOSTO, E, M\u00c9TODO PARA TRATAR OU PREVENIR DOEN\u00c7AS AUTO-IMUNES E/OU UM OU MAIS SINTOMAS ASSOCIADOS COM ELES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/491,641",
+            "priorityDate": "30/07/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/531,598",
+            "priorityDate": "19/12/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/572,246",
+            "priorityDate": "18/05/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "SINGH RAJINDER",
+        "ARGADE ANKUSH",
+        "HUI LI",
+        "SOMASEKHAR BHAMIDIPATI",
+        "DAVID CARROLL",
+        "CATHERINE SYLVAIN",
+        "JEFFREY CLOUGH",
+        "HOLGER KEIM"
+    ],
+    "holders": [
+        107668
+    ],
+    "ipcCodes": [
+        "A61P 37/00",
+        "C07D 413/12",
+        "C07D 417/12",
+        "C07D 413/14",
+        "A61K 31/505"
+    ]
+}

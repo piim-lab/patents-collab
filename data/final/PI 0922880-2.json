@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0922880-2",
+    "filingDate": "09/12/2009",
+    "grantDate": null,
+    "title": "COMPOSTOS INIBIDORES DE QUINASE",
+    "nationalPhaseDate": [
+        "09/06/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2009/067402",
+        "pctDate": "09/12/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/201,406",
+            "priorityDate": "09/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "15.9",
+            "description": "Perda de Prioridade",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2499"
+        }
+    ],
+    "inventors": [
+        "PETER P SAYESKI",
+        "GYORGY M KESERU",
+        "KIRPAL BISHT"
+    ],
+    "holders": [
+        163786,
+        38093
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/137",
+        "A61P 9/00",
+        "A61K 31/138",
+        "A61P 7/00",
+        "C07C 215/48"
+    ]
+}

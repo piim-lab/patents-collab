@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0707855-2",
+    "filingDate": "15/02/2007",
+    "grantDate": "10/09/2019",
+    "title": "SISTEMA DE FIBRAS-AT\u00c9-A-RESID\u00caNCIA (FTTH) PARA TRANSMITIR SINAIS \u00d3PTICOS, M\u00c9TODO DE FORNECER UM SINAL DE SA\u00cdDA RF AMPLIFICADO E SISTEMA DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/276.119",
+            "priorityDate": "15/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "ROBERT R RIGGSBY"
+    ],
+    "holders": [
+        384475
+    ],
+    "ipcCodes": [
+        "H03G 3/30",
+        "H04B 10/69"
+    ]
+}

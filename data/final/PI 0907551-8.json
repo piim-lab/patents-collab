@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0907551-8",
+    "filingDate": "24/04/2009",
+    "grantDate": null,
+    "title": "BATERIA DE ARMAZENAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-114940",
+            "priorityDate": "25/04/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-197378",
+            "priorityDate": "31/07/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-206416",
+            "priorityDate": "08/08/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-206417",
+            "priorityDate": "08/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "YASUHIDE NAKAYAMA",
+        "EIJI HOJO",
+        "HIROFUMI UMETANI",
+        "MASASHI SHIOTA",
+        "SHIN OHSAKI",
+        "SHINICHI EGAMI"
+    ],
+    "holders": [
+        29166
+    ],
+    "ipcCodes": [
+        "H01M 2/34",
+        "H01M 2/04",
+        "H01M 2/30",
+        "H01M 2/06"
+    ]
+}

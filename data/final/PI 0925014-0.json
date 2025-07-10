@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0925014-0",
+    "filingDate": "18/12/2009",
+    "grantDate": null,
+    "title": "Dispositivo de processamento de informa\u00e7\u00e3o, m\u00e9todo de processamento de informa\u00e7\u00e3o, e, meio de grava\u00e7\u00e3o leg\u00edvel por computador.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-075267",
+            "priorityDate": "25/03/2009"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-075243",
+            "priorityDate": "25/03/2009"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2000-075242",
+            "priorityDate": "25/03/2009"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-075244",
+            "priorityDate": "25/03/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "TAKAYUKI SHINOHARA",
+        "HIDEHIKO MORISADA",
+        "YUTE LIN"
+    ],
+    "holders": [
+        272
+    ],
+    "ipcCodes": [
+        "G06F 3/048",
+        "G09G 5/00",
+        "G06T 17/00",
+        "G09G 5/36",
+        "G09G 5/38"
+    ]
+}

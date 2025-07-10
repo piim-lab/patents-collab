@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "PI 0314814-9",
+    "filingDate": "26/09/2003",
+    "grantDate": "05/02/2019",
+    "title": "ANTICORPO COMPREENDENDO UMA VARIANTE FC",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/414,433",
+            "priorityDate": "27/09/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/442,301",
+            "priorityDate": "23/01/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/467,606",
+            "priorityDate": "02/05/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/477,839",
+            "priorityDate": "12/06/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2794"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "ARTHUR J CHIRINO",
+        "STEPHEN KOHL DOBERSTEIN",
+        "GREGORY ALAN LAZAR",
+        "WEI DANG",
+        "JOHN RUDOLPH DESJARLAIS",
+        "ROBERT J HAYES",
+        "SHER BAHADUR KARKI",
+        "OMID VAFA"
+    ],
+    "holders": [
+        180455
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "C07K 16/00"
+    ]
+}

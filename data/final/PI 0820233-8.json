@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0820233-8",
+    "filingDate": "14/11/2008",
+    "grantDate": null,
+    "title": "ARTIGO CULIN\u00c1RIO TENDO UM REVESTIMENTO RESISTENTE \u00c0 CORROS\u00c3O E ARRANH\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0759122",
+            "priorityDate": "16/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "JEAN MULLER",
+        "LAURENT VOISIN"
+    ],
+    "holders": [
+        1056
+    ],
+    "ipcCodes": [
+        "A47J 36/02"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0906392-7",
+    "filingDate": "08/01/2009",
+    "grantDate": null,
+    "title": "RECIPIENTE COMP\u00d3SITO E MET\u00d3DO DE FABRI\u00c7\u00c3O DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "1034895",
+            "priorityDate": "08/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "WILHELMUS JOHANNES JOSEPH MAAS",
+        "DOMINICIUS JAN VAN WIJK",
+        "JOSEPHUS CORNELIS SNIJDERS"
+    ],
+    "holders": [
+        102562
+    ],
+    "ipcCodes": [
+        "B65D 83/00"
+    ]
+}

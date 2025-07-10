@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0921736-3",
+    "filingDate": "11/11/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA A FABRICA\u00c7\u00c3O DE P4O6 COM ALTO RENDIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08168898.8",
+            "priorityDate": "12/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        }
+    ],
+    "inventors": [
+        "WILLEM J SCHIPPER"
+    ],
+    "holders": [
+        26665
+    ],
+    "ipcCodes": [
+        "C01B 25/12"
+    ]
+}

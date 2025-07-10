@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0308585-6",
+    "filingDate": "13/03/2003",
+    "grantDate": "15/10/2019",
+    "title": "ANTICORPOS ANTI-ALFAVBETA6",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/364,991",
+            "priorityDate": "13/03/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/426,286",
+            "priorityDate": "13/11/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "SHELIA M VIOLETTE",
+        "PAUL H WEINREB",
+        "KENNETH J SIMON",
+        "DEAN SHEPPARD",
+        "DIANE R LEONE"
+    ],
+    "holders": [
+        81699,
+        23919
+    ],
+    "ipcCodes": [
+        "C07K 16/28",
+        "C12N 5/12"
+    ]
+}

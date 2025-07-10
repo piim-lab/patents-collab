@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 9715268-4",
+    "filingDate": "19/11/1997",
+    "grantDate": "23/10/2018",
+    "title": "PREPARA\u00c7\u00d5ES FARMAC\u00caUTICAS LIOFILIZADAS EST\u00c1VEIS DE ANTICORPOS MONOCLONAIS OU POLICLONAIS, BEM COMO PROCESSO PARA SUA PRODU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "96 118489.2",
+            "priorityDate": "19/11/1996"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/11/1997",
+        "applicationNumber": "PI 9713521-6"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "GEORG KALLMEYER",
+        "GERHARD WINTER",
+        "CHRISTIAN KLESSEN",
+        "HEINRICH WOOG"
+    ],
+    "holders": [
+        420151
+    ],
+    "ipcCodes": [
+        "A61K 39/395"
+    ]
+}

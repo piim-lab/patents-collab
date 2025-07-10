@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0814107-0",
+    "filingDate": "04/07/2008",
+    "grantDate": null,
+    "title": "PROCESSO DE CONTROLE DE UMA INSTALA\u00c7\u00c3O DE ELEVADORES, SISTEMA DE SEGURAN\u00c7A E ELEVADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 112651.0",
+            "priorityDate": "17/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        }
+    ],
+    "inventors": [
+        "ASTRID SONNENMOSER",
+        "KURT HEINZ"
+    ],
+    "holders": [
+        98959
+    ],
+    "ipcCodes": [
+        "B66B 5/00"
+    ]
+}

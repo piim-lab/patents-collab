@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0816377-4",
+    "filingDate": "04/09/2008",
+    "grantDate": null,
+    "title": "DISPENSADOR DE PRODUTO E M\u00c9TODO PARA CONFIGURAR UMA MATRIZ DE INGREDIENTE ASSOCIADA  AO DISPENSADOR DE PRODUTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/970507",
+            "priorityDate": "06/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "GREGG CARPENTER",
+        "DAVID R NEWMAN",
+        "H BROCK KOLLS",
+        "SON V TRAN"
+    ],
+    "holders": [
+        5359
+    ],
+    "ipcCodes": [
+        "B67D 1/00",
+        "B67D 1/08",
+        "G07F 13/06"
+    ]
+}

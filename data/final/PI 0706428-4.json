@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0706428-4",
+    "filingDate": "03/01/2007",
+    "grantDate": "05/02/2019",
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR E DISPOSITIVO DE COMPUTA\u00c7\u00c3O PARA VALIDA\u00c7\u00c3O AUTOM\u00c1TICA DE CONFORMIDADE DE PACOTE DE PROGRAMAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/743,136",
+            "priorityDate": "17/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/467,497",
+            "priorityDate": "25/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "JUSTIN A SLONE",
+        "MARIYAN D FRANSAZOV"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G06Q 10/10",
+        "G06F 17/00"
+    ]
+}

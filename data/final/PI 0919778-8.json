@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0919778-8",
+    "filingDate": "06/10/2009",
+    "grantDate": "28/04/2020",
+    "title": "PO\u00c7O DE TRABALHO E NAVIO SONDA TENDO O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2008-0105224",
+            "priorityDate": "27/10/2008"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2008-0125800",
+            "priorityDate": "11/12/2008"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2009-0091728",
+            "priorityDate": "28/09/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "JONG SON",
+        "HYUNG KIM"
+    ],
+    "holders": [
+        121974
+    ],
+    "ipcCodes": [
+        "B63B 35/44",
+        "E21B 15/02",
+        "B63B 3/00"
+    ]
+}

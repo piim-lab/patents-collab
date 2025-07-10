@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0908250-6",
+    "filingDate": "17/02/2009",
+    "grantDate": null,
+    "title": "CONJUNTO DE REAGENTES PARA MEDI\u00c7\u00c3O DE PLAQUETAS SANGU\u00cdNEAS E SEUSM\u00c9TODOS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-036013",
+            "priorityDate": "18/02/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-079785",
+            "priorityDate": "26/03/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-247484",
+            "priorityDate": "26/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "YUHGI SUZUKI",
+        "KEIKO MORIYAMA",
+        "YUSUKE MORI",
+        "HIROKI TAKESHITA"
+    ],
+    "holders": [
+        4991
+    ],
+    "ipcCodes": [
+        "G01N 33/483",
+        "G01N 33/48",
+        "G01N 33/49"
+    ]
+}

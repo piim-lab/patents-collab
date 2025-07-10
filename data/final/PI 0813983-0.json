@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0813983-0",
+    "filingDate": "24/06/2008",
+    "grantDate": null,
+    "title": "Processo de separa\u00e7\u00e3o de paraxileno em leito m\u00f3vel simulado",
+    "priorityClaims": [
+        {
+            "countryCode": "07",
+            "priorityNumber": "05615",
+            "priorityDate": "30/07/2007 FR"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        }
+    ],
+    "inventors": [
+        "PHILIBERT LEFLAIVE",
+        "DAMIEN LEINEKUGEL LE COCQ",
+        "LUC WOLFF"
+    ],
+    "holders": [
+        383038
+    ],
+    "ipcCodes": [
+        "C07C 15/08",
+        "B01D 15/18",
+        "C07C 7/13",
+        "B01D 53/04"
+    ]
+}

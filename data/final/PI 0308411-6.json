@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0308411-6",
+    "filingDate": "14/03/2003",
+    "grantDate": null,
+    "title": "COPOL\u00cdMERO DE PROTE\u00cdNA-SILANO E/OU PROTE\u00cdNA-SILOXANO E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "02 06048.1",
+            "priorityDate": "14/03/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        }
+    ],
+    "inventors": [
+        "SURINDER PALL CHAHAL",
+        "ALUN ROBERT BARNES",
+        "NICHOLAS IAN CHALLONER"
+    ],
+    "holders": [
+        91881
+    ],
+    "ipcCodes": [
+        "C08G 77/42",
+        "G02B 1/04",
+        "C08H 1/00",
+        "C08F 230/08"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0512001-2",
+    "filingDate": "06/06/2005",
+    "grantDate": null,
+    "title": "APARELHO DE TERMINAL DE COMUNICA\u00c7\u00c3O PARA REALIZAR UMA COMUNICA\u00c7\u00c3O POR R\u00c1DIO COM BASE EM UM APARELHO DE ESTA\u00c7\u00c3O BASE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-173017",
+            "priorityDate": "10/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "AKIHIKO NISHIO"
+    ],
+    "holders": [
+        351422
+    ],
+    "ipcCodes": [
+        "H04W 74/08",
+        "H04W 52/24",
+        "H04W 52/26",
+        "H04W 52/28",
+        "H04W 52/50"
+    ]
+}

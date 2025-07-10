@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0914210-0",
+    "filingDate": "22/06/2009",
+    "grantDate": null,
+    "title": "CONJUNTO PARA UM FILTRO",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2001709",
+            "priorityDate": "20/06/2008"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "PCT/NL2009/000098",
+            "priorityDate": "20/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "HENK VAN SAVOOIJEN",
+        "PIETER VAN GISBERGEN",
+        "RICHARD THEODORUS ANTONIUS ARTS",
+        "MARINUS JOHANNES BEREND VAN BOVEN"
+    ],
+    "holders": [
+        404498
+    ],
+    "ipcCodes": [
+        "B01D 35/147",
+        "B01D 29/15",
+        "B01D 35/31",
+        "B01D 29/96",
+        "B01D 35/153",
+        "B01D 29/23"
+    ]
+}

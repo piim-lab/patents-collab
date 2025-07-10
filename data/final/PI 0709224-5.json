@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0709224-5",
+    "filingDate": "13/03/2007",
+    "grantDate": null,
+    "title": "PROCESSO PARA AJUSTAR UMA UNIDADE DE FORNECIMENTO DE TINTA DE UMA IMPRESSORA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 014 657.3",
+            "priorityDate": "28/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        }
+    ],
+    "inventors": [
+        "THOMAS T\u00dcRKE",
+        "HARALD HEINRICH WILLEKE"
+    ],
+    "holders": [
+        128928
+    ],
+    "ipcCodes": [
+        "B41F 33/00",
+        "B41F 31/04"
+    ]
+}

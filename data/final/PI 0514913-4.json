@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0514913-4",
+    "filingDate": "02/09/2005",
+    "grantDate": "15/01/2019",
+    "title": "SISTEMA PARA CONTROLAR E MONITORAR REMOTAMENTE UM SISTEMA EL\u00c9TRICO E M\u00c9TODO PARA CONTROLE E MONITORAR O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/933,490",
+            "priorityDate": "03/09/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/139,988",
+            "priorityDate": "31/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2754"
+        }
+    ],
+    "inventors": [
+        "RICHARD G ROCAMORA",
+        "VESELIN SKENDZIC"
+    ],
+    "holders": [
+        98713
+    ],
+    "ipcCodes": [
+        "G08C 17/02"
+    ]
+}

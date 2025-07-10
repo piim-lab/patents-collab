@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0908860-1",
+    "filingDate": "10/02/2009",
+    "grantDate": null,
+    "title": "CONECTOR SEPAR\u00c1VEL COM CONTATO DE SUPERF\u00cdCIE REDUZIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/072,498",
+            "priorityDate": "25/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        }
+    ],
+    "inventors": [
+        "DAVID CHARLES HUGHES"
+    ],
+    "holders": [
+        98713
+    ],
+    "ipcCodes": [
+        "H01R 13/53"
+    ]
+}

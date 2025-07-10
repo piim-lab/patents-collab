@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0800201-0",
+    "filingDate": "29/01/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONITORAR MOTORES DE AVI\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 00642",
+            "priorityDate": "30/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        }
+    ],
+    "inventors": [
+        "ALEXANDRE AUSLOOS",
+        "JONATHAN BENITAH",
+        "OLIVIER MAKA",
+        "R\u00c9MI MASSE"
+    ],
+    "holders": [
+        90333
+    ],
+    "ipcCodes": [
+        "G01D 3/08"
+    ]
+}

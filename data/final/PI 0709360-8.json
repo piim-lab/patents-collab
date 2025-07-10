@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0709360-8",
+    "filingDate": "23/03/2007",
+    "grantDate": "09/10/2018",
+    "title": "SISTEMA DE PARTIDA E DE GERA\u00c7\u00c3O PARA UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/785,363",
+            "priorityDate": "24/03/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/452,236",
+            "priorityDate": "14/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "HAO HUANG",
+        "DAVID KARIPIDES",
+        "MOHAMED ABBAS",
+        "DAVID TSUI"
+    ],
+    "holders": [
+        8
+    ],
+    "ipcCodes": [
+        "H02P 9/00",
+        "F02N 11/04"
+    ]
+}

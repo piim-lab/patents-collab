@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0307534-6",
+    "filingDate": "11/02/2003",
+    "grantDate": null,
+    "title": "USO DE UM COPOL\u00cdMERO EM BLOCO, E, EMULS\u00c3O DE \u00c1GUA-EM-\u00d3LEO SIMPLES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/356,066",
+            "priorityDate": "11/02/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/436,939",
+            "priorityDate": "30/12/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "SOPHIE DEROO",
+        "MIKEL MORVAN"
+    ],
+    "holders": [
+        371709
+    ],
+    "ipcCodes": [
+        "B01F 17/00",
+        "C08J 3/09",
+        "C08L 53/00",
+        "C08F 2/32",
+        "C06B 47/14"
+    ]
+}

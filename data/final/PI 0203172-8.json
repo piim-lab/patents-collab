@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0203172-8",
+    "filingDate": "13/08/2002",
+    "grantDate": "23/02/2016",
+    "title": "Composi\u00e7\u00e3o farmac\u00eautica para acondroplasia",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "301586/2001",
+            "priorityDate": "28/09/2001"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "310322/2001",
+            "priorityDate": "05/10/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "KAZUWA NAKAO"
+    ],
+    "holders": [
+        370444
+    ],
+    "ipcCodes": [
+        "A61P 5/00",
+        "C07K 14/58"
+    ]
+}

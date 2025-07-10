@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0817651-5",
+    "filingDate": "10/09/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FORNECIMENTO DE ENERGIA EM UMA AERONAVE COMERCIAL E DISPOSITIVO DE ABASTECIMENTO DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 047 260.0",
+            "priorityDate": "02/10/2007"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 054 291.9",
+            "priorityDate": "14/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2575"
+        }
+    ],
+    "inventors": [
+        "RONNY KNEPPLE",
+        "BENNO PETERSEN",
+        "BERND SPETH"
+    ],
+    "holders": [
+        11520
+    ],
+    "ipcCodes": [
+        "B64D 41/00",
+        "B64D 11/00",
+        "B64D 47/00",
+        "B64D 11/04"
+    ]
+}

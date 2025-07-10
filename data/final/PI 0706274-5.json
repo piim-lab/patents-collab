@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0706274-5",
+    "filingDate": "10/01/2007",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO PARA DETECTAR A LOCALIZA\u00c7\u00c3O DE UM EFEITO MEC\u00c2NICO DO TIPO DE PULSO SOBRE UMA PARTE DE SISTEMA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 004 941.1",
+            "priorityDate": "03/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "PETER JAX",
+        "VOJTECH OCELIK",
+        "JAN ZACH",
+        "BELA BECHTOLD"
+    ],
+    "holders": [
+        108690
+    ],
+    "ipcCodes": [
+        "G01H 1/00"
+    ]
+}

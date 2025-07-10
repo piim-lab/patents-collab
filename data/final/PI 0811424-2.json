@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0811424-2",
+    "filingDate": "31/03/2008",
+    "grantDate": null,
+    "title": "ESTRUTURA DE DADOS, SISTEMA E M\u00c9TODO DE CONHECIMENTO DA NAVEGA\u00c7\u00c3O E DESCOBERTA",
+    "nationalPhaseDate": [
+        "30/09/2009"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2008/004161",
+        "pctDate": "31/03/2008",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/909,072",
+            "priorityDate": "30/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/064,211",
+            "priorityDate": "21/02/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/064,345",
+            "priorityDate": "29/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "MONS ALBERT",
+        "BARRIS NICKOLAS",
+        "CHICHESTER CHRISTINE",
+        "MONS BAREND",
+        "VAN MULLGEN ERIK",
+        "WEBBER MARK"
+    ],
+    "holders": [
+        392336
+    ],
+    "ipcCodes": [
+        "G06F 17/00"
+    ]
+}

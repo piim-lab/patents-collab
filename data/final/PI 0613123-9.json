@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0613123-9",
+    "filingDate": "29/06/2006",
+    "grantDate": "30/10/2018",
+    "title": "ENXERTO SEM C\u00c9LULAS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 030 614.4",
+            "priorityDate": "30/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "MICHAEL SITTINGER",
+        "ESZTER T\u00c1NCZOS",
+        "CHRISTIAN KAPS"
+    ],
+    "holders": [
+        380642
+    ],
+    "ipcCodes": [
+        "A61F 2/08",
+        "A61L 27/36"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0912288-5",
+    "filingDate": "30/04/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA REVESTIMENTO DE BOBINAS MET\u00c1LICAS.",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 025 514.9",
+            "priorityDate": "28/05/2008"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 059 014.2",
+            "priorityDate": "26/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        }
+    ],
+    "inventors": [
+        "MARKUS HICKL",
+        "ALEXANDRA STEFFENS"
+    ],
+    "holders": [
+        80549
+    ],
+    "ipcCodes": [
+        "B05D 7/00"
+    ]
+}

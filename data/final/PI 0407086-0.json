@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0407086-0",
+    "filingDate": "30/01/2004",
+    "grantDate": "13/10/2021",
+    "title": "DISPOSITIVO DE LIBERA\u00c7\u00c3O DE MEDICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/443,826",
+            "priorityDate": "30/01/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "PAUL G ALCHAS",
+        "PETER W HEYMAN",
+        "MARINA S KORISCH",
+        "WILLIAM EASTERBROOK",
+        "ROBERT WEST",
+        "TODD CHELAK"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "A61M 5/32"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0721230-5",
+    "filingDate": "20/06/2007",
+    "grantDate": "28/05/2019",
+    "title": "DISPOSITIVO DE DISPENSA\u00c7\u00c3O PARA RECIPIENTES PRESSURIZADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "PD2007A000025",
+            "priorityDate": "31/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "MAURO CITTERIO",
+        "LUCIANO OTTANELLI"
+    ],
+    "holders": [
+        388419
+    ],
+    "ipcCodes": [
+        "A61B 18/02",
+        "A61M 35/00"
+    ]
+}

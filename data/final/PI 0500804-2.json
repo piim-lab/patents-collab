@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0500804-2",
+    "filingDate": "07/03/2005",
+    "grantDate": null,
+    "title": "PROCESSO PARA FABRICAR UM RECIPIENTE A PARTIR DE UM POL\u00cdMERO DE POLI\u00c9STER (ES)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/795783",
+            "priorityDate": "08/03/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "FREDERICK LESLIE COLHOUN",
+        "MICHAEL PAUL EKART",
+        "MARY THERESE JERNIGAN",
+        "STEPHEN WEINHOLD"
+    ],
+    "holders": [
+        96016
+    ],
+    "ipcCodes": [
+        "C08G 63/181"
+    ]
+}

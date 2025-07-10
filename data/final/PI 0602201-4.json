@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0602201-4",
+    "filingDate": "14/06/2006",
+    "grantDate": "02/07/2019",
+    "title": "ROLO, ASSIM COMO, UM ANEL PARA TAL ROLO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0501387-5",
+            "priorityDate": "17/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "GLEIZER JORGE",
+        "KAYHAN MENDERES",
+        "KARLSSON JAN"
+    ],
+    "holders": [
+        1170
+    ],
+    "ipcCodes": [
+        "B21B 27/02",
+        "B21H 8/02"
+    ]
+}

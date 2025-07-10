@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0812378-0",
+    "filingDate": "06/06/2008",
+    "grantDate": "15/01/2019",
+    "title": "LUMIN\u00c1RIA PARA ILUMINAR UM OBJETO REMOTO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/758952",
+            "priorityDate": "06/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "GERARD HARBERS",
+        "SERGE HUIZEN"
+    ],
+    "holders": [
+        79434,
+        381039
+    ],
+    "ipcCodes": [
+        "F21V 13/10"
+    ]
+}

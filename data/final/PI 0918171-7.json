@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0918171-7",
+    "filingDate": "10/08/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO CONVERSOR E ALIMENTA\u00c7\u00c3O SEM INTERUP\u00c7\u00c3O EQUIPADA COM ESSE DISPOSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "08/05013",
+            "priorityDate": "12/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "CORENTIN RIZET",
+        "ALAIN LACARNOY",
+        "PAUL FERRIEUX"
+    ],
+    "holders": [
+        406640
+    ],
+    "ipcCodes": [
+        "H02M 7/155"
+    ]
+}

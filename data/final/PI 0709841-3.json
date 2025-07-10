@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0709841-3",
+    "filingDate": "21/09/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE APLICA\u00c7\u00c3O DE BARRA DE MANDRIL REVESTIDA DE CR PARA LAMINA\u00c7\u00c3O A QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-154311",
+            "priorityDate": "11/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        }
+    ],
+    "inventors": [
+        "SUMIO IIDA"
+    ],
+    "holders": [
+        188
+    ],
+    "ipcCodes": [
+        "B21B 25/00",
+        "B21B 25/06"
+    ]
+}

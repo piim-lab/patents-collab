@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0816683-8",
+    "filingDate": "05/09/2008",
+    "grantDate": "04/09/2018",
+    "title": "MA\u00c7ANETA DE SEGURAN\u00c7A PARA VE\u00cdCULOS.",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2007A001748",
+            "priorityDate": "11/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "SAVANT FIORENZO",
+        "SILVANO ROSSINELLI"
+    ],
+    "holders": [
+        394781
+    ],
+    "ipcCodes": [
+        "E05B 85/16",
+        "E05B 77/06"
+    ]
+}

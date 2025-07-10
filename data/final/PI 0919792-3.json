@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0919792-3",
+    "filingDate": "14/10/2009",
+    "grantDate": "10/03/2020",
+    "title": "M\u00c1QUINA EL\u00c9TRICA ROTATIVA E VE\u00cdCULO EL\u00c9TRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-266952",
+            "priorityDate": "16/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "YASUYUKI SAITO",
+        "TSUYOSHI GOTO",
+        "KENICHI NAKAYAMA",
+        "NORIAKI HINO",
+        "SHINJI SUGIMOTO"
+    ],
+    "holders": [
+        107180
+    ],
+    "ipcCodes": [
+        "B60W 20/00",
+        "H02K 1/27",
+        "H02P 21/00",
+        "H02P 27/06",
+        "B60W 10/08",
+        "B60K 6/54",
+        "H02K 1/22",
+        "H02P 27/04",
+        "B60K 6/445",
+        "B60L 11/14"
+    ]
+}

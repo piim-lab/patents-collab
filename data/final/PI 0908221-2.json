@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "PI 0908221-2",
+    "filingDate": "18/02/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR UMA FORMULA\u00c7\u00c3O FARMAC\u00caUTICA DE AGENTES DE CONTRASTE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0851055",
+            "priorityDate": "19/02/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08154745.7",
+            "priorityDate": "17/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/155,997",
+            "priorityDate": "12/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "7.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "DOMINIQUE MEYER",
+        "CLAIRE COROT",
+        "MARC PORT",
+        "VINCENT BARBOTIN",
+        "BRUNO BONNEMAIN"
+    ],
+    "holders": [
+        165015
+    ],
+    "ipcCodes": [
+        "A61K 49/06"
+    ]
+}

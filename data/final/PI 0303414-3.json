@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0303414-3",
+    "filingDate": "21/08/2003",
+    "grantDate": "25/09/2018",
+    "title": "M\u00c9TODO PARA PROPORCIONAR UM SERVI\u00c7O DE TELEFONIA SEM FIO PARA UM USU\u00c1RIO DE TERMINAL M\u00d3VEL A PARTIR DE MECANISMOS DE ACESSO POR R\u00c1DIO E REDE DE COMUNICA\u00c7\u00d5ES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/224.911",
+            "priorityDate": "21/08/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.14",
+            "description": "Notifica\u00e7\u00e3o de Decis\u00e3o Judicial",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.2.4.1",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.2.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "SHAILY VERMA",
+        "GUILLAUME BICHOT"
+    ],
+    "holders": [
+        370199
+    ],
+    "ipcCodes": [
+        "H04L 12/66"
+    ]
+}

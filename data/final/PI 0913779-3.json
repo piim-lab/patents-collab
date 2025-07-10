@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0913779-3",
+    "filingDate": "31/08/2009",
+    "grantDate": null,
+    "title": "Processo para ligar um agente modificador numa superf\u00edcie de substrato",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/101,469",
+            "priorityDate": "30/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        }
+    ],
+    "inventors": [
+        "JAMES W MCMICHAEL",
+        "JOERG THEUERKAUF",
+        "BRUCE D HOOK",
+        "MALCOLM F FINLAYSON"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "C08J 3/22",
+        "C08K 5/43",
+        "C08J 3/205"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0818624-3",
+    "filingDate": "14/10/2008",
+    "grantDate": "26/03/2019",
+    "title": "DETECTOR DE VAZAMENTO DE G\u00c1S E M\u00c9TODO PARA A DETEC\u00c7\u00c3O DE VAZAMENTO DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2007 01497",
+            "priorityDate": "17/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "ERIK JENSEN",
+        "CHRESTEN BUGGE SKJODT"
+    ],
+    "holders": [
+        8459
+    ],
+    "ipcCodes": [
+        "G01M 3/00"
+    ]
+}

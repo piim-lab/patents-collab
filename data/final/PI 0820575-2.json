@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0820575-2",
+    "filingDate": "14/11/2008",
+    "grantDate": null,
+    "title": "M\u00e9todo para sequestrar um g\u00e1s de efeito estufa",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/988,122",
+            "priorityDate": "15/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "RICHARD E RIMAN",
+        "VAHIT ATAKAN"
+    ],
+    "holders": [
+        122674
+    ],
+    "ipcCodes": [
+        "B01D 53/62",
+        "C01F 11/18",
+        "B01D 53/73"
+    ]
+}

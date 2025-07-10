@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0512736-0",
+    "filingDate": "30/06/2005",
+    "grantDate": null,
+    "title": "N\u00facleo para um disco artificial para substituir o disco natural de uma espinha humana",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/584,240",
+            "priorityDate": "30/06/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/658,161",
+            "priorityDate": "04/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "NEIL DUGGAL",
+        "LOUISE RAYMOND",
+        "DANIEL R BAKER",
+        "ROBERT CONTA",
+        "CARLY A THALER",
+        "DAVID T STINSON"
+    ],
+    "holders": [
+        376682
+    ],
+    "ipcCodes": [
+        "A61F 2/44"
+    ]
+}

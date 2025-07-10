@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "PI 0419345-8",
+    "filingDate": "21/04/2004",
+    "grantDate": "22/12/2020",
+    "title": "COMPOSTOS, COMPOSI\u00c7\u00d5ES E USOS PARA O TRATAMENTO DE UMA INFEC\u00c7\u00c3O POR FLAVIVIRIDAE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/474,368",
+            "priorityDate": "30/05/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/04/2004",
+        "applicationNumber": "PI 0410846-9"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "JEREMY CLARK"
+    ],
+    "holders": [
+        100280
+    ],
+    "ipcCodes": [
+        "C07H 19/00"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0517511-9",
+    "filingDate": "01/09/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REDUZIR A FALHA NO PROCEDIMENTO DE COMUNICA\u00c7\u00c3O SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/974,625",
+            "priorityDate": "27/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        }
+    ],
+    "inventors": [
+        "STEPHEN A HOWELL",
+        "PRASHANTI DAS",
+        "SRIKISHNA M R"
+    ],
+    "holders": [
+        79883
+    ],
+    "ipcCodes": [
+        "H04W 76/18"
+    ]
+}

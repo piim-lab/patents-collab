@@ -1,0 +1,93 @@
+{
+    "applicationNumber": "PI 0820953-7",
+    "filingDate": "08/12/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA PREPARAR UM COMPOSTO E UMA COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/012408",
+            "priorityDate": "07/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/012411",
+            "priorityDate": "07/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/012409",
+            "priorityDate": "07/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/080048",
+            "priorityDate": "11/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "ROCH BOIVIN",
+        "SILVIO A CAMPAGNA",
+        "HONG DU",
+        "FRANCIS G FANG",
+        "THOMAS HORSTMANN",
+        "ANDR\u00c9 LEMELIN",
+        "JING LI",
+        "PAMELA MCGUINNESS",
+        "XIANG NIU",
+        "MATTHEW J SCHNADERBECK",
+        "KEVIN KUO",
+        "XIAOJIE JEFF ZHU"
+    ],
+    "holders": [
+        82715
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 35/00",
+        "A61P 37/00",
+        "C07D 493/04",
+        "C07D 319/08",
+        "C07D 317/24",
+        "C07D 313/00",
+        "C07D 317/22",
+        "C07C 69/767"
+    ]
+}

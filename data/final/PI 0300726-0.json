@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0300726-0",
+    "filingDate": "20/03/2003",
+    "grantDate": "27/11/2018",
+    "title": "M\u00c9TODO E APARELHO PARA A PRODU\u00c7\u00c3O DE \u00c1CIDO POLIACR\u00cdLICO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2002-78678",
+            "priorityDate": "20/03/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        }
+    ],
+    "inventors": [
+        "YUKIHIRO MATSUMOTO",
+        "SEI NAKAHARA",
+        "KUNIHIKO ISHIZAKI"
+    ],
+    "holders": [
+        82432
+    ],
+    "ipcCodes": [
+        "C08F 20/06",
+        "C07C 51/25"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0609305-1",
+    "filingDate": "13/04/2006",
+    "grantDate": "26/12/2018",
+    "title": "CABE\u00c7A DE PERFURA\u00c7\u00c3O DE AMPOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0507711.0",
+            "priorityDate": "15/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "ROGER WILLIAM CLARKE",
+        "STEPHEN WILLIAM EASON",
+        "QUENTIN JOHN HARMER",
+        "ANDREAS MARK MELINIOTIS"
+    ],
+    "holders": [
+        115463
+    ],
+    "ipcCodes": [
+        "A61M 15/00"
+    ]
+}

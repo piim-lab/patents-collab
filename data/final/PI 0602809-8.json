@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0602809-8",
+    "filingDate": "17/07/2006",
+    "grantDate": null,
+    "title": "SISTEMA DE UMA M\u00c1QUINA DE CLIPES E UM ESTOQUE DE CLIPES E PROCESSO PARA A OPERA\u00c7\u00c3O DE UMA M\u00c1QUINA DE CLIPES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102005033437.7",
+            "priorityDate": "18/07/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "DETLEF EBERT"
+    ],
+    "holders": [
+        2118
+    ],
+    "ipcCodes": [
+        "G06K 7/10",
+        "B65B 57/04",
+        "B25C 5/00"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0617775-1",
+    "filingDate": "25/10/2006",
+    "grantDate": "22/10/2019",
+    "title": "SISTEMA DE LIBERA\u00c7\u00c3O  DE  MEDICAMENTO  PARTICULADOS  E  SEU  PROCESSO DE PRODU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 051 366.2",
+            "priorityDate": "25/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "MATTHIAS SEILER",
+        "NORBERT WINDHAB",
+        "MANFRED STICKLER",
+        "ULRICH PETEREIT"
+    ],
+    "holders": [
+        79975
+    ],
+    "ipcCodes": [
+        "A61K 9/14",
+        "A61K 9/16",
+        "A61K 47/34",
+        "A61K 47/59",
+        "A61K 47/62"
+    ]
+}

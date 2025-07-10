@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 1103916-7",
+    "filingDate": "18/08/2011",
+    "grantDate": "20/10/2020",
+    "title": "GERADOR DE 68Ga",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 037 964.6",
+            "priorityDate": "05/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "25.11",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "KONSTANTIN ZHERNOSEKOV",
+        "TUOMO NIKULA"
+    ],
+    "holders": [
+        91025
+    ],
+    "ipcCodes": [
+        "A61K 51/12",
+        "G21G 1/00"
+    ]
+}

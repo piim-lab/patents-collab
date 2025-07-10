@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0907615-8",
+    "filingDate": "09/01/2009",
+    "grantDate": "19/05/2020",
+    "title": "SISTEMA DE ISOLAMENTO DE UMA TENS\u00c3O M\u00c9DIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/019,962",
+            "priorityDate": "09/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/019,994",
+            "priorityDate": "09/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/349,935",
+            "priorityDate": "07/01/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "ALBERT ROC",
+        "PETER WILLARD HAMMOND"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H01F 27/06",
+        "H02B 13/02",
+        "H01F 38/14",
+        "H01F 27/02",
+        "H01F 27/36",
+        "H01F 27/40"
+    ]
+}

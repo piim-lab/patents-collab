@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0415988-8",
+    "filingDate": "18/10/2004",
+    "grantDate": "21/11/2018",
+    "title": "COMPOSI\u00c7\u00c3O ALVEJANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0325432.3",
+            "priorityDate": "31/10/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "RONALD HAGE",
+        "JOACHIM LIENKE",
+        "PATRICIA VEERMAN"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "C11D 3/16",
+        "C07D 471/08"
+    ]
+}

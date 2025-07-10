@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0816624-2",
+    "filingDate": "08/10/2008",
+    "grantDate": null,
+    "title": "SAPATA DE TRILHO FERROVI\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0719900.3",
+            "priorityDate": "11/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        }
+    ],
+    "inventors": [
+        "STEPHEN JOHN COX",
+        "ROBERT JOHN HAMILTON"
+    ],
+    "holders": [
+        82750
+    ],
+    "ipcCodes": [
+        "E01B 9/68"
+    ]
+}

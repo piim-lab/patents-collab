@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 9909018-0",
+    "filingDate": "22/03/1999",
+    "grantDate": "09/04/2019",
+    "title": "PROCESSO PARA A S\u00cdNTESE DE UM PEPT\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/045920",
+            "priorityDate": "23/03/1998"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/071877",
+            "priorityDate": "01/05/1998"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "CHOL KANG",
+        "BRIAN BRAY",
+        "MAYNARD LICHTY",
+        "CATHERINE MADER",
+        "GENE MERUTKA"
+    ],
+    "holders": [
+        420342
+    ],
+    "ipcCodes": [
+        "A61K 38/00",
+        "C07K 17/00",
+        "C07K 16/00",
+        "C07K 7/00",
+        "C07K 5/00"
+    ]
+}

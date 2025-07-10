@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0709855-3",
+    "filingDate": "02/04/2007",
+    "grantDate": null,
+    "title": "TURBINA E\u00d3LICA CONTROLADA POR PASSO E M\u00c9TODO PELO QUAL UMA PRIMEIRA L\u00c2MINA DE UMA TURBINA EXISTENTE \u00c9 REMOVIDA E SUBSTITU\u00cdDA POR UMA OUTRA L\u00c2MINA",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "1031492",
+            "priorityDate": "02/04/2006"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "N2000302",
+            "priorityDate": "03/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "GUSTAVE PAUL CORTEN"
+    ],
+    "holders": [
+        96024
+    ],
+    "ipcCodes": [
+        "F03D 7/02",
+        "F03D 1/06",
+        "F03D 80/00"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0611194-7",
+    "filingDate": "26/05/2006",
+    "grantDate": null,
+    "title": "MOL\u00c9CULAS DE LIGA\u00c7\u00c3O ANTI-CD16",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0510790.9",
+            "priorityDate": "26/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "KARIN HOFFMANN",
+        "SERGEJ KIPRIJANOV",
+        "STEFAN HANS JOACHIM KNACKMUSS",
+        "FABRICE LE GALL",
+        "MELVYN LITTLE",
+        "UWE REUSCH"
+    ],
+    "holders": [
+        169951
+    ],
+    "ipcCodes": [
+        "C07K 16/18",
+        "C07K 16/28",
+        "A61K 47/68"
+    ]
+}

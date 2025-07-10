@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0515623-8",
+    "filingDate": "29/08/2005",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO PARA A GERA\u00c7\u00c3O DE UM SINAL MULTICANAIS CODIFICADO E DISPOSITIVO E M\u00c9TODO PARA A DECODIFICA\u00c7\u00c3O DE UM SINAL MULTICANAIS CODIFICADO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102004042819.0",
+            "priorityDate": "03/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "HERRE J\u00dcRGEN",
+        "SPERSCHNEIDER RALPH",
+        "HILPERT JOHANNES",
+        "LINZMEIER KARSTEN",
+        "POPP HARALD"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "G10L 19/008"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "PI 0816174-7",
+    "filingDate": "18/08/2008",
+    "grantDate": null,
+    "title": "APARELHO DE PERFURA\u00c7\u00c3O COM COLUNA DE PERFURA\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "560994",
+            "priorityDate": "28/08/2007"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "564292",
+            "priorityDate": "13/12/2007"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "567852",
+            "priorityDate": "29/04/2008"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "569675",
+            "priorityDate": "07/07/2008"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "569715",
+            "priorityDate": "08/07/2008"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "560994/564292/567852",
+            "priorityDate": "05/08/2008"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "569675/569715",
+            "priorityDate": "05/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "PETER EVAN POWELL",
+        "GREGORY DONALD WEST"
+    ],
+    "holders": [
+        106006
+    ],
+    "ipcCodes": [
+        "E21B 7/00",
+        "E21B 7/24",
+        "B06B 1/12",
+        "E02D 7/18",
+        "E21B 6/00",
+        "E21B 1/22",
+        "E21B 4/16"
+    ]
+}

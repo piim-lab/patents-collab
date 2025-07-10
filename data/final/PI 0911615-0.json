@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0911615-0",
+    "filingDate": "30/04/2009",
+    "grantDate": null,
+    "title": "GRAMPO PARA COLUNA DE ASCENS\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/049.054",
+            "priorityDate": "30/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "TRAVIS L SESSIONS",
+        "GARY W SCHRODER",
+        "TYLER B MINER",
+        "LARRY G COBB"
+    ],
+    "holders": [
+        33048
+    ],
+    "ipcCodes": [
+        "E21B 17/10"
+    ]
+}

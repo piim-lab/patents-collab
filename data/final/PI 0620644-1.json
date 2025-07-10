@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0620644-1",
+    "filingDate": "22/12/2006",
+    "grantDate": "18/12/2018",
+    "title": "DISPOSITIVO DE RESFRIAMENTO POR EVAPORA\u00c7\u00c3O E RESFRIADOR POR EVAPORA\u00c7\u00c3O COMPREENDENDO UM DISPOSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "05 26569.9",
+            "priorityDate": "30/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "PAUL MAGNUS CLARKSON",
+        "ANDREAS JACOBUS LOUIS NIJSEN",
+        "JOHANNES ANTONIUS MARIA REINDERS"
+    ],
+    "holders": [
+        136857
+    ],
+    "ipcCodes": [
+        "F28D 5/00"
+    ]
+}

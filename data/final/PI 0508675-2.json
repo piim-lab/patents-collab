@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0508675-2",
+    "filingDate": "11/03/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA  ALOCAR PADR\u00d5ES DE ENTRELA\u00c7AMENTO DO SINAL SUB-CANAL PARA ESTA\u00c7\u00d5ES BASE",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0017065",
+            "priorityDate": "12/03/2004"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0025145",
+            "priorityDate": "12/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        }
+    ],
+    "inventors": [
+        "HEE CHO",
+        "HO JEON",
+        "HOON SUNG",
+        "HO JANG",
+        "SEOK HWANG",
+        "HOON HUH",
+        "HEON KIM",
+        "JOO MAENG",
+        "YOUNG YOON"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04L 27/26"
+    ]
+}

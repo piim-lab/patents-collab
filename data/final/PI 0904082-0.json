@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0904082-0",
+    "filingDate": "19/10/2009",
+    "grantDate": null,
+    "title": "CIRCUITO DE ACIONAMENTO DE MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/256,466",
+            "priorityDate": "22/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        }
+    ],
+    "inventors": [
+        "ROBERT DEAN KING",
+        "ROBERT L STEIGERWALD"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "H02J 15/00",
+        "H02J 7/00",
+        "H02P 27/06",
+        "H02M 3/04"
+    ]
+}

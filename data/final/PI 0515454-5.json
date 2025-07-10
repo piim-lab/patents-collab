@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0515454-5",
+    "filingDate": "16/09/2005",
+    "grantDate": null,
+    "title": "SISTEMA DE INFUS\u00c3O, M\u00c9TODO DE INFUS\u00c3O DE UM SEGUNDO INFUSATO EM UM PACIENTE E M\u00c9TODO DE INFUS\u00c3O DE UM ULTRA-FILTRADO EM UM PACIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/943,761",
+            "priorityDate": "17/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "STEPHEN J BOLLISH",
+        "TIMOTHY W VANDERVEEN"
+    ],
+    "holders": [
+        79497
+    ],
+    "ipcCodes": [
+        "A61M 5/168"
+    ]
+}

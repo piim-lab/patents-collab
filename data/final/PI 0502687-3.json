@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0502687-3",
+    "filingDate": "06/07/2005",
+    "grantDate": "07/05/2019",
+    "title": "M\u00c9TODO PARA A REFORMA DE UMA C\u00c2MARA DE COMBUST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/901,262",
+            "priorityDate": "27/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "JAMES M CALDWELL",
+        "EDWARD JOHN EMILIANOWICZ",
+        "GARY LOVELESS"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "F02C 7/00",
+        "B23P 15/00",
+        "B23P 6/00",
+        "F23R 3/60"
+    ]
+}

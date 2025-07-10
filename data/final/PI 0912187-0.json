@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0912187-0",
+    "filingDate": "01/05/2009",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O BASE DE R\u00c1DIO E M\u00c9TODO DE CONTROLE DE COMUNICA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "03/11/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2009/058588",
+        "pctDate": "01/05/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-120789",
+            "priorityDate": "02/05/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-120790",
+            "priorityDate": "02/05/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-207511",
+            "priorityDate": "11/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI ISHII",
+        "ANIL UMESH"
+    ],
+    "holders": [
+        87815
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04J 11/00",
+        "H04W 72/12",
+        "H04J 1/00"
+    ]
+}

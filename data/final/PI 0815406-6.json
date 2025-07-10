@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0815406-6",
+    "filingDate": "12/08/2008",
+    "grantDate": "13/10/2020",
+    "title": "Aparelho de transmiss\u00e3o por r\u00e1dio e m\u00e9todo de transmiss\u00e3o por r\u00e1dio",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-211101",
+            "priorityDate": "13/08/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-280797",
+            "priorityDate": "29/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "SEIGO NAKAO",
+        "DAICHI IMAMURA",
+        "YOSHIHIKO OGAWA",
+        "ATSUSHI MATSUMOTO",
+        "KATSUHIKO HIRAMATSU"
+    ],
+    "holders": [
+        351422
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04L 5/00",
+        "H04B 1/7075",
+        "H04J 11/00",
+        "H04L 1/16",
+        "H04J 13/00"
+    ]
+}

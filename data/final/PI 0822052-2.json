@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0822052-2",
+    "filingDate": "15/12/2008",
+    "grantDate": "27/08/2019",
+    "title": "SISTEMA PARA PREPARAR UMA BEBIDA A PARTIR DE INGREDIENTES SUPORTADOS POR UMA INSER\u00c7\u00c3O CODIFICADA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07123472.8",
+            "priorityDate": "18/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2545"
+        }
+    ],
+    "inventors": [
+        "ROMAN LEUZINGER",
+        "RALPH KUGLER",
+        "ENZO BONACCI",
+        "LUC DENISART",
+        "CHRISTIAN TALON",
+        "HANSPETER PLEISCH"
+    ],
+    "holders": [
+        79149
+    ],
+    "ipcCodes": [
+        "A47J 31/36"
+    ]
+}

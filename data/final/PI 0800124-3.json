@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0800124-3",
+    "filingDate": "07/02/2008",
+    "grantDate": null,
+    "title": "MOTOR DE COMBUST\u00c3O INTERNA E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-031186",
+            "priorityDate": "09/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "TOSHINORI INOMORI"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "F02F 1/42",
+        "F02F 1/26"
+    ]
+}

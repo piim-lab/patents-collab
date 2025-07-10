@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 1011449-1",
+    "filingDate": "07/05/2010",
+    "grantDate": null,
+    "title": "ACIONADOR DE FECHO MAGN\u00c9TICO E RESPECTIVO M\u00c9TODO DE OPERA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/437,596",
+            "priorityDate": "08/05/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "MICHAEL R BROWN",
+        "WILLIAM R MAZZ JR",
+        "OLIVER BURSTALL",
+        "ANDREW DAMES"
+    ],
+    "holders": [
+        95390
+    ],
+    "ipcCodes": [
+        "H01F 7/16",
+        "H01H 36/00"
+    ]
+}

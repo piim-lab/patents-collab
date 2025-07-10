@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0111470-0",
+    "filingDate": "31/05/2001",
+    "grantDate": "12/07/2011",
+    "title": "DISPOSITIVO M\u00c9DICO OPER\u00c1VEL EM ASSOCIA\u00c7\u00c3O COM UM RECIPIENTE DE FLUIDO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/588151",
+            "priorityDate": "05/06/2000"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "THOR R HALSETH",
+        "ROBERT T MCWETHY",
+        "MICHAEL J BOTICH"
+    ],
+    "holders": [
+        369965
+    ],
+    "ipcCodes": [
+        "A61M 5/00"
+    ]
+}

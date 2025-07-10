@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0614200-1",
+    "filingDate": "18/05/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE INFORMA\u00c7\u00d5ES DE PROGRAMA\u00c7\u00c3O EM UM SISTEMA DE COMUNICA\u00c7\u00c3O QUANDO DA MUDAN\u00c7A DE UMA C\u00c9LULA SERVIDORA; SISTEMA DE COMUNICA\u00c7\u00c3O; E M\u00c9TODO PARA PROGRAMAR INFORMA\u00c7\u00d5ES EM UM SISTEMA DE COMUNICA\u00c7\u00c3O QUANDO DE UMA MUDAN\u00c7A DE C\u00c9LULA SERVIDORA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/695,873",
+            "priorityDate": "05/07/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "BENOIST S\u00c9BIRE"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04L 29/08",
+        "H04W 72/12",
+        "H04W 36/08",
+        "H04W 36/18"
+    ]
+}

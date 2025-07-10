@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0817204-8",
+    "filingDate": "21/09/2008",
+    "grantDate": "19/02/2019",
+    "title": "FECHADURA PARA VE\u00cdCULO A MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2007 013 330.8",
+            "priorityDate": "21/09/2007"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 054 440.7",
+            "priorityDate": "13/11/2007"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 018 500.0",
+            "priorityDate": "10/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "SIMON BROSE",
+        "ROMAN JOSCHKO",
+        "DAVID ROSALES",
+        "STEFANIC JOSIP",
+        "ABDELALI EL HAMOUMI"
+    ],
+    "holders": [
+        150683
+    ],
+    "ipcCodes": [
+        "E05B 81/90",
+        "E05B 15/16",
+        "E05B 81/06",
+        "E05B 15/04",
+        "E05B 85/02",
+        "E05B 85/26",
+        "E05B 77/30",
+        "E05B 77/28",
+        "E05B 81/14",
+        "E05B 77/26",
+        "E05B 81/62"
+    ]
+}

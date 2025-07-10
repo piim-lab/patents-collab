@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0519239-0",
+    "filingDate": "22/12/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA INJETAR FLUIDO EM UM PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/593,216",
+            "priorityDate": "22/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "THOMAS G HILL",
+        "JEFFREY L BOLDING",
+        "DAVID R SMITH"
+    ],
+    "holders": [
+        372395
+    ],
+    "ipcCodes": [
+        "E21B 27/00"
+    ]
+}

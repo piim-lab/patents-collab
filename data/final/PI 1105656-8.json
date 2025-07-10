@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 1105656-8",
+    "filingDate": "22/11/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO DE COMUNICA\u00c7\u00c3O, E , M\u00cdDIA DE ARMAZENAMENTO N\u00c3O TEMPOR\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "P2010-264716",
+            "priorityDate": "29/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "KATSUYUKI TERUYAMA"
+    ],
+    "holders": [
+        326
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04W 4/80",
+        "H04B 5/00"
+    ]
+}

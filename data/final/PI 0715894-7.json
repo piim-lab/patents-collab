@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0715894-7",
+    "filingDate": "16/08/2007",
+    "grantDate": "02/10/2018",
+    "title": "SISTEMA  E M\u00c9TODO DE SEGURAN\u00c7A DO AR RESPIR\u00c1VEL CONTENDO UM SUBSISTEMA DE ARMAZENAMENTO DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/505,538",
+            "priorityDate": "16/08/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/505,708",
+            "priorityDate": "16/08/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/505,597",
+            "priorityDate": "16/08/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/505,599",
+            "priorityDate": "16/08/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/505,525",
+            "priorityDate": "16/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2804"
+        }
+    ],
+    "inventors": [
+        "ANTHONY J TURIELLO"
+    ],
+    "holders": [
+        386686
+    ],
+    "ipcCodes": [
+        "A61M 16/00",
+        "A61B 17/04",
+        "A61G 10/00",
+        "A62B 15/00",
+        "A62B 13/00"
+    ]
+}

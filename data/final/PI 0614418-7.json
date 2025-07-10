@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0614418-7",
+    "filingDate": "17/08/2006",
+    "grantDate": "10/07/2018",
+    "title": "RECIPIENTE DE L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-236929",
+            "priorityDate": "17/08/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-236930",
+            "priorityDate": "17/08/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-198547",
+            "priorityDate": "20/07/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-198548",
+            "priorityDate": "20/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "HITOSHI MATSUMOTO",
+        "HITOTOSHI KIMURA"
+    ],
+    "holders": [
+        3209
+    ],
+    "ipcCodes": [
+        "B41J 2/175"
+    ]
+}

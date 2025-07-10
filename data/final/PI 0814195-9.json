@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0814195-9",
+    "filingDate": "04/07/2008",
+    "grantDate": null,
+    "title": "SUPLEMENTA\u00c7\u00c3O DE DIETA MATERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 111871.5",
+            "priorityDate": "05/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "SEPPO SALMINEN",
+        "ERIKA ISOLAURI",
+        "KIRSI LAITINEN"
+    ],
+    "holders": [
+        81850
+    ],
+    "ipcCodes": [
+        "A61P 3/00",
+        "A61P 3/10",
+        "A61K 35/74"
+    ]
+}

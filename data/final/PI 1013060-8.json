@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 1013060-8",
+    "filingDate": "18/05/2010",
+    "grantDate": null,
+    "title": "TRANSMISS\u00c3O DE RELA\u00c7\u00c3O CONTINUAMENTE VARI\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0908581.2",
+            "priorityDate": "19/05/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "PHILIP DUNCAN WINTER"
+    ],
+    "holders": [
+        97747
+    ],
+    "ipcCodes": [
+        "F16H 37/08"
+    ]
+}

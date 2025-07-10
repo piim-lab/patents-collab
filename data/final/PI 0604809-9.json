@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0604809-9",
+    "filingDate": "17/11/2006",
+    "grantDate": "07/08/2018",
+    "title": "Sistema cir\u00fargico e fita cir\u00fargica dimensionada e formatada para ser recebida em uma parte de recep\u00e7\u00e3o de fita de um console cir\u00fargico",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/281,751",
+            "priorityDate": "17/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER N ARTSYUKHOVICH",
+        "MIKHAIL BOUKHNY",
+        "RAPHAEL GORDON",
+        "GARY P SORENSEN",
+        "DAVID THOE",
+        "RALPH E SVETIC",
+        "MICHAEL YADLOWSKY"
+    ],
+    "holders": [
+        12581
+    ],
+    "ipcCodes": [
+        "A61B 17/00"
+    ]
+}

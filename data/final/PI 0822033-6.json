@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0822033-6",
+    "filingDate": "16/12/2008",
+    "grantDate": "11/12/2018",
+    "title": "COMPOSTO OU SAL DO MESMO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, USO DE UM COMPOSTO OU SAL, E, KIT",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/014,242",
+            "priorityDate": "17/12/2007"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08101961.4",
+            "priorityDate": "25/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHE PIERRE ALAIN CHASSAING",
+        "J\u00d6RG SCHR\u00d6DER",
+        "THOMAS SIMON ILG",
+        "MANFRED UPHOFF",
+        "THORSTEN MEYER"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A61P 33/10",
+        "A61K 31/496",
+        "C07D 211/26",
+        "C07D 487/08",
+        "C07D 211/60",
+        "C07D 295/108"
+    ]
+}

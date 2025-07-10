@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0315812-8",
+    "filingDate": "28/10/2003",
+    "grantDate": null,
+    "title": "SISTEMA TERMODIN\u00c2MICO E M\u00c9TODO DE UTILIZAR O SISTEMA TERMODIN\u00c2MICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/421,737",
+            "priorityDate": "28/10/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/602,022",
+            "priorityDate": "24/06/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "EDWARD J KROLICZEK",
+        "MICHAEL NIKITKIN",
+        "DAVID A WOLF"
+    ],
+    "holders": [
+        372574
+    ],
+    "ipcCodes": [
+        "F28D 15/04"
+    ]
+}

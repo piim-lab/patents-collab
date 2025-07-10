@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0923949-9",
+    "filingDate": "23/12/2009",
+    "grantDate": "26/02/2019",
+    "title": "PROCESSO DE RECUPERA\u00c7\u00c3O DE HIDROCARBONETOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/193,925",
+            "priorityDate": "08/01/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "PATRICK LEE MCGUIRE",
+        "EUTHIMIOS VITTORATOS"
+    ],
+    "holders": [
+        80865
+    ],
+    "ipcCodes": [
+        "C09K 8/58"
+    ]
+}

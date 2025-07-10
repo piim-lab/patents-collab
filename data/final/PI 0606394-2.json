@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "PI 0606394-2",
+    "filingDate": "06/01/2006",
+    "grantDate": "22/04/2020",
+    "title": "CONJUNTO DE DUTO DE PORTA PARA REFRIGERADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0001378",
+            "priorityDate": "06/01/2005"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0007449",
+            "priorityDate": "27/01/2005"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0007442",
+            "priorityDate": "27/01/2005"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0007451",
+            "priorityDate": "27/01/2005"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0008113",
+            "priorityDate": "28/01/2005"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0008112",
+            "priorityDate": "28/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        }
+    ],
+    "inventors": [
+        "HYUN KIM",
+        "WON KIM",
+        "HYEONG",
+        "HAE LYONG GU",
+        "JIN CHOI"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "F25D 23/02"
+    ]
+}

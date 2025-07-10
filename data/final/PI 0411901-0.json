@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0411901-0",
+    "filingDate": "23/06/2004",
+    "grantDate": "02/04/2019",
+    "title": "Multiparticulados extrudados de material fundido de libera\u00e7\u00e3o controlada, seu processo de prepara\u00e7\u00e3o e composi\u00e7\u00e3o farmac\u00eautica na forma de dose unit\u00e1ria",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "03 15137.0",
+            "priorityDate": "27/06/2003"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "04 03102.7",
+            "priorityDate": "12/02/2004"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "04 13454.0",
+            "priorityDate": "16/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "MALCOLM WALDEN",
+        "GEOFFREY GERARD HAYES",
+        "HASSAN MOHAMMAD",
+        "HARJIT TAMBER",
+        "STEVE WHITELOCK",
+        "VINCENZO MARTINELLI"
+    ],
+    "holders": [
+        108314
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61K 31/485"
+    ]
+}

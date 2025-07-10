@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0509873-4",
+    "filingDate": "14/04/2005",
+    "grantDate": null,
+    "title": "AERONAVE DE ASA ROTATIVA E M\u00c9TODO PARA TRANSPORTAR UMA CARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/562,081",
+            "priorityDate": "14/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "PAUL E ARLTON",
+        "DAVID J ARLTON"
+    ],
+    "holders": [
+        147048,
+        147047
+    ],
+    "ipcCodes": [
+        "B64C 27/10"
+    ]
+}

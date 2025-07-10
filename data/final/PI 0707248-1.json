@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0707248-1",
+    "filingDate": "17/01/2007",
+    "grantDate": null,
+    "title": "MEIO DE FECHAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MO2006A000027",
+            "priorityDate": "27/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [
+        "FABRIZIO PUCCI",
+        "FIORENZO PARRINELLO",
+        "FABRIZIO PUCCI",
+        "BO LARSSON"
+    ],
+    "holders": [
+        39828
+    ],
+    "ipcCodes": [
+        "B26D 7/01",
+        "B65D 51/22",
+        "B26F 1/18"
+    ]
+}

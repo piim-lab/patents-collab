@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0913345-3",
+    "filingDate": "26/05/2009",
+    "grantDate": "21/05/2019",
+    "title": "SISTEMA DE MEDI\u00c7\u00c3O DIMENSIONAL E DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-145151",
+            "priorityDate": "02/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2544"
+        }
+    ],
+    "inventors": [
+        "KENGO NAKAO",
+        "HIDETAKA YAMASHITA",
+        "KATSUMI HIRANO"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "G01B 21/02",
+        "H04R 1/10",
+        "G10L 15/00"
+    ]
+}

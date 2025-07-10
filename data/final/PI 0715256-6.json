@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0715256-6",
+    "filingDate": "18/05/2007",
+    "grantDate": null,
+    "title": "EMBALAGEM HERM\u00c9TICA DE DOSE \u00daNICA E DE ABERTURA POR ROMPIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "BO2006A 000665",
+            "priorityDate": "28/09/2006"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "BO2006A 000666",
+            "priorityDate": "28/09/2006"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "BO2007A 000083",
+            "priorityDate": "14/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN BURATTINI"
+    ],
+    "holders": [
+        269327
+    ],
+    "ipcCodes": [
+        "B65D 75/58",
+        "B65B 61/06",
+        "B65D 75/32",
+        "B65D 75/30",
+        "B65B 9/04",
+        "B65B 51/10"
+    ]
+}

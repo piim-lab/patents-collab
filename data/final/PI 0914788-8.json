@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0914788-8",
+    "filingDate": "12/06/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE UM PRODUTO INTERMEDI\u00c1RIO DE ETEXILATO DE DABIGATRAN",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08158364.3",
+            "priorityDate": "16/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "WOLFGANG DERSCH",
+        "CHRISTIAN FILSER",
+        "RAINER HAMM",
+        "ARNDT HAUSHERR",
+        "GUNTER KOCH",
+        "ULRICH SCHOLZ",
+        "GEORG ZERBAN"
+    ],
+    "holders": [
+        380524
+    ],
+    "ipcCodes": [
+        "C07D 401/12"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0620005-2",
+    "filingDate": "14/12/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR E SISTEMA COMPUTADORIZADO DE APROVA\u00c7\u00c3O DE UM DOCUMENTO E M\u00c9TODO IMPLEMENTADO POR COMPUTADOR DE CLASSIFICA\u00c7\u00c3O DE UM DOCUMENTO",
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        26957
+    ],
+    "ipcCodes": []
+}

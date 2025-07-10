@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 1010863-7",
+    "filingDate": "03/06/2010",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO PARA FABRICAR UM DISPOSITIVO ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/477,412",
+            "priorityDate": "03/06/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        }
+    ],
+    "inventors": [
+        "CHUL SONG",
+        "MO HAN",
+        "MOHAMED HASSAN ABU"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G03F 7/00",
+        "H01L 29/78",
+        "H01L 21/336",
+        "H01L 21/8234",
+        "H01L 21/3213"
+    ]
+}

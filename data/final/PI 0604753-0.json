@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0604753-0",
+    "filingDate": "14/11/2006",
+    "grantDate": null,
+    "title": "V\u00c1LVULA PARA O COMANDO DE UM FLUIDO E M\u00c1QUINA DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 054 132.1",
+            "priorityDate": "14/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "ABDULLAH ANSARI",
+        "FRANK MILLER",
+        "MARTIN MOELLER",
+        "ELMAR OKRENT"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "F16K 31/06"
+    ]
+}

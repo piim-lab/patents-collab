@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0900491-2",
+    "filingDate": "30/01/2009",
+    "grantDate": null,
+    "title": "NOVA ESPUMA COMEST\u00cdVEL EM AEROSOL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/024,052",
+            "priorityDate": "31/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "ESTEBAN LAKOS"
+    ],
+    "holders": [
+        1194
+    ],
+    "ipcCodes": [
+        "A61K 9/12",
+        "A23D 7/00"
+    ]
+}

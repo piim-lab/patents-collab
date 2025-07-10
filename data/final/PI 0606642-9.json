@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0606642-9",
+    "filingDate": "12/01/2006",
+    "grantDate": "21/08/2018",
+    "title": "CONJUNTO DE APLICADOR DE SELANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/643,368",
+            "priorityDate": "12/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "ZAFAR KHAKPOUR",
+        "SCOTT R ARIAGNO",
+        "ANDREAS KELLNER",
+        "LILLIAN G ZAKARIJA",
+        "HEINZ REDL"
+    ],
+    "holders": [
+        92904,
+        92903
+    ],
+    "ipcCodes": [
+        "B05B 7/04",
+        "B05C 17/005",
+        "A61B 17/00",
+        "B05C 17/015"
+    ]
+}

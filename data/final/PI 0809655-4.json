@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0809655-4",
+    "filingDate": "11/04/2008",
+    "grantDate": "10/09/2019",
+    "title": "Composi\u00e7\u00e3o Farmac\u00eautica e kit",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/911852",
+            "priorityDate": "13/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "UMA SINHA",
+        "STANLEY J HOLLENBACH",
+        "PATRICK ANDRE"
+    ],
+    "holders": [
+        81438
+    ],
+    "ipcCodes": [
+        "A61K 31/44",
+        "A61P 9/10",
+        "A61P 7/02",
+        "A61K 45/06"
+    ]
+}

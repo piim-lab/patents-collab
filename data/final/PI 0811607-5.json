@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0811607-5",
+    "filingDate": "12/05/2008",
+    "grantDate": null,
+    "title": "MODELAGEM DE DIAGN\u00d3STICO REMOTO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "PCT/SE2007/000466",
+            "priorityDate": "14/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        }
+    ],
+    "inventors": [
+        "HANSSON J\u00d6RGEN",
+        "SVENSSON MAGNUS",
+        "R\u00d6GNVALDSSON THORSTEINN",
+        "BYTTNER STEFAN"
+    ],
+    "holders": [
+        73644
+    ],
+    "ipcCodes": [
+        "G06Q 90/00",
+        "G07C 5/08",
+        "G01M 17/00",
+        "G06F 17/50"
+    ]
+}

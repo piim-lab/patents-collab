@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0914722-5",
+    "filingDate": "15/05/2009",
+    "grantDate": null,
+    "title": "RESFRIADOR PARA RESFRIAR MATERIAL EM PART\u00cdCULAS QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 200800878",
+            "priorityDate": "26/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "NIELS OLE CEDERGAARD",
+        "AGUST \u00d6RN EINARSSON",
+        "MORTEN DRIVSHOLM",
+        "EJNAR JESSEN"
+    ],
+    "holders": [
+        58493
+    ],
+    "ipcCodes": [
+        "F27D 15/02",
+        "C04B 7/47",
+        "F27B 7/38"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0501177-9",
+    "filingDate": "31/03/2005",
+    "grantDate": "07/08/2018",
+    "title": "Acoplamento de conector r\u00e1pido e conector r\u00e1pido",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/814,314",
+            "priorityDate": "31/03/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/087,358",
+            "priorityDate": "23/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2679"
+        }
+    ],
+    "inventors": [
+        "RICHARD M PEPE",
+        "JIM KERIN"
+    ],
+    "holders": [
+        374
+    ],
+    "ipcCodes": [
+        "F16L 37/00"
+    ]
+}

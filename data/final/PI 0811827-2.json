@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0811827-2",
+    "filingDate": "27/06/2008",
+    "grantDate": "16/04/2019",
+    "title": "BATENTE DE SUSPENS\u00c3O DE VE\u00cdCULO AUTOMOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0704723",
+            "priorityDate": "29/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "HERV\u00c9 LENON",
+        "G\u00c9RARD MERMOUD",
+        "LUDOVIC SAUNIER"
+    ],
+    "holders": [
+        87446
+    ],
+    "ipcCodes": [
+        "B60G 15/06"
+    ]
+}

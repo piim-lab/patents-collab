@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "PI 0822111-1",
+    "filingDate": "04/03/2008",
+    "grantDate": "09/03/2021",
+    "title": "COMPOSI\u00c7\u00c3O L\u00cdQUIDA, E, USO DE UMA COMPOSI\u00c7\u00c3O L\u00cdQUIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07123811.7",
+            "priorityDate": "20/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "ESTHER JACQUELINE DE KORT",
+        "ROBERT JOHAN JOSEPH HAGEMAN",
+        "MARTINE GROENENDIJK",
+        "PATRICK JOSEPH GERARDUS HENDRIKUS KAMPHUIS"
+    ],
+    "holders": [
+        79945
+    ],
+    "ipcCodes": [
+        "A23L 33/00",
+        "A61K 9/00",
+        "A61K 47/44",
+        "A61K 47/38",
+        "A61K 33/06",
+        "A61K 47/36",
+        "A61K 31/7072",
+        "A61P 25/28",
+        "A61K 47/42",
+        "A23L 33/17",
+        "A61K 35/60",
+        "A61K 31/7052",
+        "A23L 29/269",
+        "A61K 38/02",
+        "A23L 33/115",
+        "A23L 29/262",
+        "A23L 33/13"
+    ]
+}

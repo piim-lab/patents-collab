@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "PI 0519424-5",
+    "filingDate": "28/12/2005",
+    "grantDate": "05/01/2021",
+    "title": "Compostos, composi\u00e7\u00e3o e uso dos ditos compostos para a prepara\u00e7\u00e3o de um medicamento para preven\u00e7\u00e3o ou tratamento de um dist\u00farbio de prolifera\u00e7\u00e3o celular ou infec\u00e7\u00e3o microbiana",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/639.834",
+            "priorityDate": "28/12/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/704.551",
+            "priorityDate": "01/08/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/727.341",
+            "priorityDate": "17/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "DAVID G HANGAUER"
+    ],
+    "holders": [
+        250043
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07D 239/26",
+        "A61K 31/495",
+        "C07D 403/04",
+        "C07D 239/34",
+        "A61K 31/435",
+        "C07D 213/89",
+        "C07C 233/00",
+        "C07D 213/64",
+        "C07D 213/56"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0802192-9",
+    "filingDate": "03/06/2008",
+    "grantDate": null,
+    "title": "M\u00e9todo para corrugar e bobinar rolos de filme pl\u00e1stico",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2007 A 001133",
+            "priorityDate": "04/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "15.40",
+            "description": "Notifica\u00e7\u00e3o de regulariza\u00e7\u00e3o do processo em andamento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "ROBERTO PELLENGO GATTI"
+    ],
+    "holders": [
+        121978
+    ],
+    "ipcCodes": [
+        "B65H 37/00"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0909260-9",
+    "filingDate": "27/03/2009",
+    "grantDate": "28/05/2019",
+    "title": "M\u00c9TODO DE TESTE ULTRASS\u00d4NICO E EQUIPAMENTO PARA O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-090382",
+            "priorityDate": "31/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2544"
+        }
+    ],
+    "inventors": [
+        "HIROSHI SHIKADA",
+        "MASAKI YAMANO",
+        "KENJI FUJIWARA"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "G01N 29/04",
+        "G01N 29/44",
+        "G01N 29/24",
+        "G01N 29/26"
+    ]
+}

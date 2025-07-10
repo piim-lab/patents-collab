@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0603002-5",
+    "filingDate": "27/07/2006",
+    "grantDate": null,
+    "title": "PROCESSO DE TRANSFER\u00caNCIA DE RESINA NA FABRICA\u00c7\u00c3O DE LAMINADOS",
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        378613,
+        378614,
+        378615
+    ],
+    "ipcCodes": []
+}

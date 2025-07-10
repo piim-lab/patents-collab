@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0418430-0",
+    "filingDate": "07/12/2004",
+    "grantDate": null,
+    "title": "ESTIMATIVA DE CANAL E TRANSMISS\u00c3O PILOTO PARA UM SISTEMA OFDM COM ESPALHAMENTO DE RETARDO EXCESSIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/538,210",
+            "priorityDate": "21/01/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/821,706",
+            "priorityDate": "09/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "DHANANJAY ASHOK GORE",
+        "AVNEESH AGRAWAL"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 27/26",
+        "H04L 5/00",
+        "H04L 25/02"
+    ]
+}

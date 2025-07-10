@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0811488-9",
+    "filingDate": "01/05/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR E SISTEMA PARA INFERIR INTERESSES DE USU\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/742,995",
+            "priorityDate": "01/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "SHUMEET BALUJA",
+        "YUSHI JING",
+        "DANDAPANI SIVAKUMAR",
+        "JAY YAGNIK"
+    ],
+    "holders": [
+        26957
+    ],
+    "ipcCodes": [
+        "G06Q 30/02"
+    ]
+}

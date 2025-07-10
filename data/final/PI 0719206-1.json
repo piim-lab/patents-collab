@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0719206-1",
+    "filingDate": "16/10/2007",
+    "grantDate": null,
+    "title": "INSTRUMENTO DE ESCRITA E CONJUNTO DE INSTRUMENTO DE ESCRITA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-282124",
+            "priorityDate": "17/10/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-331292",
+            "priorityDate": "08/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "KATSUYUKI FUJITA",
+        "YOUICHI TAKASU",
+        "KUNIYUKI SENGA"
+    ],
+    "holders": [
+        82550,
+        351494
+    ],
+    "ipcCodes": [
+        "B43K 8/02",
+        "C09D 11/16",
+        "B43K 29/02",
+        "C09D 11/18",
+        "B43K 7/00"
+    ]
+}

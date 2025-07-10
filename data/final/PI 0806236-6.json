@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0806236-6",
+    "filingDate": "25/01/2008",
+    "grantDate": "11/09/2018",
+    "title": "RECIPIENTE QUE PODE SER FECHADO NOVAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/627,148",
+            "priorityDate": "25/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "MARK BRANSON",
+        "JONATHAN HUI"
+    ],
+    "holders": [
+        390254
+    ],
+    "ipcCodes": [
+        "B65D 33/16"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0803874-0",
+    "filingDate": "18/06/2008",
+    "grantDate": null,
+    "title": "EQUIPAMENTO DE ARMAZENAMENTO GIRAT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2007A001218",
+            "priorityDate": "18/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        388835
+    ],
+    "ipcCodes": []
+}

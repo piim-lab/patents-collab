@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 1008822-9",
+    "filingDate": "02/02/2010",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O VETERIN\u00c1RIA ANTIPARASIT\u00c1RIA E USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/152.911",
+            "priorityDate": "16/02/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/219.837",
+            "priorityDate": "24/06/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "ALVIMAR JOSE COSTA",
+        "STEPHEN LEE SECREAST",
+        "RODRIGO VALARELLI"
+    ],
+    "holders": [
+        46388
+    ],
+    "ipcCodes": [
+        "A61K 9/00",
+        "A61K 31/7048",
+        "A61P 33/10",
+        "A61K 45/06"
+    ]
+}

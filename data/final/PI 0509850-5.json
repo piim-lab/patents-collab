@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0509850-5",
+    "filingDate": "17/03/2005",
+    "grantDate": null,
+    "title": "INSERTO DE CORTE E INSERTO DE CORTE EM COMBINA\u00c7\u00c3O COM SUPORTE DE INSERTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IL",
+            "priorityNumber": "161373",
+            "priorityDate": "14/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "GIL HECHT"
+    ],
+    "holders": [
+        83582
+    ],
+    "ipcCodes": [
+        "B23C 5/08",
+        "B23C 5/22"
+    ]
+}

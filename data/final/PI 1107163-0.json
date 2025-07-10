@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 1107163-0",
+    "filingDate": "14/12/2011",
+    "grantDate": "08/10/2019",
+    "title": "M\u00c9TODO PARA DESCONTAMINA\u00c7\u00c3O DE FLUXOS DO PROCESSO DA USINA DE ENERGIA NUCLEAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/423.282",
+            "priorityDate": "15/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/303.211",
+            "priorityDate": "23/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "ROGER HOWARD ASAY",
+        "KEITH PAUL FRUZZETTI",
+        "SUSAN ELAINE GARCIA",
+        "RICHARD HERBERT KOHLMAN",
+        "PAUL L FRATTINI",
+        "DANIEL MORGAN WELLS"
+    ],
+    "holders": [
+        419818
+    ],
+    "ipcCodes": [
+        "G21F 9/12",
+        "B01J 45/00"
+    ]
+}

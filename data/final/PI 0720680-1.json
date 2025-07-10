@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0720680-1",
+    "filingDate": "21/12/2007",
+    "grantDate": "09/04/2019",
+    "title": "ARTIGO COM RESIST\u00caNCIA BAL\u00cdSTICA E VESTU\u00c1RIO PROTETOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06026726.7",
+            "priorityDate": "22/12/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/876.543",
+            "priorityDate": "22/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "MARTIN ANTONIUS VAN ES",
+        "MARCEL JONGEDIJK",
+        "ROELOF MARISSEN",
+        "HEN HOEFNAGELS"
+    ],
+    "holders": [
+        16355
+    ],
+    "ipcCodes": [
+        "F41H 5/04"
+    ]
+}

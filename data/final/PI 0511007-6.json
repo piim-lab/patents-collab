@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0511007-6",
+    "filingDate": "13/06/2005",
+    "grantDate": null,
+    "title": "Processo para produzir um produto oligom\u00e9rico contendo octeno",
+    "priorityClaims": [
+        {
+            "countryCode": "ZA",
+            "priorityNumber": "2004/4841",
+            "priorityDate": "18/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "JOHN THOMAS DIXON",
+        "DAVID HEDLEY MORGAN",
+        "ESNA KILLIAN",
+        "ANNETTE BOLLMANN",
+        "RICHARD NEIL WALSH",
+        "MATTHEW JAMES OVERETT",
+        "KEVIN BLANN"
+    ],
+    "holders": [
+        142323
+    ],
+    "ipcCodes": [
+        "C07C 11/02",
+        "C07C 2/36"
+    ]
+}

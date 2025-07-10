@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 1003666-0",
+    "filingDate": "16/03/2010",
+    "grantDate": "14/07/2020",
+    "title": "APARELHO TRANSPORTADOR DE PORTA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-67744",
+            "priorityDate": "19/03/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "MIURA JUNICHI",
+        "NII TOSHIO",
+        "KAMIYA MITSUGU"
+    ],
+    "holders": [
+        24424,
+        147
+    ],
+    "ipcCodes": [
+        "B62D 65/18",
+        "B66F 7/02"
+    ]
+}

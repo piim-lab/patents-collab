@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0816756-7",
+    "filingDate": "08/05/2008",
+    "grantDate": "17/09/2019",
+    "title": "CORREIA ESTRIADA EM V E PROCESSO PARA MANUFATURA DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-239003",
+            "priorityDate": "14/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "MASAHIRO MORI",
+        "MIN GAO",
+        "LANCE C HALL",
+        "SHAWN XIANG WU"
+    ],
+    "holders": [
+        82658
+    ],
+    "ipcCodes": [
+        "F16G 5/20",
+        "B29D 29/08"
+    ]
+}

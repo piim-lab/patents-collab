@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0810848-0",
+    "filingDate": "25/04/2008",
+    "grantDate": "12/02/2019",
+    "title": "\u00c1GUA ELETROL\u00cdTICA ALTAMENTE EST\u00c1VEL COM LARGURA DE MEIA LINHA DE RMN REDUZIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/926,182",
+            "priorityDate": "25/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "YONGGE CHEN",
+        "ROBERTO DE NONI"
+    ],
+    "holders": [
+        392109
+    ],
+    "ipcCodes": [
+        "A61K 33/00",
+        "A61P 17/00",
+        "C02F 1/461"
+    ]
+}

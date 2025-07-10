@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0915533-3",
+    "filingDate": "08/07/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR GERADORES DE V\u00c1CUO",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20083096",
+            "priorityDate": "10/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "OLAV HOFSETH",
+        "EIMUND OVSTHUS"
+    ],
+    "holders": [
+        242832
+    ],
+    "ipcCodes": [
+        "B64D 11/02",
+        "E03F 1/00",
+        "E03D 5/00",
+        "B63B 29/14"
+    ]
+}

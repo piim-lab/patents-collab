@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0520870-0",
+    "filingDate": "25/08/2005",
+    "grantDate": "10/11/2020",
+    "title": "COMPOSTOS INTERMEDI\u00c1RIOS PARA A PREPARA\u00c7\u00c3O DE ALFA-MERCAPTOACETANILIDAS DE S-TRIAZOLILA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/604,219",
+            "priorityDate": "25/08/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/604,220",
+            "priorityDate": "25/08/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/686,351",
+            "priorityDate": "31/05/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/08/2005",
+        "applicationNumber": "PI 0514630-5"
+    },
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "MARTHA DE LA ROSA",
+        "ZHI HONG",
+        "STANLEY LANG",
+        "WOO KIM",
+        "LUC GIRARDET",
+        "HYO KOH",
+        "ESMIR GUNIC"
+    ],
+    "holders": [
+        94415
+    ],
+    "ipcCodes": [
+        "C07D 249/08",
+        "A61K 31/4196"
+    ]
+}

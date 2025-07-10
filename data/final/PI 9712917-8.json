@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 9712917-8",
+    "filingDate": "04/11/1997",
+    "grantDate": "03/12/2019",
+    "title": "Composi\u00e7\u00e3o de vacina compreendendo tox\u00f3ides dift\u00e9rico, tet\u00e2nico e pertussis.",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "96 23233.5",
+            "priorityDate": "07/11/1996"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "PATRICK FLORENT",
+        "JEAN STEPHENNE",
+        "CRISTIAN VANDECASSERIE"
+    ],
+    "holders": [
+        85017
+    ],
+    "ipcCodes": [
+        "A61K 39/10"
+    ]
+}

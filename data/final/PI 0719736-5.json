@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0719736-5",
+    "filingDate": "27/11/2007",
+    "grantDate": null,
+    "title": "JUNTA ROSQUEADA E M\u00c9TODO DE PROTE\u00c7\u00c3O DE UMA JUNTA ROSQUEADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/872,615",
+            "priorityDate": "01/12/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/914,699",
+            "priorityDate": "27/04/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/940,690",
+            "priorityDate": "29/05/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/846,489",
+            "priorityDate": "28/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        }
+    ],
+    "inventors": [
+        "EDUARDO GABRIEL CARCAGNO",
+        "KLAUS ENDRES"
+    ],
+    "holders": [
+        359
+    ],
+    "ipcCodes": [
+        "F16L 58/10"
+    ]
+}

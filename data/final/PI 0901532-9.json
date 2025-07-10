@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0901532-9",
+    "filingDate": "15/04/2009",
+    "grantDate": "04/06/2019",
+    "title": "M\u00e9todo para prevenir falhas em processo de inje\u00e7\u00e3o de produtos qu\u00edmicos",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/045.139",
+            "priorityDate": "15/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "DAVID HIMMEL"
+    ],
+    "holders": [
+        84076
+    ],
+    "ipcCodes": [
+        "B01D 35/14"
+    ]
+}

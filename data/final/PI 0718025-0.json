@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0718025-0",
+    "filingDate": "07/11/2007",
+    "grantDate": "23/10/2018",
+    "title": "TRANSPORTADOR DE DADOS PORT\u00c1TIL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 052 651.1",
+            "priorityDate": "08/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER KOMAREK"
+    ],
+    "holders": [
+        89055
+    ],
+    "ipcCodes": [
+        "B42D 25/00",
+        "B42D 25/41",
+        "B41M 3/14",
+        "G06K 19/18",
+        "B42D 25/21",
+        "B42D 25/43",
+        "B42D 25/369",
+        "B42D 25/309"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "PI 0707585-5",
+    "filingDate": "08/02/2007",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE LIMPEZA DE SUPERF\u00cdCIE M\u00d3VEL, E, M\u00c9TODO DE LIMPEZA DE SUPERF\u00cdCIE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/772,104",
+            "priorityDate": "10/02/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/815,804",
+            "priorityDate": "22/06/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/815,721",
+            "priorityDate": "22/06/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/864,724",
+            "priorityDate": "07/11/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/655,359",
+            "priorityDate": "19/01/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/655,360",
+            "priorityDate": "19/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "BRUCE F FIELD",
+        "PATRICK J GRONLUND"
+    ],
+    "holders": [
+        384382
+    ],
+    "ipcCodes": [
+        "C02F 1/461",
+        "B08B 3/02"
+    ]
+}

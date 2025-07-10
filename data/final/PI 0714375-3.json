@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0714375-3",
+    "filingDate": "09/07/2007",
+    "grantDate": null,
+    "title": "APERFEI\u00c7OAMENTOS EM ACIONADORES DE V\u00c1LVULA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "06136626",
+            "priorityDate": "10/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "PETER GEORGE SANDERS",
+        "HEMENDRA PARAKRAMA BANDARA DASSANAYAKE",
+        "ANDREW MARK WITHERS"
+    ],
+    "holders": [
+        109112
+    ],
+    "ipcCodes": [
+        "G05B 19/39"
+    ]
+}

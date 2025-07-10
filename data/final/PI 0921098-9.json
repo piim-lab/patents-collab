@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0921098-9",
+    "filingDate": "03/11/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA UMA VEDA\u00c7\u00c3O DE M\u00d3DULOS DE MEMBRANA.",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 057 251.9",
+            "priorityDate": "13/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "STEPHAN R\u00dcDIGER BLUM"
+    ],
+    "holders": [
+        336807
+    ],
+    "ipcCodes": [
+        "B01D 65/00",
+        "B01D 63/02",
+        "B01D 63/06",
+        "B01D 65/10"
+    ]
+}

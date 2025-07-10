@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "PI 0709866-9",
+    "filingDate": "02/04/2007",
+    "grantDate": "15/09/2020",
+    "title": "Compostos h\u00e9teros e composi\u00e7\u00e3o farmac\u00eautica compreendendo ditos compostos.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-102544",
+            "priorityDate": "03/04/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-276693",
+            "priorityDate": "10/10/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-279227",
+            "priorityDate": "12/10/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "HIRONORI HARADA",
+        "KAZUYUKI HATTORI",
+        "KAZUYA FUJITA",
+        "MASATAKA MORITA",
+        "SUNAO IMADA",
+        "YOSHITO ABE",
+        "HIROMICHI ITANI",
+        "TATSUAKI MOROKATA",
+        "HIDEO TSUTSUMI"
+    ],
+    "holders": [
+        81904
+    ],
+    "ipcCodes": [
+        "A61P 43/00",
+        "A61P 37/06",
+        "A61K 31/4245",
+        "A61P 37/02",
+        "A61K 31/4709",
+        "C07D 471/04",
+        "A61K 31/4353",
+        "C07D 417/04",
+        "C07D 413/04"
+    ]
+}

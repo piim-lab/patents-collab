@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0711810-4",
+    "filingDate": "21/05/2007",
+    "grantDate": null,
+    "title": "Sistema de rastreamento de posi\u00e7\u00e3o e m\u00e9todo para determinar uma posi\u00e7\u00e3o de um ve\u00edculo",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/802.576",
+            "priorityDate": "22/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/751.298",
+            "priorityDate": "21/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "STEVEN C HOLMES",
+        "MARK W BARTLETT",
+        "ROBERT D COYLE",
+        "RUSSELL ARMBRUST",
+        "DONALD W TREADAWAY",
+        "STEVE L WILLIAMSON",
+        "JAMES EDWARD HANSON",
+        "JENNIFER D CARPENTER"
+    ],
+    "holders": [
+        385531
+    ],
+    "ipcCodes": [
+        "G06F 17/10"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0515389-1",
+    "filingDate": "16/09/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE COMUNICA\u00c7\u00c3O M\u00d3VEL, ESTA\u00c7\u00c3O M\u00d3VEL E ESTA\u00c7\u00c3O BASE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-272402",
+            "priorityDate": "17/09/2004"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-272408",
+            "priorityDate": "17/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        }
+    ],
+    "inventors": [
+        "ANIL UMESH",
+        "MASAFUMI USUDA",
+        "TAKEHIRO NAKAMURA"
+    ],
+    "holders": [
+        87815
+    ],
+    "ipcCodes": [
+        "H04B 7/06",
+        "H04B 7/26"
+    ]
+}

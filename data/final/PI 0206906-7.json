@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0206906-7",
+    "filingDate": "02/12/2002",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA RECUPERAR A INFORMA\u00c7\u00c3O DA \u00c1RVORE L\u00d3GICA DO N\u00d3 M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/336,879",
+            "priorityDate": "03/12/2001"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/350,669",
+            "priorityDate": "22/01/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/384,517",
+            "priorityDate": "30/05/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        }
+    ],
+    "inventors": [
+        "PAUL OOMMEN",
+        "GAURAV MITTAL"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04L 12/66",
+        "H04L 12/28",
+        "H04B 7/216"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0820364-4",
+    "filingDate": "21/11/2008",
+    "grantDate": null,
+    "title": "PROCESSO DE ESTERIFICA\u00c7\u00c3O, E, APARELHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/952203",
+            "priorityDate": "07/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "BRUCE ROGER DEBRUIN",
+        "RICHARD GILL BONNER"
+    ],
+    "holders": [
+        96016
+    ],
+    "ipcCodes": [
+        "B01J 19/24",
+        "C08G 63/78",
+        "C07C 69/76"
+    ]
+}

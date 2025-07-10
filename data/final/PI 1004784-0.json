@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 1004784-0",
+    "filingDate": "18/11/2010",
+    "grantDate": null,
+    "title": "CABINE DE MOTORISTA DE UM VE\u00cdCULO UTILIT\u00c1RIO COM UM M\u00d3DULO DE CARCA\u00c7A",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102009053750.3",
+            "priorityDate": "18/11/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "EBERHARD KNEIFEL",
+        "G\u00dcNTHER MEDERLE"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "B62D 33/06",
+        "B62D 65/04"
+    ]
+}

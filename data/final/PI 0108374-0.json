@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0108374-0",
+    "filingDate": "14/02/2001",
+    "grantDate": "10/10/2017",
+    "title": "DERIVADO DE PIRAZINA OU UM SAL DESTE E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2000-037486",
+            "priorityDate": "16/02/2000"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2000-040439",
+            "priorityDate": "18/02/2000"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2000-090071",
+            "priorityDate": "29/03/2000"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI EGAWA",
+        "YOUSUKE FURUTA",
+        "JUN SUGITA",
+        "SAYURI UEHARA",
+        "SHOICHI HAMAMOTO",
+        "KENJI YONEZAWA"
+    ],
+    "holders": [
+        110331
+    ],
+    "ipcCodes": [
+        "C07D 405/04",
+        "A61P 31/12",
+        "A61K 31/496",
+        "C07D 241/24",
+        "A61K 31/706",
+        "A61K 31/4965",
+        "C07H 19/04"
+    ]
+}

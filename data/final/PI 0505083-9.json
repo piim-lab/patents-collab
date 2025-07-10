@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0505083-9",
+    "filingDate": "27/10/2005",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA VERIFICAR ASSINATURAS DIGITAIS EM CERTIFICADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04105424.8",
+            "priorityDate": "29/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [
+        "MICHAEL K BROWN",
+        "MICHAEL S BROWN"
+    ],
+    "holders": [
+        3754
+    ],
+    "ipcCodes": [
+        "H04L 9/30"
+    ]
+}

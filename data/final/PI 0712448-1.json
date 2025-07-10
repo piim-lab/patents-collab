@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0712448-1",
+    "filingDate": "08/06/2007",
+    "grantDate": "09/10/2018",
+    "title": "ANEL DE FIXA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0652085",
+            "priorityDate": "09/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2794"
+        }
+    ],
+    "inventors": [
+        "FABRICE PREVOT",
+        "J\u00c9R\u00d4ME JAFFRE",
+        "NICOLAS RIGOLLET"
+    ],
+    "holders": [
+        11766
+    ],
+    "ipcCodes": [
+        "F16B 7/00",
+        "F16L 23/08",
+        "F16L 33/02",
+        "F16L 33/04"
+    ]
+}

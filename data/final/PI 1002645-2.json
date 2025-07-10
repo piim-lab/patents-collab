@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 1002645-2",
+    "filingDate": "29/07/2010",
+    "grantDate": null,
+    "title": "M\u00e9todo para controlar um conjunto de bomba de combust\u00edvel",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09168037.1",
+            "priorityDate": "18/08/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        }
+    ],
+    "inventors": [
+        "JAMES SINCLAIR"
+    ],
+    "holders": [
+        155718
+    ],
+    "ipcCodes": [
+        "F02D 41/38",
+        "F02D 41/22",
+        "F02M 51/04"
+    ]
+}

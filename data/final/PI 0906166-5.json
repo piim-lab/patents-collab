@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0906166-5",
+    "filingDate": "26/01/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR ESCLAREOL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08101075.3",
+            "priorityDate": "29/01/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08102661.9",
+            "priorityDate": "17/03/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08102811.0",
+            "priorityDate": "20/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "SCHALK MICHEL",
+        "MICHEL SCHALK"
+    ],
+    "holders": [
+        84722
+    ],
+    "ipcCodes": [
+        "C12N 15/62",
+        "C12N 15/52",
+        "C07D 307/92"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0612728-2",
+    "filingDate": "30/06/2006",
+    "grantDate": "28/05/2019",
+    "title": "ANTICORPOS DE IL-23P19 ISOLADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/695,861",
+            "priorityDate": "30/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.6",
+            "description": "Exig\u00eancia Formal",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "JACQUELINE BENSON",
+        "CYNTHIA DUCHALA",
+        "JINQUAN LUO",
+        "MICHAEL A RYCYZYN",
+        "RAYMOND SWEET",
+        "MARK CUNNINGHAM",
+        "JILL GILES"
+    ],
+    "holders": [
+        350276
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C07H 21/04",
+        "C12P 21/06",
+        "G01N 33/567",
+        "C07K 16/24"
+    ]
+}

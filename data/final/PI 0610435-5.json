@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0610435-5",
+    "filingDate": "28/04/2006",
+    "grantDate": "26/03/2019",
+    "title": "BOMBA DE EXTRA\u00c7\u00c3O DE LEITE PORT\u00c1TIL ACIONADA POR BATERIA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0508904.0",
+            "priorityDate": "29/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "MARK WORTLEY",
+        "ROGER WILLIAMS",
+        "EDWARD ATKINS"
+    ],
+    "holders": [
+        380078
+    ],
+    "ipcCodes": [
+        "A61M 1/06"
+    ]
+}

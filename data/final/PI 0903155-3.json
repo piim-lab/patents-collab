@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0903155-3",
+    "filingDate": "21/08/2009",
+    "grantDate": "09/04/2019",
+    "title": "CONJUNTO ARTICULADO BASCULANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0855666",
+            "priorityDate": "21/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "MARCEL DACCORD",
+        "RAPHA\u00cbL VERGNE"
+    ],
+    "holders": [
+        10,
+        11
+    ],
+    "ipcCodes": [
+        "H01H 23/00",
+        "H01H 23/12"
+    ]
+}

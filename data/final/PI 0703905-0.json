@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0703905-0",
+    "filingDate": "24/10/2007",
+    "grantDate": null,
+    "title": "V\u00c1LVULA DE FECHAMENTO DE EMERG\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/553,067",
+            "priorityDate": "26/10/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/688,509",
+            "priorityDate": "20/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "MATTHEW R LAUBER",
+        "JAMES E KESTERMAN"
+    ],
+    "holders": [
+        8209
+    ],
+    "ipcCodes": [
+        "B60S 5/02"
+    ]
+}

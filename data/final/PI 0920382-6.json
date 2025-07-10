@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "PI 0920382-6",
+    "filingDate": "07/10/2009",
+    "grantDate": "19/04/2022",
+    "title": "Produto compreendendo uma liga de alum\u00ednio",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/246,937",
+            "priorityDate": "07/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "DAVID TOMES",
+        "DAVID W TIMMONS",
+        "GAVIN F WYATT",
+        "ALI UNAL",
+        "JOHN WCOLLINS III"
+    ],
+    "holders": [
+        121229
+    ],
+    "ipcCodes": [
+        "C22F 1/043",
+        "C22C 21/02",
+        "C22C 21/00",
+        "C22C 21/06",
+        "C22F 1/04",
+        "B22D 11/06"
+    ]
+}

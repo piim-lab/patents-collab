@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0703259-5",
+    "filingDate": "03/08/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REALIZAR O SINCRONISMO MANUAL DE REL\u00d3GIOS EM DISPOSITIVOS EXECUTANDO APLICA\u00c7\u00d5ES COM REQUISITOS DE SEGURAN\u00c7A",
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        }
+    ],
+    "inventors": [
+        "WILSON VICENTE RUGGIERO",
+        "RICARDO KOMATSU DE ALMEIDA",
+        "LEON ACHJIAN JUNIOR",
+        "ARMIN WERNER MITTELSDORF"
+    ],
+    "holders": [
+        12296
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04L 9/32",
+        "H04L 9/08",
+        "G06F 21/31",
+        "H04L 9/12"
+    ]
+}

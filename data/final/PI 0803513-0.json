@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0803513-0",
+    "filingDate": "12/08/2008",
+    "grantDate": "03/09/2019",
+    "title": "APARELHO DE ENTRADA COM FUN\u00c7\u00c3O DE TROCA MULTI-MODO",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "096134764",
+            "priorityDate": "18/09/2007"
+        },
+        {
+            "countryCode": "TW",
+            "priorityNumber": "096136609",
+            "priorityDate": "29/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2787"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "JOU CHEN",
+        "PIN KO"
+    ],
+    "holders": [
+        1471
+    ],
+    "ipcCodes": [
+        "G06F 3/048"
+    ]
+}

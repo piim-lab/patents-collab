@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0816338-3",
+    "filingDate": "19/09/2008",
+    "grantDate": "02/07/2019",
+    "title": "DISPOSITIVO \u00d3PTICO, LAMINADO E ARTIGO ROTULADO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-243682",
+            "priorityDate": "20/09/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-272409",
+            "priorityDate": "19/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "KAZUHIRO YASHIKI",
+        "NAOAKI SHINDOU",
+        "NORIYUKI ITOU",
+        "HIDETAKA IDE",
+        "NAOKI MINAMIKAWA"
+    ],
+    "holders": [
+        122683
+    ],
+    "ipcCodes": [
+        "B42D 25/29",
+        "B42D 25/324",
+        "G02B 3/00",
+        "B42D 25/328",
+        "G02B 5/128"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0705974-4",
+    "filingDate": "26/12/2007",
+    "grantDate": null,
+    "title": "BOMBA DESTINADA  A SER MONTADA EM UMA GARRAFA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "06011327",
+            "priorityDate": "22/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "HERV\u00c9 LOMPECH",
+        "RICHARD ABUCEWICZ",
+        "ROGER PAPPINEAU",
+        "LUC OCTEAU",
+        "PIERRE DUMONT"
+    ],
+    "holders": [
+        7868
+    ],
+    "ipcCodes": [
+        "B05B 1/00",
+        "B05B 11/00"
+    ]
+}

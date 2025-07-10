@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0611324-9",
+    "filingDate": "31/05/2006",
+    "grantDate": null,
+    "title": "CONFIRMA\u00c7\u00c3O DE DESIGNA\u00c7\u00c3O PARA UM SISTEMA DE COMUNICA\u00c7\u00c3O SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/142,121",
+            "priorityDate": "31/05/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/260,931",
+            "priorityDate": "27/10/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/370,638",
+            "priorityDate": "07/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "AVNEESH AGRAWAL",
+        "AAMOD KHANDEKAR",
+        "ALEXEI GOROKHOV"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 27/26",
+        "H04L 5/00",
+        "H04L 1/18"
+    ]
+}

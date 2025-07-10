@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 1013117-5",
+    "filingDate": "11/06/2010",
+    "grantDate": null,
+    "title": "MEDIDOR DE FLUXO MAGN\u00c9TICO-INDUTIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/457,483",
+            "priorityDate": "12/06/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2009 017 274.0",
+            "priorityDate": "19/12/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2009 017 275.9",
+            "priorityDate": "19/12/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "J\u00d6RN G\u00d6GGE",
+        "MICHAEL ZIMMERMAN",
+        "RAYMOND PSTIR"
+    ],
+    "holders": [
+        79381
+    ],
+    "ipcCodes": [
+        "H01F 41/02",
+        "G01F 1/58"
+    ]
+}

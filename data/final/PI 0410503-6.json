@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0410503-6",
+    "filingDate": "22/04/2004",
+    "grantDate": "10/07/2018",
+    "title": "COMPOSI\u00c7\u00c3O T\u00d3PICA E USO DA COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "03/05048",
+            "priorityDate": "24/04/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/468,994",
+            "priorityDate": "09/05/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "VINCENT MANETTA",
+        "GARY R WATKINS"
+    ],
+    "holders": [
+        112904
+    ],
+    "ipcCodes": [
+        "A61K 9/107",
+        "A61K 9/00",
+        "A61P 17/00",
+        "A61K 31/7048"
+    ]
+}

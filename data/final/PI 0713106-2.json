@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0713106-2",
+    "filingDate": "27/06/2007",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA SELECIONAR PEQUENOS OBJETOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/817,062",
+            "priorityDate": "28/06/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/769,318",
+            "priorityDate": "27/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        }
+    ],
+    "inventors": [
+        "KEVIN L DEPPERMANN"
+    ],
+    "holders": [
+        26665
+    ],
+    "ipcCodes": [
+        "B07C 5/36",
+        "B07C 5/342",
+        "B07C 5/38"
+    ]
+}

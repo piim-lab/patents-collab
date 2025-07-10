@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0812974-6",
+    "filingDate": "07/04/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA MOLDAGEM DE UMA CHAPA DE VIDRO QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/823.409",
+            "priorityDate": "27/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        }
+    ],
+    "inventors": [
+        "ROBERT J BOISSELLE",
+        "THOMAS G KLEMAN",
+        "DANIEL P LUBELSKI"
+    ],
+    "holders": [
+        387306
+    ],
+    "ipcCodes": [
+        "C03B 35/16",
+        "C03B 23/03",
+        "C03B 23/035"
+    ]
+}

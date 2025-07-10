@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "PI 0818249-3",
+    "filingDate": "10/10/2008",
+    "grantDate": "20/04/2021",
+    "title": "M\u00c9TODO DE PRODU\u00c7\u00c3O DE NUCLEOS\u00cdDEOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 019825.4",
+            "priorityDate": "10/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [
+        "OLIVER JUNGMANN",
+        "NORBERT KRAUT"
+    ],
+    "holders": [
+        395500
+    ],
+    "ipcCodes": [
+        "C07H 19/16",
+        "C07H 19/06",
+        "C07H 19/00",
+        "C07H 19/12"
+    ]
+}

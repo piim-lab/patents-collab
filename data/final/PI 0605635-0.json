@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0605635-0",
+    "filingDate": "12/01/2006",
+    "grantDate": null,
+    "title": "SISTEMA DE ESTA\u00c7\u00c3O BASE DISTRIBU\u00cdDO E M\u00c9TODO PARA A SUA COLOCA\u00c7\u00c3O EM REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200510001936.7",
+            "priorityDate": "12/01/2005"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200510070835.5",
+            "priorityDate": "19/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "WANGJUN WU",
+        "CHENGDONG YU",
+        "ZHU TAN",
+        "TAO PU",
+        "WENSHENG HE",
+        "PENG LAN",
+        "JUN ZHOU",
+        "MING YU"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04W 88/08"
+    ]
+}

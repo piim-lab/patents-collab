@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0710138-4",
+    "filingDate": "13/04/2007",
+    "grantDate": null,
+    "title": "Plugue de fase, propulsor por compress\u00e3o e autofalante de combina\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "06 07452.0",
+            "priorityDate": "13/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "MARK DODD",
+        "JACK ANTHONY OCLLE"
+    ],
+    "holders": [
+        385114
+    ],
+    "ipcCodes": [
+        "H04R 1/30"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0411942-8",
+    "filingDate": "29/06/2004",
+    "grantDate": null,
+    "title": "PROCESSO PARA A POLIMERIZA\u00c7\u00c3O DE OLEFINAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "03102001.9",
+            "priorityDate": "04/07/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/486,936",
+            "priorityDate": "14/07/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        }
+    ],
+    "inventors": [
+        "MARIA SILVIA TONTI",
+        "MARKUS OBERHOFF",
+        "VOLKER FRAAIJE",
+        "BERND BACHMANN"
+    ],
+    "holders": [
+        81147
+    ],
+    "ipcCodes": [
+        "C08F 10/00"
+    ]
+}

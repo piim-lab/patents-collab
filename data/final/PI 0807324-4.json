@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0807324-4",
+    "filingDate": "10/01/2008",
+    "grantDate": null,
+    "title": "\"EQUIPAMENTO E M\u00c9TODO PARA A GERA\u00c7\u00c3O DE UM FLUXO DE DADOS E EQUIPAMENTO E M\u00c9TODO PARA A LEITURA DE UM FLUXO DE DADOS\"",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 007 830.9",
+            "priorityDate": "16/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        }
+    ],
+    "inventors": [
+        "ZINK ALEXANDER",
+        "PROSCH MARKUS",
+        "KORTE OLAF",
+        "KELLERMANN CHRISTIAN",
+        "LINZ BERND"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "H04N 7/24",
+        "G06F 17/22"
+    ]
+}

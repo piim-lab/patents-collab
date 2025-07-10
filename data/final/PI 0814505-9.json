@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0814505-9",
+    "filingDate": "11/07/2008",
+    "grantDate": "12/06/2018",
+    "title": "M\u00c9TODO PARA FIXAR UM FILME SOBRE UM SUBSTRATO CURVADO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 05282",
+            "priorityDate": "20/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN BOVET",
+        "PAUL CANO",
+        "ANTOINE MARTY",
+        "PAUL LEFILLASTRE"
+    ],
+    "holders": [
+        17099,
+        81123
+    ],
+    "ipcCodes": [
+        "B29D 11/00",
+        "B29C 63/16"
+    ]
+}

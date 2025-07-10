@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0405631-0",
+    "filingDate": "04/10/2004",
+    "grantDate": null,
+    "title": "Processo para produ\u00e7\u00e3o de um \u00e9ster (met)acr\u00edlico",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2003-426912",
+            "priorityDate": "24/12/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        }
+    ],
+    "inventors": [
+        "SHUHEI YADA",
+        "KENJI TAKASAKI",
+        "YASUSHI OGAWA",
+        "YOSHIHIKO SUZUKI"
+    ],
+    "holders": [
+        84092
+    ],
+    "ipcCodes": [
+        "C07C 69/54",
+        "C07C 67/08",
+        "C07C 57/07",
+        "C07C 51/47"
+    ]
+}

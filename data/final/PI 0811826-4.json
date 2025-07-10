@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0811826-4",
+    "filingDate": "17/06/2008",
+    "grantDate": "07/05/2019",
+    "title": "Uso de composto organofosforado",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07/04389",
+            "priorityDate": "20/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "SILVIA ANGELI",
+        "XAVIER COUILLENS",
+        "MICHELANGELO AMORESE"
+    ],
+    "holders": [
+        79480
+    ],
+    "ipcCodes": [
+        "C08K 5/49",
+        "C08K 5/52",
+        "C09K 21/12",
+        "C09K 21/04",
+        "C09K 21/10"
+    ]
+}

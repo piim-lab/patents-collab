@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0707393-3",
+    "filingDate": "31/01/2007",
+    "grantDate": null,
+    "title": "CONECTOR DE CORREIA, CORREIA SEM FIM, E, M\u00c9TODO PARA PRODUZIR UM CONECTOR DE CORREIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/743,191",
+            "priorityDate": "31/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/827,961",
+            "priorityDate": "03/10/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "MICHAEL DEGROOT",
+        "JAMES HONEYCUTT",
+        "EDWARD MOL"
+    ],
+    "holders": [
+        384320
+    ],
+    "ipcCodes": [
+        "B65G 15/32",
+        "B29C 65/00",
+        "B65G 19/00"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0907178-4",
+    "filingDate": "14/01/2009",
+    "grantDate": null,
+    "title": "Regras de controle de pol\u00edtica e tarifa\u00e7\u00e3o (PCC) com base em protocolo de mobilidade",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/021,013",
+            "priorityDate": "14/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/352,734",
+            "priorityDate": "13/01/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "GERARDO GIARETTA",
+        "KALLE I AHMAVAARA",
+        "LORENZO CASACCIA",
+        "GEORGE TSIRTSIS",
+        "ARUNGUNDRAM C MAHENDRAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 80/04",
+        "G06Q 40/00",
+        "H04L 12/14",
+        "H04W 4/24"
+    ]
+}

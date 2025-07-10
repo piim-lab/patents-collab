@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "PI 0821816-1",
+    "filingDate": "25/12/2008",
+    "grantDate": null,
+    "title": "ENZIMA ASSOCIADA COM S\u00cdNTESE DE EQUOL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-336227",
+            "priorityDate": "27/12/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-054874",
+            "priorityDate": "05/03/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-080570",
+            "priorityDate": "26/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "YOSHIKAZU SHIMADA",
+        "SETSUKO YASUDA",
+        "MASAYUKI TAKAHASHI",
+        "TAKASHI HAYASHI",
+        "NORIHIRO MIYAZAWA",
+        "TADAAKI OHTANI",
+        "IKUTARO SATO",
+        "YASUHIRO ABIRU"
+    ],
+    "holders": [
+        102661
+    ],
+    "ipcCodes": [
+        "C12N 9/02",
+        "C12N 15/09",
+        "C12P 17/18"
+    ]
+}

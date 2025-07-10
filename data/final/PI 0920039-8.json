@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0920039-8",
+    "filingDate": "22/10/2009",
+    "grantDate": null,
+    "title": "TUBO DE PERFURA\u00c7\u00c3O, COLETOR DE TUBO DE PERFURA\u00c7\u00c3O, E CONEX\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0819340.1",
+            "priorityDate": "22/10/2008"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0905801.7",
+            "priorityDate": "03/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "RAE YOUNGER",
+        "ALEX MACGREGOR",
+        "ADRIEN BOUILLET",
+        "CHRISTIAN LEUCHTENBERG"
+    ],
+    "holders": [
+        125569
+    ],
+    "ipcCodes": [
+        "E21B 19/16",
+        "E21B 21/10"
+    ]
+}

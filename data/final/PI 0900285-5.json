@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0900285-5",
+    "filingDate": "13/02/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA O TRATAMENTO DE CISTOS DE ART\u00caMIA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08 151381.4",
+            "priorityDate": "13/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "GEERT ROMBAUT",
+        "LUCIAAN ALEX JOHAN VAN NIEUWENHOVE",
+        "EDDY MARIE JULES NAESSENS"
+    ],
+    "holders": [
+        381437
+    ],
+    "ipcCodes": [
+        "A01K 61/00"
+    ]
+}

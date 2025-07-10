@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0515717-0",
+    "filingDate": "16/08/2005",
+    "grantDate": null,
+    "title": "Aparelhos para serem utilizados com uma centr\u00edfuga",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/957,095",
+            "priorityDate": "30/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "PHILIP COELHO",
+        "RICHARD KLOSINKSKI",
+        "JIM HOBBS",
+        "BRIAN MALONE",
+        "BRUCE BAKER",
+        "ERIC SOMMER"
+    ],
+    "holders": [
+        207305
+    ],
+    "ipcCodes": [
+        "A01N 1/02",
+        "A61M 31/00",
+        "A01N 1/00"
+    ]
+}

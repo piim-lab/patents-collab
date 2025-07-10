@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0814659-4",
+    "filingDate": "22/07/2008",
+    "grantDate": null,
+    "title": "ESCHERICHIA COLI, E, M\u00c9TODO PARA PRODUZIR L-LISINA.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-190795",
+            "priorityDate": "23/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "HIDETAKA DOI",
+        "TAKUJI UEDA"
+    ],
+    "holders": [
+        2988
+    ],
+    "ipcCodes": [
+        "C12N 1/21",
+        "C12N 15/09",
+        "C12P 13/08"
+    ]
+}

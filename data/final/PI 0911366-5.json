@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0911366-5",
+    "filingDate": "30/01/2009",
+    "grantDate": null,
+    "title": "MONTAGENS DE EXAUST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/104,520",
+            "priorityDate": "17/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        }
+    ],
+    "inventors": [
+        "CHRIS M CREMEENS",
+        "DAVID M GRIMM",
+        "MICHAEL J LAMPS",
+        "ASHISH S WAKNIS"
+    ],
+    "holders": [
+        402920
+    ],
+    "ipcCodes": [
+        "F01N 3/02"
+    ]
+}

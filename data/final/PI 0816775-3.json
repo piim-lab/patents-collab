@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0816775-3",
+    "filingDate": "12/09/2008",
+    "grantDate": "02/04/2019",
+    "title": "APARELHO PARA CONTROLE DE CARREGAMENTO PARA VE\u00cdCULO E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-238322",
+            "priorityDate": "13/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "KENICHI ISHII",
+        "RYUICHI KAMAGA",
+        "MASAHIRO KARAMI",
+        "SATOSHI FUKUI"
+    ],
+    "holders": [
+        148498,
+        5783
+    ],
+    "ipcCodes": [
+        "H02J 7/00",
+        "B60L 3/00",
+        "H02H 3/00",
+        "H01M 10/44"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "PI 0908421-5",
+    "filingDate": "02/03/2009",
+    "grantDate": "04/08/2020",
+    "title": "SULO\u00c7\u00c3O EST\u00c1VEL DE UM COMPOSTO FARMAC\u00caUTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08003915-9",
+            "priorityDate": "03/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ERIC SCHENKEL",
+        "CLAIRE POULAIN",
+        "BERTRAND DODELET",
+        "DOMENICO FANARA"
+    ],
+    "holders": [
+        96365
+    ],
+    "ipcCodes": [
+        "A61K 9/08",
+        "A61K 31/4015"
+    ]
+}

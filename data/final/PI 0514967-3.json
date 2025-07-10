@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0514967-3",
+    "filingDate": "29/06/2005",
+    "grantDate": "07/05/2019",
+    "title": "M\u00c9TODO DE COMUNICA\u00c7\u00c3O DE CAMPO PR\u00d3XIMO, APARELHO E DISPOSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/937,084",
+            "priorityDate": "08/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "GRAHAM ROWSE",
+        "JOE PENDLEBURY"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "G06Q 20/34",
+        "G06K 7/00",
+        "G06K 7/10",
+        "G06Q 20/32",
+        "H04B 5/00",
+        "H04B 5/02"
+    ]
+}

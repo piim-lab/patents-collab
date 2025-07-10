@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0804968-8",
+    "filingDate": "14/11/2008",
+    "grantDate": null,
+    "title": "MECANISMO DE REDEBULHAMENTO PARA UMA COMBINADA, E,COMBINADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/005005",
+            "priorityDate": "29/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        }
+    ],
+    "inventors": [
+        "GLENN E POPE",
+        "EDWARD L FARWELL",
+        "AARON J BRUNS"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01F 12/52"
+    ]
+}

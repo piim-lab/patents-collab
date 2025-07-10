@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0703733-3",
+    "filingDate": "11/09/2007",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PARTIDA DO MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06019356.2",
+            "priorityDate": "15/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.23",
+            "description": "Pedido \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "15.14",
+            "description": "Notifica\u00e7\u00e3o de Decis\u00e3o Judicial",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "JOHANN SEITZ",
+        "MARKUS MEIER",
+        "J\u00dcRGEN TROTTMANN"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H02P 1/10",
+        "H02P 7/24"
+    ]
+}

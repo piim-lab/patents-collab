@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0609500-3",
+    "filingDate": "30/03/2006",
+    "grantDate": "14/05/2019",
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE TUBOS SEM COSTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2055-103964",
+            "priorityDate": "31/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "KENICHI SASAKI",
+        "NOBUTOSHI MURAO"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C22C 38/58",
+        "B21B 19/04"
+    ]
+}

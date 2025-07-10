@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0921847-5",
+    "filingDate": "10/11/2009",
+    "grantDate": "09/04/2019",
+    "title": "PROCESSO DE TRATAMENTO DE UMA LENTE \u00d3PTICA E LENTE \u00d3PTICA APTA AO ACABAMENTO DE BORDA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0857719",
+            "priorityDate": "13/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2659"
+        }
+    ],
+    "inventors": [
+        "CHEFIK HABASSI"
+    ],
+    "holders": [
+        81123
+    ],
+    "ipcCodes": [
+        "B29D 11/00",
+        "C09J 7/25",
+        "C09J 7/22",
+        "C09J 7/38"
+    ]
+}

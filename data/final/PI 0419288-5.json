@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0419288-5",
+    "filingDate": "11/03/2004",
+    "grantDate": null,
+    "title": "APARELHO DE GRAVA\u00c7\u00c3O, E M\u00cdDIA DE ARMAZENAGEM DO TIPO DE INST\u00c2NCIA \u00daNICA DE GRAVA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2003-0015858",
+            "priorityDate": "13/03/2003"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2003-0019964",
+            "priorityDate": "31/03/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/477.955",
+            "priorityDate": "13/06/2003"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0007533",
+            "priorityDate": "05/02/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/03/2004",
+        "applicationNumber": "PI 0407517-0"
+    },
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "HEE HWANG",
+        "WAN KO",
+        "GEUN LEE"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "G11B 7/007"
+    ]
+}

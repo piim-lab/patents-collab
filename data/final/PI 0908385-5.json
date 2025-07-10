@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0908385-5",
+    "filingDate": "12/02/2009",
+    "grantDate": null,
+    "title": "Tubo de prote\u00e7\u00e3o de panela, haste tamp\u00e3o ou bocal/tubo de prote\u00e7\u00e3o de entrada submerso",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08250550.4",
+            "priorityDate": "18/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "NORMAN EDWARD ROGERS",
+        "DAVID KENNEDY",
+        "DAVID MILLAR",
+        "SHIBIAO YANG"
+    ],
+    "holders": [
+        98314
+    ],
+    "ipcCodes": [
+        "B22D 41/50",
+        "C04B 35/106"
+    ]
+}

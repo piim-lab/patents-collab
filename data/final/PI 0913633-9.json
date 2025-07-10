@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0913633-9",
+    "filingDate": "29/06/2009",
+    "grantDate": null,
+    "title": "M\u00e9todo para granular material em fus\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2008903295",
+            "priorityDate": "27/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "DONGSHENG XIE",
+        "BERNARD WASHINGTON",
+        "STEVEN SANETSIS"
+    ],
+    "holders": [
+        58137
+    ],
+    "ipcCodes": [
+        "B01J 2/02",
+        "C22B 1/14",
+        "B22F 9/10",
+        "C04B 5/02"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0316491-8",
+    "filingDate": "22/09/2003",
+    "grantDate": "16/10/2018",
+    "title": "INSERTO DE CORTE TANGENCIAL E FRESA",
+    "priorityClaims": [
+        {
+            "countryCode": "IL",
+            "priorityNumber": "153252",
+            "priorityDate": "04/12/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2756"
+        }
+    ],
+    "inventors": [
+        "AMIR SATRAN",
+        "DANNY DAGAN"
+    ],
+    "holders": [
+        83582
+    ],
+    "ipcCodes": [
+        "B23C 5/22"
+    ]
+}

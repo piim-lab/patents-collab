@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0719361-0",
+    "filingDate": "30/11/2007",
+    "grantDate": "06/10/2020",
+    "title": "Compostos , composi\u00e7\u00e3o farmac\u00eautica, e uso do composto",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/872393",
+            "priorityDate": "01/12/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/959742",
+            "priorityDate": "16/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "JEFFREY M BERGMAN",
+        "MICHAEL J BRESLIN",
+        "SWATI P MERCER",
+        "PAUL J COLEMAN",
+        "CHRISTOPHER D COX",
+        "ANTHONY J ROECKER"
+    ],
+    "holders": [
+        82587
+    ],
+    "ipcCodes": [
+        "C07D 487/04",
+        "A61P 3/04",
+        "A61P 25/20",
+        "C07D 401/14",
+        "C07D 471/04",
+        "C07D 413/14",
+        "C07D 495/04",
+        "C07D 403/14",
+        "A61K 31/551",
+        "C07D 491/048",
+        "C07D 491/052"
+    ]
+}

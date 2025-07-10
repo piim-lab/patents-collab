@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "PI 0606839-1",
+    "filingDate": "02/02/2006",
+    "grantDate": "30/11/2021",
+    "title": "USO DE UMA COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA COMPREENDENDO UM INIBIDOR IRREVERS\u00cdVEL DE RECEPTOR DE FATOR DE CRESCIMENTO EPID\u00c9RMICO (EGFR)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/649,483",
+            "priorityDate": "03/02/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/671,989",
+            "priorityDate": "15/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "DANIEL HABER",
+        "DAPHNE WINIFRED BELL",
+        "JEFFREY E SETTLEMAN",
+        "RAFAELLA SORDELLA",
+        "NADIA G GODIN",
+        "EUNICE L KWAK",
+        "SRIDHAR KRISHNA RABINDRAN"
+    ],
+    "holders": [
+        80276,
+        87326
+    ],
+    "ipcCodes": [
+        "A61K 31/00"
+    ]
+}

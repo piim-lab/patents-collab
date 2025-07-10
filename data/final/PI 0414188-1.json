@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0414188-1",
+    "filingDate": "09/09/2004",
+    "grantDate": null,
+    "title": "TRANSMISS\u00c3O REDUNDANTE INCREMENTAL EM UM SISTEMA DE COMUNICA\u00c7\u00c3O MIMO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/501,777",
+            "priorityDate": "09/09/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/531,391",
+            "priorityDate": "18/12/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/801,624",
+            "priorityDate": "15/03/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "TAMER KADOUS"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04J 11/00",
+        "H03D 1/00"
+    ]
+}

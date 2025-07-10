@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0814933-0",
+    "filingDate": "20/06/2008",
+    "grantDate": null,
+    "title": "DISTRIBUIDOR PARA CONDIMENTOS VISCOSOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/836,555",
+            "priorityDate": "09/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "RONALD D ROBERTSON",
+        "WAYNE F SCHNEIDER"
+    ],
+    "holders": [
+        393960
+    ],
+    "ipcCodes": [
+        "B65D 83/00",
+        "B65D 83/76",
+        "B67D 99/00"
+    ]
+}

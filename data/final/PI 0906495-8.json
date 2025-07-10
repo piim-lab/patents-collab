@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0906495-8",
+    "filingDate": "20/01/2009",
+    "grantDate": "10/11/2020",
+    "title": "COMPOSTOS DERIVADOS DE INDOLIL-PIRIDONA E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0801090.2",
+            "priorityDate": "22/01/2008"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0818695.9",
+            "priorityDate": "11/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "STEPHEN STOKES",
+        "NICOLAS FOLOPPE",
+        "ANDREA FIUMANA",
+        "MARTIN DRYSDALE",
+        "SIMON BEDFORD",
+        "PAUL WEBB"
+    ],
+    "holders": [
+        400003
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07D 401/14",
+        "A61K 31/4412"
+    ]
+}

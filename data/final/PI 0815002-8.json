@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0815002-8",
+    "filingDate": "25/07/2008",
+    "grantDate": null,
+    "title": "BOLSA REFOR\u00c7ADA NA LATERAL RESISTENTE \u00c0 RUPTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "962,979",
+            "priorityDate": "02/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        }
+    ],
+    "inventors": [
+        "LAWRENCE ANDREW SCHUMACHER",
+        "GEORGE SCOTT KERR",
+        "BARRY STANLEY SHANTZ",
+        "DAVID P CAMERON",
+        "ROGER B FIELDER"
+    ],
+    "holders": [
+        81186
+    ],
+    "ipcCodes": [
+        "B65D 33/25",
+        "B65D 30/20"
+    ]
+}

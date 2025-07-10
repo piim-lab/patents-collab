@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0906160-6",
+    "filingDate": "12/03/2009",
+    "grantDate": null,
+    "title": "APARELHO DE TRAVAMENTO DE FAIXA FIXA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/035,999",
+            "priorityDate": "12/03/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/251,861",
+            "priorityDate": "15/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "DANIEL J NELSON",
+        "MIKLOS BALAZS MARELIN",
+        "RENE LEIST",
+        "CASEY JAMES DORNEMAN"
+    ],
+    "holders": [
+        399814
+    ],
+    "ipcCodes": [
+        "B65B 13/24"
+    ]
+}

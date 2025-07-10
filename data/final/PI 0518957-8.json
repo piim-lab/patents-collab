@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0518957-8",
+    "filingDate": "06/12/2005",
+    "grantDate": "10/07/2018",
+    "title": "M\u00d3DULO DE BATERIA SECUND\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0112592",
+            "priorityDate": "24/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "JIN WOONG HA",
+        "HANHO LEE",
+        "JEEHO KIM"
+    ],
+    "holders": [
+        1960
+    ],
+    "ipcCodes": [
+        "H01M 2/10"
+    ]
+}

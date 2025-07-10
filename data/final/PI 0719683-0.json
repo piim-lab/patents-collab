@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0719683-0",
+    "filingDate": "31/10/2007",
+    "grantDate": null,
+    "title": "Sistema para indicar o estado de carregamento de um ve\u00edculo e m\u00e9todo para monitoramento da condi\u00e7\u00e3o de carga de um ve\u00edculo",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "06 23802.6",
+            "priorityDate": "29/11/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/717,332",
+            "priorityDate": "13/03/2007"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 251083.7",
+            "priorityDate": "15/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "DUNCAN BROWN",
+        "FRANK SWEENEY"
+    ],
+    "holders": [
+        387877
+    ],
+    "ipcCodes": [
+        "B60G 17/019",
+        "B60G 17/017",
+        "G01G 19/08"
+    ]
+}

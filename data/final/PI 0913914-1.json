@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0913914-1",
+    "filingDate": "30/06/2009",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA ENCHIMENTO DE RECIPIENTES DO TIPO FLEX\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0801566-1",
+            "priorityDate": "02/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "PER GUSTAFSSON"
+    ],
+    "holders": [
+        114135
+    ],
+    "ipcCodes": [
+        "B65B 39/08"
+    ]
+}

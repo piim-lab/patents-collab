@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0915322-5",
+    "filingDate": "10/06/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA A PRODU\u00c7\u00c3O E ENCHIMENTO DE RECIPIENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 028 754.7",
+            "priorityDate": "17/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        }
+    ],
+    "inventors": [
+        "BERND HANSEN"
+    ],
+    "holders": [
+        107121
+    ],
+    "ipcCodes": [
+        "B65B 55/02",
+        "B67C 3/00",
+        "B67C 3/26",
+        "B67C 7/00",
+        "B65B 3/02"
+    ]
+}

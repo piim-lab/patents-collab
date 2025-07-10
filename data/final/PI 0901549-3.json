@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0901549-3",
+    "filingDate": "14/05/2009",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE LIGA\u00c7\u00c3O DE BARRA DE REFOR\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-130639",
+            "priorityDate": "19/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "TAKAHIRO NAGAOKA"
+    ],
+    "holders": [
+        61205
+    ],
+    "ipcCodes": [
+        "E04G 21/12",
+        "B25B 25/00"
+    ]
+}

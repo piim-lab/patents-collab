@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0306779-3",
+    "filingDate": "09/01/2003",
+    "grantDate": null,
+    "title": "PRODUTO LIGADO POR FUS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "002851",
+            "priorityDate": "09/01/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "YOSHIMASA MATSUURA",
+        "SEIICHIROU TOMOURA"
+    ],
+    "holders": [
+        175753
+    ],
+    "ipcCodes": [
+        "B32B 3/02",
+        "B29C 65/02"
+    ]
+}

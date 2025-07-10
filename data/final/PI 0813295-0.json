@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0813295-0",
+    "filingDate": "27/06/2008",
+    "grantDate": "24/09/2019",
+    "title": "Br\u00e1quete Ortod\u00f4ntico",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/946,842",
+            "priorityDate": "28/06/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/022,570",
+            "priorityDate": "22/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "TODD I ODA",
+        "HAMID SHEIKH",
+        "DWIGHT DAMON",
+        "FARROKH FARZIN",
+        "JEFFERSON SABILLA"
+    ],
+    "holders": [
+        379324
+    ],
+    "ipcCodes": [
+        "A61C 7/28",
+        "A61C 7/14"
+    ]
+}

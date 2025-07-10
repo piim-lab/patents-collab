@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0923084-0",
+    "filingDate": "17/11/2009",
+    "grantDate": null,
+    "title": "M\u00c1QUINA EL\u00c9TRICA, ESPECIALMENTE GERADOR DE CORRENTE ALTERNADA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 054 959.2",
+            "priorityDate": "19/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "VASSILIOS SEKERTZIS",
+        "LARS RUDOLPH",
+        "KLAUS HERBOLD",
+        "GERLINDE WEBER",
+        "DANIEL AMARAL"
+    ],
+    "holders": [
+        7607
+    ],
+    "ipcCodes": [
+        "H02K 5/04"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0208123-7",
+    "filingDate": "14/03/2002",
+    "grantDate": "10/11/2020",
+    "title": "COMPOSI\u00c7\u00c3O CONTENDO EXTRATO DE MATRIC\u00c1RIA E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/276,304",
+            "priorityDate": "16/03/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2786"
+        }
+    ],
+    "inventors": [
+        "KATHARINE M MARTIN",
+        "CLAUDE SALIOU"
+    ],
+    "holders": [
+        350276
+    ],
+    "ipcCodes": [
+        "A61K 8/97",
+        "A61Q 19/08"
+    ]
+}

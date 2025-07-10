@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0920000-2",
+    "filingDate": "16/07/2009",
+    "grantDate": "24/04/2019",
+    "title": "CONJUNTO DE DOBRADI\u00c7A PARA UM ASSENTO DE VASO SANIT\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/109,049",
+            "priorityDate": "28/10/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/366,895",
+            "priorityDate": "06/02/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2009/0033907",
+            "priorityDate": "12/02/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/503,527",
+            "priorityDate": "15/07/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "JOSEPH HAND",
+        "JOHN SEAMAN"
+    ],
+    "holders": [
+        44996
+    ],
+    "ipcCodes": [
+        "F16B 31/02",
+        "A47K 13/12"
+    ]
+}

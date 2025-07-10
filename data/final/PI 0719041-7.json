@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0719041-7",
+    "filingDate": "08/11/2007",
+    "grantDate": null,
+    "title": "ROTOR E ELEMENTO COMPRESSOR FORNECIDO COM ESSE ROTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2006/0569",
+            "priorityDate": "23/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        }
+    ],
+    "inventors": [
+        "ERIK ERIC DANI\u00cbL MOENS"
+    ],
+    "holders": [
+        33201
+    ],
+    "ipcCodes": [
+        "F04C 18/16",
+        "F04C 29/02",
+        "F16C 3/02",
+        "F04C 29/04",
+        "F04C 18/08"
+    ]
+}

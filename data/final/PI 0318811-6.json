@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "PI 0318811-6",
+    "filingDate": "05/11/2003",
+    "grantDate": "03/11/2020",
+    "title": "DERIVADOS DE CICLOHEXANOL ESPIROC\u00cdCLICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102526672",
+            "priorityDate": "11/11/2002"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/11/2003",
+        "applicationNumber": "PI 0315296-0"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "CLAUDIA HINZE",
+        "OTTO AULENBACHER",
+        "BERND SUNDERMANN",
+        "STEFAN OBERB\u00d6RSCH",
+        "ELMAR FRIDERICHS",
+        "WERNER ENGLBERGER",
+        "BABETTE YVONNE K\u00d6GEL",
+        "KLAUS LINZ",
+        "HANS SCHICK",
+        "HELMUT SONNENSCHEIN",
+        "BIRGITTA HENKEL",
+        "VALERIE SARAH ROSE",
+        "MICHAEL JONATHAN LIPKIN"
+    ],
+    "holders": [
+        80587
+    ],
+    "ipcCodes": [
+        "A61P 25/00",
+        "A61K 31/407",
+        "C07D 471/10",
+        "C07D 493/10",
+        "C07D 495/10",
+        "C07D 491/10"
+    ]
+}

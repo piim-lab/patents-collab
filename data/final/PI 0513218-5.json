@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0513218-5",
+    "filingDate": "12/07/2005",
+    "grantDate": null,
+    "title": "PROCESSO PARA RECUPERA\u00c7\u00c3O DE FIBRA C\u00cdTRICA DE VES\u00cdCULAS C\u00cdTRICAS, DITA FIBRA, ADITIVO E PRODUTO ALIMENT\u00cdCIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/586,732",
+            "priorityDate": "12/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "JOSE CARLOS F PASSARELLI",
+        "TODD MATTHIESEN",
+        "JOZEF VANHEMELRIJK",
+        "TODD W GUSEK",
+        "DAVID REEDER"
+    ],
+    "holders": [
+        376749
+    ],
+    "ipcCodes": [
+        "A23L 7/126",
+        "A23L 21/12",
+        "A21D 2/36",
+        "A23L 19/00",
+        "A23L 33/22",
+        "A23L 27/60",
+        "A23L 13/40"
+    ]
+}

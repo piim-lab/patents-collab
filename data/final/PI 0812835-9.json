@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0812835-9",
+    "filingDate": "02/07/2008",
+    "grantDate": "08/09/2020",
+    "title": "Combina\u00e7\u00f5es e produtos contendo um agente inibidor de vegf e do irinotecano.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0704868",
+            "priorityDate": "05/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "CHRISTINE BISSERY",
+        "MARIELLE CHIRON",
+        "PASCALE LEJEUNE",
+        "PATRICIA VRIGNAUD"
+    ],
+    "holders": [
+        90097
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 38/16",
+        "A61K 31/4745"
+    ]
+}

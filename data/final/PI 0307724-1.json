@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0307724-1",
+    "filingDate": "14/02/2003",
+    "grantDate": "18/06/2019",
+    "title": "SISTEMAS PARA DISTRIBUI\u00c7\u00c3O DE IMUN\u00d3GENOS SINT\u00c9TICOS ESTABILIZADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/076,674",
+            "priorityDate": "14/02/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/355,161",
+            "priorityDate": "31/01/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "KENNETH K SOKOLL"
+    ],
+    "holders": [
+        107053
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "A61K 39/39"
+    ]
+}

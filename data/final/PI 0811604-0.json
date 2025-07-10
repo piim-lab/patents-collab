@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0811604-0",
+    "filingDate": "16/05/2008",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ACESSO TIPO BOLSA UNIVERSAL LIVRE DE AGULHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/804,660",
+            "priorityDate": "18/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79497
+    ],
+    "ipcCodes": []
+}

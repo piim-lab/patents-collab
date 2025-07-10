@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0611742-2",
+    "filingDate": "21/06/2006",
+    "grantDate": "02/07/2019",
+    "title": "C\u00c1PSULA QUEBR\u00c1VEL INTEIRI\u00c7A DE GELANA E PROCESSO PARA FABRICA\u00c7\u00c3O DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP05/008502",
+            "priorityDate": "21/06/2005"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP05/009226",
+            "priorityDate": "05/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "DIDIER HARTMANN",
+        "MICHEL HANNETEL",
+        "NATHALIE COUSIERES",
+        "JEAN MANE"
+    ],
+    "holders": [
+        86859
+    ],
+    "ipcCodes": [
+        "A61Q 19/00",
+        "A61K 8/11",
+        "A23L 27/00",
+        "A61Q 11/00",
+        "A23P 10/30",
+        "A61K 9/48",
+        "A23L 29/269",
+        "B01J 13/04"
+    ]
+}

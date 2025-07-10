@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0720582-1",
+    "filingDate": "17/12/2007",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o de libera\u00e7\u00e3o prolongada, processo para a prepara\u00e7\u00e3o da mesma, composi\u00e7\u00e3o farmac\u00eautica, agente profil\u00e1tico ou terap\u00eautico, e, uso de uma subst\u00e2ncia fisiologicamente ativa",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/875,364",
+            "priorityDate": "18/12/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/917,401",
+            "priorityDate": "11/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "MASUHISA HORI",
+        "TOMOMICHI FUTO",
+        "KAZUHIRO SAITO",
+        "TETSUO HOSHINO"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "A61K 9/16",
+        "A61K 31/55"
+    ]
+}

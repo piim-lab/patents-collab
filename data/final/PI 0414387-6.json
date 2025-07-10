@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0414387-6",
+    "filingDate": "16/09/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CRIAR UMA SOLU\u00c7\u00c3O DE TRANSMISS\u00c3O N\u00c3O-HIERARQUIZADA DE MENSAGENS SEM UTILIZAR UM SERVIDOR DE TRANSMISS\u00c3O INSTANT\u00c2NEA DE MENSAGENS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/503,367",
+            "priorityDate": "16/09/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/503,366",
+            "priorityDate": "16/09/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "MIHAL LAZARIDIS",
+        "GERHARD D KLASSEN",
+        "CHRISTOPHER R WORMALD",
+        "SHERRYL LEE LORRAINE SCOTT"
+    ],
+    "holders": [
+        3754
+    ],
+    "ipcCodes": [
+        "H04L 12/54"
+    ]
+}

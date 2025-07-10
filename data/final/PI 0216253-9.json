@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0216253-9",
+    "filingDate": "27/03/2002",
+    "grantDate": null,
+    "title": "ELETRO-USINA",
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2620"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        371369
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0820297-4",
+    "filingDate": "10/11/2008",
+    "grantDate": "24/04/2019",
+    "title": "INSTRUMENTOS PARA REALIZAR UM PROCEDIMENTO OPERAT\u00d3RIO EM UMA JUNTA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102007053702.8",
+            "priorityDate": "10/11/2007"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102008039241.3",
+            "priorityDate": "22/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH RANFT"
+    ],
+    "holders": [
+        101458
+    ],
+    "ipcCodes": [
+        "A61B 17/17",
+        "A61B 17/15"
+    ]
+}

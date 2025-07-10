@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0306799-8",
+    "filingDate": "22/01/2003",
+    "grantDate": "14/10/2014",
+    "title": "DISPENSADOR DE MEDICAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0201677.2",
+            "priorityDate": "25/01/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "STANLEY GEORGE BONNEY",
+        "MICHAEL BRISHA DAVIES",
+        "DANIEL THOMAS DE SAUSMAREZ LINTELL",
+        "ALAN ANTHONY WILSON",
+        "GREGOR JOHN MCLENNAN ANDERSON",
+        "HUGH ALEXANDER CONNELL",
+        "ROBERT WILLIAM TANSLEY",
+        "STEPHEN JAMES HARVEY"
+    ],
+    "holders": [
+        81128
+    ],
+    "ipcCodes": [
+        "A61M 15/00"
+    ]
+}

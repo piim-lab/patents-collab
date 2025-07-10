@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0810686-0",
+    "filingDate": "14/04/2008",
+    "grantDate": null,
+    "title": "PROCESSO DE CARBONILA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/798,868",
+            "priorityDate": "25/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "MARK O SCATES",
+        "JOSHUA GREGORY WAGNER"
+    ],
+    "holders": [
+        88517
+    ],
+    "ipcCodes": [
+        "B01D 3/06",
+        "C07C 53/08",
+        "C07C 51/12",
+        "C07C 51/47"
+    ]
+}

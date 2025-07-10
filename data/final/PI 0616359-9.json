@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0616359-9",
+    "filingDate": "29/09/2006",
+    "grantDate": "08/09/2021",
+    "title": "Composi\u00e7\u00e3o farmac\u00eautica, processo para purifica\u00e7\u00e3o de um anticorpo de il-13 e uso de uma composi\u00e7\u00e3o farmac\u00eautica contendo um anticorpo",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0519923.7",
+            "priorityDate": "30/09/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/721,974",
+            "priorityDate": "30/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "BRENDAN CORMICK FISH",
+        "JEANETTE ELIZABETH LANGSTONE",
+        "KAREN BANNISTER",
+        "CLAIRE LOUISE HOPE"
+    ],
+    "holders": [
+        91046
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61K 47/02",
+        "A61K 47/26",
+        "A61K 9/00",
+        "A61K 47/12",
+        "C07K 16/24"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0507844-0",
+    "filingDate": "15/02/2005",
+    "grantDate": null,
+    "title": "SISTEMA DE COMPUTA\u00c7\u00c3O DISTRIBU\u00cdDA, SERVIDOR DE GERENCIAMENTO E M\u00c9TODO PARA EXECUTAR UM TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-041611",
+            "priorityDate": "18/02/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "AKIHIRO KANEKO"
+    ],
+    "holders": [
+        33313
+    ],
+    "ipcCodes": [
+        "G06F 9/50"
+    ]
+}

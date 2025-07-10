@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0814003-0",
+    "filingDate": "03/07/2008",
+    "grantDate": null,
+    "title": "Formula\u00e7\u00f5es de anticorpo anti-CD20",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/948,220",
+            "priorityDate": "06/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "CHARLENE E BRISBANE",
+        "AMOL SHARAD KETKAR",
+        "ULLA TOVE LASHMAR"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61K 39/395"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0921346-5",
+    "filingDate": "14/09/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONTROLE DE UM CICLO PARA CORRE\u00c7\u00c3O DE FATOR DE POT\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200810219009.6",
+            "priorityDate": "11/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "XUETAO MI",
+        "QINGFENG GUO",
+        "MIN XU"
+    ],
+    "holders": [
+        142662
+    ],
+    "ipcCodes": [
+        "G05F 1/70",
+        "H02M 1/42"
+    ]
+}

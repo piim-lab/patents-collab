@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0913169-8",
+    "filingDate": "28/08/2009",
+    "grantDate": null,
+    "title": "Processo para moldar um artigo por inje\u00e7\u00e3o e sopro e artigo",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/092,594",
+            "priorityDate": "28/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        }
+    ],
+    "inventors": [
+        "MRIDULA KAPUR",
+        "ALAN RADWANSKI"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "B29C 49/06",
+        "C08K 5/00",
+        "C08K 5/20",
+        "C08K 5/098"
+    ]
+}

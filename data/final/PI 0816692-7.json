@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0816692-7",
+    "filingDate": "08/09/2008",
+    "grantDate": null,
+    "title": "INSTRUMENTO PARA MEDIR UMA TAXA DE FLUXO DE UM P\u00d3",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-236889",
+            "priorityDate": "12/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "WATARU HISADA",
+        "MITSUO SHINTANI",
+        "MANABU YAMAGUCHI",
+        "YOSHIKI ARAMATSU"
+    ],
+    "holders": [
+        1658
+    ],
+    "ipcCodes": [
+        "G01F 1/74",
+        "G01F 1/56"
+    ]
+}

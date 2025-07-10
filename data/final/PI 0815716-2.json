@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0815716-2",
+    "filingDate": "20/08/2008",
+    "grantDate": null,
+    "title": "DECAPAGEM SECUND\u00c1RIA ECON\u00d4MICA.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07291027.6",
+            "priorityDate": "21/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "VAL\u00c9RIE LEBLANC",
+        "LUC BOREAN",
+        "NATHALIE MIKLER",
+        "GILLES DUSSART",
+        "MIALOT SYLVAIN",
+        "PATRICE MATET"
+    ],
+    "holders": [
+        350346
+    ],
+    "ipcCodes": [
+        "C23G 3/02",
+        "B08B 3/02",
+        "B21B 45/08",
+        "B21B 45/06"
+    ]
+}

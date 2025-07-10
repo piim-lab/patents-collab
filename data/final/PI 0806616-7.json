@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0806616-7",
+    "filingDate": "18/01/2008",
+    "grantDate": null,
+    "title": "GUINCHO, EMBARCA\u00c7\u00c3O, E, M\u00c9TODO PARA OPERAR UM GUINCHO DE NAVIO",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2000443",
+            "priorityDate": "18/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "MARKUS VAN DER LAAN"
+    ],
+    "holders": [
+        390375
+    ],
+    "ipcCodes": [
+        "B66D 1/58",
+        "B66D 1/16"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0715192-6",
+    "filingDate": "03/10/2007",
+    "grantDate": null,
+    "title": "M\u00c1QUINA PARA CORTAR TORAS DE PAPEL",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "FI2006A000292",
+            "priorityDate": "24/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "PAOLO CATELLI"
+    ],
+    "holders": [
+        152426
+    ],
+    "ipcCodes": [
+        "B26D 3/16",
+        "B26D 1/46"
+    ]
+}

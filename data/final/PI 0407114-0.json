@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0407114-0",
+    "filingDate": "23/01/2004",
+    "grantDate": "11/09/2018",
+    "title": "COMPOSI\u00c7\u00c3O PARA LAVAGEM DE ROUPA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/357,248",
+            "priorityDate": "03/02/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/446,202",
+            "priorityDate": "27/05/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2774"
+        }
+    ],
+    "inventors": [
+        "DENNIS STEPHEN MURPHY",
+        "MICHAEL ORCHOWSKI",
+        "ALLA TARTAKOVSKY",
+        "DAVID ALAN BINDER"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "C11D 3/37",
+        "C11D 1/02",
+        "C11D 3/22"
+    ]
+}

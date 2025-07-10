@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0612292-2",
+    "filingDate": "14/06/2006",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-175778",
+            "priorityDate": "15/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        }
+    ],
+    "inventors": [
+        "MINAMI ISHII",
+        "YASUHIRO KATO",
+        "TAKASHI SUZUKI",
+        "SADAYUKI ABETA",
+        "TAKEHIRO NAKAMURA",
+        "SHOICHI SHITARA",
+        "YASUHIRO KATO",
+        "MIKIO IWAMURA",
+        "MASASHI KANAUCHI",
+        "ITSUMA TANAKA"
+    ],
+    "holders": [
+        79221,
+        87815
+    ],
+    "ipcCodes": [
+        "H04W 76/19"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0808164-6",
+    "filingDate": "04/02/2008",
+    "grantDate": "05/05/2020",
+    "title": "VARIANTES DERIVADAS DE ACTRIIB E SEUS USOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/899.304",
+            "priorityDate": "02/02/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/927.088",
+            "priorityDate": "01/05/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/931.880",
+            "priorityDate": "25/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "JOHN KNOPF",
+        "RAVINDRA KUMAR",
+        "JASBIR SEEHRA"
+    ],
+    "holders": [
+        82387
+    ],
+    "ipcCodes": [
+        "A61K 38/17",
+        "C07K 14/705"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 1002184-1",
+    "filingDate": "14/05/2010",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00d5ES, COMPONENTES E M\u00c9TODOS DE LUZ DE AVISO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/178.354",
+            "priorityDate": "14/05/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/178.348",
+            "priorityDate": "14/05/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/306.240",
+            "priorityDate": "19/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        }
+    ],
+    "inventors": [
+        "BERNARD R BURKE",
+        "CHARLES P MEYER",
+        "CHRISTOPHER RADZIK",
+        "GEORGE R FRANK",
+        "SIGMUND S URBANSKI",
+        "PAUL GERGETS",
+        "VINCENT S FLESZEWSKI"
+    ],
+    "holders": [
+        411225
+    ],
+    "ipcCodes": [
+        "B60Q 1/52"
+    ]
+}

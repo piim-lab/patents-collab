@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0917482-6",
+    "filingDate": "05/08/2009",
+    "grantDate": "02/07/2019",
+    "title": "SISTEMA TRANSFORMADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08 161996.7",
+            "priorityDate": "07/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "HARNOLD SCHWAIGER"
+    ],
+    "holders": [
+        406285
+    ],
+    "ipcCodes": [
+        "F03D 80/00",
+        "H01F 27/08",
+        "H01F 27/40"
+    ]
+}

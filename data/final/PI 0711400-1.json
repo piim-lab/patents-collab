@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0711400-1",
+    "filingDate": "27/04/2007",
+    "grantDate": "05/02/2019",
+    "title": "M\u00c9TODO PARA O ENCHIMENTO E LAVAGEM DE UM CONJUNTO DE TUBOS SANGU\u00cdNEOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 022 122.2",
+            "priorityDate": "11/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2772"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "MAX FISCHER"
+    ],
+    "holders": [
+        81796
+    ],
+    "ipcCodes": [
+        "A61M 1/36",
+        "A61M 1/34"
+    ]
+}

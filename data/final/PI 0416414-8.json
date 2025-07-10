@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0416414-8",
+    "filingDate": "18/11/2004",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA  A PRODU\u00c7\u00c3O DE UM ESFOR\u00c7O DE TRA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/723,572",
+            "priorityDate": "25/11/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "ROBERT DEAN KING",
+        "LEMBIT SALASOO"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "B60L 11/18",
+        "B60L 11/12",
+        "B60L 11/08",
+        "B60L 11/00"
+    ]
+}

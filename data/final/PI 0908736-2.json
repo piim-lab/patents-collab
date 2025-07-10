@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0908736-2",
+    "filingDate": "13/03/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO E SISTEMA DE ACESSO PARA VE\u00cdCULOS E MODOS DE EMPREGO DE MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2008901284",
+            "priorityDate": "17/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "NATHAN JOHN ELLEMENT"
+    ],
+    "holders": [
+        17987
+    ],
+    "ipcCodes": [
+        "E06C 5/26"
+    ]
+}

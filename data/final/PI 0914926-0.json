@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0914926-0",
+    "filingDate": "18/06/2009",
+    "grantDate": null,
+    "title": "USO DE BENZOTROPOLONA E DERIVADOS DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08158977.2",
+            "priorityDate": "25/06/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08166349.4",
+            "priorityDate": "10/10/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09155560.7",
+            "priorityDate": "19/03/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "BARBARA WAGNER",
+        "REINHOLD OHRLEIN",
+        "BERND HERZOG",
+        "KAI EICHIN",
+        "GABRIELE BAISCH",
+        "STEPHANIE PORTMANN"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "A61K 8/35",
+        "A61Q 17/04",
+        "A61Q 17/00",
+        "C07H 15/203",
+        "C07D 311/02",
+        "C07C 49/717"
+    ]
+}

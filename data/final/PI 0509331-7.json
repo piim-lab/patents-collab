@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0509331-7",
+    "filingDate": "30/03/2005",
+    "grantDate": "27/11/2018",
+    "title": "Uso de uma composi\u00e7\u00e3o de liga\u00e7\u00e3o de s\u00f3dio",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/814,527",
+            "priorityDate": "30/03/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/814,749",
+            "priorityDate": "30/03/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/813,872",
+            "priorityDate": "30/03/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/965,274",
+            "priorityDate": "13/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "ROBERT ALPERN",
+        "JERRY M BUYSSE",
+        "HAN TING CHANG",
+        "DOMINIQUE CHARMOT",
+        "MICHAEL JAMES COPE",
+        "JOHN FORDTRAN",
+        "GERRIT KLAERNER"
+    ],
+    "holders": [
+        150098
+    ],
+    "ipcCodes": [
+        "A61K 9/48",
+        "A61K 9/28"
+    ]
+}

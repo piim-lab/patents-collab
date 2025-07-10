@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0809194-3",
+    "filingDate": "19/03/2008",
+    "grantDate": null,
+    "title": "Processo para revestimento de um substrato e equipamento de deposi\u00e7\u00e3o a v\u00e1cuo",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 290342.0",
+            "priorityDate": "20/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "PATRICK CHOQUET",
+        "ERIC SILBERBERG",
+        "BRUNO SCHMITZ",
+        "DANIEL CHALEIX"
+    ],
+    "holders": [
+        350346
+    ],
+    "ipcCodes": [
+        "C23C 14/24",
+        "C23C 14/56",
+        "C23C 14/16"
+    ]
+}

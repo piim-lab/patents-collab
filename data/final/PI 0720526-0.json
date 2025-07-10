@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0720526-0",
+    "filingDate": "19/12/2007",
+    "grantDate": null,
+    "title": "SENSOR DE TEMPERATURA DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/870,716",
+            "priorityDate": "19/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "MATHEW L SANDNAS",
+        "GLENN AUSTIN",
+        "MARK J BUENZ",
+        "DANIEL TEIGEN",
+        "WADE WILLIAMS"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01K 13/02"
+    ]
+}

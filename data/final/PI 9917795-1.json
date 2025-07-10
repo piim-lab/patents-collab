@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "PI 9917795-1",
+    "filingDate": "16/11/1999",
+    "grantDate": null,
+    "title": "PROCESSO PARA DESTOXIFICA\u00c7\u00c3O DE UM HERBICIDA FOSFONATO",
+    "divisionalApplication": {
+        "filingDate": "16/11/1999",
+        "applicationNumber": "PI 9915435-8"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        90324
+    ],
+    "ipcCodes": []
+}

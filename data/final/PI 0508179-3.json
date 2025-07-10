@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0508179-3",
+    "filingDate": "03/03/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA EFETUAR A TRANSFER\u00caNCIA POR UMA MSS / BS SERVIDORA EM UM SISTEMA DE COMUNICA\u00c7\u00c3O DE BWA, ESTA\u00c7\u00c3O ASSINANTE M\u00d3VEL, E ESTA\u00c7\u00c3O BASE SERVIDORA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0015217",
+            "priorityDate": "05/03/2004"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0032215",
+            "priorityDate": "07/05/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        }
+    ],
+    "inventors": [
+        "JEONG KANG",
+        "HOI KOO",
+        "JE SON",
+        "KYU LIM",
+        "MOON SON",
+        "HYUN KIM",
+        "JIN LEE"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04B 7/26"
+    ]
+}

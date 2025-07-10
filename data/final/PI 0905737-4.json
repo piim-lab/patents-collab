@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0905737-4",
+    "filingDate": "15/01/2009",
+    "grantDate": null,
+    "title": "CONJUNTO DE UM RECIPIENTE E UM FECHO E FECHO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08100515.9",
+            "priorityDate": "15/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "SARAH VANHOVE",
+        "DANIEL PEIRSMAN",
+        "VANESSA VALLES"
+    ],
+    "holders": [
+        100000
+    ],
+    "ipcCodes": [
+        "B65D 47/24",
+        "B65D 77/06",
+        "B65D 51/16"
+    ]
+}

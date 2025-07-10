@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0803389-7",
+    "filingDate": "13/08/2008",
+    "grantDate": "10/09/2019",
+    "title": "M\u00c9TODOS IMPLEMENTADOS POR COMPUTADOR PARA GERENCIAMENTO DE SEQU\u00caNCIA DE MENSAGEM DE EVENTOS CORRELACIONADOS E DE UMA SEQU\u00caNCIA DE SOLICITA\u00c7\u00d5ES DE SERVI\u00c7O CORRELACIONADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/901,308",
+            "priorityDate": "17/09/2007"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 425528.2",
+            "priorityDate": "19/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2787"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "STEFANO RENZO GANDINI",
+        "ADRIANO OTTAVI",
+        "LUCIANO APRILE"
+    ],
+    "holders": [
+        1250
+    ],
+    "ipcCodes": [
+        "G06C 21/00"
+    ]
+}

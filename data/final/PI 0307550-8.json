@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0307550-8",
+    "filingDate": "12/03/2003",
+    "grantDate": "09/01/2018",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA EM GEL T\u00d3PICA, DE ADAPALENO 0,3%",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0203070",
+            "priorityDate": "12/03/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/370,223",
+            "priorityDate": "08/04/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "MICHAEL GRAEBER",
+        "JANUSZ CZERNIELEWSKI"
+    ],
+    "holders": [
+        93716
+    ],
+    "ipcCodes": [
+        "A61K 9/10",
+        "A61P 17/06",
+        "A61P 17/00",
+        "A61P 17/10",
+        "A61K 31/192",
+        "A61K 9/06",
+        "A61P 17/12"
+    ]
+}

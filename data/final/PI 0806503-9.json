@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0806503-9",
+    "filingDate": "11/01/2008",
+    "grantDate": null,
+    "title": "PROCESSO APERFEI\u00c7OADO DE SECAGEM POR PULVERIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/884,860",
+            "priorityDate": "12/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "HERBERT B SCHER",
+        "DEBORAH S WINETZKY"
+    ],
+    "holders": [
+        387406
+    ],
+    "ipcCodes": [
+        "C11D 3/386",
+        "C12N 9/98"
+    ]
+}

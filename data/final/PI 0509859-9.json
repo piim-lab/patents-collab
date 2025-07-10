@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0509859-9",
+    "filingDate": "13/04/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UMA LOCALIZA\u00c7\u00c3O DE UM METAL DENTRO DE UM COL\u00d3IDE DE S\u00cdLICA CONTENDO METAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/827,214",
+            "priorityDate": "19/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "BRIAN T HOLLAND",
+        "FRANCOIS BATLLO",
+        "CARMEN Y ORTIZ",
+        "DENNIS L MACDONALD"
+    ],
+    "holders": [
+        14606
+    ],
+    "ipcCodes": [
+        "C01B 33/20",
+        "C01F 17/00",
+        "B01F 3/12"
+    ]
+}

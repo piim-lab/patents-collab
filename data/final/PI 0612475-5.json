@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0612475-5",
+    "filingDate": "28/04/2006",
+    "grantDate": "10/03/2020",
+    "title": "M\u00c9TODOS PARA A PREPARA\u00c7\u00c3O DE UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/678,264",
+            "priorityDate": "06/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "RAFAEL SHAPIRO"
+    ],
+    "holders": [
+        380499
+    ],
+    "ipcCodes": [
+        "C07D 239/28",
+        "A61K 31/505"
+    ]
+}

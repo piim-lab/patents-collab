@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0806334-6",
+    "filingDate": "19/08/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE RESINA DE POLICARBONATO AROM\u00c1TICA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-213451",
+            "priorityDate": "20/08/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-220979",
+            "priorityDate": "28/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "RYUUJI UCHIMURA",
+        "KOUJI IWAKI"
+    ],
+    "holders": [
+        84092
+    ],
+    "ipcCodes": [
+        "C08G 64/40"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0616713-6",
+    "filingDate": "18/09/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA ADMINISTRA\u00c7\u00c3O DE DIREITO DIGITAL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05109043.9",
+            "priorityDate": "30/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        }
+    ],
+    "inventors": [
+        "WOUTER BAKS",
+        "FRANCISCUS L A J KAMPERMAN",
+        "PETRUS J LENOIR",
+        "LUKASZ SZOSTEK"
+    ],
+    "holders": [
+        80352
+    ],
+    "ipcCodes": [
+        "G06F 21/00"
+    ]
+}

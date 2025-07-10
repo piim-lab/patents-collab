@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0820324-5",
+    "filingDate": "23/09/2008",
+    "grantDate": "18/09/2018",
+    "title": "GERADOR DE CORRENTE CONT\u00cdNUA",
+    "priorityClaims": [
+        {
+            "countryCode": "10",
+            "priorityNumber": "2007 056 323.1",
+            "priorityDate": "22/11/2007 DE"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2705"
+        }
+    ],
+    "inventors": [
+        "JAE YONG SHIN",
+        "OLIVER SCHEIB",
+        "FRANK KOPF",
+        "MARKUS LIEDEL",
+        "MICHAEL KUPFERER",
+        "MICHAEL STRUPP"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "H02K 5/14",
+        "H02K 11/02"
+    ]
+}

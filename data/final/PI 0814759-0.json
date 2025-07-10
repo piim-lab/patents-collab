@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0814759-0",
+    "filingDate": "01/08/2008",
+    "grantDate": null,
+    "title": "SISTEMA DE ADMINISTRA\u00c7\u00c3O E NOTIFICA\u00c7\u00c3O DE MEDICAMENTO ESPEC\u00cdFICO DE PACIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/833,869",
+            "priorityDate": "03/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "BARRY ARTHUR BROWN"
+    ],
+    "holders": [
+        79497
+    ],
+    "ipcCodes": [
+        "G06F 19/00"
+    ]
+}

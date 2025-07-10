@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0614521-3",
+    "filingDate": "02/08/2006",
+    "grantDate": "23/02/2021",
+    "title": "INDICADOR DE OXIG\u00caNIO PARA USO EM PRODUTOS M\u00c9DICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/704,555",
+            "priorityDate": "02/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "LUC TROUILLY",
+        "FREDDY DESBROSSES",
+        "DENIS BONNOT",
+        "CHRISTIAN MELIN"
+    ],
+    "holders": [
+        92904,
+        92903
+    ],
+    "ipcCodes": [
+        "G01N 31/22",
+        "A61J 1/00"
+    ]
+}

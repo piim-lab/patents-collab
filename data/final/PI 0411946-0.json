@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0411946-0",
+    "filingDate": "25/06/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONFIGURA\u00c7\u00c3O R\u00c1PIDA DE CHAMADA EM UM SISTEMA DE COMUNICA\u00c7\u00c3O M\u00d3VEL, TERMINAL M\u00d3VEL E ESTA\u00c7\u00c3O BASE",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2003-0045354",
+            "priorityDate": "04/07/2003"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2003-0052026",
+            "priorityDate": "28/07/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2487"
+        }
+    ],
+    "inventors": [
+        "JONG HOE AN",
+        "CHAN HO KYUNG"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "H04W 68/02",
+        "H04J 3/00"
+    ]
+}

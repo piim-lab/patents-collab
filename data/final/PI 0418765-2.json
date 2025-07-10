@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0418765-2",
+    "filingDate": "09/11/2004",
+    "grantDate": "04/06/2019",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, M\u00c9TODO DE INIBIR O TGF-B, M\u00c9TODO DE REDUZIR O AC\u00daMULO DE EXCESSO DE MATRIZ EXTRACELULAR, M\u00c9TODO DE INIBIR MET\u00c1STESE DE C\u00c9LULAS TUMORAIS, M\u00c9TODO DE TRATAR CARCINOMAS, M\u00c9TODO DE TRATAR UMA DOEN\u00c7A PR\u00d3-DROGA, M\u00c9TODO DE INIBIR TROMBOSE",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0027591",
+            "priorityDate": "21/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "KEE KIM",
+        "JUE BANG",
+        "TAEK KIM",
+        "SANG CHO",
+        "SOON PARK",
+        "YOUNG JAE AN",
+        "JOON HUN CHOI"
+    ],
+    "holders": [
+        374958
+    ],
+    "ipcCodes": [
+        "A61K 31/4178",
+        "C07D 401/04"
+    ]
+}

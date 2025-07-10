@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0816667-6",
+    "filingDate": "05/09/2008",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES AGLUTINANTES DE ASFALTO DE MISTURA AQUECIDA CONTENDO ADITIVOS LUBRIFICANTES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/970.809",
+            "priorityDate": "07/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/976.141",
+            "priorityDate": "28/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/871.782",
+            "priorityDate": "12/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        351200
+    ],
+    "ipcCodes": []
+}

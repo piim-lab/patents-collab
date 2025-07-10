@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0313838-0",
+    "filingDate": "28/08/2003",
+    "grantDate": null,
+    "title": "PROCESSAMENTO DE SERVIDOR EM PROVIMENTO DE MENSAGENS PARA UM DISPOSITIVO SEM FIO QUE SE CONECTA A UM SERVIDOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/232,910",
+            "priorityDate": "30/08/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.40",
+            "description": "Notifica\u00e7\u00e3o de regulariza\u00e7\u00e3o do processo em andamento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2571"
+        }
+    ],
+    "inventors": [
+        "BRIAN MINEAR",
+        "MAZEN CHMAYTELLI",
+        "MITCHELL B OLIVER",
+        "STEPHEN A SPRIGG"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 28/10",
+        "H04W 80/00"
+    ]
+}

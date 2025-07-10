@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0905276-3",
+    "filingDate": "14/12/2009",
+    "grantDate": null,
+    "title": "ANALISADOR POR INJE\u00c7\u00c3O EM FLUXO",
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        }
+    ],
+    "inventors": [
+        "KOITI ARAKI",
+        "L\u00daCIO ANGNES",
+        "IVANO GEBHARDT ROLF GUTZ",
+        "HENRIQUE EISI TOMA",
+        "PAULO ROBERTO MARTINS",
+        "FERNANDO SILVA LOPES"
+    ],
+    "holders": [
+        5829,
+        222
+    ],
+    "ipcCodes": [
+        "G01N 33/02",
+        "G05D 7/00",
+        "G01N 35/08"
+    ]
+}

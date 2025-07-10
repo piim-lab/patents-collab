@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0007593-0",
+    "filingDate": "17/01/2000",
+    "grantDate": "28/01/2014",
+    "title": "PROCESSO PARA PREPARAR UMA AZA-MACROLIDA COM 4\"(R)-NH2\"",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "99 00459",
+            "priorityDate": "18/01/1999"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "PATRICK LEON",
+        "FREDERIC LHERMITTE",
+        "RONAN GUEVEL",
+        "DENIS PAUZE",
+        "LAURENT GAREL",
+        "GILLES ODDON"
+    ],
+    "holders": [
+        369167
+    ],
+    "ipcCodes": [
+        "A61K 31/70",
+        "C07H 17/08"
+    ]
+}

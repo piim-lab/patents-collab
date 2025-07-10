@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0807013-0",
+    "filingDate": "14/02/2008",
+    "grantDate": null,
+    "title": "PROCESSO E APARELHO PARA PRODUZIR PNEUS",
+    "priorityClaims": [
+        {
+            "countryCode": "IB",
+            "priorityNumber": "PCT/IB2007/050498",
+            "priorityDate": "15/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        }
+    ],
+    "inventors": [
+        "GIANNI MANCINI",
+        "GAETANO LO PRESTI",
+        "MAURIZIO MARCHINI"
+    ],
+    "holders": [
+        79920
+    ],
+    "ipcCodes": [
+        "B29D 30/24",
+        "B29D 30/26",
+        "B29D 30/32"
+    ]
+}

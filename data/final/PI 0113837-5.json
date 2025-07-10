@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0113837-5",
+    "filingDate": "11/09/2001",
+    "grantDate": "29/01/2019",
+    "title": "Compostos mutilinas com atividade antimicrobiana e composi\u00e7\u00e3o farmac\u00eautica que os compreende",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "00 22440.2",
+            "priorityDate": "13/09/2000"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "00 22439.4",
+            "priorityDate": "13/09/2000"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "00 24674.4",
+            "priorityDate": "09/10/2000"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.6",
+            "description": "Exig\u00eancia Formal",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "GERD ASCHER",
+        "HEINZ BERNER",
+        "JOHANNES HILDEBRANDT"
+    ],
+    "holders": [
+        177003
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "C07D 207/08",
+        "A61K 31/445",
+        "C07D 207/12",
+        "C07D 211/54",
+        "C07D 211/20"
+    ]
+}

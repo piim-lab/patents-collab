@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "PI 0411715-8",
+    "filingDate": "18/06/2004",
+    "grantDate": "01/12/2020",
+    "title": "SALINOSPORAMIDAS E M\u00c9TODOS PARA USO DAS MESMAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/600,854",
+            "priorityDate": "20/06/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/838,157",
+            "priorityDate": "30/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "WILLIAM H FENICAL",
+        "PAUL R JENSEN",
+        "TRACY J MINCER",
+        "ROBERT H R FELING"
+    ],
+    "holders": [
+        23919
+    ],
+    "ipcCodes": [
+        "A61K 31/407",
+        "C07D 491/044"
+    ]
+}

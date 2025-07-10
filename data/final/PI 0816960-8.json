@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0816960-8",
+    "filingDate": "18/09/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE UM ARTIGO ESPUMADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07117005.4",
+            "priorityDate": "21/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        }
+    ],
+    "inventors": [
+        "KRISTIAAN BRACKE"
+    ],
+    "holders": [
+        91819
+    ],
+    "ipcCodes": [
+        "B29C 44/12",
+        "B29C 44/22"
+    ]
+}

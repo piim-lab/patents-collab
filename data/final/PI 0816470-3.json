@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0816470-3",
+    "filingDate": "21/08/2008",
+    "grantDate": "12/03/2019",
+    "title": "SEPTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/848,626",
+            "priorityDate": "31/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "SCOTT R JOHNSON",
+        "DANIEL S MONTUORI"
+    ],
+    "holders": [
+        90948
+    ],
+    "ipcCodes": [
+        "B01L 3/14",
+        "B01L 3/00",
+        "B65D 51/00",
+        "B65D 47/36",
+        "B65D 39/00",
+        "B65D 45/30"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0923405-5",
+    "filingDate": "16/12/2009",
+    "grantDate": "17/07/2018",
+    "title": "CONVERS\u00c3O DE BIOMASSA LIGNOCELUL\u00d3SICA.",
+    "priorityClaims": [
+        {
+            "countryCode": "08",
+            "priorityNumber": "021952.0",
+            "priorityDate": "17/12/2008 EP"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/138,378",
+            "priorityDate": "17/12/2008"
+        },
+        {
+            "countryCode": "09",
+            "priorityNumber": "013355.4",
+            "priorityDate": "22/10/2009 EP"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2481"
+        }
+    ],
+    "inventors": [
+        "ANDERS SJOEDE",
+        "ANDERS FROELANDER",
+        "MARTIN LERSCH",
+        "GUDBRAND RODSRUD"
+    ],
+    "holders": [
+        409788
+    ],
+    "ipcCodes": [
+        "C12P 7/08",
+        "C12P 7/12",
+        "C12P 5/00",
+        "C12P 7/00"
+    ]
+}

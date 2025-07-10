@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0706558-2",
+    "filingDate": "16/01/2007",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS COM ESTABILIDADE APERFEI\u00c7OADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/759.891",
+            "priorityDate": "18/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "YUHUA LI",
+        "BENJAMIN CHIEN"
+    ],
+    "holders": [
+        236322
+    ],
+    "ipcCodes": [
+        "A01N 59/16",
+        "A61K 38/00",
+        "A61K 33/32"
+    ]
+}

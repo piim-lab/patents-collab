@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0516744-2",
+    "filingDate": "07/06/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODOS DE REPRODU\u00c7\u00c3O DE FLUXO DE M\u00cdDIA RECEBIDO NUMA  REDE E PRODUTO DE PROGRAMA DE COMPUTADOR",
+    "divisionalApplication": {
+        "filingDate": "07/06/2005",
+        "applicationNumber": "PI 0511858-1"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2576"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        82171
+    ],
+    "ipcCodes": []
+}

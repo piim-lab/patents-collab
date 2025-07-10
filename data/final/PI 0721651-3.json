@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0721651-3",
+    "filingDate": "01/08/2007",
+    "grantDate": "29/10/2019",
+    "title": "Comprimido farmac\u00eautico e usos deste na fabrica\u00e7\u00e3o de um medicamento para tratamento de trombocitopenia e para agonizar o receptor TPO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/915.761",
+            "priorityDate": "03/05/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/947.731",
+            "priorityDate": "03/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "SHIVAKUMAR G KAPSI",
+        "FRANCIS X MULLER"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61K 9/14",
+        "A61K 9/00",
+        "A61K 9/54"
+    ]
+}

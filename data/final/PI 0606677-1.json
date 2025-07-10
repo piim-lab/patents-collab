@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0606677-1",
+    "filingDate": "10/01/2006",
+    "grantDate": "17/07/2018",
+    "title": "COMPARTIMENTO DE BATERIA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0005623",
+            "priorityDate": "21/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "TAE IL KIM",
+        "KI EOB MOON"
+    ],
+    "holders": [
+        1960
+    ],
+    "ipcCodes": [
+        "H01M 2/10"
+    ]
+}

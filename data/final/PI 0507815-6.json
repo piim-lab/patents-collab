@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0507815-6",
+    "filingDate": "17/02/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO E EQUIPAMENTO PARA A DETERMINA\u00c7\u00c3O DE UMA ESTIMATIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "10",
+            "priorityNumber": "2004 009 949.9",
+            "priorityDate": "01/03/2004 DE"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2488"
+        }
+    ],
+    "inventors": [
+        "MICHAEL SCHUG",
+        "JOHANNES HILPERT",
+        "STEFAN GEYERSBERGER",
+        "MAX NEUENDORF"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "G10L 19/02"
+    ]
+}

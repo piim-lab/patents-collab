@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0618197-0",
+    "filingDate": "27/10/2006",
+    "grantDate": null,
+    "title": "FORMULA\u00c7\u00d5ES FARMAC\u00caUTICAS EST\u00c1VEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "CU",
+            "priorityNumber": "2005-0213",
+            "priorityDate": "02/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "IRALDO BELLO RIVERO",
+        "PEDRO L\u00d3PEZ SAURA",
+        "YANELDA GARCIA VEGA",
+        "H\u00c9CTOR SANTANA MILI\u00c1N",
+        "ANA AGUILERA BARRETO",
+        "LORENZO ANASAGASTI ANGULO",
+        "ROLANDO PAEZ MEIRELES"
+    ],
+    "holders": [
+        97008
+    ],
+    "ipcCodes": [
+        "A61K 38/21"
+    ]
+}

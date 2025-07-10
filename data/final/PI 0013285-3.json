@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0013285-3",
+    "filingDate": "18/08/2000",
+    "grantDate": "09/08/2011",
+    "title": "IMPLANTE.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/149,490",
+            "priorityDate": "18/08/1999"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/161,085",
+            "priorityDate": "25/10/1999"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/172,996",
+            "priorityDate": "21/12/1999"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/608,797",
+            "priorityDate": "30/06/2000"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "GREG H LAMBRECHT",
+        "ROBERT KEVIN MOORE",
+        "THOMAS BANKS",
+        "RUSSEL J REDMOND",
+        "CLAUDE A VIDAL"
+    ],
+    "holders": [
+        369412
+    ],
+    "ipcCodes": [
+        "A61F 2/44"
+    ]
+}

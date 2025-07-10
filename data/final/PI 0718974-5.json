@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0718974-5",
+    "filingDate": "21/11/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR UM COPOL\u00cdMERO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2006-0115158",
+            "priorityDate": "21/11/2006"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2006-0115159",
+            "priorityDate": "21/11/2006"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2006-0115160",
+            "priorityDate": "21/11/2006"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2006-0115161",
+            "priorityDate": "21/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "JAE PARK",
+        "HYUN LEE",
+        "JEONG LEE",
+        "OK KANG",
+        "WAN KIM",
+        "HO YANG",
+        "YUP LEE"
+    ],
+    "holders": [
+        1960,
+        47622
+    ],
+    "ipcCodes": [
+        "C08G 63/91",
+        "C08G 63/08"
+    ]
+}

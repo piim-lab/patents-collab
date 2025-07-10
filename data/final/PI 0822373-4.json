@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0822373-4",
+    "filingDate": "11/12/2008",
+    "grantDate": "04/12/2018",
+    "title": "CAIXA PARA VE\u00cdCULOS MOTORES COM DISPOSITIVO DE ABERTURA FACILITADA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2008 A 000211",
+            "priorityDate": "11/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2594"
+        }
+    ],
+    "inventors": [
+        "GIUSEPPE VISENZI"
+    ],
+    "holders": [
+        397554
+    ],
+    "ipcCodes": [
+        "G07C 9/00",
+        "B62J 9/00",
+        "E05B 65/52"
+    ]
+}

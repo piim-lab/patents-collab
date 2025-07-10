@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0617829-4",
+    "filingDate": "03/10/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FECHAR UM CIRCUITO DE DISTRIBUI\u00c7\u00c3O DE POT\u00caNCIA, E, FECHADOR TESTADOR DE CIRCUITO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/730619",
+            "priorityDate": "27/10/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/794970",
+            "priorityDate": "26/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        }
+    ],
+    "inventors": [
+        "RAYMOND P OLEARY",
+        "CHRISTOPHER R LETTOW",
+        "ALEJANDRO MONTENEGRO",
+        "JOHN C OPFER"
+    ],
+    "holders": [
+        101499
+    ],
+    "ipcCodes": [
+        "H02H 3/06"
+    ]
+}

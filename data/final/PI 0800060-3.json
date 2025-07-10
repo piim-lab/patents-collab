@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0800060-3",
+    "filingDate": "28/01/2008",
+    "grantDate": null,
+    "title": "CARTUCHO DE FILTRO PARA L\u00cdQUIDOS E SUBCONJUNTO DE MOTOR INCLUINDO TAL CARTUCHO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 00599",
+            "priorityDate": "29/01/2007"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 05999",
+            "priorityDate": "24/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        }
+    ],
+    "inventors": [
+        "ERIC FOUCAULT",
+        "DANIEL FERTIL"
+    ],
+    "holders": [
+        120548
+    ],
+    "ipcCodes": [
+        "F01M 11/03",
+        "B01D 35/30"
+    ]
+}

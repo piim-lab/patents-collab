@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0815224-1",
+    "filingDate": "18/08/2008",
+    "grantDate": null,
+    "title": "SISTEMA PARA REMOVER UMA SUBST\u00c2NCIA PIPET\u00c1VEL DE UM RECIPIENTE PR\u00c9-CARREGADO, E, PROCESSO PARA REMOVER UMA SUBST\u00c2NCIA PIPET\u00c1VEL DE UM RECIPIENTE PR\u00c9-CARREGADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07016192.2",
+            "priorityDate": "17/08/2007"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07018725.7",
+            "priorityDate": "24/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "THOMAS VOIT",
+        "ANDREA WILDHABER"
+    ],
+    "holders": [
+        101741
+    ],
+    "ipcCodes": [
+        "G01N 35/10",
+        "B01L 3/00",
+        "B65D 51/00",
+        "B01L 3/02"
+    ]
+}

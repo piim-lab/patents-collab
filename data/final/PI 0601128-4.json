@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0601128-4",
+    "filingDate": "20/03/2006",
+    "grantDate": null,
+    "title": "CONECTOR COM UMA CAIXA DE CONECTOR E UMA ALAVANCA DE TRAVA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05 009 292.3",
+            "priorityDate": "28/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "BERND LEONHARDT",
+        "BERNHARD KIRSCH"
+    ],
+    "holders": [
+        8736
+    ],
+    "ipcCodes": [
+        "H01R 13/629",
+        "H01R 13/639"
+    ]
+}

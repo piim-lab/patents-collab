@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0216079-0",
+    "filingDate": "26/02/2002",
+    "grantDate": "27/11/2012",
+    "title": "CONJUNTO DE AGULHA HIPOD\u00c9RMICA.",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20103363",
+            "priorityDate": "26/02/2001"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/02/2002",
+        "applicationNumber": "PI 0207579-2"
+    },
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "KEVIN WOEHR",
+        "J\u00dcRGEN FUCHS"
+    ],
+    "holders": [
+        42332
+    ],
+    "ipcCodes": [
+        "A61M 5/32"
+    ]
+}

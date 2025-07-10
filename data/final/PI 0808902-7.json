@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0808902-7",
+    "filingDate": "20/03/2008",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE MARCA\u00c7\u00c3O A QUENTE.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 02056",
+            "priorityDate": "21/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "MARCO PA\u00cfTA",
+        "DAVID JEAN ROBERT MANDON",
+        "LAURENT CALLAMAND"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": [
+        "B44B 5/00",
+        "B41F 17/08",
+        "B41J 17/24",
+        "B41F 19/06",
+        "B41F 16/00",
+        "B41F 17/18",
+        "B65H 20/24",
+        "B65H 23/24",
+        "B41J 17/28",
+        "B65H 20/32"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0706606-6",
+    "filingDate": "12/01/2007",
+    "grantDate": null,
+    "title": "M\u00e9todo e aparelho para comunica\u00e7\u00e3o sem fio, mem\u00f3ria leg\u00edvel por computador e processador",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/759,149",
+            "priorityDate": "13/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/622,932",
+            "priorityDate": "12/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "JELENA DAMNJANOVIC",
+        "DURGA PRASAD MALLADI"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 27/26",
+        "H04W 72/04",
+        "H04L 5/02"
+    ]
+}

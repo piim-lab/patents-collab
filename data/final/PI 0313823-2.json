@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0313823-2",
+    "filingDate": "29/08/2003",
+    "grantDate": "10/03/2020",
+    "title": "M\u00c9TODO E APARELHO PARA PREDIZER O TRABALHO DA RESPIRA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/407,099",
+            "priorityDate": "30/08/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "NEIL R EULIANO",
+        "VICTOR L BRENNAN",
+        "PAUL B BLANCH",
+        "MICHAEL J BANNER"
+    ],
+    "holders": [
+        129731
+    ],
+    "ipcCodes": [
+        "A61B 10/00",
+        "A61B 5/08"
+    ]
+}

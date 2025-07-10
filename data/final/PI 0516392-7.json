@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0516392-7",
+    "filingDate": "12/09/2005",
+    "grantDate": null,
+    "title": "CONFORMA\u00c7\u00c3O DE SOM DIFUSO PARA ESQUEMAS BCC E SIMILARES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/620,401",
+            "priorityDate": "20/10/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/006,492",
+            "priorityDate": "07/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "ALLAMANCHE ERIC",
+        "DISCH SASCHA",
+        "FALLER CHRISTOF",
+        "HERRE J\u00dcRGEN"
+    ],
+    "holders": [
+        375576,
+        78782
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "G10L 19/00"
+    ]
+}

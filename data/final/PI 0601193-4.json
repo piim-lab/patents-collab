@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0601193-4",
+    "filingDate": "09/02/2006",
+    "grantDate": null,
+    "title": "PROCESSO DE COMPOSTAGEM DE ESTERCO DE GALINHA",
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "ANTONIO CARLOS AUGUSTO DA COSTA",
+        "GISELE BIRMAN TONIETTO",
+        "MAURO ROCHA EVANGELHO"
+    ],
+    "holders": [
+        378408,
+        378406,
+        378407
+    ],
+    "ipcCodes": [
+        "C05F 3/00",
+        "C05F 17/00",
+        "C05F 15/00"
+    ]
+}

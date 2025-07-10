@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0912798-4",
+    "filingDate": "14/05/2009",
+    "grantDate": null,
+    "title": "PARTE DE DISTRIBUIDOR",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0801137-1",
+            "priorityDate": "16/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "CSABA ZAJTAI",
+        "IMRE P\u00d3CZIK"
+    ],
+    "holders": [
+        88393
+    ],
+    "ipcCodes": [
+        "B29C 45/16",
+        "A47K 10/24"
+    ]
+}

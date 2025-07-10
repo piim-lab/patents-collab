@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0603906-5",
+    "filingDate": "06/09/2006",
+    "grantDate": null,
+    "title": "CAPACITOR EL\u00c9TRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "05 09161",
+            "priorityDate": "08/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "YOUNES ISSIAKHEM",
+        "S\u00c9BASTIEN LEPAGE",
+        "MARC LUPIN"
+    ],
+    "holders": [
+        253
+    ],
+    "ipcCodes": [
+        "H01G 9/08",
+        "H01G 2/18"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0823070-6",
+    "filingDate": "17/09/2008",
+    "grantDate": null,
+    "title": "ESTRUTURA DE TECIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/096,149",
+            "priorityDate": "11/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        }
+    ],
+    "inventors": [
+        "CHRISTER ABERG",
+        "CARY P JOHNSON",
+        "PIERRE RIVIERE",
+        "JOHN J LAFOND",
+        "JONAS KARLSSON",
+        "LOUIS MONNERIE",
+        "FRANCIS L DAVENPORT",
+        "CHRISTER ABERG",
+        "CARY P JOHNSON",
+        "FRANCIS L DAVENPORT",
+        "PIERRE RIVIERE",
+        "JOHN J LAFOND",
+        "JONAS KARLSSON",
+        "LOUIS MONNERIE"
+    ],
+    "holders": [
+        119428
+    ],
+    "ipcCodes": [
+        "D21F 1/00",
+        "D04H 1/44"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0608165-7",
+    "filingDate": "19/04/2006",
+    "grantDate": "06/04/2021",
+    "title": "REFRAT\u00c1RIO E SEU M\u00c9TODO DE PRODU\u00c7\u00c3O, MATERIAS DO REFRAT\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-121363",
+            "priorityDate": "19/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        }
+    ],
+    "inventors": [
+        "KATSUMI MORIKAWA",
+        "KOICHI HAREN",
+        "JOKI YOSHITOMI",
+        "TOSHIYUKI HOKII",
+        "KEISUKE ASANO"
+    ],
+    "holders": [
+        379564
+    ],
+    "ipcCodes": [
+        "C04B 35/00"
+    ]
+}

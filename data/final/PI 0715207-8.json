@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0715207-8",
+    "filingDate": "27/07/2007",
+    "grantDate": null,
+    "title": "NANOPART\u00cdCULAS POLIM\u00c9RICAS DE INV\u00d3LUCRO-N\u00daCLEO COM REGI\u00c3O DE INTERFASE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/820,695",
+            "priorityDate": "28/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "XIAORONG WANG",
+        "GEORG G A BOHM",
+        "SANDRA WARREN",
+        "DONG PAN",
+        "JAMES E HALL"
+    ],
+    "holders": [
+        81020
+    ],
+    "ipcCodes": [
+        "B82Y 30/00",
+        "C08L 21/00",
+        "C08L 53/02",
+        "C08L 51/00",
+        "C08L 53/00",
+        "C08F 285/00",
+        "C08F 257/02"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 1006394-3",
+    "filingDate": "01/04/2010",
+    "grantDate": "26/12/2018",
+    "title": "M\u00c9TODO E APARELHO PARA PROCESSAR PRODUTOS ALIMENT\u00cdCIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "ZA",
+            "priorityNumber": "2009/02273",
+            "priorityDate": "01/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.40",
+            "description": "Notifica\u00e7\u00e3o de regulariza\u00e7\u00e3o do processo em andamento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "ANTON SCHUTTE LE ROUX",
+        "ROY ANDREW JOHNSTON",
+        "HERMANN AUGUST SCHULTZ",
+        "DANIEL ROUX",
+        "TAYLOR UYS"
+    ],
+    "holders": [
+        412754
+    ],
+    "ipcCodes": [
+        "A22C 11/00",
+        "A22C 11/08"
+    ]
+}

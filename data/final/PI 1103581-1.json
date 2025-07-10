@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 1103581-1",
+    "filingDate": "19/07/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR PART\u00cdCULAS DE TONER",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/838,693",
+            "priorityDate": "19/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "BRIAN J ANDAYA",
+        "TIMOTHY L LINCOLN",
+        "D PAUL CASALMIR",
+        "JOSEPH L LEONARDO",
+        "ANTHONY UTTARO JR"
+    ],
+    "holders": [
+        456
+    ],
+    "ipcCodes": [
+        "C09D 11/10"
+    ]
+}

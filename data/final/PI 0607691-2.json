@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0607691-2",
+    "filingDate": "03/04/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO E EQUIPAMENTO PARA CODIFICA\u00c7\u00c3O DE FALA EM BANDA LARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/667,901",
+            "priorityDate": "01/04/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/673,965",
+            "priorityDate": "22/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        }
+    ],
+    "inventors": [
+        "KOEN BERNARD VOS",
+        "ANANTHAPADMANABHAN A KANDHADAI"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G10L 19/02"
+    ]
+}

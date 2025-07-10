@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "PI 0210561-6",
+    "filingDate": "28/06/2002",
+    "grantDate": "14/08/2018",
+    "title": "COMPOSI\u00c7\u00c3O DE LIBERA\u00c7\u00c3O CONTROLADA COMPREENDENDO POL\u00cdMERO  DE  \u00c1CIDO  L\u00c1TICO  E  UM DERIVADO  DE  LH-RH, M\u00c9TODO DE PRODU\u00c7\u00c3O DA MESMA, E, MEDICAMENTO.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2001-199484",
+            "priorityDate": "29/06/2001"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2001-340993",
+            "priorityDate": "06/11/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "KAZUMICHI YAMAMOTO",
+        "AKIKO YAMADA",
+        "YOSHIO HATA"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "A61K 9/16",
+        "A61K 47/12",
+        "A61P 15/00",
+        "A61P 5/06"
+    ]
+}

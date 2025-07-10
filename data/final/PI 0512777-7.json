@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0512777-7",
+    "filingDate": "16/06/2005",
+    "grantDate": null,
+    "title": "ARRANJO E M\u00c9TODOS PARA FILTRAGEM DE L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/583,873",
+            "priorityDate": "29/06/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/609,602",
+            "priorityDate": "13/09/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/659,592",
+            "priorityDate": "07/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "MAURO CANTONI",
+        "CHRISTIAN GUERNIERI",
+        "JOHN FRANCIS CONNELLY",
+        "JOHN R HACKER",
+        "ENRICO GRECO",
+        "FABRIZIO BURATTO"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "B01D 35/153"
+    ]
+}

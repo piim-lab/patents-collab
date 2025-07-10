@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0718645-2",
+    "filingDate": "13/11/2007",
+    "grantDate": "17/07/2018",
+    "title": "MONTAGEM DE PRATELEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "06 02400-4",
+            "priorityDate": "13/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "JOHN ANDERSEN",
+        "HAKAN SJ\u00d6LANDER"
+    ],
+    "holders": [
+        387541
+    ],
+    "ipcCodes": [
+        "A47F 3/04",
+        "A47F 5/00",
+        "A47B 49/00"
+    ]
+}

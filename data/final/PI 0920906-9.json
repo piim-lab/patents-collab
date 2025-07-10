@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0920906-9",
+    "filingDate": "12/11/2009",
+    "grantDate": null,
+    "title": "ELEMENTO DE SEPARA\u00c7\u00c3O PARA \u00c1REAS DE TR\u00c1FEGO",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 1810/2008",
+            "priorityDate": "20/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "MATHIAS REDLBERGER"
+    ],
+    "holders": [
+        408192
+    ],
+    "ipcCodes": [
+        "E01F 15/08"
+    ]
+}

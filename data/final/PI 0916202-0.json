@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0916202-0",
+    "filingDate": "23/07/2009",
+    "grantDate": "24/04/2019",
+    "title": "CABO UMBILICAL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0813877.8",
+            "priorityDate": "25/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "ALAN WILLIAM DEIGHTON",
+        "SIU KIT JOE WONG"
+    ],
+    "holders": [
+        79574
+    ],
+    "ipcCodes": [
+        "H01B 7/04"
+    ]
+}

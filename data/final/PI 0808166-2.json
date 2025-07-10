@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0808166-2",
+    "filingDate": "07/02/2008",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE CVT",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0702490.4",
+            "priorityDate": "09/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER JOHN GREENWOOD",
+        "ROBERT ANDREW OLIVER"
+    ],
+    "holders": [
+        97747
+    ],
+    "ipcCodes": [
+        "F16H 37/08"
+    ]
+}

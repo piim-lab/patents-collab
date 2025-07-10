@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0919599-8",
+    "filingDate": "29/05/2009",
+    "grantDate": null,
+    "title": "APARELHO PARA JOGAR JOGOS DE AZAR",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2008A001840",
+            "priorityDate": "16/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "MARCELLO DIODATO"
+    ],
+    "holders": [
+        407383
+    ],
+    "ipcCodes": [
+        "G07F 17/00"
+    ]
+}

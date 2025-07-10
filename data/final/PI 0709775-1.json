@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0709775-1",
+    "filingDate": "28/03/2007",
+    "grantDate": "05/06/2018",
+    "title": "M\u00c9TODO EM PROCESSO BAYER QUE OCORRE EM SOLU\u00c7\u00d5ES AQUOSAS",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20060299",
+            "priorityDate": "29/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "TIMO LAURILA"
+    ],
+    "holders": [
+        384999
+    ],
+    "ipcCodes": [
+        "C01F 7/06",
+        "C23F 14/00",
+        "C25F 1/02"
+    ]
+}

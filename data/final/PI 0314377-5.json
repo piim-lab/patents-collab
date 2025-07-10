@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "PI 0314377-5",
+    "filingDate": "16/09/2003",
+    "grantDate": "24/11/2020",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, TABLETE OU C\u00c1PSULA, M\u00c9TODO PARA TRATAR DE DIST\u00daRBIOS DO SNC EM UM SER HUMANO, M\u00c9TODO PARA A PROFILAXIA DA ENXAQUECA EM UM SER HUMANO, M\u00c9TODO PARA TRATAR PSICOSES EM UM SER HUMANO, E, PROCESSO PARA PREPARAR UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/411,304",
+            "priorityDate": "16/09/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/411,305",
+            "priorityDate": "16/09/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "THOMAS P JERUSSI",
+        "QUN KEVIN FANG",
+        "MARK CURRIE"
+    ],
+    "holders": [
+        372410
+    ],
+    "ipcCodes": [
+        "A61K 31/135",
+        "C07C 209/62",
+        "C07C 211/42"
+    ]
+}

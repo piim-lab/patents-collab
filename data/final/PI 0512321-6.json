@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0512321-6",
+    "filingDate": "21/06/2005",
+    "grantDate": null,
+    "title": "DISPENSADOR VENTILADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/876.056",
+            "priorityDate": "24/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "CURTIS H HUBMANN",
+        "JOSEPH K DODD",
+        "JOHN A BOTICKI U"
+    ],
+    "holders": [
+        90929
+    ],
+    "ipcCodes": [
+        "B05B 11/00",
+        "B05B 7/24"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0917293-9",
+    "filingDate": "03/08/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA MONITORAMENTO DE UM SISTEMA DE FREIO EM UM SISTEMA DE ELEVADOR E MONITOR DE FREIO CORRESPONDENTE PARA UM SISTEMA DE ELEVADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08 162550.1",
+            "priorityDate": "18/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.40",
+            "description": "Notifica\u00e7\u00e3o de regulariza\u00e7\u00e3o do processo em andamento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "ANDREAS DORSCH",
+        "PHILIPPE HENNEAU"
+    ],
+    "holders": [
+        79537
+    ],
+    "ipcCodes": [
+        "B66B 5/00"
+    ]
+}

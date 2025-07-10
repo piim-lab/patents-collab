@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "PI 0508814-3",
+    "filingDate": "15/03/2005",
+    "grantDate": "10/11/2020",
+    "title": "Derivados de carbolina, bem como uso dos mesmos e composi\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/552,725",
+            "priorityDate": "15/03/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/079,420",
+            "priorityDate": "15/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "CHOON MOON",
+        "LIANGXIAN CAO",
+        "NADARAJAN TAMILARASU",
+        "HONGYAN QI",
+        "SOONGYU CHOI",
+        "WILLIAM JOSEPH LENNOX",
+        "DONALD THOMAS CORSON",
+        "SEONGWOO HWANG"
+    ],
+    "holders": [
+        139633
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/497",
+        "A61K 31/506",
+        "C07D 471/04",
+        "A61K 31/437",
+        "A61K 31/541",
+        "A61K 31/551",
+        "A61K 31/5355"
+    ]
+}

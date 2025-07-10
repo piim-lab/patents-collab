@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0716910-8",
+    "filingDate": "19/09/2007",
+    "grantDate": null,
+    "title": "HASTE DE TAMPONAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RM2006A000499",
+            "priorityDate": "20/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "MATTEO ZOPPAS",
+        "ANDREA BAZZO",
+        "MASSIMO ROSSI",
+        "LORIS PILAT"
+    ],
+    "holders": [
+        105078
+    ],
+    "ipcCodes": [
+        "B29C 45/28"
+    ]
+}

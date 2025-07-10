@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0508703-1",
+    "filingDate": "11/03/2005",
+    "grantDate": "24/11/2020",
+    "title": "PROCESSO PARA A S\u00cdNTESE DE UM ANTAGONISTA DE CXCR4",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/553,589",
+            "priorityDate": "15/03/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "DAVID GAUTHIER",
+        "JASON B CRAWFORD",
+        "GANG CHEN",
+        "RENATO T SKERLJ",
+        "IAN R BAIRD",
+        "TREVOR R WILSON"
+    ],
+    "holders": [
+        371287
+    ],
+    "ipcCodes": [
+        "A61K 31/4709",
+        "C07D 215/38"
+    ]
+}

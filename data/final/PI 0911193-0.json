@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0911193-0",
+    "filingDate": "23/03/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UM POL\u00cdMERO DE TEREFTALATO MET\u00c1LICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12082523",
+            "priorityDate": "11/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "DANIEL ERIC STEINMEYER",
+        "ALAN MARC LEVINE",
+        "JAMES MATTHEW WILLIAMS"
+    ],
+    "holders": [
+        402816,
+        402814,
+        402815
+    ],
+    "ipcCodes": [
+        "C08G 63/00",
+        "C08G 63/91",
+        "C08G 63/78",
+        "C08G 63/183",
+        "C08G 63/68"
+    ]
+}

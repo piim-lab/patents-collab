@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0115822-8",
+    "filingDate": "07/11/2001",
+    "grantDate": "02/05/2012",
+    "title": "PROTETOR DE ROUPA \u00cdNTIMA DE DUPLO USO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/738.077",
+            "priorityDate": "15/12/2000"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/741.486",
+            "priorityDate": "18/12/2000"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/957.109",
+            "priorityDate": "20/09/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "HORACIO JORGE MOLAS",
+        "FRANZ ASCHENBRENNER",
+        "HOLGER GERLACH",
+        "MELANIE HUFNAGEL"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "A61F 13/47",
+        "A61F 13/474"
+    ]
+}

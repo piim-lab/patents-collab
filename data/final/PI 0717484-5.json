@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0717484-5",
+    "filingDate": "25/09/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA PROCESSAR UM SINAL DE \u00c1UDIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/853,127",
+            "priorityDate": "20/10/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "ALAN JEFFREY SEEFELDT",
+        "KENNETH JAMES GUNDRY"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "H03G 3/30",
+        "H03G 7/00",
+        "H04H 60/12"
+    ]
+}

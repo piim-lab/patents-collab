@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0911786-5",
+    "filingDate": "01/05/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA REALIZAR UM HANDOVER EFICIENTE EM LTE",
+    "nationalPhaseDate": [
+        "28/10/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2009/042633",
+        "pctDate": "01/05/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/049,846",
+            "priorityDate": "02/05/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/433,802",
+            "priorityDate": "30/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "SHAILESH MAHESHWARI",
+        "SAI YIU DUNCAN HO",
+        "PETER A BARANY"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 74/08",
+        "H04W 36/08",
+        "H04W 76/10",
+        "H04L 1/18"
+    ]
+}

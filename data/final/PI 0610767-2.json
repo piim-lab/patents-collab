@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0610767-2",
+    "filingDate": "26/04/2006",
+    "grantDate": null,
+    "title": "TAMPAS, RECIPIENTES E M\u00c9TODOS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MO2005A000099",
+            "priorityDate": "27/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "FABRIZIO PUCCI"
+    ],
+    "holders": [
+        39828
+    ],
+    "ipcCodes": [
+        "B65D 43/02",
+        "B65D 41/34",
+        "B65D 41/62",
+        "B65D 41/48"
+    ]
+}

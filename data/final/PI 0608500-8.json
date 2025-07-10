@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0608500-8",
+    "filingDate": "17/03/2006",
+    "grantDate": "09/04/2019",
+    "title": "EMBARALHAMENTO ESPA\u00c7O-TEMPO PARA SISTEMAS CELULARES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/663,504",
+            "priorityDate": "18/03/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/710,502",
+            "priorityDate": "22/08/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/367,094",
+            "priorityDate": "03/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "HANS DIETER SCHOTTEN",
+        "JAY RODNEY WALTON"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/06"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0612709-6",
+    "filingDate": "24/03/2006",
+    "grantDate": null,
+    "title": "DOCUMENTO DE SEGURAN\u00c7A COMPREENDENDO UM CIRCUITO INTEGRADO E SISTEMA DE MOSTRADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 030 626.8",
+            "priorityDate": "30/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        }
+    ],
+    "inventors": [
+        "MANFRED PAESCHKE",
+        "OLIVER MUTH",
+        "CHRISTIAN K\u00dcHN",
+        "OLAF DRESSEL",
+        "CHRISTIAN KUNATH",
+        "ANDR\u00c9 LEOPOLD",
+        "ANDREAS HOPPE",
+        "G\u00dcNTER BEYER",
+        "MALTE PFLUGHOEFFT"
+    ],
+    "holders": [
+        79646
+    ],
+    "ipcCodes": [
+        "G06K 19/07",
+        "G07D 7/00"
+    ]
+}

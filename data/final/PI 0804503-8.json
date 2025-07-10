@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0804503-8",
+    "filingDate": "29/02/2008",
+    "grantDate": "11/12/2018",
+    "title": "MANGOTE (HOSE)",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-053372",
+            "priorityDate": "02/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "SYUNICHI ONO"
+    ],
+    "holders": [
+        93270
+    ],
+    "ipcCodes": [
+        "F16L 1/24",
+        "B63B 27/24",
+        "F16L 11/133"
+    ]
+}

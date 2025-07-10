@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0819239-1",
+    "filingDate": "30/10/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REPARAR UMA LINHA DE TRANSMISS\u00c3O EM UM SISTEMA DE DISTRIBUI\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/982,587",
+            "priorityDate": "02/11/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/982,588",
+            "priorityDate": "02/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "FRANK JOHN MUENCH JR",
+        "JOHN FREDERICK BANTING"
+    ],
+    "holders": [
+        98713
+    ],
+    "ipcCodes": [
+        "G01D 3/08"
+    ]
+}

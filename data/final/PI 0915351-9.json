@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0915351-9",
+    "filingDate": "14/08/2009",
+    "grantDate": "07/08/2018",
+    "title": "M\u00c9TODO PARA PROCESSAMENTO DE MATERIAIS DE FIBRA LIBERIANA",
+    "priorityClaims": [
+        {
+            "countryCode": "RU",
+            "priorityNumber": "2008123452",
+            "priorityDate": "17/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2787"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "GRIGORIY GEORGIEVICH BUBNOV",
+        "VICTOR NIKOLAEVICH ZAKHAROV",
+        "FEDOR VLADIMIROVICH ZUBOV",
+        "ALEXANDRE VIACHESLAVOVICH SEMENOV"
+    ],
+    "holders": [
+        405105
+    ],
+    "ipcCodes": [
+        "D01B 1/00",
+        "D01G 21/00"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 1012829-8",
+    "filingDate": "17/06/2010",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UMA DISTRIBUI\u00c7\u00c3O PARA O CLIENTE M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/487,118",
+            "priorityDate": "18/06/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "TAQI JAFFRI"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06Q 30/00",
+        "H04W 4/02"
+    ]
+}

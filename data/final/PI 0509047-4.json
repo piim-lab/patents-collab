@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0509047-4",
+    "filingDate": "23/06/2005",
+    "grantDate": "07/06/2022",
+    "title": "IMPLANTE DENT\u00c1RIO, E, COMBINA\u00c7\u00c3O DE UM IMPLANTE E UM APOIO CONECT\u00c1VEL AO DITO IMPLANTE E UM APOIO CONECT\u00c1VEL AO DITO IMPLANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/879,824",
+            "priorityDate": "29/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "ROBERT D CARTER"
+    ],
+    "holders": [
+        375991
+    ],
+    "ipcCodes": [
+        "A61C 8/00"
+    ]
+}

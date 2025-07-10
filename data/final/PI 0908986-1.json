@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0908986-1",
+    "filingDate": "06/03/2009",
+    "grantDate": null,
+    "title": "SISTEMA DE DISPOSITIVO DE FLUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/034,555",
+            "priorityDate": "07/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "JAMES A MARSHALL",
+        "BRIAN S CARR",
+        "MICHAEL A TIMMERMAN"
+    ],
+    "holders": [
+        86427
+    ],
+    "ipcCodes": [
+        "E21B 43/34",
+        "E21B 21/06"
+    ]
+}

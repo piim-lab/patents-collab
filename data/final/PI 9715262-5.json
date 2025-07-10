@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 9715262-5",
+    "filingDate": "29/07/1997",
+    "grantDate": null,
+    "title": "DISPOSITIVO SEMICONDUTOR EMISSOR DE LUZ AZUL PARA EMISS\u00c3O NA COR BRANCA POR MEIO DE LUZ REEMITIDA POR SUBST\u00c2NCIA FLUORESCENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "8/198585",
+            "priorityDate": "29/07/1996"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "8/244339",
+            "priorityDate": "17/09/1996"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "8/245381",
+            "priorityDate": "18/09/1996"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "8/359004",
+            "priorityDate": "27/12/1996"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "9/81010",
+            "priorityDate": "31/03/1997"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/07/1997",
+        "applicationNumber": "PI 9710792-1"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "YOSHINORI SHIMIZU",
+        "KENSHO SAKANO",
+        "YASUNOBU NOGUCHI",
+        "TOSHIO MORIGUCHI"
+    ],
+    "holders": [
+        5000
+    ],
+    "ipcCodes": [
+        "H01L 33/00"
+    ]
+}

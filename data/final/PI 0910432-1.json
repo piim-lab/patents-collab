@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0910432-1",
+    "filingDate": "18/03/2009",
+    "grantDate": null,
+    "title": "Processo para a extrus\u00e3o de pol\u00edmero",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08103227.8",
+            "priorityDate": "31/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "GARY LINDSAY PITMAN"
+    ],
+    "holders": [
+        380855
+    ],
+    "ipcCodes": [
+        "B29C 47/10"
+    ]
+}

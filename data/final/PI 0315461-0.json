@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0315461-0",
+    "filingDate": "04/11/2003",
+    "grantDate": "02/04/2019",
+    "title": "SISTEMA TERAP\u00caUTICO EM FORMA DE PEL\u00cdCULA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102 52 726.1",
+            "priorityDate": "13/11/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "MARKUS KRUMME"
+    ],
+    "holders": [
+        372535
+    ],
+    "ipcCodes": [
+        "A61K 9/00",
+        "A61K 9/70"
+    ]
+}

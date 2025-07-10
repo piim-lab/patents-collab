@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0818324-4",
+    "filingDate": "29/10/2008",
+    "grantDate": "24/12/2019",
+    "title": "FORMULA\u00c7\u00d5ES L\u00cdQUIDAS DE LH",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07119832.9",
+            "priorityDate": "01/11/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/004,481",
+            "priorityDate": "28/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "RITA AGOSTINETTO",
+        "JOEL RICHARD",
+        "FABRIZIO SAMARITANI",
+        "ALESSANDRA DEL RIO"
+    ],
+    "holders": [
+        90068
+    ],
+    "ipcCodes": [
+        "A61K 9/08",
+        "A61K 38/24",
+        "A61P 5/06"
+    ]
+}

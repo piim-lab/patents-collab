@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0603829-8",
+    "filingDate": "20/09/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ARQUITETURA DE AUTENTICA\u00c7\u00c3O E AUTORIZA\u00c7\u00c3O PARA UMA PORTA DE LIGA\u00c7\u00c3O DE ACESSO.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05 425657.3",
+            "priorityDate": "20/09/2005"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2005 A 001742",
+            "priorityDate": "20/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "GIOVANNI DANGELO",
+        "MARCO DONNA",
+        "NICOLA IONFRIDA"
+    ],
+    "holders": [
+        1250
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04W 12/06",
+        "H04W 12/08"
+    ]
+}

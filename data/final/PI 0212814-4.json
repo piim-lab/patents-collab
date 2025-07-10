@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0212814-4",
+    "filingDate": "27/09/2002",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AUTENTICAR O USU\u00c1RIO DE UM TERMINAL, SISTEMA DE AUTENTICA\u00c7\u00c3O, DISPOSITIVO DE VERIFICA\u00c7\u00c3O DOS DIREITOS DE USO, E, TERMINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20011909",
+            "priorityDate": "28/09/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        }
+    ],
+    "inventors": [
+        "HENRY HAVERINEN"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04W 12/06",
+        "H04L 9/32",
+        "G09C 1/00"
+    ]
+}

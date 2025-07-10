@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0914631-8",
+    "filingDate": "19/06/2009",
+    "grantDate": null,
+    "title": "CONTROLE T\u00c9RMICO ATIVO PARA DISPOSITIVOS EMPILHADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/163,029",
+            "priorityDate": "27/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "SHIQUN GU",
+        "MATTHEW NOWAK",
+        "THOMAS R TOMS"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H01L 25/065",
+        "H01L 23/38"
+    ]
+}

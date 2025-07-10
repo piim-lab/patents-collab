@@ -1,0 +1,127 @@
+{
+    "applicationNumber": "PI 0917853-8",
+    "filingDate": "22/08/2009",
+    "grantDate": "07/04/2020",
+    "title": "Pol\u00edmero reticulado de troca i\u00f4nica",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/091097",
+            "priorityDate": "22/08/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/091125",
+            "priorityDate": "22/08/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/091110",
+            "priorityDate": "22/08/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/165894",
+            "priorityDate": "01/04/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/165899",
+            "priorityDate": "01/04/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/165905",
+            "priorityDate": "02/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "25.12",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "22.2",
+            "description": "Peti\u00e7\u00e3o N\u00e3o Conhecida",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "TING CHANG",
+        "MINGJUN LIU",
+        "WERNER STR\u00dcVER",
+        "DETLEF ALBRECHT",
+        "MICHAEL BURDICK",
+        "SHERIN HALFON",
+        "ZU HUANG",
+        "RAMAKRISHNAN CHIDAMBARAM",
+        "JONATHAN MILLS",
+        "DOMINIQUE CHARMOT",
+        "PAUL MANSKY",
+        "ERIC CONNOR"
+    ],
+    "holders": [
+        406468
+    ],
+    "ipcCodes": [
+        "A61K 31/7004",
+        "A61P 7/08",
+        "A61K 31/78"
+    ]
+}

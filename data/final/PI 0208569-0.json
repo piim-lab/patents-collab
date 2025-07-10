@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "PI 0208569-0",
+    "filingDate": "09/03/2002",
+    "grantDate": "24/04/2019",
+    "title": "PROCESSO PARA O TRANSPORTE DE CORPOS S\u00d3LIDOS GRANULARES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "101 16 892.6",
+            "priorityDate": "04/04/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2815"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "MARTIN HIRSCH",
+        "STUART SNEYD",
+        "LOTHAR FORMANEK"
+    ],
+    "holders": [
+        102625
+    ],
+    "ipcCodes": [
+        "B01J 8/00"
+    ]
+}

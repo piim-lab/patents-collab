@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0818876-9",
+    "filingDate": "23/10/2008",
+    "grantDate": null,
+    "title": "CONJUNTO DE RECIPIENTE E M\u00c9TODO ASSOCIADO PARA ALOJAR UMA AMOSTRA BIOL\u00d3GICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/982.062",
+            "priorityDate": "23/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        }
+    ],
+    "inventors": [
+        "BRADLEY M WILKINSON",
+        "MARK C NEWBY",
+        "CLINTON A HAYNES",
+        "ROBERT G STATES III"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "G01N 1/31",
+        "B01L 3/00"
+    ]
+}

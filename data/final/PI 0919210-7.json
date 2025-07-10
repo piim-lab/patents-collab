@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0919210-7",
+    "filingDate": "29/09/2009",
+    "grantDate": null,
+    "title": "RECIPIENTE DE INV\u00d3LUCRO E CORREDI\u00c7A DE COMPARTIMENTO DUPLO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08253191.4",
+            "priorityDate": "30/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE BOURGOIN",
+        "PETER BENK\u00d5",
+        "ROGER N\u00dcTZI",
+        "ALEKSANDRA SAMULEWICZ"
+    ],
+    "holders": [
+        80986
+    ],
+    "ipcCodes": [
+        "B65D 5/72",
+        "B65D 5/38"
+    ]
+}

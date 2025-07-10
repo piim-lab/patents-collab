@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0814493-1",
+    "filingDate": "13/08/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA PROVER UM REVESTIMENTO SOBRE UM SUBSTRATO DE ALUM\u00cdNIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/839,127",
+            "priorityDate": "15/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "JOSEPH T VALKO",
+        "CRAIG A WILSON",
+        "ROBIN M PEFFER",
+        "ALAN J KAYLO"
+    ],
+    "holders": [
+        393800
+    ],
+    "ipcCodes": [
+        "C09D 5/24",
+        "C08G 59/30"
+    ]
+}

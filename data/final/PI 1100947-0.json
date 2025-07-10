@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 1100947-0",
+    "filingDate": "28/03/2011",
+    "grantDate": null,
+    "title": "LIGA DENT\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 016 171.3",
+            "priorityDate": "26/03/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10 170137.3",
+            "priorityDate": "20/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "JORG HACHENBERG",
+        "RUDI STEINKE",
+        "ANGELA KLAUS",
+        "IRMGARD WISSEL"
+    ],
+    "holders": [
+        80772
+    ],
+    "ipcCodes": [
+        "C22C 28/00",
+        "C22C 5/02"
+    ]
+}

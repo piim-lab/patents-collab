@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0800035-2",
+    "filingDate": "18/01/2008",
+    "grantDate": "21/11/2018",
+    "title": "CAIXA DE AMORTECIMENTO",
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "24.5",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "HEBERT AMARILDO DOS SANTOS",
+        "RODRIGO NAZARETH BORGES",
+        "THIAGO AUGUSTO AVILA"
+    ],
+    "holders": [
+        6069
+    ],
+    "ipcCodes": [
+        "B22D 11/10",
+        "B22D 45/00",
+        "B22D 11/103"
+    ]
+}

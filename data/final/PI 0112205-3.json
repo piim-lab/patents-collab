@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0112205-3",
+    "filingDate": "10/07/2001",
+    "grantDate": "07/02/2012",
+    "title": "FILTRO DE PROCESSAMENTO DE SANGUE.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "208738/2000",
+            "priorityDate": "10/07/2000"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "209811/2000",
+            "priorityDate": "11/07/2000"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "ICHIROH OKA",
+        "YOSHIMASA MATSUURA",
+        "TOMOHISA YOKOMIZO"
+    ],
+    "holders": [
+        175753
+    ],
+    "ipcCodes": [
+        "A61J 1/00",
+        "A61M 1/34"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0620521-6",
+    "filingDate": "22/11/2006",
+    "grantDate": null,
+    "title": "MAT\u00c9RIA TENSOATIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05077906.5",
+            "priorityDate": "16/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "YA CAI",
+        "JIAN CAO",
+        "MATTHEW DUNCAN GOLDING",
+        "WEICHANG LIU",
+        "VESSELIN NIKOLAEV PAUNOV",
+        "EDWARD GEORGE PELAN",
+        "SIMEON DOBREV STOYANOV",
+        "WEIZHENG ZHOU"
+    ],
+    "holders": [
+        82156
+    ],
+    "ipcCodes": [
+        "B01F 17/00",
+        "C11D 1/00",
+        "A23L 5/00",
+        "A23L 33/24",
+        "A23L 29/262"
+    ]
+}

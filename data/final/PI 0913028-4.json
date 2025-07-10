@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0913028-4",
+    "filingDate": "13/05/2009",
+    "grantDate": null,
+    "title": "RECIPIENTE DE ENCHIMENTO A QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 61/127,621",
+            "priorityDate": "14/05/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 12/464,336",
+            "priorityDate": "12/05/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.2.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2575"
+        }
+    ],
+    "inventors": [
+        "MICHAEL T LANE",
+        "ROHIT V JOSHI",
+        "JOHN B SIMON",
+        "JOHN B SIMON",
+        "WALTER J STRASSER",
+        "ANNA C WILCOX",
+        "DAVID A DEEMER FALECIDO",
+        "CARLOS E LONDONO"
+    ],
+    "holders": [
+        81484
+    ],
+    "ipcCodes": [
+        "B65D 1/02",
+        "B65D 23/00",
+        "B65D 1/44"
+    ]
+}

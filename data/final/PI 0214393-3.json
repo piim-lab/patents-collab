@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0214393-3",
+    "filingDate": "19/11/2002",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICAR UM FLUX\u00d4METRO E FLUX\u00d4METRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/994.257",
+            "priorityDate": "26/11/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "MARTIN ANDREW SCHLOSSER",
+        "MARK JAMES BELL",
+        "MATTHEW GLEN WHEELER",
+        "DANIEL PATRICK MCNULTY",
+        "LELAND CHARLES LEBER"
+    ],
+    "holders": [
+        371221
+    ],
+    "ipcCodes": [
+        "G01F 1/84",
+        "G01F 15/00"
+    ]
+}

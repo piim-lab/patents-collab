@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0704386-4",
+    "filingDate": "06/12/2007",
+    "grantDate": null,
+    "title": "JUNTA FLEX\u00cdVEL COM FOLES",
+    "priorityClaims": [
+        {
+            "countryCode": "06",
+            "priorityNumber": "10668",
+            "priorityDate": "07/12/2006 FR"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        }
+    ],
+    "inventors": [
+        "HERV\u00c9 RICHER DE FORGES",
+        "PIERRE CIOLCZYK"
+    ],
+    "holders": [
+        5304
+    ],
+    "ipcCodes": [
+        "F16L 27/111"
+    ]
+}

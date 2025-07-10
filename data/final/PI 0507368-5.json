@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0507368-5",
+    "filingDate": "04/01/2005",
+    "grantDate": "24/07/2018",
+    "title": "INV\u00d3LUCRO RE-ACESS\u00cdVEL PARA UMA EMENDA ENTRE CABOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/770,377",
+            "priorityDate": "02/02/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2488"
+        }
+    ],
+    "inventors": [
+        "YVONNICK MARSAC",
+        "CHRISTOPHE DESARD"
+    ],
+    "holders": [
+        6580
+    ],
+    "ipcCodes": [
+        "H02G 15/013",
+        "H02G 15/113"
+    ]
+}

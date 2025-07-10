@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0411547-3",
+    "filingDate": "04/06/2004",
+    "grantDate": "22/01/2013",
+    "title": "COMPOSI\u00c7\u00c3O DE TRATAMENTO NA LAVAGEM DE ROUPA.",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0314210.6",
+            "priorityDate": "18/06/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "19.1",
+            "description": "Notifica\u00e7\u00e3o de Decis\u00e3o Judicial",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "9.1.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.4",
+            "description": "Concess\u00e3o Anulada",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        82156
+    ],
+    "ipcCodes": []
+}

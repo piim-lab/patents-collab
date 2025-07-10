@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0804952-1",
+    "filingDate": "27/11/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA MODIFICAR UM (CO)POL\u00cdMERO (A) CONTENDO GRUPOS DE \u00c1CIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/004536",
+            "priorityDate": "28/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "BARRY WEINSTEIN",
+        "WILLIAM C FINCH",
+        "KENNETH BRUCE LAUGHLIN"
+    ],
+    "holders": [
+        606
+    ],
+    "ipcCodes": [
+        "C08F 8/14",
+        "C08F 8/30"
+    ]
+}

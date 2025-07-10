@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0517191-1",
+    "filingDate": "10/11/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RELATAR UMA MEDI\u00c7\u00c3O EM UM SISTEMA DE COMUNICA\u00c7\u00c3O M\u00d3VEL UNIVERSAL, NODO B EM UM SISTEMA DE COMUNICA\u00c7\u00c3O M\u00d3VEL UNIVERSAL, E CONTROLADOR DA REDE DE R\u00c1DIO DE CONTROLE EM UM SISTEMA DE COMUNICA\u00c7\u00c3O M\u00d3VEL UNIVERSAL QUE COMPREENDEM EQUIPAMENTOS DO USU\u00c1RIO E UM NODO B CONECTADO AO CONTROLADOR DA REDE DE R\u00c1DIO DE CONTROLE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04029710.3",
+            "priorityDate": "15/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "DRAGAN PETROVIC",
+        "JOACHIM L\u00d6HR",
+        "FREDERIC CHARPENTIER",
+        "AKITO FUKUI"
+    ],
+    "holders": [
+        80839
+    ],
+    "ipcCodes": [
+        "H04W 28/18",
+        "H04L 12/801",
+        "H04L 12/851",
+        "H04W 72/12",
+        "H04W 36/18",
+        "H04W 52/14",
+        "H04W 28/22",
+        "H04W 52/34",
+        "H04W 92/12"
+    ]
+}

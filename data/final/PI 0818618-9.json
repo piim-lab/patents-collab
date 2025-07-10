@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "PI 0818618-9",
+    "filingDate": "08/10/2008",
+    "grantDate": "03/03/2020",
+    "title": "Composto antimal\u00e1rico, e, composi\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/978,375",
+            "priorityDate": "08/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "BONGKOCH TARNCHOMPOO",
+        "YUTHAVONG YONGYUTH",
+        "TIRAYUT VILAIVAN",
+        "PENCHIT CHITNUMSUB",
+        "CHAWANEE THONGPANCHANG",
+        "SUMALEE KAMCHONWONGPAISAN",
+        "DAVID MATTHEWS",
+        "LIVIA VIVAS",
+        "JIRUNDON YUVANIYAMA",
+        "SUSAN CHARMAN",
+        "WILLIAM CHARMAN",
+        "SANJAY BABU KATIYAR"
+    ],
+    "holders": [
+        95114
+    ],
+    "ipcCodes": [
+        "A61K 31/495",
+        "A61K 31/496"
+    ]
+}

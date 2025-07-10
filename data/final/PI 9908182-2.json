@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 9908182-2",
+    "filingDate": "26/02/1999",
+    "grantDate": "26/09/2017",
+    "title": "COMPOSI\u00c7\u00d5ES DE PROTE\u00cdNA DE MATRIZ PARA CURA DE FERIDAS",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA199800270",
+            "priorityDate": "27/02/1998"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/081.551",
+            "priorityDate": "13/04/1998"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA199801328",
+            "priorityDate": "16/10/1998"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "STINA GESTRELIUS",
+        "LARS HAMMARSTR\u00d6M",
+        "PETTER LYNGSTADAAS",
+        "CHRISTER ANDERSSON",
+        "IVAN SLABY",
+        "TOMAS HAMMARGREN"
+    ],
+    "holders": [
+        199
+    ],
+    "ipcCodes": [
+        "A61K 38/39"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0909219-6",
+    "filingDate": "26/03/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CORRE\u00c7\u00c3O DE DADOS COLETADOS COM UM INSTRUMENTO EMISSOR DE N\u00caUTRON E INSTRUMENTO EMISSOR DE N\u00caUTRON",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/055,599",
+            "priorityDate": "26/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "XIAOGANG HAN",
+        "RICHARD PEMPER"
+    ],
+    "holders": [
+        2932
+    ],
+    "ipcCodes": [
+        "G01N 23/00",
+        "G01V 5/04",
+        "G01V 5/10",
+        "G01T 3/00"
+    ]
+}

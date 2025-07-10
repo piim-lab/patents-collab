@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0509110-1",
+    "filingDate": "30/03/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA PROCESSAR UM SINAL EST\u00c9REO, APARELHOS CODIFICADOR E DECODIFICADOR, E, SISTEMA DE \u00c1UDIO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04101405.1",
+            "priorityDate": "05/04/2004"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04103367.1",
+            "priorityDate": "14/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "MACHIEL WILLEM VAN LOON",
+        "GERARD HERMAN HOTHO",
+        "DIRK JEROEN BREEBAART"
+    ],
+    "holders": [
+        80352
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "H04S 1/00",
+        "G10L 19/02",
+        "H04R 5/04"
+    ]
+}

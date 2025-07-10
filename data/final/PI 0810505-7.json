@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0810505-7",
+    "filingDate": "24/04/2008",
+    "grantDate": null,
+    "title": "CONJUNTO DE ENCERRAMENTO DE PORTA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/913,714",
+            "priorityDate": "24/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "DAVID JAMES COPELAND II",
+        "KEITH JAMES WEEPIE",
+        "ROBERT L TADLOCK JR",
+        "CHARLES E BURRIS"
+    ],
+    "holders": [
+        391954
+    ],
+    "ipcCodes": [
+        "E05F 3/12"
+    ]
+}

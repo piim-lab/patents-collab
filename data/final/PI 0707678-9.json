@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "PI 0707678-9",
+    "filingDate": "01/02/2007",
+    "grantDate": "19/11/2019",
+    "title": "APARELHO DE BOMBEAMENTO DE PO\u00c7O DE \u00d3LEO HIDR\u00c1ULICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/764,481",
+            "priorityDate": "01/02/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/824,123",
+            "priorityDate": "31/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "MICHAEL A FESI",
+        "WILLIRD J LAPEYROUSE",
+        "KENNERTH H VINCENT"
+    ],
+    "holders": [
+        384406
+    ],
+    "ipcCodes": [
+        "F04B 49/00",
+        "F04B 9/08"
+    ]
+}

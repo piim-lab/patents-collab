@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0317788-2",
+    "filingDate": "05/12/2003",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE UM POL\u00cdMERO DE ETILENO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/436,790",
+            "priorityDate": "27/12/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/716,291",
+            "priorityDate": "18/11/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        }
+    ],
+    "inventors": [
+        "KEVIN JOSEPH CANN",
+        "MINGHUI ZHANG",
+        "JOSE FERNANDO CEVALLOS",
+        "JOHN H MOORHOUSE",
+        "MARK G GOODE",
+        "DANIEL P ZILKER",
+        "MARIA APECETCHE"
+    ],
+    "holders": [
+        90421
+    ],
+    "ipcCodes": [
+        "B01J 31/00"
+    ]
+}

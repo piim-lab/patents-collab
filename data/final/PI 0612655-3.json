@@ -1,0 +1,112 @@
+{
+    "applicationNumber": "PI 0612655-3",
+    "filingDate": "23/06/2006",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O IMUNOG\u00caNICA, VACINA, KIT DE VACINA PARA A ADMINISTRA\u00c7\u00c3O SEQ\u00dcENCIAL OU CONCOMITANTE, PROCESSO PARA  A PRODU\u00c7\u00c3O DA VACINA, M\u00c9TODO DE IMUNIZA\u00c7\u00c3O DE UM HOSPEDEIRO HUMANO CONTRA DOEN\u00c7A CAUSADA POR INFEC\u00c7\u00c3O DE NEISSERIA MENINGITIDIS, E, USO DA COMPOSI\u00c7\u00c3O IMUNOG\u00caNICA.",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0513069.5",
+            "priorityDate": "27/06/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0513071.1",
+            "priorityDate": "27/06/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0515556.9",
+            "priorityDate": "28/07/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0524204.5",
+            "priorityDate": "28/11/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0526040.1",
+            "priorityDate": "21/12/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0526041.9",
+            "priorityDate": "21/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "28.21",
+            "description": "Exig\u00eancia formal de tr\u00e2mite priorit\u00e1rio",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio negado",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "28.92",
+            "description": "Publica\u00e7\u00e3o de despacho de tr\u00e2mite priorit\u00e1rio anulada",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "RALPH LEON BIEMANS",
+        "CARINE CAPIAU",
+        "PIERRE DUVIVIER",
+        "JAN POOLMAN",
+        "DOMINIQUE BOUTRIAU",
+        "PHILIPPE DENOEL"
+    ],
+    "holders": [
+        154071
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "A61K 39/095",
+        "A61K 39/102",
+        "A61K 39/116"
+    ]
+}

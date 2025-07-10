@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0819163-8",
+    "filingDate": "31/10/2008",
+    "grantDate": null,
+    "title": "PE\u00c7A DE DESGASTE",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0702491-2",
+            "priorityDate": "09/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        }
+    ],
+    "inventors": [
+        "PER QUARFORDT",
+        "KLAAS WIJMA",
+        "STEFAN EDERYD"
+    ],
+    "holders": [
+        395910
+    ],
+    "ipcCodes": [
+        "E02F 9/28"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0604921-4",
+    "filingDate": "13/11/2006",
+    "grantDate": "09/04/2019",
+    "title": "GERENCIADOR DE TESTE E DE DIAGN\u00d3STICO DE EXTREMIDADE A EXTREMIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05 425795.1",
+            "priorityDate": "11/11/2005"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2005 A 0002166",
+            "priorityDate": "11/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [
+        "ANTONIO SAMELE",
+        "GABRIELE LUPO",
+        "SIRIO PROIETTI"
+    ],
+    "holders": [
+        1250
+    ],
+    "ipcCodes": [
+        "H04L 12/24",
+        "H04L 12/26"
+    ]
+}

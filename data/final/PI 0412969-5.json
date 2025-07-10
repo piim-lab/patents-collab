@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0412969-5",
+    "filingDate": "10/11/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO DE COMUNICA\u00c7\u00c3O SEM FIO PARA TRANSFERIR DADOS DE LINK SUPERIOR APRIMORADO EM BUFFER DE ESTA\u00c7\u00c3O M\u00d3VEL PARA N\u00d3 B",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/520,227",
+            "priorityDate": "14/11/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/945,361",
+            "priorityDate": "20/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        }
+    ],
+    "inventors": [
+        "GUODONG ZHANG",
+        "STEPHEN E TERRY",
+        "STEPHEN G DICK"
+    ],
+    "holders": [
+        351801
+    ],
+    "ipcCodes": [
+        "H04B 7/216"
+    ]
+}

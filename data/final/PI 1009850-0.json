@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 1009850-0",
+    "filingDate": "09/03/2010",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR UM GRANULADO PROBI\u00d3TICO EST\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0901094",
+            "priorityDate": "10/03/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "AM\u00c9LIE HIOLLE",
+        "C\u00c9CILE SAMPSONIS",
+        "ERIC AUCLAIR",
+        "CHRISTIAN LENOIR"
+    ],
+    "holders": [
+        82503
+    ],
+    "ipcCodes": [
+        "A23L 33/14",
+        "A23K 40/10",
+        "A23P 10/25",
+        "A23K 10/18"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0920011-8",
+    "filingDate": "26/10/2009",
+    "grantDate": null,
+    "title": "P\u00d3 E PROCESSO DE FABRICA\u00c7\u00c3O DE UM CONCRETO CURADO E SINTERIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "08 57370",
+            "priorityDate": "29/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "THIERRY CONSALES",
+        "MICHEL GAUBIL"
+    ],
+    "holders": [
+        81789
+    ],
+    "ipcCodes": [
+        "C04B 28/02",
+        "C04B 35/66",
+        "C04B 35/119"
+    ]
+}

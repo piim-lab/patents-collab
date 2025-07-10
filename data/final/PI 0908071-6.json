@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0908071-6",
+    "filingDate": "05/02/2009",
+    "grantDate": "28/05/2019",
+    "title": "M\u00c9TODO PARA TRATAR UMA FORMA\u00c7\u00c3O CONTENDO HIDROCARBONETOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/026940",
+            "priorityDate": "07/02/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/026944",
+            "priorityDate": "07/02/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/046699",
+            "priorityDate": "21/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/073610",
+            "priorityDate": "18/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6",
+            "description": "Exig\u00eancia Formal",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "JULIAN RICHARD BARNES",
+        "KIRK HERBERT RANEY",
+        "THOMAS CARL SEMPLE",
+        "PAUL GREGORY SHPAKOFF",
+        "JOHAN PAUL SMIT",
+        "JASPER ROELF SMIT"
+    ],
+    "holders": [
+        13060
+    ],
+    "ipcCodes": [
+        "B01F 17/00",
+        "C09K 8/584"
+    ]
+}

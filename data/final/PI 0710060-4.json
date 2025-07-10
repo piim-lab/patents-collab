@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0710060-4",
+    "filingDate": "11/04/2007",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA AN\u00c1LISE \u00d3PTICA DE DOCUMENTOS DE VALOR E DISPOSITIVO PARA O PROCESSAMENTO DE DOCUMENTOS DE VALOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102006017256.6",
+            "priorityDate": "12/04/2006"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102006045624.6",
+            "priorityDate": "27/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        }
+    ],
+    "inventors": [
+        "MICHAEL BLOSS",
+        "MARTIN CLARA",
+        "WOLFGANG DECKENBACH"
+    ],
+    "holders": [
+        83548
+    ],
+    "ipcCodes": [
+        "G07D 7/12"
+    ]
+}

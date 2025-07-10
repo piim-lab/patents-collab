@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0511585-0",
+    "filingDate": "18/05/2005",
+    "grantDate": null,
+    "title": "REDE DE SENSOR SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/856,684",
+            "priorityDate": "28/05/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "RICHARD FERRI",
+        "MOON JU KIM",
+        "ERIC TECK CHOY YEE"
+    ],
+    "holders": [
+        33313
+    ],
+    "ipcCodes": [
+        "H04L 29/08",
+        "H04L 12/751",
+        "H04W 84/18",
+        "H04W 40/24",
+        "H04L 12/707"
+    ]
+}

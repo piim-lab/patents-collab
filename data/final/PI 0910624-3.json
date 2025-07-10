@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0910624-3",
+    "filingDate": "24/03/2009",
+    "grantDate": null,
+    "title": "TAMPA DE FECHAMENTO INVIOL\u00c1VEL COMPACTA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08425255.0",
+            "priorityDate": "16/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "MAURO ARECCO"
+    ],
+    "holders": [
+        101681
+    ],
+    "ipcCodes": [
+        "B65D 47/12",
+        "B65D 47/40",
+        "B65D 49/04"
+    ]
+}

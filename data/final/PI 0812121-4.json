@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0812121-4",
+    "filingDate": "21/08/2008",
+    "grantDate": null,
+    "title": "JUNTA ROSCADA E M\u00c9TODO DE MONTAGEM PARA UMA JUNTA ROSCADA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "071149611",
+            "priorityDate": "24/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.10",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        }
+    ],
+    "inventors": [
+        "NESTOR J SANTI"
+    ],
+    "holders": [
+        359
+    ],
+    "ipcCodes": [
+        "F16L 15/06"
+    ]
+}

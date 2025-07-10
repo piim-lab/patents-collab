@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0418639-7",
+    "filingDate": "15/12/2004",
+    "grantDate": "28/07/2020",
+    "title": "INIBIDORES DE DIPEPTIDIL PEPTIDASE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/553,571",
+            "priorityDate": "15/03/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/629,524",
+            "priorityDate": "18/11/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "JUN FENG",
+        "STEPHEN L GWALTNEY",
+        "JEFFREY A STAFFORD",
+        "ZHIYUAN ZHANG",
+        "BRUCE ELDER",
+        "PAUL ISBESTER",
+        "GRANT PALMER",
+        "JONATHON SALSBURY",
+        "LUCKNER ULYSSE"
+    ],
+    "holders": [
+        374935
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/506",
+        "A61P 3/10",
+        "C07D 401/12",
+        "C07D 401/14",
+        "C07D 401/04"
+    ]
+}

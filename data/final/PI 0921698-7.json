@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0921698-7",
+    "filingDate": "23/10/2009",
+    "grantDate": "30/04/2019",
+    "title": "M\u00c9TODO PARA FORMA\u00c7\u00c3O DE UMA LENTE OFT\u00c1LMICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/110,213",
+            "priorityDate": "31/10/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/578,720",
+            "priorityDate": "14/10/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/580,331",
+            "priorityDate": "16/10/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2797"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "RANDALL B PUGH",
+        "DANIEL B OTTS",
+        "FREDERICK A FLITSCH"
+    ],
+    "holders": [
+        7836
+    ],
+    "ipcCodes": [
+        "G02C 7/10",
+        "B29D 11/00"
+    ]
+}

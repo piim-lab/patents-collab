@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0815055-9",
+    "filingDate": "04/06/2008",
+    "grantDate": null,
+    "title": "APARELHO DE CICLONE.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/935168",
+            "priorityDate": "30/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "STEPHEN BEEDIE",
+        "MARK WOLF"
+    ],
+    "holders": [
+        394002
+    ],
+    "ipcCodes": [
+        "B04C 5/08",
+        "B04C 5/12",
+        "B04C 5/14",
+        "B04C 5/28"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0806998-0",
+    "filingDate": "29/01/2008",
+    "grantDate": "15/01/2019",
+    "title": "TRAVA EL\u00c9TRICA AVAN\u00c7ADA PARA O ELEMENTO DE ABERTURA DE UM VEICULO MOTORIZADO.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0700630",
+            "priorityDate": "30/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "LAURENT DURIEZ",
+        "YVES DUBOILLES"
+    ],
+    "holders": [
+        390496
+    ],
+    "ipcCodes": [
+        "E05B 85/26",
+        "E05B 81/14"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0416611-6",
+    "filingDate": "17/11/2004",
+    "grantDate": "06/03/2018",
+    "title": "Espuma compreendendo uma fase l\u00edquida e uma fase gasosa",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0326768.9",
+            "priorityDate": "17/11/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/542.866",
+            "priorityDate": "10/02/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/542.867",
+            "priorityDate": "10/02/2004"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0422307.9",
+            "priorityDate": "07/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2713"
+        }
+    ],
+    "inventors": [
+        "DAVID DAKIN IORWERTH WRIGHT",
+        "ANTHONY DAVID HARMAN",
+        "NIKKI ROBINSON",
+        "GARRY HODGES",
+        "ADIL KADAR",
+        "GEOFFREY DMOGGRIDGE",
+        "HUGH VAN LIEW"
+    ],
+    "holders": [
+        84740
+    ],
+    "ipcCodes": [
+        "A61K 9/00"
+    ]
+}

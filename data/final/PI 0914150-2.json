@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0914150-2",
+    "filingDate": "18/06/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO TELESC\u00d3PICO DE SE\u00c7\u00c3O DE RISER",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20082794",
+            "priorityDate": "20/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "HAUGLAND TROND"
+    ],
+    "holders": [
+        285171
+    ],
+    "ipcCodes": [
+        "E21B 17/08",
+        "E21B 17/07"
+    ]
+}

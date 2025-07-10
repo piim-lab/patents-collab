@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0813753-6",
+    "filingDate": "20/06/2008",
+    "grantDate": null,
+    "title": "PRODUTO PR\u00c9-IMPREGNADO",
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        393500
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0908184-4",
+    "filingDate": "20/02/2009",
+    "grantDate": null,
+    "title": "Processo de pavimenta\u00e7\u00e3o de misturas betuminosas em temperaturas reduzidas",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/030,750",
+            "priorityDate": "22/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "GERALD H REINKE",
+        "GAYLON L BAUMGARDNER",
+        "STEVEN L ENGBER"
+    ],
+    "holders": [
+        231183
+    ],
+    "ipcCodes": [
+        "C08L 95/00",
+        "E01C 7/22",
+        "E01C 7/18",
+        "E01C 7/26"
+    ]
+}

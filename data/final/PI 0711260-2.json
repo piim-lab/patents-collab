@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0711260-2",
+    "filingDate": "03/04/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FORMAR UM PARAFUSO COM FORMA\u00c7\u00c3O DE ROSCA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/744,974",
+            "priorityDate": "17/04/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/695,341",
+            "priorityDate": "02/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        }
+    ],
+    "inventors": [
+        "DAVID R PRICE",
+        "GARY SHATTUCK"
+    ],
+    "holders": [
+        171911
+    ],
+    "ipcCodes": [
+        "C21D 9/00",
+        "F16B 25/00",
+        "F16B 25/04",
+        "B21K 1/46",
+        "B21K 1/56"
+    ]
+}

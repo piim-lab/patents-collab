@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0721558-4",
+    "filingDate": "15/05/2007",
+    "grantDate": "14/05/2019",
+    "title": "L\u00c2MPADA FLUORESCENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2007-0038723",
+            "priorityDate": "20/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "MAN SUN YUN"
+    ],
+    "holders": [
+        388525,
+        388526
+    ],
+    "ipcCodes": [
+        "H01J 61/06"
+    ]
+}

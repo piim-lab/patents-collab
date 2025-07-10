@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0610800-8",
+    "filingDate": "13/04/2006",
+    "grantDate": null,
+    "title": "PROCESSO PARA A REALIZA\u00c7\u00c3O DE UMA JUN\u00c7\u00c3O ESTANQUE ENTRE A SA\u00cdDA DE  UMA PERFURA\u00c7\u00c3O PERTENCENTE A UM SUPORTE E UM PARAFUSO E JUN\u00c7\u00c3O ESTANQUE ENTRE A SA\u00cdDA DE UMA PERFURA\u00c7\u00c3O PERTENCENTE A UM SUPORTE E UM PARAFUSO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0505025",
+            "priorityDate": "19/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        }
+    ],
+    "inventors": [
+        "R\u00c9MI BERTOLINO",
+        "CHRISTIAN TOURNIER"
+    ],
+    "holders": [
+        105169
+    ],
+    "ipcCodes": [
+        "F16B 33/00",
+        "F16J 15/04"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0510014-3",
+    "filingDate": "13/05/2005",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CODIFICA\u00c7\u00c3O, DISPOSITIVO DE DECODIFICA\u00c7\u00c3O E M\u00c9TODO DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-145425",
+            "priorityDate": "14/05/2004"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-322953",
+            "priorityDate": "05/11/2004"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-133729",
+            "priorityDate": "28/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "MASAHIRO OSHIKIRI",
+        "HIROYUKI EHARA"
+    ],
+    "holders": [
+        80839
+    ],
+    "ipcCodes": [
+        "G10L 19/02",
+        "G10L 21/0332"
+    ]
+}

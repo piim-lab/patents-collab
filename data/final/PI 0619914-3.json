@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0619914-3",
+    "filingDate": "15/12/2006",
+    "grantDate": null,
+    "title": "DISPENSADOR DE BEBIDA E M\u00c9TODO PARA CONTROLAR TAXA DE FLUXO VOLUM\u00c9RICO DURANTE UM EVENTO DE DISPENSA DE FLUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/751,120",
+            "priorityDate": "15/12/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/751,167",
+            "priorityDate": "15/12/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/795,824",
+            "priorityDate": "28/04/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/795,825",
+            "priorityDate": "28/04/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/795,823",
+            "priorityDate": "28/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        }
+    ],
+    "inventors": [
+        "IVER J PHALLEN",
+        "DOUGLAS VOGT",
+        "THOMAS GAGLIANO",
+        "KIRK D HIGNER"
+    ],
+    "holders": [
+        382216
+    ],
+    "ipcCodes": [
+        "G05D 7/06",
+        "B67D 1/14"
+    ]
+}

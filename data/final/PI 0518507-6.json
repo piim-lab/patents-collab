@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0518507-6",
+    "filingDate": "30/09/2005",
+    "grantDate": null,
+    "title": "INFORMA\u00c7\u00d5ES AUXILIARES COMPACTAS PARA A CODIFICA\u00c7\u00c3O PARAM\u00c9TRICA DE \u00c1UDIO ESPACIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/032,689",
+            "priorityDate": "10/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "J\u00dcRGEN HERRE",
+        "CHRISTOF FALLER"
+    ],
+    "holders": [
+        375576,
+        78782
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "G10L 19/008"
+    ]
+}

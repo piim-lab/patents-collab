@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0516729-9",
+    "filingDate": "08/09/2005",
+    "grantDate": null,
+    "title": "Dispositivo de amortecimento de tor\u00e7\u00e3o, em especial para um ve\u00edculo automotivo.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0452216",
+            "priorityDate": "30/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "DOMINIQUE DESPRES",
+        "ERIC LAURENT",
+        "FABRICE DUSSEAUX"
+    ],
+    "holders": [
+        12801
+    ],
+    "ipcCodes": [
+        "F16F 15/123"
+    ]
+}

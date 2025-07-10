@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0713448-7",
+    "filingDate": "27/04/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REALOCAR UMA VAZ\u00c3O FINAL PREDITA PARA UMA ZONA INDIVIDUAL E SISTEMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/816450",
+            "priorityDate": "26/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        }
+    ],
+    "inventors": [
+        "MICHAEL E MCCRACKEN",
+        "TIMOTHY G BENISH"
+    ],
+    "holders": [
+        87914
+    ],
+    "ipcCodes": [
+        "G06G 7/48"
+    ]
+}

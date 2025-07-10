@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0416227-7",
+    "filingDate": "12/11/2004",
+    "grantDate": "18/06/2019",
+    "title": "MICROPART\u00cdCULAS COMPREENDENDO AN\u00c1LOGOS DE SOMATOSTATINA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "03 26602.0",
+            "priorityDate": "14/11/2003"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "04 06241.0",
+            "priorityDate": "19/03/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "MARKUS AHLHEIM",
+        "MICHAEL AUSBORN",
+        "OLIVIER LAMBERT",
+        "MARC RIEMEN"
+    ],
+    "holders": [
+        94927
+    ],
+    "ipcCodes": [
+        "A61K 9/16",
+        "A61K 38/31",
+        "A61P 5/02"
+    ]
+}

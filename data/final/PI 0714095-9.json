@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0714095-9",
+    "filingDate": "07/08/2007",
+    "grantDate": "27/02/2020",
+    "title": "MATERIAL PREVIAMENTE IMPREGNADO E MATERIAL COMP\u00d3SITO REFOR\u00c7ADO POR FIBRA DE CARBONO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-214398",
+            "priorityDate": "07/08/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-312531",
+            "priorityDate": "20/11/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-038974",
+            "priorityDate": "20/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        }
+    ],
+    "inventors": [
+        "NOBUYUKI ARAI",
+        "NORIMITSU NATSUME",
+        "KENICHI YOSHIOKA",
+        "JUNKO KAWASAKI",
+        "HIROSHI TAKEZAKI"
+    ],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": [
+        "C08J 5/24",
+        "B32B 27/12",
+        "C08K 7/06",
+        "B32B 5/26",
+        "D06M 15/53"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 1013265-1",
+    "filingDate": "19/02/2010",
+    "grantDate": "19/05/2020",
+    "title": "IMPLANTE RAQUIDIANO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "09/01138",
+            "priorityDate": "12/03/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "MARIE GENNARI",
+        "HERV\u00c9 CHATAIGNER",
+        "MARC VITAL",
+        "LAURENT NOGUES",
+        "HUGUES PASCAL MOUSSELLARD",
+        "PASCAL KOUYOUMDJIAN",
+        "MICHEL TALLET",
+        "PHILIPPE TISSERAND"
+    ],
+    "holders": [
+        145704
+    ],
+    "ipcCodes": [
+        "A61B 17/70"
+    ]
+}

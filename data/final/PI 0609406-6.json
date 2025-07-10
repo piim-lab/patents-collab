@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0609406-6",
+    "filingDate": "10/03/2006",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO DE TRITURAR AGLOMERADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 013 716.4",
+            "priorityDate": "22/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "MARTIN D\u00d6RR",
+        "HERMANN SCHWINN"
+    ],
+    "holders": [
+        100463
+    ],
+    "ipcCodes": [
+        "B22C 5/00",
+        "B02C 13/06"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0811821-3",
+    "filingDate": "01/07/2008",
+    "grantDate": null,
+    "title": "\"APARELHO E M\u00c9TODO PARA PROCESSAMENTO E LEITURA DE UM ARQUIVO TENDO UM CONTAINER DE DADOS DE M\u00cdDIA E UM CONTAINER DE METADADOS\"",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/947,539",
+            "priorityDate": "02/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "STEFAN DOEHLA",
+        "STEFAN KRAEGELOH",
+        "HARALD FUCHS",
+        "NIKOLAUS FAERBER"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "H04N 7/167",
+        "G11B 27/30"
+    ]
+}

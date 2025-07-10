@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0822830-2",
+    "filingDate": "31/10/2008",
+    "grantDate": "31/12/2019",
+    "title": "SERINGA COM MECANISMO DE DESATIVA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/137.732",
+            "priorityDate": "12/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "RICHARD J CAIZZA",
+        "ROBERT ODELL",
+        "BRIAN H WAYMAN"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "A61M 5/50"
+    ]
+}

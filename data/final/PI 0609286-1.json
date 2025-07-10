@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0609286-1",
+    "filingDate": "08/03/2006",
+    "grantDate": null,
+    "title": "UTILIZA\u00c7\u00c3O DE ATRIBUI\u00c7\u00d5ES SUPLEMENTARES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/659,971",
+            "priorityDate": "09/03/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/142,121",
+            "priorityDate": "31/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [
+        "EDWARD HARRISON TEAGUE"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04L 5/00"
+    ]
+}

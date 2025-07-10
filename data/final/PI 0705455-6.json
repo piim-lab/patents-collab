@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0705455-6",
+    "filingDate": "23/11/2007",
+    "grantDate": "16/07/2019",
+    "title": "ENDOV\u00c1LVULA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "06 10909",
+            "priorityDate": "14/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "MIKOLAJ STYRC"
+    ],
+    "holders": [
+        377215
+    ],
+    "ipcCodes": [
+        "A61F 2/24"
+    ]
+}

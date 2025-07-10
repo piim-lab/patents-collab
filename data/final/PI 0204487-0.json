@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0204487-0",
+    "filingDate": "15/03/2002",
+    "grantDate": null,
+    "title": "REDE DE COMUNICA\u00c7\u00d5ES M\u00d3VEIS CELULARES, ESTA\u00c7\u00c3O BASE EM UMA REDE DE COMUNICA\u00c7\u00d5ES M\u00d3VEIS CELULARES, TERMINAL PARA UMA REDE DE COMUNICA\u00c7\u00d5ES M\u00d3VEIS CELULARES, E, M\u00c9TODO DE TROCA DE DADOS DE CARGA \u00daTIL E DADOS DE CONTROLE EM UMA REDE DE COMUNICA\u00c7\u00d5ES M\u00d3VEIS CELULARES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "101 13 034.1",
+            "priorityDate": "17/03/2001"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "101 33 032.4",
+            "priorityDate": "11/07/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH HERRMANN"
+    ],
+    "holders": [
+        80352
+    ],
+    "ipcCodes": [
+        "H04W 88/08",
+        "H04W 74/08",
+        "H04W 28/04",
+        "H04W 74/00"
+    ]
+}

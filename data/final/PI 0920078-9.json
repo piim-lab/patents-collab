@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0920078-9",
+    "filingDate": "30/10/2009",
+    "grantDate": null,
+    "title": "PROCESSO DE ESTIMAR CARGA GERADA QUANDO O COQUE \u00c9 EXTRUDADO DO FORNO DE COQUE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-279889",
+            "priorityDate": "30/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "TOMOYUKI NAKAGAWA",
+        "KOHICHI FUKUDA",
+        "KENJI KATOH",
+        "TAKASHI ARIMA"
+    ],
+    "holders": [
+        188
+    ],
+    "ipcCodes": [
+        "C10B 33/08"
+    ]
+}

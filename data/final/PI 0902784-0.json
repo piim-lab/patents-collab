@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0902784-0",
+    "filingDate": "26/08/2009",
+    "grantDate": null,
+    "title": "Toner compreendendo um n\u00facleo e um revestimento",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/199,115",
+            "priorityDate": "27/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        }
+    ],
+    "inventors": [
+        "KE ZHOU",
+        "KAREN A MOFFAT",
+        "MARIA NV MCDOUGALL",
+        "EDWARD G ZWARTZ",
+        "PAUL J GERROIR"
+    ],
+    "holders": [
+        456
+    ],
+    "ipcCodes": [
+        "G03G 9/08"
+    ]
+}

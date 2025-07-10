@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "PI 0717794-1",
+    "filingDate": "12/10/2007",
+    "grantDate": "06/08/2019",
+    "title": "COMPOSTO E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA DE \u00c1CIDO 3-AMINO-1-PROPANOSULF\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/851.039",
+            "priorityDate": "12/10/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/911.459",
+            "priorityDate": "12/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "7.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "XIANQI KONG",
+        "MOHAMED ATFANI",
+        "BENOIT BACHAND",
+        "ABDERRAHIM BOUZIDE",
+        "STEPHANE CIBLAT",
+        "SOPHIE LEVESQUE",
+        "DAVID MIGNEAULT",
+        "ISABELLE VALADE",
+        "XINFU WU",
+        "DANIEL DELORME"
+    ],
+    "holders": [
+        387271
+    ],
+    "ipcCodes": [
+        "A61K 38/08",
+        "C07D 233/64",
+        "A61P 25/28",
+        "A61K 38/07",
+        "C07D 209/20",
+        "C07C 309/15",
+        "C07K 5/06",
+        "C07D 333/24",
+        "C07D 207/16",
+        "C12P 11/00",
+        "C07K 5/08",
+        "C07D 217/24",
+        "C07D 291/02"
+    ]
+}

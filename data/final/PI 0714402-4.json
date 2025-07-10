@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0714402-4",
+    "filingDate": "10/07/2007",
+    "grantDate": "17/03/2020",
+    "title": "APARELHO DE BARBEAR OU DEPILAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "486,642",
+            "priorityDate": "14/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "OLIVER DAVID OGLESBY",
+        "SEAN PETER CLARKE",
+        "TERENCE GORDON ROYLE",
+        "LUKE RICHARD STONE",
+        "LAURENCE JOHN ROBINSON",
+        "JOHN JAMES WLASSICH"
+    ],
+    "holders": [
+        81691
+    ],
+    "ipcCodes": [
+        "B26B 21/46"
+    ]
+}

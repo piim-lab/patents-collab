@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0506084-2",
+    "filingDate": "25/11/2005",
+    "grantDate": "09/04/2019",
+    "title": "CODIFICADOR DE UM SISTEMA DE COMPRESS\u00c3O PARAREALIZAR COMPRESS\u00c3O DE DADOS DE M\u00cdDIA DIGITAL BIDIMENSIONAL COM CODIFICA\u00c7\u00c3O BASEADA EM TRANSFORMADA DE BLOCO E DECODIFICADOR DO SISTEMA DE COMPRESS\u00c3O PARA REALIZAR DESCOMPRESS\u00c3O DOS DADOS DE M\u00cdDIA DIGITAL BIDIMENSIONAL COMPRIMIDOS COM DECODIFICA\u00c7\u00c3O BASEADA EM TRANSFORMADA DE BLOCO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/015.707",
+            "priorityDate": "17/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2620"
+        }
+    ],
+    "inventors": [
+        "SRIDHAR SRINIVASAN"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06T 9/00",
+        "G06F 17/14",
+        "H04N 19/60",
+        "H04N 19/635"
+    ]
+}

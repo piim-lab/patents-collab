@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0814511-3",
+    "filingDate": "17/07/2008",
+    "grantDate": null,
+    "title": "CARTUCHO  DE  FILTRO  DE  AR  E  CONJUNTO  DE  FILTRO  DE  AR COMPREENDENDO O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/961.521",
+            "priorityDate": "20/07/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/126.222",
+            "priorityDate": "30/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "MICHEL BASEOTTO",
+        "ROBERTO MERCKX",
+        "JULIEN DILS",
+        "PAUL R COULONVAUX"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "B01D 46/00",
+        "B01D 46/24"
+    ]
+}

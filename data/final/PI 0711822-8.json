@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0711822-8",
+    "filingDate": "15/05/2007",
+    "grantDate": "25/09/2018",
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE PASTA BRANQUEADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-137850",
+            "priorityDate": "17/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "IORJ TOMODA",
+        "YOSUKE UCHIDA",
+        "HIROYUKI NAGATANI",
+        "AYANO KAWAE",
+        "TAKAHIRO CHO",
+        "WAKANA UESUGI",
+        "TETSUO KOSHITSUKA"
+    ],
+    "holders": [
+        80138
+    ],
+    "ipcCodes": [
+        "D21C 9/10",
+        "D21C 9/16"
+    ]
+}

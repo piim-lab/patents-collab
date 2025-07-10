@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0800191-0",
+    "filingDate": "20/02/2008",
+    "grantDate": "08/01/2019",
+    "title": "M\u00c9TODO PARA GERIR UM CONTROLE DE DIRE\u00c7\u00c3O DE UM TREM DE ATERRAGEM DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 01410",
+            "priorityDate": "27/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2762"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2778"
+        }
+    ],
+    "inventors": [
+        "DAVID FRANK"
+    ],
+    "holders": [
+        75
+    ],
+    "ipcCodes": [
+        "G05D 1/02",
+        "B64C 25/04"
+    ]
+}

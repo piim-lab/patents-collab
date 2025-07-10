@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0017573-0",
+    "filingDate": "28/09/2000",
+    "grantDate": "25/11/2014",
+    "title": "\u201cCOMP\u00d3SITO ABSORVENTE COMPREENDENDO DOIS ABSORVENTES COMP\u00d3SITOS\u201d.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "11-276722",
+            "priorityDate": "29/09/1999"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/09/2000",
+        "applicationNumber": "PI 0007177-3"
+    },
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "MIGAKU SUZUKI",
+        "RYOICHI MATSUMOTO"
+    ],
+    "holders": [
+        29352,
+        369154
+    ],
+    "ipcCodes": [
+        "B32B 5/30",
+        "A61F 13/539"
+    ]
+}

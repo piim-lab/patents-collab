@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0812125-7",
+    "filingDate": "12/06/2008",
+    "grantDate": null,
+    "title": "SISTEMA PARA UTILIZAR SERVI\u00c7OS DE DIRET\u00d3RIO, M\u00c9TODO PARA UTILIZAR SERVI\u00c7OS DE DIRET\u00d3RIO, DISPOSITIVO DE ARMAZENAMENTO LEG\u00cdVEL POR COMPUTADOR.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/946.994",
+            "priorityDate": "29/06/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/013.284",
+            "priorityDate": "11/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "RAMESH SHANKAR",
+        "DANIEL EDWARD LOVINGER",
+        "LUNG YU"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 17/00"
+    ]
+}

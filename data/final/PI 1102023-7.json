@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 1102023-7",
+    "filingDate": "25/04/2011",
+    "grantDate": null,
+    "title": "SISTEMAS DE TRANSFER\u00caNCIA DE POT\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/778,166",
+            "priorityDate": "12/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        }
+    ],
+    "inventors": [
+        "KALAGA MURALI KRISHNA",
+        "ADNAN KUTUBUDDIN BOHORI",
+        "SOMAKUMAR RAMACHANDRAPANICKER",
+        "SUMA MEMANA NARAYANA BHAT",
+        "LOHIT MATANI"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "H01F 38/14",
+        "C01G 23/00"
+    ]
+}

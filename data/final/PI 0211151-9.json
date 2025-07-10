@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0211151-9",
+    "filingDate": "31/07/2002",
+    "grantDate": "09/07/2019",
+    "title": "COMPOSI\u00c7\u00c3O VACINAL E M\u00c9TODO DE FABRICA\u00c7\u00c3O DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "01/10573",
+            "priorityDate": "08/08/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "ALAIN FRANCON"
+    ],
+    "holders": [
+        370949
+    ],
+    "ipcCodes": [
+        "A61K 47/02",
+        "A61K 39/295"
+    ]
+}

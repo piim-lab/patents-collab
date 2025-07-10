@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0910269-8",
+    "filingDate": "19/03/2009",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00f5es e m\u00e9todos de controle de praga",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/070,137",
+            "priorityDate": "19/03/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/043,084",
+            "priorityDate": "07/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/048,477",
+            "priorityDate": "28/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/087,140",
+            "priorityDate": "07/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "ESSAM ENAN"
+    ],
+    "holders": [
+        344434
+    ],
+    "ipcCodes": [
+        "A61K 31/535"
+    ]
+}

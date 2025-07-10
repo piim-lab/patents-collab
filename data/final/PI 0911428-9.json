@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0911428-9",
+    "filingDate": "25/03/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DISPOR UM RES\u00cdDUO ORG\u00c2NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-099985",
+            "priorityDate": "08/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "KAZUNORI IWABUCHI"
+    ],
+    "holders": [
+        86482
+    ],
+    "ipcCodes": [
+        "C05F 3/00",
+        "B09B 3/00",
+        "C02F 11/10",
+        "C05F 17/00",
+        "C05F 9/00",
+        "C02F 11/02",
+        "C02F 11/08"
+    ]
+}

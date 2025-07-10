@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0721130-9",
+    "filingDate": "17/12/2007",
+    "grantDate": "14/01/2020",
+    "title": "M\u00c9TODOS PARA MEDIR O INDICADOR DE QUALIDADE DE CANAL DO ENLACE DESCENDENTE INSTANT\u00c2NEO, PARA RECEBER O INDICADOR DE QUALIDADE DE CANAL DE ENLACE DESCENDENTE PROVENIENTE DE EQUIPAMENTO DE USU\u00c1RIO EM UMA ESTA\u00c7\u00c3O BASE, PARA RECEBER AS MEDI\u00c7\u00d5ES DE QUALIDADE DE CANAL DE ENLACE DESCENDENTE E SINALIZAR PARA A ESTA\u00c7\u00c3O BASE O DESVIO DE POT\u00caNCIA CONFIGURADO EM UMA CONTROLADOR DE REDE VIA R\u00c1DIO, PARA CONFIGURAR UM EQUIPAMENTO DE USU\u00c1RIO COM PAR\u00c2METROS PARA ASSISTIR O EQUIPAMENTO DE USU\u00c1RIO NO CQI DE DERIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0602803-9",
+            "priorityDate": "22/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "MUHAMMAD ALI KAZMI",
+        "HAI WANG",
+        "CLAES TIDESTAV",
+        "DIRK GERSTENBERGER",
+        "RONG HU"
+    ],
+    "holders": [
+        79444
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04L 1/20",
+        "H04L 1/18",
+        "H04B 17/24"
+    ]
+}

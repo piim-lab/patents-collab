@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0817437-7",
+    "filingDate": "05/09/2008",
+    "grantDate": "19/02/2019",
+    "title": "IMPLANTE CIR\u00daRGICO COM UM RECURSO ANTIRRETROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/863,969",
+            "priorityDate": "28/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "GARY S LINDEMANN",
+        "WILLIAM D ARMSTRONG"
+    ],
+    "holders": [
+        38649
+    ],
+    "ipcCodes": [
+        "A61F 2/44",
+        "A61B 17/80"
+    ]
+}

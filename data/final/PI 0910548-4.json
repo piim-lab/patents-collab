@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0910548-4",
+    "filingDate": "28/04/2009",
+    "grantDate": "05/02/2019",
+    "title": "M\u00c9TODO E APARELHO PARA LIGAR ESQUEMA DE MODULA\u00c7\u00c3O CODIFICADA \u00c0 QUANTIDADE DE RECURSOS.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/125,961",
+            "priorityDate": "28/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/048,554",
+            "priorityDate": "29/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/048,908",
+            "priorityDate": "29/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "19.1",
+            "description": "Notifica\u00e7\u00e3o de Decis\u00e3o Judicial",
+            "bulletinNumber ": "2555"
+        }
+    ],
+    "inventors": [
+        "PASI KINNUNEN",
+        "KARI PAJUKOSKI",
+        "ESA TIIROLA"
+    ],
+    "holders": [
+        65199
+    ],
+    "ipcCodes": [
+        "H04W 72/12"
+    ]
+}

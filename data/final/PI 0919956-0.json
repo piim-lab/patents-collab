@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0919956-0",
+    "filingDate": "26/10/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO AMORTECEDOR DE ORIF\u00cdCIO DE RATINHO",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20084569",
+            "priorityDate": "30/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "JAN ERIK PEDERSEN"
+    ],
+    "holders": [
+        22265
+    ],
+    "ipcCodes": [
+        "E21B 19/00",
+        "E21B 19/14"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0412153-8",
+    "filingDate": "01/07/2004",
+    "grantDate": "30/07/2019",
+    "title": "Anticorpo Monoclonal e Fragmento de Liga\u00e7\u00e3o a Ant\u00edgeno do Anticorpo Monoclonal",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/483,984",
+            "priorityDate": "02/07/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/545,471",
+            "priorityDate": "19/02/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO MORETTA",
+        "MARIELLA DELLA CHIESA",
+        "PASCALE ANDRE",
+        "LAURENT GAUTHIER",
+        "PETER ANDREAS NICOLAI REUMERT WAGTMANN",
+        "SOREN BERG PADKJAER"
+    ],
+    "holders": [
+        373946,
+        92635,
+        373947
+    ],
+    "ipcCodes": [
+        "G01N 33/52",
+        "C07K 16/28"
+    ]
+}

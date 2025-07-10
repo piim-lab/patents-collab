@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0900108-5",
+    "filingDate": "26/01/2009",
+    "grantDate": "03/09/2019",
+    "title": "SISTEMA DE EXPEDI\u00c7\u00c3O DE VEDA\u00c7\u00c3O E MONTAGEM DE VEDA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/129,750",
+            "priorityDate": "30/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "JOHN A LONDON",
+        "PATRICK SCHEIB",
+        "PETER C WHITAKER",
+        "DAMIAN J FELTNER"
+    ],
+    "holders": [
+        6528
+    ],
+    "ipcCodes": [
+        "B65D 53/02"
+    ]
+}

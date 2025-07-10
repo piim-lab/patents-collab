@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0414390-6",
+    "filingDate": "15/09/2004",
+    "grantDate": "19/02/2019",
+    "title": "SISTEMA E M\u00c9TODO DE PROCESSAMENTO DE CENTRAL DE CHAMADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/663,592",
+            "priorityDate": "15/09/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "ANDREW E FANO",
+        "CHRISTOPHER K CHUNG"
+    ],
+    "holders": [
+        1250
+    ],
+    "ipcCodes": [
+        "H04M 3/51"
+    ]
+}

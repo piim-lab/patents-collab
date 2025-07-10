@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0518026-0",
+    "filingDate": "25/11/2005",
+    "grantDate": "25/06/2019",
+    "title": "MOLDE DE POLPA E USO DE MOLDE DE POLPA",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0402899-9",
+            "priorityDate": "26/11/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2620"
+        }
+    ],
+    "inventors": [
+        "BJ\u00d6RN NILSSON",
+        "LARS GRAFFTON",
+        "LEIF BASKMAN"
+    ],
+    "holders": [
+        89987
+    ],
+    "ipcCodes": [
+        "D21J 7/00",
+        "D21J 3/00"
+    ]
+}

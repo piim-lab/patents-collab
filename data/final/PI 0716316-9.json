@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0716316-9",
+    "filingDate": "29/10/2007",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA PREENCHER V\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "06",
+            "priorityNumber": "09508",
+            "priorityDate": "30/10/2006 FR"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        }
+    ],
+    "inventors": [
+        "MARC LOMBERTY",
+        "FLORIAN KORVER",
+        "BERTRAND LAUNAY",
+        "FRAN\u00c7OIS BARBE"
+    ],
+    "holders": [
+        386757
+    ],
+    "ipcCodes": [
+        "B65G 69/28",
+        "B61B 1/02"
+    ]
+}

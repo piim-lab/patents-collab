@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "PI 0106547-5",
+    "filingDate": "06/12/2001",
+    "grantDate": null,
+    "title": "SISTEMA E PROCESSO DE IDENTIFICA\u00c7\u00c2O DE HABILITA\u00c7\u00c3O DE APARELHO  TELEF\u00d4NICO",
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2576"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        369681
+    ],
+    "ipcCodes": []
+}

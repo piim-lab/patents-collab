@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0617318-7",
+    "filingDate": "26/07/2006",
+    "grantDate": "27/11/2018",
+    "title": "M\u00c9TODO DE PREPARAR PRODUTO ALIMENT\u00cdCIO OU FORMULA\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2005A001910",
+            "priorityDate": "11/10/2005"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2006A001212",
+            "priorityDate": "23/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "GIOVANNI MOGNA",
+        "GIAN PAOLO STROZZI"
+    ],
+    "holders": [
+        377515
+    ],
+    "ipcCodes": [
+        "C12N 1/20",
+        "A61P 37/08",
+        "A23C 9/123"
+    ]
+}

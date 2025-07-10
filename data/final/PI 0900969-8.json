@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0900969-8",
+    "filingDate": "04/03/2009",
+    "grantDate": null,
+    "title": "VE\u00cdCULO DO TIPO QUE SE VIAJA MONTADO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-058754",
+            "priorityDate": "07/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "KYOHEI KANEKO",
+        "TAKESHI OKADA"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "B62J 15/00"
+    ]
+}

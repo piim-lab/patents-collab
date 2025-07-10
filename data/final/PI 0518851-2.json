@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0518851-2",
+    "filingDate": "12/12/2005",
+    "grantDate": "13/04/2021",
+    "title": "Conjunto de parede lateral de caix\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2004907071",
+            "priorityDate": "10/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2805"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "ECKHARD KEMMERER"
+    ],
+    "holders": [
+        377840
+    ],
+    "ipcCodes": [
+        "A61G 17/013"
+    ]
+}

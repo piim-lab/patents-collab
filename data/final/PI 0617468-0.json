@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0617468-0",
+    "filingDate": "24/07/2006",
+    "grantDate": "26/02/2019",
+    "title": "CONJUNTO DE BATERIA DO TIPO SEM SOLDA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0099903",
+            "priorityDate": "21/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "HWAN KIM",
+        "KI EOB MOON",
+        "SEOGJIN YOON",
+        "CHEOL WOONG LEE"
+    ],
+    "holders": [
+        1960
+    ],
+    "ipcCodes": [
+        "H01M 2/10"
+    ]
+}

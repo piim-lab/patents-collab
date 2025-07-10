@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0318787-0",
+    "filingDate": "14/07/2003",
+    "grantDate": null,
+    "title": "CODIFICADOR DE V\u00cdDEO PARA CODIFICAR DADOS DE V\u00cdDEO PARA UM BLOCO DE IMAGEM E M\u00c9TODO PARA CODIFICAR DADOS DE SINAL DE V\u00cdDEO PARA UM BLOCO DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/395.874",
+            "priorityDate": "15/07/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/395.843",
+            "priorityDate": "15/07/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/410.456",
+            "priorityDate": "09/04/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/07/2003",
+        "applicationNumber": "PI 0305519-1"
+    },
+    "events": [
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "139",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "JILL MACDONALD BOYCE"
+    ],
+    "holders": [
+        102297
+    ],
+    "ipcCodes": [
+        "H04N 19/196",
+        "H04N 19/513"
+    ]
+}

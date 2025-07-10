@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0909766-0",
+    "filingDate": "17/03/2009",
+    "grantDate": "17/12/2019",
+    "title": "M\u00c9TODO PARA SEPARAR G\u00c1S DE ALTO FORNO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-069108",
+            "priorityDate": "18/03/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-069109",
+            "priorityDate": "18/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "21.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "TSUGUHIKO NAKAGAWA",
+        "TAKASHI HARAOKA",
+        "AKIRA KISHIMOTO",
+        "MASARU NASU",
+        "HIROYUKI IDA"
+    ],
+    "holders": [
+        1442
+    ],
+    "ipcCodes": [
+        "B01D 53/14",
+        "B01D 53/62",
+        "B01D 53/04",
+        "B01D 53/06",
+        "C21B 5/00"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 1012127-7",
+    "filingDate": "01/07/2010",
+    "grantDate": null,
+    "title": "CONJUNTO DE POLIA DESTAC\u00c1VEL E APARELHO DE EXERC\u00cdCIO REFORMADOR COM CONJUNTO DE POLIA DESTAC\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/496.312",
+            "priorityDate": "01/07/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        }
+    ],
+    "inventors": [
+        "KEN ENDELMAN",
+        "BRIAN MASTERSON"
+    ],
+    "holders": [
+        129885
+    ],
+    "ipcCodes": [
+        "A63B 21/00",
+        "A63B 21/055",
+        "A63B 22/04",
+        "A63B 22/00"
+    ]
+}

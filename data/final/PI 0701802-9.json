@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0701802-9",
+    "filingDate": "29/03/2007",
+    "grantDate": "05/02/2019",
+    "title": "CASSETE CIR\u00daRGICO COM ZONA DE GRAMPEAMENTO COMPLACENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/391,859",
+            "priorityDate": "29/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "DAVID DOMASH",
+        "JEFFREY JIKANG CHUN",
+        "DAVID LLOYD WILLIAMS"
+    ],
+    "holders": [
+        12581
+    ],
+    "ipcCodes": [
+        "A61F 9/007"
+    ]
+}

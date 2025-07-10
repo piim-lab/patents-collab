@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0412309-3",
+    "filingDate": "02/07/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PROCESSAMENTO DE SOLICITA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O DE LOCALIZA\u00c7\u00c3O EM SERVI\u00c7O DE LOCALIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "03 146220.0",
+            "priorityDate": "04/07/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        }
+    ],
+    "inventors": [
+        "XIAOQIN DUAN",
+        "WENLIN ZHANG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04W 4/02",
+        "H04W 8/08"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0820540-0",
+    "filingDate": "21/11/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA O CURTIMENTO DE COUROS E PELES",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 121380.5",
+            "priorityDate": "23/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "JENS ZOTZEL",
+        "ALLA SARAFEDDINOV",
+        "STEFAN MARX",
+        "PETER GERMANN"
+    ],
+    "holders": [
+        396632
+    ],
+    "ipcCodes": [
+        "C14C 3/12"
+    ]
+}

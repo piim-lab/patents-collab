@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0807951-0",
+    "filingDate": "21/02/2008",
+    "grantDate": null,
+    "title": "PROCESSADOR MULTIM\u00cdDIA MULTI-ENCADEADO SOB DEMANDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/677,362",
+            "priorityDate": "21/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "YUN DU",
+        "CHUN YU",
+        "GUOFANG JIAO"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G06F 9/455",
+        "G06F 9/38",
+        "G06F 12/08",
+        "G06F 12/10"
+    ]
+}

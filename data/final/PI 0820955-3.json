@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0820955-3",
+    "filingDate": "10/10/2008",
+    "grantDate": "09/07/2019",
+    "title": "M\u00c9TODO, E, PRODUTO DE PROGRAMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/005591",
+            "priorityDate": "06/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "HEZHU YIN",
+        "ALBERTO MENDOZA",
+        "PINGJUN GUO"
+    ],
+    "holders": [
+        87914
+    ],
+    "ipcCodes": [
+        "G01V 3/18"
+    ]
+}

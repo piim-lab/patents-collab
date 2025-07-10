@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0621475-4",
+    "filingDate": "14/07/2006",
+    "grantDate": null,
+    "title": "DOSADOR DE PRODUTO S\u00d3LIDO E ALOJAMENTO DE PRODUTO PARA UM PRODUTO S\u00d3LIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/795.340",
+            "priorityDate": "27/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        }
+    ],
+    "inventors": [
+        "SCOTT R LIMBACK",
+        "THOMAS PETER BERG",
+        "KRISTINE JEANETTE WILLIAMS",
+        "BRIAN CARLSON"
+    ],
+    "holders": [
+        83980
+    ],
+    "ipcCodes": [
+        "D06F 39/02",
+        "A47L 15/44",
+        "B01F 15/00",
+        "B01F 1/00"
+    ]
+}

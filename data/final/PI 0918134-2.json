@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0918134-2",
+    "filingDate": "08/09/2009",
+    "grantDate": "12/02/2019",
+    "title": "DERIVADO DE PROSTAGLANDINA I2",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-232133",
+            "priorityDate": "10/09/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-168193",
+            "priorityDate": "16/07/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2603"
+        }
+    ],
+    "inventors": [
+        "TAKAHIKO MURATA",
+        "MASAHIRO AMAKAWA",
+        "SHIN TERADAIRA",
+        "YASUSHI MATSUMURA",
+        "KATSUHIKO KONISHI"
+    ],
+    "holders": [
+        98578,
+        98579
+    ],
+    "ipcCodes": [
+        "A61P 1/00",
+        "A61P 1/04",
+        "C07D 405/06",
+        "A61K 31/5585"
+    ]
+}

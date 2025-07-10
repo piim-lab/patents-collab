@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0710743-9",
+    "filingDate": "13/04/2007",
+    "grantDate": null,
+    "title": "Sistema e m\u00e9todo para forma\u00e7\u00e3o e enchimento simult\u00e2neo de um recipiente",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/791,954",
+            "priorityDate": "13/04/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/786,736",
+            "priorityDate": "12/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "DAVID ANDISON",
+        "DAVID G LISCH",
+        "DAN WEISSMANN"
+    ],
+    "holders": [
+        110459
+    ],
+    "ipcCodes": [
+        "B29C 49/06",
+        "B65B 3/02",
+        "B29C 49/12",
+        "B29C 49/46"
+    ]
+}

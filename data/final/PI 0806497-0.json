@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "PI 0806497-0",
+    "filingDate": "03/01/2008",
+    "grantDate": "17/10/2023",
+    "title": "SISTEMA E M\u00c9TODO PARA PROTE\u00c7\u00c3O DE SOBRECORRENTE EM CIRCUITO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/650,391",
+            "priorityDate": "05/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "NAMWOOK PAIK",
+        "VISHWAS M DEOKAR"
+    ],
+    "holders": [
+        351227
+    ],
+    "ipcCodes": [
+        "H02H 3/093",
+        "H02H 6/00"
+    ]
+}

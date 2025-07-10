@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0812919-3",
+    "filingDate": "19/06/2008",
+    "grantDate": "29/01/2019",
+    "title": "Composi\u00e7\u00e3o farmac\u00eautica que compreende um composto e kit",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/936,440",
+            "priorityDate": "20/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "MARTIN P MAGUIRE",
+        "ELISE RIOUX",
+        "HARRY J LEIGHTON"
+    ],
+    "holders": [
+        197520
+    ],
+    "ipcCodes": [
+        "A01N 37/34",
+        "A61K 31/275"
+    ]
+}

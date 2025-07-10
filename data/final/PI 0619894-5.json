@@ -1,0 +1,93 @@
+{
+    "applicationNumber": "PI 0619894-5",
+    "filingDate": "15/12/2006",
+    "grantDate": "06/04/2021",
+    "title": "Composto de amina e composi\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-361363",
+            "priorityDate": "15/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "MASATOSHI KIUCHI",
+        "KAORU MARUKAWA",
+        "NOBUTAKA KOBAYASHI",
+        "KUNIO SUGAHARA"
+    ],
+    "holders": [
+        97573
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "C07F 9/09",
+        "A61K 31/137",
+        "A61P 17/06",
+        "A61P 25/00",
+        "A61K 31/165",
+        "A61P 19/02",
+        "A61K 31/277",
+        "A61K 31/357",
+        "A61P 11/06",
+        "A61P 17/00",
+        "A61K 31/222",
+        "A61P 19/00",
+        "A61P 3/10",
+        "A61K 31/351",
+        "A61P 37/06",
+        "A61P 13/12",
+        "A61K 31/325",
+        "A61P 27/16",
+        "A61P 37/02",
+        "A61K 31/661",
+        "C07C 323/43",
+        "C07C 323/32",
+        "A61K 31/695",
+        "A61K 31/675",
+        "C07C 255/59",
+        "C07C 217/64"
+    ]
+}

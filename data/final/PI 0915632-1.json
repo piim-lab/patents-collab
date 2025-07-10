@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0915632-1",
+    "filingDate": "09/07/2009",
+    "grantDate": null,
+    "title": "PROCESSO DE FABRICA\u00c7\u00c3O DE UMA P\u00c1 DE ESTATOR, P\u00c1 DE ESTATOR CONSTRU\u00cdDA EM UM MATERIAL COMP\u00d3SITO E TURBOM\u00c1QUINA.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0854702",
+            "priorityDate": "10/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "OLIVIER BELMONTE",
+        "JEAN NO\u00cbL MAHIEU",
+        "XAVIER MILLIER"
+    ],
+    "holders": [
+        79254
+    ],
+    "ipcCodes": [
+        "F04D 29/54",
+        "F01D 5/28",
+        "B29C 70/44",
+        "B29C 70/48",
+        "F04D 29/02",
+        "D03D 25/00",
+        "B29B 11/16",
+        "B29C 70/24",
+        "F01D 5/14"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0804500-3",
+    "filingDate": "17/04/2008",
+    "grantDate": "18/09/2018",
+    "title": "A\u00c7O PARA TRABALHO A QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-109897",
+            "priorityDate": "18/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2576"
+        }
+    ],
+    "inventors": [
+        "KEI MIYANISHI",
+        "MASAYUKI HASHIMURA",
+        "ATSUSHI MIZUNO"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C22C 38/06",
+        "C22C 38/60"
+    ]
+}

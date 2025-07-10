@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0720913-4",
+    "filingDate": "17/12/2007",
+    "grantDate": "09/07/2019",
+    "title": "SUPORTE DE LAMINA\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-003053",
+            "priorityDate": "11/01/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-144648",
+            "priorityDate": "31/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "AKIHITO YAMANE"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "B21B 27/02",
+        "B21B 17/02",
+        "B21B 13/10"
+    ]
+}

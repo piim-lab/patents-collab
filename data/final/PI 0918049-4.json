@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0918049-4",
+    "filingDate": "08/07/2009",
+    "grantDate": null,
+    "title": "INTERFACE DE VEDACAO ELIPTICA PARA CONJUNTO DE FILTRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/233,115",
+            "priorityDate": "18/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        }
+    ],
+    "inventors": [
+        "BRADLEY SMITH",
+        "LAM NG",
+        "BENJAMIN L SCHECKEL",
+        "MERWYN COUTINHO",
+        "PETER K HERMAN"
+    ],
+    "holders": [
+        44158
+    ],
+    "ipcCodes": [
+        "F01M 13/04",
+        "B01D 35/30",
+        "F01M 13/00",
+        "F01M 11/08",
+        "B01D 35/153"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0922240-5",
+    "filingDate": "14/12/2009",
+    "grantDate": null,
+    "title": "M\u00c1QUINA E PROCESSO PARA RENOVA\u00c7\u00c3O DE UMA VIA",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "01974/08",
+            "priorityDate": "16/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "J\u00d6RG GANZ"
+    ],
+    "holders": [
+        409102
+    ],
+    "ipcCodes": [
+        "E01B 27/11",
+        "E01B 29/06",
+        "E01B 29/05"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0720906-1",
+    "filingDate": "17/01/2007",
+    "grantDate": "06/03/2019",
+    "title": "M\u00e9todo e sistema para planejar um procedimento restaurativo dental e sistema de computador para realizar o m\u00e9todo",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0700043-3",
+            "priorityDate": "10/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "PETTERSSON ANDREAS"
+    ],
+    "holders": [
+        83995
+    ],
+    "ipcCodes": [
+        "A61C 9/00",
+        "A61C 13/00"
+    ]
+}

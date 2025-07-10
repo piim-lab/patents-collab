@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0917695-0",
+    "filingDate": "27/08/2009",
+    "grantDate": null,
+    "title": "Dispositivo de Revela\u00e7\u00e3o e Aparelho de Forma\u00e7\u00e3o de Imagem Eletrofotogr\u00e1fica",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-218465",
+            "priorityDate": "27/08/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-191189",
+            "priorityDate": "20/08/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        }
+    ],
+    "inventors": [
+        "ATSUSHI TAKASAKA",
+        "SHIGEO MIYABE",
+        "TAKAHITO UENO"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "G03G 15/01",
+        "F16D 1/10"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0316666-0",
+    "filingDate": "26/11/2003",
+    "grantDate": "25/09/2018",
+    "title": "NOVO USO DE SULFATO DE DEXTRANO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0203526-9",
+            "priorityDate": "28/11/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "NILSSON BO",
+        "KORSGREN OLLE"
+    ],
+    "holders": [
+        165970
+    ],
+    "ipcCodes": [
+        "A61P 37/06",
+        "A61K 31/721"
+    ]
+}

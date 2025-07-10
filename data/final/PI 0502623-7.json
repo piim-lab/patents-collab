@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0502623-7",
+    "filingDate": "24/06/2005",
+    "grantDate": null,
+    "title": "TONER  DE AGREGA\u00c7\u00c3O DE EMULS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/876.575",
+            "priorityDate": "28/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "KAREN A MOFFAT",
+        "DARYL VANBESIEN",
+        "ENNO E AGUR",
+        "HENG LIU",
+        "DAVID J SANDERS"
+    ],
+    "holders": [
+        456
+    ],
+    "ipcCodes": [
+        "G03G 9/08",
+        "C08L 91/06"
+    ]
+}

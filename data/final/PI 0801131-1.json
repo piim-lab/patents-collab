@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0801131-1",
+    "filingDate": "22/02/2008",
+    "grantDate": null,
+    "title": "CONTROLADOR DE EMBREAGEM, M\u00c9TODO PARA CONTROLAR EMBREAGEM E VE\u00cdCULO TIPO DE MONTAR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-043645",
+            "priorityDate": "23/02/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-231131",
+            "priorityDate": "06/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        }
+    ],
+    "inventors": [
+        "KENGO MINAMI"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "B60W 10/10",
+        "F16D 48/06",
+        "B60K 20/00",
+        "F16D 28/00"
+    ]
+}

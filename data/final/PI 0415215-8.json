@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0415215-8",
+    "filingDate": "08/10/2004",
+    "grantDate": "23/02/2021",
+    "title": "APLICA\u00c7\u00c3O DE UM POLIFENOL PARA O TRATAMENTO DE UMA LES\u00c3O CANCEROSA OU PR\u00c9-CANCEROSA DA PELE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/510,101",
+            "priorityDate": "09/10/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "EGGERT STOCKFLETH"
+    ],
+    "holders": [
+        371208
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61P 17/02",
+        "A61K 31/353",
+        "A61P 17/00",
+        "A61K 31/7048",
+        "A61K 36/82"
+    ]
+}

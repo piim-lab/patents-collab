@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0607805-2",
+    "filingDate": "22/02/2006",
+    "grantDate": "02/07/2019",
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UM TUBO SEM COSTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-045181",
+            "priorityDate": "22/02/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "KOUJI NAKAIKE",
+        "YASUYOSHI HIDAKA",
+        "SUMIO IIDA",
+        "HIROKI KUSUDA",
+        "MASAMI SAKIYAMA"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "B21B 25/00",
+        "B21B 17/04",
+        "B21B 17/02",
+        "B21B 25/04"
+    ]
+}

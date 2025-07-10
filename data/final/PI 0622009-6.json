@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0622009-6",
+    "filingDate": "11/09/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA LEITURA OTIMIZADA DE UM TRANSPONDER DE COMUNICA\u00c7\u00c3O DE R\u00c1DIO FREQ\u00dc\u00caNCIA COM AJUDA DE UM CIRCUITO RESSONANTE PASSIVO",
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "PAUL CARUANA"
+    ],
+    "holders": [
+        87933
+    ],
+    "ipcCodes": [
+        "G06K 19/077",
+        "G06K 7/00"
+    ]
+}

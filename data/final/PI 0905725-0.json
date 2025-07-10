@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0905725-0",
+    "filingDate": "12/01/2009",
+    "grantDate": "29/12/2020",
+    "title": "VACINA E EMBALAGEM FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/020,573",
+            "priorityDate": "11/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "SURAJ SABLE",
+        "BONNIE B PLIKAYTIS",
+        "THOMAS M SHINNICK",
+        "RAMA ROA AMARA",
+        "MANI CHERUVU"
+    ],
+    "holders": [
+        102004,
+        351732
+    ],
+    "ipcCodes": [
+        "A61K 38/16",
+        "C07K 16/12"
+    ]
+}

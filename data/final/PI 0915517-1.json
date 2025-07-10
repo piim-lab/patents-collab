@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0915517-1",
+    "filingDate": "12/06/2009",
+    "grantDate": "06/10/2020",
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE UM CONJUGADO DE VI, CONJUGADO, E, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0810894.6",
+            "priorityDate": "13/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "FRANCESCA MICOLI",
+        "PAOLO COSTANTINO",
+        "FRANCESCO BERTI"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61P 43/00",
+        "A61K 47/00"
+    ]
+}

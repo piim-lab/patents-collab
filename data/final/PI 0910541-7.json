@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0910541-7",
+    "filingDate": "30/04/2009",
+    "grantDate": "03/12/2019",
+    "title": "Compostos de tetrazol",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/049,167",
+            "priorityDate": "30/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/093,743",
+            "priorityDate": "03/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "JAMES DENNEN ONEIL",
+        "SHALINI SHARMA",
+        "RAMACHANDRAN ARUDCHANDRAN"
+    ],
+    "holders": [
+        159883
+    ],
+    "ipcCodes": [
+        "A61K 31/41",
+        "A01N 43/64"
+    ]
+}

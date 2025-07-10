@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0915442-6",
+    "filingDate": "08/07/2009",
+    "grantDate": null,
+    "title": "TAMIS MELHORADO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "08 12630.2",
+            "priorityDate": "10/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "GRAHAM ROBERTSON",
+        "BRIAN CARR",
+        "ERIC CADY"
+    ],
+    "holders": [
+        87041,
+        141934
+    ],
+    "ipcCodes": [
+        "B07B 1/46"
+    ]
+}

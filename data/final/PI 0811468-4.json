@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0811468-4",
+    "filingDate": "05/05/2008",
+    "grantDate": "03/12/2019",
+    "title": "CAPA EST\u00c9RIL DESTINADA A RECOBRIR PELO MENOS UMA PARTE DA ALTURA DE UM P\u00c1RA-VENTO DE MATERIAL RADIOPROTETOR.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0703316",
+            "priorityDate": "09/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "MARIE LEMER"
+    ],
+    "holders": [
+        244635
+    ],
+    "ipcCodes": [
+        "G21F 3/00",
+        "A61B 6/10"
+    ]
+}

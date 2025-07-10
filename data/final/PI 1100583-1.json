@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 1100583-1",
+    "filingDate": "07/01/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE HIDROLIQUEFA\u00c7\u00c3O DIRETA DE BIOMASSA, COMPREENDENDO DUAS ETAPAS DE HIDROCONVERS\u00c3O EM LEITO FLUIDIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "10/00.097",
+            "priorityDate": "12/01/2010"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "10/00.574",
+            "priorityDate": "11/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        }
+    ],
+    "inventors": [
+        "ALAIN QUIGNARD",
+        "WILFRIED WEISS"
+    ],
+    "holders": [
+        32
+    ],
+    "ipcCodes": [
+        "C10G 65/12",
+        "C10G 65/02",
+        "C10G 1/08",
+        "C10G 3/00",
+        "B01J 23/85"
+    ]
+}

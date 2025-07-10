@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0707275-9",
+    "filingDate": "26/01/2007",
+    "grantDate": "24/04/2019",
+    "title": "CIRCUITO DE ACIONAMENTO DE VCO E SINTETIZADOR DE FREQ\u00dc\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-017617",
+            "priorityDate": "26/01/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-021315",
+            "priorityDate": "30/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "YASUO KITAYAMA",
+        "HIROKI KIMURA",
+        "NAOKI ONISHI",
+        "NOBUO TSUKAMOTO"
+    ],
+    "holders": [
+        384278
+    ],
+    "ipcCodes": [
+        "H03L 7/093",
+        "H03L 7/087"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0909583-7",
+    "filingDate": "25/05/2009",
+    "grantDate": "03/09/2019",
+    "title": "\"SISTEMA LIQUIDIFICADOR\"",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08157251.3",
+            "priorityDate": "30/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2758"
+        }
+    ],
+    "inventors": [
+        "JOHANN UNTEREGGER",
+        "JUERGEN HOLZBAUER"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "A47J 43/07",
+        "A47J 43/042"
+    ]
+}

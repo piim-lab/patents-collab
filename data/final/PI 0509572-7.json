@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0509572-7",
+    "filingDate": "31/03/2005",
+    "grantDate": null,
+    "title": "CONJUNTO DE RECIPIENTE E TAMPA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/557,860",
+            "priorityDate": "31/03/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/603,226",
+            "priorityDate": "20/08/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "JOHN R NOTTINGHAM",
+        "JOHN W SPIRK",
+        "DALE A PANASEWICZ",
+        "ROBERT IREDELL",
+        "NICK E STANCA"
+    ],
+    "holders": [
+        48395
+    ],
+    "ipcCodes": [
+        "B65D 1/32",
+        "B44D 3/12",
+        "B05C 17/00",
+        "B05C 17/03",
+        "B61D 1/00"
+    ]
+}

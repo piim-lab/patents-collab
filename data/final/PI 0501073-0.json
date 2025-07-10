@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0501073-0",
+    "filingDate": "29/03/2005",
+    "grantDate": null,
+    "title": "PROCESSO E SISTEMA DE CONTROLE COMPUTADORIZADO DE MANUTEN\u00c7\u00c3O AUTOMOTIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0400828-0",
+            "priorityDate": "30/03/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        }
+    ],
+    "inventors": [
+        "TOMAS FURENDAL",
+        "JOHAN LINDSTR\u00d6M",
+        "MIKAEL EDSTAM"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B60K 35/00",
+        "G07C 5/08",
+        "G06F 11/277"
+    ]
+}

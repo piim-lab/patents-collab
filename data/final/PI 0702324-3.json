@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0702324-3",
+    "filingDate": "30/04/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA  APLICAR UM FORRO A UMA BACIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/454,648",
+            "priorityDate": "16/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "FRANK T MORRISON",
+        "GREG M LOWMAN",
+        "JOHN R HAWKINS",
+        "JAMES W FURLONG"
+    ],
+    "holders": [
+        33101
+    ],
+    "ipcCodes": [
+        "B05D 7/14",
+        "C23C 28/00",
+        "B05D 3/02",
+        "C23C 2/26",
+        "B05D 1/04",
+        "B05D 1/38"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0717354-7",
+    "filingDate": "29/08/2007",
+    "grantDate": null,
+    "title": "INJETOR PARA A INJE\u00c7\u00c3O DE COMBUST\u00cdVEL EM C\u00c2MARAS DE COMBUST\u00c3O DE M\u00c1QUINAS DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 050 163.2",
+            "priorityDate": "25/10/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "FRANCOIS ROSSIGNOL",
+        "STEPHAN AMELANG",
+        "FRIEDRICH HOWEY",
+        "OLIVIER CHARVET",
+        "TONY DUMONT"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "F02M 63/00",
+        "F02M 47/02"
+    ]
+}

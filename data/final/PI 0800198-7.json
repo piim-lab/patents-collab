@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0800198-7",
+    "filingDate": "17/01/2008",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DOBRA PARA M\u00c1QUINA DOBRADORA-COLADORA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 000940.2",
+            "priorityDate": "17/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "LIONEL CAILLOUX",
+        "ROGER DUPERTUIS"
+    ],
+    "holders": [
+        388896
+    ],
+    "ipcCodes": [
+        "B65B 43/24"
+    ]
+}

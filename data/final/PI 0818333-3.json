@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0818333-3",
+    "filingDate": "15/10/2008",
+    "grantDate": null,
+    "title": "CONJUNTO DE BLINDAGEM ISOLANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/907,628",
+            "priorityDate": "15/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        }
+    ],
+    "inventors": [
+        "ROBERT BERNSTORF",
+        "BASTIAAN BESOUW"
+    ],
+    "holders": [
+        494
+    ],
+    "ipcCodes": [
+        "H01B 17/44"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0807491-7",
+    "filingDate": "12/02/2008",
+    "grantDate": "14/05/2019",
+    "title": "Diafragma para uso em um conjunto de v\u00e1lvula, conjunto de v\u00e1lvula e barril",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0702679.2",
+            "priorityDate": "12/02/2007"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0724454.4",
+            "priorityDate": "14/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "ALBERT WAUTERS",
+        "IAIN MCDERMENT"
+    ],
+    "holders": [
+        388065
+    ],
+    "ipcCodes": [
+        "B67D 1/08"
+    ]
+}

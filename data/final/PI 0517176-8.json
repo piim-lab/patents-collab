@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0517176-8",
+    "filingDate": "13/12/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CRIAR UMA REPRESENTA\u00c7\u00c3O DE UM RESULTADO DE C\u00c1LCULO LINEARMENTE DEPENDENTE DE UM QUADRADO DE UM VALOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102004059979.3",
+            "priorityDate": "13/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "GAYER MARC",
+        "LUTZKY MANFRED",
+        "LOHWASSER MARKUS",
+        "DISCH SASCHA",
+        "HILPERT JOHANNES",
+        "GEYERSBERGER STEFAN",
+        "GRILL BERNHARD"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "G06F 7/544",
+        "G10L 19/032"
+    ]
+}

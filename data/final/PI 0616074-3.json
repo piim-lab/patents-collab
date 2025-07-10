@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0616074-3",
+    "filingDate": "15/09/2006",
+    "grantDate": null,
+    "title": "SUPORTE DE CHAMADA EM MODO CIRCUITO DE EMERG\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/717,620",
+            "priorityDate": "15/09/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/730,312",
+            "priorityDate": "25/10/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/749,294",
+            "priorityDate": "09/12/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/749,233",
+            "priorityDate": "09/12/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/532,044",
+            "priorityDate": "14/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        }
+    ],
+    "inventors": [
+        "STEPHEN EDGE",
+        "KIRK BURROUGHS",
+        "ANDREAS WACHTER"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 64/00",
+        "H04W 4/90",
+        "H04W 76/10",
+        "H04W 84/04",
+        "H04W 76/50"
+    ]
+}

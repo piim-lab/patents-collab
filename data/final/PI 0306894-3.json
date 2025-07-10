@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0306894-3",
+    "filingDate": "13/01/2003",
+    "grantDate": null,
+    "title": "ARMADILHA DE ANIMAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/043,161",
+            "priorityDate": "14/01/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/320,688",
+            "priorityDate": "17/12/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "DAVID L ANDERSON",
+        "MICHAEL J GEHRET",
+        "DAVID W SWIFT",
+        "CHRISTOPHER T RICH"
+    ],
+    "holders": [
+        270910
+    ],
+    "ipcCodes": [
+        "H05C 3/00",
+        "A01M 23/38",
+        "H05C 1/06",
+        "A01M 23/04"
+    ]
+}

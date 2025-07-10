@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0617451-5",
+    "filingDate": "12/10/2006",
+    "grantDate": "09/07/2019",
+    "title": "DISPOSITIVO DE APRESENTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, E, DISPOSITIVO ELETR\u00d4NICO PORT\u00c1TIL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05022557.2",
+            "priorityDate": "17/10/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/730461",
+            "priorityDate": "26/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "MATS KLEVERMAN",
+        "GUNNAR KLINGHULT"
+    ],
+    "holders": [
+        80322
+    ],
+    "ipcCodes": [
+        "H04M 1/02",
+        "H04M 1/22"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0702010-4",
+    "filingDate": "27/04/2007",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ESCAPAMENTO E VE\u00cdCULO EQUIPADO COM DISPOSITIVO DE ESCAPAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-127212",
+            "priorityDate": "01/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        }
+    ],
+    "inventors": [
+        "HIROMI SUZUKI",
+        "MANABU SHIMOISHI"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "F01N 3/28",
+        "F01N 13/18",
+        "B62M 7/12"
+    ]
+}

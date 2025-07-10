@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0804938-6",
+    "filingDate": "19/11/2008",
+    "grantDate": "07/05/2019",
+    "title": "BARRA DE CONEX\u00c3O COM INTERFACE PLANA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 08126",
+            "priorityDate": "20/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "MICHEL BONFILS"
+    ],
+    "holders": [
+        253
+    ],
+    "ipcCodes": [
+        "H01R 13/02"
+    ]
+}

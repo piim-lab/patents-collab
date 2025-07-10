@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0518529-7",
+    "filingDate": "21/12/2005",
+    "grantDate": "26/06/2018",
+    "title": "PROCESSO PARA SEPARA\u00c7\u00c3O DE UMA FRA\u00c7\u00c3O RICA EM C2+ DE LNG",
+    "priorityClaims": [
+        {
+            "countryCode": "10",
+            "priorityNumber": "2005 000 634.5",
+            "priorityDate": "03/01/2005 DE"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2806"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "HEINZ BAUER",
+        "HUBERT FRANKE",
+        "RAINER SAPPER"
+    ],
+    "holders": [
+        1173
+    ],
+    "ipcCodes": [
+        "F25J 3/02"
+    ]
+}

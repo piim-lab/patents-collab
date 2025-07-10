@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0913454-9",
+    "filingDate": "11/08/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DESATIVAR UMA ALOCA\u00c7\u00c3O DE RECURSO SEMIPERSISTENTE, EQUIPAMENTO DO USU\u00c1RIO, E N\u00d3 B",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08022171.6",
+            "priorityDate": "19/12/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08016365.2",
+            "priorityDate": "17/09/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "JOACHIM L\u00d6HR",
+        "ALEXANDER GOLITSCHEK EDLER VON ELBWART",
+        "MARTIN FEUERS\u00c4NGER",
+        "CHRISTIAN WENGERTER"
+    ],
+    "holders": [
+        351436
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04L 5/00",
+        "H04W 72/12",
+        "H04L 1/18",
+        "H04L 1/16"
+    ]
+}

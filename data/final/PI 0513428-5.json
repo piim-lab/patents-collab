@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0513428-5",
+    "filingDate": "18/07/2005",
+    "grantDate": "22/10/2019",
+    "title": "DISPOSITIVO DE DETEC\u00c7\u00c3O FISIOL\u00d3GICA PARA A MEDI\u00c7\u00c3O DE pCO2",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0416004.0",
+            "priorityDate": "16/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "PEYMAN MIRTAHERI",
+        "TORE OMTVEIT"
+    ],
+    "holders": [
+        376802
+    ],
+    "ipcCodes": [
+        "A61B 5/00",
+        "G01N 33/49"
+    ]
+}

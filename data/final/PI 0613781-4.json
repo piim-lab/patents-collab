@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0613781-4",
+    "filingDate": "12/07/2006",
+    "grantDate": "17/07/2018",
+    "title": "Entidade eletr\u00f4nica do tipo documento ou an\u00e1logo e processo para prover seguran\u00e7a ativa \u00e0 mesma",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0507610",
+            "priorityDate": "18/07/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "DAN SERBANESCU"
+    ],
+    "holders": [
+        380757
+    ],
+    "ipcCodes": [
+        "H04K 3/00",
+        "G06K 19/073"
+    ]
+}

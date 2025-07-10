@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0517009-5",
+    "filingDate": "18/10/2005",
+    "grantDate": null,
+    "title": "MADEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/970,446",
+            "priorityDate": "21/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        }
+    ],
+    "inventors": [
+        "ROBERT M LEACH",
+        "JUN ZHANG"
+    ],
+    "holders": [
+        86078
+    ],
+    "ipcCodes": [
+        "A61K 33/24"
+    ]
+}

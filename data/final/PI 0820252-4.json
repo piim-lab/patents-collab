@@ -1,0 +1,95 @@
+{
+    "applicationNumber": "PI 0820252-4",
+    "filingDate": "14/11/2008",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O COMPREENDENDO ARBUTINA",
+    "nationalPhaseDate": [
+        "14/05/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2008/083590",
+        "pctDate": "14/11/2008",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/003,015",
+            "priorityDate": "14/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "15.9",
+            "description": "Perda de Prioridade",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "11.5",
+            "description": "Arquivamento - Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "12.6",
+            "description": "Outros Recursos",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "102",
+            "description": "Recurso conhecido e provido. Desarquivado o processo para prosseguir o exame",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "6.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        }
+    ],
+    "inventors": [
+        "JUDY HATTENDORF",
+        "STEVE CARLSON"
+    ],
+    "holders": [
+        396477
+    ],
+    "ipcCodes": [
+        "A61K 38/43",
+        "A61K 8/18"
+    ]
+}

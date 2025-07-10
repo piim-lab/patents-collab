@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0617114-1",
+    "filingDate": "07/12/2006",
+    "grantDate": "23/10/2018",
+    "title": "CONCENTRADO EMBALADO, PROCESSO PARA A PREPARA\u00c7\u00c3O DE UM CONCENTRADO E USO DE UM CONCENTRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05077842.2",
+            "priorityDate": "12/12/2005"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06115093.4",
+            "priorityDate": "07/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "GEORG ACHTERKAMP",
+        "DIETER KURT KARL ACKERMANN",
+        "CHIHARU INOUE",
+        "REINHARD KOHLUS",
+        "MATTHIAS KUHN"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "A23L 23/00",
+        "A23L 23/10",
+        "A23L 5/00"
+    ]
+}

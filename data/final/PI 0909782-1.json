@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0909782-1",
+    "filingDate": "27/02/2009",
+    "grantDate": "12/01/2021",
+    "title": "Composto derivado de azetidina e composi\u00e7\u00e3o farmac\u00eautica compreendendo dito composto",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0804006.5",
+            "priorityDate": "04/03/2008"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0821694.7",
+            "priorityDate": "27/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "STEPHEN ROUGHLEY",
+        "STEVEN WALLS",
+        "TERRENCE HART",
+        "RACHEL PARSONS",
+        "PAUL BROUGH",
+        "CHRISTOPHER GRAHAM",
+        "ALBA MACIAS"
+    ],
+    "holders": [
+        400003
+    ],
+    "ipcCodes": [
+        "C07D 401/12",
+        "C07D 401/14",
+        "C07D 413/14",
+        "C07D 205/04"
+    ]
+}

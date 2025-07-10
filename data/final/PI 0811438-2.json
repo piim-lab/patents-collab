@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0811438-2",
+    "filingDate": "09/05/2008",
+    "grantDate": "04/06/2019",
+    "title": "PE\u00c7A DE ROUPA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2007 006 958.8",
+            "priorityDate": "11/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "BODO W LAMBERTZ"
+    ],
+    "holders": [
+        86967
+    ],
+    "ipcCodes": [
+        "A41D 13/05"
+    ]
+}

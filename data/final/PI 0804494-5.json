@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0804494-5",
+    "filingDate": "29/01/2008",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE TRANSPORTE DO TIPO CARRO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-018645",
+            "priorityDate": "30/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "KATSUHIRO SUGIMOTO"
+    ],
+    "holders": [
+        24424
+    ],
+    "ipcCodes": [
+        "B65G 35/06",
+        "B61B 13/12",
+        "B61D 47/00"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0410714-4",
+    "filingDate": "25/05/2004",
+    "grantDate": "24/09/2019",
+    "title": "DERIVADOS DE QUINAZOLINA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP03/05723",
+            "priorityDate": "27/05/2003"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP03/10266",
+            "priorityDate": "15/09/2003"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP03/51061",
+            "priorityDate": "18/12/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "EDDY JEAN EDGARD FREYNE",
+        "TIMOTHY PIETRO SUREN PERERA",
+        "PETER JACOBUS JOHANNES ANTONIUS BUIJNSTERS",
+        "MARC WILLEMS",
+        "GASTON STANISLAS MARCELLA DIELS",
+        "WERNER CONSTANT JOHAN EMBRECHTS",
+        "PETER TEN HOLTE",
+        "CARSTEN SCHULTZ",
+        "FREDERIK JAN RITA ROMBOUTS"
+    ],
+    "holders": [
+        79692
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07D 498/08",
+        "C07D 239/94",
+        "C07D 239/88",
+        "C07D 239/93",
+        "A61K 31/529"
+    ]
+}

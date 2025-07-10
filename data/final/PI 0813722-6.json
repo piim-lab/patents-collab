@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0813722-6",
+    "filingDate": "09/07/2008",
+    "grantDate": null,
+    "title": "ELEMENTO DE SE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 032 770.8",
+            "priorityDate": "13/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        }
+    ],
+    "inventors": [
+        "CHRISTOF MAISCH"
+    ],
+    "holders": [
+        85822
+    ],
+    "ipcCodes": [
+        "E04B 2/78",
+        "E04B 2/74",
+        "E04F 13/08",
+        "E04B 2/82"
+    ]
+}

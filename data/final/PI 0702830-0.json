@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0702830-0",
+    "filingDate": "31/07/2007",
+    "grantDate": "23/07/2019",
+    "title": "M\u00c9TODO DE RESFRIAMENTO DE CHAPA DE A\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-223636",
+            "priorityDate": "18/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "TOMOYA ODA"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "B21B 37/44",
+        "B21B 45/02",
+        "B21B 37/76"
+    ]
+}

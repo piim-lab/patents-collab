@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0613859-4",
+    "filingDate": "26/07/2006",
+    "grantDate": "15/09/2020",
+    "title": "Inibidores da COMT, seus usos, e composi\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "05 15327.5",
+            "priorityDate": "26/07/2005"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 008203.9",
+            "priorityDate": "20/04/2006"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 011073.1",
+            "priorityDate": "30/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "DAVID ALEXANDER LEARMONTH",
+        "LASZLO ERNO KISS",
+        "PEDRO NUNO LEAL PALMA",
+        "HUMBERTO DOS SANTOS FERREIRA",
+        "PATRICIO MANUEL VIEIRA ARA\u00daJO SOARES DA SILVA"
+    ],
+    "holders": [
+        111412
+    ],
+    "ipcCodes": [
+        "C07D 271/06",
+        "A61P 25/00",
+        "C07D 271/10",
+        "A61K 31/506",
+        "C07D 401/04",
+        "C07D 413/06",
+        "A61K 31/421",
+        "A61K 31/4439",
+        "C07D 413/14",
+        "C07D 213/89",
+        "C07D 417/14",
+        "A61K 31/4425",
+        "C07D 413/04",
+        "C07D 407/04"
+    ]
+}

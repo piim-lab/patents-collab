@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "PI 0907474-0",
+    "filingDate": "04/02/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE COMUNICA\u00c7\u00c3O M\u00d3VEL E ESTA\u00c7\u00c3O DE R\u00c1DIO BASE",
+    "nationalPhaseDate": [
+        "04/08/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2009/051877",
+        "pctDate": "04/02/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-024616",
+            "priorityDate": "04/02/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-016681",
+            "priorityDate": "28/01/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "WURI ANDARMAWANTI HAPSARI",
+        "MINAMI ISHII",
+        "TAKEHIRO NAKAMURA"
+    ],
+    "holders": [
+        87815
+    ],
+    "ipcCodes": [
+        "H04W 4/02"
+    ]
+}

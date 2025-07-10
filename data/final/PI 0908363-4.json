@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0908363-4",
+    "filingDate": "10/02/2009",
+    "grantDate": null,
+    "title": "CIRCUITO EM PONTES E SEUS COMPONENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/028,133",
+            "priorityDate": "12/02/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/368,200",
+            "priorityDate": "09/02/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2760"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        401130
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0508886-0",
+    "filingDate": "08/03/2005",
+    "grantDate": null,
+    "title": "PROCESSO PARA REMODELA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "GM",
+            "priorityNumber": "205/2004",
+            "priorityDate": "17/03/2004 AT"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        }
+    ],
+    "inventors": [
+        "OSKAR PAMMER",
+        "KARL LAABER"
+    ],
+    "holders": [
+        11259
+    ],
+    "ipcCodes": [
+        "F27D 15/02",
+        "F23H 11/18",
+        "F27B 21/08",
+        "F27B 21/02",
+        "F26B 25/10"
+    ]
+}

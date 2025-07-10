@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0311403-1",
+    "filingDate": "24/07/2003",
+    "grantDate": null,
+    "title": "COMPRESSOR COM CONTROLE DE CAPACIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2002/0495",
+            "priorityDate": "22/08/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        }
+    ],
+    "inventors": [
+        "WOUNTER VAN PRAAG",
+        "PAUL EMMANUEL PHILOMENA VERBRAEKEN"
+    ],
+    "holders": [
+        33201
+    ],
+    "ipcCodes": [
+        "F04C 18/16",
+        "F04C 29/12",
+        "F04B 49/22"
+    ]
+}

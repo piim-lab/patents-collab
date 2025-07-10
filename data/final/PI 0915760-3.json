@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0915760-3",
+    "filingDate": "15/07/2009",
+    "grantDate": null,
+    "title": "SISTEMA DE SEGURAN\u00c7A E DETEC\u00c7\u00c3O DE INC\u00caNDIO DE \u00c1REA AMPLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/080,789",
+            "priorityDate": "15/07/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/502,787",
+            "priorityDate": "14/07/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        }
+    ],
+    "inventors": [
+        "KAREN D LONTKA",
+        "LEV M BARSKY",
+        "PAUL STRELECKI"
+    ],
+    "holders": [
+        11174
+    ],
+    "ipcCodes": [
+        "H04R 27/00"
+    ]
+}

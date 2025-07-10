@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0816136-4",
+    "filingDate": "25/08/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA PROCESSAMENTO DE SINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/968125",
+            "priorityDate": "27/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "ANISSE TALEB"
+    ],
+    "holders": [
+        79444
+    ],
+    "ipcCodes": [
+        "G10L 19/02"
+    ]
+}

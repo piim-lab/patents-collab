@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0506900-9",
+    "filingDate": "14/01/2005",
+    "grantDate": "27/10/2015",
+    "title": "PROCESSO E DISPOSITIVO DE ESTERILIZA\u00c7\u00c3O A V\u00c1CUO",
+    "priorityClaims": [
+        {
+            "countryCode": "BR",
+            "priorityNumber": "PI0400237-7",
+            "priorityDate": "16/01/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "TADASHI SHIOSAWA"
+    ],
+    "holders": [
+        374664
+    ],
+    "ipcCodes": [
+        "A61L 2/20",
+        "A61L 2/26",
+        "A61L 2/24",
+        "A61L 2/14"
+    ]
+}

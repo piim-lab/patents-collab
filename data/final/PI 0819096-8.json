@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0819096-8",
+    "filingDate": "22/10/2008",
+    "grantDate": null,
+    "title": "CONTROLE DE M\u00c1QUINAS PESADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "2007 5383",
+            "priorityDate": "22/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "HALLVARD SLETTEVOLL"
+    ],
+    "holders": [
+        395873
+    ],
+    "ipcCodes": [
+        "H02P 5/747",
+        "H02P 27/02"
+    ]
+}

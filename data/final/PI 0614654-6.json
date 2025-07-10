@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "PI 0614654-6",
+    "filingDate": "28/07/2006",
+    "grantDate": "12/03/2019",
+    "title": "INIBIDORES MACROC\u00cdCLICOS DE V\u00cdRUS DE HEPATITE C",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05 107074.6",
+            "priorityDate": "29/07/2005"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05 107417.7",
+            "priorityDate": "11/08/2005"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 101280.3",
+            "priorityDate": "03/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "MARIE BERNARD RABOISSON",
+        "HERMAN AUGUSTINUS DE KOCK",
+        "LILI HU",
+        "SANDRINE MARIE HELENE VENDEVILLE",
+        "ABDELLAH TAHRI",
+        "KENNETH ALAN SIMMEN",
+        "KARL MAGNUS NILSSON",
+        "BENGT BERTIL SAMUELSSON",
+        "ASA ANNICA KRISTINA ROSENQUIST",
+        "VLADIMIR IVANOV",
+        "MICHAEL PELCMAN",
+        "ANNA KARIN GERTRUD LINNEA BELFRAGE",
+        "OLA MIKAEL JOHANSSON",
+        "DOMINIQUE LOUIS NESTOR GHISLAIN SURLERAUX"
+    ],
+    "holders": [
+        91834,
+        222965
+    ],
+    "ipcCodes": [
+        "C07D 487/04",
+        "A61P 31/14",
+        "A61K 38/05",
+        "A61K 31/33",
+        "C07K 5/06",
+        "C07D 245/04",
+        "C07K 5/078"
+    ]
+}

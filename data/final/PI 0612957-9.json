@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "PI 0612957-9",
+    "filingDate": "25/04/2006",
+    "grantDate": "27/10/2020",
+    "title": "Composto, processos de prepara\u00e7\u00e3o de compostos, composi\u00e7\u00e3o farmac\u00eautica e uso de um composto.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05290950.4",
+            "priorityDate": "29/04/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/678,243",
+            "priorityDate": "06/05/2005"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05291793.7",
+            "priorityDate": "26/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ISABELLE BERTRAND",
+        "MARC CAPET",
+        "MARIE LECOMTE",
+        "NICOLAS LEVOIN",
+        "XAVIER LIGNEAU",
+        "OLIVIA POUPARDIN",
+        "PHILIPPE ROBERT",
+        "CHARLES SCHWARTZ",
+        "OLIVIER LABEEUW"
+    ],
+    "holders": [
+        43770
+    ],
+    "ipcCodes": [
+        "A61K 31/44",
+        "C07D 295/088",
+        "A61P 25/00",
+        "A61K 31/40",
+        "C07D 213/30",
+        "A61K 31/381",
+        "C07D 401/10",
+        "C07D 211/68",
+        "A61K 31/5377",
+        "C07D 211/14",
+        "C07D 333/16"
+    ]
+}

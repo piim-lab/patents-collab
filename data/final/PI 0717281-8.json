@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0717281-8",
+    "filingDate": "20/09/2007",
+    "grantDate": null,
+    "title": "M\u00e9todo de acesso de transfer\u00eancia e dispositivo baseado em canal de acesso aleat\u00f3rio",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "200610152438.7",
+            "priorityDate": "29/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "ZHONGDA DU"
+    ],
+    "holders": [
+        79199
+    ],
+    "ipcCodes": [
+        "H04W 74/08",
+        "H04W 36/08"
+    ]
+}

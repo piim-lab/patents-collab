@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0514610-0",
+    "filingDate": "15/08/2005",
+    "grantDate": null,
+    "title": "GUILHOTINA PARA CHAPAS",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "1389/04",
+            "priorityDate": "24/08/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        }
+    ],
+    "inventors": [
+        "MAURO SPIGA",
+        "GUY BOISSIN",
+        "ROLAND KREBS"
+    ],
+    "holders": [
+        349566
+    ],
+    "ipcCodes": [
+        "B23D 15/08"
+    ]
+}

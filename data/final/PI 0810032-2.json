@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0810032-2",
+    "filingDate": "09/04/2008",
+    "grantDate": "12/02/2019",
+    "title": "DIPOSITIVO DE INJE\u00c7\u00c3O PARA DISTRIBUIR UM MEDICAMENTO E LUVA DE INSER\u00c7\u00c3O PARA UM DISPOSITIVO DE INJE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 018 696.9",
+            "priorityDate": "18/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "HARDY KIETZMANN"
+    ],
+    "holders": [
+        79307
+    ],
+    "ipcCodes": [
+        "A61M 5/315",
+        "A61M 5/24"
+    ]
+}

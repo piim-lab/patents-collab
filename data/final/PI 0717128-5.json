@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0717128-5",
+    "filingDate": "25/09/2007",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE ADESIVO FUNDIDO A QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/541,598",
+            "priorityDate": "02/10/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "GENTA OKAZAKI"
+    ],
+    "holders": [
+        80808
+    ],
+    "ipcCodes": [
+        "C09J 153/02"
+    ]
+}

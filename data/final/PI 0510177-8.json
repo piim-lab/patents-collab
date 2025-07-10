@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "PI 0510177-8",
+    "filingDate": "22/04/2005",
+    "grantDate": "07/04/2020",
+    "title": "Composto, composi\u00e7\u00e3o farmac\u00eautica e uso do mesmo",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/564,842",
+            "priorityDate": "23/04/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/639,178",
+            "priorityDate": "23/12/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/111,144",
+            "priorityDate": "21/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ROBERT M BORZILLERI",
+        "LYNDON AM CORNELIUS",
+        "ROBERT J SCHMIDT",
+        "GRETCHEN M SCHROEDER",
+        "KYOUNG S KIM"
+    ],
+    "holders": [
+        82049
+    ],
+    "ipcCodes": [
+        "A61K 31/44",
+        "A61P 35/00",
+        "C07D 401/12",
+        "C07D 401/14",
+        "C07D 401/04",
+        "C07D 401/06",
+        "C07D 239/34",
+        "C07D 417/12",
+        "C07D 239/46",
+        "C07D 213/73",
+        "C07D 213/74",
+        "C07D 213/75",
+        "C07D 213/68"
+    ]
+}

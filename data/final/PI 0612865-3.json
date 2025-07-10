@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0612865-3",
+    "filingDate": "14/07/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR, MEIO DE ARMAZENAMENTO LEG\u00cdVEL POR COMPUTADOR EDISPOSITIVO DE COMPUTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/184.555",
+            "priorityDate": "19/07/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "ADIL A SHERWANI",
+        "PRANAVAKUMAR PUNNIAMOORTHY",
+        "RAJESH A DESHPANDE",
+        "AVNI H RAMBHIA",
+        "REID J KUHN",
+        "CLIFFORD P VAN DYKE"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 21/10",
+        "G06F 21/57",
+        "G06F 8/65",
+        "G11B 20/00"
+    ]
+}

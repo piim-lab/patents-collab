@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0907044-3",
+    "filingDate": "02/02/2009",
+    "grantDate": null,
+    "title": "PROCESSO DE AQUECIMENTO DE VIDRO FUNDIDO POR UM FORNO E UTILIZA\u00c7\u00c3O DO PROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0850814",
+            "priorityDate": "08/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "PATRICE ROUCHY",
+        "PAUL NETTER"
+    ],
+    "holders": [
+        17414
+    ],
+    "ipcCodes": [
+        "C03B 5/235"
+    ]
+}

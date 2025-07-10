@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0517356-6",
+    "filingDate": "19/08/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE APRESENTA\u00c7\u00c3O DE RESULTADOS DE BUSCAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/949,708",
+            "priorityDate": "27/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        }
+    ],
+    "inventors": [
+        "AMITABH K SINGHAL",
+        "VIRESH RATNAKAR",
+        "MAXIM LIFANTSEV",
+        "JOSEPH KIERAN O SULLIVAN"
+    ],
+    "holders": [
+        26957
+    ],
+    "ipcCodes": [
+        "G06F 17/30",
+        "G06F 17/22"
+    ]
+}

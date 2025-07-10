@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0107736-8",
+    "filingDate": "22/01/2001",
+    "grantDate": "17/12/2019",
+    "title": "Cepa HSV1 JS1, composi\u00e7\u00e3o farmac\u00eautica, e, uso de uma cepa HSV1 JS1",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0001475.3",
+            "priorityDate": "21/01/2000"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0002854.8",
+            "priorityDate": "08/02/2000"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0100288.0",
+            "priorityDate": "05/01/2001"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0100430.8",
+            "priorityDate": "06/01/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "ROBERT STUART COFFIN"
+    ],
+    "holders": [
+        369709
+    ],
+    "ipcCodes": [
+        "A61K 48/00",
+        "C12Q 1/02",
+        "C12N 7/01",
+        "C12N 15/869"
+    ]
+}

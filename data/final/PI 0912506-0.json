@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0912506-0",
+    "filingDate": "18/05/2009",
+    "grantDate": "16/04/2019",
+    "title": "Composi\u00e7\u00e3o emoliente de uso t\u00f3pico e utiliza\u00e7\u00e3o da mesma",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0853187",
+            "priorityDate": "16/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "PIERRE FABRE",
+        "CHRISTOPHE PRZYBYLSKI",
+        "FRAN\u00c7OIS CORDOLIANI",
+        "MARION KOPEC"
+    ],
+    "holders": [
+        100069
+    ],
+    "ipcCodes": [
+        "A61P 17/06",
+        "A61P 17/02",
+        "A61K 8/92",
+        "A61K 8/30",
+        "A61K 31/047",
+        "A61K 31/01"
+    ]
+}

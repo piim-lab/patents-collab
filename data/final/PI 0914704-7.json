@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0914704-7",
+    "filingDate": "03/07/2009",
+    "grantDate": null,
+    "title": "SUPORTE  DE  ARMAZENAMENTO  DE  CONJUNTOS  DE  COMBUST\u00cdVEL NUCLEAR",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "08 54576",
+            "priorityDate": "04/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "GUILLAUME FOUSSARD",
+        "R\u00c9GIS ANDRE"
+    ],
+    "holders": [
+        404724
+    ],
+    "ipcCodes": [
+        "G21C 19/07",
+        "G21C 19/40"
+    ]
+}

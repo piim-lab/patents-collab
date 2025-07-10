@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0617500-7",
+    "filingDate": "17/10/2006",
+    "grantDate": "14/02/2018",
+    "title": "Kit de imunoensaio para a detec\u00e7\u00e3o de veneno de Loxosceles reclusa",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/727.300",
+            "priorityDate": "17/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2797"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "WILLIAM V STOECKER",
+        "HERNAN GOMEZ",
+        "JONATHAN A GREEN",
+        "DAVID L MCGLASSON"
+    ],
+    "holders": [
+        381666,
+        381667,
+        79996,
+        89934
+    ],
+    "ipcCodes": [
+        "G01N 33/53",
+        "G01N 33/566"
+    ]
+}

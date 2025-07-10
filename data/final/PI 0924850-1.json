@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0924850-1",
+    "filingDate": "30/10/2009",
+    "grantDate": null,
+    "title": "CONJUNTO DE FILTRO, ELEMENTO DE FILTRO, E, M\u00c9TODOS PARA REMOVER UM ELEMENTO DE FILTRO DE UM CONJUNTO DE FILTRO, E PARA SUBSTITUIR UM CONJUNTO DE FILTRO",
+    "nationalPhaseDate": [
+        "19/10/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT NL2009/000206",
+        "pctDate": "30/10/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "PCT/NL2009/000098",
+            "priorityDate": "20/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "HENK VAN SAVOOIJEN",
+        "PIETER VAN GISBERGEN",
+        "RICHARD THEODORUS ANTONIUS ARTS",
+        "MARINUS JOHANNES BEREND VAN BOVEN"
+    ],
+    "holders": [
+        410524
+    ],
+    "ipcCodes": [
+        "B01D 29/96"
+    ]
+}

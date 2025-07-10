@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0513327-0",
+    "filingDate": "06/07/2005",
+    "grantDate": "29/09/2020",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA S\u00d3LIDA OU L\u00cdQUIDA COMPREENDENDO NEUROTOXINA BOTUL\u00cdNICA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0415491.0",
+            "priorityDate": "12/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "PAUL WEBB",
+        "MARY WHITE",
+        "JULIE PARTINGTON"
+    ],
+    "holders": [
+        376777
+    ],
+    "ipcCodes": [
+        "A61K 47/30",
+        "A61K 38/48"
+    ]
+}

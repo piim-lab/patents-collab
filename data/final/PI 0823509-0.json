@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "PI 0823509-0",
+    "filingDate": "23/06/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E EQUIPAMENTO TERMINAL PARA TRANSMITIR INFORMA\u00c7\u00d5ES DE CONTROLE DE UPLINK E RECEB\u00ca-LAS EM ESTA\u00c7\u00c3O DE BASE TERMINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "1020070060852",
+            "priorityDate": "21/06/2007"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "1020070079785",
+            "priorityDate": "08/08/2007"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "1020080058985",
+            "priorityDate": "23/06/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/06/2008",
+        "applicationNumber": "PI 0812566-0"
+    },
+    "events": [
+        {
+            "code": "8.5",
+            "description": "Exig\u00eancia de Complementa\u00e7\u00e3o da Retribui\u00e7\u00e3o Anual",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "YOUNG",
+        "GEUN PARK",
+        "GYU KIM",
+        "KAPSEOK CHANG",
+        "HYOSEOK YI",
+        "HOON KIM",
+        "CHAN BANG"
+    ],
+    "holders": [
+        119948,
+        89173
+    ],
+    "ipcCodes": [
+        "H04L 5/00",
+        "H04L 1/18",
+        "H04J 13/18",
+        "H04L 23/02"
+    ]
+}

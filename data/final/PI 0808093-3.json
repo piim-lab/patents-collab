@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "PI 0808093-3",
+    "filingDate": "23/01/2008",
+    "grantDate": "06/06/2023",
+    "title": "M\u00c9TODO PARA CONTROLAR UM FLUXO DE S\u00d3LIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 009 758.3",
+            "priorityDate": "27/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "ROGER BLIGH",
+        "PEKKA HILTUNEN",
+        "CORNELIS KLETT",
+        "MICHAEL MISSALLA",
+        "BERND REEB",
+        "LILLI SACHAROW",
+        "MICHAEL STR\u00d6DER",
+        "PETER STURM"
+    ],
+    "holders": [
+        81899
+    ],
+    "ipcCodes": [
+        "B01J 8/00",
+        "F23C 10/32"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0710466-9",
+    "filingDate": "23/04/2007",
+    "grantDate": "22/08/2023",
+    "title": "FERRAMENTA DE MONTAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0600867-6",
+            "priorityDate": "21/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "ANDERS GR\u00d6NBERG",
+        "HENRIK THORLACIUS",
+        "ANDERS GR\u00d6NBERG"
+    ],
+    "holders": [
+        151428
+    ],
+    "ipcCodes": [
+        "A61B 17/11"
+    ]
+}

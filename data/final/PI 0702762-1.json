@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0702762-1",
+    "filingDate": "12/06/2007",
+    "grantDate": "02/07/2019",
+    "title": "MECANISMO DE FIXA\u00c7\u00c3O DE CASSETE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/451,050",
+            "priorityDate": "12/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "DAVID L WILLIAMS",
+        "MICHAEL BOWMAN"
+    ],
+    "holders": [
+        12581
+    ],
+    "ipcCodes": [
+        "A61M 1/00"
+    ]
+}

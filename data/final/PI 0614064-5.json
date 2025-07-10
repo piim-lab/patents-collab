@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0614064-5",
+    "filingDate": "28/07/2006",
+    "grantDate": null,
+    "title": "DOWNLOAD DE DADOS INICIADO POR OBJETOS DE COMUNICA\u00c7\u00c3O PORT\u00c1TEIS DURANTE UMA CAMPANHA",
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        87933
+    ],
+    "ipcCodes": []
+}

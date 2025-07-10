@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0806812-7",
+    "filingDate": "23/01/2008",
+    "grantDate": "03/08/2021",
+    "title": "AGENTE PARA SUPRIMIR REA\u00c7\u00c3O DE REJEI\u00c7\u00c3O CR\u00d4NICA E USO DE UM INIBIDOR DE IL-6",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-012572",
+            "priorityDate": "23/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "MASAFUMI TAKAHASHI",
+        "ATSUSHI IZAWA"
+    ],
+    "holders": [
+        86875,
+        390444
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61P 37/06",
+        "A61K 45/00"
+    ]
+}

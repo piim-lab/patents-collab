@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 1100680-3",
+    "filingDate": "17/01/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA DETERMINAR UMA DATA DE LUBRIFICA\u00c7\u00c3O DE CHASSI E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "10 50 050-2",
+            "priorityDate": "18/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "OLA STENL\u00c5\u00c5S"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B60R 17/00"
+    ]
+}

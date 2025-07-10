@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0621465-7",
+    "filingDate": "15/12/2006",
+    "grantDate": "25/05/2021",
+    "title": "RECIPIENTE COMPREENDENDO UM ELEMENTO DE RECEPT\u00c1CULO OCO PARA ACOMODAR UMA SUBST\u00c2NCIA A SER MINISTRADA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 009 766.1",
+            "priorityDate": "01/03/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/366,022",
+            "priorityDate": "02/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "BERND HANSEN"
+    ],
+    "holders": [
+        107121
+    ],
+    "ipcCodes": [
+        "B65D 1/09",
+        "A61J 1/06"
+    ]
+}

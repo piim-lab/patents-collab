@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0914506-0",
+    "filingDate": "19/08/2009",
+    "grantDate": null,
+    "title": "M\u00e9todo para recuperar \u00f3leo de uma forma\u00e7\u00e3o de reservat\u00f3rio",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/196,235",
+            "priorityDate": "15/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        }
+    ],
+    "inventors": [
+        "AARON W SANDERS",
+        "KEITH P JOHNSTON",
+        "QUOC NGUYEN",
+        "STEPHANIE ADKINS",
+        "XI CHEN",
+        "ED G RIGHTOR"
+    ],
+    "holders": [
+        1101,
+        79503
+    ],
+    "ipcCodes": [
+        "C08G 65/00"
+    ]
+}

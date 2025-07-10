@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "PI 0921600-6",
+    "filingDate": "16/11/2009",
+    "grantDate": null,
+    "title": "AIRBAG",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 057 968.8",
+            "priorityDate": "19/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        }
+    ],
+    "inventors": [
+        "DANIELLE ARANZULLA",
+        "MARTIN BURKHARDTSMAIER",
+        "NICO WERNER",
+        "THOMAS PYS",
+        "PHILIPP RITTER"
+    ],
+    "holders": [
+        114967
+    ],
+    "ipcCodes": [
+        "B60R 21/235"
+    ]
+}

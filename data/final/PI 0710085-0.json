@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0710085-0",
+    "filingDate": "26/03/2007",
+    "grantDate": "17/12/2019",
+    "title": "Composi\u00e7\u00f5es oft\u00e1lmicas e seus kits",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/788,185",
+            "priorityDate": "31/03/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/688,016",
+            "priorityDate": "19/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "JAGDISH PARASRAMPURIA",
+        "AVNER INGERMAN",
+        "FRANS JANSSENS",
+        "ANTON MEGENS"
+    ],
+    "holders": [
+        385099
+    ],
+    "ipcCodes": [
+        "A61K 31/55",
+        "A61P 27/14"
+    ]
+}

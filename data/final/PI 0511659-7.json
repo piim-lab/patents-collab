@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0511659-7",
+    "filingDate": "07/07/2005",
+    "grantDate": null,
+    "title": "LAMINADO DE EMPACOTAMENTO COM SISTEMA DE TRAVA EM Z",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/884.966",
+            "priorityDate": "07/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "NISSIM MASS",
+        "TSAFRIR LIOR",
+        "ILAN ASIS",
+        "HAGAI PAZ",
+        "YAIR EFRATI"
+    ],
+    "holders": [
+        9541
+    ],
+    "ipcCodes": [
+        "B65D 65/14",
+        "B65H 18/28"
+    ]
+}

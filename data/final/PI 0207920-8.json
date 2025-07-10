@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0207920-8",
+    "filingDate": "11/03/2002",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RADIOCOMUNICA\u00c7\u00c3O EM UMA REDE DE R\u00c1DIO CELULAR, CONTROLADOR DE REDE DE R\u00c1DIO (RNC) E ESTA\u00c7\u00c3O BASE (BTS)",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20010483",
+            "priorityDate": "09/03/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "LARS ANCKAR",
+        "TUOMO FLYTSTR\u00d6M",
+        "JYRKI KAASINEN",
+        "PEKKA ANTTALAINEN",
+        "ANTTI JOKINEN",
+        "JARI SALO"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04W 48/18",
+        "H04W 88/10",
+        "H04W 16/12"
+    ]
+}

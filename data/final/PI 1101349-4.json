@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 1101349-4",
+    "filingDate": "03/03/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE COMBUST\u00c3O, REFORMADOR, E M\u00c9TODO DE QUEIMA NO REFORMADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/720150",
+            "priorityDate": "09/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [
+        "REED JACOB HENDERSHOT",
+        "XIANMING JIMMY LI",
+        "ALEKSANDAR GEORGI SLAVEJKOV"
+    ],
+    "holders": [
+        780
+    ],
+    "ipcCodes": [
+        "B01J 19/24",
+        "B01J 8/06",
+        "F23C 5/00"
+    ]
+}

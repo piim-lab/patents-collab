@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0906900-3",
+    "filingDate": "10/04/2009",
+    "grantDate": null,
+    "title": "CONJUNTO LIMPADOR DE CARTUCHO REMOV\u00cdVEL PARA CORREIAS TRANSPORTADORAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/044,050",
+            "priorityDate": "10/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "BRETT E DEVRIES"
+    ],
+    "holders": [
+        215086
+    ],
+    "ipcCodes": [
+        "B65G 45/16"
+    ]
+}

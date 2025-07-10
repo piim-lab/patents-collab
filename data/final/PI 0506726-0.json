@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0506726-0",
+    "filingDate": "06/01/2005",
+    "grantDate": "11/05/2021",
+    "title": "ESPEC\u00cdFICO PARA M-CSF E SEUS DESTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/535,181",
+            "priorityDate": "07/01/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/576,417",
+            "priorityDate": "02/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "22.2",
+            "description": "Peti\u00e7\u00e3o N\u00e3o Conhecida",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "CHENG LIU",
+        "DEBORAH LEE ZIMMERMAN",
+        "GREGORY MARTIN HARROWE",
+        "WILLIAM MICHAEL KAVANAUGH",
+        "KIRSTON KOTHS",
+        "LI LONG",
+        "ARNOLD H HORWITZ",
+        "MARIA CALDERON"
+    ],
+    "holders": [
+        350140,
+        102789
+    ],
+    "ipcCodes": [
+        "C07K 16/00",
+        "C12N 15/13"
+    ]
+}

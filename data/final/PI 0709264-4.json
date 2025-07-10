@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0709264-4",
+    "filingDate": "28/03/2007",
+    "grantDate": null,
+    "title": "ARTIGO PARA FUMAR COM UM RESTRITOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/786,352",
+            "priorityDate": "28/03/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/858,407",
+            "priorityDate": "13/11/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/905,833",
+            "priorityDate": "09/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        }
+    ],
+    "inventors": [
+        "SAN LI",
+        "RAQUEL M OLEGARIO",
+        "MIKE BRAUNSHTEYN",
+        "ROLAND W DWYER",
+        "MARTIM GARTHAFFNER",
+        "DWIGTH WILLIAMS",
+        "RICHARD JUPE",
+        "TONY SNYDER"
+    ],
+    "holders": [
+        80986
+    ],
+    "ipcCodes": [
+        "A24D 3/04"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0821948-6",
+    "filingDate": "26/12/2008",
+    "grantDate": null,
+    "title": "Pol\u00edmero funcionalizado, seu m\u00e9todo de prepara\u00e7\u00e3o, vulcanizado, e artigo",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/017,481",
+            "priorityDate": "28/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/044,769",
+            "priorityDate": "14/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        }
+    ],
+    "inventors": [
+        "STEVEN LUO",
+        "YOICHI OZAWA",
+        "JASON POULTON",
+        "DENNIS R BRUMBAUGH",
+        "MICHAEL W HAYES"
+    ],
+    "holders": [
+        81020
+    ],
+    "ipcCodes": [
+        "C08L 9/00",
+        "C08K 3/04",
+        "C08L 15/00",
+        "C08C 19/44",
+        "C08F 8/42",
+        "C08F 8/30"
+    ]
+}

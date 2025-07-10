@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0907747-2",
+    "filingDate": "06/04/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE LINGUETA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/045.681",
+            "priorityDate": "17/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/403.488",
+            "priorityDate": "13/03/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "KARL S MORGAN",
+        "ROBERT DAM",
+        "MIKE DAVIS"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": [
+        "D06F 37/28",
+        "E05C 19/06"
+    ]
+}

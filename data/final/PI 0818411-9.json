@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0818411-9",
+    "filingDate": "27/10/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DETERMINA\u00c7\u00c3O DE UMA CHAMADA DE DESTINO PARA USO DE UMA INSTALA\u00c7\u00c3O DE ELEVADOR E INSTALA\u00c7\u00c3O DE ELEVADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 119449.2",
+            "priorityDate": "29/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "BERNHARD GERSTENKORN",
+        "DANIEL OTTIGER"
+    ],
+    "holders": [
+        98959
+    ],
+    "ipcCodes": [
+        "B66B 1/46"
+    ]
+}

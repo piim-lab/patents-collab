@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0517020-6",
+    "filingDate": "24/10/2005",
+    "grantDate": null,
+    "title": "ESTRUTURA DE ROTOR - ESTATOR PARA M\u00c1QUINAS ELETRODIN\u00c2MICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/622,258",
+            "priorityDate": "25/10/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/021,417",
+            "priorityDate": "23/12/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/255,404",
+            "priorityDate": "20/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "JOHN PATRICK PETRO",
+        "KEN GEORGE WASSON"
+    ],
+    "holders": [
+        377462
+    ],
+    "ipcCodes": [
+        "H02K 21/12"
+    ]
+}

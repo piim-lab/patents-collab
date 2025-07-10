@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0714655-8",
+    "filingDate": "01/08/2007",
+    "grantDate": "24/07/2018",
+    "title": "COMPOSI\u00c7\u00c3O, E, KIT",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/821190",
+            "priorityDate": "02/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "WOONZA M RHEE",
+        "CARY J REICH",
+        "A EDWARD OSAWA",
+        "FELIX VEGA"
+    ],
+    "holders": [
+        92904,
+        92903
+    ],
+    "ipcCodes": [
+        "A61L 24/00",
+        "A61L 31/04",
+        "A61L 24/06",
+        "A61L 31/14"
+    ]
+}

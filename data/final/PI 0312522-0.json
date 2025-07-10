@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0312522-0",
+    "filingDate": "07/07/2003",
+    "grantDate": "02/01/2019",
+    "title": "M\u00c9TODO PARA A PREPARA\u00c7\u00c3O DE TROMBINA V\u00cdRUS-INATIVADA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0216002.6",
+            "priorityDate": "10/07/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "CAROLINE CONNOLLY",
+        "CHRISTOPHER HARDWAY",
+        "DAVID EVANS",
+        "PETER FELDMAN"
+    ],
+    "holders": [
+        372125
+    ],
+    "ipcCodes": [
+        "A61K 38/48",
+        "A61K 38/36",
+        "G01N 33/86",
+        "C12N 9/74"
+    ]
+}

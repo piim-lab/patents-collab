@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "PI 1014461-7",
+    "filingDate": "01/05/2010",
+    "grantDate": "13/10/2020",
+    "title": "TERMINAL DE PAGAMENTO QUE UTILIZA UM DISPOSITIVO DE COMUNICA\u00c7\u00c3O M\u00d3VEL.",
+    "priorityClaims": [
+        {
+            "countryCode": "SK",
+            "priorityNumber": "PP00032-2009",
+            "priorityDate": "03/05/2009"
+        },
+        {
+            "countryCode": "SK",
+            "priorityNumber": "PP50009-2010",
+            "priorityDate": "27/03/2010"
+        },
+        {
+            "countryCode": "SK",
+            "priorityNumber": "PP50012-2010",
+            "priorityDate": "08/04/2010"
+        },
+        {
+            "countryCode": "SK",
+            "priorityNumber": "PP50016-2010",
+            "priorityDate": "19/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "MIROSLAV FLOREK",
+        "MICHAL MASARYK",
+        "DAVID ALAN RIFFELMACHER"
+    ],
+    "holders": [
+        406794
+    ],
+    "ipcCodes": [
+        "G07F 7/10",
+        "G06Q 20/00"
+    ]
+}

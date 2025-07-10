@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0511075-0",
+    "filingDate": "11/05/2005",
+    "grantDate": null,
+    "title": "Pacote para conter pe\u00e7as de um produto, assim como m\u00e9todo para formar um pacote para conter pe\u00e7as de um produto comest\u00edvel",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/570,015",
+            "priorityDate": "11/05/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/570,004",
+            "priorityDate": "11/05/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/576,122",
+            "priorityDate": "02/06/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/025,739",
+            "priorityDate": "22/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "PAUL K BOWERS",
+        "DAN DEVINE",
+        "CHRISTOPHER FELTMAN",
+        "FRANK SCHIRO",
+        "ALLEN S ALDRIDGE"
+    ],
+    "holders": [
+        12518
+    ],
+    "ipcCodes": [
+        "B65D 85/00",
+        "B65D 85/48"
+    ]
+}

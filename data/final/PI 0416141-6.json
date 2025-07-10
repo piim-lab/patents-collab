@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0416141-6",
+    "filingDate": "29/10/2004",
+    "grantDate": "15/01/2019",
+    "title": "ANTICORPO ANTI-CD52 MODIFICADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/516,210",
+            "priorityDate": "01/11/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "FRANCIS J CARR",
+        "ANITA A HAMILTON"
+    ],
+    "holders": [
+        80174
+    ],
+    "ipcCodes": [
+        "C07K 16/46",
+        "C07K 16/28"
+    ]
+}

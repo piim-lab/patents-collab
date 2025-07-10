@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0906804-0",
+    "filingDate": "20/01/2009",
+    "grantDate": "28/05/2019",
+    "title": "M\u00c9TODO PARA LIOFILIZAR PART\u00cdCULAS, E, ACONDICIONAMENTO FARMAC\u00caUTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08150461.5",
+            "priorityDate": "21/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/022387",
+            "priorityDate": "21/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "HANS ALMER MIDDELBEEK",
+        "MONIQUE KIRKELS",
+        "ROGIER BIEMANS"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A61K 9/19"
+    ]
+}

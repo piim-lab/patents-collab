@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0922612-5",
+    "filingDate": "10/12/2009",
+    "grantDate": null,
+    "title": "MICROORGANISMO EXPRESSANDO XILOSE ISOMERASE",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0822937.9",
+            "priorityDate": "16/12/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/138,293",
+            "priorityDate": "17/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        }
+    ],
+    "inventors": [
+        "BIRGITTE R\u00d8NNOW",
+        "THOMAS HVID ANDERSEN",
+        "OLE SIBBESEN"
+    ],
+    "holders": [
+        275833
+    ],
+    "ipcCodes": [
+        "C12P 7/06",
+        "C12P 19/24",
+        "C12N 9/92"
+    ]
+}

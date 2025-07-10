@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0412503-7",
+    "filingDate": "09/07/2004",
+    "grantDate": null,
+    "title": "PROCESSO DE SEPARA\u00c7\u00c3O T\u00c9RMICA PARA A REMO\u00c7\u00c3O DE PELO MENOS UMA CORRENTE CONTENDO MON\u00d4MEROS (MET) ACR\u00cdLICOS ENRIQUECIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "103 31 720.1",
+            "priorityDate": "11/07/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/486,168",
+            "priorityDate": "11/07/2003"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "103 32 758.4",
+            "priorityDate": "17/07/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/487,587",
+            "priorityDate": "17/07/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "BERND ECK",
+        "ULRICH HAMMON",
+        "KLAUS JOACHIM M\u00dcLLER",
+        "J\u00dcRGEN SCHR\u00d6DER",
+        "JOACHIM THIEL",
+        "HANS MARTAN"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C07C 51/43",
+        "B01D 3/14"
+    ]
+}

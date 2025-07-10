@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "PI 0911588-9",
+    "filingDate": "28/04/2009",
+    "grantDate": "17/07/2018",
+    "title": "M\u00c9TODO DE PREPARO DE UM MATERIAL DE RA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/049,405",
+            "priorityDate": "30/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/073,674",
+            "priorityDate": "18/06/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/139,453",
+            "priorityDate": "19/12/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/417,900",
+            "priorityDate": "03/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "MARSHALL MEDOFF"
+    ],
+    "holders": [
+        87483
+    ],
+    "ipcCodes": [
+        "A23K 50/10",
+        "A23K 10/37",
+        "A61K 8/97",
+        "C12P 19/02",
+        "C13K 1/02",
+        "D21C 9/00",
+        "C12P 7/10",
+        "A23K 10/30",
+        "A23K 40/10",
+        "C12P 7/62",
+        "C12P 19/44",
+        "C12P 13/04",
+        "C12P 19/14",
+        "A23K 10/12",
+        "C08L 1/02",
+        "D21C 5/00",
+        "A23K 20/163",
+        "C08H 8/00",
+        "A23K 20/189",
+        "C08L 5/14",
+        "C08J 3/28",
+        "C12P 7/42",
+        "A23L 5/30",
+        "A23L 5/00",
+        "B01D 39/18"
+    ]
+}

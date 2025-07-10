@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0720451-5",
+    "filingDate": "17/12/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE GERA\u00c7\u00c3O DE ENERGIA E EQUIPAMENTO RESPECTIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2006-0129410",
+            "priorityDate": "18/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "KYUN SHIN",
+        "HYUN KIM",
+        "CHUL PARK",
+        "HOON JOO",
+        "ROBERT MILLNER"
+    ],
+    "holders": [
+        85001,
+        368255
+    ],
+    "ipcCodes": [
+        "F01K 7/00",
+        "C21B 13/06"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0717563-9",
+    "filingDate": "12/09/2007",
+    "grantDate": null,
+    "title": "Dispositivo para o aquecimento de combust\u00edvel e emprego de uma vela de pino incandescente met\u00e1lica",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 052 634.1",
+            "priorityDate": "08/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "ANDREAS REISSNER",
+        "VERA WEIN",
+        "SIMON SCHMITTINGER",
+        "JENS SCHNEIDER",
+        "MARC COUFFIGNAL"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "F02M 31/125"
+    ]
+}

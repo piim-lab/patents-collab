@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0900060-7",
+    "filingDate": "19/01/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA FABRICAR UM ARTIGO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/022230",
+            "priorityDate": "30/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "THOMAS J MEYER",
+        "MICHAEL J HILBY",
+        "MICHAEL J MEYERS",
+        "ALEXANDER STOYTCHEV",
+        "ELIOT WINER",
+        "MARISOL MARTINEZ",
+        "MATTHEW A MILLER",
+        "PETER W WONG",
+        "JIVKO SINAPOV"
+    ],
+    "holders": [
+        328,
+        14635
+    ],
+    "ipcCodes": [
+        "G01B 11/00"
+    ]
+}

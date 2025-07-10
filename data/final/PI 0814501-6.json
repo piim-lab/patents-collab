@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0814501-6",
+    "filingDate": "03/07/2008",
+    "grantDate": "11/12/2018",
+    "title": "M\u00c9TODO PARA FABRICAR UMA ESTRUTURA DE DIODO EMISSOR DE LUZ",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/775,059",
+            "priorityDate": "09/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "GRIGORIY BASIN",
+        "ROBERT S WEST",
+        "PAUL S MARTIN"
+    ],
+    "holders": [
+        80352,
+        381039
+    ],
+    "ipcCodes": [
+        "H01L 33/00"
+    ]
+}

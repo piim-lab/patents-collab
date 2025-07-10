@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0612291-4",
+    "filingDate": "15/06/2006",
+    "grantDate": "02/07/2019",
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE UM CORPO OCO DE A\u00c7O SEM COSTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 028 667.4",
+            "priorityDate": "16/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "GUNTHER MANIG",
+        "ROLF K\u00dcMMERLING"
+    ],
+    "holders": [
+        83364
+    ],
+    "ipcCodes": [
+        "B21B 19/04"
+    ]
+}

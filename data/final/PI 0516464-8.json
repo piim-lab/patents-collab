@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0516464-8",
+    "filingDate": "05/10/2005",
+    "grantDate": "08/11/2016",
+    "title": "M\u00c9TODO PARA A PREPARA\u00c7\u00c3O DE UM PRODUTO FARMAC\u00caUTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2004 01519",
+            "priorityDate": "05/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2795"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "PETTER BERGLUND",
+        "CHARLOTTE HAMMELEV",
+        "LONE ESKILDSEN",
+        "JOHANNE MADSEN",
+        "HELLE AALUND OLSEN",
+        "LONE LOGSTRUP KIMER"
+    ],
+    "holders": [
+        92635
+    ],
+    "ipcCodes": [
+        "A61P 3/10",
+        "A61K 38/28"
+    ]
+}

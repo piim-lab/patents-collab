@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0702765-6",
+    "filingDate": "12/06/2007",
+    "grantDate": "03/07/2018",
+    "title": "SISTEMA DE ADMISS\u00c3O PARA MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-163721",
+            "priorityDate": "13/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "HIROSHIGE AKIYAMA",
+        "HISASHI ISHIKAWA"
+    ],
+    "holders": [
+        20470
+    ],
+    "ipcCodes": [
+        "F02M 69/32"
+    ]
+}

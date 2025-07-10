@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0712114-8",
+    "filingDate": "19/04/2007",
+    "grantDate": null,
+    "title": "PALHETA DO LIMPADOR DE P\u00c1RA-BRISA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 027 439,3",
+            "priorityDate": "12/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "PETER DE BLOCK",
+        "ERIC WINDMOLDERS",
+        "WIM VERBOVEN",
+        "MOHAMED AZNAG"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "B60S 1/38"
+    ]
+}

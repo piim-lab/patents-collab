@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0601013-0",
+    "filingDate": "14/02/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA SUSPENDER S\u00d3LIDOS DEPOSITADOS EM UM L\u00cdQUIDO UTILIZANDO UM EQUIPAMENTO DE MISTURA E EQUIPAMENTO DE MISTURA PARA SUSPENDER S\u00d3LIDOS DEPOSITADOS EM UM L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/057,250",
+            "priorityDate": "15/02/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "RICHARD HOWK",
+        "MICHAEL A GIRALICO"
+    ],
+    "holders": [
+        29922
+    ],
+    "ipcCodes": [
+        "B01F 5/12"
+    ]
+}

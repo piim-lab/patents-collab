@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0614661-9",
+    "filingDate": "28/07/2006",
+    "grantDate": "26/02/2019",
+    "title": "EMBREAGEM VISCOSA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/704,063",
+            "priorityDate": "29/07/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "DAVID R HENNESSY",
+        "BASTIAN BRAND"
+    ],
+    "holders": [
+        90462
+    ],
+    "ipcCodes": [
+        "F16D 35/02"
+    ]
+}

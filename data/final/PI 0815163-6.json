@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0815163-6",
+    "filingDate": "09/08/2008",
+    "grantDate": "26/02/2019",
+    "title": "DISPOSITIVO DE TRANSFER\u00caNCIA DE PACIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/837,671",
+            "priorityDate": "13/08/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/188,847",
+            "priorityDate": "08/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "RICHARD A PATTERSON",
+        "LAWRENCE R GRAVELL"
+    ],
+    "holders": [
+        381484
+    ],
+    "ipcCodes": [
+        "A61G 7/14"
+    ]
+}

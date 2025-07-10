@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0503342-0",
+    "filingDate": "11/08/2005",
+    "grantDate": null,
+    "title": "SISTEMA PARA DETECTAR FALHA EM UM CONJUNTO DE CIRCUITOS IGNITOR DE L\u00c2MPADA E DISPOSITIVO DE PROJE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/601.310",
+            "priorityDate": "13/08/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        }
+    ],
+    "inventors": [
+        "SUBRAMANIAN JAYARAM",
+        "SATCHIDANANDA MISHRA",
+        "MASAYOSHI SAKAI"
+    ],
+    "holders": [
+        375158
+    ],
+    "ipcCodes": [
+        "G03B 21/00"
+    ]
+}

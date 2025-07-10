@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0820114-5",
+    "filingDate": "21/11/2008",
+    "grantDate": null,
+    "title": "ENGENHARIA DE PROTE\u00cdNAS ENZIMATICAMENTE SUSCET\u00cdVEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/991,968",
+            "priorityDate": "03/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "SHIB SANKAR BASU",
+        "SHENGSHENG ZHANG"
+    ],
+    "holders": [
+        79231
+    ],
+    "ipcCodes": [
+        "C12N 9/16",
+        "A23K 20/189",
+        "A23K 50/75"
+    ]
+}

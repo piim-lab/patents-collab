@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0915480-9",
+    "filingDate": "03/02/2009",
+    "grantDate": "26/02/2019",
+    "title": "UNIDADE DE VOLANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 028 126.3",
+            "priorityDate": "13/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "RAIMUND NEBEL",
+        "REMI BAILLIVET",
+        "DAVID PALM",
+        "YUTAKA TSUCHIDA",
+        "AKIRA UEKI",
+        "RICHARD LAWRENCE MATSU",
+        "BERNARD TESSIER"
+    ],
+    "holders": [
+        17566,
+        14406
+    ],
+    "ipcCodes": [
+        "B60R 21/203"
+    ]
+}

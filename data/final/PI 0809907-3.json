@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0809907-3",
+    "filingDate": "04/04/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO, DISPOSITIVO E SISTEMA PARA SE DAR NOVA PARTIDA EM UMA BOMBA DE FUNDO DO PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/910,470",
+            "priorityDate": "06/04/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/061,241",
+            "priorityDate": "02/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        }
+    ],
+    "inventors": [
+        "MICKEY LEUTHEN",
+        "SHELDON PLITT",
+        "JERALD RIDER",
+        "TOM G YOHANAN"
+    ],
+    "holders": [
+        2932
+    ],
+    "ipcCodes": [
+        "E21B 43/12",
+        "F04D 15/02"
+    ]
+}

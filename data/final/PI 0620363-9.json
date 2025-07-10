@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0620363-9",
+    "filingDate": "22/12/2006",
+    "grantDate": "25/09/2018",
+    "title": "M\u00c9TODOS PARA GERAR UMA BASE DE DECOMPOSI\u00c7\u00c3O E PARA EXTRAIR UMA  ASSINATURA  ALEAT\u00d3RIA DE UM ELEMENTO DE MATERIAL OBJETO E DISPOSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0513231",
+            "priorityDate": "23/12/2005"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0601342",
+            "priorityDate": "15/02/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/774,618",
+            "priorityDate": "21/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        }
+    ],
+    "inventors": [
+        "YANN BOUTANT",
+        "THIERRY FOURNEL",
+        "MARIE BECKER"
+    ],
+    "holders": [
+        382348
+    ],
+    "ipcCodes": [
+        "G07D 7/12",
+        "G06K 9/52"
+    ]
+}

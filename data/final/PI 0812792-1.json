@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "PI 0812792-1",
+    "filingDate": "28/07/2008",
+    "grantDate": "26/03/2019",
+    "title": "M\u00c9TODO PARA PREPARAR UMA COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA PARA O TRATAMENTO DE DIABETES MELLITUS",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200710058573.X",
+            "priorityDate": "02/08/2007"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200710058571.0",
+            "priorityDate": "02/08/2007"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200710058574.4",
+            "priorityDate": "02/08/2007"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200710058572.5",
+            "priorityDate": "02/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "XIAOLIN TONG",
+        "SHUIPING ZHOU",
+        "SHUANGMING WANG",
+        "YONGHONG ZHU",
+        "XIUHUI E",
+        "ZHONGTING XIA"
+    ],
+    "holders": [
+        108018
+    ],
+    "ipcCodes": [
+        "A61P 3/10",
+        "A61K 36/75",
+        "A61K 36/71",
+        "A61K 36/718",
+        "A61K 36/736",
+        "A61K 36/708",
+        "A61K 36/539",
+        "A61K 36/233",
+        "A61K 36/8888",
+        "A61K 36/428"
+    ]
+}

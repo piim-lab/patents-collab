@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0700038-3",
+    "filingDate": "12/01/2007",
+    "grantDate": null,
+    "title": "ELEMENTO DE AQUECIMENTO DE L\u00c2MINA, E, CONJUNTO DE AQUECIMENTO ELETROT\u00c9RMICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/331003",
+            "priorityDate": "13/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "RICHARD J CARPINO II",
+        "JAMES A MULLEN"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64D 13/08",
+        "B64D 15/12",
+        "H05B 3/34"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0816001-5",
+    "filingDate": "29/09/2008",
+    "grantDate": "11/12/2018",
+    "title": "SUBUNIDADE DE CENTRO DE CONTROLE DE MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/863,067",
+            "priorityDate": "27/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "EDGAR YEE",
+        "ROBERT A MORRIS",
+        "DANIEL J LEEMAN",
+        "DANIEL B KROUSHL",
+        "GEORGE N RUSS"
+    ],
+    "holders": [
+        4727
+    ],
+    "ipcCodes": [
+        "H02B 11/127"
+    ]
+}

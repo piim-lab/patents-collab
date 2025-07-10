@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "PI 1000469-6",
+    "filingDate": "05/02/2010",
+    "grantDate": "04/05/2021",
+    "title": "Sistema e m\u00e9todo para o controle de ve\u00edculo ferrovi\u00e1rio de energia distribu\u00edda",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/150,133",
+            "priorityDate": "05/02/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/153,130",
+            "priorityDate": "17/02/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/688,496",
+            "priorityDate": "15/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "EUGENE A SMITH",
+        "DEREK WOO",
+        "ROBERT PALANTI"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "B60T 13/00"
+    ]
+}

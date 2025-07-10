@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0902752-1",
+    "filingDate": "07/08/2009",
+    "grantDate": "06/08/2019",
+    "title": "CONJUNTO DE CABE\u00c7A DE PO\u00c7O DOTADO DE CONJUNTO DE VEDA\u00c7\u00c3O COM RESTRI\u00c7\u00c3O AXIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/190.431",
+            "priorityDate": "12/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "NICHOLAS P GETTE",
+        "DANIEL W FISH"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "E21B 33/04"
+    ]
+}

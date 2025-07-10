@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0702446-0",
+    "filingDate": "20/07/2007",
+    "grantDate": "21/11/2018",
+    "title": "MECANISMO PARA O TRANSPORTE DE PAPEL",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200610108630.6",
+            "priorityDate": "27/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "NAN HSIAO",
+        "YUAN SHI"
+    ],
+    "holders": [
+        39551
+    ],
+    "ipcCodes": [
+        "B41F 13/02"
+    ]
+}

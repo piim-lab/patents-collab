@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0615664-9",
+    "filingDate": "06/09/2006",
+    "grantDate": "21/08/2018",
+    "title": "MET\u00c1FORA DE EDI\u00c7\u00c3O 2D PARA GR\u00c1FICOS 3D",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/715,659",
+            "priorityDate": "09/09/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/302,006",
+            "priorityDate": "12/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "GEORG F PETSCHNIGG",
+        "MATTHEW W KERNEK"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06T 15/00",
+        "G06T 17/00",
+        "G06T 15/50"
+    ]
+}

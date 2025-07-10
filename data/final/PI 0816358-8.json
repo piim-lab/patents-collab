@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0816358-8",
+    "filingDate": "12/08/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLE DE PARADA DE UMA M\u00c1QUINA ASS\u00cdNCRONA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07017244.0",
+            "priorityDate": "03/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "15.23",
+            "description": "Pedido \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "15.14",
+            "description": "Notifica\u00e7\u00e3o de Decis\u00e3o Judicial",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "STEFAN ZITZLER",
+        "DIRK HERTZ",
+        "DIETHARD RUNGGALDIER"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H02P 3/24",
+        "H02P 3/20"
+    ]
+}

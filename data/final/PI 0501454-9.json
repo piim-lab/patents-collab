@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0501454-9",
+    "filingDate": "02/05/2005",
+    "grantDate": "14/08/2018",
+    "title": "TRANSMISS\u00c3O DE FORMATOS DE CORRESPOND\u00caNCIA ELETR\u00d4NICA SEGURA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04101878.9",
+            "priorityDate": "30/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "MICHAEL K BROWN",
+        "MICHAEL S BROWN",
+        "MICHAEL G KIRKUP"
+    ],
+    "holders": [
+        3754
+    ],
+    "ipcCodes": [
+        "H04L 29/00"
+    ]
+}

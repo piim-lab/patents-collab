@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0617654-2",
+    "filingDate": "17/10/2006",
+    "grantDate": "15/09/2020",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E PROCESSO PARA PREPARAR O COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0521244.4",
+            "priorityDate": "19/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "DAVID MICHAEL ANDREWS",
+        "ELAINE SOPHIE ELIZABETH STOKES",
+        "ANDREW TURNER",
+        "MICHAEL JAMES WARING"
+    ],
+    "holders": [
+        79506
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/454",
+        "C07D 401/06"
+    ]
+}

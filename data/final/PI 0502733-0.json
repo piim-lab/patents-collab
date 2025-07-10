@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0502733-0",
+    "filingDate": "04/07/2005",
+    "grantDate": null,
+    "title": "RECIPIENTE PARA METAL FUNDIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2004 032 561.8",
+            "priorityDate": "05/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        }
+    ],
+    "inventors": [
+        "MARTIN KENDALL"
+    ],
+    "holders": [
+        543
+    ],
+    "ipcCodes": [
+        "B22D 2/00"
+    ]
+}

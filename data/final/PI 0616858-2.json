@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0616858-2",
+    "filingDate": "03/10/2006",
+    "grantDate": "25/09/2018",
+    "title": "M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR, M\u00c9TODO IMPLEMENTADO EM UM SISTEMA DE COMPUTADOR E SISTEMA EM UM DISPOSITIVO DE COMPUTA\u00c7\u00c3O DE OPERA\u00c7\u00c3O E INICIALIZA\u00c7\u00c3O R\u00c1PIDA A PARTIR DE UM ESTADO DE DESLIGADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/245.629",
+            "priorityDate": "06/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2615"
+        }
+    ],
+    "inventors": [
+        "MICHAEL H TSANG"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 9/44"
+    ]
+}

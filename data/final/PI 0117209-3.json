@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0117209-3",
+    "filingDate": "20/04/2001",
+    "grantDate": "15/01/2019",
+    "title": "APARELHO E M\u00c9TODO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES, E, MEIO DE GRAVA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2000-183771",
+            "priorityDate": "21/04/2000"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2000-271552",
+            "priorityDate": "07/09/2000"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/04/2001",
+        "applicationNumber": "PI 0106082-1"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "MOTOKI KATO",
+        "TOSHIYA HAMADA"
+    ],
+    "holders": [
+        326
+    ],
+    "ipcCodes": [
+        "G11B 20/10",
+        "H04N 5/92"
+    ]
+}

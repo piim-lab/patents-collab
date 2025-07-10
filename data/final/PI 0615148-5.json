@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0615148-5",
+    "filingDate": "08/08/2006",
+    "grantDate": null,
+    "title": "DIFUSOR DE AEROF\u00d3LIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/199254",
+            "priorityDate": "09/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "AHMED ABDELWAHAB",
+        "GORDON J GERBER",
+        "ROBERT LEROY BAKER"
+    ],
+    "holders": [
+        96124
+    ],
+    "ipcCodes": [
+        "F04D 29/44"
+    ]
+}

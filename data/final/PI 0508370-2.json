@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0508370-2",
+    "filingDate": "03/03/2005",
+    "grantDate": "01/10/2019",
+    "title": "Aparelho para o resfriamento por evapora\u00e7\u00e3o de um produto aliment\u00edcio l\u00edquido",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0400520-3",
+            "priorityDate": "03/03/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2764"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2780"
+        }
+    ],
+    "inventors": [
+        "ROLAND RINGSTR\u00d6M"
+    ],
+    "holders": [
+        25374
+    ],
+    "ipcCodes": [
+        "B01D 5/00",
+        "A23L 3/18",
+        "A23C 3/037"
+    ]
+}

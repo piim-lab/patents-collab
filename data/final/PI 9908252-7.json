@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 9908252-7",
+    "filingDate": "17/02/1999",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE N-(FOSFONOMETIL) GLICINA OU UM SAL DE N-(FOSFONOMETIL) GLICINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/075988",
+            "priorityDate": "25/02/1998"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/248655",
+            "priorityDate": "11/02/1999"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "JERRY R EBNER",
+        "MARK A LEIBER",
+        "TO WAN",
+        "ANTHONY WOODS",
+        "PETER E ROGERS",
+        "JINGYUE LIU"
+    ],
+    "holders": [
+        26665
+    ],
+    "ipcCodes": [
+        "C07F 9/38",
+        "B01J 23/40",
+        "B01J 21/18"
+    ]
+}

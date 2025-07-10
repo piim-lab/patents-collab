@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0603645-7",
+    "filingDate": "29/08/2006",
+    "grantDate": null,
+    "title": "FREIO DO TIPO TAMBOR E VE\u00cdCULO DO TIPO DE MONTAR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-257051",
+            "priorityDate": "05/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "KAZUNORI MATSUMURA",
+        "TATSUYA SASAKI",
+        "TAKAO KOYA",
+        "TOYOKATSU NOGUCHI"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "F16D 49/00"
+    ]
+}

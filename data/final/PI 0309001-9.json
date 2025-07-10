@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "PI 0309001-9",
+    "filingDate": "04/04/2003",
+    "grantDate": "30/11/2021",
+    "title": "BACT\u00c9RIAS GRAM-NEGATIVAS ATENUADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/370,282",
+            "priorityDate": "05/04/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/406,686",
+            "priorityDate": "03/04/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "HELEN RACHEL CROOKE",
+        "JACQUELINE ELIZABETH SHEA",
+        "ROBERT GRAHAM FELDMAN",
+        "SYLVAIN GABRIEL COUTEBROZE",
+        "XAVIER LEGROS"
+    ],
+    "holders": [
+        81379
+    ],
+    "ipcCodes": [
+        "C07H 21/04",
+        "C12N 1/20",
+        "C12N 1/00",
+        "A61K 39/102"
+    ]
+}

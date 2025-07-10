@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "PI 0407310-0",
+    "filingDate": "28/01/2004",
+    "grantDate": "24/05/2022",
+    "title": "PROCESSO PARA TRANSMITIR E RECEBER INFORMA\u00c7\u00d5ES DE FONTES EM SISTEMAS DE FLUXO CONT\u00cdNUO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "03290324.7",
+            "priorityDate": "10/02/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2812"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [
+        "DAVID SAHUC",
+        "THIERRY VIELLARD",
+        "PAUL KERBIRIOU"
+    ],
+    "holders": [
+        102297
+    ],
+    "ipcCodes": [
+        "H04N 7/24"
+    ]
+}

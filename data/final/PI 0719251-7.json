@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0719251-7",
+    "filingDate": "05/10/2007",
+    "grantDate": null,
+    "title": "UNIDADE DE TURBINA E CONJUNTO DE TURBINAS",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2006905675",
+            "priorityDate": "13/10/2006"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2007901399",
+            "priorityDate": "16/03/2007"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2007903965",
+            "priorityDate": "23/07/2007"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2007904173",
+            "priorityDate": "03/08/2007"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2007904176",
+            "priorityDate": "03/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "STEPHEN MARK WEST",
+        "STEELE WEST"
+    ],
+    "holders": [
+        387717
+    ],
+    "ipcCodes": [
+        "F03B 3/06",
+        "F03B 3/04",
+        "F03B 3/18",
+        "F03B 3/08"
+    ]
+}

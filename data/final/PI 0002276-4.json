@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0002276-4",
+    "filingDate": "03/07/2000",
+    "grantDate": "14/05/2019",
+    "title": "CONJUGADO, COMPOSI\u00c7\u00c3O QUE COMPREENDE CONJUGADOS, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, UTILIZA\u00c7\u00c3O DE UM CONJUGADO OU COMPOSI\u00c7\u00c3O E PROCESSSO PARA A PREPARA\u00c7\u00c3O DE COMPOSTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/142.254",
+            "priorityDate": "02/07/1999"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/150.225",
+            "priorityDate": "23/08/1999"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/151.548",
+            "priorityDate": "31/08/1999"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/166.151",
+            "priorityDate": "17/11/1999"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "PASCAL SEBASTIAN BAILON"
+    ],
+    "holders": [
+        61582
+    ],
+    "ipcCodes": [
+        "A61P 7/06",
+        "A61K 38/42"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0816709-5",
+    "filingDate": "26/09/2008",
+    "grantDate": null,
+    "title": "Aparelho para peneirar suspens\u00f5es fibrosas",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20070741",
+            "priorityDate": "28/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "PETRI HARJU",
+        "SAMI SIIK",
+        "SIMO KIERO",
+        "VILLE TER\u00c4V\u00c4"
+    ],
+    "holders": [
+        89727
+    ],
+    "ipcCodes": [
+        "D21D 5/02",
+        "D21D 5/06"
+    ]
+}

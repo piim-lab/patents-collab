@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0315142-5",
+    "filingDate": "15/10/2003",
+    "grantDate": "09/01/2018",
+    "title": "C\u00c1PSULA DE LANZOPRAZOL DE LIBERA\u00c7\u00c3O MODIFICADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2002-301876",
+            "priorityDate": "16/10/2002"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2003-066336",
+            "priorityDate": "12/03/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "YOHKO AKIYAMA",
+        "TAKASHI KURASAWA",
+        "HIROTO BANDO",
+        "NAOKI NAGAHARA"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "A61K 9/50",
+        "A61K 9/20",
+        "A61K 9/28",
+        "A61K 31/4439"
+    ]
+}

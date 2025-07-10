@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0617246-6",
+    "filingDate": "12/10/2006",
+    "grantDate": "30/10/2018",
+    "title": "PROCESSO PARA EMPACOTAR UMA LENTE DE CONTATO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/250,732",
+            "priorityDate": "14/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2615"
+        }
+    ],
+    "inventors": [
+        "JOHN E BINKLEY",
+        "SHANE E MYERS"
+    ],
+    "holders": [
+        7836
+    ],
+    "ipcCodes": [
+        "G05D 9/12",
+        "B65B 25/00",
+        "G01F 23/296",
+        "B65B 57/10",
+        "G01S 15/10"
+    ]
+}

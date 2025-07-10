@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0711388-9",
+    "filingDate": "07/05/2007",
+    "grantDate": "23/02/2021",
+    "title": "M\u00c9TODO PARA DETECTAR UM ANALITO EM UMA AMOSTRA EM UM PROCEDIMENTO DE ENSAIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/798,839",
+            "priorityDate": "09/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/799,895",
+            "priorityDate": "03/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2790"
+        }
+    ],
+    "inventors": [
+        "HASHEM AKHAVAN"
+    ],
+    "holders": [
+        54613
+    ],
+    "ipcCodes": [
+        "G01N 33/00",
+        "G01N 21/76",
+        "C12Q 1/68"
+    ]
+}

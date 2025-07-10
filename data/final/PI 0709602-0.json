@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0709602-0",
+    "filingDate": "15/03/2007",
+    "grantDate": null,
+    "title": "VETOR DE V\u00cdRUS MONONEGAVIRALES RECOMBINANTE, E, VACINA CONTRA UM PAT\u00d3GENO MICROBIANO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/783194",
+            "priorityDate": "15/03/2006"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06075628.5",
+            "priorityDate": "15/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "ANGELA R\u00d6MER",
+        "JUTTA VEITS",
+        "TESHOME MEBATSION"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A61K 35/76",
+        "C12N 15/45"
+    ]
+}

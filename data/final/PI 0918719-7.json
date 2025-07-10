@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0918719-7",
+    "filingDate": "26/08/2009",
+    "grantDate": null,
+    "title": "VACINA CONTRA NEMAT\u00d3DEOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0815674.7",
+            "priorityDate": "28/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "WILLIAM DAVID SMITH",
+        "GEORGE FREDRICK JAMES NEWLANDS",
+        "SUSAN EJOKA",
+        "ELISE CACHAT"
+    ],
+    "holders": [
+        141352
+    ],
+    "ipcCodes": [
+        "A61K 39/00"
+    ]
+}

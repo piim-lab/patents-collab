@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0701815-0",
+    "filingDate": "10/04/2007",
+    "grantDate": "12/04/2022",
+    "title": "GR\u00c2NULOS DE PIGMENTO, SEU PROCESSO DE PREPARA\u00c7\u00c3O E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102006017109.8",
+            "priorityDate": "10/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "HOLGER FRIEDRICH",
+        "KAI B\u00dcTJE",
+        "UDO HOLTMANN"
+    ],
+    "holders": [
+        160
+    ],
+    "ipcCodes": [
+        "B01J 2/00",
+        "C09C 3/00",
+        "C09C 3/04"
+    ]
+}

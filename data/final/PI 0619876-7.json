@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0619876-7",
+    "filingDate": "05/12/2006",
+    "grantDate": "18/06/2019",
+    "title": "SISTEMA DE MEDI\u00c7\u00c3O, SISTEMA PARA DETERMINAR O BALAN\u00c7O CAL\u00d3RICO DE UM INDIV\u00cdDUO E M\u00c9TODO DE ESTIMAR UM VALOR OBTIDO RELACIONADO COM UM INDIV\u00cdDUO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05112250.5",
+            "priorityDate": "15/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "ANNELIES GORIS",
+        "MAARTEN P BODLAENDER"
+    ],
+    "holders": [
+        80352
+    ],
+    "ipcCodes": [
+        "A61B 5/00"
+    ]
+}

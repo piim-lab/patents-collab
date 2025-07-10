@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0917199-1",
+    "filingDate": "19/08/2009",
+    "grantDate": null,
+    "title": "M\u00e9todo para retardar a superf\u00edcie de uma composi\u00e7\u00e3o ciment\u00edcia",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "08/04664",
+            "priorityDate": "21/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        }
+    ],
+    "inventors": [
+        "DANY VINCENT",
+        "ERIC DANANCHE",
+        "RALF QUERN",
+        "WA CHUN"
+    ],
+    "holders": [
+        96548
+    ],
+    "ipcCodes": [
+        "C04B 41/53",
+        "C04B 103/22",
+        "C04B 24/06",
+        "B28B 7/36",
+        "B28B 7/38"
+    ]
+}

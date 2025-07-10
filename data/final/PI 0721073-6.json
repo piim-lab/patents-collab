@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0721073-6",
+    "filingDate": "15/11/2007",
+    "grantDate": "09/04/2019",
+    "title": "SISTEMA E M\u00c9TODO PARA O PROCESSAMENTO DE FLUIDOS DE UM PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "06 25526.9",
+            "priorityDate": "18/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2785"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "IAN DONALD",
+        "JOHN REID"
+    ],
+    "holders": [
+        81552
+    ],
+    "ipcCodes": [
+        "E21B 33/035",
+        "E21B 33/038",
+        "E21B 43/36"
+    ]
+}

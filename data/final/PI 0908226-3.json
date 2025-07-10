@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0908226-3",
+    "filingDate": "18/02/2009",
+    "grantDate": null,
+    "title": "PROCESSO DE REVESTIMENTO DE UMA CINTA MET\u00c1LICA E INSTALA\u00c7\u00c3O DE APLICA\u00c7\u00c3O DO PROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08 290173.7",
+            "priorityDate": "25/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        }
+    ],
+    "inventors": [
+        "LUC VANHEE",
+        "MAXIME MONNOYER",
+        "BRUNO SCHMITZ",
+        "BENOIT DEWEER",
+        "ERIC SILBERBERG"
+    ],
+    "holders": [
+        83738
+    ],
+    "ipcCodes": [
+        "C23C 14/06",
+        "C23C 2/06",
+        "C23C 2/26",
+        "C23C 28/02",
+        "C23C 14/02",
+        "C23C 2/28",
+        "C23C 14/58"
+    ]
+}

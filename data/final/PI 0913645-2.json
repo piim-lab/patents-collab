@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0913645-2",
+    "filingDate": "26/06/2009",
+    "grantDate": "14/05/2019",
+    "title": "INTERRUPTOR DE GUID\u00c3O DE UMA MOTOCICLETA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-173329",
+            "priorityDate": "02/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "SHIGERU KODAIRA",
+        "KOICHI SHIMAMURA",
+        "KOTA NAKAHIRA",
+        "AKIRA TAKAHASHI"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "B62J 3/00",
+        "B62J 6/16"
+    ]
+}

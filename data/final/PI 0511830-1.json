@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0511830-1",
+    "filingDate": "12/07/2005",
+    "grantDate": null,
+    "title": "APARELHO DE TERMINAL DE COMUNICA\u00c7\u00c3O E M\u00c9TODO DE TRANSMISS\u00c3O POR R\u00c1DIO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-207196",
+            "priorityDate": "14/07/2004"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-200276",
+            "priorityDate": "08/07/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "AKIHIKO NISHIO"
+    ],
+    "holders": [
+        351436
+    ],
+    "ipcCodes": [
+        "H04W 72/08",
+        "H04W 74/08",
+        "H04W 72/02",
+        "H04W 36/16",
+        "H04W 52/50"
+    ]
+}

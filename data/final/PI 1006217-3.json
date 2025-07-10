@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 1006217-3",
+    "filingDate": "22/03/2010",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO PARA MANIPULA\u00c7\u00c3O DE UM SINAL DE \u00c1UDIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/163,609",
+            "priorityDate": "26/03/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09013051.9",
+            "priorityDate": "15/10/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "SASCHA DISCH",
+        "FREDERIK NAGEL",
+        "MAX NEUENDORF",
+        "DOMINIK ZORN",
+        "CHRISTIAN HELMRICH"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "G10L 21/02",
+        "G10L 19/02"
+    ]
+}

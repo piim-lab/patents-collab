@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0921995-1",
+    "filingDate": "23/11/2009",
+    "grantDate": null,
+    "title": "PROCESSO DE DESLOCAMENTO DE G\u00c1S PARA \u00c1GUA , E, USO DE UM ADSORVENTE.",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "1036224",
+            "priorityDate": "21/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        }
+    ],
+    "inventors": [
+        "PAUL DEAN COBDEN",
+        "STEPHANE WALSPURGER",
+        "RUDOLF WILLEM VAN DEN BRINK",
+        "HENDRICUS ADRIANUS JOHANNES VAN DIJK"
+    ],
+    "holders": [
+        85181
+    ],
+    "ipcCodes": [
+        "B01D 53/52",
+        "C01B 3/16",
+        "C01B 3/58"
+    ]
+}

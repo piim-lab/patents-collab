@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0816724-9",
+    "filingDate": "15/09/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA AUMENTO DO VALOR DE PH DE CORPOS DE \u00c1GUA \u00c1CIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 043 751.1",
+            "priorityDate": "13/09/2007"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 057 414.4",
+            "priorityDate": "27/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER PUST",
+        "G\u00dcNTER SCHOLZ",
+        "HELMA HONIG",
+        "WOLFGANG K\u00d6NIG"
+    ],
+    "holders": [
+        134175
+    ],
+    "ipcCodes": [
+        "C02F 1/66",
+        "E21C 41/32"
+    ]
+}

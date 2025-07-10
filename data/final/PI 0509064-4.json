@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0509064-4",
+    "filingDate": "29/03/2005",
+    "grantDate": "27/07/2021",
+    "title": "AGENTE DE ABSOR\u00c7\u00c3O D'\u00c1GUA PARTICULADO E ARTIGO DE ABSOR\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-096083",
+            "priorityDate": "29/03/2004"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-211856",
+            "priorityDate": "20/07/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "KATSUYUKI WADA",
+        "KAZUKI KIMURA",
+        "HIROKO UEDA",
+        "TERUYUKI KANTO",
+        "HIROTAMA FUJIMARU"
+    ],
+    "holders": [
+        82432
+    ],
+    "ipcCodes": [
+        "C08J 3/12",
+        "A61L 15/60",
+        "C08J 3/24",
+        "C08L 101/14"
+    ]
+}

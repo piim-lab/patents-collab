@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0615933-8",
+    "filingDate": "14/09/2006",
+    "grantDate": "06/02/2018",
+    "title": "IMPLANTE DENTAL DE DUAS PARTES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2005 015 074.6",
+            "priorityDate": "16/09/2005"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2006 007 639.5",
+            "priorityDate": "09/05/2006"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2006 010 431.3",
+            "priorityDate": "30/06/2006"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 040 457.2",
+            "priorityDate": "25/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2807"
+        }
+    ],
+    "inventors": [
+        "J\u00dcRGEN MEHRHOF"
+    ],
+    "holders": [
+        381237
+    ],
+    "ipcCodes": [
+        "A61C 8/00"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "PI 0612656-1",
+    "filingDate": "23/06/2006",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o imunog\u00eanica, vacina, e, kit de vacina para a administra\u00e7\u00e3o concomitante ou sequencial",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0513071.1",
+            "priorityDate": "27/06/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0513069.5",
+            "priorityDate": "27/06/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0515556.9",
+            "priorityDate": "28/07/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0524204.5",
+            "priorityDate": "28/11/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0526040.1",
+            "priorityDate": "21/12/2005"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0526041.9",
+            "priorityDate": "21/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "RALPH LEON BIEMANS",
+        "CARINE CAPIAU",
+        "PHILIPPE DENOEL",
+        "PIERRE DUVIVIER",
+        "JAN POOLMAN",
+        "DOMINIQUE BOUTRIAU",
+        "RALPH LEON BIEMANS",
+        "CARINE CAPIAU",
+        "PHILIPPE DENOEL",
+        "PIERRE DUVIVIER",
+        "JAN POOLMAN",
+        "DOMINIQUE BOUTRIAU",
+        "RALPH LEON BIEMANS",
+        "CARINE CAPIAU",
+        "PHILIPPE DENOEL",
+        "PIERRE DUVIVIER",
+        "JAN POOLMAN",
+        "DOMINIQUE BOUTRIAU"
+    ],
+    "holders": [
+        85017,
+        104826
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "A61K 39/095",
+        "A61K 39/102",
+        "A61K 39/116"
+    ]
+}

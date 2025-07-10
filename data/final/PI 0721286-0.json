@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0721286-0",
+    "filingDate": "19/12/2007",
+    "grantDate": null,
+    "title": "SENSOR DE TEMPERATURA E M\u00c9TODO DE DETEC\u00c7\u00c3O DE TEMPERATURA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/875,719",
+            "priorityDate": "19/12/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/978,538",
+            "priorityDate": "29/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "MATHIEU CLOUTIER",
+        "JEAN PRONOVOST",
+        "MARIUS CLOUTIER"
+    ],
+    "holders": [
+        388439
+    ],
+    "ipcCodes": [
+        "G01K 5/48",
+        "G01K 5/00",
+        "G01K 15/00"
+    ]
+}

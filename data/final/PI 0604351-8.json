@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0604351-8",
+    "filingDate": "25/10/2006",
+    "grantDate": "09/04/2019",
+    "title": "PREVEN\u00c7\u00c3O DE OPERA\u00c7\u00d5ES DE INCLINA\u00c7\u00c3O DE CABINA N\u00c3O AUTORIZADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0502483-1",
+            "priorityDate": "10/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [
+        "SVEN STAFNER",
+        "FREDRIK BERGSTEN"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B60R 25/00",
+        "G08B 29/00",
+        "G01C 9/00",
+        "B62D 33/073"
+    ]
+}

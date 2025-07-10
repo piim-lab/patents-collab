@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0716964-7",
+    "filingDate": "19/09/2007",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O VERS\u00c1TIL PARA PRAGAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/826.703",
+            "priorityDate": "22/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "THOMAS NELSON",
+        "WILLIAM PATTISON",
+        "JOSHUA LANZ",
+        "BRYAN HENNEMAN",
+        "ROBERTA FREDERICK",
+        "JAMES TARARA"
+    ],
+    "holders": [
+        83980
+    ],
+    "ipcCodes": [
+        "A01M 1/20",
+        "A01M 1/00",
+        "A01M 1/14"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0814323-4",
+    "filingDate": "10/07/2008",
+    "grantDate": null,
+    "title": "PROCESSO DE FABRICA\u00c7\u00c3O DE UMA PE\u00c7A MEC\u00c2NICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0705454",
+            "priorityDate": "26/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        }
+    ],
+    "inventors": [
+        "PATRICK DUNLEAVY",
+        "MICHEL FRANCHET",
+        "GILLES KLEIN",
+        "RICHARD MASSON"
+    ],
+    "holders": [
+        393723,
+        79254
+    ],
+    "ipcCodes": [
+        "C22C 47/06"
+    ]
+}

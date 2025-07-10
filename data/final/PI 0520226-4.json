@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0520226-4",
+    "filingDate": "22/12/2005",
+    "grantDate": null,
+    "title": "MONOP\u00d3LO / DIP\u00d3LO EM FORMATO DE I DE BANDA LARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200520059646.3",
+            "priorityDate": "13/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        }
+    ],
+    "inventors": [
+        "LONG BU",
+        "QIU SUN",
+        "YONG JIANG",
+        "HAI FENG",
+        "SHAN CHEN"
+    ],
+    "holders": [
+        166866
+    ],
+    "ipcCodes": [
+        "H01Q 21/06"
+    ]
+}

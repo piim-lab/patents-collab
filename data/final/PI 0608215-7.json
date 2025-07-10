@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0608215-7",
+    "filingDate": "10/02/2006",
+    "grantDate": null,
+    "title": "FIO ELETRODO PARA USINAGEM POR ELETROEROS\u00c3O E PROCESSO DE REALIZA\u00c7\u00c3O DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0501547",
+            "priorityDate": "11/02/2005"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0508589",
+            "priorityDate": "17/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "PATRICK BLANC",
+        "MICHEL LY",
+        "G\u00c9RALD SANCHEZ"
+    ],
+    "holders": [
+        379581
+    ],
+    "ipcCodes": [
+        "B23H 7/08"
+    ]
+}

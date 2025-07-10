@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0603178-1",
+    "filingDate": "07/08/2006",
+    "grantDate": "04/07/2017",
+    "title": "PRENDEDOR PARA USO DURANTE PROCEDIMENTOS ENDOSC\u00d3PICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/197.529",
+            "priorityDate": "05/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "MARK S ORTIZ",
+        "MICHAEL J STOKES",
+        "DAVID N PLESCIA"
+    ],
+    "holders": [
+        350276
+    ],
+    "ipcCodes": [
+        "A61F 5/00",
+        "A61B 17/04",
+        "A61B 17/064"
+    ]
+}

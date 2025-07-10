@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "PI 0722407-9",
+    "filingDate": "31/05/2007",
+    "grantDate": "12/02/2019",
+    "title": "INSTRUMENTO   CIR\u00daRGICO   COM   POT\u00caNCIA   E   PER\u00cdODO   DE OPERA\u00c7\u00c3O OTIMIZADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/801,989",
+            "priorityDate": "19/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/810,272",
+            "priorityDate": "02/06/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/858,112",
+            "priorityDate": "09/11/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/705,334",
+            "priorityDate": "12/02/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/705,381",
+            "priorityDate": "12/02/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/705,246",
+            "priorityDate": "12/02/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/902,534",
+            "priorityDate": "21/02/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/05/2007",
+        "applicationNumber": "PI 0706050-5"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "KEVIN SMITH",
+        "THOMAS BALES",
+        "DEREK DEVILLE",
+        "MATTHEW PALMER",
+        "CARLOS RIVERA"
+    ],
+    "holders": [
+        276
+    ],
+    "ipcCodes": [
+        "A61B 17/068"
+    ]
+}

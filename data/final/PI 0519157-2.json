@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0519157-2",
+    "filingDate": "20/12/2005",
+    "grantDate": "19/05/2020",
+    "title": "COMPOSI\u00c7\u00c3O, E, USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04106809.9",
+            "priorityDate": "21/12/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/638,154",
+            "priorityDate": "21/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        }
+    ],
+    "inventors": [
+        "CAROLE BARBOT"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A61K 47/10",
+        "A61K 31/165",
+        "A61K 47/32"
+    ]
+}

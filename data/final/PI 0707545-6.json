@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0707545-6",
+    "filingDate": "08/02/2007",
+    "grantDate": null,
+    "title": "TRANSPORTADOR CURVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/743,253",
+            "priorityDate": "08/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "JAMES HONEYCUTT"
+    ],
+    "holders": [
+        384320
+    ],
+    "ipcCodes": [
+        "B65G 15/02",
+        "B65G 15/62"
+    ]
+}

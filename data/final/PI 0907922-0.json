@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0907922-0",
+    "filingDate": "09/02/2009",
+    "grantDate": null,
+    "title": "OPERA\u00c7\u00c3O EMPURRA-PUXA DE UM SISTEMA CONECTOR SEPAR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/072,513",
+            "priorityDate": "25/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        }
+    ],
+    "inventors": [
+        "DAVID CHARLES HUGHES"
+    ],
+    "holders": [
+        98713
+    ],
+    "ipcCodes": [
+        "H01R 24/00"
+    ]
+}

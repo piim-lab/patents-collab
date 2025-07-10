@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0818719-3",
+    "filingDate": "19/08/2008",
+    "grantDate": "04/09/2018",
+    "title": "COMPOSI\u00c7\u00c3O PARA O TRATAMENTO DE DOEN\u00c7A ARTICULAR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007/277005",
+            "priorityDate": "24/10/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "PCT/JP2008/052999",
+            "priorityDate": "21/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "NORIMASA IWASAKI",
+        "AKIO MINAMI",
+        "YASUHIKO KASAHARA",
+        "TATSUYA IGARASHI",
+        "DAISUKE KAWAMURA",
+        "NOBUO OHZAWA",
+        "MARIKO IMAI"
+    ],
+    "holders": [
+        84136,
+        100108
+    ],
+    "ipcCodes": [
+        "A61P 19/02",
+        "A61K 35/28",
+        "A61L 27/00",
+        "A61K 31/734"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0918705-7",
+    "filingDate": "21/12/2009",
+    "grantDate": "26/02/2019",
+    "title": "DISPOSITIVO DE BOCA DE PO\u00c7O E M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/347,793",
+            "priorityDate": "31/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "ROGER L SCHULTZ",
+        "TRAVIS W CAVENDER",
+        "DAVID J STEELE",
+        "ROBERT L PIPKIN"
+    ],
+    "holders": [
+        2701
+    ],
+    "ipcCodes": [
+        "E21B 43/24",
+        "E21B 17/07"
+    ]
+}

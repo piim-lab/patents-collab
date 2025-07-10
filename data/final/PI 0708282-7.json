@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0708282-7",
+    "filingDate": "13/02/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETERMINAR UM VALOR LIMITE DIN\u00c2MICO E M\u00c9TODO PARA FORMATAR UMA FAIXA DE C\u00c9LULAS DENTRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/364,377",
+            "priorityDate": "27/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "BENJAMIN C CHAMBERLAIN",
+        "BRUCE CORDELL JONES",
+        "CHRISTOPHER M STREET",
+        "ERIC B VIGESAA"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 17/00",
+        "G06F 17/21"
+    ]
+}

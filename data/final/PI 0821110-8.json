@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "PI 0821110-8",
+    "filingDate": "05/12/2008",
+    "grantDate": "20/04/2021",
+    "title": "ANTICORPO ANTI NR-10 E USO DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-315143",
+            "priorityDate": "05/12/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-247425",
+            "priorityDate": "26/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "TAICHI KURAMOCHI",
+        "KEIKO KASUTANI",
+        "SOUHEI OHYAMA",
+        "HIROYUKI TSUNODA",
+        "TOMOYUKI IGAWA",
+        "TATSUHIKO TACHIBANA",
+        "HIROTAKE SHIRAIWA",
+        "KEIKO ESAKI"
+    ],
+    "holders": [
+        86875
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61K 39/395",
+        "C12N 15/09",
+        "C12N 15/00",
+        "C07K 16/46",
+        "C07K 16/28"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0711621-7",
+    "filingDate": "15/05/2007",
+    "grantDate": "15/09/2020",
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE UM PRODUTO DO A\u00c7O PLANO REVESTIDO COM UM SISTEMA DE PROTE\u00c7\u00c3O \u00c0 CORROS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 113963.0",
+            "priorityDate": "15/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "CARMEN OSTWALD",
+        "MANFRED MEURER",
+        "OLIVER BENDICK",
+        "MICHAEL KELLER",
+        "ERICH NABBEFELD"
+    ],
+    "holders": [
+        385469
+    ],
+    "ipcCodes": [
+        "C23C 2/06"
+    ]
+}

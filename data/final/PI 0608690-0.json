@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0608690-0",
+    "filingDate": "10/03/2006",
+    "grantDate": "24/12/2019",
+    "title": "USO DE UMA COMPOSI\u00c7\u00c3O ANTIMICROBIANA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/660,830",
+            "priorityDate": "10/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "TERRY R HOBBS",
+        "DANLI WANG",
+        "MATTHEW T SCHOLZ"
+    ],
+    "holders": [
+        6580
+    ],
+    "ipcCodes": [
+        "A61K 9/00",
+        "A61K 31/00",
+        "A61P 31/02",
+        "A61K 31/42",
+        "A61K 45/06"
+    ]
+}

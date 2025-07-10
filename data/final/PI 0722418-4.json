@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0722418-4",
+    "filingDate": "30/04/2007",
+    "grantDate": null,
+    "title": "Processo para tratamento de biomassa lignocelul\u00f3sica com vapores de am\u00f4nia e de \u00e1gua",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/796.375",
+            "priorityDate": "01/05/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/04/2007",
+        "applicationNumber": "PI 0711139-8"
+    },
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "BRUCE E DALE"
+    ],
+    "holders": [
+        388833,
+        388834
+    ],
+    "ipcCodes": [
+        "C12P 19/02",
+        "C13K 1/02"
+    ]
+}

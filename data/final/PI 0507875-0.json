@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "PI 0507875-0",
+    "filingDate": "22/03/2005",
+    "grantDate": "03/11/2020",
+    "title": "LIGADOR DE PR\u00d3-F\u00c1RMACO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04 075892.2",
+            "priorityDate": "23/03/2004"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "04 15043.9",
+            "priorityDate": "05/07/2004"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04 019293.2",
+            "priorityDate": "13/08/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ULRICH HERSEL",
+        "HARALD RAU",
+        "THOMAS WEGGE",
+        "DIRK VETTER",
+        "ROBERT SCHNEPF"
+    ],
+    "holders": [
+        351399
+    ],
+    "ipcCodes": [
+        "C07D 207/46",
+        "C07K 14/00",
+        "C07D 401/12",
+        "A61K 47/69",
+        "C07K 14/61",
+        "A61K 47/58",
+        "A61K 47/60",
+        "C07K 14/62",
+        "C07C 69/96",
+        "A61K 47/61",
+        "A61K 47/64"
+    ]
+}

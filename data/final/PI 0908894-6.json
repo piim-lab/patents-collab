@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0908894-6",
+    "filingDate": "24/02/2009",
+    "grantDate": null,
+    "title": "SISTEMA DE LINHA DE SALVAMENTO E M\u00c9TODO DE FORNECER UMA FUN\u00c7\u00c3O DE FRENAGEM EM UM SISTEMA DE LINHA DE SALVAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/031,336",
+            "priorityDate": "25/02/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/045,808",
+            "priorityDate": "17/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "THOMAS W PARKER",
+        "ROSS BALQUIST"
+    ],
+    "holders": [
+        400580
+    ],
+    "ipcCodes": [
+        "A62B 35/04"
+    ]
+}

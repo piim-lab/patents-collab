@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0509355-4",
+    "filingDate": "07/03/2005",
+    "grantDate": "30/10/2018",
+    "title": "M\u00c9TODO DE TESTE PARA MOINHOS DE BOLAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/820,373",
+            "priorityDate": "08/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "STARKEY JOHN H"
+    ],
+    "holders": [
+        376047
+    ],
+    "ipcCodes": [
+        "B02C 17/16"
+    ]
+}

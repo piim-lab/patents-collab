@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0517696-4",
+    "filingDate": "08/11/2005",
+    "grantDate": null,
+    "title": "MECANISMO DE CONEX\u00c3O COMPASSADO",
+    "priorityClaims": [
+        {
+            "countryCode": "10",
+            "priorityNumber": "2004 054 179.5",
+            "priorityDate": "10/11/2004 DE"
+        },
+        {
+            "countryCode": "10",
+            "priorityNumber": "2005 033 398.2",
+            "priorityDate": "18/07/2005 DE"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        }
+    ],
+    "inventors": [
+        "ALFRED VON SCHUCKMANN"
+    ],
+    "holders": [
+        104892
+    ],
+    "ipcCodes": [
+        "B65D 83/14",
+        "G06M 1/22",
+        "A61M 15/00",
+        "G06M 1/16",
+        "G06M 1/04"
+    ]
+}

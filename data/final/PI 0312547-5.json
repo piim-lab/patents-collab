@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0312547-5",
+    "filingDate": "03/07/2003",
+    "grantDate": "21/01/2020",
+    "title": "INIBIDORES VIRAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0215293.2",
+            "priorityDate": "03/07/2002"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0313251.1",
+            "priorityDate": "10/06/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2798"
+        }
+    ],
+    "inventors": [
+        "JOHAN NEYTS",
+        "GERHARD P\u00dcRSTINGER",
+        "ERIK DE CLERCQ"
+    ],
+    "holders": [
+        351379,
+        250925
+    ],
+    "ipcCodes": [
+        "A61P 31/12",
+        "C07D 471/04",
+        "A61K 31/437"
+    ]
+}

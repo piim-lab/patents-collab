@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0017414-9",
+    "filingDate": "31/05/2000",
+    "grantDate": "03/12/2013",
+    "title": "PROCESSO E DISPOSI\u00c7\u00c3O PARA VERIFICA\u00c7\u00c3O DE UMA AUTENTICIDADE DE UM PRIMEIRO PARTICIPANTE DE COMUNICA\u00c7\u00c3O EM UMA REDE DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "27",
+            "priorityNumber": "271.9",
+            "priorityDate": "15/06/1999 DE 199"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/05/2000",
+        "applicationNumber": "PI 0011703-0"
+    },
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "GUENTHER HORN",
+        "JORGE CUELLAR"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H04W 12/06",
+        "H04W 12/08"
+    ]
+}

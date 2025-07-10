@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0614373-3",
+    "filingDate": "07/08/2006",
+    "grantDate": null,
+    "title": "EIXO COM PELO MENOS UM CORPO FUNCIONAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 036 995.2",
+            "priorityDate": "05/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "MATTHIAS DERSE",
+        "MATTHIAS BECHTOLD",
+        "MANFRED VOGEL"
+    ],
+    "holders": [
+        10236
+    ],
+    "ipcCodes": [
+        "F16H 53/02",
+        "F16C 3/10"
+    ]
+}

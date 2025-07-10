@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0902008-0",
+    "filingDate": "16/06/2009",
+    "grantDate": null,
+    "title": "FILTRO COM MECANISMO DE EJE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/139.559",
+            "priorityDate": "16/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        }
+    ],
+    "inventors": [
+        "JOHN H BEARD",
+        "FARRELL F CALCATERRA"
+    ],
+    "holders": [
+        113273
+    ],
+    "ipcCodes": [
+        "B01D 25/02"
+    ]
+}

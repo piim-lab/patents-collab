@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0714706-6",
+    "filingDate": "17/07/2007",
+    "grantDate": null,
+    "title": "Unidade de Tamboramento",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/492.576",
+            "priorityDate": "25/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        }
+    ],
+    "inventors": [
+        "MICHAEL S DIDION"
+    ],
+    "holders": [
+        80359
+    ],
+    "ipcCodes": [
+        "B22D 29/00"
+    ]
+}

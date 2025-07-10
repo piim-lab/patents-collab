@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0907054-0",
+    "filingDate": "28/01/2009",
+    "grantDate": null,
+    "title": "SISTEMA DE AERONAVE, E, M\u00c9TODO PARA OPERAR UM SISTEMA DE AERONAVE",
+    "nationalPhaseDate": [
+        "30/07/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2009/000537",
+        "pctDate": "28/01/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 006 742.3",
+            "priorityDate": "30/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/024579",
+            "priorityDate": "30/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "ANDREAS WESTENBERGER",
+        "MARTIN ARENDT",
+        "LARS FRAHM",
+        "TILL MARQUARDT"
+    ],
+    "holders": [
+        42551
+    ],
+    "ipcCodes": [
+        "B64D 41/00",
+        "H01M 8/04"
+    ]
+}

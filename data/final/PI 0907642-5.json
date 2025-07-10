@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0907642-5",
+    "filingDate": "05/01/2009",
+    "grantDate": "27/07/2021",
+    "title": "SISTEMA E M\u00c9TODO DE CONTROLE DE QUALIDADE EM TEMPO REAL PARA DISPOSITIVOS DE PERFILAGEM DE FUNDO DE PO\u00c7O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/969,577",
+            "priorityDate": "04/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "ANDREAS HARTMANN",
+        "OLEG N AKIMOV",
+        "ANSGAR BAULE",
+        "CHRISTIAN FULDA"
+    ],
+    "holders": [
+        2932
+    ],
+    "ipcCodes": [
+        "E21B 43/26",
+        "G01V 3/18"
+    ]
+}

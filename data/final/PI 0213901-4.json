@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "PI 0213901-4",
+    "filingDate": "04/11/2002",
+    "grantDate": "19/03/2019",
+    "title": "M\u00c1QUINA BANC\u00c1RIA AUTOM\u00c1TICA, M\u00c9TODO E APARELHO DE RASTREAMENTO DE DINHEIRO EM ESP\u00c9CIE, CHEQUES E OUTROS DOCUMENTOS DE VALOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/338,919",
+            "priorityDate": "05/11/2001"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/993,070",
+            "priorityDate": "13/11/2001"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/992,357",
+            "priorityDate": "13/11/2001"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/141,798",
+            "priorityDate": "07/05/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/141,425",
+            "priorityDate": "07/05/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "141,798",
+            "priorityDate": "07/05/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "25.13",
+            "description": "Anota\u00e7\u00e3o de Limita\u00e7\u00e3o ou \u00d4nus",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "THOMAS H GRAEF",
+        "EDWARD LASKOWSKI",
+        "WILLIAM D BESKITT",
+        "MICHAEL HARTY",
+        "RICHARD J PHELPS",
+        "NATARAJAN RAMACHANDRAN"
+    ],
+    "holders": [
+        23390
+    ],
+    "ipcCodes": [
+        "G07F 19/00",
+        "G07D 7/12",
+        "G07D 7/005"
+    ]
+}

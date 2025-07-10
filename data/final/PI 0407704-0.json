@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0407704-0",
+    "filingDate": "20/02/2004",
+    "grantDate": null,
+    "title": "PROCESSO E INSTALA\u00c7\u00c3O INCLUINDO O DESASFALTAMENTO A SOLVENTE E O PROCESSAMENTO DE LEITO EBULIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/369,869",
+            "priorityDate": "21/02/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "139",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "JAMES J COLYAR"
+    ],
+    "holders": [
+        373301
+    ],
+    "ipcCodes": [
+        "C10G 67/04",
+        "C10G 65/18"
+    ]
+}

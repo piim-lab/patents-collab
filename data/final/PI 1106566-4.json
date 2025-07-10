@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 1106566-4",
+    "filingDate": "26/12/2011",
+    "grantDate": "27/08/2019",
+    "title": "COMPOSTO DE POLIAMINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/427275",
+            "priorityDate": "27/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "IAN A TOMLINSON",
+        "ASGHAR A PEERA"
+    ],
+    "holders": [
+        86708,
+        1101
+    ],
+    "ipcCodes": [
+        "C09D 7/63",
+        "C07D 263/04",
+        "C07C 213/02",
+        "C07C 215/18",
+        "C07C 215/14"
+    ]
+}

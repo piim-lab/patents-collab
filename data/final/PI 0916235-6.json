@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0916235-6",
+    "filingDate": "17/07/2009",
+    "grantDate": "29/09/2020",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, E, USO DO COMPOSTO OU DA COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/135559",
+            "priorityDate": "22/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "STEVEN HARPER",
+        "VINCENZO SUMMA",
+        "NIGEL J LIVERTON",
+        "JOHN A MCCAULEY"
+    ],
+    "holders": [
+        82587,
+        371127
+    ],
+    "ipcCodes": [
+        "A61P 31/14",
+        "A61K 38/08",
+        "A61K 38/07",
+        "C07K 5/10",
+        "A61K 38/06",
+        "C07K 5/12",
+        "C07K 5/08"
+    ]
+}

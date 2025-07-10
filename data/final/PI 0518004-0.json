@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0518004-0",
+    "filingDate": "02/11/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CODIFICAR UM SINAL DE FALA, DISPOSITIVO DE CODIFICA\u00c7\u00c3O, DECODIFICADOR E SISTEMA DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/624,998",
+            "priorityDate": "03/11/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/265,440",
+            "priorityDate": "01/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "BRUNO BESSETTE"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "G10L 19/12"
+    ]
+}

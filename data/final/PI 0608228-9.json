@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0608228-9",
+    "filingDate": "13/03/2006",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODOS PARA REDUZIR RECURSOS DE UPLINK PARA PROVER REALIMENTA\u00c7\u00c3O DE DESEMPENHO DE CANAL PARA AJUSTE DE TAXAS DE DADOS DE CANAL MIMO DE DOWNLINK",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/078,470",
+            "priorityDate": "11/03/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        }
+    ],
+    "inventors": [
+        "HOON KIM"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04L 1/20"
+    ]
+}

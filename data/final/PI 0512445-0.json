@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0512445-0",
+    "filingDate": "14/07/2005",
+    "grantDate": null,
+    "title": "AN\u00c1LISE DE CAMPO E ON-LINE DO LICOR PROVENIENTE DO PROCESSOS BAYER",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "AU2004903901",
+            "priorityDate": "16/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "VINCENT ROBERT DOOLEY"
+    ],
+    "holders": [
+        109926
+    ],
+    "ipcCodes": [
+        "G01N 11/00"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0603691-0",
+    "filingDate": "12/09/2006",
+    "grantDate": null,
+    "title": "CONTROLADOR DE FREIO PARA UMA LOCOMOTIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/225,109",
+            "priorityDate": "14/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "JOHN M REYNOLDS",
+        "D MARK PETTIT",
+        "SCOTT E MARGESON",
+        "KEVIN B ROOT",
+        "RICHARD J TEIFKE"
+    ],
+    "holders": [
+        138145
+    ],
+    "ipcCodes": [
+        "B60T 8/17"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0915501-5",
+    "filingDate": "09/07/2009",
+    "grantDate": null,
+    "title": "PINO PARA SOLDAGEM DE PINOS",
+    "nationalPhaseDate": [
+        "05/01/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2009/050047",
+        "pctDate": "09/07/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102008033373.5",
+            "priorityDate": "09/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "FRANK DREXLER",
+        "JOACHIM SCHNEIDER",
+        "GERD KORTMANN"
+    ],
+    "holders": [
+        104592
+    ],
+    "ipcCodes": [
+        "B23K 9/00"
+    ]
+}

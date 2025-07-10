@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0717558-2",
+    "filingDate": "01/11/2007",
+    "grantDate": "02/04/2019",
+    "title": "DISPOSITIVO M\u00c9DICO PARA OPERAR UM SEPTO DE UM DISPOSITIVO DE ACESSO VASCULAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/864.109",
+            "priorityDate": "02/11/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/931.483",
+            "priorityDate": "31/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "WESTON F HARDING",
+        "DINESH S KOMMIREDDY",
+        "MARK A CRAWFORD",
+        "S RAY ISAACSON"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "A61M 5/178"
+    ]
+}

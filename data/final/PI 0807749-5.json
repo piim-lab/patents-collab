@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "PI 0807749-5",
+    "filingDate": "26/02/2008",
+    "grantDate": "05/01/2021",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, E, M\u00c9TODO PARA  A PREVEN\u00c7\u00c3O, TRATAMENTO OU MELHORA DE DOEN\u00c7AS OU CONDI\u00c7\u00d5ES D\u00c9RMICAS, OU DIST\u00daRBIOS DE FERIDA CUT\u00c2NEA AGUDOS OU CR\u00d4NICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/903849",
+            "priorityDate": "28/02/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/946849",
+            "priorityDate": "28/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "25.12",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "JAKOB FELDING",
+        "JENS CHRISTIAN H\u00d8JLAND LARSEN",
+        "BOLLU RAVINDRA BABU",
+        "SIMON FELDB\u00c6K NIELSEN"
+    ],
+    "holders": [
+        93418
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61K 31/36",
+        "C07D 493/10",
+        "C07D 495/10",
+        "C07D 491/10"
+    ]
+}

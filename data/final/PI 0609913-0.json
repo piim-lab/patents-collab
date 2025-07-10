@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0609913-0",
+    "filingDate": "03/02/2006",
+    "grantDate": null,
+    "title": "TREM INCLUINDO UM TUBO DE FREIO AUTOM\u00c1TICO E UMA LINHA DE ALIMENTA\u00c7\u00c3O EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/679,653",
+            "priorityDate": "11/05/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        }
+    ],
+    "inventors": [
+        "JAMES R TRUGLIO",
+        "BRYAN MCLAUGHLIN",
+        "LAWRENCE E VAUGHN",
+        "VINCENT S GUARRERA JR",
+        "ERIC WRIGHT"
+    ],
+    "holders": [
+        138145
+    ],
+    "ipcCodes": [
+        "B60T 13/00"
+    ]
+}

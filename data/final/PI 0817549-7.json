@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0817549-7",
+    "filingDate": "24/03/2008",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE FIXA\u00c7\u00c3O DE UM CABO NUMA CALOTA DE UM ARTIGO CULIN\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 02042",
+            "priorityDate": "21/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "PASCAL CUILLERY",
+        "ST\u00c9PHANE PLICHON",
+        "FRAN\u00c7OIS BRASSET"
+    ],
+    "holders": [
+        1056
+    ],
+    "ipcCodes": [
+        "A47J 36/00",
+        "A47J 45/06",
+        "A47J 45/08"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "PI 0315558-7",
+    "filingDate": "24/10/2003",
+    "grantDate": "13/10/2020",
+    "title": "ESTIMATIVA DE CANAL E PROCESSAMENTO ESPACIAL PARA SISTEMAS MIMO TDD",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/421,428",
+            "priorityDate": "25/10/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/421,462",
+            "priorityDate": "25/10/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/421,309",
+            "priorityDate": "25/10/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/693,171",
+            "priorityDate": "23/10/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2.4.1",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.2.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "JOHN W KETCHUM",
+        "MARK WALLACE",
+        "J RODNEY WALTON",
+        "STEVEN J HOWARD"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04B 7/06",
+        "H04B 7/08"
+    ]
+}

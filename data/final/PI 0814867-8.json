@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0814867-8",
+    "filingDate": "08/08/2008",
+    "grantDate": "04/02/2020",
+    "title": "ADAPTA\u00c7\u00c3O AUT\u00d4NOMA DE POT\u00caNCIA DE TRANSMISS\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/955,301",
+            "priorityDate": "10/08/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/957,967",
+            "priorityDate": "24/08/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/187,310",
+            "priorityDate": "06/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "MEHMET YAVUZ",
+        "PETER J BLACK",
+        "SANJIV NANDA"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 16/16",
+        "H04W 52/24",
+        "H04W 36/04",
+        "H04W 52/40"
+    ]
+}

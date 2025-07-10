@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0905204-6",
+    "filingDate": "28/12/2009",
+    "grantDate": null,
+    "title": "Equipamentos para aspers\u00e3o de um l\u00edquido",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 639/2009",
+            "priorityDate": "27/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "KLAUS BARTELMUSS",
+        "HEINZ BARTELMUSS"
+    ],
+    "holders": [
+        13717,
+        399237
+    ],
+    "ipcCodes": [
+        "D21F 1/10"
+    ]
+}

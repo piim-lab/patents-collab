@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0109489-0",
+    "filingDate": "21/03/2001",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO DE CODIFICA\u00c7\u00c3O EM SISTEMA DE COMUNICA\u00c7\u00c3O CDMA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "2000-14355",
+            "priorityDate": "21/03/2000"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "2000-38399",
+            "priorityDate": "05/07/2000"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        }
+    ],
+    "inventors": [
+        "YOEL KIM",
+        "YOUNG YOON",
+        "WON KANG",
+        "KYU CHOI",
+        "WOO LEE"
+    ],
+    "holders": [
+        5501
+    ],
+    "ipcCodes": [
+        "H04W 52/02",
+        "H04W 72/10",
+        "H04W 24/10",
+        "H04W 72/12",
+        "H04B 1/707",
+        "H04W 74/04"
+    ]
+}

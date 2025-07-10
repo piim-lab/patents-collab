@@ -1,0 +1,96 @@
+{
+    "applicationNumber": "PI 0706676-7",
+    "filingDate": "22/01/2007",
+    "grantDate": "10/03/2020",
+    "title": "M\u00c9TODOS DE TRATAMENTO OU PREVEN\u00c7\u00c3O DE PERITONITE COM SOLU\u00c7\u00c3O AQUOSA COM POTENCIAL DE OXIRREDU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/760,567",
+            "priorityDate": "20/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/760,645",
+            "priorityDate": "20/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/760,557",
+            "priorityDate": "20/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/760,635",
+            "priorityDate": "20/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "25.12",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "HOJABR ALIMI",
+        "ANDR\u00c9S GUTI\u00c9RREZ"
+    ],
+    "holders": [
+        85673
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61K 33/40"
+    ]
+}

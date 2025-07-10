@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0503774-3",
+    "filingDate": "07/07/2005",
+    "grantDate": null,
+    "title": "Conector de junta esf\u00e9rica",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "04 15333.4",
+            "priorityDate": "08/07/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        }
+    ],
+    "inventors": [
+        "STEPHANE ROCQUET",
+        "DENIS SAINTON"
+    ],
+    "holders": [
+        22878
+    ],
+    "ipcCodes": [
+        "F16C 11/06"
+    ]
+}

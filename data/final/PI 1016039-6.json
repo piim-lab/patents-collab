@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 1016039-6",
+    "filingDate": "15/06/2010",
+    "grantDate": "10/03/2020",
+    "title": "PROCESSO, E, COMPOSI\u00c7\u00c3O ANTIMASCARAMENTO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/187,379",
+            "priorityDate": "16/06/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "ROBERT A GRIGSBY",
+        "CHRISTOPHER J MORIARTY",
+        "SACHCHIDA N SINGH",
+        "GEORGE A SMITH"
+    ],
+    "holders": [
+        79683
+    ],
+    "ipcCodes": [
+        "C08G 18/00",
+        "B32B 27/00",
+        "C08G 18/48"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0519847-0",
+    "filingDate": "30/12/2005",
+    "grantDate": "06/03/2019",
+    "title": "M\u00c9TODO, CIRCUITO INTEGRADO E ESTA\u00c7\u00c3O BASE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/641,913",
+            "priorityDate": "05/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "ESA MALKAM\u00c4KI",
+        "MASATOSHI NAKAMATA"
+    ],
+    "holders": [
+        377979
+    ],
+    "ipcCodes": [
+        "H04W 88/08",
+        "H04L 1/18",
+        "H04L 1/16",
+        "H04W 92/12",
+        "H04W 52/12"
+    ]
+}

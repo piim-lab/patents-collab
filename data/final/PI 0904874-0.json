@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0904874-0",
+    "filingDate": "10/12/2009",
+    "grantDate": "20/08/2019",
+    "title": "PNEUM\u00c1TICO COM BANDA DE RODAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/336.773",
+            "priorityDate": "17/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "GEORGES MARCEL VICTOR THIELEN",
+        "FRANK SCHMITZ",
+        "NICOLA COSTANTINI"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "C08L 9/00"
+    ]
+}

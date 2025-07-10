@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0703350-8",
+    "filingDate": "25/07/2007",
+    "grantDate": "26/12/2018",
+    "title": "SISTEMA DE GERENCIAMENTO DE PRODU\u00c7\u00c3O DE PE\u00c7AS E M\u00c9TODO DE GERENCIAMENTO DE PRODU\u00c7\u00c3O DE PE\u00c7AS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-205061",
+            "priorityDate": "27/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "HAJIME HONDA",
+        "YOSHIRO YAMAGAMI",
+        "SEITARO IKEDA"
+    ],
+    "holders": [
+        147,
+        5254
+    ],
+    "ipcCodes": [
+        "G06F 19/00"
+    ]
+}

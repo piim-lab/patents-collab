@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0621186-0",
+    "filingDate": "28/12/2006",
+    "grantDate": "09/04/2019",
+    "title": "Material composto anti-incrustante",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-006759",
+            "priorityDate": "13/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "TSURUO NAKAYAMA",
+        "YOUHEI JIKIHARA",
+        "YASUYOSHI WATANABE",
+        "NOBUKAZU MOTOJIMA"
+    ],
+    "holders": [
+        382522
+    ],
+    "ipcCodes": [
+        "C09D 7/62",
+        "C09D 5/16",
+        "C08K 3/22",
+        "D06M 13/513",
+        "C08K 9/06",
+        "C08J 7/04",
+        "D06M 23/08",
+        "D06M 15/277"
+    ]
+}

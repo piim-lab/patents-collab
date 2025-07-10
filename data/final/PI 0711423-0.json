@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0711423-0",
+    "filingDate": "04/05/2007",
+    "grantDate": "06/11/2018",
+    "title": "PROCESSO PARA  A PRODU\u00c7\u00c3O DE UM N\u00d3 DE PASSAGEM OU N\u00d3 FINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 021 422.6",
+            "priorityDate": "05/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "DIETER STROH",
+        "HEIKO STROH",
+        "UDO WAGENBACH"
+    ],
+    "holders": [
+        93457
+    ],
+    "ipcCodes": [
+        "H01R 4/18",
+        "H01R 43/02"
+    ]
+}

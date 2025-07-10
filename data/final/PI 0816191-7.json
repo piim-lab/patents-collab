@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0816191-7",
+    "filingDate": "03/09/2008",
+    "grantDate": null,
+    "title": "Processo  para  converter  um  material contendo lignocelulose em um hidrolisado",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07115539.4",
+            "priorityDate": "03/09/2007"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07118426.1",
+            "priorityDate": "14/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        }
+    ],
+    "inventors": [
+        "HAIYU REN",
+        "HOND ZHI HUANG",
+        "JIE ZHENG"
+    ],
+    "holders": [
+        28978,
+        394556
+    ],
+    "ipcCodes": [
+        "D21C 5/00"
+    ]
+}

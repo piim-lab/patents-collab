@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0619207-6",
+    "filingDate": "05/12/2006",
+    "grantDate": "04/12/2018",
+    "title": "TRADU\u00c7\u00c3O COM EXIBI\u00c7\u00c3O FLEX\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/294,231",
+            "priorityDate": "05/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "BERNHARD KOHLMEIER",
+        "MOHAMED ELGAZZAR",
+        "REFAAT ISSA",
+        "MARK WEBBER",
+        "MATTHEW CRINKLAW",
+        "KATHRYN RICHARDSON",
+        "FRANCOIS LIGER",
+        "MAJD ABBAR"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 17/28"
+    ]
+}

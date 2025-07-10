@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0309876-1",
+    "filingDate": "02/05/2003",
+    "grantDate": "30/10/2018",
+    "title": "DISPOSITIVO DE INJE\u00c7\u00c3O E ACOPLAMENTO DE ACIONAMENTO PARA USO NO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "02 10123.6",
+            "priorityDate": "02/05/2002"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "02 29384.3",
+            "priorityDate": "17/12/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "JEFFREY MARTIN",
+        "MARTIN LAWRENCE HUGHES"
+    ],
+    "holders": [
+        118460
+    ],
+    "ipcCodes": [
+        "A61M 5/32",
+        "A61M 5/315",
+        "A61M 5/20",
+        "A61M 5/28"
+    ]
+}

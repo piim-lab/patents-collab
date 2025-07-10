@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0709960-6",
+    "filingDate": "10/04/2007",
+    "grantDate": "15/10/2019",
+    "title": "ANTICORPOS GLICOSILADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 007565.2",
+            "priorityDate": "11/04/2006"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06016203.9",
+            "priorityDate": "03/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "SILKE HANSEN",
+        "PETER KUENKELE",
+        "DIETMAR REUSCH",
+        "RALF SCHUMACHER"
+    ],
+    "holders": [
+        61582
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "A61P 37/00",
+        "C12P 21/00",
+        "C07K 16/00",
+        "C07K 16/28"
+    ]
+}

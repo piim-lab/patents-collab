@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0704462-3",
+    "filingDate": "30/11/2007",
+    "grantDate": "28/04/2020",
+    "title": "V\u00c1LVULA DE REGULAGEM DE PRESS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-326116",
+            "priorityDate": "01/12/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-326117",
+            "priorityDate": "01/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "MICHIRU FUKUDA",
+        "MASAHIKO KIKUCHI",
+        "TOSHIHIRO ARAI"
+    ],
+    "holders": [
+        20470
+    ],
+    "ipcCodes": [
+        "F02M 37/08",
+        "F02M 59/46"
+    ]
+}

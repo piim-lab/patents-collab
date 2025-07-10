@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0806518-7",
+    "filingDate": "11/01/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PROCESSAMENTO DE GR\u00c3OS, E, USO DE UMA FARINHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/972,717",
+            "priorityDate": "11/01/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/884,664",
+            "priorityDate": "12/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "ROBIN DUNCAN KIRKPATRICK",
+        "NICKOLAS SPEAKMAN"
+    ],
+    "holders": [
+        390344
+    ],
+    "ipcCodes": [
+        "A23B 9/24",
+        "C08B 30/02",
+        "B02B 1/04"
+    ]
+}

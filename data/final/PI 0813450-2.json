@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "PI 0813450-2",
+    "filingDate": "19/06/2008",
+    "grantDate": "07/05/2019",
+    "title": "COMPOSTO, FORMULA\u00c7\u00c3O FARMAC\u00caUTICA, E, USOS DOCOMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/945,294",
+            "priorityDate": "20/06/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/041,178",
+            "priorityDate": "31/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2803"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2805"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2807"
+        }
+    ],
+    "inventors": [
+        "STEPHEN J BAKER",
+        "VINCENT S HERNANDEZ",
+        "RASHMI SHARMA",
+        "JAMES A NIEMAN",
+        "TSUTOMA AKAMA",
+        "KANG ZHANG",
+        "JACOB J PLATTNER",
+        "MICHAEL RICHARD KEVIN ALLEY",
+        "RAJESHWAR SINGH",
+        "MINH HA",
+        "XIAOSONG LU",
+        "EL MEHDI KERAMANE",
+        "HUCHEN ZHOU",
+        "YI XIA",
+        "JAMES G PHILIPS",
+        "RAHIM MOHAMMAD"
+    ],
+    "holders": [
+        109941
+    ],
+    "ipcCodes": [
+        "A01N 55/08",
+        "A61K 31/69"
+    ]
+}

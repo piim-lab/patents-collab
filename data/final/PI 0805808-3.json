@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "PI 0805808-3",
+    "filingDate": "07/03/2008",
+    "grantDate": "04/12/2018",
+    "title": "CARTUCHO, E, IMPRESSORA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-069062",
+            "priorityDate": "16/03/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-069061",
+            "priorityDate": "16/03/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-069063",
+            "priorityDate": "16/03/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-069064",
+            "priorityDate": "16/03/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-075401",
+            "priorityDate": "22/03/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-016843",
+            "priorityDate": "28/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "MINORU TANABE",
+        "ETSURO SUZUKI",
+        "MASAHIKO CHAYA",
+        "KENJI ITO"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "B41J 15/04"
+    ]
+}

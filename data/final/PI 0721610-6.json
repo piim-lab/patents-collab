@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0721610-6",
+    "filingDate": "08/11/2007",
+    "grantDate": "05/02/2019",
+    "title": "M\u00c1QUINA DE ETIQUETAGEM.",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RM2007A000258",
+            "priorityDate": "08/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "GIORGIO ARENA"
+    ],
+    "holders": [
+        388541
+    ],
+    "ipcCodes": [
+        "B65C 11/02"
+    ]
+}

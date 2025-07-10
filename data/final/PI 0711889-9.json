@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0711889-9",
+    "filingDate": "24/05/2007",
+    "grantDate": "24/12/2019",
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE SINVASTATINA, COMPOSI\u00c7\u00c3O DE MAT\u00c9RIA, M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE HUVASTATINA, M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE SINVASTATINA, E M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE UMA COMPOSI\u00c7\u00c3O DE MAT\u00c9RIA DE SINVASTATINA OU HUVASTATINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/808.088",
+            "priorityDate": "24/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "YI TANG",
+        "XINKAI XIE"
+    ],
+    "holders": [
+        23919
+    ],
+    "ipcCodes": [
+        "C12P 21/06"
+    ]
+}

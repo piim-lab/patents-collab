@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "PI 0912041-6",
+    "filingDate": "27/05/2009",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O E M\u00c9TODOS PARA A DETEC\u00c7\u00c3O DE ABERRRA\u00c7\u00d5ES CROMOSS\u00d4MICAS COM TAMP\u00d5ES DE HIBRIDIZA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "26/11/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2009/006548",
+        "pctDate": "27/05/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/056,089",
+            "priorityDate": "27/05/2008"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "pa200800727",
+            "priorityDate": "27/05/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/155,683",
+            "priorityDate": "26/02/2009"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "pa200900278",
+            "priorityDate": "27/02/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        }
+    ],
+    "inventors": [
+        "STEEN HAUGE MATTHIESEN",
+        "KENNETH H PETERSEN",
+        "TIM SVENSTRUP POULSEN"
+    ],
+    "holders": [
+        259827
+    ],
+    "ipcCodes": [
+        "C12Q 1/68"
+    ]
+}

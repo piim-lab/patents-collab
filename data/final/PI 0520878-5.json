@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0520878-5",
+    "filingDate": "08/03/2005",
+    "grantDate": "21/11/2018",
+    "title": "PROCESSO, DISPOSITIVO DE COMANDO E DISPOSITIVO DE ACIONAMENTO PARA SOLTURA DE UMA CARGA GRUDADA DA PAREDE INTERNA DE UM TUBO DE MOAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2004 015 057.5",
+            "priorityDate": "25/03/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/03/2005",
+        "applicationNumber": "PI 0509198-5"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "NORBERT BECKER",
+        "STEFAN SMITS",
+        "KURT TISCHLER"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "B02C 17/18",
+        "B02C 17/24",
+        "B02C 25/00",
+        "B02C 23/04"
+    ]
+}

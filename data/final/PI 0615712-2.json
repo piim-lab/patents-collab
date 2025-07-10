@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0615712-2",
+    "filingDate": "22/08/2006",
+    "grantDate": null,
+    "title": "DADOS ARMAZENADOS EM UM MEIO LEG\u00cdVEL POR COMPUTADOR, M\u00c9TODO PARA EXECU\u00c7\u00c3O EM UM CONTROLADOR DE REDE VIA R\u00c1DIO E EM UM ELEMENTO DE REDE, APARELHO EM UM CONTROLADOR DE REDE VIA R\u00c1DIO E APARELHO DE UM ELEMENTO DE REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/710,981",
+            "priorityDate": "23/08/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/719,409",
+            "priorityDate": "21/09/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/726,320",
+            "priorityDate": "12/10/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/730,610",
+            "priorityDate": "26/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        }
+    ],
+    "inventors": [
+        "TUOMAS HAKULI",
+        "MASATOSHI NAKAMATA"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04W 36/38",
+        "H04W 36/18",
+        "H04W 92/22"
+    ]
+}

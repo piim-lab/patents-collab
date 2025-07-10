@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0708532-0",
+    "filingDate": "01/03/2007",
+    "grantDate": null,
+    "title": "CORREIA DE TRANSMISS\u00c3O DE POT\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "06 01923",
+            "priorityDate": "03/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "MARIE DIEUDONNE",
+        "PHILIPPE SONNTAG",
+        "HERV\u00c9 VARIN",
+        "LOUP CRETIN",
+        "JULIE ROGNON",
+        "DENIS TRICOCHE",
+        "HERV\u00c9 VARIN"
+    ],
+    "holders": [
+        5304
+    ],
+    "ipcCodes": [
+        "F16G 1/00",
+        "B29D 29/00",
+        "F16G 1/28",
+        "B29D 29/08",
+        "F16G 1/04"
+    ]
+}

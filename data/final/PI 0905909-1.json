@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0905909-1",
+    "filingDate": "06/02/2009",
+    "grantDate": null,
+    "title": "\"C\u00c1PSULA PARA UM FECHAMENTO DE GARRAFA E FECHAMENTO DE GARRAFA\"",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P200800349",
+            "priorityDate": "08/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "DAVID TORRENT ORTEGA"
+    ],
+    "holders": [
+        399700
+    ],
+    "ipcCodes": [
+        "B65D 51/18",
+        "B65D 41/62",
+        "B65D 49/04"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0713321-9",
+    "filingDate": "26/06/2007",
+    "grantDate": null,
+    "title": "APROXIMA\u00c7\u00d5ES EFICIENTES PARA PONTO FIXO DE TRANSFORMADAS DE COSSENO DISCRETAS DIRETAS E INVERSAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/816,697",
+            "priorityDate": "26/06/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/841,362",
+            "priorityDate": "30/08/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/847,194",
+            "priorityDate": "25/09/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/829,669",
+            "priorityDate": "16/10/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/869,530",
+            "priorityDate": "11/12/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/883,932",
+            "priorityDate": "08/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "YURIY REZNIK"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04N 19/61",
+        "H04N 19/44",
+        "G06F 17/14"
+    ]
+}

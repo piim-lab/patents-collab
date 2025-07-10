@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0800956-2",
+    "filingDate": "17/03/2008",
+    "grantDate": null,
+    "title": "GRAMPO DE FECHO COM FUNDO REDONDO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 012 776.8",
+            "priorityDate": "16/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        }
+    ],
+    "inventors": [
+        "HEIKO SCHLEUCHER",
+        "KLAUS HEIN"
+    ],
+    "holders": [
+        2118
+    ],
+    "ipcCodes": [
+        "B65D 33/16"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0809284-2",
+    "filingDate": "19/12/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA O ACABAMENTO DE UM CANTO LATERAL DE UM PAINEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 062 430.3",
+            "priorityDate": "20/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "ROGER BRAUN",
+        "WOLFGANG GOLLATZ"
+    ],
+    "holders": [
+        81110
+    ],
+    "ipcCodes": [
+        "E04F 15/04",
+        "B27F 1/04",
+        "B27F 1/08",
+        "B27F 5/02"
+    ]
+}

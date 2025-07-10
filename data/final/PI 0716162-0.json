@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0716162-0",
+    "filingDate": "27/07/2007",
+    "grantDate": null,
+    "title": "ENGRENAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 042 786.6",
+            "priorityDate": "08/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "THOMAS BAYER",
+        "MICHAEL SCHMIDT"
+    ],
+    "holders": [
+        35903
+    ],
+    "ipcCodes": [
+        "F16H 49/00",
+        "F16H 25/06"
+    ]
+}

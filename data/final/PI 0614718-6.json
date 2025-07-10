@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0614718-6",
+    "filingDate": "05/07/2006",
+    "grantDate": null,
+    "title": "APARELHO RETRANSMISSOR DE SINAL DE TRANSMISS\u00c3O DE TELEVIS\u00c3O DIGITAL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-227263",
+            "priorityDate": "04/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "MASATOSHI MAGARIFUCHI"
+    ],
+    "holders": [
+        135951
+    ],
+    "ipcCodes": [
+        "H04B 7/15",
+        "H04J 1/02"
+    ]
+}

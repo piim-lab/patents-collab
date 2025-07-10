@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0418729-6",
+    "filingDate": "03/11/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE UMA COMPOSI\u00c7\u00c3O COSM\u00c9TICA DE CAF\u00c9-CEREJA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/560,865",
+            "priorityDate": "08/04/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/618,900",
+            "priorityDate": "12/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [
+        "DUSAN MILJKOVIC"
+    ],
+    "holders": [
+        187564
+    ],
+    "ipcCodes": [
+        "A61Q 19/00",
+        "A61K 8/97",
+        "A61Q 5/02",
+        "A61K 36/74"
+    ]
+}

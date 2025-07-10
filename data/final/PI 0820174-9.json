@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0820174-9",
+    "filingDate": "11/11/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FORMAR UM MODELO GEOL\u00d3GICO DE UMA REGI\u00c3O DA TERRA E M\u00c9TODO PARA PERFURAR UM FURO EM UMA REGI\u00c3O DA TERRA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0722469.4",
+            "priorityDate": "16/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "BJORN TORSTEIN BRUUN",
+        "ERIK NYRNES",
+        "JO EIDSVIK"
+    ],
+    "holders": [
+        80127
+    ],
+    "ipcCodes": [
+        "G01V 1/28",
+        "G01V 1/30"
+    ]
+}

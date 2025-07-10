@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0907533-0",
+    "filingDate": "25/02/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA TESTAR UM REVESTIMENTO PARA BASE DE P\u00c1",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0851181",
+            "priorityDate": "25/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        }
+    ],
+    "inventors": [
+        "ALAIN BASSOT",
+        "LAURENT DUDON",
+        "CLAIRE PERRIAU"
+    ],
+    "holders": [
+        79254
+    ],
+    "ipcCodes": [
+        "G01N 3/56",
+        "F01D 5/28"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0615126-4",
+    "filingDate": "18/07/2006",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O NUTRIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-248187",
+            "priorityDate": "29/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "ITARU KON",
+        "NAOKI HAYASHI",
+        "HISAYUKI UNEYAMA",
+        "SHINJI SOMEKAWA",
+        "TATSURO TANAKA"
+    ],
+    "holders": [
+        2988
+    ],
+    "ipcCodes": [
+        "A61P 1/00",
+        "A61K 38/00",
+        "A61P 1/04",
+        "A61P 11/00",
+        "A61P 3/02"
+    ]
+}

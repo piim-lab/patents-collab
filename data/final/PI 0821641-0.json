@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0821641-0",
+    "filingDate": "22/12/2008",
+    "grantDate": null,
+    "title": "APARELHO DE VIS\u00c3O DE EMERG\u00caNCIA PARA PROVER A UM OPERADOR ACESSO VISUAL A INFORMA\u00c7\u00c3O DURANTE UMA EMERG\u00caNCIA DE FUMA\u00c7A.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/008590",
+            "priorityDate": "21/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/006504",
+            "priorityDate": "17/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/232058",
+            "priorityDate": "10/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "DAVID JENKINS",
+        "BERTIL R L WERJEFELT"
+    ],
+    "holders": [
+        80235
+    ],
+    "ipcCodes": [
+        "G02B 6/00",
+        "G02B 27/01",
+        "B64D 43/00"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0902018-7",
+    "filingDate": "30/06/2009",
+    "grantDate": null,
+    "title": "TAMPA COM ROSCA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 031 736.5",
+            "priorityDate": "04/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "ART \u00ba \u00a7 \u00ba DA LPI E ITEM DO ATO NORMATIVO N\u00ba"
+    ],
+    "holders": [
+        1354
+    ],
+    "ipcCodes": [
+        "B65D 43/02",
+        "B65D 39/08"
+    ]
+}

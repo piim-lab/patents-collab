@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0414052-4",
+    "filingDate": "27/07/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA A COMUNICA\u00c7\u00c3O FACILITADA POR RETRANSMISS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/654.227",
+            "priorityDate": "03/09/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE J SARTORI",
+        "KEVIN L BAUM",
+        "BRIAN K CLASSON",
+        "MARK C CUDAK",
+        "VIJAY NANGIA",
+        "EUGENE VISOTSKY"
+    ],
+    "holders": [
+        21580
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04W 88/04"
+    ]
+}

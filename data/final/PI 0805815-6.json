@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0805815-6",
+    "filingDate": "29/01/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA BENEFICIA\u00c7\u00c3O DE UM MIN\u00c9RIO TITAN\u00cdFERO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/728,446",
+            "priorityDate": "26/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        }
+    ],
+    "inventors": [
+        "ANIMESH JHA",
+        "EPHRAIM JEYA KUMARI",
+        "ABHISHEK LAHIRI"
+    ],
+    "holders": [
+        111368
+    ],
+    "ipcCodes": [
+        "C01G 23/047"
+    ]
+}

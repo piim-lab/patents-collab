@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0517561-5",
+    "filingDate": "04/11/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO DE MULTIPLEXA\u00c7\u00c3O PARA MULTIPLEXAR PACOTES DE DADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0424918.1",
+            "priorityDate": "11/11/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        }
+    ],
+    "inventors": [
+        "PAUL BUCKNELL",
+        "MATTHEW P J BAKER",
+        "TIMOTHY J MOULSLEY"
+    ],
+    "holders": [
+        80352
+    ],
+    "ipcCodes": [
+        "H04L 12/801",
+        "H04W 72/12",
+        "H04L 12/875",
+        "H04L 12/863",
+        "H04W 28/14"
+    ]
+}

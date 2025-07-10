@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0613478-5",
+    "filingDate": "29/06/2006",
+    "grantDate": "09/07/2019",
+    "title": "DISPOSITIVO PARA AN\u00c1LISE QUANTITATIVA DE UM PERFIL DE METAB\u00d3LITO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/694,983",
+            "priorityDate": "30/06/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/694,984",
+            "priorityDate": "30/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "RAMSAY STEVEN LEWIS",
+        "GUGGENBICHLER WOLFGANG",
+        "WEINBERGER KLAUS MICHAEL",
+        "GRABER ARMIN",
+        "ST\u00d6GGL WOLFGANG MARKUS"
+    ],
+    "holders": [
+        180895
+    ],
+    "ipcCodes": [
+        "G01N 33/50"
+    ]
+}

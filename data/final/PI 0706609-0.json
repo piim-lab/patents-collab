@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0706609-0",
+    "filingDate": "17/01/2007",
+    "grantDate": null,
+    "title": "ATUADOR DE LEVANTAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/759,462",
+            "priorityDate": "17/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/623,710",
+            "priorityDate": "16/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        }
+    ],
+    "inventors": [
+        "JAMES STOCKMASTER",
+        "JIM ALDAY",
+        "BRIAN PEETS",
+        "PETER LIU",
+        "ROBERT DEVORIA",
+        "JOHN PEMBROKE",
+        "BLAKE REESE"
+    ],
+    "holders": [
+        159397
+    ],
+    "ipcCodes": [
+        "B66D 1/48"
+    ]
+}

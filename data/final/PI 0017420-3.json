@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0017420-3",
+    "filingDate": "07/09/2000",
+    "grantDate": "06/10/2020",
+    "title": "COMPOSI\u00c7\u00c3O DE VACINA, HPV 16 L1 E HPV 18 L1 VPL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "99211146.8",
+            "priorityDate": "07/09/1999"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/09/2000",
+        "applicationNumber": "PI 0014171-2"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "MONCEF MOHAMMED SLAOUI"
+    ],
+    "holders": [
+        369289
+    ],
+    "ipcCodes": [
+        "A61K 39/00"
+    ]
+}

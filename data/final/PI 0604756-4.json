@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0604756-4",
+    "filingDate": "14/11/2006",
+    "grantDate": null,
+    "title": "CERA CRISTALINA DESTILADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/273,798",
+            "priorityDate": "14/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "RAJ D PATEL",
+        "DAVID J SANDERS",
+        "TIE HWEE NG",
+        "STEPHAN V DRAPPEL",
+        "SANDRA J GARDNER",
+        "SONJA HADZIDEDIC",
+        "LOUIS V ISGANITIS",
+        "TIMOTHY L LINCOLN",
+        "KEVIN F MARCELL"
+    ],
+    "holders": [
+        456
+    ],
+    "ipcCodes": [
+        "G03G 9/087",
+        "C11C 1/00"
+    ]
+}

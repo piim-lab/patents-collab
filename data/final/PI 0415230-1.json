@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "PI 0415230-1",
+    "filingDate": "08/10/2004",
+    "grantDate": null,
+    "title": "ANTICORPO BIESPEC\u00cdFICO DE SUBSTITUI\u00c7\u00c3O DE PROTE\u00cdNAS FUNCIONAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "PCT/JP2003/013062",
+            "priorityDate": "10/10/2003"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "PCT/JP2003/013123",
+            "priorityDate": "14/10/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "KUNIHIRO HATTORI",
+        "TARO MIYAZAKI",
+        "TETSUHIRO SOEDA",
+        "TETSUO KOJIMA"
+    ],
+    "holders": [
+        86875
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C12N 15/09",
+        "C07K 16/46",
+        "A61P 7/04"
+    ]
+}

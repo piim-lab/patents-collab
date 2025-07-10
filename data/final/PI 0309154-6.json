@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0309154-6",
+    "filingDate": "08/04/2003",
+    "grantDate": "02/04/2019",
+    "title": "M\u00c9TODO PARA RASTREAR UM PRODUTO ANIMAL AT\u00c9 SEU SISTEMA OU FAZENDA DE ORIGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/370,870",
+            "priorityDate": "08/04/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "GRAHAM S PLASTOW",
+        "ALAN MILEHAM",
+        "TODD WILKEN",
+        "CHRISTY GLADNEY",
+        "JOHN BASTIAANSEN"
+    ],
+    "holders": [
+        371869
+    ],
+    "ipcCodes": [
+        "C07H 21/04",
+        "C12Q 1/68",
+        "G06F 17/00",
+        "C12P 19/34",
+        "C07H 21/02",
+        "C07H 19/00"
+    ]
+}

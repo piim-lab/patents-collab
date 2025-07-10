@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0716735-0",
+    "filingDate": "10/09/2007",
+    "grantDate": null,
+    "title": "RECIPIENTE DE MULTICAMADAS, E, BEBIDA ACONDICIONADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/825861",
+            "priorityDate": "15/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "YU SHI",
+        "XIAOYAN HUANG",
+        "MIKELL SCHULTHEIS",
+        "FRANCIS M SCHLOSS",
+        "ROBERT KRIEGEL"
+    ],
+    "holders": [
+        5359
+    ],
+    "ipcCodes": [
+        "B32B 27/18",
+        "B65D 65/40",
+        "B32B 27/08",
+        "B65D 81/24"
+    ]
+}

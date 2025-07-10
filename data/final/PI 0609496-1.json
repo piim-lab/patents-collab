@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "PI 0609496-1",
+    "filingDate": "27/03/2006",
+    "grantDate": "24/11/2020",
+    "title": "Derivado do \u00e9ster do \u00e1cido propi\u00f4nico",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-090831",
+            "priorityDate": "28/03/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-174738",
+            "priorityDate": "15/06/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-206808",
+            "priorityDate": "15/07/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-230666",
+            "priorityDate": "09/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "AKIHITO SAITOH",
+        "YOSHIAKI SUZUKI",
+        "KENJI YONEZAWA",
+        "MITSUHIDE KAWAMURA",
+        "TAKAHIKO KUSANAGI",
+        "TAKASHI NAKAI"
+    ],
+    "holders": [
+        110331
+    ],
+    "ipcCodes": [
+        "C07D 333/54",
+        "C07D 333/64"
+    ]
+}

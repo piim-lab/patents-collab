@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0800014-0",
+    "filingDate": "09/01/2008",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA GERA\u00c7\u00c3O DIN\u00c2MICA DE MODELOS OPERACIONAIS AMBIENTAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/621.333",
+            "priorityDate": "09/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "PAUL T ARTMAN",
+        "DAVID L MOSS",
+        "WEIJIA ZHANG"
+    ],
+    "holders": [
+        375158
+    ],
+    "ipcCodes": [
+        "G06K 13/00"
+    ]
+}

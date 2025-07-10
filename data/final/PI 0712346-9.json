@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0712346-9",
+    "filingDate": "06/06/2007",
+    "grantDate": "29/09/2020",
+    "title": "Processo para p\u00f3 farmac\u00eautico s\u00f3lido de tmc125, dispers\u00e3o s\u00f3lida e sua formula\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 115029.8",
+            "priorityDate": "06/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "FILIP RENE IRENE KIEKENS",
+        "JODY FIRMIN MARCELINE VOORSPOELS",
+        "LIEVEN ELVIRE COLETTE BAERT"
+    ],
+    "holders": [
+        91834
+    ],
+    "ipcCodes": [
+        "A61K 9/16",
+        "A61K 31/505"
+    ]
+}

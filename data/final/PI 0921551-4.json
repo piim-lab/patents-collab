@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0921551-4",
+    "filingDate": "17/11/2009",
+    "grantDate": "18/06/2019",
+    "title": "DISTRIBUIDOR E UNIDADE DE RECARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0820981.9",
+            "priorityDate": "17/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "ZHOU XIANZHI",
+        "DONG XIAO YOU",
+        "CHRISTOPHER LEONARD PADAIN",
+        "JACOBUS SIMON PETRUS VAN DIEPEN"
+    ],
+    "holders": [
+        94267
+    ],
+    "ipcCodes": [
+        "A47K 5/12",
+        "B67D 3/00",
+        "F16L 37/413"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0811828-0",
+    "filingDate": "18/06/2008",
+    "grantDate": null,
+    "title": "\"M\u00c9TODO DE PRODU\u00c7\u00c3O DE \u00c1CIDO L\u00c1TICO\"",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-172082",
+            "priorityDate": "29/06/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-198567",
+            "priorityDate": "31/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "MASATERU ITO",
+        "ICHI MINEGISHI",
+        "ERI SHIMIZU",
+        "KENJI SAWAI",
+        "YOHITO ITO",
+        "HIDEKI SAWAI",
+        "KATSUSHIGE YAMADA"
+    ],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": [
+        "B01D 61/02",
+        "B01D 71/56",
+        "C12N 15/09",
+        "B01D 61/14",
+        "C12P 7/56"
+    ]
+}

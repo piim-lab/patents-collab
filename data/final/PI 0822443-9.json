@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0822443-9",
+    "filingDate": "10/12/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UMA PLACA DE RESINA TRANSPARENTE, E, PLACA DE RESINA TRANSPARENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-053412",
+            "priorityDate": "04/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        }
+    ],
+    "inventors": [
+        "MAEDA SADAO"
+    ],
+    "holders": [
+        397615
+    ],
+    "ipcCodes": [
+        "B32B 27/00",
+        "B32B 27/36",
+        "B05D 3/06",
+        "B05D 5/06",
+        "B60J 1/00"
+    ]
+}

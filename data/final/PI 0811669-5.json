@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0811669-5",
+    "filingDate": "26/06/2008",
+    "grantDate": null,
+    "title": "M\u00e9todo, controlador de armazenamento e equipamento para prioriza\u00e7\u00e3o de interrup\u00e7\u00f5es em um controlador de armazenamento.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/772,734",
+            "priorityDate": "02/07/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/772,742",
+            "priorityDate": "02/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "BRIAN DOW CLARK",
+        "JUAN ALONSO CORONADO",
+        "BETH ANN PETERSON"
+    ],
+    "holders": [
+        33313
+    ],
+    "ipcCodes": [
+        "G06F 13/24"
+    ]
+}

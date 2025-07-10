@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0909780-5",
+    "filingDate": "05/03/2009",
+    "grantDate": null,
+    "title": "SUSPENS\u00c3O CONTENDO UMA PART\u00cdCULA COM SUPERF\u00cdCIE MODIFICADA, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA COMPREENDENDO A REFERIDA SUSPENS\u00c3O, M\u00c9TODO PARA APRIMORAR A ABSOR\u00c7\u00c3O CELULAR DE UM AGENTE ATIVO, USO DE PART\u00cdCULAS COM SUPERF\u00cdCIE MODIFICADA, E M\u00c9TODO DE PREPARA\u00c7\u00c3O DE UMA PART\u00cdCULA COM SUPERF\u00cdCIE MODIFICADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/068,151",
+            "priorityDate": "05/03/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/205,259",
+            "priorityDate": "20/01/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/148,917",
+            "priorityDate": "30/01/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "ARNAUD BEDUNEAU",
+        "HOWARD GENDELMAN",
+        "BARRETT RABINOW",
+        "JANE WERLING"
+    ],
+    "holders": [
+        92904,
+        87342,
+        92903
+    ],
+    "ipcCodes": [
+        "A61K 9/51",
+        "A61K 39/44",
+        "A61K 31/337"
+    ]
+}

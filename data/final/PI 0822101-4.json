@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0822101-4",
+    "filingDate": "09/10/2008",
+    "grantDate": null,
+    "title": "Processo para remover contaminantes de um fluxo de g\u00e1s",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/862,013",
+            "priorityDate": "31/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "ROLAND SCHMIDT",
+        "ROBERT W MORTON",
+        "JOSEPH B CROSS",
+        "ALBERT C TSANG",
+        "EDWARD L SUGHRUE II"
+    ],
+    "holders": [
+        81869
+    ],
+    "ipcCodes": [
+        "B01D 50/00",
+        "B01J 8/00",
+        "B01D 53/50"
+    ]
+}

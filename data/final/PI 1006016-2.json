@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 1006016-2",
+    "filingDate": "22/07/2010",
+    "grantDate": null,
+    "title": "PROCESSO PARA A DETERMINA\u00c7\u00c3O DE CORENTES",
+    "nationalPhaseDate": [
+        "15/06/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2010/004496",
+        "pctDate": "22/07/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2009 039 016.2",
+            "priorityDate": "28/08/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "DIETRICH FISCHENBERG"
+    ],
+    "holders": [
+        95928
+    ],
+    "ipcCodes": [
+        "B64C 23/06",
+        "G01P 5/00",
+        "G01P 21/02"
+    ]
+}

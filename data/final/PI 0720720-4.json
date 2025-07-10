@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0720720-4",
+    "filingDate": "21/12/2007",
+    "grantDate": "26/03/2019",
+    "title": "Composi\u00e7\u00e3o de Carga de Fluxo Livre e Composi\u00e7\u00e3o de Borracha",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/648.460",
+            "priorityDate": "28/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "RICHARD W CRUSSE",
+        "W MICHAEL YORK",
+        "ERIC R POHL",
+        "PRASHANT JOSHI"
+    ],
+    "holders": [
+        79284
+    ],
+    "ipcCodes": [
+        "C08L 21/00",
+        "C08K 3/36",
+        "C08K 3/04",
+        "C08K 5/548",
+        "C08K 5/5419",
+        "C08L 81/04",
+        "C08K 5/372",
+        "C08G 75/14"
+    ]
+}

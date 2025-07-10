@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0812712-3",
+    "filingDate": "11/06/2008",
+    "grantDate": null,
+    "title": "PRODUTO, PROCESSO PARA PRODUZIR O PRODUTO, E, USO DO PRODUTO",
+    "nationalPhaseDate": [
+        "11/12/2009"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2008/057246",
+        "pctDate": "11/06/2008",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0755696",
+            "priorityDate": "12/06/2007"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0757751",
+            "priorityDate": "21/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/007661",
+            "priorityDate": "14/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/013672",
+            "priorityDate": "14/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "NOEL BOULOS",
+        "PHILIPPE KRAFFT",
+        "PATRICK GILBEAU",
+        "DOMINIQUE BALTHASART"
+    ],
+    "holders": [
+        386792
+    ],
+    "ipcCodes": [
+        "C07D 303/08"
+    ]
+}

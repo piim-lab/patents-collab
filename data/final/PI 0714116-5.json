@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0714116-5",
+    "filingDate": "26/07/2007",
+    "grantDate": null,
+    "title": "MAPEAMENTO DE ITENS DESCOBERTOS POR CONEX\u00c3O E EXECU\u00c7\u00c3O UNIVERSAL EM UMA LOCALIZA\u00c7\u00c3O DE SMB",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/495.420",
+            "priorityDate": "28/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "JAMES WALTER",
+        "DAN PLASTINA",
+        "KASY SRINIVAS",
+        "ANDERS KLEMENTS",
+        "WILLIAM F SCHIEFELBEIN"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 13/00",
+        "H04L 12/28"
+    ]
+}

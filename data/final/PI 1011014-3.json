@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 1011014-3",
+    "filingDate": "08/06/2010",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PRODU\u00c7\u00c3O.",
+    "nationalPhaseDate": [
+        "08/12/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2010/060003",
+        "pctDate": "08/06/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-138049",
+            "priorityDate": "09/06/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "SATOSHI SUGIURA"
+    ],
+    "holders": [
+        109017
+    ],
+    "ipcCodes": [
+        "C07C 327/48"
+    ]
+}

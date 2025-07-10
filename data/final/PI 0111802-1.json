@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0111802-1",
+    "filingDate": "11/05/2001",
+    "grantDate": "02/10/2018",
+    "title": "M\u00c9TODO DE DISTRIBUI\u00c7\u00c3O DE EXTENS\u00d5ES DE SOFTWARE BASEADAS EM REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/599.048",
+            "priorityDate": "21/06/2000"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "MICHAEL C MURRAY",
+        "PAUL R ERICKSON",
+        "OLIVER G FISHER",
+        "SURYANARAYANAN V RAMAN"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 9/445"
+    ]
+}

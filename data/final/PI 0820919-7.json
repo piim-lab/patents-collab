@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0820919-7",
+    "filingDate": "02/12/2008",
+    "grantDate": "31/07/2018",
+    "title": "PROCESSO PARA PREPARAR UM PIGMENTO QUE COMPREENDE UM CARBONATO DE C\u00c1LCIO PRECIPITADO REAGIDO NA SUPERF\u00cdCIE (PCC)",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07123077.5",
+            "priorityDate": "12/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/008,208",
+            "priorityDate": "19/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "DANIEL E GERARD",
+        "PATRICK AC GANE",
+        "JOACHIM WEITZEL",
+        "JOACHIM SCH\u00d6LKOPF"
+    ],
+    "holders": [
+        81654
+    ],
+    "ipcCodes": [
+        "D21H 17/67",
+        "C09C 1/02"
+    ]
+}

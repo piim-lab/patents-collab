@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0911610-9",
+    "filingDate": "15/05/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR PARA UMA CAMADA DE APLICA\u00c7\u00c3O PARA INICIAR E GERENCIAR A CRIA\u00c7\u00c3O, OPERA\u00c7\u00c3O E DESATIVA\u00c7\u00c3O DE UMA OU MAIS M\u00c1QUINAS VIRTUAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/138.591",
+            "priorityDate": "13/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "IGOR SEDUKHIN",
+        "DANIEL ESHNER",
+        "ROBERT M FRIES",
+        "MICHAEL O NEARY",
+        "ALEXANDER E NOSOV"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 9/455",
+        "G06F 9/445",
+        "G06F 8/61"
+    ]
+}

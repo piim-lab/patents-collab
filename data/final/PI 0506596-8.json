@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0506596-8",
+    "filingDate": "04/01/2005",
+    "grantDate": "13/11/2018",
+    "title": "M\u00c9TODO E DISPOSITIVO PARA DETECTAR A ORIENTA\u00c7\u00c3O DE UMA IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0400067",
+            "priorityDate": "06/01/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2667"
+        }
+    ],
+    "inventors": [
+        "JURGEN STAUDER",
+        "RONAN VIGOUROUX",
+        "BERTRAND CHUPEAU"
+    ],
+    "holders": [
+        34116
+    ],
+    "ipcCodes": [
+        "G06K 9/32",
+        "H04N 1/387",
+        "G06T 7/73"
+    ]
+}

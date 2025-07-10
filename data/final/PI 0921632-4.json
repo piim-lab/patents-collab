@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0921632-4",
+    "filingDate": "28/10/2009",
+    "grantDate": "23/03/2021",
+    "title": "PROCESSO PARA PREPARAR NEBIVOLOL",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2008A001924",
+            "priorityDate": "31/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "PAOLO MARAGNI",
+        "IVAN MICHIELETTO",
+        "RAFFAELLA VOLPICELLI",
+        "GIORGIO SORIATO",
+        "JOHNNY FOLETTO",
+        "LIVIUS COTARCA",
+        "MASSIMO VERZINI"
+    ],
+    "holders": [
+        80651
+    ],
+    "ipcCodes": [
+        "C07D 311/58"
+    ]
+}

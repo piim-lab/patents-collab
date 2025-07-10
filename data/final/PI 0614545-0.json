@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0614545-0",
+    "filingDate": "15/08/2006",
+    "grantDate": "31/03/2020",
+    "title": "COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS DE LIBERA\u00c7\u00c3O CONTROLADA PARA F\u00c1RMACOS INST\u00c1VEIS EM \u00c1CIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05 107472.2",
+            "priorityDate": "15/08/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/708,692",
+            "priorityDate": "15/08/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "JUERGEN KOELLN",
+        "FRITHJOF SCZESNY",
+        "JENS ONKEN",
+        "ANDREAS KOERNER",
+        "GEORGE SHLIEOUT"
+    ],
+    "holders": [
+        376014
+    ],
+    "ipcCodes": [
+        "A61K 38/46",
+        "A61K 9/36"
+    ]
+}

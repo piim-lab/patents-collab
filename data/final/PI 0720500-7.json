@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0720500-7",
+    "filingDate": "18/12/2007",
+    "grantDate": null,
+    "title": "Prepara\u00e7\u00e3o l\u00edquida transd\u00e9rmica",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/870,907",
+            "priorityDate": "20/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        }
+    ],
+    "inventors": [
+        "CHEYNEY MEADOWS",
+        "KEITH ALAN FREEHAUF",
+        "ROBERT D SIMMONS",
+        "ALLAN J WEINGARTEN"
+    ],
+    "holders": [
+        109391
+    ],
+    "ipcCodes": [
+        "A61K 9/00"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0507630-7",
+    "filingDate": "11/02/2005",
+    "grantDate": "17/07/2018",
+    "title": "M\u00c1QUINA HIDR\u00c1ULICA ROTATIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/776,768",
+            "priorityDate": "11/02/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/776,769",
+            "priorityDate": "11/02/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/776,770",
+            "priorityDate": "11/02/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/776,771",
+            "priorityDate": "11/02/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/776,772",
+            "priorityDate": "11/02/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2590"
+        }
+    ],
+    "inventors": [
+        "GEORGE KADLICKO"
+    ],
+    "holders": [
+        375759
+    ],
+    "ipcCodes": [
+        "F04B 49/00",
+        "F04B 1/30"
+    ]
+}

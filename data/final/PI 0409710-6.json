@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0409710-6",
+    "filingDate": "14/04/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO E L\u00d3GICA CONT\u00c1BIL PARA DETERMINAR A UTILIZA\u00c7\u00c3O DE RECURSO DE PROCESSADOR PER-THREAD EM UM PROCESSADOR DE M\u00daLTIPLOS THREADS SIMULT\u00c2NEOS (SMT)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/422,025",
+            "priorityDate": "23/04/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "WILLIAM JOSEPH ARMSTRONG",
+        "MICHAEL STEPHEN FLOYD",
+        "LARRY SCOTT LEITNER",
+        "RONALD NICK KALLA",
+        "BALARAM SINHAROY"
+    ],
+    "holders": [
+        33313
+    ],
+    "ipcCodes": [
+        "G06F 9/38",
+        "G06F 11/34"
+    ]
+}

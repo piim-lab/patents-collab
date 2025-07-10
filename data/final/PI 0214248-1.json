@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0214248-1",
+    "filingDate": "19/11/2002",
+    "grantDate": "08/07/2014",
+    "title": "M\u00e9todo e aparelho para redu\u00e7\u00e3o de biocarga",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/331,519",
+            "priorityDate": "19/11/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.13",
+            "description": "Anota\u00e7\u00e3o de Limita\u00e7\u00e3o ou \u00d4nus",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "DAVID HOWE",
+        "MICHAEL HOWE",
+        "MAREK JANASEK"
+    ],
+    "holders": [
+        371204,
+        371205,
+        371206,
+        371207
+    ],
+    "ipcCodes": [
+        "A61L 2/07"
+    ]
+}

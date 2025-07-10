@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0807754-1",
+    "filingDate": "26/02/2008",
+    "grantDate": null,
+    "title": "Conjunto de cobertura de capacete cir\u00fargico, capacete cir\u00fargico e equipamento cir\u00fargico",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/710,699",
+            "priorityDate": "26/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "MARK S DILLON",
+        "YOUZHEN DING",
+        "RODNEY ALDRIDGE",
+        "JOHNNY D ELLIS"
+    ],
+    "holders": [
+        104834
+    ],
+    "ipcCodes": [
+        "A41D 13/11",
+        "A42B 3/00",
+        "A62B 18/04"
+    ]
+}

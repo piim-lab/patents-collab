@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0309437-5",
+    "filingDate": "13/03/2003",
+    "grantDate": "10/09/2019",
+    "title": "M\u00c9TODO PARA ACESSAR UMA PRIMEIRA REDE UTILIZANDO UM DISPOSITIVO M\u00d3VEL ASSOCIADO A UMA SEGUNDA REDE E APARELHO PARA ACESSAR UMA PRIMEIRA REDE ATRAV\u00c9S DE UMA SEGUNDA REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/376,100",
+            "priorityDate": "26/04/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "JUNBIAO ZHANG",
+        "CHARLES CHUANMING WANG",
+        "JUN LI"
+    ],
+    "holders": [
+        370199
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04L 9/32",
+        "H04L 9/08"
+    ]
+}

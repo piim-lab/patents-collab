@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "PI 0605865-5",
+    "filingDate": "01/02/2006",
+    "grantDate": "03/09/2019",
+    "title": "CODIFICA\u00c7\u00c3O HIER\u00c1RQUICA DE \u00c1UDIO MULTICANAIS COM INFORMA\u00c7\u00d5ES COLATERAIS COMPACTAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/671,544",
+            "priorityDate": "15/04/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/314,711",
+            "priorityDate": "21/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2769"
+        }
+    ],
+    "inventors": [
+        "HOELZER ANDREAS",
+        "HERRE JUERGEN",
+        "ROEDEN JONAS",
+        "PURNHAGEN HEIKO",
+        "KJOERLING KRISTOFER",
+        "ENGDEGARD JONAS",
+        "BREEBAART JEROEN",
+        "SCHUIJERS ERIK",
+        "OOMEN WERNER",
+        "VILLEMOES LARS"
+    ],
+    "holders": [
+        80450,
+        82053,
+        78782
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "G10L 19/008"
+    ]
+}

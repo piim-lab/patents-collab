@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0922380-0",
+    "filingDate": "08/12/2009",
+    "grantDate": null,
+    "title": "MECANISMO DE FALHA PARA CONEX\u00c3O MEC\u00c2NICA.",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2008906335",
+            "priorityDate": "08/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "HUGHES BENJAMIN DAVID"
+    ],
+    "holders": [
+        9548
+    ],
+    "ipcCodes": [
+        "E02F 9/28"
+    ]
+}

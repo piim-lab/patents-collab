@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0713393-6",
+    "filingDate": "05/07/2007",
+    "grantDate": null,
+    "title": "CONTROLE DE FRENAGEM DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0613286.4",
+            "priorityDate": "05/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        }
+    ],
+    "inventors": [
+        "MICHAEL F CLOTHIER"
+    ],
+    "holders": [
+        223371
+    ],
+    "ipcCodes": [
+        "B60T 8/17",
+        "B64C 25/46"
+    ]
+}

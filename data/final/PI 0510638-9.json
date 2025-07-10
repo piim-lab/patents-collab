@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0510638-9",
+    "filingDate": "27/04/2005",
+    "grantDate": null,
+    "title": "FECHO DE DOSAR E DISPENSAR, E APARELHO DE DISPENSAR P\u00d3",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/709,449",
+            "priorityDate": "06/05/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "JAMES W LIVINGSTON",
+        "M RINLEY DEEDS"
+    ],
+    "holders": [
+        90929
+    ],
+    "ipcCodes": [
+        "G01F 11/46"
+    ]
+}

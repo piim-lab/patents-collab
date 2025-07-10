@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0703425-3",
+    "filingDate": "17/08/2007",
+    "grantDate": "10/07/2018",
+    "title": "ROUPA DE BANHO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0625102.9",
+            "priorityDate": "15/12/2006"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0706766.3",
+            "priorityDate": "05/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "JASON RANCE",
+        "DEBORAH YEOMANS",
+        "MELANIE SIMMONS"
+    ],
+    "holders": [
+        128014
+    ],
+    "ipcCodes": [
+        "A41D 13/00",
+        "A41D 13/012"
+    ]
+}

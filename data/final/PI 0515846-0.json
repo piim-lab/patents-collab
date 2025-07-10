@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0515846-0",
+    "filingDate": "24/10/2005",
+    "grantDate": "20/10/2020",
+    "title": "COMPOSI\u00c7\u00c3O DE HIGIENE PESSOAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/972,483",
+            "priorityDate": "25/10/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/222,104",
+            "priorityDate": "08/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "BIJAN HARICHIAN",
+        "RICHARD LOREN MCMANUS",
+        "MEGAN KATHLEEN HURLEY",
+        "PHILIP EDWARD MINER",
+        "PREM CHANDAR",
+        "STEPHEN ROY BARROW"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "A61Q 19/00",
+        "A61Q 5/02",
+        "A61Q 1/02",
+        "A61K 8/34",
+        "A61Q 15/00",
+        "A61Q 19/10",
+        "A61Q 5/12",
+        "A61Q 11/00",
+        "A61K 8/41"
+    ]
+}

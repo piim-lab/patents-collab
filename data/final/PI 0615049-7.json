@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0615049-7",
+    "filingDate": "14/08/2006",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE CONJUGADOS DE MEDICAMENTO PURIFICADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/710,858",
+            "priorityDate": "24/08/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/797,713",
+            "priorityDate": "04/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "YONG DAI",
+        "YONG WANG",
+        "SHENGJIN JIN",
+        "DEBORAH H MESHULAM",
+        "GODFREY W AMPHLETT"
+    ],
+    "holders": [
+        97652
+    ],
+    "ipcCodes": [
+        "C07K 16/28",
+        "A61K 47/68"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "PI 0819293-6",
+    "filingDate": "20/11/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE MAT\u00c9RIA-PRIMA PARA A PRODU\u00c7\u00c3O DE MIN\u00c9RIO SINTERIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-302510",
+            "priorityDate": "22/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "25.13",
+            "description": "Anota\u00e7\u00e3o de Limita\u00e7\u00e3o ou \u00d4nus",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "25.13",
+            "description": "Anota\u00e7\u00e3o de Limita\u00e7\u00e3o ou \u00d4nus",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "HIDEAKI SATO",
+        "KOICHI NUSHIRO",
+        "TAKAHIDE HIGUCHI"
+    ],
+    "holders": [
+        192,
+        1442
+    ],
+    "ipcCodes": [
+        "C22B 1/16",
+        "C22B 1/244",
+        "C22B 1/243"
+    ]
+}

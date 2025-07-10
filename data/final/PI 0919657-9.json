@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0919657-9",
+    "filingDate": "20/10/2009",
+    "grantDate": null,
+    "title": "MEMBRANA IMPERME\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/107,809",
+            "priorityDate": "23/10/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/247,374",
+            "priorityDate": "30/09/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "ROBERT A WIERCINSKI",
+        "ANANDAKUMAR RANGANATHAN"
+    ],
+    "holders": [
+        96548
+    ],
+    "ipcCodes": [
+        "C09J 7/20",
+        "E04D 5/10",
+        "B32B 7/04",
+        "E02D 31/00",
+        "E04B 1/66",
+        "E01D 19/08"
+    ]
+}

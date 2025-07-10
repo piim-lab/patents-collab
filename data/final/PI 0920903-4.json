@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0920903-4",
+    "filingDate": "13/11/2009",
+    "grantDate": "12/02/2019",
+    "title": "APARELHO DE EMPACOTAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MO2008A000306",
+            "priorityDate": "27/11/2008"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MO2008A000309",
+            "priorityDate": "27/11/2008"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MO2008A000308",
+            "priorityDate": "27/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "FABIO CARNEVALI",
+        "ROBERTO STEFANI",
+        "GIOVANNI SAVORANI"
+    ],
+    "holders": [
+        39828
+    ],
+    "ipcCodes": [
+        "B65B 41/06",
+        "B65B 13/18",
+        "B65B 49/08",
+        "B65B 23/20"
+    ]
+}

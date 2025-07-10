@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0519779-1",
+    "filingDate": "06/12/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO EXECUTADO POR UM DISPOSITIVO DE COMUNICA\u00c7\u00c3O SEM FIO, DISPOSITIVO DE COMUNICA\u00c7\u00c3O SEM FIO, SISTEMA E CIRCUITO INTEGRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/638,903",
+            "priorityDate": "23/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        }
+    ],
+    "inventors": [
+        "BENOIST S\u00c9BIRE",
+        "ESA MALKAM\u00c4KI"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04W 28/06",
+        "H04W 74/04"
+    ]
+}

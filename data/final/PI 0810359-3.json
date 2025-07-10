@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0810359-3",
+    "filingDate": "16/04/2008",
+    "grantDate": "23/07/2019",
+    "title": "PARAFUSO DE AJUSTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/913084",
+            "priorityDate": "20/04/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/098568",
+            "priorityDate": "07/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "JASON S MEVIUS",
+        "GREGORY LAWRENCE FOUST",
+        "JAMES CHESTER HAWKINS"
+    ],
+    "holders": [
+        90026
+    ],
+    "ipcCodes": [
+        "F16B 23/00"
+    ]
+}

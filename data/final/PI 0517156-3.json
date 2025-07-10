@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0517156-3",
+    "filingDate": "07/12/2005",
+    "grantDate": "06/08/2019",
+    "title": "Filme poroso e dispositivo eletroqu\u00edmico",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0102535",
+            "priorityDate": "07/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "KOO KIM",
+        "YOUNG LEE",
+        "HO AHN",
+        "DON SUK",
+        "HANG YONG"
+    ],
+    "holders": [
+        83273,
+        377486
+    ],
+    "ipcCodes": [
+        "H01M 10/0525",
+        "H01M 2/16"
+    ]
+}

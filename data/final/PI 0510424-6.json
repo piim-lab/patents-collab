@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0510424-6",
+    "filingDate": "02/03/2005",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE PLACAS DE CIRCUITOS IMPRESSOS E/OU CONSTRUCTOS CORRESPONDENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "10",
+            "priorityNumber": "2004 021 062.4",
+            "priorityDate": "29/04/2004 DE"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        }
+    ],
+    "inventors": [
+        "GEORG BUSCH"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H05K 1/11",
+        "H05K 1/00",
+        "H05K 3/42",
+        "H05K 3/40"
+    ]
+}

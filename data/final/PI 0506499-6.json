@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "PI 0506499-6",
+    "filingDate": "19/01/2005",
+    "grantDate": null,
+    "title": "SISTEMA AVAN\u00c7ADO DE DESAGUAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/768,423",
+            "priorityDate": "30/01/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/580,663",
+            "priorityDate": "17/06/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/581,500",
+            "priorityDate": "21/06/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/972,408",
+            "priorityDate": "26/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        }
+    ],
+    "inventors": [
+        "THOMAS SCHERB THOR\u00d6E",
+        "HUBERT WALKENHAUS",
+        "JEFFREY HERMAN",
+        "LUIZ CARLOS SILVA"
+    ],
+    "holders": [
+        369645
+    ],
+    "ipcCodes": [
+        "D21F 7/08",
+        "D21F 3/02",
+        "D21F 1/00",
+        "D21F 11/00"
+    ]
+}

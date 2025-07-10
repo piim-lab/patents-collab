@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0915566-0",
+    "filingDate": "02/07/2009",
+    "grantDate": null,
+    "title": "EMBALAGEM BLISTER PARA SUPLEMENTO PROBI\u00d3TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/168,400",
+            "priorityDate": "07/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        }
+    ],
+    "inventors": [
+        "GEORGE SCOTT KERR",
+        "GREGORY DEAN SUNVOLD",
+        "LAWRENCE ANDREW SCHUMACHER",
+        "DAVID WILLIAM SCHULLER",
+        "ROBBERT H TER HAAR",
+        "MICHAEL J BITTNER"
+    ],
+    "holders": [
+        81186
+    ],
+    "ipcCodes": [
+        "B65D 83/04",
+        "B65D 75/36"
+    ]
+}

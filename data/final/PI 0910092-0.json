@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0910092-0",
+    "filingDate": "27/03/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DISTRIBUI\u00c7\u00c3O DE DOSES PREDETERMINADAS DE L\u00cdQUIDO.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0851994",
+            "priorityDate": "27/03/2008"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0805717",
+            "priorityDate": "15/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "GAETAN PAINCHAUD",
+        "SYLVAIN LANZI",
+        "XAVIER JULIA",
+        "GUILLAUME GREVIN"
+    ],
+    "holders": [
+        84260
+    ],
+    "ipcCodes": [
+        "A61F 9/00",
+        "A61J 1/14",
+        "B65D 47/20",
+        "B65D 47/18"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0702969-1",
+    "filingDate": "16/07/2007",
+    "grantDate": null,
+    "title": "PROCESSO DE ADSOR\u00c7\u00c3O POR MODULA\u00c7\u00c3O DE PRESS\u00c3O PARA SEPARA\u00c7\u00c3O DE UMA MISTURA GASOSA DE ALIMENTA\u00c7\u00c3O CONTENDO DOIS OU MAIS COMPONENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/490.003",
+            "priorityDate": "20/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "SANG KOOK LEE",
+        "JUSTIN DAVID BUKOWSKI",
+        "CAROLYN TAYLOR ZELSON",
+        "MARK EPHRAIM LEVINE"
+    ],
+    "holders": [
+        780
+    ],
+    "ipcCodes": [
+        "B01J 8/02",
+        "B01D 53/02",
+        "B01D 53/047",
+        "B01D 53/053"
+    ]
+}

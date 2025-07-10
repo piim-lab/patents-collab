@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 9711437-5",
+    "filingDate": "22/08/1997",
+    "grantDate": "16/05/2017",
+    "title": "DERIVADOS DE GLP-1",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "DK0931/96",
+            "priorityDate": "30/08/1996"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "DK1259/96",
+            "priorityDate": "08/11/1996"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "DK1470/96",
+            "priorityDate": "20/12/1996"
+        }
+    ],
+    "events": [
+        {
+            "code": "201",
+            "description": "Nulidade conhecida e negado provimento. Mantida a concess\u00e3o do privil\u00e9gio",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "LISELOTTE BJERRE KNUDSEN",
+        "PER OLAF HUUSFELDT",
+        "PER FRANKLIN NIELSEN"
+    ],
+    "holders": [
+        92635
+    ],
+    "ipcCodes": [
+        "A61K 38/26",
+        "C07K 14/605"
+    ]
+}

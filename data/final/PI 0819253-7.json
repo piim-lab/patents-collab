@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "PI 0819253-7",
+    "filingDate": "31/10/2008",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o para formar um revestimento lubrificante sobre uma junta rosqueada para tubos",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-286507",
+            "priorityDate": "02/11/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-339546",
+            "priorityDate": "28/12/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-339547",
+            "priorityDate": "28/12/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-268816",
+            "priorityDate": "17/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "SHIGEKI FUKUMOTO",
+        "YASUSHIRO YAMAMOTO",
+        "KUNIO GOTO",
+        "RYUICHI IMAI"
+    ],
+    "holders": [
+        90706,
+        188
+    ],
+    "ipcCodes": [
+        "C10N 30/06",
+        "C10M 109/00",
+        "C10N 50/10",
+        "C10M 125/10",
+        "C10M 159/02",
+        "F16L 15/04",
+        "C10M 125/02",
+        "C10M 145/40",
+        "C10N 30/00",
+        "C10N 20/00",
+        "C10M 169/00",
+        "C10N 40/00",
+        "C10M 125/18",
+        "C10M 159/20",
+        "C10M 117/00",
+        "C10M 159/06",
+        "C10M 129/28"
+    ]
+}

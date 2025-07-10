@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0714525-0",
+    "filingDate": "16/08/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRATAMENTO DE GARRAFAS OU RECIPIENTES SIMILARES NUMA M\u00c1QUINA DE LIMPEZA BEM COMO M\u00c1QUINA DE LIMPEZA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 039 599.9",
+            "priorityDate": "23/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        }
+    ],
+    "inventors": [
+        "BERND MOLITOR",
+        "KLAUS JENDRICHOWSKI"
+    ],
+    "holders": [
+        22748
+    ],
+    "ipcCodes": [
+        "B08B 9/42",
+        "B08B 9/28",
+        "B08B 9/34"
+    ]
+}

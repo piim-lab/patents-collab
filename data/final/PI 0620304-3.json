@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0620304-3",
+    "filingDate": "20/12/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO E EQUIPAMENTO PARA DESCOBERTA DE VIZINHOS ASSISTIDA POR N\u00d3 FINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/316,603",
+            "priorityDate": "22/12/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        }
+    ],
+    "inventors": [
+        "RAJIV LAROIA",
+        "PABLO ANIGSTEIN",
+        "DAVID R MAZIK",
+        "VLADIMIR PARIZHSKY",
+        "VINCENT PARK",
+        "MURARI SRINIVASAN",
+        "GEORGE TSIRTSIS"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 12/24",
+        "H04W 8/00",
+        "H04L 12/751",
+        "H04L 12/703"
+    ]
+}

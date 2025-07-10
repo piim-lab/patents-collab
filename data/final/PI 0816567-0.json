@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0816567-0",
+    "filingDate": "10/10/2008",
+    "grantDate": null,
+    "title": "GERADOR DE VAPOR PARA O DEP\u00d3SITO DE UM REVESTIMENTO MET\u00c1LICO SOBRE UM SUBSTRATO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07447056.8",
+            "priorityDate": "12/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "PIERRE BANASZAK",
+        "DIDIER MARNEFFE",
+        "ERIC SILBERBERG",
+        "LUC VANHEE"
+    ],
+    "holders": [
+        350346
+    ],
+    "ipcCodes": [
+        "C23C 14/24",
+        "C23C 14/56",
+        "C23C 14/16"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0619399-4",
+    "filingDate": "21/12/2006",
+    "grantDate": "09/07/2019",
+    "title": "DERIVADO DE METASTINA OU UM SAL DO MESMO, E, MEDICAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-370388",
+            "priorityDate": "22/12/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-275843",
+            "priorityDate": "06/10/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "TAIJI ASAMI",
+        "NAOKI NISHIZAWA"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "C07K 14/47",
+        "A61K 38/16"
+    ]
+}

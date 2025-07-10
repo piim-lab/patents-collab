@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0805389-8",
+    "filingDate": "23/12/2008",
+    "grantDate": null,
+    "title": "P\u00c1RA-LAMA FRONTAL E MOTOCICLETA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-338785",
+            "priorityDate": "28/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "MASANORI SHIBATA"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "B62K 11/00",
+        "B62J 15/04"
+    ]
+}

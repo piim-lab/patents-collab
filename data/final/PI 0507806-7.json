@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0507806-7",
+    "filingDate": "21/01/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA GERAR UM SINAL DE SA\u00cdDA, APARELHO PARA GERAR UM SINAL DE SA\u00cdDA E SUPORTE DE GRAVA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/783,951",
+            "priorityDate": "19/02/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "GRANT ALLEN DAVIDSON",
+        "MARK STUART VINTON"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "G06F 17/14",
+        "G10L 19/02"
+    ]
+}

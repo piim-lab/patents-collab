@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0705757-1",
+    "filingDate": "27/06/2007",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ACONDICIONAMENTO E DE APLICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "06 05831",
+            "priorityDate": "28/06/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "LOUIS GUERET"
+    ],
+    "holders": [
+        92842
+    ],
+    "ipcCodes": [
+        "A45D 40/30"
+    ]
+}

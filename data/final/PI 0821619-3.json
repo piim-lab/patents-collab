@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0821619-3",
+    "filingDate": "31/12/2008",
+    "grantDate": "18/12/2018",
+    "title": "M\u00c9TODO PARA PREPARA\u00c7\u00c3O DE UM COMPOL\u00cdMERO DE BLOCO ANFIF\u00cdLICO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2007-0141165",
+            "priorityDate": "31/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "BONG OH KIM",
+        "MYUNG SEOB SHIM",
+        "HYO SEO"
+    ],
+    "holders": [
+        93850
+    ],
+    "ipcCodes": [
+        "C08G 63/91"
+    ]
+}

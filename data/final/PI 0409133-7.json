@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0409133-7",
+    "filingDate": "08/04/2004",
+    "grantDate": "03/09/2019",
+    "title": "Prepara\u00e7\u00f5es farmac\u00eauticas estav\u00e9is compreendendo metilnaltrexona",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/461.611",
+            "priorityDate": "08/04/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "SUKETU P SANGHVI",
+        "THOMAS A BOYD"
+    ],
+    "holders": [
+        101168
+    ],
+    "ipcCodes": [
+        "A61P 1/00",
+        "A61K 31/485"
+    ]
+}

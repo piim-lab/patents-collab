@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0916779-0",
+    "filingDate": "17/07/2009",
+    "grantDate": "18/09/2018",
+    "title": "PROCESSO DE SEPARA\u00c7\u00c3O E DE RECUPERA\u00c7\u00c3O DE UM ALDE\u00cdDO AROM\u00c1TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "08",
+            "priorityNumber": "04103",
+            "priorityDate": "18/07/2008 FR"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2821"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "HUBERT GAYET",
+        "CLAUDE MASSON"
+    ],
+    "holders": [
+        79480
+    ],
+    "ipcCodes": [
+        "C07C 47/58",
+        "B01D 1/06",
+        "C07C 47/575",
+        "C07C 45/81"
+    ]
+}

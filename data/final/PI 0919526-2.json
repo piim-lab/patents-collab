@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "PI 0919526-2",
+    "filingDate": "30/10/2009",
+    "grantDate": "17/03/2020",
+    "title": "Derivado de ciclo-hexano, e, produto farmac\u00eautico",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-281258",
+            "priorityDate": "31/10/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-176619",
+            "priorityDate": "29/07/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "YASUHIRO MORITA",
+        "KATSUHIKO ISEKI",
+        "YUJI SUGAWARA",
+        "HIDEYUKI TSUTSUI",
+        "SHUNSUKE IWANO",
+        "TADAMASA ARAI",
+        "HIDETOSHI NODA",
+        "CHIHIRO YOSHIDA",
+        "NAOKI IZUMIMOTO"
+    ],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": [
+        "C07D 401/04",
+        "C07D 277/24",
+        "A61K 31/421",
+        "A61K 31/4439",
+        "A61K 31/415",
+        "C07D 211/06",
+        "C07D 231/12",
+        "C07D 263/32"
+    ]
+}

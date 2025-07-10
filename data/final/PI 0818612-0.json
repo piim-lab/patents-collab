@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "PI 0818612-0",
+    "filingDate": "07/10/2008",
+    "grantDate": null,
+    "title": "CONFIGURA\u00c7\u00c3O DE TERMINAL DE ACESSO E CONTROLE DE ACESSO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/978,363",
+            "priorityDate": "08/10/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/025,686",
+            "priorityDate": "01/02/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/061,537",
+            "priorityDate": "13/06/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/246,394",
+            "priorityDate": "06/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "RAJARSHI GUPTA",
+        "ANAND PALANIGOUNDER",
+        "FATIH ULUPINAR",
+        "GAVIN B HORN",
+        "PARAG A AGASHE",
+        "JEN MEI CHEN",
+        "MANOJ M DESHPANDE",
+        "SRINIVASAN BALASUBRAMANIAN",
+        "SANJIV NANDA",
+        "OSOK SONG"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04W 12/06",
+        "H04W 8/26",
+        "H04W 12/08",
+        "H04W 48/02",
+        "H04W 84/04",
+        "H04W 48/14"
+    ]
+}

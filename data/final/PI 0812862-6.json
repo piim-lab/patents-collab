@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0812862-6",
+    "filingDate": "13/06/2008",
+    "grantDate": null,
+    "title": "Uso de um aparelho de tratamento de filme fino",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 970/2007",
+            "priorityDate": "21/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        119588
+    ],
+    "ipcCodes": []
+}

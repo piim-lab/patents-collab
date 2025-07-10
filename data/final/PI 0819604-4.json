@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0819604-4",
+    "filingDate": "28/11/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE REALIZA\u00c7\u00c3O DE TESTES EM ZONAS M\u00daLTIPLAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/991.445",
+            "priorityDate": "30/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "PIERRE LE FOLL",
+        "JIM FILAS",
+        "CHRISTOPHER SARVARI"
+    ],
+    "holders": [
+        84076
+    ],
+    "ipcCodes": [
+        "E21B 47/12",
+        "E21B 49/00",
+        "E21B 43/14"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "PI 0407403-3",
+    "filingDate": "09/02/2004",
+    "grantDate": "19/07/2022",
+    "title": "Compostos de isoxazol e composi\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0303105.1",
+            "priorityDate": "11/02/2003"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0306560.4",
+            "priorityDate": "21/03/2003"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0313751.0",
+            "priorityDate": "13/06/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "MARTIN JAMES DRYSDALE",
+        "BRIAN WILLIAM DYMOCK",
+        "HARRY FINCH",
+        "PAUL WEBB",
+        "EDWARD MCDONALD",
+        "KAREN ELIZABETH JAMES",
+        "KWAI MING CHEUNG",
+        "THOMAS PETER MATHEWS"
+    ],
+    "holders": [
+        169256,
+        231458,
+        373261
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07D 413/10",
+        "C07D 495/04",
+        "C07D 261/08",
+        "C07D 417/04",
+        "C07D 413/04",
+        "C07D 261/10"
+    ]
+}

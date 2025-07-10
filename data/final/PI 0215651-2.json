@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0215651-2",
+    "filingDate": "11/12/2002",
+    "grantDate": "05/08/2014",
+    "title": "DISPOSITIVO PARA PRODUZIR UM FLUIDO CONTENDO UM COMPONENTE RADIOATIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0208354.1",
+            "priorityDate": "11/04/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "TERENCE ROBERT FREDERICK FORREST",
+        "PETER STEWART WEISNER"
+    ],
+    "holders": [
+        92548
+    ],
+    "ipcCodes": [
+        "G21F 5/015",
+        "A61J 1/00",
+        "G21G 4/08"
+    ]
+}

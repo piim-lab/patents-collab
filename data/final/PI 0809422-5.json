@@ -1,0 +1,98 @@
+{
+    "applicationNumber": "PI 0809422-5",
+    "filingDate": "25/03/2008",
+    "grantDate": null,
+    "title": "SISTEMA DE CERCADO DE RECARGA BIDIRECIONAL, M\u00c9TODO DE CARREGAR E M\u00c9TODO PARA AUMENTAR A PRECIS\u00c3O DE LOCALIZAR UM CARRINHO DE COMPRAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,839",
+            "priorityDate": "25/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,840",
+            "priorityDate": "25/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,841",
+            "priorityDate": "25/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,838",
+            "priorityDate": "25/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,848",
+            "priorityDate": "25/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,849",
+            "priorityDate": "26/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,850",
+            "priorityDate": "26/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,852",
+            "priorityDate": "26/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/690,851",
+            "priorityDate": "26/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "SAUL STAWAR",
+        "CODY SINGLETON",
+        "DOUG FOWLER",
+        "DAN MCQUITTY",
+        "CHRIS HARTWELL",
+        "JAMES E GIBBONS JR",
+        "BRET AYLOR",
+        "STEVE BREEN",
+        "STEVE CARPENTER",
+        "LIEM LE"
+    ],
+    "holders": [
+        391465
+    ],
+    "ipcCodes": [
+        "G06Q 30/00"
+    ]
+}

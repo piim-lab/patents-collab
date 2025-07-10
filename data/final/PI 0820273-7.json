@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0820273-7",
+    "filingDate": "10/11/2008",
+    "grantDate": null,
+    "title": "ABRIGO PORT\u00c1TIL DESMONT\u00c1VEL, E , M\u00c9TODO DE CONSTRU\u00c7\u00c3O DE UM ABRIGO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/987,044",
+            "priorityDate": "10/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        }
+    ],
+    "inventors": [
+        "BRIAN D JOHNSON",
+        "GLEN V THORNE"
+    ],
+    "holders": [
+        396488
+    ],
+    "ipcCodes": [
+        "E04H 1/12",
+        "B65D 88/12",
+        "B65D 88/22",
+        "E04B 1/344"
+    ]
+}

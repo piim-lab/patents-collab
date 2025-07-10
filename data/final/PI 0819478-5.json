@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0819478-5",
+    "filingDate": "22/12/2008",
+    "grantDate": null,
+    "title": "ESPUMA RETICULADA, M\u00c9TODO PARA FORMAR UMA ESPUMA RETICULADA, TUFO ARTIFICIAL E SAPATO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/017,421",
+            "priorityDate": "28/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/091,169",
+            "priorityDate": "22/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "MIGUEL A PRIETO",
+        "KATJA OSWALD",
+        "ENRIQUE TORRES",
+        "THOMAS T ALLGEUER"
+    ],
+    "holders": [
+        9272
+    ],
+    "ipcCodes": [
+        "C08J 9/00",
+        "C08L 23/04"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0906416-8",
+    "filingDate": "07/01/2009",
+    "grantDate": null,
+    "title": "C\u00c2NULA DE FORMATO FIXO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/010,322",
+            "priorityDate": "07/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/033,238",
+            "priorityDate": "03/03/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/035,371",
+            "priorityDate": "10/03/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/047,693",
+            "priorityDate": "24/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "LUCA BRIGATTI",
+        "RUSSELL J HAMILTON",
+        "LAURENCE J MARSTELLER",
+        "MIKE VOEVODSKY"
+    ],
+    "holders": [
+        399943
+    ],
+    "ipcCodes": [
+        "A61K 51/00"
+    ]
+}

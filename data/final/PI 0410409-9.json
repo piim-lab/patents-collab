@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0410409-9",
+    "filingDate": "19/03/2004",
+    "grantDate": "19/01/2021",
+    "title": "ARTIGO ABSORVENTE DESCART\u00c1VEL E PROCESSO DE FORMA\u00c7\u00c3O DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/449,988",
+            "priorityDate": "30/05/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "JEROME STEVEN VEITH",
+        "PAUL T VAN GOMPEL"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "A61F 13/496"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0820865-4",
+    "filingDate": "04/12/2008",
+    "grantDate": "21/11/2018",
+    "title": "SISTEMA DE ABASTECIMENTO HIDR\u00c1ULICO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "07 23990.8",
+            "priorityDate": "08/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "C\u00c9DRIC DEMAN",
+        "BERNARD HUBLART"
+    ],
+    "holders": [
+        89212
+    ],
+    "ipcCodes": [
+        "B60R 16/08"
+    ]
+}

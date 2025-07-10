@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0711347-1",
+    "filingDate": "08/05/2007",
+    "grantDate": "09/10/2018",
+    "title": "LUVA INTERMEDI\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/798495",
+            "priorityDate": "08/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/744946",
+            "priorityDate": "07/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "HERBERT AHLER",
+        "HELMUT GRUBER",
+        "CHRISTIAN SCHNIEDERS",
+        "MICHAEL KOCKENTIEDT"
+    ],
+    "holders": [
+        374570
+    ],
+    "ipcCodes": [
+        "B41F 27/14"
+    ]
+}

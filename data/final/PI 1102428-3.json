@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 1102428-3",
+    "filingDate": "13/05/2011",
+    "grantDate": null,
+    "title": "STENT PL\u00c1STICO E APARELHO DE OPERA\u00c7\u00c3O DE STENT PARA O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0045343",
+            "priorityDate": "14/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "MIN SHIN",
+        "CHEOL MYUNG"
+    ],
+    "holders": [
+        382557,
+        418653,
+        418654
+    ],
+    "ipcCodes": [
+        "A61F 2/94",
+        "A61F 2/95",
+        "A61F 2/04"
+    ]
+}

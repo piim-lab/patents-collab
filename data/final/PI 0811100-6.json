@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0811100-6",
+    "filingDate": "08/05/2008",
+    "grantDate": null,
+    "title": "INSERTO DE FILTRO DE G\u00c1S E FILTRO DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 024 287.7",
+            "priorityDate": "23/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "BASHKIM BERISHA",
+        "MATTHIAS STEGM\u00dcLLER",
+        "J\u00dcRGEN STEHLIG",
+        "HANS WAIBEL"
+    ],
+    "holders": [
+        1852
+    ],
+    "ipcCodes": [
+        "F02M 35/024",
+        "B01D 46/52",
+        "B01D 46/10"
+    ]
+}

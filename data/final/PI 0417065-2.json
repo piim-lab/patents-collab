@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "PI 0417065-2",
+    "filingDate": "05/11/2004",
+    "grantDate": "02/01/2019",
+    "title": "C\u00c2MERA, TELEFONE M\u00d3VEL, E, M\u00c9TODO DE TIRAR IMAGENS COM UMA C\u00c2MERA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "03388082.4",
+            "priorityDate": "01/12/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/526,627",
+            "priorityDate": "03/12/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "25.12",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [
+        "JOHAN GULLIKSSON",
+        "THOMAS LECHNER"
+    ],
+    "holders": [
+        374674
+    ],
+    "ipcCodes": [
+        "H04N 1/21"
+    ]
+}

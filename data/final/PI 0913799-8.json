@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0913799-8",
+    "filingDate": "09/06/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE SUPORTE E ESTRUTURA DE SUPORTE DE REATOR",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200810168841.8",
+            "priorityDate": "28/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "TIAN QIANG",
+        "TAN WENLI"
+    ],
+    "holders": [
+        404282
+    ],
+    "ipcCodes": [
+        "H01F 27/06"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0717082-3",
+    "filingDate": "17/08/2007",
+    "grantDate": null,
+    "title": "PROCESSO PARA A SEPARA\u00c7\u00c3O DE UM FLUXO DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/848,299",
+            "priorityDate": "28/09/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/897,683",
+            "priorityDate": "25/01/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/839,693",
+            "priorityDate": "16/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "KYLE T CUELLAR",
+        "TONY L MARTINEZ",
+        "JOHN D WILKINSON",
+        "JOE T LYNCH",
+        "HANK M HUDSON"
+    ],
+    "holders": [
+        79457
+    ],
+    "ipcCodes": [
+        "F25J 3/00"
+    ]
+}

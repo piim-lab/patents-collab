@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0922478-5",
+    "filingDate": "30/11/2009",
+    "grantDate": null,
+    "title": "UNIDADE M\u00d3VEL DE REMETE\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "20/06/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CH2009/000381",
+        "pctDate": "30/11/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08405309.9",
+            "priorityDate": "19/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "MARTIN HUNZIKER"
+    ],
+    "holders": [
+        409241
+    ],
+    "ipcCodes": [
+        "D03J 1/14"
+    ]
+}

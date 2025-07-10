@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0510446-7",
+    "filingDate": "24/05/2005",
+    "grantDate": "16/04/2019",
+    "title": "M\u00c9TODO PARA COBRAN\u00c7A DE SERVI\u00c7O DE MENSAGEM DE MULTIM\u00cdDIA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200410042834.5",
+            "priorityDate": "26/05/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "DAWEI LI"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 12/58",
+        "H04L 12/14"
+    ]
+}

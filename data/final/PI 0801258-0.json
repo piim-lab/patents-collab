@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0801258-0",
+    "filingDate": "02/05/2008",
+    "grantDate": "12/03/2019",
+    "title": "PROCESSO PARA A DETERMINA\u00c7\u00c3O DE UM TEOR DE \u00c1LCOOL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 020 959.4",
+            "priorityDate": "04/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "OLIVER MIERSCH",
+        "GEORG MALLEBREIN",
+        "JUERGEN PFEIFFER",
+        "STEPHAN UHL"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "F02D 41/02",
+        "F02D 43/00",
+        "F02D 41/30"
+    ]
+}

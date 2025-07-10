@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0505534-2",
+    "filingDate": "23/12/2005",
+    "grantDate": "13/11/2018",
+    "title": "PROCESSO DE MODERNIZA\u00c7\u00c3O DE UM ACIONAMENTO EM UMA INSTALA\u00c7\u00c3O DE ELEVADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04 405803.0",
+            "priorityDate": "24/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2771"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH LIEBETRAU",
+        "RUEDI STOCKER"
+    ],
+    "holders": [
+        79537
+    ],
+    "ipcCodes": [
+        "B66B 7/02"
+    ]
+}

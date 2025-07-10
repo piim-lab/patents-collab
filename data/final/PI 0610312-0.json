@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0610312-0",
+    "filingDate": "29/05/2006",
+    "grantDate": "22/05/2018",
+    "title": "DISPOSITIVO DE ASSIST\u00caNCIA \u00c0 CAMINHADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-155329",
+            "priorityDate": "27/05/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-158516",
+            "priorityDate": "31/05/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-216635",
+            "priorityDate": "27/07/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-125224",
+            "priorityDate": "28/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "YASUSHI IKEUCHI",
+        "TATSUYA NODA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "A61H 3/00"
+    ]
+}

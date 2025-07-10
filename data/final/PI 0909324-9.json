@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0909324-9",
+    "filingDate": "24/03/2009",
+    "grantDate": null,
+    "title": "SISTEMA E PROCESSO PARA SEPARA\u00c7\u00c3O DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/056887",
+            "priorityDate": "27/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "MICHAEL S MANNING",
+        "JAMES SMOLAREK",
+        "AHMED ABDELWAHAB",
+        "MURALI CHINTA"
+    ],
+    "holders": [
+        96124
+    ],
+    "ipcCodes": [
+        "B01D 53/04",
+        "B01D 53/047",
+        "F04D 27/02"
+    ]
+}

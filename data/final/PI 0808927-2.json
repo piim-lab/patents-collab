@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0808927-2",
+    "filingDate": "19/02/2008",
+    "grantDate": null,
+    "title": "FORMAS S\u00d3LIDAS DE MICROBIOCIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 005456.4",
+            "priorityDate": "16/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "PAUL EDWARD BONNETT",
+        "NEIL GEORGE",
+        "IAN KEVIN JONES",
+        "SHAILESH SHAH"
+    ],
+    "holders": [
+        107472,
+        79231
+    ],
+    "ipcCodes": [
+        "A01P 3/00",
+        "A01N 43/56"
+    ]
+}

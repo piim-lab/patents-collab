@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0713276-0",
+    "filingDate": "03/07/2007",
+    "grantDate": null,
+    "title": "M\u00e1quina de malharia com agulhas de lingueta e sem platinas",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2006A001320",
+            "priorityDate": "07/07/2006"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2007A001096",
+            "priorityDate": "30/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        }
+    ],
+    "inventors": [
+        "TIBERIO LONATI",
+        "ETTORE LONATI",
+        "FAUSTO LONATI"
+    ],
+    "holders": [
+        113106
+    ],
+    "ipcCodes": [
+        "D04B 15/00",
+        "D04B 15/06"
+    ]
+}

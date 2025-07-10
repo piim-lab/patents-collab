@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0901314-8",
+    "filingDate": "03/03/2009",
+    "grantDate": null,
+    "title": "ESTRUTURA DE MULTICAMADAS COMPREENDENDO AO MENOS UMA CAMADA ESTABILIZADA E SUA UTILIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0851380",
+            "priorityDate": "03/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6",
+            "description": "Exig\u00eancia Formal",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "VINCENT FERREIRO",
+        "FABRICE MONTEZIN",
+        "THIBAUT MONTANARI"
+    ],
+    "holders": [
+        16482
+    ],
+    "ipcCodes": [
+        "B32B 3/00",
+        "B32B 15/088",
+        "B32B 27/34"
+    ]
+}

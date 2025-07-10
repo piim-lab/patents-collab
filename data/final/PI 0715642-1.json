@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "PI 0715642-1",
+    "filingDate": "26/07/2007",
+    "grantDate": "09/06/2020",
+    "title": "Processos para produzir um macrol\u00eddeo ou um sal do mesmo, e para produzir um composto",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/834,067",
+            "priorityDate": "28/07/2006"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06118159.0",
+            "priorityDate": "31/07/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        }
+    ],
+    "inventors": [
+        "FRITZ BLATTER",
+        "MEINRAD BRENNER",
+        "MONIKA BRINK",
+        "KERSTIN FLEISCHHAUER",
+        "GUIXIAN HU",
+        "HANS PETER NIEDERMANN",
+        "TIMO RAGER",
+        "TANJA SCHWEISEL",
+        "STEPHAN VEIT",
+        "RALF WARRASS",
+        "J\u00d6RG WENNESHEIMER"
+    ],
+    "holders": [
+        80362,
+        207103
+    ],
+    "ipcCodes": [
+        "C07H 17/08"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0719071-9",
+    "filingDate": "05/12/2007",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE POLI\u00c9STER",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/635360",
+            "priorityDate": "07/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        }
+    ],
+    "inventors": [
+        "BRUCE ROGER DEBRUIN"
+    ],
+    "holders": [
+        96016
+    ],
+    "ipcCodes": [
+        "B01J 19/24",
+        "B01J 19/18",
+        "B01J 19/26",
+        "B01D 3/14",
+        "B01J 4/00",
+        "B01D 19/00",
+        "C08G 63/78"
+    ]
+}

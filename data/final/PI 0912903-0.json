@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0912903-0",
+    "filingDate": "05/06/2009",
+    "grantDate": null,
+    "title": "PROCESSO CONT\u00cdNUO PARA A EXTRA\u00c7\u00c3O DE POLIAMIDA - 6",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 044 452.9",
+            "priorityDate": "19/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "KLAUS KIRSTEN",
+        "MANFRED ALBRECHT",
+        "FRANZ SAMLITSCHKA"
+    ],
+    "holders": [
+        400484
+    ],
+    "ipcCodes": [
+        "C08G 69/46",
+        "B01D 11/02",
+        "C08J 3/12",
+        "B29B 9/06",
+        "C08G 69/16",
+        "C08G 69/14",
+        "C07D 201/16"
+    ]
+}

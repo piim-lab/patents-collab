@@ -1,0 +1,92 @@
+{
+    "applicationNumber": "PI 0716142-5",
+    "filingDate": "30/08/2007",
+    "grantDate": "04/02/2020",
+    "title": "M\u00c9TODO DE IDENTIFICA\u00c7\u00c3O DE CAUSA DE OCORR\u00caNCIA DE RETORNO EL\u00c1STICO, M\u00c9TODO DE EXIBI\u00c7\u00c3O DE GRAU DE EFEITO DE RETORNO EL\u00c1STICO, M\u00c9TODO DE IDENTIFICA\u00c7\u00c3O DE LOCALIZA\u00c7\u00c3O DE CAUSA DE OCORR\u00caNCIA DE RETORNO EL\u00c1STICO, M\u00c9TODO DE IDENTIFICA\u00c7\u00c3O DE POSI\u00c7\u00c3O DE MEDIDA CONTRA RETORNO EL\u00c1STICO, APARELHOS DESTES, E PROGRAMAS DESTES",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-236314",
+            "priorityDate": "31/08/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-244351",
+            "priorityDate": "08/09/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-268855",
+            "priorityDate": "29/09/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-269253",
+            "priorityDate": "29/09/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-270693",
+            "priorityDate": "02/10/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-271097",
+            "priorityDate": "02/10/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "TOHRU YOSHIDA",
+        "SHUNJI HIWATASHI",
+        "SEIICHI DAIMARU",
+        "YASUHARU TANAKA",
+        "TAKASHI ARIGA",
+        "TOSHIYUKI NIWA",
+        "YUKIHISA KURIYAMA",
+        "SATORU OKAYAMA"
+    ],
+    "holders": [
+        188
+    ],
+    "ipcCodes": [
+        "B21D 22/00",
+        "G06F 17/50"
+    ]
+}

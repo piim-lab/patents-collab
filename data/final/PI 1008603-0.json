@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 1008603-0",
+    "filingDate": "18/02/2010",
+    "grantDate": null,
+    "title": "RECIPIENTE DE PL\u00c1STICO DE PE\u00c7A \u00daNICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/153,454",
+            "priorityDate": "18/02/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/707,256",
+            "priorityDate": "17/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "LUKE A MAST",
+        "FREDERICK C BEUERLE"
+    ],
+    "holders": [
+        81484
+    ],
+    "ipcCodes": [
+        "B65D 1/02",
+        "B65D 23/00",
+        "B65D 1/42",
+        "B65D 1/44"
+    ]
+}

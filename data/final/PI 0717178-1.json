@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0717178-1",
+    "filingDate": "21/09/2007",
+    "grantDate": null,
+    "title": "ORT\u00d3TICO ACOLCHOADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/524,979",
+            "priorityDate": "21/09/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/524,745",
+            "priorityDate": "21/09/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2782"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        86315
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0700094-4",
+    "filingDate": "15/01/2007",
+    "grantDate": null,
+    "title": "CONECTOR EL\u00c9TRICO PARA PARAFUSO DE DOIS TAMANHOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/332.479",
+            "priorityDate": "17/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "CARL R TAMM",
+        "ROBERT G HAY",
+        "CARL R TAMM",
+        "ROBERT G HAY"
+    ],
+    "holders": [
+        494
+    ],
+    "ipcCodes": [
+        "H01R 11/00",
+        "H01R 11/07"
+    ]
+}

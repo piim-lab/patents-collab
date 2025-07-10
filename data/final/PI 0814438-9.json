@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0814438-9",
+    "filingDate": "09/07/2008",
+    "grantDate": "02/04/2019",
+    "title": "AGENTE DE GELIFICA\u00c7\u00c3O PARA BATERIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-188445",
+            "priorityDate": "19/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "YUICHIRO MORIMITSU",
+        "MASATOYO YOSHINAKA",
+        "SHINJI KOBAYASHI"
+    ],
+    "holders": [
+        95943
+    ],
+    "ipcCodes": [
+        "H01M 4/62",
+        "C09K 3/00",
+        "H01M 6/22"
+    ]
+}

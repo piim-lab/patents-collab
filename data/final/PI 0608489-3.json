@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0608489-3",
+    "filingDate": "20/04/2006",
+    "grantDate": "26/06/2018",
+    "title": "DISPENSADOR, E MONTAGEM DE DISPENSADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "1028826",
+            "priorityDate": "20/04/2005"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "1030030",
+            "priorityDate": "26/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "MARKUS FRANCISKUS BROUWER"
+    ],
+    "holders": [
+        379645
+    ],
+    "ipcCodes": [
+        "B05B 11/00"
+    ]
+}

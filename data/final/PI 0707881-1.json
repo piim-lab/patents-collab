@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0707881-1",
+    "filingDate": "16/01/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA UMA CONEX\u00c3O USANDO CRAVOS E CRAVOS DESTINADOS \u00c0 MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 002 238.6",
+            "priorityDate": "17/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "TORSTEN DRAHT",
+        "GERSON MESCHUT"
+    ],
+    "holders": [
+        656
+    ],
+    "ipcCodes": [
+        "F16B 5/06",
+        "F16B 19/14"
+    ]
+}

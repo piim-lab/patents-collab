@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0611749-0",
+    "filingDate": "21/06/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO E EQUIPAMENTO PARA PROVER SERVI\u00c7OS DE LOCALIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/693,003",
+            "priorityDate": "21/06/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/711,801",
+            "priorityDate": "25/08/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/718,112",
+            "priorityDate": "16/09/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/771,180",
+            "priorityDate": "06/02/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/771,217",
+            "priorityDate": "07/02/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/771,706",
+            "priorityDate": "08/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "STEPHEN EDGE",
+        "SVEN FISCHER",
+        "KIRK BURROUGHS"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 4/02",
+        "H04W 64/00"
+    ]
+}

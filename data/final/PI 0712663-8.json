@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0712663-8",
+    "filingDate": "18/05/2007",
+    "grantDate": null,
+    "title": "MONTAGEM DE CAT\u00c9TER COM FECHAMENTO DE PROTE\u00c7\u00c3O DE PONTA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/439.479",
+            "priorityDate": "22/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "KARL JOHAN MARTEN SODERHOLM",
+        "JANNE JOAKIM LUNDQVIST",
+        "J\u00d6RGEN BRUNO HAGER",
+        "AKE LENNART LARSSON",
+        "KRISTOFFER GLOWACKI"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "A61M 25/06",
+        "A61M 5/32"
+    ]
+}

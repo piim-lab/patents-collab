@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0816228-0",
+    "filingDate": "21/08/2008",
+    "grantDate": null,
+    "title": "ESTRUTURA DE ACONDICIONAMENTO PARA PAPEL EM BOBINA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-220607",
+            "priorityDate": "28/08/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-220632",
+            "priorityDate": "28/08/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-220635",
+            "priorityDate": "28/08/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-317558",
+            "priorityDate": "07/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        }
+    ],
+    "inventors": [
+        "TAKASHI II",
+        "TOSHIFUSA HIRANO",
+        "WATARU OYAMA",
+        "HISATO YOSHII"
+    ],
+    "holders": [
+        174307
+    ],
+    "ipcCodes": [
+        "B65D 5/50",
+        "B65D 81/113",
+        "B65D 59/06",
+        "B65D 77/26",
+        "B65D 85/671"
+    ]
+}

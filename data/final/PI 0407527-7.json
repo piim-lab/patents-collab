@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0407527-7",
+    "filingDate": "17/02/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ARMAZENAR DADOS DE M\u00cdDIA EM BUFFER, M\u00c9TODO PARA DECODIFICAR O FLUXO DE IMAGEM CODIFICADO EM UM DECODIFICADOR, SISTEMA, DISPOSITIVO DE TRANSMISS\u00c3O, DISPOSITIVO DE RECEP\u00c7\u00c3O, SINAL, M\u00d3DULO PARA RECEP\u00c7\u00c3O DE FLUXO DE IMAGEM CODIFICADO, PROCESSADOR,5 CODIFICADOR E DECODIFICADOR.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/448,693",
+            "priorityDate": "18/02/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/483,159",
+            "priorityDate": "27/06/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "MISKA HANNUKSELA"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04N 21/44",
+        "H04N 21/234"
+    ]
+}

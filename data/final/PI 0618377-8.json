@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0618377-8",
+    "filingDate": "06/11/2006",
+    "grantDate": null,
+    "title": "USO DE PIRACLOSTROBINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/735,195",
+            "priorityDate": "10/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        }
+    ],
+    "inventors": [
+        "HENDRIK LEONARD YPEMA",
+        "ANDREAS HOPF",
+        "NATHAN TODD FROESE",
+        "REINHARD STIERL"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "A01P 3/00",
+        "A01N 25/32",
+        "A01N 43/653",
+        "A01N 47/24"
+    ]
+}

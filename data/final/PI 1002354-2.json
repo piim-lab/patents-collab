@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 1002354-2",
+    "filingDate": "22/06/2010",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O  DE  GASOLINA,  E  SEUS PROCESSOS RELACIONADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/488,994",
+            "priorityDate": "22/06/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "ALLEN A ARADI",
+        "JOSEPH W ROOS"
+    ],
+    "holders": [
+        142
+    ],
+    "ipcCodes": [
+        "C07C 205/00",
+        "C07D 249/00",
+        "C07D 261/00"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0508600-0",
+    "filingDate": "18/02/2005",
+    "grantDate": null,
+    "title": "GERENCIAMENTO DIN\u00c2MICO DE CART\u00c3O INTELIGENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04290656.0",
+            "priorityDate": "11/03/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        }
+    ],
+    "inventors": [
+        "MICHEL MAILLARD",
+        "DOMINIQUE LE FLOCH"
+    ],
+    "holders": [
+        372664
+    ],
+    "ipcCodes": [
+        "H04N 7/16",
+        "H04N 7/167",
+        "H04N 21/418",
+        "H04N 21/4367"
+    ]
+}

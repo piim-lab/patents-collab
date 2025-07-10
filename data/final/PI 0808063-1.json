@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0808063-1",
+    "filingDate": "21/02/2008",
+    "grantDate": null,
+    "title": "\" PROCESSO DE PRODU\u00c7\u00c3O DE POLI\u00c9STER, E, DISPOSITIVO \".",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/715,546",
+            "priorityDate": "08/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        }
+    ],
+    "inventors": [
+        "BRUCE ROGER DEBRUIN"
+    ],
+    "holders": [
+        96016
+    ],
+    "ipcCodes": [
+        "B01J 19/24",
+        "B01J 4/00",
+        "C08G 63/78"
+    ]
+}

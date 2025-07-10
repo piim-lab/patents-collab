@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0807694-4",
+    "filingDate": "11/01/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AUTOMATIZAR O RECHEIO DE COLUNA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/893202",
+            "priorityDate": "06/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "ALAN M WILLIAMS",
+        "KYRIL DAMBULEFF",
+        "KATHRYN TAYLOR",
+        "JOHN DAVIS",
+        "ADAM KALETSKI",
+        "DANIEL GO",
+        "SCOTT R MULLER"
+    ],
+    "holders": [
+        8266
+    ],
+    "ipcCodes": [
+        "B01D 15/20",
+        "B01D 15/14",
+        "G01N 30/56"
+    ]
+}

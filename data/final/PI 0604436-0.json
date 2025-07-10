@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0604436-0",
+    "filingDate": "09/10/2006",
+    "grantDate": "05/06/2018",
+    "title": "\u201cSistema de fornecimento de energia\u201d",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/247,836",
+            "priorityDate": "10/10/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2795"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "ALLEN MICHAEL RITTER",
+        "CYRUS DAVID HARBOURT",
+        "ROBERT GREGORY WAGONER"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "H02J 15/00",
+        "H02J 7/00",
+        "H01M 10/00"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0317696-7",
+    "filingDate": "26/12/2003",
+    "grantDate": "08/11/2016",
+    "title": "COMPOSI\u00c7\u00c3O PARA BRANQUEAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2002-381304",
+            "priorityDate": "27/12/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2807"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "YOSHINOBU MORIMOTO",
+        "ASAMI WATAKE"
+    ],
+    "holders": [
+        372717
+    ],
+    "ipcCodes": [
+        "A61P 17/00",
+        "A61K 31/196",
+        "A61K 31/198",
+        "A61K 31/375"
+    ]
+}

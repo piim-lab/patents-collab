@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0706351-2",
+    "filingDate": "04/01/2007",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA L\u00d3GICA DE LINHA DE PALAVRA DE BAIXA POT\u00caNCIA PARA UMA MEM\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/756,100",
+            "priorityDate": "04/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/756,856",
+            "priorityDate": "06/01/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/402,483",
+            "priorityDate": "11/04/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        }
+    ],
+    "inventors": [
+        "BAKER MOHAMMAD",
+        "PAUL BASSET"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G11C 5/14",
+        "G11C 11/413",
+        "G11C 8/08"
+    ]
+}

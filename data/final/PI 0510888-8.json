@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0510888-8",
+    "filingDate": "27/04/2005",
+    "grantDate": null,
+    "title": "STARTER INDUTIVO SEM-CONTATO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200510038234.6",
+            "priorityDate": "21/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "YUNWEN ZHAO"
+    ],
+    "holders": [
+        376376
+    ],
+    "ipcCodes": [
+        "H02P 1/42"
+    ]
+}

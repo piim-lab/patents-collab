@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0617832-4",
+    "filingDate": "03/10/2006",
+    "grantDate": null,
+    "title": "SISTEMA DE PROTE\u00c7\u00c3O DE FALHA E, M\u00c9TODO DE PROVER PROTE\u00c7\u00c3O DE FALHA COORDENADA PARA UMA LINHA DE DISTRIBUI\u00c7\u00c3O ACOPLANDO UMA FONTE A UMA CARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/731571",
+            "priorityDate": "28/10/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/732475",
+            "priorityDate": "02/11/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        }
+    ],
+    "inventors": [
+        "DOUGLAS M STASZESKY",
+        "RAYMOND P OLEARY",
+        "THOMAS J TOBIN"
+    ],
+    "holders": [
+        101499
+    ],
+    "ipcCodes": [
+        "H02H 7/30"
+    ]
+}

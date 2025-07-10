@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0915088-9",
+    "filingDate": "11/06/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA GERENCIAR INTERA\u00c7\u00c3O ENTRE CICLOS DRX E CICLOS DE ALERTA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/061,515",
+            "priorityDate": "13/06/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/479,590",
+            "priorityDate": "05/06/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        }
+    ],
+    "inventors": [
+        "NATHAN EDWARD TENNY",
+        "ARNAUD MEYLAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 52/02",
+        "H04W 24/08",
+        "H04W 24/10",
+        "H04W 76/28",
+        "H04W 68/02"
+    ]
+}

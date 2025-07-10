@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0810901-0",
+    "filingDate": "02/04/2008",
+    "grantDate": null,
+    "title": "C\u00daPULA DE VENTILADOR E ACIONAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 017 875.3",
+            "priorityDate": "13/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        }
+    ],
+    "inventors": [
+        "PETR OSIPOV",
+        "HEINZ TR\u00d6NDLE",
+        "MICHAEL RIFFEL"
+    ],
+    "holders": [
+        84079
+    ],
+    "ipcCodes": [
+        "F04D 29/66"
+    ]
+}

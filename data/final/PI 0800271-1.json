@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0800271-1",
+    "filingDate": "21/02/2008",
+    "grantDate": null,
+    "title": "SISTEMA DE AR CONDICIONADO PARA USO EM UM VE\u00cdCULO TENDO UM MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/677.643",
+            "priorityDate": "22/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "TERRY A ZEIGLER",
+        "ERIC ELIAS",
+        "CHRISTOPHE BARREAU"
+    ],
+    "holders": [
+        388912
+    ],
+    "ipcCodes": [
+        "B60H 1/00",
+        "B60H 1/32"
+    ]
+}

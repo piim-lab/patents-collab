@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0808898-5",
+    "filingDate": "11/03/2008",
+    "grantDate": "31/12/2019",
+    "title": "DISPOSITIVO DE DIFUS\u00c3O DE DADOS DE \u00c1UDIO E VIDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "07 53796",
+            "priorityDate": "13/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "MARC NOGIER",
+        "PIERRE MORARD"
+    ],
+    "holders": [
+        390579
+    ],
+    "ipcCodes": [
+        "H04N 7/10",
+        "H01B 11/04"
+    ]
+}

@@ -5,7 +5,6 @@ The data can be found in:
 
 - `data/raw`: Original database, without deduplication and classification. It can also be obtained at https://github.com/cie-cefet-mg/inpi-db/tree/main/data/processos/patente.
 - `data/final`: Processed files from each magazine used.
-- `data/dicionario-dados.pdf`: Data dictionary explaining what each field means in the patents' JSON files.
 
 ## Prerequisites
 

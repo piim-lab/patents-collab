@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0717659-7",
+    "filingDate": "28/09/2007",
+    "grantDate": null,
+    "title": "SISTEMA DE RADIOCOMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-269327",
+            "priorityDate": "29/09/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-352897",
+            "priorityDate": "27/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        }
+    ],
+    "inventors": [
+        "DAICHI IMAMURA",
+        "TAKASHI IWAI",
+        "KAZUNORI INOGAI",
+        "SADAKI FUTAGI",
+        "ATSUSHI MATSUMOTO"
+    ],
+    "holders": [
+        6008
+    ],
+    "ipcCodes": [
+        "H04J 11/00",
+        "H04B 1/707",
+        "H04J 13/00"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0504681-5",
+    "filingDate": "26/10/2005",
+    "grantDate": "11/07/2023",
+    "title": "ESTRUTURA DE CILINDRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/978,047",
+            "priorityDate": "29/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "ROBERT EDWIN BENNETT",
+        "WILLIAM DOUGLAS GRAHAM",
+        "KEVIN WILLIAM HOEHN"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "F15B 15/24"
+    ]
+}

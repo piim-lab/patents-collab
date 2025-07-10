@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0713105-4",
+    "filingDate": "25/05/2007",
+    "grantDate": "15/01/2019",
+    "title": "M\u00c9TODO PARA PRODUZIR UM ISOPREN\u00d3IDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/808,989",
+            "priorityDate": "26/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/870,592",
+            "priorityDate": "18/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "NEIL STEPHEN RENNINGER",
+        "JACK NEWMAN",
+        "KEITH KINKEAD REILING",
+        "RIKA REGENTIN",
+        "CHRISTOPHER JOHN PADDON"
+    ],
+    "holders": [
+        94460
+    ],
+    "ipcCodes": [
+        "A61K 48/00",
+        "C12N 15/74",
+        "C12N 1/21",
+        "C12P 7/04",
+        "C12P 7/40",
+        "C12N 9/10",
+        "C12P 7/66"
+    ]
+}

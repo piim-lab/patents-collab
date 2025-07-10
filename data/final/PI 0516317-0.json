@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "PI 0516317-0",
+    "filingDate": "29/09/2005",
+    "grantDate": "03/09/2019",
+    "title": "M\u00c9TODO PARA PROCESSAR DADOS EM UMA CAMADA DE CONTROLE DE ACESSO AO MEIO (CAM)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/615,106",
+            "priorityDate": "30/09/2004"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2005-0051300",
+            "priorityDate": "15/06/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "24.2",
+            "description": "Exig\u00eancia de Complementa\u00e7\u00e3o da Retribui\u00e7\u00e3o Anual",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "JUNG MYUNG CHEUL",
+        "CHUN SUNG DUCK",
+        "LEE YOUNG DAE"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "H04L 29/08",
+        "H04W 4/18",
+        "H04W 80/00",
+        "H04W 74/00",
+        "H04W 28/06",
+        "H04W 80/02"
+    ]
+}

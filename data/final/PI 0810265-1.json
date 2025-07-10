@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0810265-1",
+    "filingDate": "19/05/2008",
+    "grantDate": null,
+    "title": "\"VAG\u00c3O FERROVI\u00c1RIIO DO TIPO PLATAFORMA\".",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/938,525",
+            "priorityDate": "17/05/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/122,184",
+            "priorityDate": "16/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "KEITH ALAN MILLER"
+    ],
+    "holders": [
+        391817
+    ],
+    "ipcCodes": [
+        "B61D 3/00",
+        "B61D 17/00",
+        "B61D 3/20"
+    ]
+}

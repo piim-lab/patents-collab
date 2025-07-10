@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0411801-4",
+    "filingDate": "26/04/2004",
+    "grantDate": "16/06/2015",
+    "title": "SISTEMA DE FIXA\u00c7\u00c3O RESPIR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/602,385",
+            "priorityDate": "24/06/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "JAYSHREE SETH",
+        "RONALD W AUSEN",
+        "JAMES S MROZINSKI",
+        "JANET A VENNE"
+    ],
+    "holders": [
+        6580
+    ],
+    "ipcCodes": [
+        "A44B 18/00",
+        "A61F 13/62"
+    ]
+}

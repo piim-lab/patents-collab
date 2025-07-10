@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0805826-1",
+    "filingDate": "24/02/2008",
+    "grantDate": "09/02/2021",
+    "title": "COMPOSTOS ESPIRO-SUBSTITU\u00cdDOS, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/894,692",
+            "priorityDate": "14/03/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/941,698",
+            "priorityDate": "04/06/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/036,244",
+            "priorityDate": "23/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "PAUL GUOQING CHEN"
+    ],
+    "holders": [
+        110006
+    ],
+    "ipcCodes": [
+        "A61K 31/47",
+        "A61K 31/517",
+        "C07D 403/02",
+        "C07D 401/02"
+    ]
+}

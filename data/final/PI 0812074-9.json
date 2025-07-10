@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0812074-9",
+    "filingDate": "22/05/2008",
+    "grantDate": null,
+    "title": "Processo e Aparelho para introduzir um p\u00f3 catal\u00edtico em um reator de polimeriza\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 109399.1",
+            "priorityDate": "01/06/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/933,076",
+            "priorityDate": "04/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "LUCIANO MICHIELIN FALECIDO",
+        "PIER LUIGI DI FEDERICO",
+        "LUCIANO DI NARDO"
+    ],
+    "holders": [
+        81147
+    ],
+    "ipcCodes": [
+        "C08F 2/34",
+        "B01J 8/00"
+    ]
+}

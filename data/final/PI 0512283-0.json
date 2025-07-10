@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0512283-0",
+    "filingDate": "20/06/2005",
+    "grantDate": "06/11/2018",
+    "title": "ESTA\u00c7\u00c3O BASE PARA TRANSMITIR MENSAGEM DE INDICA\u00c7\u00c3O DE TR\u00c1FEGO, ESTA\u00c7\u00c3O M\u00d3VEL PARA RECEBER A MESMA E M\u00c9TODOS PARA TRANSMITIR E RECEBER A MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0045894",
+            "priorityDate": "19/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "GYU LEE",
+        "SUNG KIM",
+        "A KIM",
+        "WOOK PARK"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04B 7/26"
+    ]
+}

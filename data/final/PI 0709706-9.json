@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "PI 0709706-9",
+    "filingDate": "01/05/2007",
+    "grantDate": null,
+    "title": "APARELHO TROCADOR DE CALOR SELECION\u00c1VEL PELO USU\u00c1RIO E M\u00c9TODO DE USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/746,145",
+            "priorityDate": "01/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/741,769",
+            "priorityDate": "30/04/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "RICHARD J MANASEK"
+    ],
+    "holders": [
+        241910
+    ],
+    "ipcCodes": [
+        "F28F 3/00",
+        "F27D 1/12",
+        "F28F 3/14"
+    ]
+}

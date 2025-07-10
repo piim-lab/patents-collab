@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "PI 0814025-1",
+    "filingDate": "16/06/2008",
+    "grantDate": "18/05/2021",
+    "title": "PROCESSO DE AGRUPAMENTO DE FRASCOS, GARRAFAS OU OUTROS",
+    "nationalPhaseDate": [
+        "04/01/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT FR2008/051075",
+        "pctDate": "16/06/2008",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0704807",
+            "priorityDate": "04/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "DIDIER MOUGIN",
+        "MICHEL BEGIN",
+        "GUILLAUME DUCHEMIN",
+        "CHRISTOPHE POUPON"
+    ],
+    "holders": [
+        307660
+    ],
+    "ipcCodes": [
+        "B65G 47/82"
+    ]
+}

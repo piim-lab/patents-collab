@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0713234-4",
+    "filingDate": "06/07/2007",
+    "grantDate": "20/08/2019",
+    "title": "Sistema de aquisi\u00e7\u00e3o para detectar a posi\u00e7\u00e3o angular de um bot\u00e3o para o g\u00e1s de uma motocicleta",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06425475.8",
+            "priorityDate": "07/07/2006"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07425345.1",
+            "priorityDate": "04/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2798"
+        }
+    ],
+    "inventors": [
+        "GIUSEPPE GAMBERINI",
+        "CLAUDIO GROSSI",
+        "ROBERTO PICIOTTI",
+        "MAURIZIO FIORENTINI",
+        "MASSIMO ZANOTTI",
+        "LORIS LAMBERTINI",
+        "STEFANO MUSOLESI"
+    ],
+    "holders": [
+        383357
+    ],
+    "ipcCodes": [
+        "B62K 23/04",
+        "F02D 11/02",
+        "F02D 11/10"
+    ]
+}

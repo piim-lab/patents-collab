@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "PI 0720008-0",
+    "filingDate": "07/12/2007",
+    "grantDate": "26/02/2019",
+    "title": "INSTALA\u00c7\u00c3O DE AQUECIMENTO E/OU DE AR CONDICIONADO DE VE\u00cdCULO AUTOMOTOR COM V\u00c1LVULA DE MISTURA E DISTRIBUI\u00c7\u00c3O DE AR COMBINADA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 025338.2",
+            "priorityDate": "07/12/2006"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 038 503.1",
+            "priorityDate": "14/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "MICHAEL BERGER",
+        "BJ\u00d6RN LINDNER",
+        "OLIVIER ROYER",
+        "ALEXANDER SATRAPA",
+        "MATTHIAS SCHALL",
+        "WALTER WOLF",
+        "THOMAS FEITH"
+    ],
+    "holders": [
+        374089,
+        387994,
+        387995
+    ],
+    "ipcCodes": [
+        "B60H 1/00"
+    ]
+}

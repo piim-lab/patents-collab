@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0711095-2",
+    "filingDate": "04/05/2007",
+    "grantDate": null,
+    "title": "PROVISIONAMENTO GLOBAL DE MILH\u00d5ES DE USU\u00c1RIOS COM UNIDADES DE USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/418.687",
+            "priorityDate": "05/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        }
+    ],
+    "inventors": [
+        "WEIDONG WANG",
+        "THOMAS D SANFILIPPO"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "H04L 29/08"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "PI 0712911-4",
+    "filingDate": "27/04/2007",
+    "grantDate": null,
+    "title": "M\u00c1QUINA PARA AGRUPAR EMBALAGENS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RE2006A000064",
+            "priorityDate": "26/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        }
+    ],
+    "inventors": [
+        "GIORGIO OPPICI"
+    ],
+    "holders": [
+        6301
+    ],
+    "ipcCodes": [
+        "B65G 47/84",
+        "B65G 47/08"
+    ]
+}

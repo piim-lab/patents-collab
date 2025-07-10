@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "PI 0901426-8",
+    "filingDate": "04/03/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MINERA\u00c7\u00c3O, SISTEMA PARA EXPLORA\u00c7\u00c3O DE UMA MINA, ESTA\u00c7\u00c3O DE PROCESSAMENTO DE DADOS E MEIO LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2008901043",
+            "priorityDate": "04/03/2008"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2008904896",
+            "priorityDate": "19/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "JUAN NIETO",
+        "HUGH DURRANT",
+        "ALLAN BLAIR"
+    ],
+    "holders": [
+        96530
+    ],
+    "ipcCodes": [
+        "G06T 7/60",
+        "G06T 15/00",
+        "G06T 17/00",
+        "H04N 1/00",
+        "G06T 7/00",
+        "E21C 41/26",
+        "F42D 3/04",
+        "E21C 39/00"
+    ]
+}

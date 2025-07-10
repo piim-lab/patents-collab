@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0721030-2",
+    "filingDate": "03/12/2007",
+    "grantDate": null,
+    "title": "DISPOSITIVO DA REVIRAVOLTA DO AMORTECIMENTO DO CARRO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2007200105526",
+            "priorityDate": "08/02/2007"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2007100103633",
+            "priorityDate": "08/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        }
+    ],
+    "inventors": [
+        "JINFU WANG"
+    ],
+    "holders": [
+        100122
+    ],
+    "ipcCodes": [
+        "B65G 67/48",
+        "B65G 67/02"
+    ]
+}

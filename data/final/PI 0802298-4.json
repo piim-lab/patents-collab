@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0802298-4",
+    "filingDate": "20/06/2008",
+    "grantDate": "19/06/2018",
+    "title": "PROCESSO DE TRATAMENTO DE UM IMPLANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "07",
+            "priorityNumber": "55890",
+            "priorityDate": "20/06/2007 FR"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "SHEN MING"
+    ],
+    "holders": [
+        377215
+    ],
+    "ipcCodes": [
+        "A61L 27/50",
+        "A61L 27/22",
+        "A61L 27/24",
+        "A61L 27/00"
+    ]
+}

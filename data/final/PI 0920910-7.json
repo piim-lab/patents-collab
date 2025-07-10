@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "PI 0920910-7",
+    "filingDate": "11/11/2009",
+    "grantDate": "17/09/2019",
+    "title": "PROCESSO  DE  TRATAMENTO  PR\u00c9VIO  PARA  PROCESSOS  DE REVESTIMENTO E PROCESSO QUE COMPREENDE UM PROCESSO DE TRATAMENTO PR\u00c9VIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/116,461",
+            "priorityDate": "20/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2564"
+        }
+    ],
+    "inventors": [
+        "ARNO MOOSBRUGGER",
+        "MARIO WALCH",
+        "SIEGFRIED KRASSNITZER",
+        "STEPHAN KASEMANN",
+        "J\u00dcRGEN GWEHENBERGER"
+    ],
+    "holders": [
+        82039
+    ],
+    "ipcCodes": [
+        "B05D 7/24",
+        "C23C 16/44",
+        "C23C 14/56",
+        "B05D 5/08",
+        "B05D 1/32"
+    ]
+}

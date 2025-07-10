@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0706536-1",
+    "filingDate": "12/01/2007",
+    "grantDate": "16/07/2019",
+    "title": "DISPOSITIVO DE FORMA\u00c7\u00c3O POR PRENSA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "206-006370",
+            "priorityDate": "13/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "TAKUYA KUWAYAMA",
+        "NORIYUKI SUZUKI",
+        "PATRICK DUROUX"
+    ],
+    "holders": [
+        61,
+        377174
+    ],
+    "ipcCodes": [
+        "B21D 22/02",
+        "B21D 37/00"
+    ]
+}

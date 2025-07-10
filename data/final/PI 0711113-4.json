@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0711113-4",
+    "filingDate": "19/04/2007",
+    "grantDate": "21/08/2018",
+    "title": "MATERIAL DE CHAPA DE ALUM\u00cdNIO COMP\u00d3SITO",
+    "priorityClaims": [
+        {
+            "countryCode": "06",
+            "priorityNumber": "009012.3",
+            "priorityDate": "02/05/2006 EP"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "PETER DE SMET",
+        "JAN DE HAAS"
+    ],
+    "holders": [
+        385365
+    ],
+    "ipcCodes": [
+        "B32B 15/01"
+    ]
+}

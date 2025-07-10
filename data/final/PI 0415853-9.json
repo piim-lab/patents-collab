@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0415853-9",
+    "filingDate": "21/10/2004",
+    "grantDate": "12/12/2017",
+    "title": "PROCESSO PARA PREPARAR UM SAL DE CLORIDRATO DE TELAVANCINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/513.359",
+            "priorityDate": "22/10/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "JYANWEI LIU",
+        "JUNNING LEE"
+    ],
+    "holders": [
+        101467
+    ],
+    "ipcCodes": [
+        "C07K 9/00"
+    ]
+}

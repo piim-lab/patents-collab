@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0909936-0",
+    "filingDate": "16/06/2009",
+    "grantDate": "23/07/2019",
+    "title": "Composi\u00e7\u00e3o para libera\u00e7\u00e3o transd\u00e9rmica",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/132,527",
+            "priorityDate": "19/06/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH SCHMITZ",
+        "MOHAMMAD SAMETI",
+        "ANDREAS KOCH",
+        "MICHAEL HORSTMANN"
+    ],
+    "holders": [
+        402142
+    ],
+    "ipcCodes": [
+        "A61K 9/70",
+        "A61K 47/32"
+    ]
+}

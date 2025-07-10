@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0813704-8",
+    "filingDate": "17/07/2008",
+    "grantDate": null,
+    "title": "PROCESSO DE PREPARA\u00c7\u00c3O DE \u00c9TERES C\u00cdCLICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0713598.1",
+            "priorityDate": "13/07/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "SHANKARSA HANAMANTHSA BEVINAKATTI",
+        "PAUL CHRISTOPHER NEWMAN",
+        "MARTIN SCHROEDER",
+        "PIETRO TUNDO",
+        "FABIO ARICO",
+        "SIMON ELLWOOD"
+    ],
+    "holders": [
+        92015
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "C07D 487/04",
+        "C07D 471/04",
+        "C07D 495/04",
+        "A61K 31/33"
+    ]
+}

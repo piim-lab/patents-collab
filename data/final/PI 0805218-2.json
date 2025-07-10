@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0805218-2",
+    "filingDate": "07/11/2008",
+    "grantDate": null,
+    "title": "\u201cAparelho, sistema e m\u00e9todo para esquema de omiss\u00e3o de trava por hardware h\u00edbrida de retirada pr\u00e9via-posterior\u201d.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/936,243",
+            "priorityDate": "07/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        }
+    ],
+    "inventors": [
+        "HAITHAM AKKARY",
+        "SHLOMO RAIKIN",
+        "RAVI RAJWAR",
+        "GAD S SHAEFFER",
+        "SRIKANTH T SRINIVASAN"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "G06F 12/00"
+    ]
+}

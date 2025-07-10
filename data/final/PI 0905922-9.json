@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0905922-9",
+    "filingDate": "19/01/2009",
+    "grantDate": "31/07/2018",
+    "title": "OBTURADOR ABASTECIVEL  ATIVADO POR BOT\u00c3O DE PRESS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "210/08",
+            "priorityDate": "14/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "FRITZ SEELHOFER"
+    ],
+    "holders": [
+        285364,
+        128733
+    ],
+    "ipcCodes": [
+        "B65D 51/28"
+    ]
+}

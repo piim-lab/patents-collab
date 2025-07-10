@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "PI 0719326-2",
+    "filingDate": "07/12/2007",
+    "grantDate": "21/08/2018",
+    "title": "PROCESSO PARA PURIFICAR UMA MISTURA GASOSA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06125807.5",
+            "priorityDate": "11/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "DIETER BAUMANN",
+        "BEATRICE R\u00d6SSLER",
+        "JOAQUIM HENRIQUE TELES",
+        "BEATRICE R\u00d6SSLER",
+        "JOAQUIM HENRIQUE TELES",
+        "DIETER BAUMANN"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "B01D 53/14",
+        "C01B 21/22"
+    ]
+}

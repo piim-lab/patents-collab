@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0711022-7",
+    "filingDate": "11/05/2007",
+    "grantDate": "06/10/2020",
+    "title": "INALADOR DE P\u00d3 PARA ADMINISTRA\u00c7\u00c3O PULMONAR OU NASAL",
+    "priorityClaims": [
+        {
+            "countryCode": "PT",
+            "priorityNumber": "103.481",
+            "priorityDate": "16/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "LAIN MCDERMENT",
+        "MARTIN BUNCE",
+        "PETER VILLAX"
+    ],
+    "holders": [
+        141632
+    ],
+    "ipcCodes": [
+        "A61M 15/00"
+    ]
+}

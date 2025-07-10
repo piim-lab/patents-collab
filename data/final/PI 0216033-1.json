@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0216033-1",
+    "filingDate": "05/04/2002",
+    "grantDate": "02/01/2018",
+    "title": "\"TERAPIA DE IMUNIZA\u00c7\u00c3O \u00c0 BASE DE PEPT\u00cdDIO PARA TRATAMENTO DE ARTERIOSCLEROSE\"",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0101232-7",
+            "priorityDate": "05/04/2001"
+        },
+        {
+            "countryCode": "SE",
+            "priorityNumber": "0103754-8",
+            "priorityDate": "09/11/2001"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/04/2002",
+        "applicationNumber": "PI 0208685-9"
+    },
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "NILSSON JAN",
+        "PREDIMAN K SHAH"
+    ],
+    "holders": [
+        371362
+    ],
+    "ipcCodes": [
+        "A61K 38/00"
+    ]
+}

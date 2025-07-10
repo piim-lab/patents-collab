@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0507703-6",
+    "filingDate": "03/02/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRANSMITIR UMA MENSAGEM PARA M\u00daLTIPLOS RECEPTORES E APARELHO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0402774.4",
+            "priorityDate": "09/02/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        }
+    ],
+    "inventors": [
+        "MICHAEL ROOKE",
+        "GEORGE DENISSOFF"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04W 4/12",
+        "H04W 4/08",
+        "H04L 12/58"
+    ]
+}

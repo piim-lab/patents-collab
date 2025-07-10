@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0820033-5",
+    "filingDate": "01/12/2008",
+    "grantDate": null,
+    "title": "ESTOQUE DE ABASTECIMENTO E M\u00c9TODO PARA A PREPARA\u00c7\u00c3O DO ESTOQUE DE ABASTECIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/950,744",
+            "priorityDate": "05/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        }
+    ],
+    "inventors": [
+        "JAN IHLE",
+        "VERENA FISCHER",
+        "KARIN HAJEK",
+        "GERD SCHEIWE",
+        "THOMAS HAFERKORN",
+        "MORITZ V WITZLEBEN"
+    ],
+    "holders": [
+        394655
+    ],
+    "ipcCodes": [
+        "C04B 35/634",
+        "C04B 35/468",
+        "H05B 3/14",
+        "H01C 7/02",
+        "B28B 1/24"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0409227-9",
+    "filingDate": "06/04/2004",
+    "grantDate": "30/10/2018",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, USO DE UM COMPOSTO, INTERMEDI\u00c1RIO, E, PROCESSO PARA A PREPARA\u00c7\u00c3O DE UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/461,286",
+            "priorityDate": "07/04/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/464,448",
+            "priorityDate": "21/04/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ERIC J VERNER",
+        "MARTIN SENDZIK",
+        "CHITRA BASKARAN",
+        "JOSEPH J BUGGY",
+        "JAMES ROBINSON"
+    ],
+    "holders": [
+        104149
+    ],
+    "ipcCodes": [
+        "A61K 31/165",
+        "A61K 31/18",
+        "A61K 31/34",
+        "A61K 31/33",
+        "C07C 259/10",
+        "C07D 333/70",
+        "C07D 261/10",
+        "C07D 307/85"
+    ]
+}

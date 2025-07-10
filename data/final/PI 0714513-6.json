@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0714513-6",
+    "filingDate": "06/09/2007",
+    "grantDate": null,
+    "title": "ETIQUETA DE TRANSFER\u00caNCIA T\u00c9RMICA SELETIVAMENTE METALIZADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/825,046",
+            "priorityDate": "08/09/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/848,855",
+            "priorityDate": "31/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "MICHAEL B COLELLA",
+        "PAUL GIUSTO",
+        "EILEEN NORRIS"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": [
+        "G09F 3/10",
+        "G09F 3/04",
+        "B44C 1/17"
+    ]
+}

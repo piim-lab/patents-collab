@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0308822-7",
+    "filingDate": "10/04/2003",
+    "grantDate": "07/05/2019",
+    "title": "PROCESSO DE COQUEIFICA\u00c7\u00c3O RETARDADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/121,897",
+            "priorityDate": "11/04/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "SHARON A ANNESLEY",
+        "GARY C HUGHES",
+        "JAMAL ALLYEN SANDARUSI"
+    ],
+    "holders": [
+        128184
+    ],
+    "ipcCodes": [
+        "B01J 8/00",
+        "C10G 9/00",
+        "C10G 69/06"
+    ]
+}

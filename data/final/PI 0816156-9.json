@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0816156-9",
+    "filingDate": "15/08/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONTROLE DE HANDOVER, ESTA\u00c7\u00c3O R\u00c1DIO BASE E ESTA\u00c7\u00c3O M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-212506",
+            "priorityDate": "16/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.1",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        }
+    ],
+    "inventors": [
+        "MINAMI ISHII",
+        "TAKEHIRO NAKAMURA"
+    ],
+    "holders": [
+        87815
+    ],
+    "ipcCodes": [
+        "H04W 36/00"
+    ]
+}

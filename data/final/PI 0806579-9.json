@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0806579-9",
+    "filingDate": "16/01/2008",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROTE\u00c7\u00c3O PARA UM CABO DE FOR\u00c7A, E, M\u00c9TODO PARA PROTEGER UM CABO DE FOR\u00c7A",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0752702",
+            "priorityDate": "16/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "STEPHANE TOGNALI",
+        "PIERRE GAUTIER"
+    ],
+    "holders": [
+        390367
+    ],
+    "ipcCodes": [
+        "H02G 15/10",
+        "H02G 15/188",
+        "H02G 15/24"
+    ]
+}

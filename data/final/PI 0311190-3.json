@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0311190-3",
+    "filingDate": "25/04/2003",
+    "grantDate": "21/11/2018",
+    "title": "ELEMENTO DE SEGURAN\u00c7A E DOCUMENTO DE VALOR COM O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102 22 433.1",
+            "priorityDate": "22/05/2002"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "205",
+            "description": "Intima\u00e7\u00e3o para manifesta\u00e7\u00e3o por parte do titular e do requerente",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "200",
+            "description": "Processo administrativo de Nulidade conhecido e provido. Declarada a Nulidade da Patente.",
+            "bulletinNumber ": "2577"
+        }
+    ],
+    "inventors": [
+        "WERNER REINHART"
+    ],
+    "holders": [
+        372013
+    ],
+    "ipcCodes": [
+        "G07D 7/12",
+        "B41M 3/14",
+        "B42D 25/328"
+    ]
+}

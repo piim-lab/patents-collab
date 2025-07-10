@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "PI 0514490-6",
+    "filingDate": "02/08/2005",
+    "grantDate": "21/08/2018",
+    "title": "Processo para revestimento de um substrato sob press\u00e3o atmosf\u00e9rica",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/602,405",
+            "priorityDate": "18/08/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "NORMAN W JOHNSTON"
+    ],
+    "holders": [
+        103671
+    ],
+    "ipcCodes": [
+        "C23C 14/06",
+        "H01L 31/18",
+        "C23C 14/22",
+        "H01L 31/0216"
+    ]
+}

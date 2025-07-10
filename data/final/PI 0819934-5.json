@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0819934-5",
+    "filingDate": "15/12/2008",
+    "grantDate": null,
+    "title": "FIBRA CONJUGADA, PANO N\u00c3O-TECIDO, E, ARTIGO CONFORMADO.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-323616",
+            "priorityDate": "14/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "MASAHITO KATSUYA",
+        "TOSHIKATSU FUJIWARA",
+        "HIROKAZU TERADA"
+    ],
+    "holders": [
+        83234,
+        83235,
+        83236,
+        83237
+    ],
+    "ipcCodes": [
+        "D01F 8/06",
+        "D04H 1/54"
+    ]
+}

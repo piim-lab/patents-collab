@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0908725-7",
+    "filingDate": "13/03/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA FORMAR UM INGREDIENTE REAL\u00c7ADOR DE SAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/037,064",
+            "priorityDate": "17/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        }
+    ],
+    "inventors": [
+        "JOHAN PETER VAN LEERSUM",
+        "TARUN BHOWMIK",
+        "STEFKA IVANOVA MYAKA",
+        "ROY WADE SMITH"
+    ],
+    "holders": [
+        92015
+    ],
+    "ipcCodes": [
+        "A23L 27/40"
+    ]
+}

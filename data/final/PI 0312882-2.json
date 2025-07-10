@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "PI 0312882-2",
+    "filingDate": "23/07/2003",
+    "grantDate": "09/04/2019",
+    "title": "DERIVADOS DE PLEUROMUTILINA E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0217149.4",
+            "priorityDate": "24/07/2002"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0217305.2",
+            "priorityDate": "25/07/2002"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP03/03215",
+            "priorityDate": "27/03/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "HEINZ BERNER",
+        "GABRIELE KERBER"
+    ],
+    "holders": [
+        177003
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "C07D 211/58",
+        "A61K 31/445",
+        "C07D 401/06",
+        "A61K 31/45",
+        "C07D 211/56",
+        "C07D 211/54"
+    ]
+}

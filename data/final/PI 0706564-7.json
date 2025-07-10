@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0706564-7",
+    "filingDate": "12/01/2007",
+    "grantDate": "25/06/2019",
+    "title": "SISTEMA DE AMARRA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20060232",
+            "priorityDate": "16/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "KARL CHRISTIAN STROMSEM",
+        "FRED OLSEN",
+        "HANS \u00d8IGARDEN"
+    ],
+    "holders": [
+        384068,
+        500
+    ],
+    "ipcCodes": []
+}

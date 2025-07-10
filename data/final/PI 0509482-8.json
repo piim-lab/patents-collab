@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0509482-8",
+    "filingDate": "29/03/2005",
+    "grantDate": "11/12/2018",
+    "title": "Complexo de inclus\u00e3o, processo de prepara\u00e7\u00e3o de um complexo de inclus\u00e3o, e composi\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0403450",
+            "priorityDate": "01/04/2004"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0411201",
+            "priorityDate": "21/10/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2590"
+        }
+    ],
+    "inventors": [
+        "BERNARD FREISS",
+        "FLORENCE MARCIACQ",
+        "HUBERT LOCHARD"
+    ],
+    "holders": [
+        82861
+    ],
+    "ipcCodes": [
+        "B82Y 5/00",
+        "A61K 31/5415",
+        "C08B 37/16",
+        "A61K 47/69"
+    ]
+}

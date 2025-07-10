@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0800126-0",
+    "filingDate": "08/02/2008",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE FORNECIMENTO DE COMBUST\u00cdVEL DE USO NO MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-034149",
+            "priorityDate": "14/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        }
+    ],
+    "inventors": [
+        "MINORU UEDA",
+        "TOSHIYUKI KUBOTA",
+        "SHIRO KOKUBU",
+        "TOSHIYUKI KUBOTA",
+        "MINORU UEDA",
+        "SHIRO KOKUBU"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "B62J 37/00"
+    ]
+}

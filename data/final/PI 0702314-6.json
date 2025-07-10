@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0702314-6",
+    "filingDate": "24/05/2007",
+    "grantDate": null,
+    "title": "DETECTOR E M\u00c9TODO DE CIRCUITO EM ANEL SENSOR DE PROCESSADOR DIGITAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/421,224",
+            "priorityDate": "31/05/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        }
+    ],
+    "inventors": [
+        "JACK BRUCE WALLACE",
+        "JOHN JAMES GARTLAND",
+        "RICHARD HERMAN BLAUSEY",
+        "EDWARD LOUIS KEREKES JR"
+    ],
+    "holders": [
+        2791
+    ],
+    "ipcCodes": [
+        "G06F 17/14",
+        "B65G 43/06",
+        "G01N 23/18",
+        "G01N 27/61"
+    ]
+}

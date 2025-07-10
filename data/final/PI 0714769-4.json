@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0714769-4",
+    "filingDate": "25/07/2007",
+    "grantDate": "12/02/2019",
+    "title": "CARENAGEM COM ALETA DUPLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/463.413",
+            "priorityDate": "09/08/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/684.861",
+            "priorityDate": "12/03/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "RODNEY H MASTERS",
+        "RANDY W MASTERS",
+        "MICHAEL SYKES",
+        "STEVEN J LEVERETTE",
+        "KENNETH J SCHAUDT"
+    ],
+    "holders": [
+        92088,
+        386355
+    ],
+    "ipcCodes": [
+        "E21B 17/01",
+        "F16L 1/12",
+        "F15D 1/10"
+    ]
+}

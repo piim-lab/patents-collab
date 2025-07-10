@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0609842-8",
+    "filingDate": "15/03/2006",
+    "grantDate": null,
+    "title": "MISTURA POLIM\u00c9RICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2005/008917",
+            "priorityDate": "17/03/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/718,165",
+            "priorityDate": "16/09/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "MORGAN MARK HUGHES",
+        "YUNWA WILSON CHEUNG",
+        "PANKAJ P GUPTA",
+        "JOHN JOSEPH GATHERS"
+    ],
+    "holders": [
+        9272
+    ],
+    "ipcCodes": [
+        "C08F 2/38",
+        "C08F 297/08",
+        "C08F 4/646"
+    ]
+}

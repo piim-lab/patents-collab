@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "PI 0512763-7",
+    "filingDate": "12/05/2005",
+    "grantDate": null,
+    "title": "EQUIPAMENTO E M\u00c9TODO PARA GERAR UM SINAL DE SA\u00cdDA MULTICANAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/586,578",
+            "priorityDate": "09/07/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/935,061",
+            "priorityDate": "07/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        }
+    ],
+    "inventors": [
+        "JUERGEN HERRE",
+        "CHRISTOF FALLER",
+        "SASCHA DISCH",
+        "JOHANNES HILPERT"
+    ],
+    "holders": [
+        87912,
+        375576
+    ],
+    "ipcCodes": [
+        "G10L 19/008"
+    ]
+}

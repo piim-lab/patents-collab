@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0904666-6",
+    "filingDate": "11/11/2009",
+    "grantDate": null,
+    "title": "CORREIA TRANSPORTADORA, SISTEMA TRANSPORTADOR E M\u00c9TODO PARA DETECTAR DANO A UMA CORREIA TRANSPORTADORA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/115.270",
+            "priorityDate": "17/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        }
+    ],
+    "inventors": [
+        "JACK BRUCE WALLACE"
+    ],
+    "holders": [
+        2791
+    ],
+    "ipcCodes": [
+        "B65G 43/02",
+        "G01N 27/82",
+        "B65G 47/02"
+    ]
+}

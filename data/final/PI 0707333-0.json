@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0707333-0",
+    "filingDate": "23/01/2007",
+    "grantDate": "24/12/2019",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA QUE COMPREENDE UM COMPOSTO BIC\u00cdCLICO, M\u00c9TODO DE ESTABILIZA\u00c7\u00c3O DO COMPOSTO BIC\u00cdCLICO E FORMULA\u00c7\u00c3O DE C\u00c1PSULA DE GELATINA MOLE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/761,362",
+            "priorityDate": "24/01/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "RYU HIRATA",
+        "YASUHIRO HARADA",
+        "RYUJI UENO"
+    ],
+    "holders": [
+        384301,
+        369502
+    ],
+    "ipcCodes": [
+        "A61K 47/10",
+        "A61K 47/14",
+        "A61K 31/352",
+        "A61K 9/48"
+    ]
+}

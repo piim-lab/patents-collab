@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0917448-6",
+    "filingDate": "05/08/2009",
+    "grantDate": "28/01/2020",
+    "title": "ARMAZENAMENTO DE NOTAS BANC\u00c1RIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2008 A 001511",
+            "priorityDate": "08/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2794"
+        }
+    ],
+    "inventors": [
+        "NICOLETTA RAZZABONI",
+        "VITTORIO RAZZABONI"
+    ],
+    "holders": [
+        384710
+    ],
+    "ipcCodes": [
+        "G07D 11/00",
+        "B65H 29/00"
+    ]
+}

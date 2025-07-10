@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0806931-0",
+    "filingDate": "17/01/2008",
+    "grantDate": null,
+    "title": "GUINDASTE DE I\u00c7AMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/653958",
+            "priorityDate": "17/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "JOOP ROODENBURG",
+        "GERRIT VAN WIJK",
+        "ADRIAAN JAN RODENBURG"
+    ],
+    "holders": [
+        121373
+    ],
+    "ipcCodes": [
+        "B66C 23/84",
+        "B66C 23/52"
+    ]
+}

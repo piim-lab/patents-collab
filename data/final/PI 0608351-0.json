@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0608351-0",
+    "filingDate": "26/04/2006",
+    "grantDate": null,
+    "title": "CONTROLE DE POSI\u00c7\u00c3O DE DIAFRAGMA PARA BOMBAS ACIONADAS HIDRAULICAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/114.706",
+            "priorityDate": "26/04/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        }
+    ],
+    "inventors": [
+        "RICHARD D HEMBREE"
+    ],
+    "holders": [
+        275003
+    ],
+    "ipcCodes": [
+        "F04B 43/067"
+    ]
+}

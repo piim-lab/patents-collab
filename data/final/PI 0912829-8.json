@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0912829-8",
+    "filingDate": "09/01/2009",
+    "grantDate": null,
+    "title": "Processo para beneficiar \u00f3leo bruto contendo \u00e1cido inferior",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200810112002.4",
+            "priorityDate": "20/05/2008"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200810113393.1",
+            "priorityDate": "29/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "JUN LONG",
+        "JIUSHUN ZHANG",
+        "HUIPING TIAN",
+        "YUXIA ZHU"
+    ],
+    "holders": [
+        1827,
+        14444
+    ],
+    "ipcCodes": [
+        "B01J 29/06"
+    ]
+}

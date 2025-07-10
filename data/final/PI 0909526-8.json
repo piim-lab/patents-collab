@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "PI 0909526-8",
+    "filingDate": "05/03/2009",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO PARA O CONTROLE DE UM ELEMENTO DE BLOQUEIO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102008013487210",
+            "priorityDate": "10/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "STEFAN M\u00d6NIG",
+        "DIRK WITTWER",
+        "ARMIN GEURDEN",
+        "J\u00d6RG SIMON",
+        "MIRKO SCHINDLER",
+        "MATTHIAS KLEIN",
+        "JOACHIM SCHNEIDER"
+    ],
+    "holders": [
+        40996
+    ],
+    "ipcCodes": [
+        "B60R 25/02"
+    ]
+}

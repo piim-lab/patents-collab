@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0907536-4",
+    "filingDate": "25/02/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE TESTE DE UM REVESTIMENTO SUSCET\u00cdVEL DE REVESTIR UMA BASE DE P\u00c1 DE ROTOR DE TURBOM\u00c1QUINA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0851183",
+            "priorityDate": "25/02/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "ALAIN BASSOT",
+        "LAURENT DUDON",
+        "CLAIRE PERRIAU"
+    ],
+    "holders": [
+        79254
+    ],
+    "ipcCodes": [
+        "G01N 3/56"
+    ]
+}

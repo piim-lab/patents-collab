@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 1010971-4",
+    "filingDate": "20/05/2010",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA VARREDURA ESTEREOSC\u00d3PICA.",
+    "nationalPhaseDate": [
+        "21/11/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IL2010/000401",
+        "pctDate": "20/05/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IS",
+            "priorityNumber": "198883",
+            "priorityDate": "21/05/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "VICTOR GOSTYNSKI",
+        "DROR LUBIN"
+    ],
+    "holders": [
+        96000
+    ],
+    "ipcCodes": [
+        "G01C 11/02",
+        "G01C 11/06"
+    ]
+}

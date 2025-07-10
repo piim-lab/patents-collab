@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0810279-1",
+    "filingDate": "14/05/2008",
+    "grantDate": "17/12/2019",
+    "title": "\"JUNTA GIRAT\u00d3RIA\"",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-129464",
+            "priorityDate": "15/05/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "TOMOKAZU SENDAI",
+        "YASUSHI KAMADA",
+        "HISANORI KOBAYASHI"
+    ],
+    "holders": [
+        390155,
+        5783
+    ],
+    "ipcCodes": [
+        "B25J 19/00",
+        "F16L 27/08"
+    ]
+}

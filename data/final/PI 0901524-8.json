@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0901524-8",
+    "filingDate": "20/05/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CONTATO DESTINADO A UM CONTATOR DE POT\u00caNCIA COM ALTA RESIST\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "08 02780",
+            "priorityDate": "22/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "PATRICK LARCHER",
+        "JULIEN GUIBERT",
+        "JO\u00cbL REBOULET"
+    ],
+    "holders": [
+        253
+    ],
+    "ipcCodes": [
+        "H01H 1/06"
+    ]
+}

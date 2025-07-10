@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "PI 0413081-2",
+    "filingDate": "27/07/2004",
+    "grantDate": "20/03/2018",
+    "title": "Processo para produzir o cloridrato do composto imida",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2003-281860",
+            "priorityDate": "29/07/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "YUZO KAKIYA",
+        "MAYUMI ODA"
+    ],
+    "holders": [
+        271742
+    ],
+    "ipcCodes": [
+        "A61P 25/28",
+        "A61K 31/496",
+        "C07D 417/12"
+    ]
+}

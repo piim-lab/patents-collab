@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0905847-8",
+    "filingDate": "30/01/2009",
+    "grantDate": "14/05/2019",
+    "title": "Composi\u00e7\u00e3o Farmac\u00eautica Injet\u00e1vel",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0850617",
+            "priorityDate": "31/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/025,107",
+            "priorityDate": "31/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHE LEROUX",
+        "GUILLAUME BASTIAT"
+    ],
+    "holders": [
+        369793,
+        89899
+    ],
+    "ipcCodes": [
+        "A61K 9/06",
+        "A61K 47/16"
+    ]
+}

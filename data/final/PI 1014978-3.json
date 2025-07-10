@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 1014978-3",
+    "filingDate": "16/04/2010",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE TRATAMENTO DO C\u00c2NCER E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA.",
+    "nationalPhaseDate": [
+        "17/10/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2010/031455",
+        "pctDate": "16/04/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/170,555",
+            "priorityDate": "17/04/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "HIRAK S BASU",
+        "DAVID ZARLING"
+    ],
+    "holders": [
+        417417
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61P 39/06",
+        "A61K 31/353",
+        "A61K 31/352"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "applicationNumber": "PI 1007922-0",
+    "filingDate": "05/02/2010",
+    "grantDate": null,
+    "title": "UM PROCESSO E UM DISPOSITIVO PARA O TRATAMENTO CONT\u00cdNUO DE SUBST\u00c2NCIAS MISTURADAS",
+    "nationalPhaseDate": [
+        "05/08/2011"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2010/000735",
+        "pctDate": "05/02/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102009007621.2",
+            "priorityDate": "05/02/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102009007642.5",
+            "priorityDate": "05/02/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102009007644.1",
+            "priorityDate": "05/02/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102009007640.9",
+            "priorityDate": "05/02/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102009007641.7",
+            "priorityDate": "05/02/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102009007643.3",
+            "priorityDate": "05/02/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "ANDREAS DIENER",
+        "ALAIN FLEURY",
+        "THOMAS ISENSCHMID",
+        "ALFRED KUNZ",
+        "ALAIN SCHWICK",
+        "MANUEL STEINER",
+        "DANIEL WITTE"
+    ],
+    "holders": [
+        139708
+    ],
+    "ipcCodes": [
+        "B29C 47/00",
+        "B01D 1/22",
+        "B01D 19/00",
+        "C08F 6/00",
+        "C08F 6/16",
+        "C08G 85/00",
+        "C08F 6/28",
+        "C08F 6/10",
+        "C08C 1/12",
+        "C08F 6/12",
+        "C08C 3/02",
+        "C08F 6/20",
+        "C08C 2/02"
+    ]
+}

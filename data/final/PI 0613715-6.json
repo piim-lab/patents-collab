@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0613715-6",
+    "filingDate": "28/06/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA DIMENSIONAR UM MEMBRO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-192091",
+            "priorityDate": "30/06/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-196506",
+            "priorityDate": "05/07/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-089059",
+            "priorityDate": "28/03/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        }
+    ],
+    "inventors": [
+        "TOSHIYUKI NIWA",
+        "HIROSHI YOSHIDA",
+        "EIJI ISOGAI",
+        "YUICHI YOSHIDA"
+    ],
+    "holders": [
+        188,
+        377174
+    ],
+    "ipcCodes": [
+        "B21D 22/00",
+        "G06F 17/50"
+    ]
+}

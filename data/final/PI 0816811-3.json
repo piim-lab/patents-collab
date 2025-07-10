@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "PI 0816811-3",
+    "filingDate": "12/09/2008",
+    "grantDate": "28/05/2019",
+    "title": "PROCESSO DE TRATAMENTO DE UMA LENTE \u00d3PTICA, E, LENTE \u00d3PTICA APTA \u00c0 BISELAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0757557",
+            "priorityDate": "14/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "CHEFIK HABASSI",
+        "MARCEL YAIGRE"
+    ],
+    "holders": [
+        81123
+    ],
+    "ipcCodes": [
+        "G02C 7/02",
+        "B24B 9/14",
+        "C03C 17/42",
+        "G02B 1/10"
+    ]
+}

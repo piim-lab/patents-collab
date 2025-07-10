@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0909084-3",
+    "filingDate": "26/03/2009",
+    "grantDate": null,
+    "title": "PEPT\u00cdDEO ALDE\u00cdDO, E, COMPOSI\u00c7\u00c3O L\u00cdQUIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08153299.6",
+            "priorityDate": "26/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.6.3",
+            "description": "Exig\u00eancia formal \u2013 listagem de sequ\u00eancias.",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "LONE KIERSTEIN NIELSEN",
+        "ESBEN PETER FRIIS",
+        "JUERGEN CARSTEN FRANZ KNOETZEL",
+        "OLE SIMONSEN",
+        "LOTTE RUGHOLM SOERENSEN",
+        "LISE MUNCH MIKKELSEN"
+    ],
+    "holders": [
+        28978
+    ],
+    "ipcCodes": [
+        "C07K 2/00",
+        "C11D 3/386",
+        "C07K 5/10",
+        "C07K 5/08"
+    ]
+}

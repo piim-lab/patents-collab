@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "PI 0807288-4",
+    "filingDate": "22/02/2008",
+    "grantDate": "02/07/2019",
+    "title": "TAMPA DISPENSADORA PARA GARRAFAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2007A 000364",
+            "priorityDate": "26/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "MAURIZIO SORZE"
+    ],
+    "holders": [
+        82231
+    ],
+    "ipcCodes": [
+        "B65D 47/24",
+        "B65D 49/04"
+    ]
+}

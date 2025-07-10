@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "PI 0621386-3",
+    "filingDate": "02/10/2006",
+    "grantDate": "17/11/2020",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA PARA O USO EXTERNO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-062078",
+            "priorityDate": "08/03/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-215904",
+            "priorityDate": "08/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "TOYOHIKO MIKI",
+        "AKIRA NOZAWA",
+        "NOBUO KUBOTA",
+        "SUSUMU TOMIYAMA",
+        "HIROKAZU KOBAYASHI"
+    ],
+    "holders": [
+        382569,
+        117291
+    ],
+    "ipcCodes": [
+        "A61K 47/10",
+        "A61K 47/14",
+        "A61K 31/4178",
+        "A61P 31/10",
+        "A61K 47/12",
+        "A61K 47/22"
+    ]
+}

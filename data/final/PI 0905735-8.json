@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0905735-8",
+    "filingDate": "19/01/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE COMUTA\u00c7\u00c3O PARA SISTEMAS DE BAIXA TENS\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2008A 000158",
+            "priorityDate": "31/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "LUIGI ARTURO DEGLI INNOCENTI",
+        "EDOARDO SCOLA"
+    ],
+    "holders": [
+        6970
+    ],
+    "ipcCodes": [
+        "H01H 71/46"
+    ]
+}

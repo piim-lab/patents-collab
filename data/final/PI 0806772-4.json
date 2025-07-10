@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0806772-4",
+    "filingDate": "15/01/2008",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE SEGURAN\u00c7A TENDO UM AGENTE SECUND\u00c1RIO EM COORDENA\u00c7\u00c3O COM AGENTE HOST",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/880,800",
+            "priorityDate": "16/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2575"
+        }
+    ],
+    "inventors": [
+        "WILLIAM DOYLE GORDON"
+    ],
+    "holders": [
+        384786
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04W 4/02",
+        "G06F 21/88",
+        "G06F 21/55",
+        "G06F 21/57",
+        "H04W 12/12",
+        "G08B 13/14",
+        "G06F 21/71",
+        "G06F 21/81"
+    ]
+}

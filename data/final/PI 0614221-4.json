@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "PI 0614221-4",
+    "filingDate": "11/07/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO, APARELHO E SISTEMA PARA FORNECER INFORMA\u00c7\u00c3O DE PRESEN\u00c7A EM SUPORTE A SERVI\u00c7OS DE COMUNICA\u00c7\u00c3O SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/698,192",
+            "priorityDate": "11/07/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/348,896",
+            "priorityDate": "07/02/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        }
+    ],
+    "inventors": [
+        "KRISZTIAN KISS"
+    ],
+    "holders": [
+        375769
+    ],
+    "ipcCodes": [
+        "H04W 8/18",
+        "H04W 4/08",
+        "H04W 60/04",
+        "H04M 3/42",
+        "H04W 4/10",
+        "H04W 76/45"
+    ]
+}

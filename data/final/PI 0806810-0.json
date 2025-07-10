@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0806810-0",
+    "filingDate": "21/01/2008",
+    "grantDate": "13/11/2018",
+    "title": "DISPOSITIVOS PARA CONTROLAR MOTORES DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-012642",
+            "priorityDate": "23/01/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2670"
+        }
+    ],
+    "inventors": [
+        "YUUICHI KATO",
+        "HIROKI ICHINOSE",
+        "NAO MURASE",
+        "RIE OSAKI"
+    ],
+    "holders": [
+        13104,
+        5783
+    ],
+    "ipcCodes": [
+        "F02D 19/08",
+        "F02D 41/02",
+        "F02D 41/04",
+        "F02D 41/06",
+        "F02D 45/00",
+        "F02P 5/15"
+    ]
+}

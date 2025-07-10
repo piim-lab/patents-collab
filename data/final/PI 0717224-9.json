@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0717224-9",
+    "filingDate": "24/09/2007",
+    "grantDate": null,
+    "title": "CONCENTRADO DE PIGMENTO N\u00c3O-AQUOSO, E USO DO CONCENTRADO DE PIGMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "981/KOL/2006",
+            "priorityDate": "26/09/2006"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "06 123764.0",
+            "priorityDate": "09/11/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/858,290",
+            "priorityDate": "10/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "HENDRIK JAN WILLEM VAN DEN HAAK",
+        "JAMIE MACLIVER ROY",
+        "CLAUDIO ARGENTINO DI LULLO",
+        "COLIN CAMERON",
+        "LORENZO SOLDAVINI",
+        "BHUVANESWARAN GANESH"
+    ],
+    "holders": [
+        80549
+    ],
+    "ipcCodes": [
+        "C09D 17/00",
+        "C09B 67/00",
+        "C08G 63/42"
+    ]
+}

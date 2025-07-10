@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0116050-8",
+    "filingDate": "06/12/2001",
+    "grantDate": "26/06/2012",
+    "title": "APARELHO PROTETOR DE SEGURAN\u00c7A PARA AGULHAS M\u00c9DICAS.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/254,506",
+            "priorityDate": "08/12/2000"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/296,968",
+            "priorityDate": "08/06/2001"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "09/892,593",
+            "priorityDate": "27/06/2001"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "ROY BARRUS",
+        "GALE THORNE JR",
+        "DAVID THORNE",
+        "CHARLES OWEN",
+        "DAVID SOLOMON",
+        "MARK FERGUSON",
+        "MICHAEL THORNE",
+        "STEPHEN BROWN"
+    ],
+    "holders": [
+        111215
+    ],
+    "ipcCodes": [
+        "A61M 5/32"
+    ]
+}

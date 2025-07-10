@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "PI 0909694-9",
+    "filingDate": "11/03/2009",
+    "grantDate": null,
+    "title": "PREPARA\u00c7\u00c3O DE LENALIDOMIDA",
+    "nationalPhaseDate": [
+        "02/09/2010"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2009/036773",
+        "pctDate": "11/03/2009",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "605/CHE/2008",
+            "priorityDate": "11/03/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/053,710",
+            "priorityDate": "16/05/2008"
+        },
+        {
+            "countryCode": "IN",
+            "priorityNumber": "1422/CHE/2008",
+            "priorityDate": "11/06/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/100,106",
+            "priorityDate": "25/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "SURYA NARAYANNA DEVARAKONDA",
+        "SESHA REDDY YARRANGUNTLA",
+        "VAMSI KRISHNA MUDAPAKA",
+        "RAJASEKHAR KADABOINA",
+        "VEERENDER MURKI",
+        "VENKATA RAO BADISA",
+        "NARESH VEMULA",
+        "RAMA SESHAGIRI RAO PULLA",
+        "VENU NALIVELA",
+        "AMARENDHAR MANDA"
+    ],
+    "holders": [
+        234856,
+        401952
+    ],
+    "ipcCodes": [
+        "A61K 31/40",
+        "C07D 209/46",
+        "C07D 209/44"
+    ]
+}

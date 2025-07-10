@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0810820-0",
+    "filingDate": "18/04/2008",
+    "grantDate": "25/06/2019",
+    "title": "DISPOSITIVO DE DISPENSA\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/914,243",
+            "priorityDate": "26/04/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/951,351",
+            "priorityDate": "06/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/052,338",
+            "priorityDate": "20/03/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2588"
+        }
+    ],
+    "inventors": [
+        "ROGER J LAFLAMME",
+        "ROBERT J MILETI"
+    ],
+    "holders": [
+        392096
+    ],
+    "ipcCodes": [
+        "G01F 11/28"
+    ]
+}

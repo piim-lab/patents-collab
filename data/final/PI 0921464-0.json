@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "PI 0921464-0",
+    "filingDate": "02/11/2009",
+    "grantDate": "06/10/2020",
+    "title": "PROCESSO PARA PREPARA\u00c7\u00c3O DE AGENTE DE CONTRASTE IODADO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2008A002042",
+            "priorityDate": "18/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "22.2",
+            "description": "Peti\u00e7\u00e3o N\u00e3o Conhecida",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "SILVIA CERAGIOLI",
+        "GIOVANNI CIARCIELLO",
+        "SALVATORE INCANDELA",
+        "PIETRO MINOTTI"
+    ],
+    "holders": [
+        80292
+    ],
+    "ipcCodes": [
+        "C07C 231/02"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0921853-0",
+    "filingDate": "26/11/2009",
+    "grantDate": null,
+    "title": "ELEMENTO DE FILTRAGEM INTERCAMBI\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2008 015 675.0",
+            "priorityDate": "26/11/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "RAINER LOOS",
+        "HELMULT LUKA",
+        "J\u00dcRGEN EBERLE",
+        "FRANK PFL\u00dcGER"
+    ],
+    "holders": [
+        4558
+    ],
+    "ipcCodes": [
+        "B01D 27/08",
+        "B01D 35/30"
+    ]
+}

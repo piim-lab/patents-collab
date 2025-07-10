@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0707928-1",
+    "filingDate": "12/02/2007",
+    "grantDate": "26/03/2019",
+    "title": "DISPOSITIVO APERFEI\u00c7OADO DE MANUSEIO PARA PEGAR E COLOCAR",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "06 03002.7",
+            "priorityDate": "15/02/2006"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "06 04380.6",
+            "priorityDate": "06/03/2006"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "06 23573.3",
+            "priorityDate": "27/11/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "RICHARD JOHN HAWES"
+    ],
+    "holders": [
+        384493
+    ],
+    "ipcCodes": [
+        "B65G 47/90",
+        "B25J 15/00",
+        "B25J 15/12"
+    ]
+}

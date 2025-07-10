@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0717966-9",
+    "filingDate": "22/10/2007",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o s\u00f3lida de tratamento de \u00e1gua",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/856.422",
+            "priorityDate": "03/11/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/975.574",
+            "priorityDate": "18/10/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        }
+    ],
+    "inventors": [
+        "NIDHI RAWAT",
+        "DAVID F PURDY",
+        "MICHAEL J ENGRAM"
+    ],
+    "holders": [
+        387322
+    ],
+    "ipcCodes": [
+        "C02F 103/02",
+        "C02F 1/76",
+        "C02F 103/42",
+        "C02F 1/50"
+    ]
+}

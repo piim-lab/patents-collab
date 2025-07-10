@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0820483-7",
+    "filingDate": "20/11/2008",
+    "grantDate": null,
+    "title": "VARIANTES DE GLICOAMILASE COM PROPRIEDADES ALTERADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/989,426",
+            "priorityDate": "20/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "WOLFGANG AEHLE",
+        "RICHARD R BOTT",
+        "MARTIJN SCHEFFERS",
+        "PIET VAN SOLINGEN",
+        "CASPER VROEMEN"
+    ],
+    "holders": [
+        85339
+    ],
+    "ipcCodes": [
+        "C12N 1/15",
+        "C12N 15/80",
+        "C12N 15/56",
+        "C12N 9/34"
+    ]
+}

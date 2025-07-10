@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0515651-3",
+    "filingDate": "10/08/2005",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO PARA GERAR UM SINAL DE MULTICANAIS OU UM CONJUNTO DE DADOS DE PAR\u00c2METROS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102004043521.9",
+            "priorityDate": "08/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "SPERSCHNEIDER RALPH",
+        "HERRE J\u00dcRGEN",
+        "HILPERT JOHANNES",
+        "ERTEL CHRISTIAN",
+        "GEYERSBERGER STEFAN"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "G10L 19/008"
+    ]
+}

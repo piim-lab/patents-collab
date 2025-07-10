@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0916554-1",
+    "filingDate": "22/07/2009",
+    "grantDate": null,
+    "title": "PARTICULAS DE SULFATO DE AM\u00d4NIO PELETIZADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/085,166",
+            "priorityDate": "31/07/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08161986.8",
+            "priorityDate": "07/08/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        386412
+    ],
+    "ipcCodes": []
+}

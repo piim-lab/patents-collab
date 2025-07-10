@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0815742-1",
+    "filingDate": "29/08/2008",
+    "grantDate": null,
+    "title": "ALCARAVIZ E M\u00c9TODO DE INJE\u00c7\u00c3O DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2007-0087315",
+            "priorityDate": "29/08/2007"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2007-0136401",
+            "priorityDate": "24/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        }
+    ],
+    "inventors": [
+        "HYUN CHO",
+        "SEUNG KIM",
+        "CHAN BAE"
+    ],
+    "holders": [
+        85001
+    ],
+    "ipcCodes": [
+        "C21B 11/00"
+    ]
+}

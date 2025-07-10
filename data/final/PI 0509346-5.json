@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "PI 0509346-5",
+    "filingDate": "31/03/2005",
+    "grantDate": "26/02/2019",
+    "title": "M\u00c9TODO PARA GERAR EVENTOS S\u00cdSMICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0407623.8",
+            "priorityDate": "02/04/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "OLE EDVARD NAESS"
+    ],
+    "holders": [
+        80127
+    ],
+    "ipcCodes": [
+        "G01V 1/02"
+    ]
+}

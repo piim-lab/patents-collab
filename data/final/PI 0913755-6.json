@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0913755-6",
+    "filingDate": "10/08/2009",
+    "grantDate": "26/03/2019",
+    "title": "M\u00c9TODO PARA FORMAR UM ELETRODO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "200810161788.9",
+            "priorityDate": "26/09/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "JIANYUN LIU",
+        "HAI YANG",
+        "LIPING ZHENG",
+        "RIHUA XIONG",
+        "WEI CAI"
+    ],
+    "holders": [
+        56272
+    ],
+    "ipcCodes": [
+        "C08J 5/18",
+        "C08J 3/03",
+        "C08J 3/09",
+        "C08K 3/04",
+        "H01M 4/88"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0909492-0",
+    "filingDate": "06/04/2009",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA PRODU\u00c7\u00c3O DE CHOCOLATE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08 103382.1",
+            "priorityDate": "04/04/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "SIMON JAKOB VAN LEVERINK"
+    ],
+    "holders": [
+        401812
+    ],
+    "ipcCodes": [
+        "B01F 13/10",
+        "B01F 5/10",
+        "B01F 7/30"
+    ]
+}

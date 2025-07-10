@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0805275-1",
+    "filingDate": "15/12/2008",
+    "grantDate": null,
+    "title": "ELEMENTO DE CIRCUITO DE M\u00c1QUINA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2007 A 002328",
+            "priorityDate": "13/12/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "MASSIMO NEGRELLO",
+        "GIANFRANCO GARDANINI"
+    ],
+    "holders": [
+        1730
+    ],
+    "ipcCodes": [
+        "H02K 1/06",
+        "H02K 1/00"
+    ]
+}

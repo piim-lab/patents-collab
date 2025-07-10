@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 1000913-2",
+    "filingDate": "17/03/2010",
+    "grantDate": "02/02/2021",
+    "title": "APARELHO DE RECEP\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "P2009-072556",
+            "priorityDate": "24/03/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "YOSHITAKA YOSHINO",
+        "CHISATO KOMORI",
+        "KOICHI MUKAI"
+    ],
+    "holders": [
+        255855
+    ],
+    "ipcCodes": [
+        "H04B 7/08",
+        "H01Q 1/46"
+    ]
+}

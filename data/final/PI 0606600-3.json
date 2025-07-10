@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0606600-3",
+    "filingDate": "10/01/2006",
+    "grantDate": "24/04/2019",
+    "title": "M\u00c9TODO PARA GERENCIAR E APARELHO PARA USO EM GERENCIAR UMA CONDI\u00c7\u00c3O DE SOBRECARGA OU CONGESTIONAMENTO ENTRE N\u00d3S EM UMA REDE DE ACESSO POR R\u00c1DIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/035021",
+            "priorityDate": "14/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "MATS SAGFORS",
+        "PETER LUNDH"
+    ],
+    "holders": [
+        375015
+    ],
+    "ipcCodes": [
+        "H04W 28/10",
+        "H04L 12/801"
+    ]
+}

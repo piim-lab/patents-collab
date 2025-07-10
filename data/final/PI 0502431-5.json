@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "PI 0502431-5",
+    "filingDate": "24/06/2005",
+    "grantDate": null,
+    "title": "PROCESSO DE IRRADIAR TONER COM RADIA\u00c7\u00c3O DE FEIXE DE EL\u00c9TRONS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/875,243",
+            "priorityDate": "25/06/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        }
+    ],
+    "inventors": [
+        "MIN CHENG",
+        "TIE HWEE NG"
+    ],
+    "holders": [
+        456
+    ],
+    "ipcCodes": [
+        "G03G 9/087",
+        "B32B 27/16"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "PI 0415091-0",
+    "filingDate": "29/09/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA SELECIONAR UMA REDE N\u00daCLEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/680,690",
+            "priorityDate": "07/10/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        }
+    ],
+    "inventors": [
+        "RAVI KUCHIBHOTLA",
+        "NIELS PETER SKOV ANDERSEN",
+        "STEPHEN A HOWELL"
+    ],
+    "holders": [
+        79883
+    ],
+    "ipcCodes": [
+        "H04W 48/18",
+        "H04W 36/38"
+    ]
+}

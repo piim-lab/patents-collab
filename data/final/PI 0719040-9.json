@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0719040-9",
+    "filingDate": "21/11/2007",
+    "grantDate": "27/08/2019",
+    "title": "PROCESSO PARA O TRATAMENTO T\u00c9RMICO DE COSTURAS DE SOLDA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2006 055 402.7",
+            "priorityDate": "22/11/2006"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 024 654.6",
+            "priorityDate": "26/05/2007"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 054 876.3",
+            "priorityDate": "15/11/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2713"
+        }
+    ],
+    "inventors": [
+        "LUTZ K\u00dcMMEL",
+        "HOLGER BEHRENS",
+        "CHRISTIAN LENGSDORF",
+        "ROBERT J\u00dcRGENS"
+    ],
+    "holders": [
+        376248
+    ],
+    "ipcCodes": [
+        "H05B 6/02",
+        "C21D 1/42",
+        "C21D 9/50",
+        "B23K 26/42"
+    ]
+}

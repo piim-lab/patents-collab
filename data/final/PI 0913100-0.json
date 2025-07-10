@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "PI 0913100-0",
+    "filingDate": "15/05/2009",
+    "grantDate": "19/02/2019",
+    "title": "TAMBOR DE CONSTRU\u00c7\u00c3O DE PNEUS PARA CONSTRU\u00c7\u00c3O DE UM PNEU N\u00c3O VULCANIZADO.",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2001604",
+            "priorityDate": "22/05/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/128,517",
+            "priorityDate": "22/05/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2791"
+        }
+    ],
+    "inventors": [
+        "MARTIN DE GRAAF",
+        "ANTONIE SLOTS",
+        "GERRIT MULDER"
+    ],
+    "holders": [
+        100752
+    ],
+    "ipcCodes": [
+        "B29D 30/24",
+        "B29D 30/32"
+    ]
+}

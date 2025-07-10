@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "PI 0812520-1",
+    "filingDate": "19/05/2008",
+    "grantDate": null,
+    "title": "Processo para separar compostos de mercaptano de uma corrente de c\u00e1ustico rico",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/818,300",
+            "priorityDate": "14/06/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        }
+    ],
+    "inventors": [
+        "TIEJUN ZHANG",
+        "V KEITH TURNER"
+    ],
+    "holders": [
+        92536
+    ],
+    "ipcCodes": [
+        "B01D 17/02",
+        "C10G 33/06",
+        "B01D 17/04",
+        "C10G 19/02",
+        "C10G 19/08"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "PI 0818830-0",
+    "filingDate": "29/10/2008",
+    "grantDate": "07/08/2018",
+    "title": "DISPOSITIVO DE EJE\u00c7\u00c3O DE UM FLUIDO E AERONAVE.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0758697",
+            "priorityDate": "30/10/2007"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0801687",
+            "priorityDate": "28/03/2008"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0805467",
+            "priorityDate": "03/10/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN FABRE",
+        "ALAIN BIGNOLAIS"
+    ],
+    "holders": [
+        114864
+    ],
+    "ipcCodes": [
+        "A62C 35/02",
+        "A62C 13/66"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "PI 0414723-5",
+    "filingDate": "22/09/2004",
+    "grantDate": null,
+    "title": "ENGRENAGEM DE MOTOR ACIONADA POR COMPENSADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2003-336339",
+            "priorityDate": "26/09/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        }
+    ],
+    "inventors": [
+        "AKIRA TAKAHASHI",
+        "TOMOYASU SATOH",
+        "TERUO KIHARA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "F16F 15/26",
+        "F16D 3/68",
+        "F16F 15/137",
+        "F16H 55/14",
+        "F16F 15/136"
+    ]
+}

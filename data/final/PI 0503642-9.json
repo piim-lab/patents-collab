@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0503642-9",
+    "filingDate": "05/09/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PROCESSAR MENSAGENS CODIFICADAS E SISTEMA PARA VERIFICAR MENSAGENS ELETR\u00d4NICAS CODIFICADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04255415.4",
+            "priorityDate": "07/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "MICHAEL K BROWN",
+        "MICHAEL S BROWN",
+        "HERBERT A LITTLE"
+    ],
+    "holders": [
+        3754
+    ],
+    "ipcCodes": [
+        "H04L 9/32"
+    ]
+}

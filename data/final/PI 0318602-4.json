@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0318602-4",
+    "filingDate": "08/12/2003",
+    "grantDate": null,
+    "title": "\u00d3LEO DE GIRASSOL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "2003/13030",
+            "priorityDate": "14/11/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "RAFAEL GARC\u00c9S",
+        "ENRIQUE MARTINEZ"
+    ],
+    "holders": [
+        4910
+    ],
+    "ipcCodes": [
+        "A23D 9/00",
+        "A01H 5/10"
+    ]
+}

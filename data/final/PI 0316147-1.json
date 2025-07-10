@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0316147-1",
+    "filingDate": "05/12/2003",
+    "grantDate": "24/09/2019",
+    "title": "M\u00c9TODO PARA SUPORTAR M\u00daLTIPLAS CONEX\u00d5ES DE SERVI\u00c7O DE DADOS DE PACOTE, ESTA\u00c7\u00c3O BASE (BS) E ESTA\u00c7\u00c3O M\u00d3VEL (MS)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/431,556",
+            "priorityDate": "06/12/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/727,789",
+            "priorityDate": "04/12/2003"
+        }
+    ],
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "SHAHAB M SAYEEDI",
+        "SEAN S KELLEY"
+    ],
+    "holders": [
+        79883
+    ],
+    "ipcCodes": [
+        "H04W 52/02",
+        "H04W 8/18",
+        "H04W 36/00",
+        "H04W 76/15"
+    ]
+}

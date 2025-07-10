@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "PI 0910781-9",
+    "filingDate": "06/07/2009",
+    "grantDate": "19/05/2020",
+    "title": "COLUNA DE DIRE\u00c7\u00c3O PARA UM VE\u00cdCULO AUTOMOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102008034807.4",
+            "priorityDate": "24/07/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2798"
+        }
+    ],
+    "inventors": [
+        "HANSJ\u00d6RG SULSER",
+        "SEBASTIAN HUBER",
+        "RONY SCHNITZER",
+        "MARKUS SCHLEGEL",
+        "FELIPE SEGATTO",
+        "STEFAN M\u00dcTZNER",
+        "NICOLAS JACQUES"
+    ],
+    "holders": [
+        107097
+    ],
+    "ipcCodes": [
+        "B62D 1/19"
+    ]
+}

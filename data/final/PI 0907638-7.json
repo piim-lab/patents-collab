@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "PI 0907638-7",
+    "filingDate": "23/01/2009",
+    "grantDate": null,
+    "title": "DISTRIBUIDOR DE TUBO DESCENDENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/018,882",
+            "priorityDate": "24/01/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [
+        "ADAM T LEE",
+        "LARRY W BURTON",
+        "ZAINAB KAYAT",
+        "PAU KIEW HUAI"
+    ],
+    "holders": [
+        161238
+    ],
+    "ipcCodes": [
+        "B01D 3/32",
+        "B01D 3/20"
+    ]
+}

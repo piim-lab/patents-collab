@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0506876-2",
+    "filingDate": "14/01/2005",
+    "grantDate": "11/12/2018",
+    "title": "M\u00c9TODO E SISTEMA PARA CORREIO ELETR\u00d4NICO DE MARCA CONFI\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/536,557",
+            "priorityDate": "14/01/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/065,476",
+            "priorityDate": "13/01/2005"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [
+        "HARISH SESHADRI",
+        "NOEL RUANE"
+    ],
+    "holders": [
+        375644
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04L 9/32"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "PI 0517132-6",
+    "filingDate": "20/12/2005",
+    "grantDate": "18/02/2020",
+    "title": "Uso de cladribina para prepara\u00e7\u00e3o de uma formula\u00e7\u00e3o farmac\u00eautica para tratamento da esclerose m\u00faltipla",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/638,669",
+            "priorityDate": "22/12/2004"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04106909.7",
+            "priorityDate": "22/12/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "GIAMPIERO DE LUCA"
+    ],
+    "holders": [
+        90068
+    ],
+    "ipcCodes": [
+        "A61P 25/00",
+        "A61K 38/21",
+        "A61K 31/7076"
+    ]
+}

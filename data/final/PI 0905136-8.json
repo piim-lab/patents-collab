@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "PI 0905136-8",
+    "filingDate": "15/12/2009",
+    "grantDate": null,
+    "title": "Guia de broca, conjunto com molde e conjunto com guias de broca",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08 021712.8",
+            "priorityDate": "15/12/2008"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "EDMUND SUTER",
+        "STEFFEN KUEHNE",
+        "PATRICK STREFF"
+    ],
+    "holders": [
+        199
+    ],
+    "ipcCodes": [
+        "A61C 3/02"
+    ]
+}

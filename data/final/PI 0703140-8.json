@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0703140-8",
+    "filingDate": "22/08/2007",
+    "grantDate": "07/08/2018",
+    "title": "ESTRUTURA DE FILTRO DE AR E ESTRUTURA DE COBERTURA PARA MOTOCICLETA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-227782",
+            "priorityDate": "24/08/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-233631",
+            "priorityDate": "30/08/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "TAKAFUMI NAKANISHI",
+        "MASAAKI YAMAGUCHI",
+        "HIROSHI INOKAWA",
+        "YASUO NARAZAKI"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "F02M 35/024"
+    ]
+}

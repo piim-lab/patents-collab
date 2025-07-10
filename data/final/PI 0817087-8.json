@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0817087-8",
+    "filingDate": "09/09/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERAR UM DISPOSITIVO ELETROAC\u00daSTICO, E, APARELHO ELETROAC\u00daSTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/971,655",
+            "priorityDate": "12/09/2007"
+        },
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20074643",
+            "priorityDate": "12/09/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "AGE A OLSEN",
+        "JOSTEIN JACOBSEN",
+        "TORE MAGNE HALAS SKAR",
+        "PETTER NORLI",
+        "ASHILD BERGH",
+        "NILS OTTO NEGARD",
+        "STEINAR LAG"
+    ],
+    "holders": [
+        194734
+    ],
+    "ipcCodes": [
+        "G01N 29/46",
+        "G01B 17/02",
+        "G01B 17/08",
+        "G01N 29/12"
+    ]
+}

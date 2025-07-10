@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "PI 0816098-8",
+    "filingDate": "11/08/2008",
+    "grantDate": null,
+    "title": "CILINDRO DE TRANSMISS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 040 966.6",
+            "priorityDate": "30/08/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2575"
+        }
+    ],
+    "inventors": [
+        "SAULO RIBEIRO",
+        "RENATO FRANCA"
+    ],
+    "holders": [
+        22878
+    ],
+    "ipcCodes": [
+        "F16D 25/08",
+        "B60T 11/16",
+        "F15B 7/08"
+    ]
+}

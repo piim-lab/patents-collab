@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "PI 0506841-0",
+    "filingDate": "12/01/2005",
+    "grantDate": "21/05/2019",
+    "title": "CONJUNTO DE ORIF\u00cdCIO DE INJE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/756,601",
+            "priorityDate": "13/01/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2809"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "DANA WM RYAN",
+        "DAVID P GORDON",
+        "JAMES M KAISER",
+        "FRANK A SCARFONE"
+    ],
+    "holders": [
+        375637
+    ],
+    "ipcCodes": [
+        "A61M 25/00",
+        "A61B 1/06",
+        "A61B 5/08",
+        "F16L 37/28",
+        "A61B 5/04",
+        "F16K 51/00",
+        "A61B 5/02",
+        "A61B 1/32",
+        "F16L 29/00"
+    ]
+}

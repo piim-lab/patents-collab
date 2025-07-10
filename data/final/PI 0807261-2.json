@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "PI 0807261-2",
+    "filingDate": "11/02/2008",
+    "grantDate": "21/05/2019",
+    "title": "CONJUNTOS DE CATETER CARREGADO COM STENT",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/889,186",
+            "priorityDate": "09/02/2007"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "FREDERICH ALBERT LIM ALAVAR",
+        "ROBERT C LADUCA",
+        "PAUL A LADUCA",
+        "CAROL M LASALLE",
+        "BRICE ARNAULT DE LA MENARDIERE"
+    ],
+    "holders": [
+        390609
+    ],
+    "ipcCodes": [
+        "A61M 29/00"
+    ]
+}

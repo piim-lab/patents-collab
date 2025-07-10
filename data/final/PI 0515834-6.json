@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "PI 0515834-6",
+    "filingDate": "27/07/2005",
+    "grantDate": null,
+    "title": "GAXETA DE SUC\u00c7\u00c3O DE MEMBROS DUPLOS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2004-281378",
+            "priorityDate": "28/09/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "KIKUCHI YUTAKA",
+        "HINO HIROFUMI",
+        "UENO MASAKI",
+        "YAMAGUCHI MASAAKI",
+        "NAGAI YASUAKI"
+    ],
+    "holders": [
+        377256,
+        372488
+    ],
+    "ipcCodes": [
+        "F16J 15/10"
+    ]
+}

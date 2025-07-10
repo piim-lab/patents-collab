@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "PI 0512052-7",
+    "filingDate": "06/06/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA FORNECER ACESSO A UM CANAL PARA TRANSMISS\u00d5ES DE VOZ",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/583,723",
+            "priorityDate": "29/06/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/984,431",
+            "priorityDate": "09/11/2004"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        }
+    ],
+    "inventors": [
+        "DAVID G WIATROWSKI",
+        "THOMAS B BOHN",
+        "THOMAS J SENESE",
+        "JOHN P BELMONTE",
+        "TERRY K MANSFIELD"
+    ],
+    "holders": [
+        82148
+    ],
+    "ipcCodes": [
+        "H04L 12/43",
+        "H04L 12/16",
+        "H04B 7/212",
+        "H04J 3/00"
+    ]
+}

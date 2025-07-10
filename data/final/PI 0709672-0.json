@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "PI 0709672-0",
+    "filingDate": "02/04/2007",
+    "grantDate": "02/07/2019",
+    "title": "IMPLANTE OCULAR INSERS\u00cdVEL EM UM L\u00daMEN OCULAR E M\u00c9TODO DE DISTRIBUI\u00c7\u00c3O DE UM AGENTE TERAP\u00caUTICO A UM OLHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/787.775",
+            "priorityDate": "31/03/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/871.864",
+            "priorityDate": "26/12/2006"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "EUGENE DE JUAN JR",
+        "STEPHEN BOYD",
+        "CARY REICH",
+        "ALAN RAPACKI",
+        "HANSON S GIFFORD",
+        "MARK DEEM"
+    ],
+    "holders": [
+        142810
+    ],
+    "ipcCodes": [
+        "A61F 2/02"
+    ]
+}
