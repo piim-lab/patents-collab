@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2021 005029-5",
+    "filingDate": "03/08/2015",
+    "grantDate": null,
+    "title": "COMPOSTO INTERMEDI\u00c1RIO, SEU USO E M\u00c9TODO DE PREPARO",
+    "divisionalApplication": {
+        "filingDate": "03/08/2015",
+        "applicationNumber": "BR 11 2017 002221-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        88766
+    ],
+    "ipcCodes": []
+}

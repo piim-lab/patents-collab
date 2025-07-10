@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2021 002784-6",
+    "filingDate": "28/04/2011",
+    "grantDate": null,
+    "title": "AGENTE TERAP\u00caUTICO OU AGENTE PROFIL\u00c1TICO PARA A DOEN\u00c7A DE ALZHEIMER",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-103246",
+            "priorityDate": "28/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/04/2011",
+        "applicationNumber": "BR 11 2012 024346-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "KAORU NAKAO",
+        "YOHEI MIYAMOTO",
+        "NAOHIRO YAMADA"
+    ],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": [
+        "A61P 25/28",
+        "C07D 401/04",
+        "C07D 277/24",
+        "A61K 31/421",
+        "A61K 31/415",
+        "C07D 231/12",
+        "C07D 263/32",
+        "A61K 31/426"
+    ]
+}

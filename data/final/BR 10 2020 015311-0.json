@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2020 015311-0",
+    "filingDate": "28/07/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA AC\u00daMULO DE RES\u00cdDUOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2760"
+        }
+    ],
+    "inventors": [
+        "RAFAEL BARRETO CAETANO"
+    ],
+    "holders": [
+        60416
+    ],
+    "ipcCodes": [
+        "G06Q 10/00",
+        "H04L 12/00",
+        "B65F 1/14"
+    ]
+}

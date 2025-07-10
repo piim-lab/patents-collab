@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2014 006575-6",
+    "filingDate": "25/07/2012",
+    "grantDate": null,
+    "title": "BLOCO REFRAT\u00c1RIO DE PANELA DE FUNDI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/537,905",
+            "priorityDate": "22/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        }
+    ],
+    "inventors": [
+        "JOHAN RICHAUD",
+        "WILLIAM CHUNG"
+    ],
+    "holders": [
+        104952
+    ],
+    "ipcCodes": [
+        "B22D 41/08"
+    ]
+}

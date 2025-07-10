@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2017 027616-3",
+    "filingDate": "20/12/2017",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE CORTE CNC DE DUAS FACES PARA O CORTE DE COURO NATURAL E SIMILARES",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102016000129413",
+            "priorityDate": "21/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "DEAMBROSIS RICCARDO"
+    ],
+    "holders": [
+        10474
+    ],
+    "ipcCodes": [
+        "B26D 7/27",
+        "C14B 5/00"
+    ]
+}

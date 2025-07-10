@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2012 030487-9",
+    "filingDate": "30/05/2011",
+    "grantDate": null,
+    "title": "PROCESSO  E  EQUIPAMENTO  PARA  A FABRICA\u00c7\u00c3O DE RECIPIENTES DE VIDRO PROVIDOS COM UM GARGALO INTERNAMENTE ROSCADO E RECIPIENTE DE VIDRO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1054201",
+            "priorityDate": "31/05/2010"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2010A001085",
+            "priorityDate": "16/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "BENOIT VILLARET DE CHAUVIGNY",
+        "GINO GIOVANNI BRIGNOLO",
+        "AMBROGIO MORETTIN",
+        "FEDERICO CAMPODONICO",
+        "DALMAZIO PERRONE"
+    ],
+    "holders": [
+        98540
+    ],
+    "ipcCodes": [
+        "B65D 1/02",
+        "C03B 9/16",
+        "C03B 9/325"
+    ]
+}

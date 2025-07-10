@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2016 028049-4",
+    "filingDate": "29/11/2016",
+    "grantDate": null,
+    "title": "CONVERSOR, SISTEMA POLIF\u00c1SICO EL\u00c9TRICO E M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102015121226.9",
+            "priorityDate": "07/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        }
+    ],
+    "inventors": [
+        "STEFAN G\u00d6TZ"
+    ],
+    "holders": [
+        1656
+    ],
+    "ipcCodes": [
+        "H02P 27/06",
+        "H02M 7/483"
+    ]
+}

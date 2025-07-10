@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2014 013683-1",
+    "filingDate": "11/12/2012",
+    "grantDate": "12/02/2019",
+    "title": "COMPOSI\u00c7\u00c3O PARA PROTE\u00c7\u00c3O SOLAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/579,054",
+            "priorityDate": "22/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN PIECHOCKI",
+        "MICHAEL L TULCHINSKY",
+        "FREDERIC DE LA TORRE"
+    ],
+    "holders": [
+        1101,
+        606
+    ],
+    "ipcCodes": [
+        "A61K 8/35",
+        "A61Q 17/04",
+        "A61K 8/34",
+        "A61K 8/06",
+        "A61K 8/40",
+        "A61K 8/49"
+    ]
+}

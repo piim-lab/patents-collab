@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2019 007850-9",
+    "filingDate": "19/10/2017",
+    "grantDate": null,
+    "title": "EL\u00c9TRODO PARA FIXA\u00c7\u00c3O SOBRE A PELE HUMANA",
+    "nationalPhaseDate": [
+        "17/04/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AT2017/060276",
+        "pctDate": "19/10/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 50971/2016",
+            "priorityDate": "21/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "BURRHUS LANG"
+    ],
+    "holders": [
+        240529
+    ],
+    "ipcCodes": [
+        "A61N 1/04",
+        "A61B 5/0408",
+        "A61B 5/0478",
+        "A61B 5/0416"
+    ]
+}

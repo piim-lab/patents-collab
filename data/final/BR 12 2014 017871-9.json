@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2014 017871-9",
+    "filingDate": "25/07/2003",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES PARENTERAIS E SEU PROCESSO DE PREPARA\u00c7\u00c3O",
+    "divisionalApplication": {
+        "filingDate": "25/07/2003",
+        "applicationNumber": "PI 0313024-0"
+    },
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2582"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        350153
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 015126-1",
+    "filingDate": "12/12/2012",
+    "grantDate": "17/03/2020",
+    "title": "PROCESSO PARA ISOLAMENTO MATERIAL E T\u00c9RMICO DE UMA MASSA FUNDIDA DE A\u00c7O QUE SE ENCONTRA EM UM RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11194767.7",
+            "priorityDate": "21/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2805"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "ROBERT FECHNER"
+    ],
+    "holders": [
+        138815
+    ],
+    "ipcCodes": [
+        "C21C 7/00",
+        "C21C 7/076",
+        "B22D 1/00",
+        "B22D 11/111",
+        "B22D 41/00"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "applicationNumber": "BR 11 2017 002641-4",
+    "filingDate": "20/08/2015",
+    "grantDate": null,
+    "title": "COMPOSTOS BIC\u00cdCLICOS SUBSTITU\u00cdDOS, USO DOS MESMOS E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/039,622",
+            "priorityDate": "20/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "YUN XIAO",
+        "ALARIC J DYCKMAN",
+        "ZILI XIAO",
+        "MICHAEL G YANG",
+        "TG MURALI DHAR",
+        "JOHN L GILMORE",
+        "DAVID MARCOUX"
+    ],
+    "holders": [
+        82049
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/135",
+        "A61P 37/00",
+        "A61P 9/00",
+        "C07D 239/26",
+        "A61K 31/353",
+        "A61K 31/47",
+        "C07D 241/04",
+        "A61K 31/36",
+        "C07D 213/69",
+        "C07D 277/24",
+        "A61K 31/133",
+        "C07D 309/06",
+        "C07D 231/12",
+        "C07D 311/76",
+        "C07D 333/16",
+        "C07C 317/32",
+        "C07D 209/46",
+        "C07D 217/24",
+        "C07D 311/58",
+        "C07D 213/38",
+        "C07D 319/20",
+        "C07D 215/14",
+        "C07D 213/32",
+        "C07C 251/40",
+        "C07D 309/12",
+        "C07C 219/26",
+        "C07C 251/38",
+        "C07C 217/52",
+        "C07C 251/42",
+        "C07C 219/24",
+        "C07C 251/44",
+        "C07C 251/54",
+        "C07C 323/29"
+    ]
+}

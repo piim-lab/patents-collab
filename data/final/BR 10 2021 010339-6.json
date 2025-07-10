@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 010339-6",
+    "filingDate": "27/05/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE PAGAMENTO, M\u00cdDIA DE GRAVA\u00c7\u00c3O LEG\u00cdVEL POR COMPUTADOR E SERVIDOR DE PAGAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-095063",
+            "priorityDate": "29/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "TOMOKAZU MAYA",
+        "NAOKI YAMAMURO",
+        "YUKI NAKATANI",
+        "KOSUKE MIYAKE",
+        "SOUSHI MIZUNO",
+        "YASUSHI FURUHATA",
+        "MASATAKA NARITA",
+        "YASUHIRO TAKEHARA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06Q 20/00"
+    ]
+}

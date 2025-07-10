@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2017 027979-7",
+    "filingDate": "23/06/2016",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE ALERTA DE EMERG\u00caNCIA",
+    "nationalPhaseDate": [
+        "22/12/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/038988",
+        "pctDate": "23/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/183,666",
+            "priorityDate": "23/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "HUTCHINSON W MCCLENDON",
+        "DARREN VALLAIRE",
+        "JOHN ANDERSON"
+    ],
+    "holders": [
+        204128
+    ],
+    "ipcCodes": [
+        "H04W 4/02",
+        "G08B 25/14",
+        "H04W 4/22"
+    ]
+}

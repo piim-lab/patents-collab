@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 014883-5",
+    "filingDate": "19/12/2014",
+    "grantDate": "17/08/2021",
+    "title": "M\u00e9todo para dispensar uma bebida \u00e0 base de malte para dentro de um recipiente",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13199705.8",
+            "priorityDate": "27/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2769"
+        }
+    ],
+    "inventors": [
+        "DANIEL PEIRSMAN",
+        "STIJN VANDEKERCKHOVE"
+    ],
+    "holders": [
+        100000
+    ],
+    "ipcCodes": [
+        "B67D 1/00"
+    ]
+}

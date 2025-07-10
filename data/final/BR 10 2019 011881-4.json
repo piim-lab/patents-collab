@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2019 011881-4",
+    "filingDate": "12/06/2019",
+    "grantDate": null,
+    "title": "PROCESSO PARA DETEC\u00c7\u00c3O DE UMA DESCONEX\u00c3O EM UM SISTEMA DE ELEVA\u00c7\u00c3O DE UM AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 114 297.8",
+            "priorityDate": "14/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "RAPHAEL LADNER",
+        "CHRISTIAN KOHL\u00d6FFEL",
+        "BERND SCHIEVELBUSCH"
+    ],
+    "holders": [
+        4485
+    ],
+    "ipcCodes": [
+        "G01M 13/00",
+        "B64C 13/24",
+        "B64F 5/60"
+    ]
+}

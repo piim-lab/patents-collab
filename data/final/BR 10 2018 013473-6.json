@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 10 2018 013473-6",
+    "filingDate": "29/06/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE NOTIFICA\u00c7\u00c3O DE QUALIDADE DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "106125339",
+            "priorityDate": "27/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "JAN MOU",
+        "FENG HUANG",
+        "LUNG HAN",
+        "YEN TSAI",
+        "KAI CHEN",
+        "MING LEE"
+    ],
+    "holders": [
+        39551
+    ],
+    "ipcCodes": [
+        "F24F 11/00",
+        "F04B 43/04",
+        "F24F 11/30",
+        "F04B 45/047"
+    ]
+}

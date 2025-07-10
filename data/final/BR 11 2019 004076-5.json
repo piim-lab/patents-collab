@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2019 004076-5",
+    "filingDate": "23/07/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE COMUNICA\u00c7\u00c3O DE DADOS, APARELHO, TERMINAL E ESTA\u00c7\u00c3O DE BASE",
+    "nationalPhaseDate": [
+        "27/02/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2018/096634",
+        "pctDate": "23/07/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201710682190.3",
+            "priorityDate": "10/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "28.10.26",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia disponibilizada no mercado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "JUNCHAO LI",
+        "HAO TANG",
+        "ZHENFEI TANG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04W 24/00"
+    ]
+}

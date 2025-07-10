@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 13 2019 017442-0",
+    "filingDate": "21/08/2019",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O VACINAL PARA PREVEN\u00c7\u00c3O DE BRUCELOSE CANINA E USO",
+    "parentApplication": {
+        "filingDate": "22/12/2011",
+        "applicationNumber": "PI 1105977-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        }
+    ],
+    "inventors": [
+        "RENATO DE LIMA SANTOS",
+        "TATIANE ALVES DA PAIX\u00c3O",
+        "CAMILA ECKSTEIN"
+    ],
+    "holders": [
+        136,
+        231
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "A61K 39/10"
+    ]
+}

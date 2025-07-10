@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2022 005103-0",
+    "filingDate": "22/04/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ARMAZENAMENTO DE SANGUE PARA ARMAZENAR SANGUE DEPLETADO DE OXIG\u00caNIO E M\u00c9TODO PARA REDUZIR A SATURA\u00c7\u00c3O DE OXIG\u00caNIO DO SANGUE DURANTE O ARMAZENAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/151,957",
+            "priorityDate": "23/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/151,839",
+            "priorityDate": "23/04/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/04/2016",
+        "applicationNumber": "BR 11 2017 022417-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "TATSURO YOSHIDA",
+        "RAFAEL CORDERO",
+        "JANCARLO SARITA",
+        "MICHAEL ZOCCHI",
+        "MICHAEL WOLF",
+        "PHILIP MICHAEL KEEGAN",
+        "NARENDRAN RENGANATHAN",
+        "JEFFREY KARL SUTTON"
+    ],
+    "holders": [
+        195281
+    ],
+    "ipcCodes": [
+        "A61J 1/05"
+    ]
+}

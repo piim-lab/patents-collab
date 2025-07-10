@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2012 024211-3",
+    "filingDate": "25/03/2011",
+    "grantDate": null,
+    "title": "Cigarro com filtro",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10 250600.3",
+            "priorityDate": "26/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        }
+    ],
+    "inventors": [
+        "ALEN KADIRIC",
+        "FREDERIC ANTOUN"
+    ],
+    "holders": [
+        80986
+    ],
+    "ipcCodes": [
+        "A24D 3/04"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 007464-0",
+    "filingDate": "19/04/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DETEC\u00c7\u00c3O PARA DETECTAR PLANTAS E M\u00c9TODO PARA DETEC\u00c7\u00c3O DE PLANTAS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 204 010.1",
+            "priorityDate": "22/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "NICOLAS HOUIS",
+        "ANDREAS WEIMER",
+        "FARID KHANI"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "A01G 13/00"
+    ]
+}

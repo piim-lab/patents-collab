@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2019 003334-3",
+    "filingDate": "24/08/2017",
+    "grantDate": null,
+    "title": "PROCEDIMENTO DE ACESSO INICIAL USANDO RECURSOS PR\u00c9-CONFIGURADOS",
+    "nationalPhaseDate": [
+        "19/02/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/048455",
+        "pctDate": "24/08/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/379,693",
+            "priorityDate": "25/08/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/409,496",
+            "priorityDate": "18/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2794"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2794"
+        }
+    ],
+    "inventors": [
+        "NAVID ABEDINI",
+        "TAO LUO",
+        "SUNDAR SUBRAMANIAN",
+        "MUHAMMAD NAZMUL ISLAM",
+        "JUNYI LI",
+        "ASHWIN SAMPATH",
+        "JUERGEN CEZANNE",
+        "BILAL SADIQ",
+        "KRISHNA KIRAN MUKKAVILLI",
+        "DURGA PRASAD MALLADI",
+        "OZGE KOYMEN",
+        "ATUL MAHARSHI"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 74/08"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2015 010447-9",
+    "filingDate": "08/11/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE ALTERA\u00c7\u00c3O DA APAR\u00caNCIA DO CABELO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/724896",
+            "priorityDate": "09/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        }
+    ],
+    "inventors": [
+        "MICHAEL DEGEORGE",
+        "FR\u00c9D\u00c9RIC LEGRAND"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "A61K 8/41",
+        "A61Q 5/04",
+        "A61Q 5/06"
+    ]
+}

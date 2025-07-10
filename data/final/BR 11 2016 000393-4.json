@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 000393-4",
+    "filingDate": "07/07/2014",
+    "grantDate": null,
+    "title": "Processo de fabrica\u00e7\u00e3o de uma pe\u00e7a",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1356732",
+            "priorityDate": "09/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "DAMIEN JOSEPH CELLIER",
+        "VINCENT PERROT",
+        "MATTHIEU JEAN VOLLEBREGT",
+        "NICOLAS JEAN FERNAND PIGNIER"
+    ],
+    "holders": [
+        79254
+    ],
+    "ipcCodes": [
+        "G06F 17/50"
+    ]
+}

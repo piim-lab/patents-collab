@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2012 020840-3",
+    "filingDate": "18/01/2011",
+    "grantDate": null,
+    "title": "BLOCO DE RESFRIAMENTO DE INJETOR PARA RETEN\u00c7\u00c3O DE AO MENOS UM INJETOR",
+    "priorityClaims": [
+        {
+            "countryCode": "10",
+            "priorityNumber": "2010 008 508.1",
+            "priorityDate": "18/02/2010 DE"
+        },
+        {
+            "countryCode": "10",
+            "priorityNumber": "2010 025 562.9",
+            "priorityDate": "29/06/2010 DE"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        }
+    ],
+    "inventors": [
+        "DIRK LIEFTUCHT",
+        "GEREON FEHLEMANN"
+    ],
+    "holders": [
+        10830
+    ],
+    "ipcCodes": [
+        "G01L 1/24",
+        "F27D 21/00",
+        "F27B 3/28",
+        "F27D 1/12",
+        "F27B 3/24",
+        "F27D 21/04"
+    ]
+}

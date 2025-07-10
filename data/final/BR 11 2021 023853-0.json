@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2021 023853-0",
+    "filingDate": "29/05/2020",
+    "grantDate": null,
+    "title": "USO DE TALTIRELINA",
+    "nationalPhaseDate": [
+        "26/11/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT GB2020/051315",
+        "pctDate": "29/05/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1907591.0",
+            "priorityDate": "29/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "IAIN FORBES",
+        "WILLIAM FORBES"
+    ],
+    "holders": [
+        303880
+    ],
+    "ipcCodes": [
+        "A61P 31/00",
+        "A61P 33/06",
+        "A61P 25/00",
+        "A61P 31/12",
+        "A61K 31/506",
+        "A61P 17/00",
+        "A61P 19/00",
+        "A61P 3/10",
+        "A61P 5/00",
+        "A61P 27/00"
+    ]
+}

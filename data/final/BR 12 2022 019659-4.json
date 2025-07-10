@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2022 019659-4",
+    "filingDate": "15/07/2016",
+    "grantDate": null,
+    "title": "CONJUNTO DE IMPACTOR DE ESFERA ACETABULAR, E, KIT",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/197,215",
+            "priorityDate": "27/07/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/07/2016",
+        "applicationNumber": "BR 11 2018 001625-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "ZAFER TERMANINI",
+        "BRIAN VANHIEL",
+        "KIRK CHARLES"
+    ],
+    "holders": [
+        206814
+    ],
+    "ipcCodes": [
+        "A61B 17/00",
+        "A61F 2/46",
+        "A61F 2/30"
+    ]
+}

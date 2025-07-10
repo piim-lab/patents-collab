@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2013 008489-8",
+    "filingDate": "10/10/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA O TRATAMENTO E/OU O CURTIMENTO DE PELES E/OU DE ELEMENTOS T\u00caXTEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2010/0596",
+            "priorityDate": "08/10/2010"
+        },
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2010/0599",
+            "priorityDate": "11/10/2010"
+        },
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2010/0683",
+            "priorityDate": "17/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        }
+    ],
+    "inventors": [
+        "FRAN\u00c7OISE VAN DEN BEMPT",
+        "CHARLES OGNIBENE"
+    ],
+    "holders": [
+        112165
+    ],
+    "ipcCodes": [
+        "D06F 21/02",
+        "C14C 15/00"
+    ]
+}

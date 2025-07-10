@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 10 2018 072346-4",
+    "filingDate": "30/10/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CURSO AJUST\u00c1VEL COM CAME",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/578,797",
+            "priorityDate": "30/10/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/171,974",
+            "priorityDate": "26/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "SCOTT S MCLAIN",
+        "MARK SNYKER",
+        "SCOTT S MCLAIN",
+        "SCOTT S MCLAIN"
+    ],
+    "holders": [
+        51744,
+        43214
+    ],
+    "ipcCodes": [
+        "B24B 41/04",
+        "B24B 47/12",
+        "B24B 23/03",
+        "B24B 17/02"
+    ]
+}

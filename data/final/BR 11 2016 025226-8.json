@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2016 025226-8",
+    "filingDate": "12/06/2015",
+    "grantDate": null,
+    "title": "PASTILHAS DE FREIO E ATRITO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/012,111",
+            "priorityDate": "13/06/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/090,187",
+            "priorityDate": "10/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "CARL RICHARD BUXTON",
+        "RODNEY G SILVEY",
+        "WEIMING LIU"
+    ],
+    "holders": [
+        128291
+    ],
+    "ipcCodes": [
+        "F16D 65/092",
+        "F16D 65/04"
+    ]
+}

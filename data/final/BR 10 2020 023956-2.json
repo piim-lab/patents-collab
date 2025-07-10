@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 023956-2",
+    "filingDate": "24/11/2020",
+    "grantDate": null,
+    "title": "ESTRUTURA DE CABINE DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-020945",
+            "priorityDate": "10/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "JUMPEI WATANABE",
+        "YASUHIRO HARA",
+        "NORIMASA KOREISHI",
+        "HIROTAKA ISHIOKA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B62D 33/06"
+    ]
+}

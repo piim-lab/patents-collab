@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2017 013813-1",
+    "filingDate": "30/12/2015",
+    "grantDate": null,
+    "title": "DISPOSITIVOS M\u00c9DICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/588,229",
+            "priorityDate": "31/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "PATRICK O TENNICAN",
+        "UWE SCHEDLER",
+        "CHRISTIAN HEISE",
+        "THOMAS THIELE",
+        "HANS HENKES",
+        "HERMANN MONSTADT",
+        "RALF HANNES",
+        "TIM LENZ",
+        "CATRIN BANNEWITZ"
+    ],
+    "holders": [
+        95410,
+        110133
+    ],
+    "ipcCodes": [
+        "C08L 83/04",
+        "C08L 33/08",
+        "A61L 31/14",
+        "A61L 29/08",
+        "A61L 29/14",
+        "A61L 31/10"
+    ]
+}

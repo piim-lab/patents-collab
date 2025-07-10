@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 10 2023 002125-5",
+    "filingDate": "03/02/2023",
+    "grantDate": null,
+    "title": "PROCESSO PARA OBTEN\u00c7\u00c3O DE EXTRATO DE CAVALINHA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2798"
+        }
+    ],
+    "inventors": [
+        "FABRICIO GOMES MENEZES PORTO",
+        "THAIS OLIVEIRA RAMALHO BEAN",
+        "WELISSON MARTINS ROCHA"
+    ],
+    "holders": [
+        74408,
+        78077,
+        78078
+    ],
+    "ipcCodes": [
+        "A61P 3/04",
+        "A61K 36/11"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2017 017562-2",
+    "filingDate": "11/02/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARATO PARA DETECTAR GRUPOS DE ENLACE DE RISCO COMPARTILHADO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510083681.7",
+            "priorityDate": "16/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/014,833",
+            "priorityDate": "03/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "XIUZHONG CHEN",
+        "CHONGJIN XIE",
+        "JUNYING PANG"
+    ],
+    "holders": [
+        183918
+    ],
+    "ipcCodes": [
+        "G01M 11/02"
+    ]
+}

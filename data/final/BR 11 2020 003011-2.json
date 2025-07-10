@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2020 003011-2",
+    "filingDate": "13/08/2018",
+    "grantDate": null,
+    "title": "DECOLAGEM E POUSO AUTOM\u00c1TICOS DE AERONAVES",
+    "nationalPhaseDate": [
+        "12/02/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IL2018/050896",
+        "pctDate": "13/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IL",
+            "priorityNumber": "253970",
+            "priorityDate": "13/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2766"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "YACOV REFAEL",
+        "IDO ZAAROUR"
+    ],
+    "holders": [
+        97159
+    ],
+    "ipcCodes": [
+        "G05D 1/00"
+    ]
+}

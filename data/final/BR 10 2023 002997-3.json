@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2023 002997-3",
+    "filingDate": "16/02/2023",
+    "grantDate": null,
+    "title": "UM APARELHO PARA DETEC\u00c7\u00c3O DE VAZAMENTO DE UM G\u00c1S E UM M\u00c9TODO E UM SISTEMA DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202221008699",
+            "priorityDate": "18/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "PUSHPAKSEN P ASHER"
+    ],
+    "holders": [
+        11412
+    ],
+    "ipcCodes": [
+        "G01M 3/04",
+        "G01M 3/18",
+        "G01M 3/22"
+    ]
+}

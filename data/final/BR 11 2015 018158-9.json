@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2015 018158-9",
+    "filingDate": "29/01/2014",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O QU\u00cdMICA AGR\u00cdCOLA EM SUSPENS\u00c3O AQUOSA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-015951",
+            "priorityDate": "30/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        }
+    ],
+    "inventors": [
+        "ATSUSHI SATO",
+        "MITSUYUKI YABUZAKI",
+        "SHIGERU UENO",
+        "YOSHINORI MURAMATSU",
+        "KAZUTERU OGAWA",
+        "HIDETOSHI SHIRAKURA"
+    ],
+    "holders": [
+        159772,
+        82725
+    ],
+    "ipcCodes": [
+        "A01P 7/04",
+        "A01N 25/04",
+        "A01N 25/30",
+        "A01P 3/00",
+        "A01N 47/06"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 10 2019 003527-7",
+    "filingDate": "21/02/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CONTROLE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-037990",
+            "priorityDate": "02/03/2018"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-178140",
+            "priorityDate": "21/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "SUI KURIHASHI",
+        "YOSHIHIRO SAKAYANAGI",
+        "YOSHIYUKI KAGEURA",
+        "YOSHIHISA YAMADA",
+        "KATO WATARU",
+        "YUKO ASANO",
+        "BERT BROUWERS",
+        "PETER DE BOECK",
+        "MIKHAIL PONOMAREV",
+        "KRUTHIK KUMAR SUJITH KUMAR",
+        "ADRIA RIQU\u00c8 REBULL",
+        "CLARA BATISTE MAYAS",
+        "SALVI PLAJA MIR\u00d3",
+        "MIGUEL GRAGERA GIL",
+        "SUSANA D\u00cdAZ GONZ\u00c1LEZ",
+        "VERONIKA BUMANN",
+        "ALEXANDER HAUCK",
+        "BENOIT GRANIER",
+        "NOAN NIVARLET",
+        "SIMON DAUBE",
+        "JULIEN STRAAT",
+        "DAISUKE AKIHISA",
+        "KOICHI KIMURA",
+        "FUMITO CHIBA",
+        "RENTARO KUROKI",
+        "YUKIHIRO NAKASAKA"
+    ],
+    "holders": [
+        16868,
+        349928,
+        85067,
+        67472,
+        5783,
+        76095
+    ],
+    "ipcCodes": []
+}

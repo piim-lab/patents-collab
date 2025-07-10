@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2020 022818-0",
+    "filingDate": "25/05/2012",
+    "grantDate": "17/08/2021",
+    "title": "POL\u00cdMERO DE ENXERTO DE POLISSACAR\u00cdDEOS OU POLIPEPT\u00cdDEOS OU OS SEUS RESPECTIVOS DERIVADOS, ROCESSO PARA A FABRICA\u00c7\u00c3O DE POL\u00cdMEROS DE ENXERTO, PROCESSO PARA O AUTO-CURTIMENTO, PRECURTIMENTO OU CURTIMENTO ASSISTIDO DE COUROS N\u00c3O CURTIDOS OU PELES N\u00c3O CURTIDAS OU PARA O RECURTIMENTO DE COURO OU PELES, E COURO AUTO-CURTIDO, PRECURTIDO, DE CURTIMENTO ASSISTIDO OU RECURTIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1109270.7",
+            "priorityDate": "02/06/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11174207.8",
+            "priorityDate": "15/07/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/05/2012",
+        "applicationNumber": "BR 11 2013 030996-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "MA SONG"
+    ],
+    "holders": [
+        160
+    ],
+    "ipcCodes": [
+        "C08F 251/00",
+        "C08F 289/00",
+        "C14C 3/22"
+    ]
+}

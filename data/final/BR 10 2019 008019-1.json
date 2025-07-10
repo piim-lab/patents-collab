@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2019 008019-1",
+    "filingDate": "18/04/2019",
+    "grantDate": null,
+    "title": "GERADOR DE FREQU\u00caNCIA VARI\u00c1VEL DE VELOCIDADE INDEPENDENTE EXTERNAMENTE MODULADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/959,507",
+            "priorityDate": "23/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2809"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2820"
+        }
+    ],
+    "inventors": [
+        "LIJUN GAO",
+        "EUGENE SOLODOVNIK",
+        "SHENGYI LIU"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "H02K 19/26",
+        "H02P 9/06"
+    ]
+}

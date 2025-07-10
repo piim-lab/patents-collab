@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 007019-3",
+    "filingDate": "08/04/2020",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO DE REMO\u00c7\u00c3O DE TIRA DE QUILHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/831,948",
+            "priorityDate": "10/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "KIRK REIS",
+        "STEPHEN CRIBB",
+        "BARRY JONES"
+    ],
+    "holders": [
+        5653
+    ],
+    "ipcCodes": [
+        "A22C 21/00",
+        "A22C 21/06"
+    ]
+}

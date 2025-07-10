@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2018 014513-7",
+    "filingDate": "05/09/2008",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE PAVIMENTA\u00c7\u00c3O DE ASFALTO E M\u00c9TODO PARA FABRICAR UMA SUPERF\u00cdCIE DE PAVIMENTA\u00c7\u00c3O BETUMINOSA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/970,809",
+            "priorityDate": "07/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/976,141",
+            "priorityDate": "28/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/871,782",
+            "priorityDate": "12/10/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/09/2008",
+        "applicationNumber": "PI 0816667-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        351200
+    ],
+    "ipcCodes": []
+}

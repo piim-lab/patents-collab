@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2015 000547-0",
+    "filingDate": "27/06/2013",
+    "grantDate": "10/11/2020",
+    "title": "M\u00e9todo para tratar tecido",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/671,443",
+            "priorityDate": "13/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "AARON BARERE",
+        "JEROME CONNOR",
+        "JOSEPH L DEAVENPORT",
+        "TIMOTHY S DE VRIES"
+    ],
+    "holders": [
+        1101,
+        121006
+    ],
+    "ipcCodes": [
+        "C07C 217/08",
+        "D06P 5/22",
+        "D06P 1/66",
+        "D06P 5/00"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 026847-6",
+    "filingDate": "30/12/2021",
+    "grantDate": null,
+    "title": "SISTEMA E CONEX\u00c3O LATERAL EM LINHA DUPLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US17/198,216",
+            "priorityDate": "10/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "ADRIAN OSCAR BUCCIARELLI"
+    ],
+    "holders": [
+        73401
+    ],
+    "ipcCodes": [
+        "E21B 43/26"
+    ]
+}

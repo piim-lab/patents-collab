@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2018 010704-2",
+    "filingDate": "20/01/2017",
+    "grantDate": null,
+    "title": "UTILIZA\u00c7\u00c3O DE MEM\u00d3RIA VOL\u00c1TIL COMO MEM\u00d3RIA N\u00c3O VOL\u00c1TIL",
+    "nationalPhaseDate": [
+        "25/05/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/014377",
+        "pctDate": "20/01/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/004,830",
+            "priorityDate": "22/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "BRYAN KELLY",
+        "MARK SANTANIELLO",
+        "SRIRAM GOVINDAN",
+        "ANIRUDH BADAM"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 12/02",
+        "G06F 11/07",
+        "G06F 3/06"
+    ]
+}

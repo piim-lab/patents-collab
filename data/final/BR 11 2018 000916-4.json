@@ -1,0 +1,127 @@
+{
+    "applicationNumber": "BR 11 2018 000916-4",
+    "filingDate": "14/07/2016",
+    "grantDate": null,
+    "title": "MAMONA DETERMINADA",
+    "nationalPhaseDate": [
+        "16/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IL2016/050769",
+        "pctDate": "14/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/193,252",
+            "priorityDate": "16/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/278,115",
+            "priorityDate": "13/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "25.9",
+            "description": "Altera\u00e7\u00e3o de Sede em Exig\u00eancia",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2762"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2764"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "YUVAL PELES",
+        "ALON LERNER",
+        "ASAF MEIRI",
+        "ITAY DODEK",
+        "SAHAR GELFMAN",
+        "AVIAD FREIMAN",
+        "YANIV LERENTHAL",
+        "LILAH ROTHEM"
+    ],
+    "holders": [
+        206000
+    ],
+    "ipcCodes": [
+        "C07K 14/415",
+        "A01H 5/00",
+        "C07K 16/16"
+    ]
+}

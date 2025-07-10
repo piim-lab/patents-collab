@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2017 020185-2",
+    "filingDate": "24/03/2016",
+    "grantDate": "13/06/2023",
+    "title": "FILTRO DE AR DE CABINE",
+    "nationalPhaseDate": [
+        "21/09/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/024097",
+        "pctDate": "24/03/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/668,772",
+            "priorityDate": "25/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "STEVE WILLIAMS",
+        "JERE JAMES WALL",
+        "AMIR ROSENBAUM"
+    ],
+    "holders": [
+        11427
+    ],
+    "ipcCodes": [
+        "F02M 35/024",
+        "B01D 46/00",
+        "B01D 46/04",
+        "B60H 3/06"
+    ]
+}

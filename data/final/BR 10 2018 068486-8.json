@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2018 068486-8",
+    "filingDate": "12/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE REFRIGERA\u00c7\u00c3O .",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/708,344",
+            "priorityDate": "19/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2814"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "THOMAS JOSEPH MORAN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 11/04"
+    ]
+}

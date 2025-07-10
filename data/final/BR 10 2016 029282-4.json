@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2016 029282-4",
+    "filingDate": "14/12/2016",
+    "grantDate": null,
+    "title": "DIRE\u00c7\u00c3O HIDR\u00c1ULICA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016106793.8",
+            "priorityDate": "13/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "MORTEN HOECK PETERSEN",
+        "THOMAS TRAEGER HANSEN",
+        "THOMAS BAUER",
+        "NIELS BJARNE HANSEN",
+        "JEROEN HINSE"
+    ],
+    "holders": [
+        15862
+    ],
+    "ipcCodes": [
+        "B62D 5/06",
+        "B62D 5/09",
+        "B62D 5/093"
+    ]
+}

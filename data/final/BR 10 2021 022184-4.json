@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 022184-4",
+    "filingDate": "05/11/2021",
+    "grantDate": null,
+    "title": "VESTIMENTA INTELIGENTE RFID COM CONTROLE DE VOZ E INDICADORES DE FOR\u00c7A DE SINAL DE ETIQUETA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/114,800",
+            "priorityDate": "08/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2810"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "WALTER D BURNSIDE",
+        "HAO TSAI",
+        "FENG TSAI"
+    ],
+    "holders": [
+        71509
+    ],
+    "ipcCodes": [
+        "H04W 4/80"
+    ]
+}

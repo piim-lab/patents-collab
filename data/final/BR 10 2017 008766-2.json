@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2017 008766-2",
+    "filingDate": "27/04/2017",
+    "grantDate": null,
+    "title": "BUCHA HIDR\u00c1ULICA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201611096400.2",
+            "priorityDate": "02/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "BO ZOU",
+        "DAN LUO",
+        "JO GROSS",
+        "JIANXUN LIU",
+        "JILING BU",
+        "TAO WANG",
+        "XINGWU DING",
+        "YAXIN ZHANG"
+    ],
+    "holders": [
+        29408
+    ],
+    "ipcCodes": [
+        "F16J 15/54",
+        "B61F 5/50",
+        "F16J 15/16",
+        "B61F 5/38",
+        "B61F 15/20",
+        "B61G 7/00",
+        "F16J 15/40"
+    ]
+}

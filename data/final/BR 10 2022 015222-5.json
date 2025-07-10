@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 015222-5",
+    "filingDate": "01/08/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA O PROCESSAMENTO DA CARCA\u00c7A DE AVES DESTINADAS AO ABATE",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2028907",
+            "priorityDate": "03/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "DE VOS FERDINAND ALLARD",
+        "KOOPMAN MICHAEL GEORGE LOURENTIUS",
+        "VERHAGEN MARCEL",
+        "VONK PIETER WILLEM",
+        "WIJTTEN JEROEN HERMANUS"
+    ],
+    "holders": [
+        585
+    ],
+    "ipcCodes": [
+        "A22C 21/00"
+    ]
+}

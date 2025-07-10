@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 005065-1",
+    "filingDate": "18/03/2022",
+    "grantDate": null,
+    "title": "SISTEMA, M\u00c9TODO, E APARELHO DE CARREGAMENTO SEM FIO, E DISPOSITIVO A SER CARREGADO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202110595767.3",
+            "priorityDate": "29/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "NING PAN",
+        "ZHIXIA DU",
+        "BRUNO CLERCKX",
+        "JUNGHOON KIM"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H02J 50/20",
+        "H02J 50/80"
+    ]
+}

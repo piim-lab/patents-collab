@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2017 022563-8",
+    "filingDate": "21/04/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA NAVEGA\u00c7\u00c3O EM BUSCA DE INFORMA\u00c7\u00d5ES",
+    "nationalPhaseDate": [
+        "19/10/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/028544",
+        "pctDate": "21/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510206720.8",
+            "priorityDate": "28/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/133,451",
+            "priorityDate": "20/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2532"
+        }
+    ],
+    "inventors": [
+        "YANGYANG KANG",
+        "CHANGLONG SUN",
+        "JUN LANG"
+    ],
+    "holders": [
+        183918
+    ],
+    "ipcCodes": [
+        "G06F 17/30"
+    ]
+}

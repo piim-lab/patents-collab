@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2018 011485-9",
+    "filingDate": "06/06/2018",
+    "grantDate": null,
+    "title": "MOSTRU\u00c1RIO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "\u00c9RICO AJACE THEODOROVITZ"
+    ],
+    "holders": [
+        39093
+    ],
+    "ipcCodes": [
+        "E04F 10/06",
+        "G09F 19/00",
+        "G09F 17/00",
+        "E06B 9/72",
+        "E06B 9/58",
+        "E06B 9/44",
+        "G09F 5/00",
+        "E06B 9/40"
+    ]
+}

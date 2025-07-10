@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 006511-7",
+    "filingDate": "05/04/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE AUTOATENDIMENTO PARA CONTROLE DE LIBERA\u00c7\u00c3O DE ACESSO A CHAVES COM RECURSO DE DESTRAVAMENTO REMOTO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2780"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "MARCIO HENRIQUE NIGRO"
+    ],
+    "holders": [
+        66704,
+        66703
+    ],
+    "ipcCodes": [
+        "G05B 19/04",
+        "E05B 19/00"
+    ]
+}

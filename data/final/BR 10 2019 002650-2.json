@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2019 002650-2",
+    "filingDate": "08/02/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO COM MECANISMO GIRAT\u00d3RIO ACOPLADO \u00c0 UMA CAIXA DE TRANSMISS\u00c3O PARA SOLTAR E APERTAR PORCAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "ELEANDRO BOSSLE"
+    ],
+    "holders": [
+        46345
+    ],
+    "ipcCodes": [
+        "F16B 39/00",
+        "B25B 23/02",
+        "B25B 21/00"
+    ]
+}

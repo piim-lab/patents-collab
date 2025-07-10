@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 13 2019 004273-6",
+    "filingDate": "01/03/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA ABERTURA AUTOM\u00c1TICA DE RECIPIENTE PROVIDO DE MEIOS PARA ROMPIMENTO DE ELEMENTO SELANTE DE RECIPIENTE",
+    "parentApplication": {
+        "filingDate": "01/03/2018",
+        "applicationNumber": "BR 10 2018 004125-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "IVAN FERREIRA DA COSTA"
+    ],
+    "holders": [
+        36634,
+        36635,
+        352535
+    ],
+    "ipcCodes": [
+        "B65D 51/20",
+        "B65D 47/08",
+        "B65D 47/12"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 023064-9",
+    "filingDate": "17/11/2021",
+    "grantDate": null,
+    "title": "FERRAMENTA DE AGARRAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20214844.1",
+            "priorityDate": "17/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO CISI",
+        "GIORGIO PASQUETTAZ",
+        "GIOVANNI CAMPOBASSO",
+        "MASSIMO MARTORELLI",
+        "CLAUDIO MARCELLO",
+        "GIUSEPPE PERROTTA"
+    ],
+    "holders": [
+        5226
+    ],
+    "ipcCodes": [
+        "B25J 3/04"
+    ]
+}

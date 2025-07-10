@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2013 014575-7",
+    "filingDate": "12/12/2011",
+    "grantDate": null,
+    "title": "USO IN VITRO OU EX VIVO, PROCESSO IN VITRO OU EX VIVO E PROCESSO COSM\u00c9TICO IN VITRO OU EX VIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1060429",
+            "priorityDate": "13/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "CAROLINE DELATTRE",
+        "PHIL\u00c9MON SIRVEN",
+        "DOMINIQUE BERNARD"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "G01N 33/68",
+        "C07K 7/08",
+        "C07K 7/06"
+    ]
+}

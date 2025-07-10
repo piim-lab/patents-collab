@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 069597-5",
+    "filingDate": "25/09/2018",
+    "grantDate": null,
+    "title": "UNIDADE DE SUPORTE DE RODA E M\u00c9TODO DE PR\u00c9-MONTAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017222310.3",
+            "priorityDate": "08/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "LUDWIG EDELMANN",
+        "DOMINIC NAMYSLO",
+        "MATTHIAS SCHULER",
+        "JOHANNES ZANG"
+    ],
+    "holders": [
+        2647
+    ],
+    "ipcCodes": [
+        "F16C 33/78",
+        "B60B 27/02"
+    ]
+}

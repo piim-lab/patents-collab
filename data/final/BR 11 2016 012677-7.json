@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2016 012677-7",
+    "filingDate": "04/12/2014",
+    "grantDate": "11/01/2022",
+    "title": "ENCAIXE PARA DISPENSADOR DE FLUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/912,628",
+            "priorityDate": "06/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "LIONEL VEDRINE",
+        "ARIEL WAITZ"
+    ],
+    "holders": [
+        32509
+    ],
+    "ipcCodes": [
+        "A61M 5/32",
+        "A61M 5/315",
+        "A61M 5/31",
+        "A61M 5/34"
+    ]
+}

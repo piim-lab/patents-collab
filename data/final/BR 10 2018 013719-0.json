@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2018 013719-0",
+    "filingDate": "04/07/2018",
+    "grantDate": null,
+    "title": "VE\u00cdCULO DE TRABALHO, SISTEMA DE DOSAGEM, E, ESTRUTURA DE FLUXO DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/670,834",
+            "priorityDate": "07/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "ELIJAH B GARNER",
+        "STANLEY R BORKGREN",
+        "KEITH L FELTON",
+        "ANDREW W HARMON"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 7/20",
+        "A01C 7/12",
+        "A01C 7/10"
+    ]
+}

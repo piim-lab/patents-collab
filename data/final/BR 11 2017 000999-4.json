@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 000999-4",
+    "filingDate": "17/07/2015",
+    "grantDate": "17/02/2021",
+    "title": "LENTE \u00d3PTICA  ATIVADA PIEZELETRICAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14177688.0",
+            "priorityDate": "18/07/2014"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14177684.9",
+            "priorityDate": "18/07/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "PIERRE CRAEN",
+        "JOHN PHAIR",
+        "NICOLAS TALLARON"
+    ],
+    "holders": [
+        185881
+    ],
+    "ipcCodes": [
+        "G02B 26/08",
+        "H01L 41/08",
+        "G02B 3/14"
+    ]
+}

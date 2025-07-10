@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2019 028058-8",
+    "filingDate": "07/06/2019",
+    "grantDate": null,
+    "title": "C\u00c9LULAS DE FLUXO",
+    "nationalPhaseDate": [
+        "27/12/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/036105",
+        "pctDate": "07/06/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/692,511",
+            "priorityDate": "29/06/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/743,373",
+            "priorityDate": "09/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2775"
+        }
+    ],
+    "inventors": [
+        "JEFFREY S FISHER",
+        "BRIAN D MATHER",
+        "MARIA CANDELARIA ROGERT BACIGALUPO",
+        "JUSTIN FULLERTON",
+        "LUDOVIC VINCENT",
+        "LEWIS J KRAFT",
+        "SAHNGKI HONG",
+        "BOYAN BOYANOV",
+        "M SHANE BOWEN",
+        "SANG PARK",
+        "WAYNE N GEORGE",
+        "ANDREW A BROWN",
+        "DAJUN YUAN",
+        "SAHNGKI HONG",
+        "M SHANE BOWEN",
+        "LEWIS J KRAFT",
+        "RAYMOND CAMPOS",
+        "BRIAN D MATHER",
+        "SEAN M RAMIREZ"
+    ],
+    "holders": [
+        36618,
+        158717
+    ],
+    "ipcCodes": [
+        "C08F 220/60",
+        "C08F 8/30",
+        "C09D 133/24"
+    ]
+}

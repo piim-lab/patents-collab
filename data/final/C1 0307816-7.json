@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "C1 0307816-7",
+    "filingDate": "26/05/2006",
+    "grantDate": "15/02/2022",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA ORAL PARA C\u00c1PSULAS MACIAS CONTENDO VINORELBINA E M\u00c9TODO DE TRATAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/161.454",
+            "priorityDate": "31/05/2002"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "0206886",
+            "priorityDate": "31/05/2002"
+        },
+        {
+            "countryCode": "CA",
+            "priorityNumber": "2.388.431",
+            "priorityDate": "31/05/2002"
+        }
+    ],
+    "parentApplication": {
+        "filingDate": "28/05/2003",
+        "applicationNumber": "PI 0307816-7"
+    },
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "J\u00d6EL BOUGARET",
+        "ELIE LEVERD",
+        "MADELEINE BOHN",
+        "NORBERT HEINTZ"
+    ],
+    "holders": [
+        367944
+    ],
+    "ipcCodes": [
+        "A61K 9/48"
+    ]
+}

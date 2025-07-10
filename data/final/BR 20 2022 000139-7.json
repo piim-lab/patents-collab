@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 20 2022 000139-7",
+    "filingDate": "04/01/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO ANTIBACTERIANO E SISTEMA DE DISPOSITIVO ANTIBACTERIANO",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "110208123",
+            "priorityDate": "09/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "SEN HU",
+        "YEN CHIANG"
+    ],
+    "holders": [
+        366500,
+        366501
+    ],
+    "ipcCodes": [
+        "A61L 9/20"
+    ]
+}

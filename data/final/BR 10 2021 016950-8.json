@@ -1,0 +1,34 @@
+{
+    "applicationNumber": "BR 10 2021 016950-8",
+    "filingDate": "26/08/2021",
+    "grantDate": null,
+    "title": "PROCESSO DE MONITORAMENTO AUTOM\u00c1TICO PARA CLASSIFICA\u00c7\u00c3O FISCAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "MARCO ANTONIO TONEGUTTI"
+    ],
+    "holders": [
+        69899
+    ],
+    "ipcCodes": [
+        "G06Q 20/20",
+        "G06Q 40/00",
+        "G06Q 30/04"
+    ]
+}

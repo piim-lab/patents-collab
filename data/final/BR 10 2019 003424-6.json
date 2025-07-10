@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "BR 10 2019 003424-6",
+    "filingDate": "20/02/2019",
+    "grantDate": null,
+    "title": "PROCESSO DE DETEC\u00c7\u00c3O DE MELANOMA AUTOMATIZADO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "DANIEL SILVA DE MORAIS",
+        "FELIPE FERNANDES LOPES",
+        "MARCELO AUGUSTO COSTA FERNANDES",
+        "WYSTERL\u00c2NYA KYURY PEREIRA BARROS"
+    ],
+    "holders": [
+        1311
+    ],
+    "ipcCodes": [
+        "G06T 7/00",
+        "G06T 7/70"
+    ]
+}

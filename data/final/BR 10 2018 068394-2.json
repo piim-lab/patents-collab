@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 068394-2",
+    "filingDate": "11/09/2018",
+    "grantDate": null,
+    "title": "MECANISMO DE TRAVA, E, REVERSOR DE EMPUXO DE PORTA PIVOTANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/575,965",
+            "priorityDate": "23/10/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/029,387",
+            "priorityDate": "06/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "IMAD D GHANDOUR",
+        "KEN V HUYNH"
+    ],
+    "holders": [
+        3800
+    ],
+    "ipcCodes": [
+        "F02K 1/76"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 017314-6",
+    "filingDate": "25/08/2020",
+    "grantDate": null,
+    "title": "PROCESSO PARA FABRICA\u00c7\u00c3O DE UM CABO DE ALIMENTA\u00c7\u00c3O E CABO DE ALIMENTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102019000016406",
+            "priorityDate": "16/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "GIOVANNI POZZATI",
+        "FABRIZIO CRISTOFANI",
+        "SILVIO FRIGERIO",
+        "PAOLO LIBOI"
+    ],
+    "holders": [
+        2136
+    ],
+    "ipcCodes": [
+        "H01B 7/28",
+        "H01B 9/00",
+        "H01B 13/00",
+        "H01B 13/22",
+        "H01B 7/282",
+        "H01B 9/04"
+    ]
+}

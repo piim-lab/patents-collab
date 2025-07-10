@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2012 013576-7",
+    "filingDate": "06/04/2011",
+    "grantDate": null,
+    "title": "Se\u00e7\u00e3o de uma coluna de contato e m\u00e9todo para opera\u00e7\u00e3o de uma coluna de contato",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/327,112",
+            "priorityDate": "23/04/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10 160891.7",
+            "priorityDate": "23/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "ESA TAMMINEN",
+        "JARI SUTINEN"
+    ],
+    "holders": [
+        17965
+    ],
+    "ipcCodes": [
+        "B01D 3/00",
+        "B01D 3/32"
+    ]
+}

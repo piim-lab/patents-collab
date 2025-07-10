@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2022 001326-8",
+    "filingDate": "25/01/2022",
+    "grantDate": null,
+    "title": "ARMADILHA ELETROMEC\u00c2NICA PARA PEQUENOS ANIMAIS.",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "P20210100222",
+            "priorityDate": "28/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "ADOLFO GABRIEL FULIGNI"
+    ],
+    "holders": [
+        73777
+    ],
+    "ipcCodes": [
+        "A01M 19/00"
+    ]
+}

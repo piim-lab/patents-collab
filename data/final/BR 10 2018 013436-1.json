@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2018 013436-1",
+    "filingDate": "29/06/2018",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA MONITORAR AMORTECEDOR DE IMPACTO, E, ARRANJO DE AMORTECEDOR DE IMPACTO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/642,117",
+            "priorityDate": "05/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        }
+    ],
+    "inventors": [
+        "AMIR FAZELI",
+        "ADNAN CEPIC",
+        "SUSANNE M REBER"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "G05D 23/19",
+        "F16F 9/32",
+        "G05D 16/20",
+        "F16F 9/06",
+        "B64C 25/60"
+    ]
+}

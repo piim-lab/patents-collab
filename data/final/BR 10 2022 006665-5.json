@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 006665-5",
+    "filingDate": "07/04/2022",
+    "grantDate": null,
+    "title": "MOLA A G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102021000008588",
+            "priorityDate": "07/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "FRANCESCO BORDIN",
+        "MASSIMO FIORESE",
+        "MATTIA TODESCO",
+        "ALESSANDRO CAPPELLER",
+        "JONATHAN P COTTER",
+        "MICHAEL C DIEBOLT",
+        "JEREMY M KLUCK"
+    ],
+    "holders": [
+        5824,
+        13834,
+        302708
+    ],
+    "ipcCodes": [
+        "F16F 9/02"
+    ]
+}

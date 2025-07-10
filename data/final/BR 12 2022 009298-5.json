@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 12 2022 009298-5",
+    "filingDate": "12/05/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE UMA ABERTURA VEDADA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17165040.1",
+            "priorityDate": "05/04/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/05/2017",
+        "applicationNumber": "BR 11 2019 020920-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "GREGOR ANTON PIECH"
+    ],
+    "holders": [
+        207095
+    ],
+    "ipcCodes": [
+        "B65D 17/00"
+    ]
+}

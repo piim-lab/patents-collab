@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2017 024153-6",
+    "filingDate": "13/05/2015",
+    "grantDate": null,
+    "title": "\u201cDISPOSITIVO, M\u00c9TODO, E, N\u00d3 DE REDE\u201d",
+    "nationalPhaseDate": [
+        "09/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2015/060680",
+        "pctDate": "13/05/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "YNGVE SEL\u00c9N",
+        "JONAS KRONANDER"
+    ],
+    "holders": [
+        79444
+    ],
+    "ipcCodes": [
+        "H04B 7/06",
+        "H04B 7/08",
+        "H04B 7/0417"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2012 028432-4",
+    "filingDate": "06/11/2012",
+    "grantDate": null,
+    "title": "ARRANJO DE TAMBOR CORTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/292477",
+            "priorityDate": "09/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "MICHAEL L HINDS"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "C13B 45/00",
+        "C13B 5/02"
+    ]
+}

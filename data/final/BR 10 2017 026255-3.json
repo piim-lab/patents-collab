@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2017 026255-3",
+    "filingDate": "06/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE INSPECIONAR UMA TIRA DE A\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 124 522.4",
+            "priorityDate": "15/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "MICHAEL WILD",
+        "THOMAS NOLLEN"
+    ],
+    "holders": [
+        18662,
+        12591
+    ],
+    "ipcCodes": [
+        "G06T 7/00",
+        "G06K 9/62",
+        "G01N 21/89",
+        "G01N 21/93"
+    ]
+}

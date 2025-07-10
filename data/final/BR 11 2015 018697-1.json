@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2015 018697-1",
+    "filingDate": "14/03/2014",
+    "grantDate": null,
+    "title": "SOLA E PARTE SUPERIOR FLEX\u00cdVEIS PARA UM ARTIGO DE CAL\u00c7ADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/789,201",
+            "priorityDate": "15/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/206,400",
+            "priorityDate": "12/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "AARON AC COOPER"
+    ],
+    "holders": [
+        108355
+    ],
+    "ipcCodes": [
+        "A43B 13/12"
+    ]
+}

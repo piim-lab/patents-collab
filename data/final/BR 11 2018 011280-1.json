@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2018 011280-1",
+    "filingDate": "02/12/2016",
+    "grantDate": null,
+    "title": "BOROSC\u00d3PIOS M\u00c9DICOS E M\u00c9TODOS E SISTEMAS RELACIONADOS",
+    "nationalPhaseDate": [
+        "01/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/064846",
+        "pctDate": "02/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/958,728",
+            "priorityDate": "03/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2764"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2774"
+        }
+    ],
+    "inventors": [
+        "JOHN LANGELL",
+        "LANE BROOKS"
+    ],
+    "holders": [
+        216886
+    ],
+    "ipcCodes": [
+        "H04N 7/18",
+        "A61B 1/06",
+        "A61B 1/04",
+        "H04N 5/225",
+        "A61B 1/313",
+        "A61B 1/05"
+    ]
+}

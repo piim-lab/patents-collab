@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2014 018434-8",
+    "filingDate": "24/01/2013",
+    "grantDate": null,
+    "title": "GERENCIAMENTO DE BUFFER PARA UNIDADE DE PROCESSAMENTO PARALELO DE GR\u00c1FICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/591,733",
+            "priorityDate": "27/01/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/747,947",
+            "priorityDate": "23/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "ALEXEI V BOURD",
+        "VINEET GOEL"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G06F 9/50",
+        "G09G 5/36",
+        "G06F 9/52",
+        "G06G 5/00"
+    ]
+}

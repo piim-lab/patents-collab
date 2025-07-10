@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 11 2016 011890-1",
+    "filingDate": "25/11/2014",
+    "grantDate": "16/11/2021",
+    "title": "PROCESSO PARA PREPARA\u00c7\u00c3O DE 5-FLUORO-1H-PIRAZ\u00d3IS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13194561.0",
+            "priorityDate": "27/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "SERGII PAZENOK",
+        "NORBERT LUI",
+        "CHRISTIAN FUNKE",
+        "ARND NEEFF",
+        "VADIM MIKHAILOVICH TIMOSHENKO",
+        "ELENA IVANOVNA KAMINSKAYA",
+        "YURIY GRIGORIEVICH SHERMOLOVICH"
+    ],
+    "holders": [
+        148546
+    ],
+    "ipcCodes": []
+}

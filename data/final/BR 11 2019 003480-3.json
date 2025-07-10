@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2019 003480-3",
+    "filingDate": "24/08/2017",
+    "grantDate": "08/08/2023",
+    "title": "SISTEMA DE PROPULS\u00c3O ACOPLADO A UM VE\u00cdCULO E VE\u00cdCULO",
+    "nationalPhaseDate": [
+        "20/02/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/048479",
+        "pctDate": "24/08/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/379,711",
+            "priorityDate": "25/08/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/380,108",
+            "priorityDate": "26/08/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "ANDREI EVULET"
+    ],
+    "holders": [
+        209690
+    ],
+    "ipcCodes": [
+        "F02K 1/06",
+        "F02K 1/08",
+        "F02K 1/00",
+        "F02K 1/36",
+        "F02K 1/28",
+        "F02K 1/09",
+        "F02K 1/11"
+    ]
+}

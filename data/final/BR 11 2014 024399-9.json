@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 024399-9",
+    "filingDate": "14/02/2013",
+    "grantDate": null,
+    "title": "Bomba dosadora feita de pl\u00e1stico",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 2055 68.1",
+            "priorityDate": "04/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "DAN BARRON"
+    ],
+    "holders": [
+        110560
+    ],
+    "ipcCodes": [
+        "F04B 13/02",
+        "F04C 2/12"
+    ]
+}

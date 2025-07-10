@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 026437-6",
+    "filingDate": "22/12/2022",
+    "grantDate": null,
+    "title": "DETEC\u00c7\u00c3O DE EVENTOS NA OPERA\u00c7\u00c3O E MANUTEN\u00c7\u00c3O DA BOMBA DE CAVIDADE PROGRESSIVA COM BASE NA DETEC\u00c7\u00c3O DE ANOMALIA E DESVIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/564,095",
+            "priorityDate": "28/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "BARTOSZ BOGUSLAWSKI",
+        "LORYNE BISSUEL",
+        "MATTHIEU BOUJONNIER"
+    ],
+    "holders": [
+        27805
+    ],
+    "ipcCodes": [
+        "F04B 49/06",
+        "F04B 49/10",
+        "F04B 47/00",
+        "E21B 47/008"
+    ]
+}

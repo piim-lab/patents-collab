@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 008309-0",
+    "filingDate": "25/04/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MEDIR E CALCULAR O RENDIMENTO DE COLHEITA, E, SISTEMA DE COLHEITA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/597,703",
+            "priorityDate": "17/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "MEHUL P BHAVSAR",
+        "JOHN A DIGHTON"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 41/127"
+    ]
+}

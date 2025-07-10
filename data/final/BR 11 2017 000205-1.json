@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 000205-1",
+    "filingDate": "10/07/2015",
+    "grantDate": null,
+    "title": "PROCESSO E EQUIPAMENTO DE RESFRIAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1401679",
+            "priorityDate": "23/07/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "VINCENT DUHOUX",
+        "BRUNO MAGNIN",
+        "DANIEL BELLOT",
+        "JOS\u00c9 ROCHE",
+        "PIERRE AUCOUTURIER"
+    ],
+    "holders": [
+        168863
+    ],
+    "ipcCodes": [
+        "C21D 11/00",
+        "C22F 1/04",
+        "B21B 37/74"
+    ]
+}

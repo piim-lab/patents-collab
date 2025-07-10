@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 023039-5",
+    "filingDate": "11/11/2020",
+    "grantDate": null,
+    "title": "APERFEI\u00c7OAMENTO EM CAL\u00c7ADO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2771"
+        }
+    ],
+    "inventors": [
+        "PRISCILA MACHADO MERTINS",
+        "VANESSA CARPIO"
+    ],
+    "holders": [
+        63243
+    ],
+    "ipcCodes": [
+        "A43B 3/10",
+        "A43B 11/00"
+    ]
+}

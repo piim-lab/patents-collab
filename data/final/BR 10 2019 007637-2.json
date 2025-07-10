@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 007637-2",
+    "filingDate": "15/04/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MONITORIZA\u00c7\u00c3O E CONTROLE DE EFICI\u00caNCIA ENERG\u00c9TICA DE COMBUST\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "RODRIGO LORENSETTI",
+        "ELVIS VASSELAI"
+    ],
+    "holders": [
+        48221
+    ],
+    "ipcCodes": [
+        "G01N 33/26",
+        "G01N 35/00",
+        "G01N 27/417"
+    ]
+}

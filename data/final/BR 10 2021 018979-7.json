@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 018979-7",
+    "filingDate": "23/09/2021",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O CONSTRUTIVA APLICADA A C\u00c2MARA DE INSPE\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "PT",
+            "priorityNumber": "116800 P",
+            "priorityDate": "30/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "ANDR\u00c9 FILIPE BARROS GON\u00c7ALVES MAIA"
+    ],
+    "holders": [
+        70516
+    ],
+    "ipcCodes": [
+        "E02D 29/12",
+        "E03F 5/02"
+    ]
+}

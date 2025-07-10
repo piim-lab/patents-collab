@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2017 005974-6",
+    "filingDate": "18/09/2015",
+    "grantDate": null,
+    "title": "DISPOSITIVO MAGN\u00c9TICO COMPREENDENDO ESTATOR E ATUADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A727/2014",
+            "priorityDate": "23/09/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "JEREMY HEIN",
+        "MARTIN MARSCHNER VON HELMREICH"
+    ],
+    "holders": [
+        132695
+    ],
+    "ipcCodes": [
+        "H01F 7/16",
+        "H01F 7/14",
+        "H02K 33/16",
+        "H01F 7/122"
+    ]
+}

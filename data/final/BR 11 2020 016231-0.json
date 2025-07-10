@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2020 016231-0",
+    "filingDate": "27/02/2019",
+    "grantDate": null,
+    "title": "TROCADOR DE CALOR DE FEIXE TUBULAR",
+    "nationalPhaseDate": [
+        "10/08/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/054870",
+        "pctDate": "27/02/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 001 548.4",
+            "priorityDate": "28/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "WERNER ANETSEDER",
+        "HERMANN FERBER",
+        "KLAUS BALDERMANN",
+        "RALPH SPULLER"
+    ],
+    "holders": [
+        87470
+    ],
+    "ipcCodes": [
+        "F28F 21/06",
+        "F28F 21/02",
+        "F28D 7/16",
+        "F28F 9/02",
+        "F28F 9/12",
+        "F28F 21/00",
+        "F28F 9/06",
+        "F28F 21/04"
+    ]
+}

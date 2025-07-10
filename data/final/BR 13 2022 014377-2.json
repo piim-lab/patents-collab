@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 13 2022 014377-2",
+    "filingDate": "20/07/2022",
+    "grantDate": null,
+    "title": "SISTEMA, M\u00c9TODO E APARELHO PARA VESTIR UM ANIMAL DE ESTIMA\u00c7\u00c3O CAMPO DE APLICA\u00c7\u00c3O",
+    "parentApplication": {
+        "filingDate": "28/10/2020",
+        "applicationNumber": "BR 10 2020 022082-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "FABRICIO SAAB PEREIRA"
+    ],
+    "holders": [
+        62936
+    ],
+    "ipcCodes": [
+        "G06T 11/00",
+        "G06N 5/04",
+        "A01K 13/00",
+        "G06T 7/62",
+        "G06F 16/50"
+    ]
+}

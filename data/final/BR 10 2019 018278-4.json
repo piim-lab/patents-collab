@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2019 018278-4",
+    "filingDate": "02/09/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO E PROCESSO DE AN\u00c1LISE DE INFORMA\u00c7\u00d5ES DE VE\u00cdCULOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2721"
+        }
+    ],
+    "inventors": [
+        "ELIO ADOLFO OVIEDO DIAZ",
+        "GLAUCO DE OLIVEIRA TORRES BOALENTO",
+        "IVAN JOS\u00c9 VIANNA DE FREITAS",
+        "VICTOR SAUERBRONN GON\u00c7ALVES"
+    ],
+    "holders": [
+        51772,
+        51773,
+        51774,
+        51775
+    ],
+    "ipcCodes": [
+        "G01H 3/00",
+        "G01H 1/00",
+        "B60W 40/09"
+    ]
+}

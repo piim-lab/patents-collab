@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2018 013747-9",
+    "filingDate": "02/04/2008",
+    "grantDate": null,
+    "title": "ARTIGO TERMOFORMADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/913,760",
+            "priorityDate": "24/04/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/04/2008",
+        "applicationNumber": "PI 0809743-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.2.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "LAURA B WEAVER",
+        "DOUGLAS P WASZECIAK",
+        "EDDIE I GARCIA",
+        "LISA C KOHLENBERG",
+        "PANKAJ GUPTA",
+        "THERESA J HERMEL"
+    ],
+    "holders": [
+        9272
+    ],
+    "ipcCodes": [
+        "C08L 23/08",
+        "C08L 53/00",
+        "C08F 297/08",
+        "C08F 295/00"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 019649-9",
+    "filingDate": "25/09/2020",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO PARA AGENDAR ADAPTATIVAMENTE O TRABALHO EM RECURSOS DE PROCESSAMENTO HETEROG\u00caNEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/728,617",
+            "priorityDate": "27/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "EUGENE GORBATOV",
+        "EFRAIM ROTEM",
+        "ELIEZER WEISSMANN",
+        "JULIUS MANDELBLAT",
+        "AHMAD YASIN",
+        "NIR MISGAV",
+        "RAJSHREE CHABUKSWAR",
+        "RUSSELL FENGER",
+        "MONICA GUPTA",
+        "OMER BARAK"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "G06F 15/177"
+    ]
+}

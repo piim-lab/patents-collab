@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 008596-4",
+    "filingDate": "27/04/2018",
+    "grantDate": null,
+    "title": "ESTRUTURA DE PARTE TRASEIRA DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-090358",
+            "priorityDate": "28/04/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-251734",
+            "priorityDate": "27/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2772"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "DAISUKE TANABE"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B62D 25/02",
+        "B62D 25/16",
+        "B62D 25/04",
+        "B62D 29/04"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2016 012027-2",
+    "filingDate": "26/11/2014",
+    "grantDate": "21/12/2021",
+    "title": "PROCESSO DE DESPOLIMERIZA\u00c7\u00c3O DE LIGNINA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1361718",
+            "priorityDate": "27/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "ST\u00c9PHANE GRELIER",
+        "GEORGES KOUMBA YOYA"
+    ],
+    "holders": [
+        17099,
+        49494,
+        49495
+    ],
+    "ipcCodes": [
+        "C12P 7/40",
+        "D21C 5/00",
+        "C07G 1/00",
+        "C12P 7/00",
+        "C07C 65/00"
+    ]
+}

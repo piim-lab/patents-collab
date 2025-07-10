@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2022 012517-4",
+    "filingDate": "24/07/2015",
+    "grantDate": null,
+    "title": "CODIFICADOR E DECODIFICADOR DE \u00c1UDIO UTILIZANDO UM PROCESSADOR DE DOM\u00cdNIO DE FREQU\u00caNCIA COM PREENCHIMENTO DE LACUNA DE BANDA TOTAL E UM PROCESSADOR DE DOM\u00cdNIO DE TEMPO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14178817.4",
+            "priorityDate": "28/07/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "24/07/2015",
+        "applicationNumber": "BR 11 2017 001297-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [
+        "SASCHA DISCH",
+        "MARTIN DIETZ",
+        "MARKUS MULTRUS",
+        "GUILLAUME FUCHS",
+        "EMMANUEL RAVELLI",
+        "MATTHIAS NEUSINGER",
+        "MARKUS MULTRUS",
+        "BENJAMIN SCHUBERT",
+        "BERNHARD GRILL"
+    ],
+    "holders": [
+        87912
+    ],
+    "ipcCodes": []
+}

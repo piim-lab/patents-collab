@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 029436-7",
+    "filingDate": "26/05/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MODIFICA\u00c7\u00c3O DE POL\u00cdMEROS",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20135569",
+            "priorityDate": "24/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "ALISTAIR W T KING",
+        "CHRISTOPH SELG",
+        "PIRKKO KARHUNEN",
+        "JORMA MATIKAINEN",
+        "ILKKA KILPELAINEN"
+    ],
+    "holders": [
+        146409,
+        79258
+    ],
+    "ipcCodes": [
+        "C08B 37/08",
+        "C08B 11/00"
+    ]
+}

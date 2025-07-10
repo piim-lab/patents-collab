@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2013 008505-3",
+    "filingDate": "05/10/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA O DIAGN\u00d3STICO, PROGN\u00d3STICO E TRATAMENTO DE MET\u00c1STASE DE C\u00c2NCER DE MAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P201031478",
+            "priorityDate": "06/10/2010"
+        },
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P201131073",
+            "priorityDate": "27/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "ROGER GOMIS CABR\u00c9",
+        "MAR\u00cdA TARRAGONA SUNYER",
+        "ANNA ARNAL ESTAP\u00c9",
+        "MILICA PAVLOVIC"
+    ],
+    "holders": [
+        112177,
+        112178
+    ],
+    "ipcCodes": [
+        "C12Q 1/68"
+    ]
+}

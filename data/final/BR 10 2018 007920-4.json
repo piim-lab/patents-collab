@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2018 007920-4",
+    "filingDate": "19/04/2018",
+    "grantDate": null,
+    "title": "SISTEMA E PROCESSO ELETR\u00d4NICO DE CONCESS\u00c3O DE CR\u00c9DITO E BLOQUEIO DE DISPOSITIVO ELETR\u00d4NICO EM CASO DE ATRASO NO PAGAMENTO",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "15.22.2",
+            "description": "Devolu\u00e7\u00e3o de Prazo por falha de Sistema",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "FRANCISCO PASOUINI",
+        "DAN MAXIMILIANO KORNGOLD",
+        "GUSTAVO RAUL ARAGON PAGLIONI",
+        "EDUARDO ENRIQUE CASAL"
+    ],
+    "holders": [
+        37907
+    ],
+    "ipcCodes": [
+        "G06Q 40/02"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2019 016192-5",
+    "filingDate": "30/12/2009",
+    "grantDate": null,
+    "title": "SISTEMA PARA PREPARAR UMA QUANTIDADE PREDETERMINADA DE BEBIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09162917.0",
+            "priorityDate": "17/06/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09162927.9",
+            "priorityDate": "17/06/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09162941.0",
+            "priorityDate": "17/06/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09162984.0",
+            "priorityDate": "17/06/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/12/2009",
+        "applicationNumber": "PI 0925306-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        }
+    ],
+    "inventors": [
+        "RALF KAMERBEEK",
+        "JOHN HENRI FLAMAND",
+        "HENDRIK CORNELIS KOELING",
+        "ANGENITA DOROTHEA POST VAN LOON"
+    ],
+    "holders": [
+        85288
+    ],
+    "ipcCodes": [
+        "A47J 31/36"
+    ]
+}

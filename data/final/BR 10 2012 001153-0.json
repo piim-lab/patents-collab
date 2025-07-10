@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2012 001153-0",
+    "filingDate": "17/01/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE ALQUILFOSFATOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11151172.1",
+            "priorityDate": "17/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        }
+    ],
+    "inventors": [
+        "GERD HANSEL",
+        "GERD HANSEL",
+        "GERD HANSEL",
+        "OLIVER FALKNER"
+    ],
+    "holders": [
+        160
+    ],
+    "ipcCodes": [
+        "B01J 23/00",
+        "C07F 9/09",
+        "B01J 27/232",
+        "C07F 9/11"
+    ]
+}

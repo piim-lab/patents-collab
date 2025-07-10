@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 001485-7",
+    "filingDate": "24/01/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE COMPONENTE SINTERIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 50060/2018",
+            "priorityDate": "24/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "KARL DICKINGER",
+        "MAGDALENA DLAPKA",
+        "MARTIN HEISSL"
+    ],
+    "holders": [
+        10740
+    ],
+    "ipcCodes": [
+        "B22F 3/12",
+        "B22F 3/18"
+    ]
+}

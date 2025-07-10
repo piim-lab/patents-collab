@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 009114-0",
+    "filingDate": "04/05/2018",
+    "grantDate": null,
+    "title": "GABINETE, E GABINETE PARA EQUIPAMENTO EL\u00c9TRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/720,285",
+            "priorityDate": "29/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        2434
+    ],
+    "ipcCodes": []
+}

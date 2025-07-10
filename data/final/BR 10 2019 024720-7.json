@@ -1,0 +1,87 @@
+{
+    "applicationNumber": "BR 10 2019 024720-7",
+    "filingDate": "22/11/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE ESCAVA\u00c7\u00c3O DE UMA LAGOA DE REJEITOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1902635.0",
+            "priorityDate": "27/02/2019"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1902726.7",
+            "priorityDate": "28/02/2019"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1914520.0",
+            "priorityDate": "08/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "28.10.11",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia verde",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "28.21",
+            "description": "Exig\u00eancia formal de tr\u00e2mite priorit\u00e1rio",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "RICHARD STANLEY GOODWIN",
+        "ANDREW CHAPMAN",
+        "MITHILA THARANATH WANASINGHE",
+        "GARRY SMALLWOOD",
+        "STEPHEN O\u2019NIEN"
+    ],
+    "holders": [
+        54069
+    ],
+    "ipcCodes": [
+        "E02B 11/00",
+        "E02F 5/28",
+        "E02F 9/06",
+        "E02F 3/88",
+        "E02B 7/06"
+    ]
+}

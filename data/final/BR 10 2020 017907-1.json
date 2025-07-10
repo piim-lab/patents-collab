@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 017907-1",
+    "filingDate": "01/09/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE MONITORAMENTO POR V\u00cdDEO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [
+        "MATEUS XAVIER DE PAIVA",
+        "GUILHERME VIEIRA NEVES",
+        "LUIZ FELIPE ARY FERREIRA"
+    ],
+    "holders": [
+        61477
+    ],
+    "ipcCodes": [
+        "G06K 9/00"
+    ]
+}

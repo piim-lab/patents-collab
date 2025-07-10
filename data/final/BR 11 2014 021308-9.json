@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2014 021308-9",
+    "filingDate": "01/03/2013",
+    "grantDate": null,
+    "title": "Formula\u00e7\u00f5es farmac\u00eauticas de anticorpos",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/607,671",
+            "priorityDate": "07/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "VINCENT JOHN CORVARI",
+        "BARBARA ANN WILLIAMS",
+        "PATRICK DANIEL DONOVAN",
+        "AARON PAUL MARKHAM"
+    ],
+    "holders": [
+        87687
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C07K 16/24"
+    ]
+}

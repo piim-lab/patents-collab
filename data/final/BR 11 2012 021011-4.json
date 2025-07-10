@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 021011-4",
+    "filingDate": "22/02/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA VERIFICA\u00c7\u00c3O DE DOCUMENTOS DE SEGURAN\u00c7A OU DE VALOR COM UM CORANTE DE ANTRAQUINONA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 000 559.2",
+            "priorityDate": "25/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        }
+    ],
+    "inventors": [
+        "OLIVER MUTH",
+        "ALEXANDER MOMBR\u00c9E",
+        "MICHAEL KNEBEL"
+    ],
+    "holders": [
+        79646
+    ],
+    "ipcCodes": [
+        "B42D 25/382",
+        "G07D 7/128",
+        "G07D 7/1205",
+        "C09B 1/16",
+        "C09B 1/50",
+        "C09B 5/14"
+    ]
+}

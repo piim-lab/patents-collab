@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2020 018822-4",
+    "filingDate": "15/09/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA MONTAR UM PAINEL SOLAR EM UMA SUPERF\u00cdCIE DE MONTAGEM SUBSTANCIALMENTE PLANA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20157504-0",
+            "priorityDate": "14/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "JOHANNES SANDER GOORMAN",
+        "MAARTEN ALEXANDER SMIT",
+        "FLORIS DE GRAAF"
+    ],
+    "holders": [
+        61792
+    ],
+    "ipcCodes": [
+        "H02S 30/20",
+        "F24S 25/70",
+        "H02S 30/10",
+        "F24S 25/30",
+        "F24S 25/632",
+        "F24S 25/634",
+        "H02S 20/24"
+    ]
+}

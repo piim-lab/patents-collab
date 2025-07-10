@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2018 014417-7",
+    "filingDate": "13/01/2017",
+    "grantDate": null,
+    "title": "T\u00c9CNICAS DE CONTROLE DE CONGESTIONAMENTO DE PROTOCOLO DE TRANSPORTE EM TEMPO REAL EM V\u00cdDEO TELEFONIA",
+    "nationalPhaseDate": [
+        "13/07/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/013462",
+        "pctDate": "13/01/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/279,602",
+            "priorityDate": "15/01/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/405,022",
+            "priorityDate": "12/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "GEERT VAN DER AUWERA",
+        "SIPING TAO",
+        "MUHAMMED COBAN",
+        "MARTA KARCZEWICZ"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 28/02",
+        "H04L 12/801",
+        "H04L 12/841",
+        "H04L 12/825"
+    ]
+}

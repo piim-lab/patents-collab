@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2016 018093-3",
+    "filingDate": "04/02/2015",
+    "grantDate": "30/11/2021",
+    "title": "DIFERENCIA\u00c7\u00c3O ADIADA DE COMP\u00d3SITOS REFOR\u00c7ADOS",
+    "nationalPhaseDate": [
+        "03/08/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2015/014350",
+        "pctDate": "04/02/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/936,388",
+            "priorityDate": "06/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "PATRICK MOIREAU",
+        "FRANCOIS ROEDERER",
+        "LOUIS VIANA"
+    ],
+    "holders": [
+        81604
+    ],
+    "ipcCodes": [
+        "D04H 1/00",
+        "C08J 5/04",
+        "D03D 15/00",
+        "C08J 5/08",
+        "D03D 1/00",
+        "B29C 70/16",
+        "D04H 13/00",
+        "C03C 25/32",
+        "C03C 25/10",
+        "C03C 25/62",
+        "C03C 25/24",
+        "C03C 25/48"
+    ]
+}

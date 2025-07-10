@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2018 013934-0",
+    "filingDate": "21/08/2008",
+    "grantDate": "09/04/2019",
+    "title": "APARELHO PARA A FORMA\u00c7\u00c3O DE UMA LENTE OFT\u00c1LMICA BASEADO EM UM PRECURSOR DE LENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/957,069",
+            "priorityDate": "21/08/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/194,981",
+            "priorityDate": "20/08/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/08/2008",
+        "applicationNumber": "PI 0815680-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "MICHAEL F WIDMAN",
+        "JOHN B ENNS",
+        "P MARK POWELL",
+        "PETER W SITES"
+    ],
+    "holders": [
+        7836
+    ],
+    "ipcCodes": [
+        "B29D 11/00"
+    ]
+}

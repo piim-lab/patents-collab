@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 21 2014 012529-0",
+    "filingDate": "20/11/2012",
+    "grantDate": "08/10/2019",
+    "title": "FECHO DE CABO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11190438.9",
+            "priorityDate": "24/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2765"
+        }
+    ],
+    "inventors": [
+        "STEFAN BADURA",
+        "MIKE BREUER",
+        "LARS KITTLER",
+        "MARKUS OSOBA"
+    ],
+    "holders": [
+        126040
+    ],
+    "ipcCodes": [
+        "H02G 15/013",
+        "H02G 15/113"
+    ]
+}

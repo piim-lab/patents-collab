@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2023 000800-6",
+    "filingDate": "17/05/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO DE CODIFICA\u00c7\u00c3O DE IMAGEM EM MOVIMENTO, E M\u00c9TODO E APARELHO DE DECODIFICA\u00c7\u00c3O DE IMAGEM EM MOVIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/655,092",
+            "priorityDate": "04/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/05/2013",
+        "applicationNumber": "BR 11 2013 032418-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "KENGO TERADA",
+        "YOUJI SHIBAHARA",
+        "KYOKO TANIKAWA",
+        "HISAO SASAI",
+        "TOSHIYASU SUGIO",
+        "TORU MATSUNOBU"
+    ],
+    "holders": [
+        81642
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/132",
+        "H04N 19/91",
+        "H04N 19/82",
+        "H04N 19/21"
+    ]
+}

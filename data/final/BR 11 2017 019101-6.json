@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2017 019101-6",
+    "filingDate": "12/02/2016",
+    "grantDate": null,
+    "title": "ARQUITETURA DE LOOP TRAVADO POR FASE (PLL)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/644,029",
+            "priorityDate": "10/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "KENNETH LUIS ARCUDIA",
+        "JEFFREY ANDREW SHAFER",
+        "BUPESH PANDITA"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H03L 7/091",
+        "H03L 7/093"
+    ]
+}

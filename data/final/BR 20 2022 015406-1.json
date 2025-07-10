@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 20 2022 015406-1",
+    "filingDate": "03/08/2022",
+    "grantDate": null,
+    "title": "TAMPA ALERTA VAZAMENTO EM BICO DE PNEU",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "PEDRO RICARDO CLEMENTE FERNANDES"
+    ],
+    "holders": [
+        76542
+    ],
+    "ipcCodes": [
+        "B60C 29/06",
+        "B60C 23/06"
+    ]
+}

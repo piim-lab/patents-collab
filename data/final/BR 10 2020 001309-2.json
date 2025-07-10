@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2020 001309-2",
+    "filingDate": "21/01/2020",
+    "grantDate": null,
+    "title": "BLOCO DE CLUSTER E COMPRESSOR HERM\u00c9TICO INCLUINDO O BLOCO DE CLUSTER",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2019-0008195",
+            "priorityDate": "22/01/2019"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2020-0001820",
+            "priorityDate": "07/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "BYUNG HEE CHO",
+        "SUNG CHUL KIM",
+        "SUK EUN JUNG"
+    ],
+    "holders": [
+        55918
+    ],
+    "ipcCodes": []
+}

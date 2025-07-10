@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 023859-6",
+    "filingDate": "25/03/2013",
+    "grantDate": null,
+    "title": "NANOPART\u00cdCULA, USO DA MESMA, E COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/615,743",
+            "priorityDate": "26/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "PEDRO SANTAMARIA"
+    ],
+    "holders": [
+        111196
+    ],
+    "ipcCodes": [
+        "G01N 33/543",
+        "A61K 39/02"
+    ]
+}

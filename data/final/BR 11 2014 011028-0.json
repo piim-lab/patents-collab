@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 11 2014 011028-0",
+    "filingDate": "06/11/2012",
+    "grantDate": null,
+    "title": "ANTICORPO BIESPEC\u00cdFICO, COMPOSI\u00c7\u00c3O, E, USO DA COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/556,645",
+            "priorityDate": "07/11/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/625,299",
+            "priorityDate": "17/04/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/697,585",
+            "priorityDate": "06/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "ANTONIO DIGIANDOMENICO",
+        "PAUL WARRENER",
+        "CHARLES STOVER",
+        "BRET SELLMAN",
+        "RALPH MINTER",
+        "SANDRINE GUILLARD",
+        "STEVEN RUST",
+        "MLADEN TOMICH",
+        "VIGNESH VENKATRAMAN",
+        "REENA VARKEY",
+        "LI PENG",
+        "MELISSA DAMSCHRODER",
+        "PARTHA CHOWDHURY",
+        "NAZZARENO DIMASI",
+        "RYAN FLEMING",
+        "BINYAM BEZABEH",
+        "CHANGSHOU GAO",
+        "CUIHUA GAO",
+        "GODFREY RAINEY"
+    ],
+    "holders": [
+        101157,
+        91046
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61K 39/00",
+        "C12P 21/08",
+        "C07K 16/00"
+    ]
+}

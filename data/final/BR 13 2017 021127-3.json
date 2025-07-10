@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 13 2017 021127-3",
+    "filingDate": "02/10/2017",
+    "grantDate": "27/08/2019",
+    "title": "APERFEI\u00c7OAMENTO EM DOSADOR DE SEMENTES",
+    "parentApplication": {
+        "filingDate": "06/05/2010",
+        "applicationNumber": "PI 1001437-3"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "\u00c1TILA STAPELBROEK TRENNEPHOL"
+    ],
+    "holders": [
+        801
+    ],
+    "ipcCodes": [
+        "A01C 7/04"
+    ]
+}

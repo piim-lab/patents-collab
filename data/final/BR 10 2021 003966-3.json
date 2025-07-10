@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 003966-3",
+    "filingDate": "02/03/2021",
+    "grantDate": null,
+    "title": "GNATODINAM\u00d4METRO PORT\u00c1TIL DIGITAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "JULIA DA SILVA GERMINIANI",
+        "WALDEMAR GERMINIANI",
+        "JOS\u00c9 STECHMAN NETO"
+    ],
+    "holders": [
+        65924,
+        65925
+    ],
+    "ipcCodes": [
+        "A61C 19/045"
+    ]
+}

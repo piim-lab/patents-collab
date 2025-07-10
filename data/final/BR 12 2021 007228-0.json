@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2021 007228-0",
+    "filingDate": "14/05/2013",
+    "grantDate": null,
+    "title": "Linha de tubula\u00e7\u00e3o aquec\u00edvel, e seu uso",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102012208020.1",
+            "priorityDate": "14/05/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/05/2013",
+        "applicationNumber": "BR 10 2013 011892-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "RAINER G\u00d6RING",
+        "MICHAEL B\u00d6ER",
+        "J\u00dcRGEN FRANOSCH",
+        "J\u00d6RG WESTMEIER",
+        "OTFRIED SCHWARZKOPF",
+        "DANIEL DE BEER"
+    ],
+    "holders": [
+        962,
+        6847
+    ],
+    "ipcCodes": [
+        "F16L 53/00"
+    ]
+}

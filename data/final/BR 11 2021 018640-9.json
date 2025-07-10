@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2021 018640-9",
+    "filingDate": "19/03/2020",
+    "grantDate": null,
+    "title": "AERONAVE DE DECOLAGEM E POUSO NA VERTICAL (VTOL)",
+    "nationalPhaseDate": [
+        "20/09/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AU2020/050261",
+        "pctDate": "19/03/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2019900954",
+            "priorityDate": "21/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "MOORE ANDREW DUDLEY",
+        "WILSON JOHN"
+    ],
+    "holders": [
+        263079
+    ],
+    "ipcCodes": [
+        "B64C 9/00",
+        "B64C 39/06",
+        "B64C 29/00"
+    ]
+}

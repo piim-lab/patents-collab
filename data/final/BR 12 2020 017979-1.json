@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 12 2020 017979-1",
+    "filingDate": "01/08/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA DEGRADAR UM MATERIAL CELUL\u00d3SICO OU MATERIAL CONTENDO XILANO",
+    "divisionalApplication": {
+        "filingDate": "01/08/2012",
+        "applicationNumber": "BR 11 2014 002401-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2641"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        28978,
+        79435
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "BR 11 2013 004225-7",
+    "filingDate": "09/09/2011",
+    "grantDate": "21/01/2020",
+    "title": "PROCESSO DE PURIFICA\u00c7\u00c3O DE CO~ 2~DE ALCANOLAMINA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/381,351",
+            "priorityDate": "09/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/381,294",
+            "priorityDate": "09/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/381,281",
+            "priorityDate": "09/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/420,960",
+            "priorityDate": "08/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/420,978",
+            "priorityDate": "08/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/421,048",
+            "priorityDate": "08/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "LISA S BAUGH",
+        "PAVEL KORTUNOV",
+        "DAVID C CALABRO",
+        "MICHAEL SISKIN"
+    ],
+    "holders": [
+        100137
+    ],
+    "ipcCodes": [
+        "B01D 53/14",
+        "B01D 53/62"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 20 2018 014154-1",
+    "filingDate": "11/07/2018",
+    "grantDate": null,
+    "title": "ESPELHO RETROVISOR",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "NICOLA SINDONI NETO",
+        "MICHAEL FERMAN",
+        "OLIVER CLEMENS ROBERT KRATZER"
+    ],
+    "holders": [
+        132990,
+        354070
+    ],
+    "ipcCodes": [
+        "B60R 1/06",
+        "B60R 1/08",
+        "B60R 1/07",
+        "B60R 1/02",
+        "B60R 1/062"
+    ]
+}

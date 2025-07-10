@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2017 026233-2",
+    "filingDate": "05/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA A TRANSFORMA\u00c7\u00c3O DE UM MOINHO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102016000123088",
+            "priorityDate": "05/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "VALTER PALLADINI"
+    ],
+    "holders": [
+        34494
+    ],
+    "ipcCodes": [
+        "B02C 17/18",
+        "B02C 17/00"
+    ]
+}

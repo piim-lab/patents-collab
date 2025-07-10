@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2022 013949-7",
+    "filingDate": "13/01/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO TERMINAL EXTERNO E M\u00c9TODO PARA SUA CONEX\u00c3O A LINHAS DE FLUXO",
+    "nationalPhaseDate": [
+        "14/07/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2021/050232",
+        "pctDate": "13/01/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000000565",
+            "priorityDate": "14/01/2020"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000000568",
+            "priorityDate": "14/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "NICOLA GRANDOLFO",
+        "EMILIO MAGALDI"
+    ],
+    "holders": [
+        321074,
+        140343
+    ],
+    "ipcCodes": [
+        "A61M 39/10",
+        "A61M 1/14",
+        "A61M 1/36",
+        "A61B 5/145",
+        "A61B 5/1455",
+        "A61M 1/28"
+    ]
+}

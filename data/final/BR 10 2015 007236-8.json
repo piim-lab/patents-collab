@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2015 007236-8",
+    "filingDate": "31/03/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA LUBRIFICA\u00c7\u00c3O DE ROLAMENTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "GB1405841.6",
+            "priorityDate": "01/04/2014"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "GB1408825.6",
+            "priorityDate": "19/05/2014"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "GB1412245.1",
+            "priorityDate": "09/06/2014"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "GB1501021.8",
+            "priorityDate": "21/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "11.6",
+            "description": "Arquivamento do Pedido \u2013 Art. 216 \u00a72\u00b0 da LPI",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "3.6",
+            "description": "Publica\u00e7\u00e3o do Pedido Arquivado Definitivamente - Art. 216 \u00a72\u00ba e Art. 17 \u00a72\u00ba da LPI",
+            "bulletinNumber ": "2476"
+        }
+    ],
+    "inventors": [
+        "ASHLEY CROWTHER",
+        "RICHARD SMITH",
+        "JESSE HARRIS GRAETER",
+        "SCOTT MACINDOE",
+        "MICHAEL ULFERT HORNEMANN"
+    ],
+    "holders": [
+        17000,
+        17001,
+        16999
+    ],
+    "ipcCodes": [
+        "F16N 11/00",
+        "F16N 31/00"
+    ]
+}

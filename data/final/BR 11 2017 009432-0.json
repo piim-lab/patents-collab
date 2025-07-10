@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2017 009432-0",
+    "filingDate": "04/11/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ALQUILA\u00c7\u00c3O DE CARGA DE ALIMENTA\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/535933",
+            "priorityDate": "07/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "YANG JAN",
+        "PELIN COX",
+        "ROBERT J SCHMIDT"
+    ],
+    "holders": [
+        80516
+    ],
+    "ipcCodes": [
+        "B01J 29/04",
+        "C07C 2/66",
+        "C07C 15/085",
+        "C07C 15/073"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2020 003554-8",
+    "filingDate": "22/08/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA GERAR CAMINHO ALVO PARA VE\u00cdCULO AUT\u00d4NOMO",
+    "nationalPhaseDate": [
+        "20/02/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2017/029886",
+        "pctDate": "22/08/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "YOSHITAKA TAKAGI"
+    ],
+    "holders": [
+        79937
+    ],
+    "ipcCodes": [
+        "G08G 1/16",
+        "G01C 21/26",
+        "B60W 30/095",
+        "B60W 30/10",
+        "B60K 28/02"
+    ]
+}

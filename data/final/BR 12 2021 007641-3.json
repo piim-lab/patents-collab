@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2021 007641-3",
+    "filingDate": "02/05/2012",
+    "grantDate": "09/11/2021",
+    "title": "CLORETO DE (2R,S)-, (2S)- OU (2R)-DOTAP CRISTALINO, E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/488,428",
+            "priorityDate": "20/05/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/05/2012",
+        "applicationNumber": "BR 11 2013 029588-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80174
+    ],
+    "ipcCodes": []
+}

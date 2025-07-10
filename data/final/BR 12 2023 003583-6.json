@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 12 2023 003583-6",
+    "filingDate": "23/11/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A FABRICA\u00c7\u00c3O DE UMA CHAPA DE A\u00c7O REVESTIDA ELAMINADA A QUENTE, CHAPA DE A\u00c7O REVESTIDA E LAMINADA AQUENTE, M\u00c9TODO PARA A FABRICA\u00c7\u00c3O DE UMA PE\u00c7A DE A\u00c7OREVESTIDA ESTAMPADA A QUENTE, PE\u00c7A DE A\u00c7O REVESTIDAESTAMPADA A QUENTE E USOS DE UMA PE\u00c7A DE A\u00c7O REVESTIDAESTAMPADA A QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "IB",
+            "priorityNumber": "PCT/IB2016/057100",
+            "priorityDate": "24/11/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/11/2017",
+        "applicationNumber": "BR 11 2019 009708-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "9.1.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "THOMAS HENRION",
+        "RONAN JACOLOT",
+        "MARTIN BEAUVAIS"
+    ],
+    "holders": [
+        149569
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C22C 38/02",
+        "C22C 38/06",
+        "C21D 8/02",
+        "C22C 38/04",
+        "C22C 21/10",
+        "C22C 21/02",
+        "C22C 21/04",
+        "C23C 2/06",
+        "C23C 2/02",
+        "B32B 15/01",
+        "C23C 2/26",
+        "C23C 2/40",
+        "B21D 22/02",
+        "C23C 2/12",
+        "C22C 38/44",
+        "C22C 38/54",
+        "C23C 28/02",
+        "C22C 18/04",
+        "C22C 21/08",
+        "C22C 38/58",
+        "B23K 103/04",
+        "C22C 38/50",
+        "C22C 38/48"
+    ]
+}

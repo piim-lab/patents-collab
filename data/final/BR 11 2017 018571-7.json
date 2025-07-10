@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2017 018571-7",
+    "filingDate": "22/03/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE APLICA\u00c7\u00c3O DE MISTURA AGROQU\u00cdMICA E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15161117.5",
+            "priorityDate": "26/03/2015"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15173320.1",
+            "priorityDate": "23/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "WOLFRAM ZERULLA",
+        "MARKUS SCHMID",
+        "GREGOR PASDA"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "A01C 21/00",
+        "A01C 15/00",
+        "A01C 23/04"
+    ]
+}

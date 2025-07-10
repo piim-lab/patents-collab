@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2022 012048-6",
+    "filingDate": "21/12/2020",
+    "grantDate": null,
+    "title": "CONTROLE DE TURBINA E\u00d3LICA",
+    "nationalPhaseDate": [
+        "17/06/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT NO2020/000006",
+        "pctDate": "21/12/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1919010.7",
+            "priorityDate": "20/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        97738
+    ],
+    "ipcCodes": []
+}

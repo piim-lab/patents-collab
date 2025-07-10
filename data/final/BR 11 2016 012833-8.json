@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2016 012833-8",
+    "filingDate": "17/12/2014",
+    "grantDate": null,
+    "title": "AGENTE TERAP\u00caUTICO E/OU PREVENTIVO COMPREENDENDO DERIVADO DE 1-INDANSULFAMIDA PARA DOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-262743",
+            "priorityDate": "19/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI HIGASHIYAMA",
+        "YUJI KAZUTA",
+        "KEISUKE HASHIMOTO"
+    ],
+    "holders": [
+        82715
+    ],
+    "ipcCodes": [
+        "A61K 31/18",
+        "A61P 25/04"
+    ]
+}

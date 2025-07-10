@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2017 003762-9",
+    "filingDate": "31/08/2015",
+    "grantDate": null,
+    "title": "LINHA DE DEMARCA\u00c7\u00c3O E PROCESSO PARA A PRODU\u00c7\u00c3O DE UMA LINHA DE DEMARCA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102014113075.8",
+            "priorityDate": "10/09/2014"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102015109020.1",
+            "priorityDate": "08/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "MARKUS SPEITH",
+        "ANDREAS WIENEKE",
+        "DIETMAR SCHREIBER",
+        "THORSTEN RIEKE",
+        "THORSTEN BETT",
+        "MAXIMILIAN SCHNEIDER",
+        "MAXIMILIAN ROSIN",
+        "REN\u00c9 H\u00dcLSMANN"
+    ],
+    "holders": [
+        61109
+    ],
+    "ipcCodes": [
+        "G09F 3/02",
+        "H01R 9/24",
+        "H01R 13/46",
+        "G09F 3/00",
+        "G09F 3/16",
+        "G09F 3/06",
+        "G09F 7/06",
+        "B29C 47/06",
+        "H01R 9/26",
+        "G09F 3/20"
+    ]
+}

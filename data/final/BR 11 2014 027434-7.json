@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 027434-7",
+    "filingDate": "15/05/2012",
+    "grantDate": null,
+    "title": "IMPLEMENTO PARA HIGIENE BUCAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/464,457",
+            "priorityDate": "04/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "UWE JUNGNICKEL",
+        "NICLAS ALTMANN"
+    ],
+    "holders": [
+        109719
+    ],
+    "ipcCodes": [
+        "A61C 17/22",
+        "A46B 15/00"
+    ]
+}

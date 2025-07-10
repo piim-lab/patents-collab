@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2017 000064-4",
+    "filingDate": "27/01/2016",
+    "grantDate": "05/05/2020",
+    "title": "PLATAFORMA DE VOO MULTIFUNCIONAL",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201520187840.3",
+            "priorityDate": "31/03/2015"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201520730921.3",
+            "priorityDate": "21/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.1",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "BO CHEN"
+    ],
+    "holders": [
+        185245
+    ],
+    "ipcCodes": [
+        "B64D 47/00",
+        "H02K 9/00",
+        "B64C 27/08",
+        "B64C 27/10"
+    ]
+}

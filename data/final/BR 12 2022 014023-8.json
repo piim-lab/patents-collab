@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2022 014023-8",
+    "filingDate": "23/10/2019",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O INAL\u00c1VEL, M\u00c9TODO PARA FABRICAR A REFERIDA COMPOSI\u00c7\u00c3O, CARTUCHO E DISPOSITIVO DE CIGARRO ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18202355.6",
+            "priorityDate": "24/10/2018"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19175946.3",
+            "priorityDate": "22/05/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/10/2019",
+        "applicationNumber": "BR 11 2021 007733-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "ASHOK S NARASIMHAN",
+        "RAYMOND MCCAGUE",
+        "NICHOLAS HYDE",
+        "WILLIAM JACKSON"
+    ],
+    "holders": [
+        287544
+    ],
+    "ipcCodes": [
+        "A24B 15/16",
+        "A24B 15/28"
+    ]
+}

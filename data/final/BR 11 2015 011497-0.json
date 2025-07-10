@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2015 011497-0",
+    "filingDate": "26/11/2013",
+    "grantDate": null,
+    "title": "Composto, e, formula\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1251332-1",
+            "priorityDate": "27/11/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/797,022",
+            "priorityDate": "27/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "MARTIN SCOBIE",
+        "THOMAS HELLEDAY",
+        "TOBIAS KOOLMEISTER",
+        "SYLVAIN JACQUES",
+        "MATTHIEU DESROSES",
+        "MARIECAROLINE JACQUESCORDONNIER"
+    ],
+    "holders": [
+        156179
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/506",
+        "C07D 403/04",
+        "A61K 31/505"
+    ]
+}

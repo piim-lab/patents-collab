@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2013 006130-8",
+    "filingDate": "15/09/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE FUS\u00c3O DIRETA",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2010904166",
+            "priorityDate": "15/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2487"
+        }
+    ],
+    "inventors": [
+        "RODNEY JAMES DRY",
+        "JACQUES PILOTE"
+    ],
+    "holders": [
+        102396
+    ],
+    "ipcCodes": [
+        "C21B 11/02",
+        "C22B 5/10",
+        "C21B 13/00"
+    ]
+}

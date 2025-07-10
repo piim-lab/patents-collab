@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2014 014965-8",
+    "filingDate": "19/12/2012",
+    "grantDate": null,
+    "title": "Bebida compreendendo glicos\u00eddeos",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/577,202",
+            "priorityDate": "19/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/651,099",
+            "priorityDate": "24/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "INDRA PRAKASH",
+        "AVETIK MARKOSYAN",
+        "VENKATA SAI PRAKASH CHATURVEDULLA",
+        "MARY CAMPBELL",
+        "RAFAEL SAN MIGUEL",
+        "SIDDHARTHA PURKAYASTHA",
+        "MARQUITA JOHNSON"
+    ],
+    "holders": [
+        138676,
+        5359
+    ],
+    "ipcCodes": [
+        "A23L 27/30"
+    ]
+}

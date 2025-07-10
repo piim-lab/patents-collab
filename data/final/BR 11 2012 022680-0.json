@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2012 022680-0",
+    "filingDate": "08/03/2011",
+    "grantDate": null,
+    "title": "USO DE UMA VACINA INATIVADA CONTRA V\u00cdRUS DA INFLUENZA CANINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/312,380",
+            "priorityDate": "10/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "NALLAKANNU P LAKSHMANAN",
+        "MURALIDHAR S DESHPANDE",
+        "HUCHAPPA GOWDA JAYAPPA",
+        "TERRI LEE WASMOEN"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A61K 39/145"
+    ]
+}

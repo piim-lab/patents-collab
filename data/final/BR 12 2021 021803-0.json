@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2021 021803-0",
+    "filingDate": "18/09/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE 1-QUESTOSE EM ESCALA INDUSTRIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "CU",
+            "priorityNumber": "2012-0138",
+            "priorityDate": "18/09/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/09/2013",
+        "applicationNumber": "BR 11 2015 005852-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "ENRIQUE ROSENDO PEREZ CRUZ",
+        "L\u00c1ZARO HERNANDEZ GARCIA",
+        "DUNIESKY MARTINEZ GARCIA",
+        "LUIS ENRIQUE TRUJILLO TOLEDO",
+        "CARMEN MENENDEZ RODRIGUEZ",
+        "ALINA SOBRINO LEG\u00d3N",
+        "RICARDO RAMIRES IBANEZ",
+        "GUMERSINDO FEIJOO COSTA",
+        "JUAN MANUEL LEMA RODICIO"
+    ],
+    "holders": [
+        97008
+    ],
+    "ipcCodes": [
+        "A23L 2/60",
+        "C12P 19/18"
+    ]
+}

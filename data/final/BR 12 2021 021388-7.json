@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2021 021388-7",
+    "filingDate": "30/06/2017",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE TINTA L\u00c1TEX EST\u00c1VEL AO ENVELHECIMENTO T\u00c9RMICO",
+    "divisionalApplication": {
+        "filingDate": "30/06/2017",
+        "applicationNumber": "BR 11 2018 077240-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        48395
+    ],
+    "ipcCodes": []
+}

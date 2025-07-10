@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 013833-0",
+    "filingDate": "26/06/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE CONSULTA E PREVEN\u00c7\u00c3O DE DESCONTO DE DUPLICATAS EM DUPLICIDADE",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "FABIANO DE SOUZA",
+        "ADEMIR LEONARDO DUARTE",
+        "DANIEL DA SILVEIRA",
+        "DINO MARQUES POLIPPO",
+        "RUBENS KLEIN"
+    ],
+    "holders": [
+        30642,
+        30643,
+        30644,
+        30645,
+        30646
+    ],
+    "ipcCodes": [
+        "G06Q 20/40",
+        "G06Q 20/42"
+    ]
+}

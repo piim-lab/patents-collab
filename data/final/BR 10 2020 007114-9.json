@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 007114-9",
+    "filingDate": "09/04/2020",
+    "grantDate": null,
+    "title": "MOSQUET\u00c3O COM MEIO DE CONFINAMENTO INTERNO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1904249",
+            "priorityDate": "19/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "SIMON EMONIN"
+    ],
+    "holders": [
+        48008
+    ],
+    "ipcCodes": [
+        "A62B 35/00",
+        "A63B 29/02",
+        "F16B 45/02"
+    ]
+}

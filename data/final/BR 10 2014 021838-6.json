@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2014 021838-6",
+    "filingDate": "03/09/2014",
+    "grantDate": "07/04/2020",
+    "title": "SISTEMA DE CONTROLE AUTOM\u00c1TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/027996",
+            "priorityDate": "16/09/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        }
+    ],
+    "inventors": [
+        "SHUFENG HAN",
+        "CHRISTOPHER D TURNER",
+        "STEVEN A DUPPONG",
+        "BRYAN K BUERKLE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 69/00",
+        "A01B 71/06",
+        "A01B 59/06"
+    ]
+}

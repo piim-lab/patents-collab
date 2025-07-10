@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2019 020050-2",
+    "filingDate": "25/09/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE \u00c1CIDO TEREFT\u00c1LICO E SISTEMA DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "107133898",
+            "priorityDate": "26/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "CHEN LAI",
+        "SIAN LEE",
+        "HAO CHIANG",
+        "SHUI LIANG",
+        "CHIN TSAI"
+    ],
+    "holders": [
+        52327
+    ],
+    "ipcCodes": [
+        "C07C 51/41",
+        "C08J 11/04",
+        "C07C 51/09",
+        "C08J 11/10",
+        "C07C 63/26"
+    ]
+}

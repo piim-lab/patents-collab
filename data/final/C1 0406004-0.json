@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "C1 0406004-0",
+    "filingDate": "12/12/2008",
+    "grantDate": null,
+    "title": "APERFEI\u00c7OAMENTO INTRODUZIDO EM DISPOSITIVO FILTRANTE DESTINADO \u00c0 MONTAGEM EM CAVALETE DE MEDIDOR DE \u00c1GUA",
+    "parentApplication": {
+        "filingDate": "29/12/2004",
+        "applicationNumber": "PI 0406004-0"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "MARCOS RISCHBIETER",
+        "ESTHER JORGE",
+        "ANDR\u00c9 RICARDO MARCHETTI"
+    ],
+    "holders": [
+        351392,
+        24530
+    ],
+    "ipcCodes": [
+        "G01F 15/12"
+    ]
+}

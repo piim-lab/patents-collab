@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2014 001471-0",
+    "filingDate": "10/07/2012",
+    "grantDate": null,
+    "title": "FOLHA DE LIGA DE ALUM\u00cdNIO E M\u00c9TODO PARA FABRICA\u00c7\u00c3O DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-162284",
+            "priorityDate": "25/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "TOMOYUKI HIRAYAMA",
+        "PIZHI ZHAO",
+        "TAKESHI HANDA",
+        "TOSHIYA ANAMI",
+        "YUSUKE NAGAISHI",
+        "KOJI ITAKURA",
+        "HIROKAZU MIYAGAWA",
+        "TSUTOMU HATTORI",
+        "SHIGENORI YOSHIZAWA",
+        "AKIO YOSHIZAWA"
+    ],
+    "holders": [
+        79937,
+        130492
+    ],
+    "ipcCodes": [
+        "B21B 3/00",
+        "C22F 1/00",
+        "B22D 11/00",
+        "C22C 21/06",
+        "B22D 11/06",
+        "C22F 1/047"
+    ]
+}

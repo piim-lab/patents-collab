@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2019 010306-0",
+    "filingDate": "21/05/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE OPERA\u00c7\u00c3O DE UM FORNO DE FUS\u00c3O POR BATELADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/989,945",
+            "priorityDate": "25/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "SHAILESH PRADEEP GANGOLI",
+        "AVISHEK GUHA",
+        "ANSHU GUPTA",
+        "REED JACOB HENDERSHOT",
+        "MICHAEL J GALLAGHER",
+        "MARTIN LAWRENCE",
+        "PETR TLAMICHA"
+    ],
+    "holders": [
+        780
+    ],
+    "ipcCodes": [
+        "F27B 7/42",
+        "F27D 19/00",
+        "F27B 7/00"
+    ]
+}

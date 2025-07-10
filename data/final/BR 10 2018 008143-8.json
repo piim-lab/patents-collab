@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2018 008143-8",
+    "filingDate": "22/04/2018",
+    "grantDate": null,
+    "title": "PROCESSO E SISTEMA P\u00d3S-PAGO PARA TERMINAIS DESCONECTADOS MULTIUSOS",
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "RUI ADRIANO PAIVA DE BRITO SOUSA"
+    ],
+    "holders": [
+        37985
+    ],
+    "ipcCodes": [
+        "G06Q 20/12",
+        "G06Q 10/10"
+    ]
+}

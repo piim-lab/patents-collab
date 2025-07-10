@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 13 2015 024054-5",
+    "filingDate": "17/09/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA TRATAMENTO DE POLPA CELUL\u00d3SICA UTILIZANDO CARBOXIMETILCELULOSE E POLPA ASSIM OBTIDA",
+    "parentApplication": {
+        "filingDate": "09/11/2006",
+        "applicationNumber": "PI 0605651-2"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2763"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2779"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        21016
+    ],
+    "ipcCodes": []
+}

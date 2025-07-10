@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 001825-9",
+    "filingDate": "29/01/2019",
+    "grantDate": null,
+    "title": "MONTAGEM DE ROLO DE HASTE PARA UM SISTEMA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/883.609",
+            "priorityDate": "30/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79
+    ],
+    "ipcCodes": []
+}

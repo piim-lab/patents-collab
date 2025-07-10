@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2013 012799-6",
+    "filingDate": "30/11/2011",
+    "grantDate": null,
+    "title": "Forma de dosagem",
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2602"
+        }
+    ],
+    "inventors": [
+        "LINDA DE YOUNG",
+        "STEPHEN F CARROLL",
+        "ANTHONY H CINCOTTA"
+    ],
+    "holders": [
+        150098,
+        145789,
+        115326,
+        115327
+    ],
+    "ipcCodes": [
+        "A61K 9/22"
+    ]
+}

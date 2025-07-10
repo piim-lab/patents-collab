@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2014 020008-4",
+    "filingDate": "12/02/2013",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o farmac\u00eautica, uso da mesma, e, processo para a fabrica\u00e7\u00e3o de uma formula\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1202433.7",
+            "priorityDate": "13/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/599704",
+            "priorityDate": "16/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/600958",
+            "priorityDate": "20/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "HIEP HUATAN",
+        "RICHARD ROSS",
+        "MARTIN WHITAKER"
+    ],
+    "holders": [
+        136664
+    ],
+    "ipcCodes": [
+        "A61K 9/50",
+        "A61K 31/573"
+    ]
+}

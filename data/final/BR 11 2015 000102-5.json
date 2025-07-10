@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2015 000102-5",
+    "filingDate": "23/10/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE EXIBI\u00c7\u00c3O DE PLANO DE FUNDO, DISPOSITIVO DE EXIBI\u00c7\u00c3O DE PLANO DE FUNDO E DISPOSITIVO ELETR\u00d4NICO",
+    "nationalPhaseDate": [
+        "05/01/2015"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2014/089322",
+        "pctDate": "23/10/2014",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201410206618.3",
+            "priorityDate": "15/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2554"
+        }
+    ],
+    "inventors": [
+        "WENLIN WANG",
+        "WEI HAN",
+        "YUZHEN WAN"
+    ],
+    "holders": [
+        140362
+    ],
+    "ipcCodes": [
+        "G06F 3/14"
+    ]
+}

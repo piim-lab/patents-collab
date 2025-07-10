@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2016 014735-9",
+    "filingDate": "24/12/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA A ESTAMPAGEM DE UM DISCO COMP\u00d3SITO COM MATRIZ TERMOPL\u00c1STICA N\u00c3O CONSOLIDADA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1363575",
+            "priorityDate": "24/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "JULIE VAUDOUR",
+        "ALEXANDRE PELARD"
+    ],
+    "holders": [
+        126783
+    ],
+    "ipcCodes": [
+        "B29C 70/54",
+        "B29C 70/34",
+        "B29C 70/38"
+    ]
+}

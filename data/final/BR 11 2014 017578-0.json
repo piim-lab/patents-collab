@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2014 017578-0",
+    "filingDate": "09/01/2013",
+    "grantDate": "19/05/2020",
+    "title": "PIST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 200 749.0",
+            "priorityDate": "19/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2756"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "DIETER EMMRICH",
+        "VIVIAN PAGE",
+        "VIVIAN PAGE",
+        "RALF BRAIG",
+        "J\u00dcRGEN RUDI",
+        "RICHARD J DONAHUE"
+    ],
+    "holders": [
+        381760,
+        1852,
+        158766,
+        99431
+    ],
+    "ipcCodes": []
+}

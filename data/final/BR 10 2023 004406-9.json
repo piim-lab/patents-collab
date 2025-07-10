@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2023 004406-9",
+    "filingDate": "09/03/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RECICLAR UM METAL OU V\u00c1RIOS METAIS M",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2202405",
+            "priorityDate": "18/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "FRANCK LABRUYERE",
+        "PAULINE GALLIOU"
+    ],
+    "holders": [
+        8923
+    ],
+    "ipcCodes": [
+        "C22B 1/04"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 007288-6",
+    "filingDate": "07/04/2017",
+    "grantDate": null,
+    "title": "PAVIMENTADORA COM DISPOSITIVO DE SUPORTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16164470.3",
+            "priorityDate": "08/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "INGO HERZBERG"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48",
+        "E01C 19/00",
+        "E01C 19/12"
+    ]
+}

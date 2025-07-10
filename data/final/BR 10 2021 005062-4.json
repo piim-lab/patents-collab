@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2021 005062-4",
+    "filingDate": "17/03/2021",
+    "grantDate": null,
+    "title": "PAINEL DE PISO AQUECIDO, E, M\u00c9TODO PARA FORMAR UM PAINEL DE PISO AQUECIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/824,984",
+            "priorityDate": "20/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "BRANDON HEIN",
+        "JAMES A MULLEN",
+        "GEORGE F OWENS",
+        "NATHANIEL CHING",
+        "JIN HU"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "H05B 3/26",
+        "B64C 1/18"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2012 029370-6",
+    "filingDate": "19/11/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONDU\u00c7\u00c3O DE UM PROCESSO DE DEPOSI\u00c7\u00c3O DE PCVD",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2007831",
+            "priorityDate": "21/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "IGOR MILICEVIC",
+        "MATTHEUS JACOBUS NICOLAAS VAN STRALEN",
+        "JOHANNES ANTOON HARTSUIKER"
+    ],
+    "holders": [
+        1807
+    ],
+    "ipcCodes": [
+        "C03B 37/018",
+        "C23C 16/455",
+        "C23C 16/04"
+    ]
+}

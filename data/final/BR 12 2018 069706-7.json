@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 12 2018 069706-7",
+    "filingDate": "07/05/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA CONTROLAR PRODU\u00c7\u00c3O DE AEROSSOL DURANTE ABSOR\u00c7\u00c3O EM DESSULFURIZA\u00c7\u00c3O DE AM\u00d4NIA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201710800599.0",
+            "priorityDate": "07/09/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/923,031",
+            "priorityDate": "16/03/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/05/2018",
+        "applicationNumber": "BR 10 2018 009209-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "7.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "JING LUO",
+        "TIANQI XU",
+        "JINYONG WANG",
+        "YONGYING LUO"
+    ],
+    "holders": [
+        30520
+    ],
+    "ipcCodes": [
+        "B01D 53/14",
+        "B01D 53/50",
+        "B01D 53/78",
+        "F23J 15/04"
+    ]
+}

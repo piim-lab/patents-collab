@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2021 003880-2",
+    "filingDate": "01/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA SUCCIONAR POEIRAS E FIBRILAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000004462",
+            "priorityDate": "03/03/2020"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000005212",
+            "priorityDate": "11/03/2020"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000029333",
+            "priorityDate": "01/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2786"
+        }
+    ],
+    "inventors": [
+        "FABIO BOSIO"
+    ],
+    "holders": [
+        65903
+    ],
+    "ipcCodes": [
+        "B01D 46/00",
+        "B01D 53/02",
+        "A47L 9/00",
+        "B01D 46/54",
+        "A47L 9/10"
+    ]
+}

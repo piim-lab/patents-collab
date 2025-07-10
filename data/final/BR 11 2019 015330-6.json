@@ -1,0 +1,96 @@
+{
+    "applicationNumber": "BR 11 2019 015330-6",
+    "filingDate": "26/01/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE RECUPERA\u00c7\u00c3O DE CO\u00c1GULO",
+    "nationalPhaseDate": [
+        "25/07/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/015406",
+        "pctDate": "26/01/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/417,505",
+            "priorityDate": "27/01/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/449,901",
+            "priorityDate": "03/03/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/610,209",
+            "priorityDate": "31/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/611,762",
+            "priorityDate": "01/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/629,703",
+            "priorityDate": "21/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/710,648",
+            "priorityDate": "20/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "ARTHUR JOHN ULM III"
+    ],
+    "holders": [
+        182948
+    ],
+    "ipcCodes": [
+        "A61B 17/00",
+        "A61F 2/00",
+        "A61B 17/22",
+        "A61F 2/01"
+    ]
+}

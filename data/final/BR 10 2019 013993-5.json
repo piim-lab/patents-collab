@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 013993-5",
+    "filingDate": "05/07/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE AVALIA\u00c7\u00c3O DE UMA PLURALIDADE DE RECEITAS DE \u00c1GUA E M\u00c9TODO DE SELE\u00c7\u00c3O DE UMA RECEITA DE \u00c1GUA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP18182003.6",
+            "priorityDate": "05/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "MONIQUE BISSEN",
+        "JOSEF SCHUCKER"
+    ],
+    "holders": [
+        50140
+    ],
+    "ipcCodes": [
+        "C02F 1/68",
+        "A23L 2/52"
+    ]
+}

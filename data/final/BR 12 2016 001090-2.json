@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2016 001090-2",
+    "filingDate": "12/06/2014",
+    "grantDate": null,
+    "title": "CODIFICADOR E DECODIFICADOR DE \u00c1UDIO COM INFORMA\u00c7\u00d5ES DE PROGRAMA OU METADADOS DE ESTRUTURA DE SUBSTREAM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/836,865",
+            "priorityDate": "19/06/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/06/2014",
+        "applicationNumber": "BR 11 2015 019435-4"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "JEFFREY RIEDMILLER",
+        "MICHAEL WARD",
+        "JEFFREY RIEDMILLER",
+        "MICHAEL WARD",
+        "JEFFREY RIEDMILLER",
+        "MICHAEL WARD",
+        "JEFFREY RIEDMILLER",
+        "MICHAEL WARD",
+        "JEFFREY RIEDMILLER",
+        "MICHAEL WARD"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "G10L 19/16"
+    ]
+}

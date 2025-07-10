@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 13 2021 007645-2",
+    "filingDate": "22/04/2021",
+    "grantDate": null,
+    "title": "SISTEMA INTEGRADO DE RECUPERA\u00c7\u00c3O DE \u00c1GUA LIMPA E DE ENERGIA T\u00c9RMICA DE ENCANAMENTOS DE \u00c1GUA AQUECIDA",
+    "parentApplication": {
+        "filingDate": "09/04/2014",
+        "applicationNumber": "BR 10 2014 008516-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "PEDRO YOSHITAKA FUKUYAMA"
+    ],
+    "holders": [
+        30489
+    ],
+    "ipcCodes": [
+        "E03B 11/02",
+        "E03C 1/044"
+    ]
+}

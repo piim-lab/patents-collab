@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 12 2022 016219-3",
+    "filingDate": "29/10/2018",
+    "grantDate": null,
+    "title": "ENCAIXE DE RESSALTO CEGO COM VEDA\u00c7\u00c3O REDUNDANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/582,477",
+            "priorityDate": "07/11/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/10/2018",
+        "applicationNumber": "BR 11 2020 009001-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "BRAD JAMES MOUTRAY",
+        "JOHN ALLEN EIHUSEN",
+        "BRIAN CHRISTOPHER YEGGY"
+    ],
+    "holders": [
+        215606
+    ],
+    "ipcCodes": [
+        "F17C 13/06"
+    ]
+}

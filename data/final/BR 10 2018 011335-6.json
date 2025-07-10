@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2018 011335-6",
+    "filingDate": "04/06/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE GERENCIAMENTO DE BENS PATRIMONIAIS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "JAUBERTH WEYLL ABIJAUDE",
+        "P\u00c9RICLES DE LIMA SOBREIRA",
+        "FAB\u00cdOLA GON\u00c7ALVES PEREIRA GREVE"
+    ],
+    "holders": [
+        1219,
+        155
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "H04W 4/38",
+        "H04W 4/35"
+    ]
+}

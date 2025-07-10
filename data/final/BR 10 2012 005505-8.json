@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 10 2012 005505-8",
+    "filingDate": "12/03/2012",
+    "grantDate": null,
+    "title": "TURBINA E\u00d3LICA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2011A000375",
+            "priorityDate": "10/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "MATTEO CASAZZA",
+        "OTTO PABST",
+        "ALESSANDRO FASOLO",
+        "JUAN ALBIZUA MACUA",
+        "HUGO DE CARLOS ALEGRE",
+        "MICKA\u00cbL DURAND",
+        "ROBERTO REPISO BARRERA",
+        "GERD BERENTS",
+        "SIMON SCHROBSDORFF",
+        "PETER GRANVILLE KELLY",
+        "KEESJAN KLANT",
+        "WOUD VLEUGEL",
+        "JAVIER PASCUAL RESANO",
+        "JOS\u00c9 LUIS AR\u00cdSTEGUI LANTERO",
+        "TERESA ARLAB\u00c1N GABEIRAS",
+        "JOSE MIGUEL GARC\u00cdA SAY\u00c9S",
+        "MIGUEL N\u00da\u00d1EZ POLO",
+        "HANS GEORG CONRADS",
+        "MATTHIAS M\u00c4DE",
+        "DANIEL GUARIGLIA",
+        "S\u00d5NAJALG ANDRES",
+        "S\u00d5NAJALG OLEG",
+        "ENRIQUE GOMEZ DE LAS HERAS CARBONELL",
+        "OCTAVIO HERNANDEZ MASCARELL",
+        "JAIME SUAREZ AIZPUN"
+    ],
+    "holders": [
+        53123,
+        190948,
+        295558,
+        746,
+        275756,
+        82924,
+        335,
+        113,
+        193589,
+        39896,
+        96024,
+        405853,
+        405854
+    ],
+    "ipcCodes": [
+        "F03D 7/02",
+        "F03D 7/04"
+    ]
+}

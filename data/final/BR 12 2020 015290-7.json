@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 12 2020 015290-7",
+    "filingDate": "06/11/2012",
+    "grantDate": "29/11/2022",
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE UMA PARTI\u00c7\u00c3O (BI) DE UMA IMAGEM DIVIDIDA EM PARTI\u00c7\u00d5ES",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "11/60,109",
+            "priorityDate": "07/11/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/11/2012",
+        "applicationNumber": "BR 11 2014 010839-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "F\u00c9LIX HENRY",
+        "GORDON CLARE"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/176",
+        "H04N 19/18",
+        "H04N 19/13",
+        "H04N 19/46",
+        "H04N 19/48",
+        "H04N 19/467",
+        "H04N 19/122",
+        "H04N 19/44",
+        "H04N 19/91",
+        "H04N 19/105",
+        "H04N 19/593",
+        "H04N 19/124",
+        "H04N 19/117",
+        "H04N 19/119",
+        "H04N 19/147",
+        "H04N 19/14",
+        "H04N 19/159",
+        "H04N 19/172",
+        "H04N 19/184"
+    ]
+}

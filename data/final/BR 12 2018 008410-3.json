@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 12 2018 008410-3",
+    "filingDate": "16/12/2011",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o de prote\u00edna, e processo para sua produ\u00e7\u00e3",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/460,324",
+            "priorityDate": "03/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/374,077",
+            "priorityDate": "12/12/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/12/2011",
+        "applicationNumber": "BR 11 2012 016726-0"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        }
+    ],
+    "inventors": [
+        "STEPHEN D KELLEHER",
+        "WILLIAM R FIELDING"
+    ],
+    "holders": [
+        92383
+    ],
+    "ipcCodes": [
+        "A23J 3/04",
+        "A23J 1/02"
+    ]
+}

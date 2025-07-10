@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2022 010094-5",
+    "filingDate": "04/05/2015",
+    "grantDate": null,
+    "title": "DISPOSITIVO INDICADOR E RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14001603.1",
+            "priorityDate": "07/05/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/05/2015",
+        "applicationNumber": "BR 11 2016 023932-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "JOACHIM EICHER",
+        "JOSEF GATZ",
+        "FRANK HERRMANN",
+        "HUBERT HOELZ",
+        "ANDREE JUNG",
+        "MARTIN MEISENHEIMER",
+        "MARKUS MUELLER",
+        "ALFRED VON SCHUCKMANN",
+        "HERBERT WACHTEL",
+        "ROBERT GERHARD WINKLER",
+        "GILBERT WUTTKE",
+        "JOCHEN ZIEGLER"
+    ],
+    "holders": [
+        26587
+    ],
+    "ipcCodes": [
+        "B05B 11/00",
+        "A61M 11/00",
+        "A61M 15/00",
+        "G06M 1/02"
+    ]
+}

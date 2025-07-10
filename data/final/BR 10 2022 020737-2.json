@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 020737-2",
+    "filingDate": "13/10/2022",
+    "grantDate": null,
+    "title": "SISTEMA PARA UMA OPERA\u00c7\u00c3O AGR\u00cdCOLA E M\u00c9TODO PARA APLICAR SELETIVAMENTE UM PRODUTO AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/501509",
+            "priorityDate": "14/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "ROY A BITTNER",
+        "SCOTT ALLEN LONG",
+        "TREVOR STANHOPE"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "G16Y 40/60",
+        "G16Y 40/10",
+        "G16Y 40/35",
+        "G16Y 20/10",
+        "G16Y 10/05",
+        "G06V 10/00"
+    ]
+}

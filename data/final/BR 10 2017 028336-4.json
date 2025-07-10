@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2017 028336-4",
+    "filingDate": "27/12/2017",
+    "grantDate": null,
+    "title": "SUPORTE DE GRAVA\u00c7\u00c3O, PROCESSO DE CONTROLE DE H\u00c1BITOS DE UTILIZA\u00c7\u00c3O E DISPOSITIVO ELETR\u00d4NICO COM CAPACIDADE PARA IMPLANTAR TAL PROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1663558",
+            "priorityDate": "30/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "25.11",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "FRANCIS CHAMBEROT",
+        "MARCO DE OLIVEIRA"
+    ],
+    "holders": [
+        1499
+    ],
+    "ipcCodes": [
+        "G06F 11/30",
+        "G06F 21/34",
+        "G06Q 20/34",
+        "G06Q 20/38",
+        "G06Q 20/40"
+    ]
+}

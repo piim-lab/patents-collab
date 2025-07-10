@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 20 2016 013350-0",
+    "filingDate": "09/06/2016",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O CONSTRUTIVA EM VESTU\u00c1RIO",
+    "events": [
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        355963
+    ],
+    "ipcCodes": []
+}

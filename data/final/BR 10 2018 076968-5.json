@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 076968-5",
+    "filingDate": "21/12/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE HASTE DE CONEX\u00c3O E HASTE DE CONEX\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-248195",
+            "priorityDate": "25/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "TAKAAKI KAWAZOE"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "F16C 7/00",
+        "F16C 9/04",
+        "B23K 26/00",
+        "F16C 7/02",
+        "B23P 13/00"
+    ]
+}

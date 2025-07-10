@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 10 2016 019899-2",
+    "filingDate": "28/08/2016",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO REMOTO AUTOM\u00c1TICO E GEST\u00c3O PARA GABINETES E AMBIENTES DE CONSERVA\u00c7\u00c3O DE PEREC\u00cdVEIS EM GERAL",
+    "events": [
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        24433
+    ],
+    "ipcCodes": []
+}

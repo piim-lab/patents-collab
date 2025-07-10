@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 20 2018 076333-0",
+    "filingDate": "17/12/2018",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O INTRODUZIDA EM ARMA\u00c7\u00c3O DE \u00d3CULOS COM PONTE M\u00d3VEL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [
+        "GISELE DOMENECH",
+        "VIRGINIA DELACROIX CURY"
+    ],
+    "holders": [
+        360352,
+        360351
+    ],
+    "ipcCodes": [
+        "G02C 5/02"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2021 021610-7",
+    "filingDate": "27/10/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE CONTROLE DE VE\u00cdCULOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/114,225",
+            "priorityDate": "16/11/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/503,045",
+            "priorityDate": "15/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "MAURICIO BERNES",
+        "ADAM HAUSMANN",
+        "SERGIO BRUTMAN",
+        "VICTOR PEREZ",
+        "DANIEL RUSH",
+        "STEVE SEIP",
+        "MAURICE HUTCHINS",
+        "THOMAS FARGES"
+    ],
+    "holders": [
+        205377,
+        12441
+    ],
+    "ipcCodes": [
+        "G07C 9/00",
+        "B60R 25/24"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 023223-1",
+    "filingDate": "13/11/2020",
+    "grantDate": null,
+    "title": "APARELHO DE TRANSPORTE DE TONER E APARELHO DE FORMA\u00c7\u00c3O DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "JP2019-207170",
+            "priorityDate": "15/11/2019"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "JP2019-207220",
+            "priorityDate": "15/11/2019"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "JP2019-207246",
+            "priorityDate": "15/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "TSUKASA ABE",
+        "FUMIHIKO YAMAYA",
+        "MITSUYOSHI ARAKAWA",
+        "TAKASHI KUWATA",
+        "SHINICHI UEDA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "G03G 15/08"
+    ]
+}

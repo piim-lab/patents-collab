@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2018 008590-5",
+    "filingDate": "27/04/2018",
+    "grantDate": null,
+    "title": "M\u00c1QUINA RETIFICADORA PARA RETIFICAR PE\u00c7AS PERFILADA INTERNAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "DE 10 2017 004 252.7",
+            "priorityDate": "02/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "STEFAN KR\u00c4MER",
+        "STEFAN SCHNEIDER",
+        "HEIKE HEMPEL"
+    ],
+    "holders": [
+        17082,
+        3775
+    ],
+    "ipcCodes": [
+        "B24B 41/04",
+        "B24B 19/02"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2023 002857-8",
+    "filingDate": "15/02/2023",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO DE CORTE DE C\u00c1PSULAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102022000003392",
+            "priorityDate": "23/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "FABRIZIO VILLA",
+        "RICCARDO DALL"
+    ],
+    "holders": [
+        39828
+    ],
+    "ipcCodes": [
+        "B26D 7/01",
+        "B26D 1/01",
+        "B26D 3/08",
+        "B26F 1/20"
+    ]
+}

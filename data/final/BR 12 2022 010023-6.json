@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2022 010023-6",
+    "filingDate": "02/03/2016",
+    "grantDate": null,
+    "title": "CARTUCHO DE FILTRO DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/127.166",
+            "priorityDate": "02/03/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/188.861",
+            "priorityDate": "06/07/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/03/2016",
+        "applicationNumber": "BR 11 2017 014178-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "DANIEL ERIC ADAMEK",
+        "SCOTT BROWN",
+        "ROBERT DEAN JOHNSTON",
+        "MATTHEW ALAN KALIS",
+        "RICHARD PATRICK MANAHAN"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "B01D 46/00"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2023 000007-6",
+    "filingDate": "07/07/2021",
+    "grantDate": null,
+    "title": "DUPLICADOR DE FREQU\u00caNCIA BASEADO EM DETECTORES DE FREQU\u00caNCIA DE FASE UTILIZANDO ATRASO DE BORDA DE SUBIDA",
+    "nationalPhaseDate": [
+        "02/01/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/040693",
+        "pctDate": "07/07/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/928,218",
+            "priorityDate": "14/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2821"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "JING WU",
+        "YING DUAN",
+        "ZHI ZHU"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H03K 3/017",
+        "H03K 5/00",
+        "H03K 5/135",
+        "H03K 19/21",
+        "H03K 5/156",
+        "H03B 19/14"
+    ]
+}

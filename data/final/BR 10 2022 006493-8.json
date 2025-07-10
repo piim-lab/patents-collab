@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 006493-8",
+    "filingDate": "04/04/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE GEST\u00c3O DE ESTOQUE COM N\u00cdVEL DE RASTREABILIDADE EM TEMPO REAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2754"
+        }
+    ],
+    "inventors": [
+        "ORISVALDO BUSONI SCHORRO",
+        "RENATO TOSHIRO ONNODA"
+    ],
+    "holders": [
+        75219,
+        75220
+    ],
+    "ipcCodes": [
+        "B65D 19/00",
+        "G06K 19/07",
+        "G06K 7/10",
+        "H01Q 1/22",
+        "B66F 9/075",
+        "B65G 1/00",
+        "G06Q 10/087",
+        "H04Q 5/00"
+    ]
+}

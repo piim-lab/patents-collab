@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2018 001171-5",
+    "filingDate": "19/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA CONTROLAR A FUN\u00c7\u00c3O DE UM ATUADOR PARA OPERA\u00c7\u00c3O DE LUZ DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1750070-3",
+            "priorityDate": "30/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "ADAM CLAESSON",
+        "ORTWIN SCHL\u00dcTER",
+        "JONNY RICKMAN",
+        "MIKAEL \u00d6UN"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B60Q 1/14",
+        "H01H 3/04",
+        "B60Q 1/076"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2017 002275-0",
+    "filingDate": "30/06/2009",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FUNGICIDA E PROCESSO PARA O CONTROLE DE DOEN\u00c7AS DE PLANTAS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-174963",
+            "priorityDate": "03/07/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-292511",
+            "priorityDate": "14/11/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/06/2009",
+        "applicationNumber": "PI 0915594-5"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2527"
+        }
+    ],
+    "inventors": [
+        "MUNEKAZU OGAWA",
+        "AKIHIRO NISHIMURA"
+    ],
+    "holders": [
+        64849
+    ],
+    "ipcCodes": [
+        "A01N 59/02",
+        "A01N 47/14",
+        "A01N 43/90",
+        "A01P 3/00",
+        "A01N 37/06",
+        "A01N 43/653",
+        "A01N 47/24",
+        "A01N 43/56",
+        "A01N 43/78",
+        "A01N 43/42",
+        "A01N 47/44"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2021 008295-6",
+    "filingDate": "31/10/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO, E DISPOSITIVO",
+    "nationalPhaseDate": [
+        "29/04/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/059163",
+        "pctDate": "31/10/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62756252",
+            "priorityDate": "06/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "TAL MARGALITH",
+        "MATTHEW S WONG",
+        "LESLEY CHAN",
+        "STEVEN P DENBAARS"
+    ],
+    "holders": [
+        23919
+    ],
+    "ipcCodes": [
+        "H01L 33/32",
+        "H01L 29/06",
+        "H01L 33/22",
+        "H01L 21/306",
+        "H01L 33/30",
+        "H01L 21/465",
+        "H01L 29/20"
+    ]
+}

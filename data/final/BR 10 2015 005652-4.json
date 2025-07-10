@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2015 005652-4",
+    "filingDate": "13/03/2015",
+    "grantDate": null,
+    "title": "SISTEMA PARA RECONHECER UM N\u00daMERO DE VE\u00cdCULO DE UMA PLACA DE LICEN\u00c7A DE UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-052098",
+            "priorityDate": "14/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "KUNIO YASUI"
+    ],
+    "holders": [
+        16693
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "H04N 7/18",
+        "G08B 13/196"
+    ]
+}

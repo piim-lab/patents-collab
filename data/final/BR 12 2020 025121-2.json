@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2020 025121-2",
+    "filingDate": "23/02/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ENCAIXE PARA ACOPLAR UMA V\u00c1LVULA PROT\u00c9TICA E M\u00c9TODO DE RECUPERA\u00c7\u00c3O DE UM DISPOSITIVO DE ENCAIXE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/902,956",
+            "priorityDate": "22/02/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/02/2018",
+        "applicationNumber": "BR 11 2020 016300-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "DARSHIN S PATEL",
+        "BOAZ MANASH",
+        "KHEN PERLMUTTER",
+        "EYAL LEIBA",
+        "YOAV ROZEN",
+        "DINESH L SIRIMANNE",
+        "TRI D TRAN",
+        "JOCELYN CHAU",
+        "NOA AXELROD",
+        "ZOHAR KIBLITSKI"
+    ],
+    "holders": [
+        94761
+    ],
+    "ipcCodes": [
+        "A61B 17/00",
+        "A61F 2/24"
+    ]
+}

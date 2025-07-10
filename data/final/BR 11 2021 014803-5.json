@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2021 014803-5",
+    "filingDate": "15/02/2020",
+    "grantDate": null,
+    "title": "N\u00d3 DE REDE, E, M\u00c9TODO IMPLEMENTADO EM UM N\u00d3 DE REDE",
+    "nationalPhaseDate": [
+        "27/07/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT SE2020/050170",
+        "pctDate": "15/02/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/806568",
+            "priorityDate": "15/02/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "KARL WERNER",
+        "SEBASTIAN FAX\u00c9R"
+    ],
+    "holders": [
+        79444
+    ],
+    "ipcCodes": [
+        "H04L 5/00",
+        "H04L 25/02"
+    ]
+}

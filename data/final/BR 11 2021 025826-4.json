@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2021 025826-4",
+    "filingDate": "23/07/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR, M\u00c9TODO PARA VERIFICAR UM DESENHO DE UM OBJETO, SISTEMA DE COMPUTADOR E PROGRAMA DE COMPUTADOR",
+    "nationalPhaseDate": [
+        "20/12/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/070858",
+        "pctDate": "23/07/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19188138.2",
+            "priorityDate": "24/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2807"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2817"
+        }
+    ],
+    "inventors": [
+        "STEFAN GLASER",
+        "ANDREAS WONISCH"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "B29C 45/00",
+        "B29C 45/76"
+    ]
+}

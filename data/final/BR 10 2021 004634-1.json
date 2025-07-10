@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 004634-1",
+    "filingDate": "11/03/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE TRABALHO, E, M\u00c9TODO PARA MONTAR UMA CONEX\u00c3O PIV\u00d4",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/856,099",
+            "priorityDate": "23/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "PATRICK J MULLIGAN",
+        "MICHAEL R TIGGES",
+        "JOSEPH F TILP",
+        "TRISHA L OYEN"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B62D 33/07",
+        "E02F 9/16",
+        "B62D 33/067"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2021 024230-5",
+    "filingDate": "15/10/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA SINTETIZAR COMPOSTOS DERIVADOS DE FTALAZINONA E COMPOSTO INTERMEDI\u00c1RIO NA DITA S\u00cdNTESE",
+    "divisionalApplication": {
+        "filingDate": "15/10/2007",
+        "applicationNumber": "PI 0717125-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        352219
+    ],
+    "ipcCodes": []
+}

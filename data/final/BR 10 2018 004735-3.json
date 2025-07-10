@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2018 004735-3",
+    "filingDate": "09/03/2018",
+    "grantDate": null,
+    "title": "MATERIAL ATIVO, MATERIAL COMP\u00d3SITO DE MATERIAL ATIVO, ELETRODO, BATERIA SECUND\u00c1RIA, CONJUNTO DE BATERIAS, E, VE\u00cdCULO.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-179939",
+            "priorityDate": "20/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "KAZUKI ISE",
+        "YASUHIRO HARADA",
+        "NORIO TAKAMI"
+    ],
+    "holders": [
+        7734
+    ],
+    "ipcCodes": [
+        "C01G 33/00",
+        "H01M 10/42",
+        "H01M 10/36",
+        "C01G 23/00"
+    ]
+}

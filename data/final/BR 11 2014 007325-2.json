@@ -1,0 +1,87 @@
+{
+    "applicationNumber": "BR 11 2014 007325-2",
+    "filingDate": "28/09/2012",
+    "grantDate": null,
+    "title": "CONJUNTO DE ESTERILIZA\u00c7\u00c3O FLEX\u00cdVEL DE M\u00daLTIPLOS PAIN\u00c9IS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/541,655",
+            "priorityDate": "30/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/677,616",
+            "priorityDate": "31/07/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/629,521",
+            "priorityDate": "27/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "MELISSA R GAYNOR",
+        "ERIC T BRICKER",
+        "JEFFREY J FARMER",
+        "MARK T PAMPERIN",
+        "CORINNA SCHWARZ",
+        "CATHERINE J TURNBOW",
+        "MELISSA R GAYNOR",
+        "ERIC T BRICKER",
+        "JEFFREY JAMES FARMER",
+        "MARK T PAMPERIN",
+        "CORINNA SCHWARZ",
+        "CATHERINE J TURNBOW"
+    ],
+    "holders": [
+        81540
+    ],
+    "ipcCodes": [
+        "A61L 2/26",
+        "A61B 50/33",
+        "A61B 50/00"
+    ]
+}

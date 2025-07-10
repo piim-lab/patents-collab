@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2020 021551-8",
+    "filingDate": "12/11/2009",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA ANTIMICROBIANA E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/199,253",
+            "priorityDate": "15/11/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/11/2009",
+        "applicationNumber": "PI 0921705-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "DAVID S DRESBACK",
+        "DANIELLE BEURER LORD",
+        "DANPING LI",
+        "ERIC S BURAK"
+    ],
+    "holders": [
+        162971
+    ],
+    "ipcCodes": [
+        "A01P 1/00",
+        "A61K 8/49",
+        "A61K 31/47",
+        "A01N 43/42",
+        "A61K 47/40",
+        "A01N 43/44"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2019 027252-0",
+    "filingDate": "19/12/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONTROLE DE EFEITO GATE EM \u00c1UDIO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "TIAGO FERNANDES TAVARES",
+        "GUSTAVO NISHIHARA"
+    ],
+    "holders": [
+        221
+    ],
+    "ipcCodes": [
+        "G10H 1/00",
+        "G06N 20/00",
+        "G10H 1/20"
+    ]
+}

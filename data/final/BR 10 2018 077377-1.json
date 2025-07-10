@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 077377-1",
+    "filingDate": "28/12/2018",
+    "grantDate": null,
+    "title": "GARRA OCA RETR\u00c1TIL PARA CABE\u00c7OTE DE COLHEITA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/858.539",
+            "priorityDate": "29/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "MYLES B MACMILLAN",
+        "JOHN E ENNS",
+        "KENNETH R PARSON"
+    ],
+    "holders": [
+        2079
+    ],
+    "ipcCodes": [
+        "A01D 61/00",
+        "A01D 57/02"
+    ]
+}

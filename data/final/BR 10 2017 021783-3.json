@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2017 021783-3",
+    "filingDate": "10/10/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE MEDI\u00c7\u00c3O EL\u00c9TRICO E PROCESSO DE SERVI\u00c7O PARA O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016119562.6",
+            "priorityDate": "13/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "FABIAN LURZ",
+        "STEFAN LINDNER",
+        "ALEXANDER KOELPIN",
+        "ERNST HALDER",
+        "PETER DINGLER",
+        "GEROLD SEPT"
+    ],
+    "holders": [
+        33091
+    ],
+    "ipcCodes": [
+        "G01R 22/00",
+        "G01R 19/25"
+    ]
+}

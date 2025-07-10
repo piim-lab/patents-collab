@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 023720-4",
+    "filingDate": "22/11/2022",
+    "grantDate": null,
+    "title": "INDUTOR E M\u00c9TODO DE FORNECER INDUTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2117307.5",
+            "priorityDate": "30/11/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "LIAM BOWMAN",
+        "ROBERT WOOD",
+        "SEAN BURKE"
+    ],
+    "holders": [
+        76091
+    ],
+    "ipcCodes": [
+        "H01F 27/28",
+        "H01F 27/34",
+        "H01F 41/071",
+        "H01F 3/14"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 012915-6",
+    "filingDate": "04/12/2014",
+    "grantDate": "26/07/2022",
+    "title": "Etiqueta de pendurar de RFID",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/911,802",
+            "priorityDate": "04/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "MICHAEL LOUIS DANCAUSSE",
+        "RANDY HARRY GANN"
+    ],
+    "holders": [
+        102522
+    ],
+    "ipcCodes": [
+        "G06K 19/077"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2018 012244-0",
+    "filingDate": "16/12/2016",
+    "grantDate": "01/02/2022",
+    "title": "DENDR\u00cdMERO, COMPOSI\u00c7\u00c3O, FORMULA\u00c7\u00c3O, M\u00c9TODO PARA CONTROLAR UMA PRAGA, E, USO.",
+    "nationalPhaseDate": [
+        "15/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AU2016/051246",
+        "pctDate": "16/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2015905221",
+            "priorityDate": "16/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "HARSH VARDHAN",
+        "SARIGAMA RAJESH",
+        "PETER KARELLAS"
+    ],
+    "holders": [
+        217814,
+        217815
+    ],
+    "ipcCodes": [
+        "A01N 25/12",
+        "C07C 217/28",
+        "C07C 215/12"
+    ]
+}

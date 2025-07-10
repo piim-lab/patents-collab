@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2015 005687-3",
+    "filingDate": "04/09/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE A\u00c7OS FUNDIDOS E A\u00c7O FUNDIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "UD2012A000159",
+            "priorityDate": "14/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "ALBERTO ANDREUSSI",
+        "PRIMO ANDREUSSI",
+        "EDDY PONTELLI",
+        "ENRICO VENEROSO"
+    ],
+    "holders": [
+        106584
+    ],
+    "ipcCodes": [
+        "B22D 19/02"
+    ]
+}

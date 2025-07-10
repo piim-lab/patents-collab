@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 016502-3",
+    "filingDate": "01/02/2016",
+    "grantDate": null,
+    "title": "APARELHO DE BARBEAR DE DUPLA FACE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/110,595",
+            "priorityDate": "01/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/249,578",
+            "priorityDate": "02/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [
+        "RAYMOND A LIBERATORE"
+    ],
+    "holders": [
+        179482
+    ],
+    "ipcCodes": [
+        "B26B 21/24"
+    ]
+}

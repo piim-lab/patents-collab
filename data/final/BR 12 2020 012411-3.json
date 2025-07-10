@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2020 012411-3",
+    "filingDate": "15/02/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE TRANSMISS\u00c3O DE UM APARELHO DE TRANSMISS\u00c3O, E M\u00c9TODO DE RECEBIMENTO DE UM APARELHO RECEPTOR",
+    "divisionalApplication": {
+        "filingDate": "15/02/2016",
+        "applicationNumber": "BR 11 2017 017172-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2795"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2817"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": []
+}

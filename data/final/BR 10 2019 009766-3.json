@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2019 009766-3",
+    "filingDate": "14/05/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE REMO\u00c7\u00c3O DE MATERIAL PARTICULADO, E M\u00c9TODO DE REMO\u00c7\u00c3O DE MATERIAL PARTICULADO",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2018901650",
+            "priorityDate": "14/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2798"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "JOSUA KIRSCH"
+    ],
+    "holders": [
+        48909
+    ],
+    "ipcCodes": [
+        "B65G 69/18"
+    ]
+}

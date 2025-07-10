@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2013 000534-3",
+    "filingDate": "05/07/2011",
+    "grantDate": null,
+    "title": "Suspens\u00e3o pesticida \u00e0 base de \u00e1gua e m\u00e9todo",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-57295",
+            "priorityDate": "09/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        }
+    ],
+    "inventors": [
+        "TAKAO AWAZU",
+        "MITSUO SANO",
+        "AKIRA NAKAGAWA"
+    ],
+    "holders": [
+        64849
+    ],
+    "ipcCodes": [
+        "A01N 43/40",
+        "A01N 25/30",
+        "A01N 51/00",
+        "A01N 47/18"
+    ]
+}

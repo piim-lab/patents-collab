@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2012 011191-4",
+    "filingDate": "29/10/2010",
+    "grantDate": null,
+    "title": "''M\u00c9TODO DE CONTROLAR O MOVIMENTO DE UM TREM E SISTEMA DE TREM\"",
+    "nationalPhaseDate": [
+        "11/05/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2010/054730",
+        "pctDate": "29/10/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/261,141",
+            "priorityDate": "13/11/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/774,519",
+            "priorityDate": "05/05/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/774,534",
+            "priorityDate": "05/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "JAMES DBROOKS",
+        "AJITH KUTTANNAIR KUMAR",
+        "BERNARDO ADRIAN MOVSICHOFF",
+        "RAMU CHANDRA"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "B61L 27/00",
+        "B61L 3/00"
+    ]
+}

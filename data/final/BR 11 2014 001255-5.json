@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2014 001255-5",
+    "filingDate": "11/07/2012",
+    "grantDate": null,
+    "title": "Composto, uso de um composto, combina\u00e7\u00e3o, composi\u00e7\u00e3o farmac\u00eautica, e, sal farmaceuticamente aceit\u00e1vel de um composto",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/509397",
+            "priorityDate": "19/07/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11174578.2",
+            "priorityDate": "19/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "7.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "TJEERD A BARF",
+        "CHRISTIAAN GERARDUS JOHANNES MARIA JANS",
+        "ADRIANUS PETRUS ANTONIUS MAN",
+        "ARTHUR A OUBRIE",
+        "HANS C A RAAIJMAKERS",
+        "JOHANNES BERNARDUS MARIA REWINKEL",
+        "GERARD STERRENBURG",
+        "JACOBUS C H M WIJKMANS"
+    ],
+    "holders": [
+        80757
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 35/00",
+        "A61K 31/4985",
+        "A61P 31/00",
+        "A61P 37/00",
+        "C07D 487/04",
+        "A61P 19/08",
+        "C07D 519/00"
+    ]
+}

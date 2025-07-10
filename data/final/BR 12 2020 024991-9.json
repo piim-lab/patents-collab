@@ -1,0 +1,114 @@
+{
+    "applicationNumber": "BR 12 2020 024991-9",
+    "filingDate": "15/08/2008",
+    "grantDate": "22/08/2023",
+    "title": "USOS DE ISOXAZOLINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/956,448",
+            "priorityDate": "17/08/2007"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07016152.6",
+            "priorityDate": "17/08/2007"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07150309.8",
+            "priorityDate": "21/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/080,444",
+            "priorityDate": "14/07/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/08/2008",
+        "applicationNumber": "PI 0815227-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "28.10.26",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia disponibilizada no mercado",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "205",
+            "description": "Intima\u00e7\u00e3o para manifesta\u00e7\u00e3o por parte do titular e do requerente",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "ANJA REGINA HECKEROTH",
+        "JURGEN LUTZ",
+        "CHRISTINA MERTENS",
+        "HEIKE WILLIAMS",
+        "HARTMUT ZOLLER",
+        "TAKESHI MITA"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A01N 43/80",
+        "A01N 47/12",
+        "A01N 47/18",
+        "A01P 7/00",
+        "A61K 31/42",
+        "A01N 47/42",
+        "A01N 53/12"
+    ]
+}

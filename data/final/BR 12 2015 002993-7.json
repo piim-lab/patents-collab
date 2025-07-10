@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2015 002993-7",
+    "filingDate": "21/09/2007",
+    "grantDate": null,
+    "title": "PROCESSADOR",
+    "divisionalApplication": {
+        "filingDate": "21/09/2007",
+        "applicationNumber": "PI 0717068-8"
+    },
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": []
+}

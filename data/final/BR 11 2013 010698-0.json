@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2013 010698-0",
+    "filingDate": "03/11/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA O TRATAMENTO DE \u00c1GUA CONTAMINADA POR MEIO DE ADSOR\u00c7\u00c3O E NANOFILTRA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2010A002061",
+            "priorityDate": "05/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        }
+    ],
+    "inventors": [
+        "ROBERTO BAGATIN",
+        "RODOLFO VIGNOLA",
+        "RAFFAELLO SISTO",
+        "MARCO PETRANGELI PAPINI",
+        "RICCCARDO TUFFI",
+        "ALESSANDRA DE FOLLY DAURIS"
+    ],
+    "holders": [
+        85959
+    ],
+    "ipcCodes": [
+        "C02F 1/28",
+        "C02F 1/44",
+        "C02F 101/20",
+        "C02F 101/32",
+        "B01J 20/18",
+        "C02F 101/30",
+        "C02F 9/00",
+        "C02F 103/36",
+        "C02F 101/36"
+    ]
+}

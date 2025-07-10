@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2019 002740-4",
+    "filingDate": "16/05/2008",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O DE FIXA\u00c7\u00c3O PARA FIXAR UM CONECTOR A UMA PORTA DE ADMINISTRA\u00c7\u00c3O DE UM RECIPIENTE PARA FLUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/804,660",
+            "priorityDate": "18/05/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/05/2008",
+        "applicationNumber": "PI 0811604-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2769"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79497
+    ],
+    "ipcCodes": []
+}

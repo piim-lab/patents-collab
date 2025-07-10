@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 003537-4",
+    "filingDate": "21/02/2019",
+    "grantDate": null,
+    "title": "ESCANEAMENTO DE ULTRASSOM DE LASER PARA VISUALIZAR DANOS OU IRREGULARIDADES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/904,114",
+            "priorityDate": "23/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "BEOM IHN",
+        "GARY E GEORGESON",
+        "WILLIAM PAUL MOTZER"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G01M 5/00"
+    ]
+}

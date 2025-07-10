@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 11 2014 009066-1",
+    "filingDate": "12/10/2012",
+    "grantDate": "25/08/2020",
+    "title": "DNA TRICICLO-FOSFOROTIOATO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11185129.1",
+            "priorityDate": "13/10/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/546,942",
+            "priorityDate": "13/10/2011"
+        },
+        {
+            "countryCode": "CA",
+            "priorityNumber": "2,776,651",
+            "priorityDate": "27/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN LEUMANN",
+        "LUIS GARCIA",
+        "THOMAS VOIT"
+    ],
+    "holders": [
+        100233,
+        116554,
+        123019,
+        92217,
+        48954
+    ],
+    "ipcCodes": [
+        "C12N 15/113",
+        "A61K 31/7125",
+        "A61K 31/712"
+    ]
+}

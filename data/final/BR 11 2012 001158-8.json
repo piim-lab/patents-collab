@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2012 001158-8",
+    "filingDate": "15/07/2010",
+    "grantDate": null,
+    "title": "MECANISMO DE SUPORTE E GUIA PARA CORREIAS TRANSPORTADORAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09165774.2",
+            "priorityDate": "17/07/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09165764.3",
+            "priorityDate": "17/07/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09179053.5",
+            "priorityDate": "14/12/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "CECILIA VILA TORRA",
+        "JORDI GAVALDA MONEDERO"
+    ],
+    "holders": [
+        80328
+    ],
+    "ipcCodes": [
+        "B65G 21/06",
+        "B65G 15/02"
+    ]
+}

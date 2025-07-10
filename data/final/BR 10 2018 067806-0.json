@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 10 2018 067806-0",
+    "filingDate": "04/09/2018",
+    "grantDate": null,
+    "title": "ASSENTO DOBR\u00c1VEL, ASSENTO PARA UMA AERONAVE, E, SUPORTE DE ENCOSTO PARA UM ASSENTO DOBR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/786,927",
+            "priorityDate": "18/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "15.14",
+            "description": "Notifica\u00e7\u00e3o de Decis\u00e3o Judicial",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "28.21",
+            "description": "Exig\u00eancia formal de tr\u00e2mite priorit\u00e1rio",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "DOUGLAS E HOOVER",
+        "DOMINIC J MAGLIA",
+        "RYAN PORTER"
+    ],
+    "holders": [
+        21128
+    ],
+    "ipcCodes": [
+        "B64D 11/06",
+        "B60N 2/20"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2022 023390-0",
+    "filingDate": "17/11/2022",
+    "grantDate": null,
+    "title": "CONECTOR PARA CONECTAR DE FORMA AJUST\u00c1VEL UM RVDT E UM EIXO DE REDUTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "22305034.5",
+            "priorityDate": "17/01/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2754"
+        }
+    ],
+    "inventors": [
+        "EMMANUEL CHAVIER",
+        "GILES WARROT",
+        "QUENTIN RICARD",
+        "RAPHAEL MEDINA",
+        "PATRICE MENANTEAU"
+    ],
+    "holders": [
+        19336
+    ],
+    "ipcCodes": [
+        "F16D 1/08"
+    ]
+}

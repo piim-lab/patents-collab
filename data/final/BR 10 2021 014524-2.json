@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 014524-2",
+    "filingDate": "23/07/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE TRAVAMENTO ACIMA, E, M\u00c9TODO DE OPERA\u00c7\u00c3O DE UM SISTEMA DE TRAVAMENTO ACIMA",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202041032124",
+            "priorityDate": "27/07/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/132,113",
+            "priorityDate": "23/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "VISHWANATH VASUDEVA",
+        "SAGAR KULKARNI",
+        "BHARATH MARAPPAN",
+        "ADNAN CEPIC"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64C 25/26",
+        "E05B 77/00"
+    ]
+}

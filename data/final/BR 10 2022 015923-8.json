@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2022 015923-8",
+    "filingDate": "11/08/2022",
+    "grantDate": null,
+    "title": "CONJUNTO DE ROLAMENTO, E, M\u00c9TODO PARA CONSTRUIR O CONJUNTO DE ROLAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP21205104.9",
+            "priorityDate": "27/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2820"
+        },
+        {
+            "code": "28.21",
+            "description": "Exig\u00eancia formal de tr\u00e2mite priorit\u00e1rio",
+            "bulletinNumber ": "2820"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2823"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "FRANCO MAINO",
+        "DARIO MOLINELLI",
+        "MICHELE RESTUCCIA"
+    ],
+    "holders": [
+        22920
+    ],
+    "ipcCodes": [
+        "F16C 27/00"
+    ]
+}

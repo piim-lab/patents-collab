@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2020 026925-9",
+    "filingDate": "29/12/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA MIXAGEM OU MULTIPLICA\u00c7\u00c3O DE FREQU\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201911425351.6",
+            "priorityDate": "31/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "ZIRAN ZHAO",
+        "ZHIQIANG CHEN",
+        "YUANJING LI",
+        "HAIFAN HU",
+        "XUMING MA",
+        "SHIWEI HUANG"
+    ],
+    "holders": [
+        12100,
+        12109
+    ],
+    "ipcCodes": [
+        "H04J 1/04"
+    ]
+}

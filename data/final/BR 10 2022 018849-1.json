@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2022 018849-1",
+    "filingDate": "20/09/2022",
+    "grantDate": null,
+    "title": "SISTEMA AGR\u00cdCOLA, E M\u00c9TODO IMPLEMENTADO POR COMPUTADOR PARA CONTROLAR UM SISTEMA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/550,762",
+            "priorityDate": "14/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "BHANU KIRAN REDDY PALLA",
+        "FEDERICO PARDINA",
+        "NATHAN R VANDIKE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G06Q 10/04",
+        "G05B 19/00",
+        "G06Q 50/02",
+        "A01C 15/00",
+        "G06F 17/10",
+        "A01D 91/00",
+        "G05B 15/00",
+        "A01B 71/00",
+        "G16Y 40/35",
+        "G16Y 10/00"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2016 027485-7",
+    "filingDate": "17/07/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA EXECUTAR LEVANTAMENTO E AMOSTRAGEM EM UMA MASSA DE \u00c1GUA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/026,449",
+            "priorityDate": "18/07/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/180,987",
+            "priorityDate": "17/06/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/752,030",
+            "priorityDate": "26/06/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/190,089",
+            "priorityDate": "08/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/190,999",
+            "priorityDate": "10/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "LOUISE LEVIEN",
+        "AMELIA C ROBINSON",
+        "ROBERT J POTTORF",
+        "WILLIAM E BOND",
+        "AARON B REGBERG",
+        "A LUCIE NGUESSAN",
+        "KEVIN T CORBETT",
+        "SCOTT C HORNBOSTEL",
+        "WILLIAM P MEURER"
+    ],
+    "holders": [
+        87914
+    ],
+    "ipcCodes": [
+        "G01N 33/24",
+        "G01V 9/00"
+    ]
+}

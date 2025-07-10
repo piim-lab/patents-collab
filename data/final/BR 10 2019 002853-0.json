@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2019 002853-0",
+    "filingDate": "12/02/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE VENTILA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "107105564",
+            "priorityDate": "14/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "CHING CHAN",
+        "DOMENICO CASSITTA",
+        "GIOVANNI PIERO CASSITTA",
+        "WATARU FUKUSHIMA",
+        "SHINYA MURAI",
+        "RYOTA SUHARA",
+        "KANAKO BANDO"
+    ],
+    "holders": [
+        34600,
+        306718,
+        46423
+    ],
+    "ipcCodes": [
+        "F24F 13/20",
+        "F24F 7/08"
+    ]
+}

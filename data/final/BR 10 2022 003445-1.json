@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 003445-1",
+    "filingDate": "23/02/2022",
+    "grantDate": null,
+    "title": "PROCEDIMENTO DE HIDR\u00d3LISE PARA OBTER UM PRODUTO ALIMENT\u00cdCIO HIDROLIZADO SECO EM P\u00d3",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21159761.2",
+            "priorityDate": "26/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "MIGUEL ANGEL ROMERO LOPEZ"
+    ],
+    "holders": [
+        74349
+    ],
+    "ipcCodes": [
+        "A23L 3/34",
+        "C12P 21/06"
+    ]
+}

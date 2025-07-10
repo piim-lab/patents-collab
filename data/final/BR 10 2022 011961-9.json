@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 011961-9",
+    "filingDate": "15/06/2022",
+    "grantDate": null,
+    "title": "SISTEMA COAXIAL VIA SOPRO DE LINHAS M\u00daLTIPLAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102021000016130",
+            "priorityDate": "21/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "ANGELICO GIUSEPPE"
+    ],
+    "holders": [
+        76040
+    ],
+    "ipcCodes": [
+        "D04H 1/74",
+        "D04H 1/732"
+    ]
+}

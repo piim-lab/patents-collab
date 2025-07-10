@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2014 004160-1",
+    "filingDate": "03/09/2012",
+    "grantDate": null,
+    "title": "PROCESSO DE EXTRUS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 179844.3",
+            "priorityDate": "02/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "STEFAN ZIKELI",
+        "FRIEDRICH ECKER"
+    ],
+    "holders": [
+        131936
+    ],
+    "ipcCodes": [
+        "C08J 5/18",
+        "C08J 3/09",
+        "D01F 2/00",
+        "D01D 5/06"
+    ]
+}

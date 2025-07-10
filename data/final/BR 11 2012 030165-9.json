@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2012 030165-9",
+    "filingDate": "26/05/2011",
+    "grantDate": null,
+    "title": "Processo para fabricar suspens\u00f5es aquosas com elevado teor de s\u00f3lidos, suspens\u00e3o aquosa com elevado teor de s\u00f3lidos, e, uso",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10164211.4",
+            "priorityDate": "28/05/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/472713",
+            "priorityDate": "07/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "MATTHIAS BURI",
+        "PATRICK AC GANE"
+    ],
+    "holders": [
+        81654
+    ],
+    "ipcCodes": [
+        "D21H 17/00",
+        "C09C 1/42",
+        "C09C 1/02",
+        "D21H 19/00",
+        "C09C 3/04"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 000011-5",
+    "filingDate": "03/01/2022",
+    "grantDate": null,
+    "title": "OTA MESTRE, M\u00c9TODO DE CONTROLE DE ATUALIZA\u00c7\u00c3O, MEIO DE ARMAZENAMENTO N\u00c3O TRANSIT\u00d3RIO, E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-015293",
+            "priorityDate": "02/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "TOMOYASU ISHIKAWA",
+        "SHUNSUKE TANIMORI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06F 9/06"
+    ]
+}

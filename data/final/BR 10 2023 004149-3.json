@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2023 004149-3",
+    "filingDate": "06/03/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONTROLE DE QUALIDADE, APARELHO DE CONTROLE DE QUALIDADE E PROGRAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-035792",
+            "priorityDate": "09/03/2022"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-035791",
+            "priorityDate": "09/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "HAJIMU KAWAKAMI"
+    ],
+    "holders": [
+        4991
+    ],
+    "ipcCodes": [
+        "G06V 10/75",
+        "G06V 10/98"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2013 001134-3",
+    "filingDate": "15/07/2011",
+    "grantDate": "12/11/2019",
+    "title": "Bateria secund\u00e1ria de l\u00edtio",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0068813",
+            "priorityDate": "16/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "KYUN CHANG",
+        "WONSEOK JANG",
+        "JUNGMIN HAN",
+        "HONG KYU PARK",
+        "JIN HYUNG LIM",
+        "HO SUK SHIN",
+        "DONG HUN LEE",
+        "HYUN JIN OH",
+        "JOO HONG JIN",
+        "WANG MO JUNG",
+        "MYEONGJUN SONG"
+    ],
+    "holders": [
+        1960,
+        126044
+    ],
+    "ipcCodes": [
+        "H01M 4/62",
+        "H01M 4/13",
+        "H01M 4/02",
+        "H01M 10/052",
+        "H01M 4/36",
+        "H01M 10/0569",
+        "H01M 4/38"
+    ]
+}

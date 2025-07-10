@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2019 026344-0",
+    "filingDate": "11/12/2019",
+    "grantDate": null,
+    "title": "HARDWARE DE BANDA BASE DE TRANSCEPTOR, E, M\u00c9TODO DE CRIPTOGRAFIA/DESCRIPTOGRAFIA IMPLEMENTADO POR UM HARDWARE DE BANDA BASE DE TRANSCEPTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201911011203",
+            "priorityDate": "22/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "PRANAY KANTI NATH",
+        "PULLAIAH DUSSA"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "H04W 12/00",
+        "G06F 21/60",
+        "H04L 9/06",
+        "H04L 9/14",
+        "H04W 12/10"
+    ]
+}

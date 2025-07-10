@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2022 015680-0",
+    "filingDate": "05/02/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE AN\u00c1LISE DE UMA AMOSTRA BIOL\u00d3GICA E MEIO LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/970,634",
+            "priorityDate": "05/02/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/135,486",
+            "priorityDate": "08/01/2021"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/02/2021",
+        "applicationNumber": "BR 11 2022 015073-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "MING DENNIS LO",
+        "ROSSA WAI KWUN CHIU",
+        "KWAN CHEE CHAN",
+        "PEIYONG JIANG",
+        "SUK HANG CHENG",
+        "CHEUK YIN YU",
+        "YEE TING CHEUNG",
+        "WENLEI PENG"
+    ],
+    "holders": [
+        89322
+    ],
+    "ipcCodes": [
+        "C12Q 1/68",
+        "G16B 20/10"
+    ]
+}

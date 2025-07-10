@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2018 016026-5",
+    "filingDate": "06/08/2018",
+    "grantDate": null,
+    "title": "UNIDADE DE C\u00c2NISTER DE ALTA PRESS\u00c3O E VE\u00cdCULO DE C\u00c9LULA DE COMBUST\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-154296",
+            "priorityDate": "09/08/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-084247",
+            "priorityDate": "25/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2806"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "CHIAKI KATAOKA",
+        "SHINSUKE KINOSHITA",
+        "OSAMU SAWAI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60K 15/07"
+    ]
+}

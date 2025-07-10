@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2018 000888-5",
+    "filingDate": "26/05/2016",
+    "grantDate": null,
+    "title": "COMUNICA\u00c7\u00d5ES DISPOSITIVO-A-DISPOSITIVO DE BAIXA LAT\u00caNCIA",
+    "nationalPhaseDate": [
+        "16/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/034409",
+        "pctDate": "26/05/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/193,340",
+            "priorityDate": "16/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/164,632",
+            "priorityDate": "25/05/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2779"
+        }
+    ],
+    "inventors": [
+        "SHIMMAN ARVIND PATEL",
+        "WANSHI CHEN",
+        "PETER GAAL"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04W 4/00",
+        "H04W 48/12"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 024318-0",
+    "filingDate": "01/12/2021",
+    "grantDate": null,
+    "title": "TESTE DE V\u00c1LVULA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/121,298",
+            "priorityDate": "04/12/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/523,010",
+            "priorityDate": "10/11/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "NEIL STEWART SANDS",
+        "OYINDAMOLA DADA"
+    ],
+    "holders": [
+        64492
+    ],
+    "ipcCodes": [
+        "F15B 19/00",
+        "G01M 13/003"
+    ]
+}

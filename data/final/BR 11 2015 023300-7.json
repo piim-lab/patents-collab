@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 023300-7",
+    "filingDate": "12/03/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR E SISTEMA PARA FORNECER DISPOSITIVOS COMO UM SERVI\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/830.114",
+            "priorityDate": "14/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "ROBERT ERIC FITZGERALD",
+        "ANDREW J DOANE",
+        "ALEXANDRE EDWARD SCHOOF",
+        "CHRISTOPHER STEVEN HELMA",
+        "RUI MIN",
+        "MATTHEW A ESTES",
+        "ANAND MISHRA"
+    ],
+    "holders": [
+        110840
+    ],
+    "ipcCodes": [
+        "G06F 21/00"
+    ]
+}

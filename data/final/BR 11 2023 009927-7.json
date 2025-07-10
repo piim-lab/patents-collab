@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2023 009927-7",
+    "filingDate": "23/11/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE PROCESSAMENTO DE MAT\u00c9RIA-PRIMA",
+    "nationalPhaseDate": [
+        "23/05/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2021/060839",
+        "pctDate": "23/11/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2020904315",
+            "priorityDate": "23/11/2020"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2020904477",
+            "priorityDate": "03/12/2020"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2021221469",
+            "priorityDate": "24/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "DAVID COLEMAN"
+    ],
+    "holders": [
+        343826
+    ],
+    "ipcCodes": [
+        "A23N 1/00",
+        "G05B 19/04",
+        "A23L 2/04",
+        "A23L 5/00",
+        "B02B 3/00",
+        "B01D 57/00"
+    ]
+}

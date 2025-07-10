@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2022 004985-8",
+    "filingDate": "17/03/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DISTRIBUIR O CARREGAMENTO DE MATERIAL EM UM CONTENTOR DE CARREGAMENTO, E, M\u00c1QUINA DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/187,809",
+            "priorityDate": "12/05/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/405,314",
+            "priorityDate": "18/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "JON C GILBECK",
+        "JONATHAN SPENDLOVE",
+        "ZIMIN VILAR"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "E02F 3/32",
+        "E02F 9/20",
+        "E02F 3/43",
+        "B65G 67/04",
+        "E02F 9/26",
+        "E02F 3/348"
+    ]
+}

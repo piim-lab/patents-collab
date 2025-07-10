@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2013 002204-3",
+    "filingDate": "21/07/2011",
+    "grantDate": "15/09/2020",
+    "title": "PLACA DE AMOSTRA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "PCT/GB2010/001443",
+            "priorityDate": "29/07/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/846,580",
+            "priorityDate": "29/07/2010"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1101222.6",
+            "priorityDate": "25/01/2011"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1106618.0",
+            "priorityDate": "19/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "ADRIAN BUNCE",
+        "ANDREW FUSELLIER"
+    ],
+    "holders": [
+        81275
+    ],
+    "ipcCodes": [
+        "G01N 33/543",
+        "G01N 35/00",
+        "B01L 3/00"
+    ]
+}

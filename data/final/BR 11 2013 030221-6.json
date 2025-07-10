@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2013 030221-6",
+    "filingDate": "14/05/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONITORAR UMA FERRAMENTA REC\u00cdPROCA E M\u00c9TODO PARA MANTER DADOS DO MOLDE DE UMA FERRAMENTA REC\u00cdPROCA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/115,197",
+            "priorityDate": "25/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/545,394",
+            "priorityDate": "10/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        }
+    ],
+    "inventors": [
+        "GLENN STARKEY"
+    ],
+    "holders": [
+        126824
+    ],
+    "ipcCodes": [
+        "B29C 45/17",
+        "B29C 45/76"
+    ]
+}

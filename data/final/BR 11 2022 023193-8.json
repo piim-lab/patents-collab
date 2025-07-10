@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2022 023193-8",
+    "filingDate": "20/05/2021",
+    "grantDate": null,
+    "title": "INFER\u00caNCIA NA MEM\u00d3RIA",
+    "nationalPhaseDate": [
+        "14/11/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/033436",
+        "pctDate": "20/05/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/883,869",
+            "priorityDate": "26/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "JOAB HENDERSON",
+        "DANIEL CAMPBELL",
+        "RYAN PENNINGTON"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G06F 12/02",
+        "G06F 9/50",
+        "G06N 20/00",
+        "G06F 12/109"
+    ]
+}

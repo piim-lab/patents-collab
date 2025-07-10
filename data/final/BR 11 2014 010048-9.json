@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2014 010048-9",
+    "filingDate": "23/10/2012",
+    "grantDate": null,
+    "title": "FACA GIRAT\u00d3RIA COM MECANISMO PARA CONTROLE DE ALOJAMENTO DE L\u00c2MINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/283,324",
+            "priorityDate": "27/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        }
+    ],
+    "inventors": [
+        "CLARK A LEVSEN"
+    ],
+    "holders": [
+        78525
+    ],
+    "ipcCodes": [
+        "A22C 17/00",
+        "B26D 1/14"
+    ]
+}

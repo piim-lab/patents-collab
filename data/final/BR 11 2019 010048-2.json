@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2019 010048-2",
+    "filingDate": "16/11/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE UMA PEL\u00cdCULA COMPREENDENDO MFC",
+    "nationalPhaseDate": [
+        "16/05/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2017/057166",
+        "pctDate": "16/11/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1651513-2",
+            "priorityDate": "18/11/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "ISTO HEISKANEN",
+        "KAJ BACKFOLK",
+        "ESA SAUKKONEN",
+        "VILLE RIBU",
+        "KATJA LYYTIK\u00c4INEN"
+    ],
+    "holders": [
+        79258
+    ],
+    "ipcCodes": [
+        "C08J 5/18"
+    ]
+}

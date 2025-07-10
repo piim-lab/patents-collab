@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2021 021205-5",
+    "filingDate": "22/10/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE AVALIA\u00c7\u00c3O DO CONTE\u00daDO DE INOVA\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "RODRIGO FERNANDO MORO RIOS",
+        "FABRIZIO EGYDIO COUTO GAMMINO",
+        "DIEGO TEIXEIRA"
+    ],
+    "holders": [
+        71233
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G06Q 50/18"
+    ]
+}

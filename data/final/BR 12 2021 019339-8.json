@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2021 019339-8",
+    "filingDate": "02/12/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA INIBIR POLIMERIZA\u00c7\u00c3O DE ESTIRENO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/095,606",
+            "priorityDate": "03/12/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/12/2014",
+        "applicationNumber": "BR 11 2016 012507-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "DAVID YOUDONG TONG"
+    ],
+    "holders": [
+        10348
+    ],
+    "ipcCodes": [
+        "C08K 5/16",
+        "C08F 2/40",
+        "C08K 5/3432",
+        "C07C 7/20"
+    ]
+}

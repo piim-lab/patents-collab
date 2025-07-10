@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 015148-7",
+    "filingDate": "21/12/2010",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O REFRIGERANTE E CIRCUITO DE REFRIGERA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0922288.6",
+            "priorityDate": "21/12/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "JOHN EDWARD POOLE",
+        "RICHAR POWELL"
+    ],
+    "holders": [
+        93224
+    ],
+    "ipcCodes": [
+        "F25B 9/00",
+        "C09K 5/04"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2022 009823-1",
+    "filingDate": "05/12/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR UM PRIMEIRO N\u00d3 EM UMA REDE, M\u00c9TODO IMPLEMENTADO POR UM SEGUNDO N\u00d3 EM UMA REDE, PRIMEIRO N\u00d3 EM UMA REDE, SEGUNDO N\u00d3 EM UMA REDE, E SISTEMA EM UMA REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/616,499",
+            "priorityDate": "12/01/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/624,986",
+            "priorityDate": "01/02/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/750,677",
+            "priorityDate": "25/10/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/12/2018",
+        "applicationNumber": "BR 11 2020 014010-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "HUAIMO CHEN",
+        "DEAN CHENG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04Q 11/00"
+    ]
+}

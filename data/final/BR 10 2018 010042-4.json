@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 010042-4",
+    "filingDate": "17/05/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR UM COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, USO DE UM COMPOSTO, E, COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/599577",
+            "priorityDate": "19/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2705"
+        }
+    ],
+    "inventors": [
+        "STEVEN M PECKHAM",
+        "ROGER E HARRINGTON",
+        "JEBRENA C JACOBS"
+    ],
+    "holders": [
+        38649
+    ],
+    "ipcCodes": [
+        "A61K 31/56",
+        "C07J 9/00",
+        "A61P 19/00",
+        "C07J 17/00",
+        "C07J 43/00",
+        "C07J 51/00",
+        "C07J 7/00"
+    ]
+}

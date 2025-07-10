@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2017 023611-7",
+    "filingDate": "02/05/2016",
+    "grantDate": "03/08/2021",
+    "title": "GARRA DE TESOURAS OPERADA POR QUATRO CABOS",
+    "nationalPhaseDate": [
+        "01/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT NL2016/050314",
+        "pctDate": "02/05/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2014756",
+            "priorityDate": "01/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "WILLEM ALBERT DE KLUIJVER",
+        "MICHEL CORBEAU"
+    ],
+    "holders": [
+        199486
+    ],
+    "ipcCodes": [
+        "B66C 3/12"
+    ]
+}

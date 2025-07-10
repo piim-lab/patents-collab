@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 10 2018 072757-5",
+    "filingDate": "05/11/2018",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA PARA O TRATAMENTO DE AUTISMO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17200219.8",
+            "priorityDate": "06/11/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/582,141",
+            "priorityDate": "06/11/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18169952.1",
+            "priorityDate": "27/04/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/663,647",
+            "priorityDate": "27/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "LYNN DURHAM"
+    ],
+    "holders": [
+        43367
+    ],
+    "ipcCodes": [
+        "A61P 25/00",
+        "A61K 31/519",
+        "A61P 43/00",
+        "C08L 83/04",
+        "C08G 77/14",
+        "A61K 31/505"
+    ]
+}

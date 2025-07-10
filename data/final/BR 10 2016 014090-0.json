@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2016 014090-0",
+    "filingDate": "16/06/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERAR UM INVERSOR PARA CONTROLAR UMA M\u00c1QUINA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/182,108",
+            "priorityDate": "19/06/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/837,496",
+            "priorityDate": "27/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "DAVID M LOKEN",
+        "LONG WU",
+        "TIANJUN FU",
+        "ROBERT B SHAW",
+        "NEAL D CLEMENTS"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "H02P 27/06",
+        "H02K 11/00"
+    ]
+}

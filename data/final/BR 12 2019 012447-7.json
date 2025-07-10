@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 12 2019 012447-7",
+    "filingDate": "31/07/2009",
+    "grantDate": null,
+    "title": "LENTE DE ADI\u00c7\u00c3O PROGRESSIVA COM UMA POT\u00caNCIA DI\u00d3PTRICA DE ADI\u00c7\u00c3O E UMA POT\u00caNCIA DI\u00d3PTRICA DE DIST\u00c2NCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "P2008-198887",
+            "priorityDate": "31/07/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/07/2009",
+        "applicationNumber": "PI 0902702-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "KAZUMA KOZU"
+    ],
+    "holders": [
+        137842
+    ],
+    "ipcCodes": [
+        "G02B 3/02"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2014 017952-2",
+    "filingDate": "23/01/2013",
+    "grantDate": null,
+    "title": "PROCESSO PARA PROGNOSTICAR IN VITRO EM UMA AMOSTRA SANGU\u00cdNEA A PROBABILIDADE PARA UM PACIENTE EVOLUIR PARA UMA DENGUE SEVERA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1250646",
+            "priorityDate": "24/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "FR\u00c9D\u00c9RIC BEDIN"
+    ],
+    "holders": [
+        82417
+    ],
+    "ipcCodes": [
+        "G01N 33/569",
+        "G01N 33/82"
+    ]
+}

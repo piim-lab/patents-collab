@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2014 022988-0",
+    "filingDate": "15/03/2013",
+    "grantDate": null,
+    "title": "Mistura supressora de chamas",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/423,133",
+            "priorityDate": "16/03/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/594,738",
+            "priorityDate": "24/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "MARK DUNN MITCHELL",
+        "JOHN FORBES BLACK",
+        "KURT MILLS"
+    ],
+    "holders": [
+        143637
+    ],
+    "ipcCodes": [
+        "A62D 1/08"
+    ]
+}

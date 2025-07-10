@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 026641-7",
+    "filingDate": "23/04/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA PRODUZIR UMA L\u00c2MINA DE A\u00c7O E UM ARTIGO REVESTIDOS EM PRETO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-100449",
+            "priorityDate": "25/04/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-062233",
+            "priorityDate": "25/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "TADASHI NAKANO",
+        "MASAYA YAMAMOTO",
+        "HIROFUMI TAKETSU"
+    ],
+    "holders": [
+        123471
+    ],
+    "ipcCodes": [
+        "C23C 2/06",
+        "C23C 28/00",
+        "B32B 15/01",
+        "B32B 9/00",
+        "C22C 18/04",
+        "C22C 18/00",
+        "B32B 15/095",
+        "C23C 8/16"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2017 006344-5",
+    "filingDate": "28/03/2017",
+    "grantDate": null,
+    "title": "CONJUNTO DE PISO AUTOLIMPANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/316,012",
+            "priorityDate": "31/03/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/176,323",
+            "priorityDate": "08/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "CHARLES C JENSEN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 11/02",
+        "B08B 5/04",
+        "E03D 9/00",
+        "A47L 7/00"
+    ]
+}

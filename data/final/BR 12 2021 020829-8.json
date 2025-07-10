@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 12 2021 020829-8",
+    "filingDate": "29/03/2011",
+    "grantDate": "01/11/2022",
+    "title": "PROTE\u00cdNA DE LIGA\u00c7\u00c3O AO FATOR H DE OCORR\u00caNCIA N\u00c3O NATURAL (FHBP), COMPOSI\u00c7\u00d5ES, \u00c1CIDO NUCLEICO, VETOR DE EXPRESS\u00c3O RECOMBINANTE E C\u00c9LULA HOSPEDEIRA DE NEISSERIA MENINGITIDIS GENETICAMENTE MODIFICADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/319,181",
+            "priorityDate": "30/03/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/334,542",
+            "priorityDate": "13/05/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/381,025",
+            "priorityDate": "08/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/423,757",
+            "priorityDate": "16/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/440,227",
+            "priorityDate": "07/02/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/03/2011",
+        "applicationNumber": "BR 11 2012 024348-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "PETER T BEERNINK",
+        "DAN M GRANOFF",
+        "ROLANDO PAJON FEYT"
+    ],
+    "holders": [
+        99901
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "C07K 14/00"
+    ]
+}

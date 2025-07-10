@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 007141-9",
+    "filingDate": "15/04/2021",
+    "grantDate": null,
+    "title": "APARATO E M\u00c9TODO DE MEDI\u00c7\u00c3O PARA C\u00c1PSULAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000011038",
+            "priorityDate": "14/05/2020"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000032168",
+            "priorityDate": "23/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "DANILO ALBONETTI"
+    ],
+    "holders": [
+        39828
+    ],
+    "ipcCodes": [
+        "G01N 3/08",
+        "G01N 3/06"
+    ]
+}

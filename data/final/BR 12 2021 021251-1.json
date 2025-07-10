@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2021 021251-1",
+    "filingDate": "30/12/2014",
+    "grantDate": "08/08/2023",
+    "title": "M\u00c9TODO PARA DECODIFICAR UMA PLURALIDADE DE FIGURAS, M\u00c9TODO PARA CODIFICAR UMA PLURALIDADE DE FIGURAS E FLUXO DE BITS DE DADOS DE V\u00cdDEO COMPACTADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/923,334",
+            "priorityDate": "03/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/585,485",
+            "priorityDate": "30/12/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/12/2014",
+        "applicationNumber": "BR 11 2016 015643-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2791"
+        }
+    ],
+    "inventors": [
+        "YUE YU",
+        "LIMIN WANG",
+        "YUE YU",
+        "LIMIN WANG"
+    ],
+    "holders": [
+        13634
+    ],
+    "ipcCodes": [
+        "H04N 19/70"
+    ]
+}

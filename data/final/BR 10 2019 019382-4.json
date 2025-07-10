@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2019 019382-4",
+    "filingDate": "18/09/2019",
+    "grantDate": null,
+    "title": "SELE\u00c7\u00c3O DE THREADS PARA PROCESSAMENTO SIMULT\u00c2NEO DE DADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/164,166",
+            "priorityDate": "18/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        }
+    ],
+    "inventors": [
+        "SUBRAMANIAN CHITTOOR VENKATARAMAN",
+        "BALENDER KUMAR",
+        "SAI KRISHNA SUJITH ALAMURI",
+        "MURALI KRISHNA REDROWTHU",
+        "SRIVIDYA BHAVANI SIVARAMAN"
+    ],
+    "holders": [
+        52157
+    ],
+    "ipcCodes": [
+        "G06T 15/00",
+        "G06F 9/38",
+        "G06F 9/30"
+    ]
+}

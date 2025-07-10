@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2016 026385-9",
+    "filingDate": "10/11/2016",
+    "grantDate": null,
+    "title": "UNIDADE SUPERIOR DE SERVI\u00c7O DE PASSAGEIRO DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15 194 541.7",
+            "priorityDate": "13/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "ANDRE HESSLING",
+        "STEFAN BECKER"
+    ],
+    "holders": [
+        21157
+    ],
+    "ipcCodes": [
+        "B64D 11/00"
+    ]
+}

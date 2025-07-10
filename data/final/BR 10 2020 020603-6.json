@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 020603-6",
+    "filingDate": "07/10/2020",
+    "grantDate": null,
+    "title": "SISTEMA INTELIGENTE DE IDENTIFICA\u00c7\u00c3O DE OBJETOS BASEADO EM CARACTER\u00cdSTICAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "SIDNEY SCHNEIDER JUNIOR"
+    ],
+    "holders": [
+        62465
+    ],
+    "ipcCodes": [
+        "G06F 3/048",
+        "G06K 7/14",
+        "G06F 16/24"
+    ]
+}

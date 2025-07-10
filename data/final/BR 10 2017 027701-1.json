@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2017 027701-1",
+    "filingDate": "21/12/2017",
+    "grantDate": null,
+    "title": "INSER\u00c7\u00c3O PROJETADA PARA SER INSTALADA EM UM SUPORTE E MONTAGEM DE FIXA\u00c7\u00c3O QUE COMPREENDE TAL INSER\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "16 63278",
+            "priorityDate": "23/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "SYLVAIN FAGUER",
+        "EMMANUELLE BERLIRE",
+        "FR\u00c9D\u00c9RIC BOVAGNET",
+        "FRAN\u00c7OIS JAMBUT",
+        "PATRICK LEJARS",
+        "RAPHAEL BASSET"
+    ],
+    "holders": [
+        18243
+    ],
+    "ipcCodes": [
+        "B29C 65/56"
+    ]
+}

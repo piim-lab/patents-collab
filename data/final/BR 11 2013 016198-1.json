@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2013 016198-1",
+    "filingDate": "19/12/2011",
+    "grantDate": "03/03/2020",
+    "title": "PROCESSO INTEGRADO PARA PRODU\u00c7\u00c3O DE BIOCOMBUST\u00cdVEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10196556.4",
+            "priorityDate": "22/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/459,963",
+            "priorityDate": "22/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "PERTTU KOSKINEN",
+        "REIJO TANNER"
+    ],
+    "holders": [
+        98090
+    ],
+    "ipcCodes": [
+        "C12N 9/42",
+        "C12P 7/10",
+        "C12P 7/64",
+        "C12P 7/16",
+        "C12N 9/24"
+    ]
+}

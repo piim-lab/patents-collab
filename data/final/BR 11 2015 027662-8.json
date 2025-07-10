@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2015 027662-8",
+    "filingDate": "07/05/2014",
+    "grantDate": "11/07/2023",
+    "title": "COMPONENTE DE MOTOR DESLIZANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1308182.3",
+            "priorityDate": "07/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "ROGER GORGES",
+        "JOHN CAREY",
+        "ANIL RATHOD"
+    ],
+    "holders": [
+        1852,
+        24230
+    ],
+    "ipcCodes": [
+        "F16C 33/20",
+        "F16C 33/10",
+        "F16C 33/66",
+        "F16C 33/14"
+    ]
+}

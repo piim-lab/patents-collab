@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2012 028464-9",
+    "filingDate": "29/04/2011",
+    "grantDate": null,
+    "title": "Dispositivo de torque ultraelevado canulado.",
+    "nationalPhaseDate": [
+        "06/11/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2011/034618",
+        "pctDate": "29/04/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/332,171",
+            "priorityDate": "06/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "JOHN NINO",
+        "DAVID IVINSON"
+    ],
+    "holders": [
+        102721,
+        102722,
+        102723
+    ],
+    "ipcCodes": [
+        "A61M 37/00",
+        "A61B 19/00",
+        "A61M 25/16",
+        "B23Q 11/04"
+    ]
+}

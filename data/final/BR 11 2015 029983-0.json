@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 11 2015 029983-0",
+    "filingDate": "29/05/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODOS EM UM PRIMEIRO DISPOSITIVO TRANSCEPTOR SEM FIO, PRIMEIRO DISPOSITIVO TRANSCEPTOR SEM FIO E MEM\u00d3RIA LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/829,204",
+            "priorityDate": "30/05/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/846,523",
+            "priorityDate": "15/07/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/859,275",
+            "priorityDate": "28/07/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/867,593",
+            "priorityDate": "19/08/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/899,796",
+            "priorityDate": "04/11/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/937,435",
+            "priorityDate": "07/02/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/285,584",
+            "priorityDate": "22/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "CARLOS HORACIO ALDANA",
+        "SANDIP HOMCHAUDHURI",
+        "XIN HE",
+        "XIAOXIN ZHANG",
+        "ASHISH KUMAR SHUKLA"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 24/00",
+        "H04W 64/00"
+    ]
+}

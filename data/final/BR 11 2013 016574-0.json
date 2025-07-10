@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2013 016574-0",
+    "filingDate": "19/12/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA O CRAQUEAMENTO DE ALIMENTA\u00c7\u00c3O DE HIDROCARBONETOS PESADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/980,514",
+            "priorityDate": "29/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        }
+    ],
+    "inventors": [
+        "STEVEN T COLEMAN"
+    ],
+    "holders": [
+        91632
+    ],
+    "ipcCodes": [
+        "C10G 11/20"
+    ]
+}

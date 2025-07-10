@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 016737-0",
+    "filingDate": "23/08/2022",
+    "grantDate": null,
+    "title": "LENTES DE ZOOM",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202111598349.6",
+            "priorityDate": "24/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "HE JIANWEI",
+        "ZHANG PINGUANG",
+        "ZHANG ZHANJUN"
+    ],
+    "holders": [
+        60770
+    ],
+    "ipcCodes": [
+        "G02B 13/00",
+        "G02B 13/02"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2021 022029-1",
+    "filingDate": "15/05/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA ENCAPSULA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "03/11/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/063644",
+        "pctDate": "15/05/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19174946.4",
+            "priorityDate": "16/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "SURENDER KUMAR DHAYAL",
+        "MARTIN LUND",
+        "HENRIK BISGAARD",
+        "JOHANNES MARTEEN VAN DEN BRINK"
+    ],
+    "holders": [
+        83703
+    ],
+    "ipcCodes": [
+        "A61K 9/50",
+        "A23P 10/30",
+        "A23C 9/13",
+        "A61K 47/50",
+        "A23C 9/152",
+        "A23L 29/00",
+        "A23K 20/00",
+        "A23L 33/10",
+        "A23J 3/10",
+        "A23K 40/30",
+        "A23J 3/08"
+    ]
+}

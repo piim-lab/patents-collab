@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2022 026199-7",
+    "filingDate": "21/12/2022",
+    "grantDate": null,
+    "title": "PROCESSO DE COMBUST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP21216323.2",
+            "priorityDate": "21/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "XAVIER PAUBEL",
+        "ABOU BA",
+        "FRANK RHEKER",
+        "LAURENT KEPINSKI",
+        "MOHAND AMIRAT",
+        "BAPTISTE SENECHAL"
+    ],
+    "holders": [
+        2085
+    ],
+    "ipcCodes": [
+        "F23L 7/00",
+        "F23J 15/02",
+        "F27D 19/00",
+        "F23C 6/04",
+        "F23N 1/02",
+        "F23G 7/06",
+        "F23N 5/18",
+        "F23N 3/00"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 004285-9",
+    "filingDate": "03/09/2014",
+    "grantDate": "30/11/2021",
+    "title": "SENSOR INTEGRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/018,057",
+            "priorityDate": "04/09/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "EDMUND MCHUGH",
+        "MICHAEL D MULLIN"
+    ],
+    "holders": [
+        11400
+    ],
+    "ipcCodes": [
+        "E21B 47/10"
+    ]
+}

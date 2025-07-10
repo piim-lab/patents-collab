@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2017 026507-2",
+    "filingDate": "08/12/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE GERA\u00c7\u00c3O DE ENERGIA SOLAR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-240478",
+            "priorityDate": "12/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "DAISUKE SATO",
+        "TAKAHIRO HIRANO",
+        "TATSUYA MIYOSHI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "H02S 40/42",
+        "H02S 50/00",
+        "G05F 1/67"
+    ]
+}

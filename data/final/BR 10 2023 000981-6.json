@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2023 000981-6",
+    "filingDate": "18/01/2023",
+    "grantDate": null,
+    "title": "MONTAGEM DE LENTE DE IMAGEAMENTO E DISPOSITIVO ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/302,588",
+            "priorityDate": "25/01/2022"
+        },
+        {
+            "countryCode": "TW",
+            "priorityNumber": "111125766",
+            "priorityDate": "08/07/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "CHIN HUANG",
+        "WEI FAN",
+        "TA CHOU"
+    ],
+    "holders": [
+        42378
+    ],
+    "ipcCodes": [
+        "G02B 7/02",
+        "G02B 13/00"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 001358-6",
+    "filingDate": "25/01/2022",
+    "grantDate": null,
+    "title": "MEDI\u00c7\u00c3O DE TEMPERATURA DE MONTAGEM DE SUPERF\u00cdCIE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/212,692",
+            "priorityDate": "25/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "DAVID P POTASEK",
+        "RICHARD WILLIAM PHILLIPS"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01K 1/02",
+        "G01K 13/024"
+    ]
+}

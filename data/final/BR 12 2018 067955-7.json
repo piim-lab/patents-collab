@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2018 067955-7",
+    "filingDate": "21/12/2007",
+    "grantDate": null,
+    "title": "REAGENTES E M\u00c9TODOS DE SELE\u00c7\u00c3O ARTIFICIAL",
+    "divisionalApplication": {
+        "filingDate": "21/12/2007",
+        "applicationNumber": "PI 0721009-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "25.8",
+            "description": "Altera\u00e7\u00e3o de Sede Indeferida",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        351240
+    ],
+    "ipcCodes": []
+}

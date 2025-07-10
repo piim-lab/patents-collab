@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 011004-0",
+    "filingDate": "29/05/2019",
+    "grantDate": null,
+    "title": "CATETER BAL\u00c3O DE DI\u00c2METRO GRANDE AMPLIADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/993,471",
+            "priorityDate": "30/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "ASSAF GOVARI",
+        "CHRISTOPHER THOMAS BEECKLER",
+        "JOSEPH THOMAS KEYES",
+        "KEVIN JUSTIN HERRERA"
+    ],
+    "holders": [
+        41495
+    ],
+    "ipcCodes": [
+        "A61B 17/22"
+    ]
+}

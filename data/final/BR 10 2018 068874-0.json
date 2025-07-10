@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2018 068874-0",
+    "filingDate": "17/09/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E APARELHOS PARA CONTROLE DE COBERTURAS ARQUITET\u00d4NICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/560,653",
+            "priorityDate": "19/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        }
+    ],
+    "inventors": [
+        "JAMES BAUGH",
+        "MARK PERRY",
+        "HENK MEEWIS",
+        "DAVID HOOGSTRATE"
+    ],
+    "holders": [
+        8928
+    ],
+    "ipcCodes": [
+        "G06F 15/76",
+        "G06F 15/82"
+    ]
+}

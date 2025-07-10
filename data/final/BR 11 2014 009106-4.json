@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2014 009106-4",
+    "filingDate": "16/10/2012",
+    "grantDate": null,
+    "title": "LAN\u00c7A DE SOPRO SUPERIOR E M\u00c9TODO PARA REFINO DE FERRO FUNDIDO USANDO A MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-227627",
+            "priorityDate": "17/10/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-080173",
+            "priorityDate": "30/03/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-080174",
+            "priorityDate": "30/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "GORO OKUYAMA",
+        "NAOKI KIKUCHI",
+        "YUICHI UCHIDA",
+        "YUKIO TAKAHASHI",
+        "SHINGO SATO",
+        "KENJI NAKASE",
+        "YASUTAKA TA",
+        "YUJI MIKI"
+    ],
+    "holders": [
+        1442
+    ],
+    "ipcCodes": [
+        "C21C 5/46",
+        "C21C 1/02",
+        "C21C 5/30"
+    ]
+}

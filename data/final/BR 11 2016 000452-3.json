@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2016 000452-3",
+    "filingDate": "08/07/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA CUIDAR DE PELAGEM E M\u00c9TODO PARA ESCOVAR UMA PELAGEM.",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2011127",
+            "priorityDate": "09/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "ANTONIA MARIA JOHANNA DE KONING",
+        "JOHANNES WILHELMUS MARIA DE KONING"
+    ],
+    "holders": [
+        168962,
+        168963
+    ],
+    "ipcCodes": [
+        "A01K 13/00"
+    ]
+}

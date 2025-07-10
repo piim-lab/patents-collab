@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2022 025274-9",
+    "filingDate": "08/07/2021",
+    "grantDate": null,
+    "title": "APARELHO DE UM PONTO DE TRANSMISS\u00c3O-RECEP\u00c7\u00c3O E M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR PARA RELA\u00c7\u00c3O ESPACIAL PADR\u00c3O PARA TRANSMISS\u00c3O DE ENLACE ASCENDENTE",
+    "nationalPhaseDate": [
+        "09/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/040917",
+        "pctDate": "08/07/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2020/101015",
+            "priorityDate": "09/07/2020"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2020/101784",
+            "priorityDate": "14/07/2020"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2020/102993",
+            "priorityDate": "20/07/2020"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2020/102957",
+            "priorityDate": "20/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "GUOTONG WANG",
+        "ALEXEI DAVYDOV",
+        "BISHWARUP MONDAL"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04L 5/00",
+        "H04B 7/024",
+        "H04W 72/12",
+        "H04W 16/28",
+        "H04B 7/0408"
+    ]
+}

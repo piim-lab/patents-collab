@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2021 022049-6",
+    "filingDate": "30/04/2020",
+    "grantDate": null,
+    "title": "SISTEMA BASEADO EM NUVEM DE BASE DE DADOS PARA TRATAMENTO DE CATARATA E SISTEMA DE ALGORITMO",
+    "nationalPhaseDate": [
+        "03/11/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/030823",
+        "pctDate": "30/04/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/842,850",
+            "priorityDate": "03/05/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/850,876",
+            "priorityDate": "21/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "DOUGLAS PATTON"
+    ],
+    "holders": [
+        302071
+    ],
+    "ipcCodes": [
+        "A61F 9/008",
+        "A61B 34/00",
+        "A61B 34/10",
+        "G16H 20/40"
+    ]
+}

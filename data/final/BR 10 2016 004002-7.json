@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2016 004002-7",
+    "filingDate": "24/02/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA  AUTOMATIZAR PROCEDIMENTOS DE ATRIBUI\u00c7\u00c3O DE ASSENTO DE PASSAGEIRO PARA UMA COMPANHIA  A\u00c9REA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/632,181",
+            "priorityDate": "26/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "ADAM LANG",
+        "SUSAN WRIGHT",
+        "RUSSELL ROBERT GRIGG"
+    ],
+    "holders": [
+        21772
+    ],
+    "ipcCodes": [
+        "G06Q 50/30",
+        "G06Q 10/02"
+    ]
+}

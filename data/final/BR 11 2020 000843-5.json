@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2020 000843-5",
+    "filingDate": "30/07/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E APARELHOS PARA PROCESSAMENTO DE CORRENTES DE G\u00c1S",
+    "nationalPhaseDate": [
+        "14/01/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/044310",
+        "pctDate": "30/07/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 62/538,987",
+            "priorityDate": "31/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "MATTHEW T PRETZ",
+        "MADHUSUDHAN KODAM"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "B01J 8/18",
+        "B01J 8/24",
+        "C10G 11/18",
+        "B01J 8/26"
+    ]
+}

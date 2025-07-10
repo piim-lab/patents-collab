@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2020 002400-3",
+    "filingDate": "19/06/2009",
+    "grantDate": null,
+    "title": "SISTEMA DE DETEC\u00c7\u00c3O DE INALA\u00c7\u00c3O DE P\u00d3 SECO E SISTEMA DE MONITORAMENTO ACOPL\u00c1VEL PARA UM INALADOR DE P\u00d3 SECO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/074,487",
+            "priorityDate": "20/06/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/159,052",
+            "priorityDate": "10/03/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/06/2009",
+        "applicationNumber": "PI 0914308-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        90223
+    ],
+    "ipcCodes": []
+}

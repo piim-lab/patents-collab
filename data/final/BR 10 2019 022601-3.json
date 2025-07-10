@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 022601-3",
+    "filingDate": "29/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE APOSTAS DIGITAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "PAULO COELHO VIEIRA",
+        "MARCO ANDRADE BRASIL DE MATOS",
+        "CARLOS EDUARDO RUST DA COSTA CARMO",
+        "GABRIEL PINHEIRO GARCIA DE ALMEIDA",
+        "EVANDRO BARROS DE CARVALHO",
+        "MANUEL EUS\u00c9BIO DE LIMA",
+        "MARCIO LUIZ DE ALBUQUERQUE E SILVA"
+    ],
+    "holders": [
+        25770,
+        53254,
+        53255
+    ],
+    "ipcCodes": [
+        "G06Q 50/34",
+        "G07F 17/32",
+        "G06F 16/26"
+    ]
+}

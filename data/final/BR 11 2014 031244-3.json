@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2014 031244-3",
+    "filingDate": "13/06/2013",
+    "grantDate": null,
+    "title": "DISPOSITIVO E CONJUNTO M\u00c9DICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/659.603",
+            "priorityDate": "14/06/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.9",
+            "description": "Perda de Prioridade",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "12.6",
+            "description": "Outros Recursos",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "VADIM SHMUKLER",
+        "YOSEPH GLOVINSKY"
+    ],
+    "holders": [
+        148219,
+        134908
+    ],
+    "ipcCodes": [
+        "A61B 17/16",
+        "A61F 9/007",
+        "A61B 10/02",
+        "A61B 17/3207"
+    ]
+}

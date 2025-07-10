@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2022 017870-4",
+    "filingDate": "06/09/2022",
+    "grantDate": null,
+    "title": "MOINHO AGITADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 123 408.5",
+            "priorityDate": "09/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "UDO ENDERLE",
+        "THOMAS GOLLER",
+        "HOLGER M\u00d6SCHL",
+        "WITALI SUDERMANN",
+        "PETER WEILAND"
+    ],
+    "holders": [
+        16099
+    ],
+    "ipcCodes": [
+        "B02C 17/16"
+    ]
+}

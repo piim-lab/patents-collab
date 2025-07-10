@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2014 029045-8",
+    "filingDate": "05/06/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO, MEIO LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO E DISPOSITIVO DE COMPUTA\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/656,931",
+            "priorityDate": "07/06/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/843,962",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [
+        "CHANAKA G KARUNAMUNI",
+        "MARCEL VAN OS",
+        "SCOTT HERZ",
+        "ELIZA BLOCK",
+        "GLEN W STEELE",
+        "KEN FERRY",
+        "PETER LAURENS"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "G06F 17/00"
+    ]
+}

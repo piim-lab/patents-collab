@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2016 025265-9",
+    "filingDate": "23/05/2014",
+    "grantDate": null,
+    "title": "PAINEL DE GIPSITA E M\u00c9TODO PARA A FABRICA\u00c7\u00c3O DE UM PAINEL DE GIPSITA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-097160",
+            "priorityDate": "08/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "USHIO SUDO",
+        "HIROAKI ITANO",
+        "YOSUKE SATO",
+        "TOMOAKI SAWADA"
+    ],
+    "holders": [
+        143377
+    ],
+    "ipcCodes": [
+        "C04B 22/16",
+        "C04B 28/14"
+    ]
+}

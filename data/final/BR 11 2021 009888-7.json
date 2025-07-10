@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2021 009888-7",
+    "filingDate": "18/12/2019",
+    "grantDate": null,
+    "title": "PROCESSO PARA MACARR\u00c3O INSTANT\u00c2NEO FRITO EM \u00d3LEO",
+    "nationalPhaseDate": [
+        "21/05/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/086075",
+        "pctDate": "18/12/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201911001401",
+            "priorityDate": "11/01/2019"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19157622.2",
+            "priorityDate": "18/02/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "PREKSHA BAPNA",
+        "MICHEL DREYER",
+        "MICHELE MARAZZATO",
+        "JOAN FEDERICO",
+        "CONSTANTIN BERTOLI"
+    ],
+    "holders": [
+        81850
+    ],
+    "ipcCodes": [
+        "A23L 7/109",
+        "A23L 7/113"
+    ]
+}

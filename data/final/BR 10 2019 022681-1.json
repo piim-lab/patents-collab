@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2019 022681-1",
+    "filingDate": "29/10/2019",
+    "grantDate": null,
+    "title": "MECANISMO DE ACOPLAMENTO DE TRADO DOBR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/175.062",
+            "priorityDate": "30/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "CLAYTON E BANKS JR",
+        "COOPER W LINDE",
+        "WILLIAM M MCCULLY"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 41/12"
+    ]
+}

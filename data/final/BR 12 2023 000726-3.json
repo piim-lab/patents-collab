@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2023 000726-3",
+    "filingDate": "04/03/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA AUXILIAR UM MOTORISTA E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102015003181.3",
+            "priorityDate": "12/03/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/03/2016",
+        "applicationNumber": "BR 10 2016 004913-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2759"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2774"
+        }
+    ],
+    "inventors": [
+        "CLAUS ARNOLD",
+        "HOLGER MOHRA"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "G06F 3/0484",
+        "B60R 16/02",
+        "H04W 4/02",
+        "H04Q 9/00",
+        "H04W 4/80",
+        "G06F 3/0482",
+        "B60K 37/06"
+    ]
+}

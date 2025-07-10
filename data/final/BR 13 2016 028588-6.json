@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 13 2016 028588-6",
+    "filingDate": "06/12/2016",
+    "grantDate": null,
+    "title": "CIRCUITO DESTINADO \u00c0 COMUTA\u00c7\u00c3O DE EMERG\u00caNCIA, IMEDIATA E AUTOM\u00c1TICA, DE LUZ ALTA PARA LUZ BAIXA E VICE-VERSA, EM MOTOCICLETAS, MOTONETAS E CICLOMOTORES",
+    "parentApplication": {
+        "filingDate": "11/03/2015",
+        "applicationNumber": "BR 10 2015 005412-2"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "RICARDO MOHALLEM REZECK"
+    ],
+    "holders": [
+        136,
+        352468
+    ],
+    "ipcCodes": [
+        "B60Q 1/04",
+        "B62J 6/00",
+        "B60Q 11/00",
+        "H05B 39/10",
+        "H05B 37/04",
+        "B60Q 1/115"
+    ]
+}

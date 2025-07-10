@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2019 014421-8",
+    "filingDate": "12/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA REPOSICIONAR UM LOCAL DE SERVI\u00c7O",
+    "nationalPhaseDate": [
+        "11/07/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/013583",
+        "pctDate": "12/01/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/446,292",
+            "priorityDate": "13/01/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/671,062",
+            "priorityDate": "07/08/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/672,104",
+            "priorityDate": "08/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "RYAN YU",
+        "JOHN NATHANIEL FORD"
+    ],
+    "holders": [
+        56369
+    ],
+    "ipcCodes": [
+        "G06Q 50/30",
+        "H04W 4/02",
+        "H04W 4/40"
+    ]
+}

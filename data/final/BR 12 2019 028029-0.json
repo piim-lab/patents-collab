@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2019 028029-0",
+    "filingDate": "08/08/2008",
+    "grantDate": null,
+    "title": "C\u00c1PSULA PARA PREPARAR UMA QUANTIDADE PREDETERMINADA DE BEBIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08150807.9",
+            "priorityDate": "29/01/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/08/2008",
+        "applicationNumber": "PI 0821902-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.22",
+            "description": "Exig\u00eancia preliminar - pedidos sem buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        }
+    ],
+    "inventors": [
+        "AREND CORNELIS JACOBUS BIESHEUVEL",
+        "RALF KAMERBEEK",
+        "KON EUAN GERARD WONG",
+        "GUIDO BRANDT",
+        "HENDRIK CORNELIS KOELING"
+    ],
+    "holders": [
+        85288
+    ],
+    "ipcCodes": [
+        "B65D 85/804"
+    ]
+}

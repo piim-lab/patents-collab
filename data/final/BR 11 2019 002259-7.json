@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2019 002259-7",
+    "filingDate": "10/08/2017",
+    "grantDate": null,
+    "title": "T\u00c9CNICAS PARA GERENCIAR UMA CONEX\u00c3O L\u00d3GICA DE TR\u00c1FEGO QUE UTILIZA AGREGA\u00c7\u00c3O DE DADOS",
+    "nationalPhaseDate": [
+        "04/02/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/046306",
+        "pctDate": "10/08/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/374,540",
+            "priorityDate": "12/08/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/672,566",
+            "priorityDate": "09/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2786"
+        }
+    ],
+    "inventors": [
+        "OZCAN OZTURK",
+        "ARNAUD MEYLAN",
+        "SIVARAMAKRISHNA VEEREPALLI"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 88/06",
+        "H04W 72/12"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 003634-6",
+    "filingDate": "25/02/2021",
+    "grantDate": null,
+    "title": "LINHA DE RESINA FORMADA POR UM TUBO ONDULADO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2020 105 558.7",
+            "priorityDate": "02/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "DOMINIK DIERKES"
+    ],
+    "holders": [
+        65808
+    ],
+    "ipcCodes": [
+        "B29C 70/62"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2022 003714-0",
+    "filingDate": "25/02/2022",
+    "grantDate": null,
+    "title": "PAR DE CISALHAS, FERRAMENTA DE CORTE E PAR DE TESOURAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/184,935",
+            "priorityDate": "25/02/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/674,691",
+            "priorityDate": "17/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2807"
+        }
+    ],
+    "inventors": [
+        "MICHAEL H PANOSIAN",
+        "JOSHUA M KEELER"
+    ],
+    "holders": [
+        74409,
+        58212
+    ],
+    "ipcCodes": [
+        "B26B 13/20"
+    ]
+}

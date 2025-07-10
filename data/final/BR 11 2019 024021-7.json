@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2019 024021-7",
+    "filingDate": "16/05/2018",
+    "grantDate": null,
+    "title": "RASTREAMENTO DE RECIPIENTES ETIQUETADOS",
+    "nationalPhaseDate": [
+        "14/11/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/032941",
+        "pctDate": "16/05/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/508,145",
+            "priorityDate": "18/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [
+        "ERIC G WINTEMUTE",
+        "RICHARD L RICE",
+        "KENT JAMES",
+        "JOHN J RICHARDSON"
+    ],
+    "holders": [
+        254690
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G06Q 50/02",
+        "G06Q 50/28",
+        "G06Q 50/10"
+    ]
+}

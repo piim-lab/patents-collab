@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2015 030924-0",
+    "filingDate": "10/06/2014",
+    "grantDate": null,
+    "title": "SISTEMA DE COMANDO DE VOO EL\u00c9TRICO PARA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1355455",
+            "priorityDate": "12/06/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "C\u00c9DRIC BARA",
+        "CHRISTOPHE TUZI",
+        "ERIC BOURGOGNE",
+        "PASCAL COPPEE",
+        "YANN VANDENBAVIERE"
+    ],
+    "holders": [
+        94144,
+        167420
+    ],
+    "ipcCodes": [
+        "G05D 1/00"
+    ]
+}

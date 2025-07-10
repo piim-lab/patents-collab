@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 022687-0",
+    "filingDate": "11/11/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E REAGENTES PARA DIAGNOSTICAR NEFROPATIA MEMBRANOSA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP20213450.8",
+            "priorityDate": "11/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "MADELEINE DETTMANN",
+        "SWANTJE MINDORF",
+        "CHRISTIAN PROBST"
+    ],
+    "holders": [
+        34669
+    ],
+    "ipcCodes": [
+        "G01N 33/543",
+        "G01N 33/68",
+        "C07K 14/47",
+        "G01N 33/564"
+    ]
+}

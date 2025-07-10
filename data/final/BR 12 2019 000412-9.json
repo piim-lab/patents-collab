@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2019 000412-9",
+    "filingDate": "01/11/2007",
+    "grantDate": null,
+    "title": "CARTUCHO DE PROCESSAMENTO E APARELHO DE FORMA\u00c7\u00c3O DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-332837",
+            "priorityDate": "11/12/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-259660",
+            "priorityDate": "03/10/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/11/2007",
+        "applicationNumber": "PI 0719663-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "KAZUO CHADANI",
+        "TOMONORI MORI",
+        "KOJI HASHIMOTO",
+        "KAZUO CHADANI",
+        "TOMONORI MORI",
+        "KOJI HASHIMOTO",
+        "KAZUO CHADANI",
+        "TOMONORI MORI",
+        "KOJI HASHIMOTO",
+        "KAZUO CHADANI",
+        "TOMONORI MORI",
+        "KOJI HASHIMOTO",
+        "KAZUO CHADANI",
+        "TOMONORI MORI",
+        "KOJI HASHIMOTO"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "G03G 21/18"
+    ]
+}

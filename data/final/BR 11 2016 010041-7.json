@@ -1,0 +1,93 @@
+{
+    "applicationNumber": "BR 11 2016 010041-7",
+    "filingDate": "05/11/2014",
+    "grantDate": null,
+    "title": "COMPOSTO, MEDICAMENTO, E, USO DO COMPOSTO OU SAL",
+    "nationalPhaseDate": [
+        "04/05/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2014/080005",
+        "pctDate": "05/11/2014",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-232571",
+            "priorityDate": "08/11/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-128562",
+            "priorityDate": "23/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "1.3.4",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "MASATO YOSHIDA",
+        "KAZUAKI TAKAMI",
+        "YUSUKE TOMINARI",
+        "ZENYU SHIOKAWA",
+        "AKITO SHIBUYA",
+        "YUSUKE SASAKI",
+        "TONY GIBSON",
+        "TERUFUMI TAKAGI"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": []
+}

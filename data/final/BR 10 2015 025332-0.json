@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2015 025332-0",
+    "filingDate": "02/10/2015",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O E M\u00c9TODO EM CALDEIRA DE RECUPERA\u00c7\u00c3O DE SODA",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20145866",
+            "priorityDate": "03/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "JUSSI NYMAN",
+        "KARI HAAGA",
+        "TAISTO RAJALA"
+    ],
+    "holders": [
+        5724
+    ],
+    "ipcCodes": [
+        "D21C 11/12",
+        "F22B 1/08"
+    ]
+}

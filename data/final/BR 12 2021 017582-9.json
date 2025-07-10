@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2021 017582-9",
+    "filingDate": "14/08/2013",
+    "grantDate": "22/02/2022",
+    "title": "APARELHO DE DETEC\u00c7\u00c3O, M\u00c9TODO DE DETEC\u00c7\u00c3O, APARELHO DE TUBULA\u00c7\u00c3O E M\u00c9TODO DE FORMA\u00c7\u00c3O DE UM APARELHO DE TUBULA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12183754.6",
+            "priorityDate": "10/09/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/08/2013",
+        "applicationNumber": "BR 10 2013 020747-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "GEOFFREY STEPHEN GRAHAM",
+        "PHILLIP EDWARD HARLEY",
+        "WILLIAM JAMES SHEPHERD"
+    ],
+    "holders": [
+        2
+    ],
+    "ipcCodes": [
+        "G01N 17/02",
+        "G01M 3/40",
+        "G01N 27/02",
+        "F16L 55/07"
+    ]
+}

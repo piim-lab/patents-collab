@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2013 028103-0",
+    "filingDate": "01/12/2011",
+    "grantDate": "03/03/2020",
+    "title": "Processo integrado para produzir nitrato de am\u00f4nio",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2011901871",
+            "priorityDate": "16/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "ANTHONY MATTHEW JOHNSTON",
+        "BRIAN SCOTT HAYNES"
+    ],
+    "holders": [
+        115898,
+        75572
+    ],
+    "ipcCodes": [
+        "C01C 1/18"
+    ]
+}

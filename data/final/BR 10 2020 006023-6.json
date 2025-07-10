@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 006023-6",
+    "filingDate": "25/03/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA COMPRAS COM BASE TRIDIMENSIONAL, E M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIA PARA COMPRAS COM BASE TRIDIMENSIONAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/823,000",
+            "priorityDate": "25/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "VLADIMIR ROZENBLIT"
+    ],
+    "holders": [
+        57415
+    ],
+    "ipcCodes": [
+        "G06Q 30/06"
+    ]
+}

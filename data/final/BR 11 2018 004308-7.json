@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2018 004308-7",
+    "filingDate": "08/08/2016",
+    "grantDate": null,
+    "title": "COMPRESS\u00c3O DE ARMAZENAMENTO ACELERADA POR HARDWARE",
+    "nationalPhaseDate": [
+        "02/03/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/046019",
+        "pctDate": "08/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/844,443",
+            "priorityDate": "03/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "HYUNSUK SHIN",
+        "JUNG PILL KIM"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G06F 3/06"
+    ]
+}

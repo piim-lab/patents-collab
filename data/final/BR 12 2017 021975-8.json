@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2017 021975-8",
+    "filingDate": "04/03/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A COMUTA\u00c7\u00c3O DE MODO DE UM TERMINAL DE COMUNICA\u00c7\u00c3O M\u00d3VEL MULTIBANDA MULTIMODO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0014700",
+            "priorityDate": "04/03/2004"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0022949",
+            "priorityDate": "02/04/2004"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0022954",
+            "priorityDate": "02/04/2004"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2004-0033866",
+            "priorityDate": "13/05/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/03/2005",
+        "applicationNumber": "PI 0508123-8"
+    },
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "GUN KIM",
+        "LAK KIM",
+        "WOOK KIM",
+        "MOON HAN",
+        "GUN KIM",
+        "LAK KIM",
+        "WOOK KIM",
+        "MOON HAN"
+    ],
+    "holders": [
+        79352
+    ],
+    "ipcCodes": [
+        "H04B 7/26"
+    ]
+}

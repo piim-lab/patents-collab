@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2012 021401-2",
+    "filingDate": "23/02/2011",
+    "grantDate": "24/12/2019",
+    "title": "Forma de dosagem oral",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/307,836",
+            "priorityDate": "24/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "CRISTINA CASTELLI",
+        "CHRIS VERVAET",
+        "JEAN PAUL REMON",
+        "GLENN VERSTRAETE"
+    ],
+    "holders": [
+        85880,
+        97719
+    ],
+    "ipcCodes": [
+        "A61K 9/50",
+        "A61K 31/135",
+        "A61K 9/16",
+        "A61K 9/20",
+        "A61K 45/06"
+    ]
+}

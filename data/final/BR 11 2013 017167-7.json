@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2013 017167-7",
+    "filingDate": "03/01/2012",
+    "grantDate": null,
+    "title": "REATOR T\u00c9RMICO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 000 037.2",
+            "priorityDate": "05/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "PETER SCHULZ",
+        "GUSTAF FORSBERG",
+        "PETER BAELING",
+        "RONNIE ANDERSSON"
+    ],
+    "holders": [
+        341751,
+        118687
+    ],
+    "ipcCodes": [
+        "B01J 19/12",
+        "B01J 12/00"
+    ]
+}

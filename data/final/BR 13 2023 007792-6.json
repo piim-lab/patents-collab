@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 13 2023 007792-6",
+    "filingDate": "25/04/2023",
+    "grantDate": null,
+    "title": "TRAVA ANTIFURTO PARA VE\u00cdCULOS PESADOS",
+    "parentApplication": {
+        "filingDate": "18/02/2021",
+        "applicationNumber": "BR 10 2021 002978-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "28.10.4",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante MEI, ME ou EPP",
+            "bulletinNumber ": "2791"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "JULIO CESAR PETRASSI"
+    ],
+    "holders": [
+        65619
+    ],
+    "ipcCodes": [
+        "B60R 25/06"
+    ]
+}

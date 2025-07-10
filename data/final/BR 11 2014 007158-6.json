@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2014 007158-6",
+    "filingDate": "27/09/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O PARA O TRATAMENTO DE GLICA\u00c7\u00c3O DE PROTE\u00cdNAS DA PELE, E, USO DA COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "11/58598",
+            "priorityDate": "27/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/564,977",
+            "priorityDate": "30/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        }
+    ],
+    "inventors": [
+        "ARNAUD FOURNIAL",
+        "MARIE GRIZAUD",
+        "PHILIPPE MONDON"
+    ],
+    "holders": [
+        133855
+    ],
+    "ipcCodes": [
+        "A61Q 19/00",
+        "A61K 8/97",
+        "A61Q 19/08",
+        "A61K 35/02"
+    ]
+}

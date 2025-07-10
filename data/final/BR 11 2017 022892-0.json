@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2017 022892-0",
+    "filingDate": "14/04/2016",
+    "grantDate": "14/12/2021",
+    "title": "COMP\u00d3SITO, E M\u00c9TODO DE FORMA\u00c7\u00c3O DE UM COMP\u00d3SITO",
+    "nationalPhaseDate": [
+        "24/10/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/027410",
+        "pctDate": "14/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/152,396",
+            "priorityDate": "24/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/081,428",
+            "priorityDate": "25/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "LORI L WAGNER",
+        "DALIA TAYLOR",
+        "DAVID A HURST",
+        "GREGORY A DAVIS",
+        "SAMEER AGRAWAL"
+    ],
+    "holders": [
+        271
+    ],
+    "ipcCodes": [
+        "F41H 1/02",
+        "D06M 17/00",
+        "D03D 1/00",
+        "D03D 11/02"
+    ]
+}

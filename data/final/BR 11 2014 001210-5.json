@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2014 001210-5",
+    "filingDate": "20/07/2012",
+    "grantDate": null,
+    "title": "DECODIFICA\u00c7\u00c3O DE SINAL ENFILEIRADO E RECONSTRU\u00c7\u00c3O DE SINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/188,201",
+            "priorityDate": "21/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "LUCA ROSSATO",
+        "GUIDO MEARDI"
+    ],
+    "holders": [
+        130311
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/136",
+        "H04N 19/61",
+        "H04N 19/46",
+        "H04N 19/105",
+        "H04N 19/85",
+        "H04N 19/117",
+        "H04N 19/82",
+        "H04N 19/33",
+        "H04N 19/187",
+        "H04N 7/12"
+    ]
+}

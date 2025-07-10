@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2012 026395-1",
+    "filingDate": "03/03/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA A FISS\u00c3O T\u00c9RMICA DE RES\u00cdDUOS ORG\u00c2NICOS DE ALTO PESO MOLECULAR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 014 768.0",
+            "priorityDate": "13/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "THOMAS WILLNER"
+    ],
+    "holders": [
+        101433
+    ],
+    "ipcCodes": [
+        "C10G 3/00",
+        "C10B 53/02",
+        "C10G 1/00",
+        "C10G 9/00",
+        "C10G 1/10",
+        "C10B 53/06"
+    ]
+}

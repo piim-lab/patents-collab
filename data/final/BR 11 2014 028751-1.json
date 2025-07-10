@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 028751-1",
+    "filingDate": "17/05/2013",
+    "grantDate": null,
+    "title": "PART\u00cdCULA ENCAPSULADA, E, M\u00c9TODO PARA FORMAR UMA PART\u00cdCULA ENCAPSULADA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/648697",
+            "priorityDate": "18/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "ALICE HUDSON",
+        "LILIAN SENIOR",
+        "BERNARD SENCHEREY",
+        "VICTOR GRANQUIST",
+        "RAYMOND A NEFF",
+        "ALEXANDER GERSHANOVICH",
+        "JOHANNE WILSON"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "A01P 13/00",
+        "A01N 33/18",
+        "C08G 18/50",
+        "A01N 25/26"
+    ]
+}

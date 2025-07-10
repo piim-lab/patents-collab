@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 067934-1",
+    "filingDate": "05/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE PERMUTA DE CALOR PARA VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-178363",
+            "priorityDate": "15/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "SATOSHI TOMINAGA",
+        "DAISUKE TOKOZAKURA",
+        "HIDEKI KUBONOYA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60H 1/00",
+        "B60H 1/22",
+        "F24D 3/18"
+    ]
+}

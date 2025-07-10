@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2016 013482-6",
+    "filingDate": "28/01/2015",
+    "grantDate": null,
+    "title": "CONJUGADO DE ANTICORPO-F\u00c1RMACO ANTI-HER2",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-017777",
+            "priorityDate": "31/01/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-168944",
+            "priorityDate": "22/08/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-227886",
+            "priorityDate": "10/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI NAITO",
+        "YUSUKE OGITANI",
+        "TAKESHI MASUDA",
+        "TAKASHI NAKADA",
+        "MASAO YOSHIDA",
+        "SHINJI ASHIDA",
+        "KOJI MORITA",
+        "HIDEKI MIYAZAKI",
+        "YUJI KASUYA",
+        "ICHIRO HAYAKAWA",
+        "YUKI ABE"
+    ],
+    "holders": [
+        88250
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "A61K 31/4745",
+        "C07K 16/28",
+        "C07D 491/052"
+    ]
+}

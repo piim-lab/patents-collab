@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2020 000394-4",
+    "filingDate": "23/10/2012",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE IMAGEM, APARELHO E M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-243942",
+            "priorityDate": "07/11/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-008199",
+            "priorityDate": "18/01/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-057424",
+            "priorityDate": "14/03/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-093113",
+            "priorityDate": "16/04/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/10/2012",
+        "applicationNumber": "BR 11 2014 010794-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        245
+    ],
+    "ipcCodes": []
+}

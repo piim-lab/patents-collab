@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2013 013700-2",
+    "filingDate": "01/12/2011",
+    "grantDate": "07/04/2020",
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE \u00c1CIDO N\u00cdTRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2010905285",
+            "priorityDate": "01/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "ANTHONY MATTHEW JOHNSTON",
+        "BRIAN SCOTT HAYNES",
+        "FABIO OLDANI",
+        "ALBERTO GARBUJO",
+        "PIERDOMENICO BIASI"
+    ],
+    "holders": [
+        106418,
+        115898,
+        75572
+    ],
+    "ipcCodes": [
+        "B01J 35/00",
+        "B01J 29/65",
+        "B01D 53/86",
+        "B01J 29/072",
+        "C01B 21/26",
+        "C01B 21/38",
+        "B01J 29/68",
+        "C01B 21/36"
+    ]
+}

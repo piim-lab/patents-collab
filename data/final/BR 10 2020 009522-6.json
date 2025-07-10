@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2020 009522-6",
+    "filingDate": "13/05/2020",
+    "grantDate": null,
+    "title": "SISTEMA INTELIGENTE DE AVALIA\u00c7\u00c3O EM TEMPO REAL DE ATRIBUTOS F\u00cdSICOS DO CAF\u00c9 DURANTE O PROCESSO DE TORREFA\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "BRUNO HENRIQUE GROENNER BARBOSA",
+        "FL\u00c1VIO MEIRA BOR\u00c9M",
+        "RENNAN ALVES CARDOSO"
+    ],
+    "holders": [
+        1044,
+        6156
+    ],
+    "ipcCodes": [
+        "G01J 3/46",
+        "A23N 12/12"
+    ]
+}

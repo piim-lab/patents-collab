@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 12 2022 017199-0",
+    "filingDate": "02/04/2015",
+    "grantDate": null,
+    "title": "SISTEMA PARA PURIFICAR OOCISTOS DE COCC\u00cdDEOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14163340.4",
+            "priorityDate": "03/04/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/04/2015",
+        "applicationNumber": "BR 11 2016 022784-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "KOEN GEVERS",
+        "THEODORUS PETRUS MARIA SCHETTERS"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "C12N 1/10",
+        "C12N 1/02"
+    ]
+}

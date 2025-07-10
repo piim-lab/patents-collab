@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2017 020570-0",
+    "filingDate": "04/03/2016",
+    "grantDate": null,
+    "title": "SUPORTE PARA SERVI\u00c7OS DE LOCALIZA\u00c7\u00c3O USANDO UM PROTOCOLO DE POSICIONAMENTO",
+    "nationalPhaseDate": [
+        "26/09/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/020911",
+        "pctDate": "04/03/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/139,467",
+            "priorityDate": "27/03/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/849,460",
+            "priorityDate": "09/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "STEPHEN WILLIAM EDGE",
+        "ANDREAS KLAUS WACHTER"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 4/02",
+        "H04W 4/20"
+    ]
+}

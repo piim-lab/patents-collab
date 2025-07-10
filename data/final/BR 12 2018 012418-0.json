@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2018 012418-0",
+    "filingDate": "21/09/2006",
+    "grantDate": "24/09/2019",
+    "title": "M\u00c9TODO PARA CONTROLAR UM PROCESSO DE PRODU\u00c7\u00c3O DE UMA COMPOSI\u00c7\u00c3O DE POL\u00cdMERO",
+    "divisionalApplication": {
+        "filingDate": "21/09/2006",
+        "applicationNumber": "PI 0621929-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2582"
+        }
+    ],
+    "inventors": [
+        "JOHN R PARRISH",
+        "MARK L NELSON"
+    ],
+    "holders": [
+        82268
+    ],
+    "ipcCodes": [
+        "G05B 13/04"
+    ]
+}

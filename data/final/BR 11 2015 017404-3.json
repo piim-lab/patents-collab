@@ -1,0 +1,101 @@
+{
+    "applicationNumber": "BR 11 2015 017404-3",
+    "filingDate": "26/12/2013",
+    "grantDate": null,
+    "title": "DESCOBERTA DE DISPOSITIVO PARA DISPOSITIVO COM BASE EM EQUIPAMENTO DE USU\u00c1RIO",
+    "nationalPhaseDate": [
+        "21/07/2015"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2013/077753",
+        "pctDate": "26/12/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/768,330",
+            "priorityDate": "22/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3.4",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "HUANING NIU",
+        "DEBDEEP CHATTERJEE",
+        "GANG XIONG",
+        "QINGHUA LI",
+        "HUJUN YIN"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "H04W 28/02",
+        "H04W 52/02",
+        "H04W 4/70",
+        "H04W 28/12",
+        "H04W 48/14"
+    ]
+}

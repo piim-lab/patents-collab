@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2012 028079-1",
+    "filingDate": "17/05/2011",
+    "grantDate": null,
+    "title": "TELA DE FORMA\u00c7\u00c3O DA FOLHA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 017 055.0",
+            "priorityDate": "21/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        }
+    ],
+    "inventors": [
+        "WOLFGANG HEGER"
+    ],
+    "holders": [
+        96159
+    ],
+    "ipcCodes": [
+        "D21F 1/00"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "applicationNumber": "BR 11 2022 007723-8",
+    "filingDate": "30/10/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MANIPULA\u00c7\u00c3O DIMENSIONAL",
+    "nationalPhaseDate": [
+        "22/04/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/058333",
+        "pctDate": "30/10/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/670,029",
+            "priorityDate": "31/10/2019"
+        },
+        {
+            "countryCode": "WO",
+            "priorityNumber": "PCT/US19/62892",
+            "priorityDate": "24/11/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/956,989",
+            "priorityDate": "03/01/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/967,891",
+            "priorityDate": "30/01/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "39/332,414",
+            "priorityDate": "01/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/880,255",
+            "priorityDate": "21/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/057,348",
+            "priorityDate": "28/07/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/071,190",
+            "priorityDate": "27/08/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/106,064",
+            "priorityDate": "27/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "GREGORY FRIEDLANDER"
+    ],
+    "holders": [
+        314806
+    ],
+    "ipcCodes": [
+        "G06F 17/16",
+        "G21B 3/00",
+        "G06N 10/00"
+    ]
+}

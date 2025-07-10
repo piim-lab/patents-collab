@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 20 2017 011212-3",
+    "filingDate": "26/05/2017",
+    "grantDate": null,
+    "title": "SUPORTE PARA CABOS E C\u00daPULA E CONJUNTO DE SUPORTE E C\u00daPULA",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "VALCIR FABRIS"
+    ],
+    "holders": [
+        26085,
+        11839
+    ],
+    "ipcCodes": [
+        "G02B 6/44"
+    ]
+}

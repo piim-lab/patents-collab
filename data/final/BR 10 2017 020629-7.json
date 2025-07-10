@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2017 020629-7",
+    "filingDate": "26/09/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE AUTENTICA\u00c7\u00c3O M\u00daTUA DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-190626",
+            "priorityDate": "29/09/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "NOBUAKI KINOSHITA",
+        "HAYATO INOUE",
+        "YUSUKE TAKAISHI"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "B60R 25/24",
+        "B60R 25/20"
+    ]
+}

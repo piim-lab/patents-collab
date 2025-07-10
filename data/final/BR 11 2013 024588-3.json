@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2013 024588-3",
+    "filingDate": "06/02/2012",
+    "grantDate": null,
+    "title": "PROCESSO FISCHER-TROPSCH EM UM REATOR RADIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1107070.3",
+            "priorityDate": "27/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        }
+    ],
+    "inventors": [
+        "TIMOTHY DOUGLAS GAMLIN"
+    ],
+    "holders": [
+        88091
+    ],
+    "ipcCodes": [
+        "B01J 19/24",
+        "B01J 8/06",
+        "C10G 2/00",
+        "C07C 1/04"
+    ]
+}

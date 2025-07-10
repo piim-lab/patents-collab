@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2013 018533-3",
+    "filingDate": "25/01/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE AMIDA DO \u00c1CIDO PIRAZOL CARBOX\u00cdLICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11151965.8",
+            "priorityDate": "25/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "MIROSLAV TERINEK",
+        "DOMINIK FABER",
+        "STEFAN KOENIG"
+    ],
+    "holders": [
+        79231
+    ],
+    "ipcCodes": [
+        "C07D 231/14",
+        "C07C 251/56"
+    ]
+}

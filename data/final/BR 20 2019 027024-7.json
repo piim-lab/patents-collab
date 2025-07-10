@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 20 2019 027024-7",
+    "filingDate": "17/12/2019",
+    "grantDate": null,
+    "title": "REFRIGERADOR DE L\u00cdQUIDO ORIGINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201822240983.2",
+            "priorityDate": "29/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2805"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "SHENG CHANG"
+    ],
+    "holders": [
+        21599
+    ],
+    "ipcCodes": [
+        "F25D 11/00",
+        "F25D 31/00",
+        "B67D 1/08",
+        "A23L 2/00"
+    ]
+}

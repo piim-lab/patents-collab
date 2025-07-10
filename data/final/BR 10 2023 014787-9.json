@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 10 2023 014787-9",
+    "filingDate": "24/07/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODOS DE PREPARO DE GLUFOSINATO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202211440553X",
+            "priorityDate": "17/11/2022"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2023100339310",
+            "priorityDate": "10/01/2023"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "28.10.26",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia disponibilizada no mercado",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "WENJIE TANG",
+        "CHENGJUN WU",
+        "NAN LI",
+        "JIANJIE XU",
+        "XIANZHONG TANG",
+        "CHUNHUI MAO"
+    ],
+    "holders": [
+        79008,
+        79007
+    ],
+    "ipcCodes": [
+        "C07F 9/50",
+        "C07F 9/30",
+        "C07F 9/48",
+        "C07F 9/6581"
+    ]
+}

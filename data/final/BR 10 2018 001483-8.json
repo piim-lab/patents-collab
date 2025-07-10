@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 10 2018 001483-8",
+    "filingDate": "24/01/2018",
+    "grantDate": "20/12/2022",
+    "title": "SISTEMA E M\u00c9TODO PARA FORNECER CONTROLE DE VELOCIDADE COM BASE EM IMPLEMENTO PARA UM VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/416,031",
+            "priorityDate": "26/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "205",
+            "description": "Intima\u00e7\u00e3o para manifesta\u00e7\u00e3o por parte do titular e do requerente",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "201",
+            "description": "Processo administrativo de Nulidade conhecido, negado provimento. Mantida a concess\u00e3o da Patente.",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "JASON T CZAPKA",
+        "ROBERT J LONGUA",
+        "KEVIN D MCKEE",
+        "MARVIN ARNOLD PRICKEL",
+        "KEVIN M SMITH",
+        "KEITH W WENDTE"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "B60K 31/00",
+        "A01C 7/00"
+    ]
+}

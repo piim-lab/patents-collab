@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2017 028173-9",
+    "filingDate": "25/08/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRANSFERIR FUNDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/376,908",
+            "priorityDate": "25/08/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/08/2011",
+        "applicationNumber": "BR 11 2013 004189-7"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "DONALD C LICCIARDELLO",
+        "RUSH TAGGART",
+        "JOHN D LICCIARDELLO",
+        "DEBRA LYNN LICCIARDELLO"
+    ],
+    "holders": [
+        351036
+    ],
+    "ipcCodes": [
+        "G06Q 20/00"
+    ]
+}

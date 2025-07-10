@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2016 014297-7",
+    "filingDate": "19/12/2014",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO PARA TOMOGRAFIA \u00d3PTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1363234",
+            "priorityDate": "20/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "ARNAUD DUBOIS"
+    ],
+    "holders": [
+        176330,
+        48954,
+        142175
+    ],
+    "ipcCodes": [
+        "G01B 9/02",
+        "G02B 21/00"
+    ]
+}

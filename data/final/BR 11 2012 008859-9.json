@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2012 008859-9",
+    "filingDate": "15/10/2010",
+    "grantDate": null,
+    "title": "APARELHO DE INJE\u00c7\u00c3O.",
+    "nationalPhaseDate": [
+        "13/04/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT GB2010/051740",
+        "pctDate": "15/10/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0918145.4",
+            "priorityDate": "16/10/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/604782",
+            "priorityDate": "23/10/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/314876",
+            "priorityDate": "17/03/2010"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1004440.2",
+            "priorityDate": "17/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "TOBY COWE"
+    ],
+    "holders": [
+        87664
+    ],
+    "ipcCodes": [
+        "A61M 5/00",
+        "A61M 5/315",
+        "A61M 5/20"
+    ]
+}

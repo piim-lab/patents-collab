@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2019 003137-9",
+    "filingDate": "15/02/2019",
+    "grantDate": null,
+    "title": "ESTOJO DE TURBINA A VAPOR OVAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/263,844",
+            "priorityDate": "31/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "PAUL T SMITH"
+    ],
+    "holders": [
+        46556
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2013 031198-3",
+    "filingDate": "04/06/2012",
+    "grantDate": null,
+    "title": "ANTICORPO DE LIGA\u00c7\u00c3O A C5aR E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 168787.7",
+            "priorityDate": "06/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/505,137",
+            "priorityDate": "07/07/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12 159172.1",
+            "priorityDate": "13/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        }
+    ],
+    "inventors": [
+        "STEFAN ZAHN",
+        "LOUISE HJERRILD ZEUTHEN",
+        "ANKER JON HANSEN",
+        "KRISTIAN KJAERGAARD",
+        "SOREN LUND"
+    ],
+    "holders": [
+        92635
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61P 37/00",
+        "C07K 16/28"
+    ]
+}

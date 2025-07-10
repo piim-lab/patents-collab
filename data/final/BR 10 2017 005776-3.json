@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2017 005776-3",
+    "filingDate": "21/03/2017",
+    "grantDate": null,
+    "title": "\u201cSistema autom\u00e1tico de extintor de inc\u00eandio\u201d",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/076714",
+            "priorityDate": "22/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "DAVID WILLIAM FRASURE",
+        "DOUG JOHN BAXENDELL",
+        "CHRISTOPHER WILSON",
+        "TERRY SIMPSON",
+        "JOHN WRIGHT PORTERFIELD JR",
+        "KEVIN R LEITCH",
+        "MICHAEL LEE DAVIS"
+    ],
+    "holders": [
+        1798
+    ],
+    "ipcCodes": [
+        "A62C 35/02",
+        "A62C 3/07"
+    ]
+}

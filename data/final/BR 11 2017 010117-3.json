@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 010117-3",
+    "filingDate": "05/11/2015",
+    "grantDate": null,
+    "title": "APARELHO DE VISUALIZA\u00c7\u00c3O, E, MICROSC\u00d3PIO ESTEREOSC\u00d3PICO.",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1420352.5",
+            "priorityDate": "17/11/2014"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1420926.6",
+            "priorityDate": "25/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "GRAHAM PETER FRANCIS MERCER"
+    ],
+    "holders": [
+        154308
+    ],
+    "ipcCodes": [
+        "G02B 27/22",
+        "G02B 21/22"
+    ]
+}

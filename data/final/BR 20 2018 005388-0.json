@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 20 2018 005388-0",
+    "filingDate": "19/03/2018",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O CONSTRUTIVA APLICADA EM PUN\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "DIOGO CLAUDINO PEDROSO"
+    ],
+    "holders": [
+        56282
+    ],
+    "ipcCodes": [
+        "B21D 37/00",
+        "B26F 1/44"
+    ]
+}

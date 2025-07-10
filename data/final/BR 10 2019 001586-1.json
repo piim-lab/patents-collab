@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 10 2019 001586-1",
+    "filingDate": "25/01/2019",
+    "grantDate": null,
+    "title": "MATERIAIS DE ELETRODO COMP\u00d3SITO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "107105391",
+            "priorityDate": "14/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        }
+    ],
+    "inventors": [
+        "NAN YANG"
+    ],
+    "holders": [
+        42765,
+        42766
+    ],
+    "ipcCodes": [
+        "H01M 4/133",
+        "H01M 4/13",
+        "H01M 10/02",
+        "H01M 4/137"
+    ]
+}

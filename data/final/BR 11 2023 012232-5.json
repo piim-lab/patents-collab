@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2023 012232-5",
+    "filingDate": "21/12/2021",
+    "grantDate": null,
+    "title": "MONITORAMENTO DE FALHA E MECANISMO DE RECUPERA\u00c7\u00c3O EM CASO DE RETRANSMISS\u00c3O DE SL",
+    "nationalPhaseDate": [
+        "19/06/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2021/087018",
+        "pctDate": "21/12/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2020/087439",
+            "priorityDate": "21/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "MIN WANG"
+    ],
+    "holders": [
+        79444
+    ],
+    "ipcCodes": [
+        "H04W 76/25",
+        "H04W 36/38"
+    ]
+}

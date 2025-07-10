@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2021 005720-0",
+    "filingDate": "03/07/2019",
+    "grantDate": null,
+    "title": "ESTRUTURA DE RODA",
+    "nationalPhaseDate": [
+        "25/03/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2019/026478",
+        "pctDate": "03/07/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-184519",
+            "priorityDate": "28/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "DAI ISHIZUKA",
+        "AKIO HANDA",
+        "TOSHIHIRO IKENAGA",
+        "YOSHINOBU HONDA",
+        "HIROKI KITAGAWA",
+        "KOJI NAKAGAWA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "B60B 1/02",
+        "B60B 27/00",
+        "G01P 3/488",
+        "B62J 99/00"
+    ]
+}

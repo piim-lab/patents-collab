@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2013 006764-0",
+    "filingDate": "20/09/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AVALIAR UM PACIENTE, KIT, MEIO LEG\u00cdVEL POR COMPUTADOR, M\u00c9TODO PARA AVALIAR UM TRATAMENTO, M\u00c9TODO PARA AVALIAR O RISCO DE UM PACIENTE, M\u00c9TODO PARA MONITORAR, M\u00c9TODO DE DIAGNOSTICAR, SISTEMA DE TESTE, M\u00c9TODO PARA CLASSIFICAR OU AGRUPAR UMA POPULA\u00c7\u00c3O DE INDIV\u00cdDUOS, M\u00c9TODO PARA AVALIAR UM DESFECHO SUBSTITUTO, M\u00c9TODO PARA TRATAR, USO DE PELO MENOS UM BIOMARCADOR, USO DE UM AGENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2010904249",
+            "priorityDate": "21/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "THOMAS STOLL",
+        "SCOTT BRINGANS",
+        "KAYE WINFIELD",
+        "TAMMY CASEY",
+        "WENDY DAVIS",
+        "KIRSTEN PETERS",
+        "TIMOTHY DAVIS",
+        "RICHARD LIPSCOMBE"
+    ],
+    "holders": [
+        111000
+    ],
+    "ipcCodes": [
+        "G01N 33/68",
+        "C12Q 1/25",
+        "C07K 14/47",
+        "C12Q 1/68",
+        "A61K 38/17",
+        "A61P 13/12"
+    ]
+}

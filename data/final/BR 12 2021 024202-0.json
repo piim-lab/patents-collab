@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2021 024202-0",
+    "filingDate": "17/09/2013",
+    "grantDate": null,
+    "title": "PROCESSO SINT\u00c9TICO COMPREENDENDO COMPOSTOS DE PIRIDAZINONA BEM COMO OS DITOS COMPOSTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/702.137",
+            "priorityDate": "17/09/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/790.432",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/09/2013",
+        "applicationNumber": "BR 11 2015 005891-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "D KEITH HESTER II",
+        "ROBERT J DUGUID",
+        "MARTHA KELLY",
+        "ANNA CHASNOFF",
+        "GANG DONG",
+        "EDWIN L CROW",
+        "REBECCA TAUB",
+        "CHARLES H REYNOLDS",
+        "DUK SOON CHOI",
+        "LIANHE SHU",
+        "PING WANG"
+    ],
+    "holders": [
+        152873,
+        152874
+    ],
+    "ipcCodes": [
+        "A61P 9/00",
+        "A61P 3/00",
+        "A61K 31/50",
+        "C07D 237/16"
+    ]
+}

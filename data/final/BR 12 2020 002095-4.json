@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 12 2020 002095-4",
+    "filingDate": "01/02/2008",
+    "grantDate": null,
+    "title": "SISTEMA DE COMUNICA\u00c7\u00c3O M\u00d3VEL PARA EXECUTAR A COMUNICA\u00c7\u00c3O POR R\u00c1DIO ENTRE UM TERMINAL M\u00d3VEL E UMA ESTA\u00c7\u00c3O BASE, ESTA\u00c7\u00c3O BASE, E, TERMINAL M\u00d3VEL",
+    "divisionalApplication": {
+        "filingDate": "01/02/2008",
+        "applicationNumber": "PI 0807033-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        13171
+    ],
+    "ipcCodes": []
+}

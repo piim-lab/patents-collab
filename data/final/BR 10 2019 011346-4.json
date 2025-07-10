@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2019 011346-4",
+    "filingDate": "31/05/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE IMPRESS\u00c3O, M\u00c9TODO DE CONTROLE E SERVIDOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-114690",
+            "priorityDate": "15/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        }
+    ],
+    "inventors": [
+        "YU TOMIOKA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "G06F 3/12"
+    ]
+}

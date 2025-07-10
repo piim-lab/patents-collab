@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2020 000849-8",
+    "filingDate": "14/01/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE PRIORIZA\u00c7\u00c3O E CORRESPOND\u00caNCIA DE INSTRU\u00c7\u00d5ES",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "GILSON FINKELSZTAIN",
+        "CICERO AUGUSTO VIEIRA NETO",
+        "JOS\u00c9 RIBEIRO DE ANDRADE",
+        "MARIO RODRIGO LEITZKE PALHARES"
+    ],
+    "holders": [
+        55814
+    ],
+    "ipcCodes": [
+        "G06Q 40/04"
+    ]
+}

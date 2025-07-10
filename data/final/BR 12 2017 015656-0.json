@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2017 015656-0",
+    "filingDate": "12/05/2005",
+    "grantDate": null,
+    "title": "BOMBA DE CILINDRO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2004 024 102.3",
+            "priorityDate": "14/05/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/05/2005",
+        "applicationNumber": "PI 0511100-5"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "MANFRED BAUMANN",
+        "BERTHOLD BREITKOPF",
+        "ELMAR H\u00dcGEL",
+        "HERBERT NEUBAUER",
+        "THOMAS N\u00dcRNBERGER",
+        "JOCHEN SCHNEIDER",
+        "GERHARD SPENGLER",
+        "RALF WAMSIEDLER",
+        "WOLFGANG BIESE",
+        "CHRISTIAN BUSSE",
+        "MARCO CARONNA",
+        "J\u00d6RG JONAS",
+        "REINHOLD REITER",
+        "J\u00d6RN APEL",
+        "MARTIN LAUER",
+        "MANFRED BAUMANN",
+        "BERTHOLD BREITKOPF",
+        "ELMAR H\u00dcGEL",
+        "HERBERT NEUBAUER",
+        "THOMAS N\u00dcRNBERGER",
+        "JOCHEN SCHNEIDER",
+        "GERHARD SPENGLER",
+        "RALF WAMSIEDLER",
+        "WOLFGANG BIESEL",
+        "CHRISTIAN BUSSE",
+        "MARCO CARONNA",
+        "J\u00d6RG JONAS",
+        "REINHOLD REITER",
+        "J\u00d6RN APEL",
+        "MARTIN LAUER"
+    ],
+    "holders": [
+        81796
+    ],
+    "ipcCodes": [
+        "F04B 43/12"
+    ]
+}

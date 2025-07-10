@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2019 007015-3",
+    "filingDate": "05/04/2019",
+    "grantDate": null,
+    "title": "PROCESSO E APARELHO PARA HIDROGENA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20185316",
+            "priorityDate": "05/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "HANNA HONKANEN",
+        "ANTTI KURKIJ\u00c4RVI",
+        "MAURI SUURONEN",
+        "SAMI TOPPINEN",
+        "JAN WAHLSTR\u00d6M"
+    ],
+    "holders": [
+        17965
+    ],
+    "ipcCodes": [
+        "B01J 19/24",
+        "B01J 23/755",
+        "C10G 65/06",
+        "B01J 4/00",
+        "C10G 45/32",
+        "C10G 45/44",
+        "C10G 45/48",
+        "C10G 65/08",
+        "C10G 45/36"
+    ]
+}

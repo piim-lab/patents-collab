@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 025704-8",
+    "filingDate": "16/12/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE INTELIGENTE DE TRANSA\u00c7\u00d5ES E M\u00c9TODO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2764"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2775"
+        }
+    ],
+    "inventors": [
+        "CARLOS ALBERTO BENTO COELHO"
+    ],
+    "holders": [
+        64192
+    ],
+    "ipcCodes": [
+        "G06Q 10/06"
+    ]
+}

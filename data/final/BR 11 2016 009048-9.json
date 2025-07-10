@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2016 009048-9",
+    "filingDate": "23/09/2014",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE COPOL\u00cdMERO, PROCESSO PARA A PRODU\u00c7\u00c3O DO COPOL\u00cdMERO, E COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/894,146",
+            "priorityDate": "22/10/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/463,747",
+            "priorityDate": "20/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "WANCHAO JIANG",
+        "SHIJUN FENG",
+        "SIYUAN ZHANG",
+        "YUN LIN",
+        "ANDREW POSS"
+    ],
+    "holders": [
+        271
+    ],
+    "ipcCodes": [
+        "C08F 214/18",
+        "C08F 214/26",
+        "C08F 216/00",
+        "C08F 218/00"
+    ]
+}

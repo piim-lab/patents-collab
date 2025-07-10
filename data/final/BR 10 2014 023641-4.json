@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2014 023641-4",
+    "filingDate": "23/09/2014",
+    "grantDate": "01/02/2022",
+    "title": "PROCESSO AJUSTADOR DE INTERVALO EM MECANISMO DE DISPARO DE DISJUNTOR DE ENVOLT\u00d3RIO MOLDADO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0124172",
+            "priorityDate": "17/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "WOONG JAE KIM"
+    ],
+    "holders": [
+        3023
+    ],
+    "ipcCodes": [
+        "H01H 71/16",
+        "H01H 69/01"
+    ]
+}

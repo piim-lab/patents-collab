@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2022 001175-3",
+    "filingDate": "21/01/2022",
+    "grantDate": null,
+    "title": "TAMPA PARA RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102021000001430",
+            "priorityDate": "26/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2791"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2791"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO FALZONI",
+        "ROY SEIDERS",
+        "DEREK SULLIVAN",
+        "ANDY BONDHUS",
+        "EVAN GOLDBERG",
+        "ROY SEIDERS",
+        "DEREK SULLIVAN",
+        "ANDY BONDHUS",
+        "EVAN GOLDBERG",
+        "DARIUSZ LEWANDOWSKI",
+        "ROMAN SOBECKI"
+    ],
+    "holders": [
+        214444,
+        300283,
+        39828
+    ],
+    "ipcCodes": [
+        "B65D 47/28"
+    ]
+}

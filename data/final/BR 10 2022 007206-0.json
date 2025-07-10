@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2022 007206-0",
+    "filingDate": "14/04/2022",
+    "grantDate": null,
+    "title": "GERENCIAMENTO DE MEM\u00d3RIA EM UM DISPOSITIVO DE PROCESSAMENTO DE TRANSA\u00c7\u00d5ES",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2103946",
+            "priorityDate": "16/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "15.7",
+            "description": "Peti\u00e7\u00e3o n\u00e3o Conhecida",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "15.7",
+            "description": "Peti\u00e7\u00e3o n\u00e3o Conhecida",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "12.6",
+            "description": "Outros Recursos",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "EMMANUELLE DOTTAX",
+        "LAUREN DEL GIUDICE"
+    ],
+    "holders": [
+        75447
+    ],
+    "ipcCodes": [
+        "G06F 21/30",
+        "G06Q 20/22",
+        "G06Q 20/08"
+    ]
+}

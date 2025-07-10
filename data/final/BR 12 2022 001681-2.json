@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2022 001681-2",
+    "filingDate": "06/11/2012",
+    "grantDate": null,
+    "title": "SISTEMA   DE  COMPUTA\u00c7\u00c3O,  M\u00c9TODO  EM  UM  SISTEMA  DE COMPUTA\u00c7\u00c3O  QUE  IMPLEMENTA  UM  DECODIFICADOR  DE V\u00cdDEO  E  MEIO  DE  ARMAZENAMENTO  LEG\u00cdVEL  POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/556,813",
+            "priorityDate": "07/11/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/669,380",
+            "priorityDate": "05/11/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/11/2012",
+        "applicationNumber": "BR 11 2014 010947-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "GARY J SULLIVAN",
+        "YONGJUN WU"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "H04N 7/24"
+    ]
+}

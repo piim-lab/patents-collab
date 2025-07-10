@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 11 2014 009553-1",
+    "filingDate": "18/10/2012",
+    "grantDate": null,
+    "title": "GR\u00c2NULOS COMPREENDENDO UMA SUBST\u00c2NCIA ATIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11186226.4",
+            "priorityDate": "21/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "PASCAL BEAUSSOUBRE",
+        "ETIENNE BOUQUERAND",
+        "FRAN\u00c7OIS MEYER",
+        "NATHALIE THIEBAUT",
+        "KENNETH WONG"
+    ],
+    "holders": [
+        84722
+    ],
+    "ipcCodes": [
+        "A23L 27/00",
+        "A61Q 13/00",
+        "A61K 8/73",
+        "B01J 2/04",
+        "A61K 8/02",
+        "A61K 8/25"
+    ]
+}

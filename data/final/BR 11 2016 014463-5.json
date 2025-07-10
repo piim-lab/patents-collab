@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 014463-5",
+    "filingDate": "12/12/2014",
+    "grantDate": null,
+    "title": "PROCESSO DE OXICOMBUST\u00c3O, E, GASES DE COMBUST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "BA2013A000084",
+            "priorityDate": "27/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "MASSIMO MALAVASI",
+        "GRAZIA DI SALVIA"
+    ],
+    "holders": [
+        81113
+    ],
+    "ipcCodes": [
+        "F23L 7/00",
+        "F23D 1/00",
+        "C10L 10/00",
+        "F23C 9/00",
+        "F23J 7/00"
+    ]
+}

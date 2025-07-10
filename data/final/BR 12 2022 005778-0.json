@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2022 005778-0",
+    "filingDate": "03/10/2018",
+    "grantDate": null,
+    "title": "C\u00c1PSULA COMPREENDENDO CIS-4-[2-{[(3S,4R)-3-FLUORO-OXAN-4-IL]AMINO}-8-(2,4,6-TRICLOROANILINO)-9H-PURIN-9-IL]-1-METILCICLOHEXANO-1-CARBOXAMIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/568,107",
+            "priorityDate": "04/10/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "03/10/2018",
+        "applicationNumber": "BR 11 2020 006599-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        93205
+    ],
+    "ipcCodes": []
+}

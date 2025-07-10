@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2017 023733-4",
+    "filingDate": "15/06/2016",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO DE TRANSMISS\u00c3O DE INFORMA\u00c7\u00d5ES DE ATRIBUI\u00c7\u00c3O DE RECURSO",
+    "nationalPhaseDate": [
+        "03/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2016/002882",
+        "pctDate": "15/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-132790",
+            "priorityDate": "01/07/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-170508",
+            "priorityDate": "31/08/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-216775",
+            "priorityDate": "04/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        146738
+    ],
+    "ipcCodes": []
+}

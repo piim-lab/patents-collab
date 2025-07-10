@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 017053-3",
+    "filingDate": "25/08/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODOS ESPEC\u00cdFICOS PARA EU PARA MELHORIA DE DESEMPENHO DE CHAMADAS NR/LTE/3G/2G DURANTE O PROCEDIMENTO DE RESSELE\u00c7\u00c3O IRAT",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202141039326",
+            "priorityDate": "31/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "ASHISH KUMAR SINGH",
+        "ANSHUL KUMAR GUPTA",
+        "FRANZ GOLDHOFER",
+        "PRADEEP PANGI",
+        "MARK JEFFERY",
+        "AVINASH VENUGOPAL"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "H04W 36/30"
+    ]
+}

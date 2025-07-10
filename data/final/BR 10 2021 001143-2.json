@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 001143-2",
+    "filingDate": "21/01/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR, E, APARELHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/814,894",
+            "priorityDate": "10/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "ERIC L BORTNER",
+        "KEVIN P HURLEY",
+        "MICHAEL MESCHKE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 41/12",
+        "A01F 12/26",
+        "A01F 12/24",
+        "A01F 12/28"
+    ]
+}

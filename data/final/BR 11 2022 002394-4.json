@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2022 002394-4",
+    "filingDate": "10/09/2020",
+    "grantDate": null,
+    "title": "LENTE INTRAOCULAR COM PROFUNDIDADE ESTENDIDA DE FOCO",
+    "nationalPhaseDate": [
+        "08/02/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/075273",
+        "pctDate": "10/09/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P201930791",
+            "priorityDate": "11/09/2019"
+        },
+        {
+            "countryCode": "BE",
+            "priorityNumber": "BE2019/5669",
+            "priorityDate": "09/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2791"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2806"
+        }
+    ],
+    "inventors": [
+        "SUSANA MARCOS CELESTINO",
+        "CARLOS DORRONSORO D\u00cdAZ",
+        "SUAD REDZOVIC",
+        "CHRISTOPHE PAGNOULLE"
+    ],
+    "holders": [
+        206590,
+        88207
+    ],
+    "ipcCodes": [
+        "G06F 3/033",
+        "A61F 2/16"
+    ]
+}

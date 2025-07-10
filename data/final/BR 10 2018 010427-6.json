@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 010427-6",
+    "filingDate": "23/05/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE AERONAVE, M\u00c9TODO E PRODUTO DE PROGRAMA DE COMPUTADOR PARA FACILITAR A REDU\u00c7\u00c3O DE RU\u00cdDO DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/616,910",
+            "priorityDate": "07/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "MARK DARNELL",
+        "DAVID LAX",
+        "BRANDON JAMES RHONE"
+    ],
+    "holders": [
+        8
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "B64D 31/06",
+        "G05B 1/00",
+        "B64C 19/00",
+        "G06F 9/06",
+        "B64C 13/16",
+        "G10K 11/16",
+        "G08G 5/00",
+        "G05B 11/32",
+        "G05D 19/02"
+    ]
+}

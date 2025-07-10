@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2014 018114-4",
+    "filingDate": "27/11/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE DEP\u00d3SITOS DE COBRE MATE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12152390.6",
+            "priorityDate": "25/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        }
+    ],
+    "inventors": [
+        "STEFAN KRETSCHMER",
+        "PHILIP HARTMANN",
+        "BERND ROELFS"
+    ],
+    "holders": [
+        85271
+    ],
+    "ipcCodes": [
+        "C25D 5/10",
+        "C25D 3/38"
+    ]
+}

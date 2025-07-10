@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2018 070109-9",
+    "filingDate": "14/11/2008",
+    "grantDate": null,
+    "title": "M\u00e9todo para fazer uma cer\u00e2mica usando um g\u00e1s de efeito estufa",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/988,122",
+            "priorityDate": "15/11/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/11/2008",
+        "applicationNumber": "PI 0820575-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "RICHARD E RIMAN",
+        "VAHIT ATAKAN"
+    ],
+    "holders": [
+        122674
+    ],
+    "ipcCodes": [
+        "B01D 53/62",
+        "C01F 11/18",
+        "B01D 53/73"
+    ]
+}

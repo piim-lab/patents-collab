@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2013 022324-3",
+    "filingDate": "01/03/2012",
+    "grantDate": null,
+    "title": "DESINFETANTE DE AMPLO ESPECTRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/932,751",
+            "priorityDate": "04/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER C HEISIG",
+        "THOMAS W SMITH",
+        "PETER N KARANJA",
+        "HOPE E KAISER"
+    ],
+    "holders": [
+        85519
+    ],
+    "ipcCodes": [
+        "C11D 3/26"
+    ]
+}

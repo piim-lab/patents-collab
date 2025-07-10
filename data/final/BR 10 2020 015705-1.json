@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 10 2020 015705-1",
+    "filingDate": "31/07/2020",
+    "grantDate": null,
+    "title": "APARELHO DE RESFRIAMENTO DE MIN\u00c9RIO SINTERIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-190063",
+            "priorityDate": "17/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "6.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2773"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2773"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2780"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2802"
+        },
+        {
+            "code": "9.2.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2810"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "TAKANORI NAGAI"
+    ],
+    "holders": [
+        59434
+    ],
+    "ipcCodes": [
+        "F27B 21/00",
+        "C22B 1/26"
+    ]
+}

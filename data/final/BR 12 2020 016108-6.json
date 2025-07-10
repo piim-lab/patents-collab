@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2020 016108-6",
+    "filingDate": "01/09/2011",
+    "grantDate": null,
+    "title": "CAIXA DOBR\u00c1VEL COM MEIOS DE TRAVA SEGUROS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10177630.0",
+            "priorityDate": "20/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/885,731",
+            "priorityDate": "20/09/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/09/2011",
+        "applicationNumber": "BR 11 2013 006605-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "WOLFGANG ORGELDINGER"
+    ],
+    "holders": [
+        84886
+    ],
+    "ipcCodes": [
+        "B65D 6/18"
+    ]
+}

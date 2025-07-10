@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2013 005849-8",
+    "filingDate": "14/09/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE \u00c1LCOOL POR REA\u00c7\u00c3O DE GUERBET",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-206803",
+            "priorityDate": "15/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "TETSUYA YOSHIOKA",
+        "TAKASHI TSUCHIDA",
+        "JUN KUBO",
+        "SHUJI SAKUMA"
+    ],
+    "holders": [
+        88428
+    ],
+    "ipcCodes": [
+        "B01J 29/70",
+        "B01J 21/16",
+        "C07C 31/125",
+        "C07B 61/00",
+        "C07C 29/34",
+        "B01J 27/18",
+        "B01J 21/10",
+        "C07C 31/10",
+        "C07C 31/12"
+    ]
+}

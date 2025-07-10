@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2020 017607-5",
+    "filingDate": "12/12/2014",
+    "grantDate": null,
+    "title": "USOS DE PELO MENOS UMA METILCICLODEXTRINA COM UM GRAU DE SUBSTITUI\u00c7\u00c3O MOLAR ENTRE 0,05 E 1,5",
+    "divisionalApplication": {
+        "filingDate": "12/12/2014",
+        "applicationNumber": "BR 11 2016 013481-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        83378
+    ],
+    "ipcCodes": []
+}

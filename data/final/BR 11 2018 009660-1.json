@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2018 009660-1",
+    "filingDate": "16/11/2016",
+    "grantDate": null,
+    "title": "PROCESSO DE POLIMERIZA\u00c7\u00c3O COM UMA FASE DE PARALISA\u00c7\u00c3O PARCIAL",
+    "nationalPhaseDate": [
+        "11/05/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/077813",
+        "pctDate": "16/11/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15195082.1",
+            "priorityDate": "18/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "ERICH NEUMANN",
+        "SVEN WOLFRAM",
+        "CHRISTOPH WOLF",
+        "JUERGEN MOHRBUTTER",
+        "DIETER LITTMANN"
+    ],
+    "holders": [
+        81147
+    ],
+    "ipcCodes": [
+        "B01J 19/00",
+        "C08F 2/01"
+    ]
+}

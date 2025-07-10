@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2015 021281-6",
+    "filingDate": "28/02/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RECUPERA\u00c7\u00c3O DE C\u00c9SIO, RUB\u00cdDIO OU AMBOS A PARTIR DE MIN\u00c9RIO SECUND\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/772.946",
+            "priorityDate": "05/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        }
+    ],
+    "inventors": [
+        "BART F BAKKE",
+        "CLAUDE DEVEAU"
+    ],
+    "holders": [
+        87122
+    ],
+    "ipcCodes": [
+        "C22B 1/00",
+        "C22B 26/00"
+    ]
+}

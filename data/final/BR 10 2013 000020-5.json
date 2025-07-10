@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 10 2013 000020-5",
+    "filingDate": "02/01/2013",
+    "grantDate": "16/11/2021",
+    "title": "M\u00c9TODO PARA MEDIR A BIOMETRIA DE UM OBJETO, E EQUIPAMENTO TERMINAL PARA MEDIR A BIOMETRIA DE UM OBJETO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "1020120001150",
+            "priorityDate": "04/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "KYUNG JUNG",
+        "CHUL YOON",
+        "TAEK LEE",
+        "JE KIM",
+        "HYUN KIM",
+        "JIN EOM"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "A61B 8/00",
+        "G06T 17/00",
+        "G16H 50/30",
+        "A61B 8/08",
+        "A61B 8/14",
+        "G16B 45/00"
+    ]
+}

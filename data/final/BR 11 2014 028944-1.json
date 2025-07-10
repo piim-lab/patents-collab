@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 028944-1",
+    "filingDate": "30/04/2013",
+    "grantDate": null,
+    "title": "VETORES LENTIVIRAIS CONTENDO UM PROMOTOR DE MHC CLASSE I",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12305566.7",
+            "priorityDate": "23/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "EMELINE SARRY",
+        "CECILE BAUCHE"
+    ],
+    "holders": [
+        102421
+    ],
+    "ipcCodes": [
+        "A61K 39/00"
+    ]
+}

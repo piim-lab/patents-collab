@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2016 011437-0",
+    "filingDate": "27/11/2014",
+    "grantDate": null,
+    "title": "Processo e dispositivo para tratamento e processamento de lamas, e bolo de lama org\u00e2nica solidificada",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "13/61706",
+            "priorityDate": "27/11/2013"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "13/02857",
+            "priorityDate": "06/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "PATRICE CAPEAU",
+        "PASCAL GENDROT"
+    ],
+    "holders": [
+        113206
+    ],
+    "ipcCodes": [
+        "C02F 11/14",
+        "C02F 1/52",
+        "C02F 1/24",
+        "C02F 11/12",
+        "B01F 3/04",
+        "C02F 1/20",
+        "C02F 1/74",
+        "B01D 21/28",
+        "C02F 1/56",
+        "B01F 5/02"
+    ]
+}

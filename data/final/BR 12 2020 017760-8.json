@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2020 017760-8",
+    "filingDate": "13/05/2016",
+    "grantDate": null,
+    "title": "C\u00c1PSULA, SISTEMA PARA PREPARA\u00c7\u00c3O DE UMA BEBIDA POT\u00c1VEL, E, USO DE UMA C\u00c1PSULA",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "PCT/NL2015/050349",
+            "priorityDate": "15/05/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/05/2016",
+        "applicationNumber": "BR 11 2017 024458-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "HIELKE DIJKSTRA",
+        "AREND HENDRIK GROOTHORNTE",
+        "ERIK PIETER VAN GAASBEEK",
+        "MARC HENRIKUS JOSEPH OTTENSCHOT",
+        "RALF KAMERBEEK",
+        "ARMIN SJOERD EIJSACKERS",
+        "JOHN HENRI FLAMAND"
+    ],
+    "holders": [
+        85288
+    ],
+    "ipcCodes": [
+        "B65D 85/804"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2018 006679-0",
+    "filingDate": "02/04/2018",
+    "grantDate": null,
+    "title": "FORMULA\u00c7\u00c3O FARMAC\u00caUTICA E SEU M\u00c9TODO DE PREPARA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/486,297",
+            "priorityDate": "12/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "NING TSAO",
+        "TIEN KUO",
+        "DAVID J YANG"
+    ],
+    "holders": [
+        37455
+    ],
+    "ipcCodes": [
+        "A61B 6/03",
+        "A61P 35/00",
+        "A61K 51/08",
+        "A61K 103/00"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2018 073952-2",
+    "filingDate": "22/11/2018",
+    "grantDate": null,
+    "title": "M\u00c1QUINA E PROCESSO PARA PREGUEAR TUBO PL\u00c1STICO FLEX\u00cdVEL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "EZRA NEGRIN"
+    ],
+    "holders": [
+        23461
+    ],
+    "ipcCodes": [
+        "B65H 45/04",
+        "B65H 47/00"
+    ]
+}

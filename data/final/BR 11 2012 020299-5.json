@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2012 020299-5",
+    "filingDate": "11/02/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE GAMA-BUTIROLACTONA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/303,584",
+            "priorityDate": "11/02/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/382,855",
+            "priorityDate": "14/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/413,195",
+            "priorityDate": "12/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2786"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        14323
+    ],
+    "ipcCodes": []
+}

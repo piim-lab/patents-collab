@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2017 027503-5",
+    "filingDate": "19/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONSTRU\u00c7\u00c3O DE CIMENTA\u00c7\u00c3O DE TORRE",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P201600833",
+            "priorityDate": "19/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "SUDHANSU BHUSAN PRUSTY",
+        "JAVIER ALONSO GAINZA"
+    ],
+    "holders": [
+        335
+    ],
+    "ipcCodes": [
+        "E02D 27/42"
+    ]
+}

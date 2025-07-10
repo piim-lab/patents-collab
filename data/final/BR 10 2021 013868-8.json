@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2021 013868-8",
+    "filingDate": "14/07/2021",
+    "grantDate": null,
+    "title": "AMORTECEDOR DE IMPACTO, SISTEMA DE TREM DE POUSO, E, M\u00c9TODO PARA RESTRINGIR A PERCOLA\u00c7\u00c3O DENTRO DE UM CONJUNTO DE TREM DE POUSO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202041030431",
+            "priorityDate": "16/07/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/134427",
+            "priorityDate": "27/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "BASAVARAJ BODKI",
+        "HEMANTH NAGARAJA",
+        "STEVE HEALEY"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "F16F 9/36",
+        "F16F 9/06",
+        "B64C 25/60",
+        "F16F 9/342"
+    ]
+}

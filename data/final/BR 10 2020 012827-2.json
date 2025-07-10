@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 012827-2",
+    "filingDate": "23/06/2020",
+    "grantDate": null,
+    "title": "TOPO DE TRAVAMENTO PARA RECIPIENTE TENDO UM GARGALO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1907693",
+            "priorityDate": "09/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "MAXIME CLAVEL",
+        "GAETAN REY"
+    ],
+    "holders": [
+        17275
+    ],
+    "ipcCodes": [
+        "B65D 51/24",
+        "A61J 1/14",
+        "B65D 1/02",
+        "B65D 81/18",
+        "B65D 39/00",
+        "A61J 1/06",
+        "B65D 45/30"
+    ]
+}

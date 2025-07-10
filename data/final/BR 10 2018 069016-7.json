@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 069016-7",
+    "filingDate": "19/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA PARA DETECTAR UMA FALHA MEC\u00c2NICA DE UM EIXO ROTATIVO DE UM COMPONENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17275188.5",
+            "priorityDate": "27/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "FABIEN DUBOIS",
+        "LAURA ALBIOL",
+        "DANIEL DIAZ"
+    ],
+    "holders": [
+        17664
+    ],
+    "ipcCodes": [
+        "G07C 5/00",
+        "G01P 15/18"
+    ]
+}

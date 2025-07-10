@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2023 002914-0",
+    "filingDate": "16/02/2023",
+    "grantDate": null,
+    "title": "BOBINA DE CABO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102022000007622",
+            "priorityDate": "15/04/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "NATHAN PADDICK",
+        "KRIS ROBERTS"
+    ],
+    "holders": [
+        2136
+    ],
+    "ipcCodes": [
+        "B65H 75/02",
+        "G02B 6/44",
+        "B65H 75/18"
+    ]
+}

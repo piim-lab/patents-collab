@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2012 033294-5",
+    "filingDate": "23/06/2011",
+    "grantDate": null,
+    "title": "INTERFACE DE PACIENTE PARA UM SISTEMA OFT\u00c1LMICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/824,107",
+            "priorityDate": "25/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "FERENC RAKSI",
+        "TIBOR JUHASZ"
+    ],
+    "holders": [
+        12581
+    ],
+    "ipcCodes": [
+        "A61B 3/103",
+        "A61B 3/18"
+    ]
+}

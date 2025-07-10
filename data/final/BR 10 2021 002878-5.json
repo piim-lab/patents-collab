@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2021 002878-5",
+    "filingDate": "17/02/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE AN\u00c1LISE AUTOM\u00c1TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-038513",
+            "priorityDate": "06/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2794"
+        }
+    ],
+    "inventors": [
+        "TAKUTO KOMATSU",
+        "YOSHIAKI SAITO",
+        "YOSHIAKI SAITO",
+        "MIYUKI SUGINO"
+    ],
+    "holders": [
+        65591
+    ],
+    "ipcCodes": [
+        "G01N 35/00",
+        "G01N 35/10",
+        "G01N 35/02"
+    ]
+}

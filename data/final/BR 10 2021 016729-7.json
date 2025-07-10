@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2021 016729-7",
+    "filingDate": "24/08/2021",
+    "grantDate": null,
+    "title": "PNEU DE CAMINH\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/072,592",
+            "priorityDate": "31/08/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/346,381",
+            "priorityDate": "14/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "ARUN PRASATH MANOGARAN",
+        "ROBERT EDWARD LIONETTI",
+        "MARCO NICOL\u00d2 COCCON",
+        "ETTORE PASSANTE SPACCAPIETRA",
+        "PHILIPPE JOSEPH AUGUSTE MULLER",
+        "DIDIER WINKIN",
+        "VAIBHAV NAWALE",
+        "ROLAND WILLIBRORD KRIER",
+        "ETTORE PASSANTE SPACCAPIETRA",
+        "ARUN PRASATH MANOGARAN",
+        "DIDIER WINKIN",
+        "PHILIPPE JOSEPH AUGUSTE MULLER"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "B60C 9/00"
+    ]
+}

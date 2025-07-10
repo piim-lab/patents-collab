@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 021696-4",
+    "filingDate": "16/10/2019",
+    "grantDate": null,
+    "title": "BARRACA DOBR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1859616",
+            "priorityDate": "17/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "BENJAMIN LAFOUX",
+        "ALEXANDRE GENERO"
+    ],
+    "holders": [
+        26824
+    ],
+    "ipcCodes": [
+        "E04H 15/28",
+        "E04H 15/24"
+    ]
+}

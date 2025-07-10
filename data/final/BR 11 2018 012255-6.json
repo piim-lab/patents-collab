@@ -1,0 +1,95 @@
+{
+    "applicationNumber": "BR 11 2018 012255-6",
+    "filingDate": "15/12/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRATAR C\u00c2NCER",
+    "nationalPhaseDate": [
+        "15/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/066919",
+        "pctDate": "15/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/269,805",
+            "priorityDate": "18/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/428,498",
+            "priorityDate": "30/11/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2768"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento - Art. 212 da LPI",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "GANG LI",
+        "GE WEI",
+        "ZACHARY D HORNBY",
+        "JONATHAN EE",
+        "SPENCER LIANG",
+        "LING LEUNG",
+        "SARAH WHELAN",
+        "MAYA KOTTURI",
+        "ARTHUR MACHLENKIN",
+        "ERAN OPHIR",
+        "ZOYA ALTEBER",
+        "MEIR AZULAY",
+        "KATHRYN LOGRONIO",
+        "SANDEEP KUMAR",
+        "RADHIKA DESAI",
+        "CHRISTOPHER CHAN"
+    ],
+    "holders": [
+        236161,
+        177146
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C07K 16/28"
+    ]
+}

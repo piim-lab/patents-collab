@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2020 004623-6",
+    "filingDate": "10/09/2009",
+    "grantDate": null,
+    "title": "VARIANTES DE BETA-GLICOSIDASE TENDO ATIVIDADE MELHORADA, E USO DAS MESMAS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "08 56167",
+            "priorityDate": "12/09/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/09/2009",
+        "applicationNumber": "PI 0918789-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "NICOLAS LOPES",
+        "ANTOINE MARGEOT",
+        "HUGUES MATHIS",
+        "LAURENT FOURAGE"
+    ],
+    "holders": [
+        32,
+        151935
+    ],
+    "ipcCodes": []
+}

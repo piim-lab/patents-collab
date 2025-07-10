@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2016 023030-2",
+    "filingDate": "02/04/2015",
+    "grantDate": "28/09/2021",
+    "title": "DISPOSITIVO DISPENSADOR DE L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1406179.0",
+            "priorityDate": "04/04/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "OLIVER BROWNE",
+        "ALAIN BEHAR"
+    ],
+    "holders": [
+        7304,
+        180797,
+        180798
+    ],
+    "ipcCodes": [
+        "B05B 11/00",
+        "B05B 11/06"
+    ]
+}

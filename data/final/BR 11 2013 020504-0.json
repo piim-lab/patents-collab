@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2013 020504-0",
+    "filingDate": "10/02/2012",
+    "grantDate": null,
+    "title": "M\u00e9todo e unidade de transmiss\u00e3o/recep\u00e7\u00e3o para um canal de controle aperfei\u00e7oado",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/441,846",
+            "priorityDate": "11/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/523,043",
+            "priorityDate": "12/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/541,188",
+            "priorityDate": "30/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/556,088",
+            "priorityDate": "04/11/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/591,531",
+            "priorityDate": "27/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "PAUL MARINIER",
+        "IL LEE",
+        "AFSHIN HAGHIGHAT",
+        "SHAHROKH NAYEB NAZAR",
+        "GUODONG ZHANG",
+        "MARIAN RUDOLF"
+    ],
+    "holders": [
+        83289
+    ],
+    "ipcCodes": [
+        "H04L 5/00",
+        "H04W 72/12"
+    ]
+}

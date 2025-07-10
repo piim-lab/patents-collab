@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 018398-2",
+    "filingDate": "09/09/2020",
+    "grantDate": null,
+    "title": "PROCESSO PARA O AMOLECIMENTO OTIMIZADO DE UM EFLUENTE INDUSTRIAL ALCALINO SOB PRESS\u00c3O DE CO2",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1909926",
+            "priorityDate": "10/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "BRUNO ALBAN",
+        "DOMINIQUE BRAS",
+        "PHILIPPE CAMPO"
+    ],
+    "holders": [
+        2085
+    ],
+    "ipcCodes": [
+        "C02F 1/00",
+        "C02F 103/16",
+        "C02F 101/10",
+        "C02F 103/10",
+        "C02F 1/58",
+        "C02F 5/02"
+    ]
+}

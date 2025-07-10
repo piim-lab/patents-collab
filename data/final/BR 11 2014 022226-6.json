@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2014 022226-6",
+    "filingDate": "08/03/2013",
+    "grantDate": null,
+    "title": "BATERIA OU C\u00c9LULA DE CHUMBO-\u00c1CIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/608,259",
+            "priorityDate": "08/03/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/667,626",
+            "priorityDate": "03/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "SHANE CHRISTIE",
+        "YOON SAN WONG",
+        "GRIGORY TITELMAN",
+        "JOHN ABRAHAMSON"
+    ],
+    "holders": [
+        95948
+    ],
+    "ipcCodes": [
+        "H01M 4/583",
+        "H01M 4/56",
+        "H01M 4/20",
+        "H01M 4/68",
+        "H01M 4/80",
+        "H01M 4/73",
+        "H01M 4/74",
+        "H01M 4/82"
+    ]
+}

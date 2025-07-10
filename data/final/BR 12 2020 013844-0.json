@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2020 013844-0",
+    "filingDate": "18/11/2014",
+    "grantDate": null,
+    "title": "\u201cM\u00e9todo para a suspens\u00e3o de uma coluna tubular a partir de uma coluna de revestimento, uma coluna de cobertura ou um cabe\u00e7ote de po\u00e7o\u201d",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/082,978",
+            "priorityDate": "18/11/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/11/2014",
+        "applicationNumber": "BR 10 2014 028665-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "ROCKY A TURLEY",
+        "ROBIN L CAMPBELL",
+        "KARSTEN HEIDECKE",
+        "GEORGE GIVENS"
+    ],
+    "holders": [
+        9153
+    ],
+    "ipcCodes": [
+        "E21B 19/16"
+    ]
+}

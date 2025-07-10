@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2013 011437-1",
+    "filingDate": "14/11/2011",
+    "grantDate": "04/02/2020",
+    "title": "PROCESSO PARA PRODUZIR UMA SOLA DE SAPATO, E, SOLA DE SAPATO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "CN2010/078793",
+            "priorityDate": "16/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [
+        "FRANK PRISSOK",
+        "ANDRE KAMM",
+        "ERIC CHEN",
+        "YOKE KHIM RAYMOND TOH"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C08G 18/10",
+        "C08G 18/48",
+        "C08G 18/66",
+        "C08J 9/32"
+    ]
+}

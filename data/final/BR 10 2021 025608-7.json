@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 10 2021 025608-7",
+    "filingDate": "17/12/2021",
+    "grantDate": null,
+    "title": "SISTEMA E PROCESSO DE AQUISI\u00c7\u00c3O E GERENCIAMENTO DE DADOS OPERACIONAIS REAIS VIA C\u00c2MERA COM A DIGITALIZA\u00c7\u00c3O EM TEMPO REAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "BENNY ALCALAY",
+        "AGUSTIN ROBERTO SYLVESTER",
+        "RICHARD PONCIANO LEITE"
+    ],
+    "holders": [
+        72904,
+        72905,
+        70695
+    ],
+    "ipcCodes": [
+        "H04N 7/00",
+        "G06V 40/00"
+    ]
+}

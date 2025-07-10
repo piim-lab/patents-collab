@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2016 001627-0",
+    "filingDate": "30/07/2014",
+    "grantDate": null,
+    "title": "TINTA PARA IMAGEAMENTO A LASER",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1313593.4",
+            "priorityDate": "30/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "ANTHONY JARVIS"
+    ],
+    "holders": [
+        169470
+    ],
+    "ipcCodes": [
+        "B41M 5/00",
+        "G03G 15/00",
+        "B41J 2/00",
+        "C09D 11/037",
+        "C09D 11/50"
+    ]
+}

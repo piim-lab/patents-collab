@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2016 010018-2",
+    "filingDate": "29/10/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CONTROLE DE V\u00c1LVULA E V\u00c1LVULA DE PROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 018 564.5",
+            "priorityDate": "05/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "BERND PORATH",
+        "MARTIN GESIKIEWICZ",
+        "HEIKO STENDER"
+    ],
+    "holders": [
+        173950
+    ],
+    "ipcCodes": [
+        "F16K 37/00",
+        "G01D 5/20"
+    ]
+}

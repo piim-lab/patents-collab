@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2021 008860-1",
+    "filingDate": "06/11/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE CANCELAMENTO DE RU\u00cdDO ATIVO PARA UM CAPACETE",
+    "nationalPhaseDate": [
+        "06/05/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/080430",
+        "pctDate": "06/11/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1818094.3",
+            "priorityDate": "06/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "BENT EVEN FOSSUM FLADMARK",
+        "RONNY FAGERVIK LARSEN",
+        "DAG AXEL AARSET LOE",
+        "SIGMUND ANDREAS BIRKELAND"
+    ],
+    "holders": [
+        288760
+    ],
+    "ipcCodes": [
+        "H04R 1/10",
+        "A61F 11/14",
+        "G10K 11/178",
+        "A42B 3/16"
+    ]
+}

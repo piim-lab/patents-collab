@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2017 020667-6",
+    "filingDate": "13/05/2016",
+    "grantDate": null,
+    "title": "PROCESSO DE PULVERIZA\u00c7\u00c3O T\u00c9RMICA",
+    "nationalPhaseDate": [
+        "27/09/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/060880",
+        "pctDate": "13/05/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2015 109 873.3",
+            "priorityDate": "19/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN KLIMESCH",
+        "ANDREAS SCHALLER",
+        "LEANDER SCHRAMM",
+        "DIETER GEBERT"
+    ],
+    "holders": [
+        177012
+    ],
+    "ipcCodes": [
+        "F02F 1/00",
+        "B05B 12/00",
+        "C23C 4/12",
+        "B05B 13/06",
+        "B05B 7/22"
+    ]
+}

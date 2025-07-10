@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2021 016403-4",
+    "filingDate": "19/08/2021",
+    "grantDate": null,
+    "title": "PNEU COM BANDA DE RODAGEM COMPOSTA E M\u00c9TODO DE FABRICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/073,139",
+            "priorityDate": "01/09/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/355,332",
+            "priorityDate": "23/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2798"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "JOSH AARON PHILLIPSON",
+        "CHRISTOPHER DAVID DYRLUND",
+        "DUANE THOMAS DELANEY",
+        "ELIZABETH AMELIA ROGENSKIMITCHELL",
+        "MICHAEL STEFAN SKURICH",
+        "CHRISTIAN JEAN"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "B60C 3/00"
+    ]
+}

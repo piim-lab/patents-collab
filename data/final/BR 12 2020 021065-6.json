@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2020 021065-6",
+    "filingDate": "21/02/2008",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E VACINA \u00c0 BASE DE PEPT\u00cdDEOS PARA ANT\u00cdGENOS ASSOCIADOS A TUMORES EXPRESSANDO C\u00c2NCER, EXOSSOMO, M\u00c9TODO IN VITRO PARA INDUZIR C\u00c9LULAS APRESENTANDO ANT\u00cdGENO QUE T\u00caM UMA ALTA INDUCIBILIDADE DE C\u00c9LULA T CITOT\u00d3XICA E USO DE UMPEPT\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/902,949",
+            "priorityDate": "21/02/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/02/2008",
+        "applicationNumber": "PI 0808421-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "TAKUYA TSUNODA",
+        "RYUJI OHSAWA"
+    ],
+    "holders": [
+        99563
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 38/00",
+        "C12N 5/10",
+        "G01N 33/50",
+        "C07K 14/00",
+        "G01N 33/15",
+        "C07K 11/00"
+    ]
+}

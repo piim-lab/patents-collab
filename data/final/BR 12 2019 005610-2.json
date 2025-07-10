@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2019 005610-2",
+    "filingDate": "20/10/2006",
+    "grantDate": null,
+    "title": "TRANSMITIR INFORMA\u00c7\u00d5ES DE SISTEMA DE RADIODIFUS\u00c3O EM UMA REDE DE ACESSO DE R\u00c1DIO, M\u00c9TODO PARA RECEBER INFORMA\u00c7\u00d5ES DE SISTEMA DE RADIODIFUS\u00c3O EM UMA REDE DE ACESSO DE R\u00c1DIO, E APARELHO RECEPTOR EM UMA REDE DE ACESSO DE R\u00c1DIO PARA RECEBER INFORMA\u00c7\u00d5ES DE SISTEMA DE RADIODIFUS\u00c3O NA REDE DE ACESSO DE R\u00c1DIO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05027214.2",
+            "priorityDate": "13/12/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/10/2006",
+        "applicationNumber": "PI 0620576-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        }
+    ],
+    "inventors": [
+        "TAKAHISA AOYAMA",
+        "HIDETOSHI SUZUKI",
+        "DRAGAN PETROVIC"
+    ],
+    "holders": [
+        351436
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04W 48/12",
+        "H04W 72/12"
+    ]
+}

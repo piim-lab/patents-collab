@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 005134-5",
+    "filingDate": "18/03/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ATRIBUI\u00c7\u00c3O DE ENDERE\u00c7OS A PARTICIPANTES DE BARRAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20164142.0",
+            "priorityDate": "19/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "JOHANNES KEMPF",
+        "FRAN\u00c7OIS GORISSE",
+        "MAXIME SOBOCINSKI"
+    ],
+    "holders": [
+        253
+    ],
+    "ipcCodes": [
+        "G05B 19/042"
+    ]
+}

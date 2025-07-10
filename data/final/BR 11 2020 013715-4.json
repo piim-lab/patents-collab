@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2020 013715-4",
+    "filingDate": "04/01/2019",
+    "grantDate": null,
+    "title": "VETORES DE VACCINIA MODIFICADOS",
+    "nationalPhaseDate": [
+        "03/07/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CA2019/050015",
+        "pctDate": "04/01/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/614,349",
+            "priorityDate": "05/01/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/693,745",
+            "priorityDate": "03/07/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/784,370",
+            "priorityDate": "21/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "JOHN C BELL",
+        "FABRICE LE BOEUF",
+        "MICHAEL S HUH",
+        "MATTHEW Y TANG",
+        "BRIAN ANDREW KELLER",
+        "ADRIAN PELIN"
+    ],
+    "holders": [
+        266760
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C12N 5/10",
+        "A61K 35/76",
+        "C12N 7/01",
+        "A61K 35/768",
+        "C12N 15/863",
+        "C07K 14/07",
+        "C12N 15/39"
+    ]
+}

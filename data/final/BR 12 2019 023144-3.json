@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2019 023144-3",
+    "filingDate": "14/11/2005",
+    "grantDate": "09/02/2021",
+    "title": "COMPOSI\u00c7\u00d5ES OFT\u00c1LMICAS T\u00d3PICAS PARA TRATAMENTO DE OLHO SECO E SEUS USOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/990,811",
+            "priorityDate": "16/11/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/11/2005",
+        "applicationNumber": "PI 0518173-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "JOSEPH G VEHIGE",
+        "PETER A SIMMONS",
+        "JOANEN CHANGLIN"
+    ],
+    "holders": [
+        79968
+    ],
+    "ipcCodes": [
+        "A61K 9/08"
+    ]
+}

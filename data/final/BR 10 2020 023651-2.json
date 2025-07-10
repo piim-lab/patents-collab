@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 023651-2",
+    "filingDate": "19/11/2020",
+    "grantDate": null,
+    "title": "EQUIPAMENTO DECODIFICADOR QUE GERA UMA SOLICITA\u00c7\u00c3O PARA UM PERFIL DE \u00c1UDIO QUE DEVE SER APLICADO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1912920",
+            "priorityDate": "19/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "J\u00c9R\u00d4ME BERGER"
+    ],
+    "holders": [
+        51460
+    ],
+    "ipcCodes": [
+        "H04N 21/41",
+        "H04N 21/43"
+    ]
+}

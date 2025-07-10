@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 006109-0",
+    "filingDate": "30/03/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ENTRADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-065101",
+            "priorityDate": "31/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "IKUO KOBAYASHI",
+        "TAKESHI IGARASHI",
+        "MASAHO MORITA",
+        "KAZUYUKI SUZUKI",
+        "AKINORI ITO",
+        "XIAOPING HU",
+        "KORKUT TEKERLEK",
+        "TAICHI NOKUO",
+        "KENZO NISHIKAWA",
+        "TAKESHI IGARASHI"
+    ],
+    "holders": [
+        175049,
+        66602,
+        329373
+    ],
+    "ipcCodes": [
+        "G06F 3/0481",
+        "G03B 17/56",
+        "G06F 3/0346"
+    ]
+}

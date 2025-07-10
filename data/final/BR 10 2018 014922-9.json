@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 014922-9",
+    "filingDate": "20/07/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETERMINAR AS POSI\u00c7\u00d5ES RELATIVAS DE PELO MENOS DOIS DISPOSITIVOS TERMINAIS M\u00d3VEIS UM EM RELA\u00c7\u00c3O AO OUTRO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017006849.6",
+            "priorityDate": "21/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "LUKAS HEINDL"
+    ],
+    "holders": [
+        40245
+    ],
+    "ipcCodes": [
+        "H04W 4/02",
+        "G06Q 50/00",
+        "H04W 64/00",
+        "G01C 21/36",
+        "G01C 21/20",
+        "G01S 5/00",
+        "G09B 29/10"
+    ]
+}

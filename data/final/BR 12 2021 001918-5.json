@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2021 001918-5",
+    "filingDate": "07/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E APARELHOS PARA PROCESSAR O TR\u00c1FEGO DE USU\u00c1RIO RECEBIDO A PARTIR DE PLURALIDADE DE REDES PRINCIPAIS DE TIPOS DIFERENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/431,410",
+            "priorityDate": "07/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/835,229",
+            "priorityDate": "07/12/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/12/2017",
+        "applicationNumber": "BR 11 2019 011852-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [
+        "CHANNASANDRA S RAVISHANKAR",
+        "JOHN CORRIGAN",
+        "GAGUK ZAKARIA"
+    ],
+    "holders": [
+        28
+    ],
+    "ipcCodes": [
+        "H04W 36/00"
+    ]
+}

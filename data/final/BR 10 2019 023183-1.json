@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 023183-1",
+    "filingDate": "04/11/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE INJE\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2799"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "MARCELLO FRANCISCO BRUNOCILLA",
+        "GUSTAVO SANTOS LOPES",
+        "RAUL PIMENTEL MAIA",
+        "ALAN E SHLUZAS",
+        "STEPHEN H DIAZ",
+        "JOHN F SHANLEY",
+        "JEFF TILLACK",
+        "DAN THAYER",
+        "BASTIAAN ARIE SMAAL"
+    ],
+    "holders": [
+        144792,
+        123410,
+        168709,
+        2559
+    ],
+    "ipcCodes": [
+        "A01K 45/00"
+    ]
+}

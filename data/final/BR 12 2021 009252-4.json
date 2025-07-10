@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 12 2021 009252-4",
+    "filingDate": "08/07/2009",
+    "grantDate": null,
+    "title": "CODIFICADOR E DECODIFICADOR DE \u00c1UDIO PARA ESTRUTURAS DE CODIFICA\u00c7\u00c3O DE SINAIS DE \u00c1UDIO AMOSTRADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/079,851",
+            "priorityDate": "11/07/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/103,825",
+            "priorityDate": "08/10/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/07/2009",
+        "applicationNumber": "PI 0910784-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "J\u00c9R\u00c9MIE LECOMTE",
+        "PHILIPPE GOURNAY",
+        "STEFAN BAYER",
+        "NIKOLAUS RETTELBACH",
+        "MARKUS MULTRUS",
+        "J\u00c9R\u00c9MIE LECOMTE",
+        "PHILIPPE GOURNAY",
+        "STEFAN BAYER",
+        "MARKUS MULTRUS",
+        "NIKOLAUSV RETTELBACH",
+        "J\u00c9R\u00c9MIE LECOMTE",
+        "PHILIPPE GOURNAY",
+        "MARKUS MULTRUS",
+        "NIKOLAUS RETTELBACH",
+        "STEFAN BAYER"
+    ],
+    "holders": [
+        87912
+    ],
+    "ipcCodes": [
+        "G10L 19/20"
+    ]
+}

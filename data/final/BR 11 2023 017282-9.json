@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2023 017282-9",
+    "filingDate": "04/03/2022",
+    "grantDate": null,
+    "title": "MAPEAMENTO DE REDE NEURAL BASEADO EM ESPARSIDADE PARA UNIDADES DE COMPUTA\u00c7\u00c3O EM UM SISTEMA EM CHIP",
+    "nationalPhaseDate": [
+        "28/08/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2022/018954",
+        "pctDate": "04/03/2022",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/194,202",
+            "priorityDate": "05/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "HEE JUN PARK",
+        "COLIN BEATON VERRILLI"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G06N 3/08",
+        "G06N 3/04"
+    ]
+}

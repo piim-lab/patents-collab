@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2020 015119-3",
+    "filingDate": "24/07/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE VIS\u00c3O MULTIC\u00c2MERAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/591,948",
+            "priorityDate": "03/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "NATHANIEL M CZARNECKI"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "B60R 1/12",
+        "B60R 11/04"
+    ]
+}

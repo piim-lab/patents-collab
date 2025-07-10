@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2016 015049-0",
+    "filingDate": "05/02/2015",
+    "grantDate": null,
+    "title": "CONSTRU\u00c7\u00c3O DE MAPA EM UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1450185-2",
+            "priorityDate": "18/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "BJ\u00d6RN JOHANSSON",
+        "PER SAHLHOLM"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "G01C 21/34",
+        "G01C 21/36"
+    ]
+}

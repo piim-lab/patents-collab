@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 000099-0",
+    "filingDate": "03/01/2017",
+    "grantDate": null,
+    "title": "MOTOR DE AERONAVE E M\u00c9TODO PARA SUPORTAR UMA OPERA\u00c7\u00c3O DE TAXIAMENTO DE UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/988,267",
+            "priorityDate": "05/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "STEVE G MACKIN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "F01D 21/00",
+        "F01D 19/00",
+        "F02C 7/32"
+    ]
+}

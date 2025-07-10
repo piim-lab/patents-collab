@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 10 2017 028572-3",
+    "filingDate": "29/12/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE FORNECIMENTO DE \u00c1GUA PARA UMA LAVADORA DE LOU\u00c7A, E LAVADORA DE LOU\u00c7A",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201611249805.5",
+            "priorityDate": "29/12/2016"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201621471092.2",
+            "priorityDate": "29/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2773"
+        }
+    ],
+    "inventors": [
+        "ANDONG FU",
+        "JAEKYOO SHIN",
+        "CANHUA QIU",
+        "SHAOPAO XU",
+        "WEIHUA XIONG",
+        "JIANHAO PENG",
+        "HAIYANG WANG",
+        "HUAMING HUANG",
+        "ZHENG LUO",
+        "BING HAN",
+        "JING YUAN"
+    ],
+    "holders": [
+        6830,
+        35430
+    ],
+    "ipcCodes": [
+        "A47L 15/42",
+        "A47L 15/00"
+    ]
+}

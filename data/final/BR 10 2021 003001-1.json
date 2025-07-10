@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 10 2021 003001-1",
+    "filingDate": "18/02/2021",
+    "grantDate": null,
+    "title": "CHAPAS DE CONCRETO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "ARLEI CLEM"
+    ],
+    "holders": [
+        65622
+    ],
+    "ipcCodes": [
+        "E04C 2/04",
+        "E04B 2/04"
+    ]
+}

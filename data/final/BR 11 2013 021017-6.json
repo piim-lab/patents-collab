@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2013 021017-6",
+    "filingDate": "19/01/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE ADITIVO DE RA\u00c7\u00c3O, SEU M\u00c9TODO DE PREPARO, M\u00c9TODO PARA PREPARAR UMA RA\u00c7\u00c3O E PR\u00c9 MISTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "11 02865.1",
+            "priorityDate": "18/02/2011"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "11 02857.8",
+            "priorityDate": "18/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "LUIS FERNANDO ROMERO MILLAN",
+        "LUKE BERNARD",
+        "PETER PLUMSTEAD"
+    ],
+    "holders": [
+        80989
+    ],
+    "ipcCodes": [
+        "C12R 1/125",
+        "C12R 1/00"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 075733-4",
+    "filingDate": "11/12/2018",
+    "grantDate": null,
+    "title": "EVENTOS DE \u00c1UDIO ACIONANDO ANAL\u00cdTICA DE V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/869,890",
+            "priorityDate": "12/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        }
+    ],
+    "inventors": [
+        "JONATHAN HUANG",
+        "WILLEM BELTMAN",
+        "VERED BAR BRACHA",
+        "ZEEV RIVLIN",
+        "DOUGLAS GABEL",
+        "SYLVIA DOWNING",
+        "NARAYAN BISWAL",
+        "BINURAJ RAVINDRAN"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "G08B 13/196",
+        "H04N 5/63",
+        "G10L 25/51",
+        "G10L 25/18",
+        "G10L 25/21",
+        "G10L 25/78"
+    ]
+}

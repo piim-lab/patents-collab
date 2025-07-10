@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2015 012610-3",
+    "filingDate": "19/11/2013",
+    "grantDate": null,
+    "title": "PRODUTO DE LIMPEZA, LEN\u00c7O UMEDECIDO, E, COMPOSI\u00c7\u00c3O DE HIGIENE PESSOAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/717,778",
+            "priorityDate": "18/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "SCOTT W WENZEL",
+        "PHILIP EUGENE KIEFFER",
+        "ANTHONY G OLENICK",
+        "JESSICA ROGERS"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "A61Q 19/00",
+        "A61Q 19/10",
+        "A61K 8/89",
+        "A61K 8/72"
+    ]
+}

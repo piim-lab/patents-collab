@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2018 001004-5",
+    "filingDate": "24/06/2004",
+    "grantDate": null,
+    "title": "\u00c1CIDO NUCLEICO ISOLADO COM ATIVIDADE PROMOTORA, VETOR E M\u00c9TODO DE PRODUZIR UMA PROTE\u00cdNA",
+    "divisionalApplication": {
+        "filingDate": "24/06/2004",
+        "applicationNumber": "PI 0411843-0"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        83413
+    ],
+    "ipcCodes": []
+}

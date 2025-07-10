@@ -1,0 +1,87 @@
+{
+    "applicationNumber": "BR 12 2019 026256-0",
+    "filingDate": "12/08/2008",
+    "grantDate": "22/06/2021",
+    "title": "APARELHO DE TRANSMISS\u00c3O POR R\u00c1DIO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-211101",
+            "priorityDate": "13/08/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-280797",
+            "priorityDate": "29/10/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/08/2008",
+        "applicationNumber": "PI 0815406-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "SEIGO NAKAO",
+        "DAICHI IMAMURA",
+        "YOSHIHIKO OGAWA",
+        "ATSUSHI MATSUMOTO",
+        "KATSUHIKO HIRAMATSU"
+    ],
+    "holders": [
+        351422
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04L 5/00",
+        "H04B 1/7075",
+        "H04J 11/00",
+        "H04L 1/16",
+        "H04J 13/00"
+    ]
+}

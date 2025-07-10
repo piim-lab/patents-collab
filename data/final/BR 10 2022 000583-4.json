@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 000583-4",
+    "filingDate": "12/01/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE PILOTAGEM DE UMA AERONAVE, AERONAVE E M\u00c9TODO PARA PILOTAR UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "21 00288",
+            "priorityDate": "13/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "J\u00c9R\u00d4ME CAPPELLE",
+        "FRAN\u00c7OIS PINEAU",
+        "WILLIAM FAYSSE"
+    ],
+    "holders": [
+        931
+    ],
+    "ipcCodes": [
+        "G01D 1/00"
+    ]
+}

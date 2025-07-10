@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2015 018241-0",
+    "filingDate": "05/02/2014",
+    "grantDate": null,
+    "title": "BACIA DE SA\u00cdDA PARA UM TANQUE DE PEIXES",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20130210",
+            "priorityDate": "05/02/2013"
+        },
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20130612",
+            "priorityDate": "06/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "ANDERS N\u00c6SS"
+    ],
+    "holders": [
+        137736
+    ],
+    "ipcCodes": [
+        "A01K 61/00"
+    ]
+}

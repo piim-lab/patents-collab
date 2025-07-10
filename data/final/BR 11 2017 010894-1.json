@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2017 010894-1",
+    "filingDate": "10/12/2015",
+    "grantDate": null,
+    "title": "PROCESSO COSM\u00c9TICO, POL\u00cdMERO DE POLISSACAR\u00cdDEO ENXERTADO E COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1462485",
+            "priorityDate": "16/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "ANDREW GREAVES"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "C08B 37/08",
+        "A61Q 19/08",
+        "A61K 8/73",
+        "A61K 8/91"
+    ]
+}

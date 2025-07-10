@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2017 009397-9",
+    "filingDate": "09/10/2015",
+    "grantDate": null,
+    "title": "COMUNICA\u00c7\u00c3O DE TAREFA CR\u00cdTICA DE BAIXA LAT\u00caNCIA E ALTA FIABILIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/075,099",
+            "priorityDate": "04/11/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/836,740",
+            "priorityDate": "26/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "KAMBIZ AZARIAN YAZDI",
+        "TINGFANG JI",
+        "JING JIANG"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04L 5/00",
+        "H04L 1/18"
+    ]
+}

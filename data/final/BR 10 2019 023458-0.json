@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 023458-0",
+    "filingDate": "07/11/2019",
+    "grantDate": null,
+    "title": "SONDA DE DADOS DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/220875",
+            "priorityDate": "14/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2799"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "GREG ALLEN SEIDEL",
+        "MARK SHERWOOD MILLER",
+        "KIMIKO CHILDRESS",
+        "MICHAEL PAUL NESNIDAL"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01N 21/47",
+        "G01P 21/02"
+    ]
+}

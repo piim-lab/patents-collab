@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2023 016295-5",
+    "filingDate": "23/02/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO MISTURADOR",
+    "nationalPhaseDate": [
+        "14/08/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2022/054543",
+        "pctDate": "23/02/2022",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR2101787",
+            "priorityDate": "24/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "MATTHIAS DARRINGTON"
+    ],
+    "holders": [
+        348763
+    ],
+    "ipcCodes": [
+        "B01F 35/00",
+        "B01F 25/432",
+        "B01F 25/422",
+        "B01F 25/421",
+        "B01F 25/452"
+    ]
+}

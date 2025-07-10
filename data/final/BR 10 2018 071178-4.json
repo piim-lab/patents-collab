@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2018 071178-4",
+    "filingDate": "15/10/2018",
+    "grantDate": "18/07/2023",
+    "title": "FORMULA\u00c7\u00c3O PESTICIDA GRANULAR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-209842",
+            "priorityDate": "30/10/2017"
+        },
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201814011373",
+            "priorityDate": "27/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [
+        "JOTARO KIDA",
+        "YUSUKE TATSUMI",
+        "DAISUKE KISHI",
+        "KOICHI MORINAGA",
+        "KOICHI NAGASHIMA"
+    ],
+    "holders": [
+        42776
+    ],
+    "ipcCodes": [
+        "A01N 25/12",
+        "A01N 51/00",
+        "A01N 25/10"
+    ]
+}

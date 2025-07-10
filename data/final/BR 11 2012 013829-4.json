@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2012 013829-4",
+    "filingDate": "08/12/2010",
+    "grantDate": null,
+    "title": "Sistema de freio a \u00famido",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2009905982",
+            "priorityDate": "08/12/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "ANDREW MILLER",
+        "ROBERT MCDOUGALL",
+        "STUART MILLGATE"
+    ],
+    "holders": [
+        92079
+    ],
+    "ipcCodes": [
+        "B60T 13/12",
+        "B60T 13/38",
+        "F16D 55/226",
+        "F16D 65/853"
+    ]
+}

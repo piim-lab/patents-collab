@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2016 007797-0",
+    "filingDate": "23/09/2014",
+    "grantDate": "29/12/2020",
+    "title": "M\u00e9todos para autoprote\u00e7\u00e3o de um dispositivo e dispositivo de autoprote\u00e7\u00e3o usando uma chave de seguran\u00e7a gerada usando dados dentro do dispositivo dispon\u00edveis antes de ligar.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/051,943",
+            "priorityDate": "11/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para avalia\u00e7\u00e3o substantiva",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "JOHN BETTENDORF"
+    ],
+    "holders": [
+        61229
+    ],
+    "ipcCodes": [
+        "G06F 21/00"
+    ]
+}

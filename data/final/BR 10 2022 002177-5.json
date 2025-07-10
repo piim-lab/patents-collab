@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 002177-5",
+    "filingDate": "04/02/2022",
+    "grantDate": null,
+    "title": "INTERRUPTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21382094.7",
+            "priorityDate": "04/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "BARBERO DOME\u00d1O JAVIER",
+        "PASCUAL ESPADA LLU\u00cdS"
+    ],
+    "holders": [
+        16868
+    ],
+    "ipcCodes": [
+        "H01H 17/02",
+        "H01H 17/16"
+    ]
+}

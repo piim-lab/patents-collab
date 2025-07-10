@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2018 068280-6",
+    "filingDate": "10/09/2018",
+    "grantDate": null,
+    "title": "TURBO-M\u00c1QUINAS E SISTEMA DE PROPULS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/709,535",
+            "priorityDate": "20/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "DAREK TOMASZ ZATORSKI",
+        "GERT JOHANNES VAN DER MERWE",
+        "BRANDON WAYNE MILLER",
+        "DANIEL ALAN NIERGARTH"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "H02K 7/116",
+        "H02K 7/18",
+        "F01D 25/16",
+        "F01D 15/10",
+        "B64D 27/10",
+        "F01D 15/12",
+        "F01D 1/26"
+    ]
+}

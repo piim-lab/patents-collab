@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 010067-0",
+    "filingDate": "20/05/2020",
+    "grantDate": null,
+    "title": "SUPORTE DE AMOSTRAS PARA ABSOR\u00c7\u00c3O DE COMPONENTES SANGU\u00cdNEOS SECOS E PROCESSO PARA OBTEN\u00c7\u00c3O DE UM ELEMENTO DE MEMBRANA COM COMPONENTES SANGU\u00cdNEOS SECOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19181249.4",
+            "priorityDate": "19/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2791"
+        }
+    ],
+    "inventors": [
+        "ALF WEIMANN",
+        "LISA HONOLD",
+        "HENNING SEISMANN",
+        "WINFRIED STOECKER"
+    ],
+    "holders": [
+        34669
+    ],
+    "ipcCodes": [
+        "A61B 5/15",
+        "B01L 9/00"
+    ]
+}

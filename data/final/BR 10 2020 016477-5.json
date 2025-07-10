@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2020 016477-5",
+    "filingDate": "13/08/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES, MEIO DE ARMAZENAMENTO N\u00c3O TRANSIT\u00d3RIO E SISTEMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-189380",
+            "priorityDate": "16/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2787"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "DAIKI KANEICHI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B65G 1/137"
+    ]
+}

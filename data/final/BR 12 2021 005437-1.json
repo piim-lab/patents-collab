@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 12 2021 005437-1",
+    "filingDate": "30/09/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA COMPENSA\u00c7\u00c3O DE MOVIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/388,264",
+            "priorityDate": "30/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/426,479",
+            "priorityDate": "22/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/431,909",
+            "priorityDate": "12/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/450,775",
+            "priorityDate": "09/03/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/09/2011",
+        "applicationNumber": "BR 11 2013 007203-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER ALSHIN",
+        "ELENA ALSHINA",
+        "JIANLE CHEN",
+        "JIN HAN",
+        "NIKOLAY SHLYAKHOV",
+        "MI HONG"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/186",
+        "H04N 19/117",
+        "H04N 19/82",
+        "H04N 19/182",
+        "H04N 19/523",
+        "G06F 17/17",
+        "H04N 19/43"
+    ]
+}

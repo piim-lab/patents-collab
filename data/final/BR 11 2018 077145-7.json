@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2018 077145-7",
+    "filingDate": "27/06/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE RASTREAMENTO DE OBJETO E DISPOSITIVO DE RASTREAMENTO DE OBJETO",
+    "nationalPhaseDate": [
+        "26/12/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2016/068978",
+        "pctDate": "27/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "FANG FANG",
+        "KUNIAKI NODA"
+    ],
+    "holders": [
+        79937
+    ],
+    "ipcCodes": [
+        "B60R 21/00",
+        "G08G 1/16"
+    ]
+}

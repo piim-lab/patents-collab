@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2021 017406-7",
+    "filingDate": "03/09/2018",
+    "grantDate": null,
+    "title": "EQUIPAMENTO PARA A CLASSIFICA\u00c7\u00c3O DE OBJETOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17189017.1",
+            "priorityDate": "01/09/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "03/09/2018",
+        "applicationNumber": "BR 11 2020 004084-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        240832
+    ],
+    "ipcCodes": []
+}

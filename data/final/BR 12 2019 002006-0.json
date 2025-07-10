@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2019 002006-0",
+    "filingDate": "22/07/2009",
+    "grantDate": null,
+    "title": "RECURSO DE INTEGRIDADE DE EMBALAGEM, FECHO INDICADOR DE INTEGRIDADE DE EMBALAGEM, E, EMBALAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/179103",
+            "priorityDate": "24/07/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/07/2009",
+        "applicationNumber": "PI 0902473-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        }
+    ],
+    "inventors": [
+        "DEBORAH LYZENGA",
+        "JEFFREY THOMAS WEBER",
+        "SCOTT WILLIAM HUFFER",
+        "BENJAMIN MICHAEL DAVIS"
+    ],
+    "holders": [
+        99648,
+        12518
+    ],
+    "ipcCodes": [
+        "B65D 75/52",
+        "B65D 43/02",
+        "B65D 75/58"
+    ]
+}

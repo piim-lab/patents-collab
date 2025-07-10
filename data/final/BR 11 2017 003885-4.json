@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2017 003885-4",
+    "filingDate": "25/12/2014",
+    "grantDate": null,
+    "title": "PRENDEDOR DE Z\u00cdPER E Z\u00cdPER FORNECIDO COM O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "PCT/JP2014/072504",
+            "priorityDate": "27/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "YAMAMOTO SYOSO",
+        "GOTO HIROSHI",
+        "MIZUNO TATSUO"
+    ],
+    "holders": [
+        7630
+    ],
+    "ipcCodes": [
+        "A44B 19/42",
+        "A44B 19/06"
+    ]
+}

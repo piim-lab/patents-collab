@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2020 002846-7",
+    "filingDate": "24/12/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA CONVERTER GR\u00c3OS DE MILHO CRUS EM UMA MASSA E PRODUTOS ACABADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/124,605",
+            "priorityDate": "26/12/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "24/12/2015",
+        "applicationNumber": "BR 11 2017 013819-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "ANDREW ANTHONY CARIDIS",
+        "ARTURO LORENZANA GUERRERO",
+        "ERNESTO ISAM ARAO TOYOHARA",
+        "MARIO LORENZANA SAUCEDO",
+        "SERGIO GONZ\u00c1LEZ GRANADOS",
+        "MIGUEL \u00c1NGEL G\u00d3MEZ ANGULO",
+        "JES\u00daS ADOLFO SANDOVAL \u00c1VILA"
+    ],
+    "holders": [
+        2428
+    ],
+    "ipcCodes": [
+        "A21D 10/00"
+    ]
+}

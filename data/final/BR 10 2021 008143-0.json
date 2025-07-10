@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 008143-0",
+    "filingDate": "28/04/2021",
+    "grantDate": null,
+    "title": "BICO DE G\u00c1S E APARELHO DE COMBUST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-107804",
+            "priorityDate": "23/06/2020"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-070766",
+            "priorityDate": "20/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "TAKAHIRO OINE"
+    ],
+    "holders": [
+        20830
+    ],
+    "ipcCodes": [
+        "B21C 1/00",
+        "F23C 5/08",
+        "B21D 13/02"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2014 001391-8",
+    "filingDate": "12/07/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO COSM\u00c9TICO PARA TRATAMENTO DE PERSPIRA\u00c7\u00c3O HUMANA E USO DE UMA COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1156660",
+            "priorityDate": "22/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/511,708",
+            "priorityDate": "26/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        }
+    ],
+    "inventors": [
+        "LAURE RAMOS",
+        "ODILE AUBRUN"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "A61Q 15/00",
+        "A61K 8/20"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 025483-4",
+    "filingDate": "12/04/2013",
+    "grantDate": null,
+    "title": "BOMBA DE BOLHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/624,042",
+            "priorityDate": "13/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "IGOR KOMAROVSKIY",
+        "JAMES MCOSTINO",
+        "JEROME S CAP",
+        "RAMADEVA C SHASTRY",
+        "YONG M LEE"
+    ],
+    "holders": [
+        144911,
+        144912,
+        144913,
+        144914,
+        101208,
+        83738
+    ],
+    "ipcCodes": [
+        "C22B 9/05",
+        "C23C 2/00",
+        "F27D 3/14"
+    ]
+}

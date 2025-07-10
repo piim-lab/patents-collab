@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2019 026248-6",
+    "filingDate": "11/12/2019",
+    "grantDate": null,
+    "title": "CAIXA DE EXIBI\u00c7\u00c3O EM COMBINA\u00c7\u00c3O DO TIPO DOIS EM UM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/217,891",
+            "priorityDate": "12/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "JEREMIAH J SWARNARAJ",
+        "DAVID J BRUNDAGE"
+    ],
+    "holders": [
+        20173
+    ],
+    "ipcCodes": [
+        "B65D 5/36",
+        "B65D 5/42",
+        "B65D 5/00",
+        "B65D 85/34",
+        "B65D 5/54",
+        "B65D 5/32",
+        "B31B 50/26",
+        "B31B 50/62",
+        "B31B 50/20",
+        "B31B 110/35",
+        "B31B 120/30",
+        "B31B 120/10"
+    ]
+}

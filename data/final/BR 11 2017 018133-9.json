@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2017 018133-9",
+    "filingDate": "26/02/2016",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA COORDENAR O PROCESSAMENTO DE DADOS POR M\u00daLTIPLOS RECURSOS DE COMPUTA\u00c7\u00c3O EM REDE, E MEIO LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/126,106",
+            "priorityDate": "27/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/126,120",
+            "priorityDate": "27/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/132,063",
+            "priorityDate": "12/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2705"
+        }
+    ],
+    "inventors": [
+        "WALTER MICHEL PITIO",
+        "PHILIP IANNACCONE",
+        "ROBERT PARK",
+        "JOHN SCHWALL",
+        "RICHARD STEINER",
+        "ALLEN ZHANG",
+        "THOMAS L POPEJOY",
+        "DANIEL MICHAEL AISEN",
+        "BRADLEY KATSUYAMA"
+    ],
+    "holders": [
+        92144
+    ],
+    "ipcCodes": [
+        "H04L 12/24",
+        "H04L 12/26",
+        "G06Q 40/04"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2012 018226-2",
+    "filingDate": "23/07/2012",
+    "grantDate": null,
+    "title": "DISPOSITIVO ESVAZIADOR DE BOLSAS DE UM PRODUTO CONGELADO DERIVADO DO SANGUE",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "201131265",
+            "priorityDate": "22/07/2011"
+        },
+        {
+            "countryCode": "ES",
+            "priorityNumber": "201131901",
+            "priorityDate": "24/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "SERGI ROURA ADELL",
+        "MIQUEL FABA VILELLA",
+        "JORDI BOIRA BONHORA"
+    ],
+    "holders": [
+        2637
+    ],
+    "ipcCodes": [
+        "B25J 13/08",
+        "B65B 69/00",
+        "B25J 15/02"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2018 073554-6",
+    "filingDate": "06/11/2007",
+    "grantDate": null,
+    "title": "COLUNA ASCENDENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/857.572",
+            "priorityDate": "08/11/2006"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0704670.9",
+            "priorityDate": "10/03/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/11/2007",
+        "applicationNumber": "PI 0718827-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        }
+    ],
+    "inventors": [
+        "JEANFRAN\u00c7OIS SAINTMARCOUX",
+        "PIERRE BRANCHUT",
+        "GREGOIRE DE",
+        "JEANFRAN\u00c7OIS SAINTMARCOUX",
+        "PIERRE BRANCHUT",
+        "GREGOIRE DE"
+    ],
+    "holders": [
+        98491
+    ],
+    "ipcCodes": [
+        "E21B 17/01",
+        "B63B 35/44"
+    ]
+}

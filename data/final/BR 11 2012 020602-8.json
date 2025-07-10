@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2012 020602-8",
+    "filingDate": "17/02/2011",
+    "grantDate": "19/05/2020",
+    "title": "Sistema para bebida de caf\u00e9",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "PCT/NL2010/050077",
+            "priorityDate": "17/02/2010"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2004274",
+            "priorityDate": "22/02/2010"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2005238",
+            "priorityDate": "17/08/2010"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2005278",
+            "priorityDate": "26/08/2010"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2005280",
+            "priorityDate": "26/08/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        }
+    ],
+    "inventors": [
+        "GERBRAND KRISTIAAN DE GRAAFF",
+        "IVO VAN OS",
+        "CHRISTIAAN JOHANNES MARIA MOORMAN",
+        "JOSEPH THEODOOR KNITEL"
+    ],
+    "holders": [
+        85288,
+        80450
+    ],
+    "ipcCodes": [
+        "A47J 31/42",
+        "A47J 31/40",
+        "A47J 42/50"
+    ]
+}

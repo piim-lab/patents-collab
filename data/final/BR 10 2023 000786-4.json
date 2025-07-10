@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2023 000786-4",
+    "filingDate": "16/01/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REPRESENTAR OBJETOS DE UMA REDE EM UMA GUI COM UM AGLOMERADO DE GR\u00c1FICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/591,504",
+            "priorityDate": "02/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "PAOLO DI FRANCESCANTONIO",
+        "ALESSANDRO CAVALLARO CORTI",
+        "MORENO CARULLO",
+        "ANDREA CARCANO"
+    ],
+    "holders": [
+        45393
+    ],
+    "ipcCodes": [
+        "H04L 41/0893",
+        "H04L 41/22"
+    ]
+}

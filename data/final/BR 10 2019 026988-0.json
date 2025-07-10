@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2019 026988-0",
+    "filingDate": "17/12/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE DETEC\u00c7\u00c3O DE PASSAGEM DE VE\u00cdCULOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "SHELDON VAN DYCK"
+    ],
+    "holders": [
+        55039
+    ],
+    "ipcCodes": [
+        "G08G 1/01",
+        "G02F 1/00",
+        "G08G 1/04",
+        "G01V 8/10"
+    ]
+}

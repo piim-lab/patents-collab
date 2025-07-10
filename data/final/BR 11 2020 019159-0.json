@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2020 019159-0",
+    "filingDate": "20/03/2019",
+    "grantDate": null,
+    "title": "CONJUNTO DE PARTES, PAINEL E TANQUE",
+    "nationalPhaseDate": [
+        "23/09/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CA2019/050341",
+        "pctDate": "20/03/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/646,666",
+            "priorityDate": "22/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "WILLIAM B\u00c9LANGER",
+        "DANIEL CLICHE",
+        "MICHEL GINGRAS",
+        "ST\u00c9PHANE POMERLEAU",
+        "MARTIN RICHARD"
+    ],
+    "holders": [
+        273199
+    ],
+    "ipcCodes": [
+        "B65D 90/08",
+        "F16S 1/10",
+        "F16S 1/02"
+    ]
+}

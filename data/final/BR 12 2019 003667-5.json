@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2019 003667-5",
+    "filingDate": "18/08/2006",
+    "grantDate": null,
+    "title": "APARELHO DE ESTA\u00c7\u00c3O BASE E M\u00c9TODO PARA RECEBER CQI",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-238953",
+            "priorityDate": "19/08/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/08/2006",
+        "applicationNumber": "PI 0614849-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        }
+    ],
+    "inventors": [
+        "TAKASHI TODA",
+        "AKIHIKO NISHIO",
+        "DAICHI IMAMURA"
+    ],
+    "holders": [
+        351422
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04L 5/00"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2013 022939-0",
+    "filingDate": "07/03/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR UMA COMPOSI\u00c7\u00c3O PARTICULADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-049571",
+            "priorityDate": "07/03/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-050807",
+            "priorityDate": "08/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "TAKASHI SHIBUYA",
+        "SEISUKE IZAWA",
+        "TOMOYUKI NISHIMOTO",
+        "SHIGEHARU FUKUDA",
+        "TOSHIO MIYAKE"
+    ],
+    "holders": [
+        83832
+    ],
+    "ipcCodes": [
+        "A61K 31/7048",
+        "C07H 17/04"
+    ]
+}

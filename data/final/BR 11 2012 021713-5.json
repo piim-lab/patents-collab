@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2012 021713-5",
+    "filingDate": "27/01/2011",
+    "grantDate": null,
+    "title": "SISTEMA DE R\u00c1DIO DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "10 02889.2",
+            "priorityDate": "19/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "GEOFFREY JAMES AKWEI BADDOO",
+        "MICHAEL NAYLOR",
+        "ANDREW PETER MYERS"
+    ],
+    "holders": [
+        97908
+    ],
+    "ipcCodes": [
+        "H04B 7/185",
+        "B64D 11/00"
+    ]
+}

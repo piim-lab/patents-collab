@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2023 000033-9",
+    "filingDate": "02/01/2023",
+    "grantDate": null,
+    "title": "V\u00c1LVULA DE EXCESSO DE FLUXO COM INDICADOR DE INSTALA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/579,939",
+            "priorityDate": "20/01/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "DAVID L ROBISON",
+        "RANDALL L SCHULTZ",
+        "MATTHEW G EYE",
+        "PETR SRAMEK"
+    ],
+    "holders": [
+        50922
+    ],
+    "ipcCodes": [
+        "F16K 17/30"
+    ]
+}

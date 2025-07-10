@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2022 014499-0",
+    "filingDate": "21/07/2022",
+    "grantDate": null,
+    "title": "FILTRO COM ENVOLT\u00d3RIO ELETRICAMENTE CONDUTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/383,204",
+            "priorityDate": "22/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "KYLE R KATHAN"
+    ],
+    "holders": [
+        1377
+    ],
+    "ipcCodes": [
+        "B01D 35/06"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2022 021165-5",
+    "filingDate": "19/10/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE COMUNICA\u00c7\u00c3O PARA DETEC\u00c7\u00c3O DE MENSAGENS COM BASE NA INTENSIDADE DO SINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/510,823",
+            "priorityDate": "26/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "CARL L HAAS",
+        "PADAM DHOJ SWAR",
+        "BRIAN KURZ",
+        "RICHARD S KLEMANSKI",
+        "JAMES COWAN",
+        "DANIEL MCGEE"
+    ],
+    "holders": [
+        12441
+    ],
+    "ipcCodes": [
+        "H04W 4/12",
+        "H04W 24/08",
+        "H04W 24/10",
+        "H04B 17/318",
+        "H04B 17/20"
+    ]
+}

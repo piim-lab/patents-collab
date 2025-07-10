@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2017 021318-4",
+    "filingDate": "08/04/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR, E M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR",
+    "nationalPhaseDate": [
+        "04/10/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/057799",
+        "pctDate": "08/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/145,026",
+            "priorityDate": "09/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "HENRY LIN",
+        "SITHARTHAN KAMALAKARAN"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "G06F 19/18"
+    ]
+}

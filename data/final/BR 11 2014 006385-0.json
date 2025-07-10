@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2014 006385-0",
+    "filingDate": "19/09/2012",
+    "grantDate": "02/08/2022",
+    "title": "BASE DE SUPORTE DE TERMINAL PORT\u00c1TIL DE INFORMA\u00c7\u00d5ES E TELEFONE DE MESA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-208533",
+            "priorityDate": "26/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "JUN TAMATSU"
+    ],
+    "holders": [
+        116092
+    ],
+    "ipcCodes": [
+        "H04M 1/04"
+    ]
+}

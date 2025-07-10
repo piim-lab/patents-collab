@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 10 2015 032643-2",
+    "filingDate": "28/12/2015",
+    "grantDate": "19/07/2022",
+    "title": "SISTEMA DE INSPE\u00c7\u00c3O DE SEGURAN\u00c7A INTEGRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201410837014.9",
+            "priorityDate": "29/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [
+        "BO TANG",
+        "ZHONGRONG YANG",
+        "ZHIQIANG CHEN",
+        "YUANJING LI",
+        "QINCHAN WANG",
+        "LONG TIAN",
+        "YANXIANG XU"
+    ],
+    "holders": [
+        12100
+    ],
+    "ipcCodes": [
+        "A61B 5/00",
+        "G01V 15/00",
+        "G09F 3/02",
+        "G06F 3/00",
+        "G01N 33/22",
+        "G01N 33/20",
+        "H04N 7/18",
+        "B64F 1/36",
+        "G06F 3/02",
+        "G01N 23/04",
+        "G08B 25/00",
+        "G08B 17/117",
+        "G08B 17/12",
+        "G06Q 50/26",
+        "F23M 11/00",
+        "G08B 25/14",
+        "H04N 5/32",
+        "A45C 13/42",
+        "G01T 7/12",
+        "H05G 1/00"
+    ]
+}

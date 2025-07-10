@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2018 004395-4",
+    "filingDate": "28/06/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO E EQUIPAMENTO PARA POSICIONAMENTO H\u00cdBRIDO DE REDE SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/483,094",
+            "priorityDate": "27/06/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/06/2004",
+        "applicationNumber": "PI 0411911-8"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "MARK MOEGLEIN",
+        "DOUGLAS N ROWITCH",
+        "WYATT RILEY",
+        "JAMES D DELOACH JR",
+        "LEONID SHEYNBLAT",
+        "MARK MOEGLEIN",
+        "DOUGLAS N ROWITCH",
+        "WYATT RILEY",
+        "JAMES D DELOACH JR",
+        "LEONID SHEYNBLAT",
+        "MARK MOEGLEIN",
+        "DOUGLAS N ROWITCH",
+        "WYATT RILEY",
+        "LEONID SHEYNBLAT",
+        "JAMES D DELOACH JR"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G01S 19/46",
+        "G01S 1/00"
+    ]
+}

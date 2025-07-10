@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2019 019739-7",
+    "filingDate": "22/03/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODOS IMPLEMENTADOS EM UMA UNIDADE DE TRANSMISS\u00c3O/RECEP\u00c7\u00c3O SEM FIO E EM UM DISPOSITIVO, E, DISPOSITIVO",
+    "nationalPhaseDate": [
+        "20/09/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/023742",
+        "pctDate": "22/03/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/475,221",
+            "priorityDate": "22/03/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/500,921",
+            "priorityDate": "03/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/524,252",
+            "priorityDate": "23/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/565,912",
+            "priorityDate": "29/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [
+        "ERDEM BALA",
+        "IL LEE",
+        "AFSHIN HAGHIGHAT",
+        "ALPHAN SAHIN",
+        "RUI YANG",
+        "FRANK LA SITA"
+    ],
+    "holders": [
+        225378
+    ],
+    "ipcCodes": [
+        "H04L 27/26"
+    ]
+}

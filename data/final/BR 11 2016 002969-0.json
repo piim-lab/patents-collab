@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2016 002969-0",
+    "filingDate": "23/10/2014",
+    "grantDate": null,
+    "title": "Ceifeira debulhadora",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1319215.8",
+            "priorityDate": "31/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        }
+    ],
+    "inventors": [
+        "MORTEN LETH BILDE"
+    ],
+    "holders": [
+        118888
+    ],
+    "ipcCodes": [
+        "A01F 12/44"
+    ]
+}

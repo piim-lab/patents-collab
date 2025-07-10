@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2012 001827-6",
+    "filingDate": "26/01/2012",
+    "grantDate": null,
+    "title": "MEDIDOR DE VAZ\u00c3O M\u00c1SSICA TIPO CORIOLIS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 010 178.0",
+            "priorityDate": "02/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        }
+    ],
+    "inventors": [
+        "YOUSIF HUSSAIN",
+        "TAO WANG"
+    ],
+    "holders": [
+        297
+    ],
+    "ipcCodes": [
+        "G01F 1/84"
+    ]
+}

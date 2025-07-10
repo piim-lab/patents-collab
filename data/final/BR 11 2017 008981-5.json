@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2017 008981-5",
+    "filingDate": "29/10/2015",
+    "grantDate": "13/09/2022",
+    "title": "DISPOSITIVO REMOVEDOR DE PELO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/526,875",
+            "priorityDate": "29/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2798"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "SHAY KEREN",
+        "BENJAMIN PERACH",
+        "SHARON PERACH"
+    ],
+    "holders": [
+        190168,
+        190169,
+        190167
+    ],
+    "ipcCodes": [
+        "A61B 17/50",
+        "A45D 26/00",
+        "B65H 37/02"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2016 002821-0",
+    "filingDate": "12/08/2014",
+    "grantDate": null,
+    "title": "\u201cARTIGO PARA TRATAMENTO DE FERIDAS COM FIBRAS SUPERABSORVENTES E PART\u00cdCULAS SUPERABSORVENTES\u201d",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 108 734.5",
+            "priorityDate": "12/08/2013"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2013 104 893.3",
+            "priorityDate": "31/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "15.40",
+            "description": "Notifica\u00e7\u00e3o de regulariza\u00e7\u00e3o do processo em andamento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "BIRGIT RIESINGER"
+    ],
+    "holders": [
+        96442
+    ],
+    "ipcCodes": [
+        "C08L 33/10",
+        "A61L 15/28",
+        "A61L 15/60",
+        "A61L 15/46",
+        "C08L 33/08"
+    ]
+}

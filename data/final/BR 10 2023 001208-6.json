@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2023 001208-6",
+    "filingDate": "23/01/2023",
+    "grantDate": null,
+    "title": "PROCESSO PARA OBTEN\u00c7\u00c3O DE PRODUTO A BASE DE P\u00d3S-MET\u00c1LICOS E PRODUTO OBTIDO PELO PROCESSO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "28.10.1",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante idoso",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2809"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "FERNANDO GIOVANINI"
+    ],
+    "holders": [
+        77974
+    ],
+    "ipcCodes": [
+        "B29C 45/00",
+        "B29C 45/37",
+        "B29C 45/18",
+        "B29B 11/08"
+    ]
+}

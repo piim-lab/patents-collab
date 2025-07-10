@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2012 022931-1",
+    "filingDate": "24/03/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA IDENTIFICAR DISCREP\u00c2NCIAS DE TEMPORIZA\u00c7\u00d5ES DE REL\u00d3GIO EM PELO MENOS UM REL\u00d3GIO DE INTERESSE QUE ESTEJA ASSOCIADO COM UM RECEPTOR S\u00cdSMICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/318090",
+            "priorityDate": "26/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "PAUL JAMES HATCHELL",
+        "KURANG JVALANT MEHTA"
+    ],
+    "holders": [
+        13060
+    ],
+    "ipcCodes": [
+        "G01V 1/38",
+        "G01V 1/30",
+        "G01V 1/36",
+        "G01V 1/26"
+    ]
+}

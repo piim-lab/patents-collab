@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2014 001999-1",
+    "filingDate": "26/07/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, FORMA DE DOSAGEM UNIT\u00c1RIA, FORMULA\u00c7\u00c3O DE GRANULA\u00c7\u00c3O A \u00daMIDO, FORMULA\u00c7\u00c3O DE COMPACTA\u00c7\u00c3O POR ROLETES, FORMULA\u00c7\u00c3O DE COMPRESS\u00c3O DIRETA, E, M\u00c9TODO PARA A PREPARA\u00c7\u00c3O DE UMA COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/512,621",
+            "priorityDate": "28/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2760"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        107668
+    ],
+    "ipcCodes": []
+}

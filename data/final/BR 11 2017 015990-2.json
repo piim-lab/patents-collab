@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2017 015990-2",
+    "filingDate": "28/01/2016",
+    "grantDate": null,
+    "title": "PROCESSO DE PR\u00c9-TRATAMENTO DE UMA MAT\u00c9RIA-PRIMA LIGNOCELUL\u00d3SICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15425010.4",
+            "priorityDate": "09/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "GUIDO GHISOLFI FALECIDO",
+        "ETTORE BONALDI"
+    ],
+    "holders": [
+        139449
+    ],
+    "ipcCodes": [
+        "D21C 1/02"
+    ]
+}

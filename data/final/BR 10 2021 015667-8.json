@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 015667-8",
+    "filingDate": "09/08/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONITORAR UM CARRO TORPEDO E SISTEMA DE MONITORAMENTO DE CARRO TORPEDO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2020 121 242.9",
+            "priorityDate": "12/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "VOLKER LANGER",
+        "ALEXANDER GRENZ"
+    ],
+    "holders": [
+        69476
+    ],
+    "ipcCodes": [
+        "G01S 5/16",
+        "G01F 23/22",
+        "B22D 41/12"
+    ]
+}

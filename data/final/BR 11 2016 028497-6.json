@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 028497-6",
+    "filingDate": "24/04/2015",
+    "grantDate": "17/05/2022",
+    "title": "M\u00c9TODO E APARELHO DE EXAME PARA EXAMINAR PAREDES INTERNAS DE UM CORPO OCO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14172886.5",
+            "priorityDate": "18/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2772"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "WOLFGANG ULLRICH",
+        "FLORIAN BADER"
+    ],
+    "holders": [
+        183812
+    ],
+    "ipcCodes": [
+        "G01N 21/954",
+        "G02B 23/24",
+        "G01B 11/14"
+    ]
+}

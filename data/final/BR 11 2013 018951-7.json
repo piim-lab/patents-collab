@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2013 018951-7",
+    "filingDate": "18/01/2012",
+    "grantDate": null,
+    "title": "FORMULA\u00c7\u00d5ES DE TESTOSTERONA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 152210.8",
+            "priorityDate": "26/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/436,207",
+            "priorityDate": "26/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "ARNAUD GRENIER",
+        "DARIO N CARRARA"
+    ],
+    "holders": [
+        86746
+    ],
+    "ipcCodes": [
+        "A61K 47/10",
+        "A61K 31/58",
+        "A61K 9/00",
+        "A61K 31/568",
+        "A61K 9/06",
+        "A61P 5/26"
+    ]
+}

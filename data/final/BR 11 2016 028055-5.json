@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2016 028055-5",
+    "filingDate": "26/05/2015",
+    "grantDate": null,
+    "title": "Sistema e m\u00e9todo de rastreamento de entregas.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/004,771",
+            "priorityDate": "29/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.9",
+            "description": "Altera\u00e7\u00e3o de Sede em Exig\u00eancia",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "ETHAN HILSLEY",
+        "BARRINGTON HILSLEY"
+    ],
+    "holders": [
+        183552,
+        183553
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G09F 3/03"
+    ]
+}

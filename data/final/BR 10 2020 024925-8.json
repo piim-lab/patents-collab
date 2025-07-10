@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 024925-8",
+    "filingDate": "07/12/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE EXIBI\u00c7\u00c3O DE VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/776,140",
+            "priorityDate": "29/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "ANDREW M COLOSKY",
+        "GREGORY J REINHART",
+        "DOUGLAS J FELDMANN",
+        "ADAM E BOGENRIEF",
+        "LUCIANA MUELLER",
+        "THEODORE J SHINNERS"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G01C 21/32",
+        "H04W 4/029",
+        "A01C 7/18",
+        "G05D 1/02",
+        "G01C 21/36"
+    ]
+}

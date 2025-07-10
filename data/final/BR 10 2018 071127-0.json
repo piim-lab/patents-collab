@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 10 2018 071127-0",
+    "filingDate": "11/10/2018",
+    "grantDate": null,
+    "title": "ABA PARA USO COM TAMPA DE LATA E TAMPAS DE LATA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/782,656",
+            "priorityDate": "12/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "15.22",
+            "description": "Devolu\u00e7\u00e3o de Prazo Concedida",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "25.5",
+            "description": "Altera\u00e7\u00e3o de Nome Indeferida",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "MICHAEL R GOGOLA",
+        "RANDALL G FORREST"
+    ],
+    "holders": [
+        42768
+    ],
+    "ipcCodes": [
+        "B65D 17/28",
+        "B21D 51/38"
+    ]
+}

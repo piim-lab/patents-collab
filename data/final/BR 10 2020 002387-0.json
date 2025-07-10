@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2020 002387-0",
+    "filingDate": "04/02/2020",
+    "grantDate": null,
+    "title": "ALIMENTADOR DE AVES",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2001207.6",
+            "priorityDate": "29/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "ROBSON PAULETO CAMARGO",
+        "SOAK KIAN LOO",
+        "ZUBER BIN MOHAMAD",
+        "CHING CHUA TEH",
+        "BAK YAN GOH"
+    ],
+    "holders": [
+        131065,
+        19015
+    ],
+    "ipcCodes": [
+        "A01K 39/012"
+    ]
+}

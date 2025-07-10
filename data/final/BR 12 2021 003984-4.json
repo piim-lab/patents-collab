@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2021 003984-4",
+    "filingDate": "06/11/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O PARA A PREVEN\u00c7\u00c3O OU TRATAMENTO DE DIABETES, COMPLICA\u00c7\u00d5ES DIAB\u00c9TICAS OU DIABESIDADE, USO DA COMPOSI\u00c7\u00c3O PARA A PREPARA\u00c7\u00c3O DE UM MEDICAMENTO PARA A PREVEN\u00c7\u00c3O OU TRATAMENTO DE DIABETES, COMPLICA\u00c7\u00d5ES DIAB\u00c9TICAS OU DIABESIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2012-0124724",
+            "priorityDate": "06/11/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/11/2013",
+        "applicationNumber": "BR 11 2015 010203-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "JIN SUN KIM",
+        "DAE JIN KIM",
+        "SANG HYUN LEE",
+        "SUNG YOUB JUNG",
+        "SE CHANG KWON"
+    ],
+    "holders": [
+        127620
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61K 38/26",
+        "C07K 14/605"
+    ]
+}

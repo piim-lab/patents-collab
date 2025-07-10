@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2014 019395-9",
+    "filingDate": "07/02/2013",
+    "grantDate": null,
+    "title": "Processo para a acetila\u00e7\u00e3o de madeira, madeira acetilada e pe\u00e7a de madeira acetilada",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12154335.9",
+            "priorityDate": "07/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "BERNARDUS JOZEF MARIA POL",
+        "JONATHAN PHILIP ALEXANDER",
+        "HENDRIKUS PETRUS MARIA BONGERS"
+    ],
+    "holders": [
+        3627
+    ],
+    "ipcCodes": [
+        "C08H 8/00",
+        "C08B 3/06",
+        "B27K 5/00",
+        "B27K 3/08"
+    ]
+}

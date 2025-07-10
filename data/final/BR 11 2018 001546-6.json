@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2018 001546-6",
+    "filingDate": "19/07/2016",
+    "grantDate": null,
+    "title": "FUNCIONAMENTO EM BANDA ESTREITA COM TAXA DE AMOSTRAGEM REDUZIDA",
+    "nationalPhaseDate": [
+        "24/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/042890",
+        "pctDate": "19/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/197,563",
+            "priorityDate": "27/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/212,595",
+            "priorityDate": "18/07/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "JING LEI",
+        "HAO XU",
+        "YONGBIN WEI",
+        "DURGA PRASAD MALLADI",
+        "PETER GAAL"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 27/26",
+        "H03H 17/06"
+    ]
+}

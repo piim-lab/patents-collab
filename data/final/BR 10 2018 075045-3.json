@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 075045-3",
+    "filingDate": "03/12/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/832,335",
+            "priorityDate": "05/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "JAMES R SINCLAIR"
+    ],
+    "holders": [
+        1208,
+        385767,
+        65199
+    ],
+    "ipcCodes": []
+}

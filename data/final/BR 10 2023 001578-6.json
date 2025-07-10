@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2023 001578-6",
+    "filingDate": "27/01/2023",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE PAVIMENTA\u00c7\u00c3O COM SISTEMA FOTOVOLTAICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "22154287.1",
+            "priorityDate": "31/01/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "NICOLE ANGERMANN"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2014 019693-5",
+    "filingDate": "08/08/2014",
+    "grantDate": null,
+    "title": "SISTEMA DIGITAL DE PESQUISA DE VAZAMENTO",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.22",
+            "description": "Exig\u00eancia preliminar - pedidos sem buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2761"
+        }
+    ],
+    "inventors": [
+        "LINILSON RODRIGUES PADOVESE",
+        "MARCELO KENJI MIKI",
+        "ALLAN SADDI ARNESEN"
+    ],
+    "holders": [
+        222,
+        3270
+    ],
+    "ipcCodes": [
+        "G01H 17/00",
+        "F17D 5/06",
+        "G01M 3/04"
+    ]
+}

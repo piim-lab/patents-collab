@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 011198-1",
+    "filingDate": "03/06/2020",
+    "grantDate": null,
+    "title": "SISTEMA PARA VEDAR UM COMPARTIMENTO, DOBRADI\u00c7A, E, M\u00c9TODO PARA VEDAR UM COMPARTIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/424,979",
+            "priorityDate": "29/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "DOUGLAS A BROWN",
+        "JAMES P SCHALLA",
+        "JUSTIN E BALVANZ",
+        "THOMAS J MORAN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "E06B 7/22",
+        "E05F 1/06"
+    ]
+}

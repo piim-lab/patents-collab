@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2018 001366-8",
+    "filingDate": "22/07/2016",
+    "grantDate": null,
+    "title": "?PLANTA?",
+    "nationalPhaseDate": [
+        "23/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/067567",
+        "pctDate": "22/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102015000038073",
+            "priorityDate": "24/07/2015"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102015000038051",
+            "priorityDate": "24/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "GIUSEPPE IURISCI",
+        "SIMONE CORBO",
+        "GIUSEPPE SASSANELLI"
+    ],
+    "holders": [
+        33992
+    ],
+    "ipcCodes": [
+        "F04D 29/28",
+        "F04D 25/16",
+        "F04D 17/12",
+        "F04D 27/02",
+        "F04D 19/02"
+    ]
+}

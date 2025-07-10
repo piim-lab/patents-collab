@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2018 000281-3",
+    "filingDate": "05/01/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE SUSPENS\u00c3O, E, VE\u00cdCULO DE TRABALHO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/446,924",
+            "priorityDate": "01/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "GALEN C THOMAS",
+        "STEVEN R WHITEMAN",
+        "TRENT A LUOMA"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B62D 55/104",
+        "B62D 55/08",
+        "B62D 55/116"
+    ]
+}

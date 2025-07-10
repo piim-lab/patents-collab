@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 011391-2",
+    "filingDate": "09/06/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AJUSTAR AUTOMATICAMENTE A POSI\u00c7\u00c3O DE UM IMPLEMENTO E SISTEMA PARA CONTROLAR A OPERA\u00c7\u00c3O DE UM VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/349290",
+            "priorityDate": "16/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "NAVNEET GULATI",
+        "ADITYA SINGH",
+        "DUQIANG WU"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "E02F 3/43"
+    ]
+}

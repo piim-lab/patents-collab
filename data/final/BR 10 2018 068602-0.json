@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2018 068602-0",
+    "filingDate": "13/09/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA COLETAR MATERIAL, E, SISTEMA DE CONTROLE PARA UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/800,923",
+            "priorityDate": "01/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2759"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2765"
+        }
+    ],
+    "inventors": [
+        "PETER A JOHNSON",
+        "BRYAN E DUGAS",
+        "JOHN A DIGHTON",
+        "RAHUL GUNDA"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 90/10",
+        "A01D 90/02",
+        "B60P 1/42"
+    ]
+}

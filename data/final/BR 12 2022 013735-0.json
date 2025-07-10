@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2022 013735-0",
+    "filingDate": "08/09/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE TRAVAMENTO DE PONTO DE DENTE PARA FERRAMENTAS DE ENGATE AO SOLO E M\u00c9TODO PARA AJUSTAR O SISTEMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/385,719",
+            "priorityDate": "09/09/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/479,056",
+            "priorityDate": "30/03/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/09/2017",
+        "applicationNumber": "BR 10 2017 019214-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "NICHOLAS VOELZ",
+        "RICHARD NICOSON",
+        "JAMES POPP",
+        "MATT GROSS"
+    ],
+    "holders": [
+        4037
+    ],
+    "ipcCodes": [
+        "E02F 9/28",
+        "E02F 3/00"
+    ]
+}

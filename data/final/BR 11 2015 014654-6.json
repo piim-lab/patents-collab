@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2015 014654-6",
+    "filingDate": "15/05/2013",
+    "grantDate": null,
+    "title": "SOLUBILIZADO DE CURCUMINA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2012 012 130.8",
+            "priorityDate": "19/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        }
+    ],
+    "inventors": [
+        "DARIUSH BEHNAM"
+    ],
+    "holders": [
+        157986
+    ],
+    "ipcCodes": [
+        "A61K 9/107",
+        "A23L 33/105",
+        "A23D 7/005",
+        "A23L 5/40"
+    ]
+}

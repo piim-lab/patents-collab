@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 13 2016 005866-9",
+    "filingDate": "17/03/2016",
+    "grantDate": "12/07/2022",
+    "title": "PROCESSO PARA FORMA\u00c7\u00c3O DE UM GRADIL MODULAR NA POR\u00c7\u00c3O FRONTAL DE UMA LAJE",
+    "parentApplication": {
+        "filingDate": "30/06/2014",
+        "applicationNumber": "BR 10 2014 016318-2"
+    },
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "212",
+            "description": "Nulidade prejudicada",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "ANTONIO BENEDITO CARDOSO",
+        "LEONARDO DE ALBUQUERQUE MARANH\u00c3O"
+    ],
+    "holders": [
+        2579,
+        12711
+    ],
+    "ipcCodes": [
+        "E04F 11/18",
+        "E04H 17/16"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "applicationNumber": "BR 12 2020 013215-9",
+    "filingDate": "14/06/2011",
+    "grantDate": "03/11/2021",
+    "title": "SUBSTRATO TENDO UMA ESTRUTURA CONDUTORA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/354,380",
+            "priorityDate": "14/06/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/354,388",
+            "priorityDate": "14/06/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/354,393",
+            "priorityDate": "14/06/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/06/2011",
+        "applicationNumber": "BR 11 2012 031670-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "IAN J FORSTER",
+        "CHRISTIAN K OELSNER",
+        "ROBERT REVELS",
+        "BENJAMIN KINGSTON",
+        "PETER COCKERELL"
+    ],
+    "holders": [
+        83177
+    ],
+    "ipcCodes": [
+        "B32B 7/12",
+        "B32B 38/10",
+        "B32B 15/08",
+        "H05K 3/04"
+    ]
+}

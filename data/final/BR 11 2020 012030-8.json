@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2020 012030-8",
+    "filingDate": "14/12/2018",
+    "grantDate": null,
+    "title": "CONJUNTO DE PAIN\u00c9IS",
+    "nationalPhaseDate": [
+        "15/06/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT SE2018/051319",
+        "pctDate": "14/12/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1751626-1",
+            "priorityDate": "22/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN BOO",
+        "MARCUS ST\u00c5HL",
+        "ANDERS NILSSON"
+    ],
+    "holders": [
+        81110
+    ],
+    "ipcCodes": [
+        "E04F 15/02",
+        "E04F 13/08"
+    ]
+}

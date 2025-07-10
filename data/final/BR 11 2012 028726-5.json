@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2012 028726-5",
+    "filingDate": "13/09/2012",
+    "grantDate": "13/07/2021",
+    "title": "M\u00c9TODO PARA PREPARAR UMA COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA COM BAIXO TEOR DE CLORETO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/644,122",
+            "priorityDate": "08/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "211",
+            "description": "Sobrestado o Processo Administrativo",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "EVAN LEWIS",
+        "PETER SHWONEK",
+        "SEAN DALZIEL",
+        "MOUHANNAD JUMAA"
+    ],
+    "holders": [
+        100533
+    ],
+    "ipcCodes": [
+        "A61K 38/55"
+    ]
+}

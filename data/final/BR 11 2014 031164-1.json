@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2014 031164-1",
+    "filingDate": "30/05/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR MASTERBATCH DE NUCLEA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-134890",
+            "priorityDate": "14/06/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-247822",
+            "priorityDate": "09/11/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-247823",
+            "priorityDate": "09/11/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-247825",
+            "priorityDate": "09/11/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-247826",
+            "priorityDate": "09/11/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-247824",
+            "priorityDate": "09/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "NAOSHI KAWAMOTO",
+        "TAKASHI AYABE",
+        "ATSUSHI SAKAI",
+        "TETSUYA SEGUCHI"
+    ],
+    "holders": [
+        86091
+    ],
+    "ipcCodes": [
+        "C08F 2/44",
+        "C08L 23/00",
+        "C08K 5/098",
+        "C08J 3/22",
+        "C08K 5/527"
+    ]
+}

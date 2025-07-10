@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2019 003726-1",
+    "filingDate": "22/02/2019",
+    "grantDate": null,
+    "title": "CONJUNTO DE UNIDADE DE ACIONAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/634,313",
+            "priorityDate": "23/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "SHANE T SMITH"
+    ],
+    "holders": [
+        37959
+    ],
+    "ipcCodes": [
+        "B60K 17/00",
+        "F16D 1/00"
+    ]
+}

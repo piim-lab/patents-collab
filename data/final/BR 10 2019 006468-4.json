@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2019 006468-4",
+    "filingDate": "29/03/2019",
+    "grantDate": null,
+    "title": "GELADEIRA, SISTEMA DE CONTROLE DE INVENT\u00c1RIO PARA UMA GELADEIRA E M\u00c9TODO PARA DETERMINAR UM ESTOQUE DE GELADEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/650,479",
+            "priorityDate": "30/03/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/366,348",
+            "priorityDate": "27/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "EDUARDO MALDAUN BARRETO",
+        "VINICIUS BIANCHEZZI",
+        "RAFAEL BOLZAN",
+        "NEOMAR GIACOMINI",
+        "VERONICA MARIN",
+        "JUCEMAR MEDEIROS",
+        "RAFAEL KIEMO PFAU SANTOS",
+        "MARCOS SOUZA",
+        "WENDEL DE OLIVEIRA ROSSI",
+        "GUSTAVO RACY"
+    ],
+    "holders": [
+        2420
+    ],
+    "ipcCodes": [
+        "F25D 29/00",
+        "G01G 19/18",
+        "G01G 19/40"
+    ]
+}

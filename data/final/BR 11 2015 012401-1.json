@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2015 012401-1",
+    "filingDate": "29/11/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE UM COMPOSTO DA F\u00d3RMULA Z",
+    "nationalPhaseDate": [
+        "28/05/2015"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2013/075107",
+        "pctDate": "29/11/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "3690/DEL/2012",
+            "priorityDate": "30/11/2012"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1300649.9",
+            "priorityDate": "15/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "SONDRE NILSEN",
+        "UMAMAHESHWAR P MOKKAPATI"
+    ],
+    "holders": [
+        92548
+    ],
+    "ipcCodes": [
+        "C07D 209/88"
+    ]
+}

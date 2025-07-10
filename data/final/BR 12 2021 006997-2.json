@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2021 006997-2",
+    "filingDate": "18/08/2014",
+    "grantDate": null,
+    "title": "CONJUNTO DE CATETER E CONJUNTO PROTETOR DE AGULHA PARA O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1314953.9",
+            "priorityDate": "21/08/2013"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1315401.8",
+            "priorityDate": "29/08/2013"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201310527778.3",
+            "priorityDate": "31/10/2013"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201320679130.3",
+            "priorityDate": "31/10/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/08/2014",
+        "applicationNumber": "BR 11 2015 021394-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "KEVIN WOEHR"
+    ],
+    "holders": [
+        42332
+    ],
+    "ipcCodes": [
+        "A61M 25/00",
+        "A61M 25/06",
+        "A61M 39/22"
+    ]
+}

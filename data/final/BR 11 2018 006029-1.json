@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2018 006029-1",
+    "filingDate": "17/10/2016",
+    "grantDate": null,
+    "title": "\u00d3LEO AROM\u00c1TICO DE BAIXO VOC E BAIXO ODOR",
+    "nationalPhaseDate": [
+        "26/03/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/057352",
+        "pctDate": "17/10/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 62/243,426",
+            "priorityDate": "19/10/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "SZE NG"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "C05F 3/00",
+        "C05C 9/00",
+        "C05C 3/00",
+        "C05C 1/00",
+        "C05G 3/08",
+        "C07F 9/22"
+    ]
+}

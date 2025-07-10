@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2019 024638-6",
+    "filingDate": "26/12/2008",
+    "grantDate": "15/09/2020",
+    "title": "APARELHO DE RADIOTRANSMISS\u00c3O E M\u00c9TODO DE RADIOTRANSMISS\u00c3O REALIZADO PELO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-000199",
+            "priorityDate": "04/01/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/12/2008",
+        "applicationNumber": "PI 0822232-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "SADAKI FUTAGI",
+        "DAICHI IMAMURA",
+        "SEIGO NAKAO",
+        "TOMOFUMI TAKATA"
+    ],
+    "holders": [
+        351422
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04W 72/04",
+        "H04L 5/00",
+        "H04W 28/18"
+    ]
+}

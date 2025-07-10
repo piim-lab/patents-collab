@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2017 022842-8",
+    "filingDate": "23/10/2017",
+    "grantDate": null,
+    "title": "CADEIA DE ROTEAMENTO DE DADOS UNIFORMES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/410.918",
+            "priorityDate": "21/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2624"
+        }
+    ],
+    "inventors": [
+        "ARIK HALPERIN",
+        "YARIV TRABELSI",
+        "DINOR ADAM VERTERGAARD LEVI"
+    ],
+    "holders": [
+        33415
+    ],
+    "ipcCodes": [
+        "H04L 12/24",
+        "H04L 12/26",
+        "H04L 12/721",
+        "H04L 12/707",
+        "H04L 12/703",
+        "H04L 12/753"
+    ]
+}

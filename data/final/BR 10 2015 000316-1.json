@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2015 000316-1",
+    "filingDate": "07/01/2015",
+    "grantDate": null,
+    "title": "ASSENTO, ESPECIALMENTE ASSENTO DE PASSAGEIRO, E VE\u00cdCULO, ESPECIALMENTE \u00d4NIBUS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102014001017.1",
+            "priorityDate": "25/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "MICHAEL SCHERELLO"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "B60N 2/68",
+        "B60N 2/75"
+    ]
+}

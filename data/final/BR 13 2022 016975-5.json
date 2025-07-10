@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 13 2022 016975-5",
+    "filingDate": "25/08/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE FLUXO DE LIQUIDEZ VAREJISTA DE VALOR E M\u00c9TODO OPERACIONAL",
+    "parentApplication": {
+        "filingDate": "11/05/2022",
+        "applicationNumber": "BR 10 2022 009198-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "VALTER MAGELA PONTES"
+    ],
+    "holders": [
+        203
+    ],
+    "ipcCodes": [
+        "G07F 19/00",
+        "G06Q 40/02",
+        "G06Q 20/06",
+        "G06Q 20/30"
+    ]
+}

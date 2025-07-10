@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2017 017214-3",
+    "filingDate": "12/02/2016",
+    "grantDate": null,
+    "title": "MONITORAMENTO DE PRODUTOS DE PENETRA\u00c7\u00c3O DE SOLO PARA EQUIPAMENTO DE TRABALHO NO SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/116,216",
+            "priorityDate": "13/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/151,124",
+            "priorityDate": "22/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/175,109",
+            "priorityDate": "12/06/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/198,552",
+            "priorityDate": "29/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/234,463",
+            "priorityDate": "29/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER M CARPENTER",
+        "KARSTEN D ZUENDEL",
+        "NOAH D COWGILL",
+        "JOSHUA K HOYT",
+        "DAVID J SAYLER"
+    ],
+    "holders": [
+        124482
+    ],
+    "ipcCodes": [
+        "E02F 9/26",
+        "E02F 3/00"
+    ]
+}

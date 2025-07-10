@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2020 022477-8",
+    "filingDate": "04/11/2020",
+    "grantDate": null,
+    "title": "APARELHO, E M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/992,370",
+            "priorityDate": "20/03/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/070,908",
+            "priorityDate": "14/10/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/070,911",
+            "priorityDate": "14/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "MICHAEL LOTT",
+        "COSME SALAZAR",
+        "MICHAEL LOTT",
+        "COSME SALAZAR"
+    ],
+    "holders": [
+        63026
+    ],
+    "ipcCodes": [
+        "G06Q 10/00"
+    ]
+}

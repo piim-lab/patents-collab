@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2022 026414-3",
+    "filingDate": "25/06/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA DETECTAR SARS-COV-2, INFLUENZA E RSV",
+    "nationalPhaseDate": [
+        "22/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/039082",
+        "pctDate": "25/06/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/044,902",
+            "priorityDate": "26/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/074,809",
+            "priorityDate": "04/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "VICTOR CHU",
+        "SERGEY LOKHOV",
+        "OLIVER NANASSY",
+        "JOSEPH RICHARD LEUZZI",
+        "JUN WANG"
+    ],
+    "holders": [
+        145595
+    ],
+    "ipcCodes": [
+        "C12Q 1/686",
+        "C12Q 1/6888"
+    ]
+}

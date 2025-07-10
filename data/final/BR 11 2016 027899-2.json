@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2016 027899-2",
+    "filingDate": "30/03/2016",
+    "grantDate": "17/03/2020",
+    "title": "SISTEMA DISPENSADOR MELHORADO",
+    "priorityClaims": [
+        {
+            "countryCode": "CO",
+            "priorityNumber": "15131804",
+            "priorityDate": "09/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.1",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2585"
+        }
+    ],
+    "inventors": [
+        "ELENA IBARRECHE FONSECA",
+        "DANNY BOH\u00d3RQUEZ MONTENEGRO",
+        "ALVARO LEO DAN G\u00d3MEZ MU\u00d1OZ"
+    ],
+    "holders": [
+        183449
+    ],
+    "ipcCodes": [
+        "A61F 9/00",
+        "B65D 47/18",
+        "B65D 1/32",
+        "B65D 1/08"
+    ]
+}

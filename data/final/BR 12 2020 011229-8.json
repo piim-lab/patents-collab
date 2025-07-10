@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2020 011229-8",
+    "filingDate": "09/04/2014",
+    "grantDate": null,
+    "title": "USO DE UM AGENTE COM ATIVIDADE HB-EGF, NA FABRICA\u00c7\u00c3O DE UM MEDICAMENTO PARA A INIBI\u00c7\u00c3O DE CURA DE UMA PERFURA\u00c7\u00c3O DE MEMBRANA DE T\u00cdMPANO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/823,749",
+            "priorityDate": "15/05/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/04/2014",
+        "applicationNumber": "BR 11 2015 028367-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "PETER LUKE SANTA MARIA",
+        "YUNZHI PETER YANG",
+        "SUNGWOO KIM",
+        "CHLOE DOMVILLE"
+    ],
+    "holders": [
+        87209
+    ],
+    "ipcCodes": [
+        "A61K 38/18"
+    ]
+}

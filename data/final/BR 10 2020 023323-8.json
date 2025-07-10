@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2020 023323-8",
+    "filingDate": "16/11/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO DE CALIBRA\u00c7\u00c3O DE UM ARRANJO DE DIRE\u00c7\u00c3O DE UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1951534-5",
+            "priorityDate": "20/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "FREDERIK LAANEN",
+        "EMIL LUNDGREN"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B62D 6/00",
+        "B62D 6/10"
+    ]
+}

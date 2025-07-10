@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 20 2022 012948-2",
+    "filingDate": "29/06/2022",
+    "grantDate": null,
+    "title": "SINALIZADOR LUMINOSO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "202021000003380",
+            "priorityDate": "29/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "ALFONSO DI GIOVINE"
+    ],
+    "holders": [
+        367076
+    ],
+    "ipcCodes": [
+        "B64F 1/20"
+    ]
+}

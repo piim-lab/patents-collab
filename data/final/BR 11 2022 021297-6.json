@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 11 2022 021297-6",
+    "filingDate": "29/04/2021",
+    "grantDate": null,
+    "title": "ERRADICA\u00c7\u00c3O REMOTA DE PATOG\u00c9NO",
+    "nationalPhaseDate": [
+        "20/10/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/030017",
+        "pctDate": "29/04/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/017,407",
+            "priorityDate": "29/04/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/044,641",
+            "priorityDate": "26/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/077,003",
+            "priorityDate": "11/09/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/118,638",
+            "priorityDate": "25/11/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/139,294",
+            "priorityDate": "19/01/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/149,611",
+            "priorityDate": "15/02/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/244,860",
+            "priorityDate": "29/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "ISRAEL NISSENBAUM",
+        "MITCHELL J BOGART",
+        "ASHER BAUM"
+    ],
+    "holders": [
+        328392,
+        328393,
+        328391
+    ],
+    "ipcCodes": [
+        "A61L 2/10",
+        "A61B 90/70",
+        "A61B 1/012"
+    ]
+}

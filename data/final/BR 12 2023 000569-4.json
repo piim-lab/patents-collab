@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2023 000569-4",
+    "filingDate": "28/07/2017",
+    "grantDate": null,
+    "title": "MEMBRANA FLEX\u00cdVEL ADEQUADA PARA APLICAR UM PADR\u00c3O DE CONDUTORES EL\u00c9TRICOS A UM SUBSTRATO FORMADO POR UMA SUPERF\u00cdCIE DE UMA C\u00c9LULA SOLAR",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1613051.0",
+            "priorityDate": "28/07/2016"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1709427.7",
+            "priorityDate": "14/06/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/07/2017",
+        "applicationNumber": "BR 11 2019 001584-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "BENZION LANDA",
+        "NAOMI ELFASSY",
+        "STANISLAV THYGELBAUM"
+    ],
+    "holders": [
+        234830
+    ],
+    "ipcCodes": [
+        "H01L 31/0224",
+        "H05K 3/20"
+    ]
+}

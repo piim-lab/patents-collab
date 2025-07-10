@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 11 2016 029333-9",
+    "filingDate": "16/06/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARA\u00c7\u00c3O DE COMPOSTOS DE CARBAMOILPIRIDONA POLIC\u00cdCLICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/015,081",
+            "priorityDate": "20/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "ANNA CHIU",
+        "JOHN ENQUIST",
+        "NOLAN GRIGGS",
+        "CHRISTOPHER HALE",
+        "NORIHIRO IKEMOTO",
+        "KATIE ANN KEATON",
+        "MATT KRAFT",
+        "SCOTT E LAZERWITH",
+        "MICHEL LEEMAN",
+        "ZHIHUI PENG",
+        "KATE SCHRIER",
+        "JONATHAN TRINIDAD",
+        "JOCHEM VAN HERPT",
+        "ANDREW W WALTMAN"
+    ],
+    "holders": [
+        11788
+    ],
+    "ipcCodes": [
+        "A61P 31/18",
+        "A61P 31/12",
+        "C07D 213/82",
+        "C07C 213/02",
+        "C07C 269/06",
+        "C07C 213/10",
+        "C07D 319/06",
+        "C07C 237/16",
+        "C07D 498/22",
+        "C07C 235/80",
+        "C07D 309/40"
+    ]
+}

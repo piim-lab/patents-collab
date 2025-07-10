@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2015 007904-0",
+    "filingDate": "09/10/2013",
+    "grantDate": "08/12/2020",
+    "title": "EMBARCA\u00c7\u00c3O DE PERFURA\u00c7\u00c3O OU PRODU\u00c7\u00c3O MAR\u00cdTIMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12188166.8",
+            "priorityDate": "11/10/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "MARTIN PIETER VLASBLOM",
+        "JORN BOESTEN",
+        "RIGOBERT BOSMAN"
+    ],
+    "holders": [
+        16355
+    ],
+    "ipcCodes": [
+        "B63B 21/50",
+        "B63B 21/20"
+    ]
+}

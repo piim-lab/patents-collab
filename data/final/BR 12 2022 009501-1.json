@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 12 2022 009501-1",
+    "filingDate": "16/09/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CODIFICA\u00c7\u00c3O IMPLEMENTADO POR UM CODIFICADOR DE V\u00cdDEO, MEIO LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO, DISPOSITIVO DE CODIFICA\u00c7\u00c3O E SISTEMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/905,141",
+            "priorityDate": "24/09/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/09/2020",
+        "applicationNumber": "BR 11 2022 005632-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "KUI WANG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04N 19/50"
+    ]
+}

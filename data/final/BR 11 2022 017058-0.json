@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2022 017058-0",
+    "filingDate": "25/02/2021",
+    "grantDate": null,
+    "title": "DIRECIONADOR DE FEIXE",
+    "nationalPhaseDate": [
+        "25/08/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/019743",
+        "pctDate": "25/02/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/981,128",
+            "priorityDate": "25/02/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/185,870",
+            "priorityDate": "25/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "CHARLES BIBAS"
+    ],
+    "holders": [
+        202741
+    ],
+    "ipcCodes": [
+        "B33Y 30/00",
+        "G02B 26/08",
+        "G02B 27/09",
+        "G02B 17/06"
+    ]
+}

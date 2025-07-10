@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 021590-6",
+    "filingDate": "21/10/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO AUTOMATIZADO DE CONSTRU\u00c7\u00c3O E CONSUMO DE MODELOS PADRONIZADOS DE APRENDIZADO DE M\u00c1QUINA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2797"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "WESLEY ANDRE BORTOLOZO JUNIOR",
+        "JO\u00c3O PEDRO WOJCIKIEWICZ DUARTE SILVA"
+    ],
+    "holders": [
+        41947
+    ],
+    "ipcCodes": [
+        "G06K 9/62",
+        "G06F 16/00",
+        "G06N 3/08",
+        "G06N 20/00",
+        "G06F 8/30"
+    ]
+}

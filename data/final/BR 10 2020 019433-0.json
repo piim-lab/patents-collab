@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 019433-0",
+    "filingDate": "24/09/2020",
+    "grantDate": null,
+    "title": "ESTADOS DE LARGURA DE ENLACE PARCIAL PARA ENLACES DE M\u00daLTIPLAS RAIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/941,277",
+            "priorityDate": "27/11/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/831,719",
+            "priorityDate": "26/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "DEBENDRA DAS SHARMA"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04L 29/08",
+        "H04L 12/707",
+        "H04L 12/801",
+        "H04L 12/931",
+        "G06F 13/362",
+        "H04L 12/891"
+    ]
+}

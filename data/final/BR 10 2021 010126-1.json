@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 010126-1",
+    "filingDate": "25/05/2021",
+    "grantDate": null,
+    "title": "COLETOR DE MILHO, E, SISTEMA DE AJUSTE DE COLETOR DE MILHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/040,269",
+            "priorityDate": "17/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/228,193",
+            "priorityDate": "12/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "TODD M VERHOEF",
+        "ANDREW J BRAET",
+        "DENNIS P SILVER",
+        "KRUPA MANJUNATH",
+        "DUANE M BOMLENY"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 45/02"
+    ]
+}

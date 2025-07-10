@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 11 2019 022467-0",
+    "filingDate": "25/04/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA INTENSIFICAR COMBUST\u00c3O DE COMBUST\u00cdVEL",
+    "nationalPhaseDate": [
+        "25/10/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/029327",
+        "pctDate": "25/04/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/489,620",
+            "priorityDate": "25/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/961,179",
+            "priorityDate": "24/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2776"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "ROBERT W CARROLL",
+        "NOEL CARROLL",
+        "WILLIAM F CARROLL",
+        "MICHAEL THOMAS CARROLL",
+        "COLIN KENNETH HILL"
+    ],
+    "holders": [
+        253475
+    ],
+    "ipcCodes": [
+        "C10L 10/04",
+        "C10L 1/18",
+        "C10L 10/00",
+        "C10L 1/22",
+        "C10L 1/10",
+        "F02B 41/00",
+        "C10L 10/02",
+        "C10L 1/14",
+        "C10L 10/08"
+    ]
+}

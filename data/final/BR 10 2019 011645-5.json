@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 011645-5",
+    "filingDate": "04/06/2019",
+    "grantDate": null,
+    "title": "FORNO CONT\u00cdNUO PARA A OPERA\u00c7\u00c3O DE COZIMENTO CONT\u00cdNUA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 208 959.0",
+            "priorityDate": "06/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "DIETER KNOST",
+        "ULRICH SPECK"
+    ],
+    "holders": [
+        49390
+    ],
+    "ipcCodes": [
+        "A21B 1/00",
+        "A21B 1/26",
+        "A21B 1/48"
+    ]
+}

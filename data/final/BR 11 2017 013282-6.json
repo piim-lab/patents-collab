@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2017 013282-6",
+    "filingDate": "22/12/2015",
+    "grantDate": null,
+    "title": "USO COSM\u00c9TICO, E, PROCESSO DE CUIDADO COSM\u00c9TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1463205",
+            "priorityDate": "23/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "LYSIANNE CITTADINI",
+        "LOUIS DANOUX",
+        "NATHALIE GODARD"
+    ],
+    "holders": [
+        151235
+    ],
+    "ipcCodes": [
+        "A61K 8/97",
+        "A61Q 19/08",
+        "A61Q 19/06"
+    ]
+}

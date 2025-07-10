@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 010080-0",
+    "filingDate": "17/05/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DIAGN\u00d3STICO DE UM FREIO DE TRANSMISS\u00c3O, DISPOSITIVO DE CONTROLE, VE\u00cdCULO, PROGRAMA DE COMPUTADOR E M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1850663-4",
+            "priorityDate": "01/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "PEER NORBERG",
+        "DANIEL H\u00c4GGSTR\u00d6M"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "G01D 21/00",
+        "B60W 10/10",
+        "F16H 63/00",
+        "G05G 3/00"
+    ]
+}

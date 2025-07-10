@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2015 018700-9",
+    "filingDate": "04/08/2015",
+    "grantDate": null,
+    "title": "FILTRO COM SELO MAGN\u00c9TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/451,392",
+            "priorityDate": "04/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "MICHAEL T KRAUSE"
+    ],
+    "holders": [
+        18809
+    ],
+    "ipcCodes": [
+        "B01D 46/00",
+        "B01D 46/02"
+    ]
+}

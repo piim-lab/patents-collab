@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 075778-4",
+    "filingDate": "12/12/2018",
+    "grantDate": null,
+    "title": "CONJUNTO DE AJUSTE DE IMPLEMENTO PARA UM VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/838.588",
+            "priorityDate": "12/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "DUQIANG WU"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "E02F 3/43",
+        "E02F 3/34",
+        "E02F 3/358"
+    ]
+}

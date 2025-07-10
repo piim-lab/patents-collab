@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2014 027544-0",
+    "filingDate": "21/06/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O COSM\u00c9TICA, PROCESSO COSM\u00c9TICO PARA A MAQUILAGEM DA PELE E USO COSM\u00c9TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1255895",
+            "priorityDate": "21/06/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "V\u00c9RONIQUE FERRARI",
+        "BOUCHRA BOUARFA",
+        "GAELLE BRUN"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "A61Q 1/02",
+        "A61K 8/06",
+        "A61K 8/25",
+        "A61K 8/87",
+        "A61K 8/88",
+        "A61K 8/91"
+    ]
+}

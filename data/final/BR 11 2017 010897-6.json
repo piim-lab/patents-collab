@@ -1,0 +1,94 @@
+{
+    "applicationNumber": "BR 11 2017 010897-6",
+    "filingDate": "24/11/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E COMPOSI\u00c7\u00d5ES PARA PRODU\u00c7\u00c3O DE CONCRETO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/083,784",
+            "priorityDate": "24/11/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/086,024",
+            "priorityDate": "01/12/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/096,018",
+            "priorityDate": "23/12/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/146,103",
+            "priorityDate": "10/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/701,456",
+            "priorityDate": "30/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/160,350",
+            "priorityDate": "12/05/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/165,670",
+            "priorityDate": "22/05/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/240,843",
+            "priorityDate": "13/10/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2705"
+        }
+    ],
+    "inventors": [
+        "MONKMAN GEORGE SEAN",
+        "CAIL KEVIN",
+        "SANDBERG PAUL J",
+        "MACDONALD MARK",
+        "BROWN JOSHUA JEREMY",
+        "FORGERON DEAN PAUL"
+    ],
+    "holders": [
+        191118
+    ],
+    "ipcCodes": [
+        "B28C 5/00"
+    ]
+}

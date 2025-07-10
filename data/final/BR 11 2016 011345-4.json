@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2016 011345-4",
+    "filingDate": "18/11/2014",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o farmac\u00eautica sob a forma de emuls\u00e3o ou microemuls\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2013A001924",
+            "priorityDate": "20/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "LUIGI MARIA LONGO",
+        "LUIGI MORO",
+        "ENRICO FRIMONTI",
+        "ALESSANDRO REPICI"
+    ],
+    "holders": [
+        98398
+    ],
+    "ipcCodes": [
+        "A61L 24/04",
+        "A61L 24/00",
+        "A61K 49/00"
+    ]
+}

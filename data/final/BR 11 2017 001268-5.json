@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2017 001268-5",
+    "filingDate": "27/07/2015",
+    "grantDate": "30/08/2022",
+    "title": "M\u00c9TODO PARA COMUNICAR DADOS E SISTEMA DE COMUNICA\u00c7\u00c3O DE DADOS DE VIAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/031,267",
+            "priorityDate": "31/07/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/525,252",
+            "priorityDate": "28/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "BRIAN TERENCE MURREN",
+        "DANIEL KEITH PAGANO",
+        "SAMUEL WILLIAM GOLDEN",
+        "BRIAN SMITH",
+        "JARED KLINEMAN COOPER"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "H04W 4/12",
+        "H04W 4/02",
+        "B61L 27/00",
+        "B61L 25/02"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2013 027890-0",
+    "filingDate": "04/05/2012",
+    "grantDate": null,
+    "title": "\u201cConjunto de pain\u00e9is com trava mec\u00e2nica para pain\u00e9is de constru\u00e7\u00e3o\u201d",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1150400-8",
+            "priorityDate": "06/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/483.444",
+            "priorityDate": "06/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        81110
+    ],
+    "ipcCodes": []
+}

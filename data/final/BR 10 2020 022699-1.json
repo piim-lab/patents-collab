@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 022699-1",
+    "filingDate": "06/11/2020",
+    "grantDate": null,
+    "title": "SISTEMA PARA AUX\u00cdLIO EM APLICA\u00c7\u00d5ES EM RENDA VARI\u00c1VEL NO MERCADO FINANCEIRO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2759"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "STANLEY FERNANDES PESTANA"
+    ],
+    "holders": [
+        63112
+    ],
+    "ipcCodes": [
+        "G06Q 40/06",
+        "G06Q 40/04",
+        "G06Q 40/00"
+    ]
+}

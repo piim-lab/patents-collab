@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2020 006881-7",
+    "filingDate": "12/10/2004",
+    "grantDate": null,
+    "title": "CONJUGADO DE AGENTE DE LIGA\u00c7\u00c3O CELULAR E COMPOSI\u00c7\u00c3O COMPREENDENDO O REFERIDO CONJUGADO",
+    "divisionalApplication": {
+        "filingDate": "12/10/2004",
+        "applicationNumber": "PI 0415448-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        97652
+    ],
+    "ipcCodes": []
+}

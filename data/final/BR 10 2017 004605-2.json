@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2017 004605-2",
+    "filingDate": "08/03/2017",
+    "grantDate": null,
+    "title": "PROCESSO DE GERA\u00c7\u00c3O DE \u00c1CIDO PERAC\u00c9TICO, NO LOCAL DE APLICA\u00c7\u00c3O, COM PRODU\u00c7\u00c3O AUTOM\u00c1TICA OU MANUAL, E MONITORAMENTO A DISTANCIA",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "15.22.1",
+            "description": "Devolu\u00e7\u00e3o de Prazo Negada",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "12.6",
+            "description": "Outros Recursos",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        10999
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 015009-0",
+    "filingDate": "23/07/2020",
+    "grantDate": null,
+    "title": "DRONE PARA ENTREGA DE OBJETOS COM BAIXO RU\u00cdDO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19188376.8",
+            "priorityDate": "25/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2761"
+        }
+    ],
+    "inventors": [
+        "HERBERT WEIRATHER"
+    ],
+    "holders": [
+        60278
+    ],
+    "ipcCodes": [
+        "G06Q 50/28",
+        "B64C 39/02",
+        "B64D 1/02"
+    ]
+}

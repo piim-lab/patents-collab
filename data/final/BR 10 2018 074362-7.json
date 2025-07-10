@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2018 074362-7",
+    "filingDate": "26/11/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR DE DEFESA CIBERN\u00c9TICA ANTECIPADA, E, SISTEMA PARA DEFESA CIBERN\u00c9TICA ANTECIPADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/870,275",
+            "priorityDate": "12/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        }
+    ],
+    "inventors": [
+        "JOHN A CRAIG",
+        "JADRANKA MEAD",
+        "JAMES E VASATKA"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "H04L 29/06"
+    ]
+}

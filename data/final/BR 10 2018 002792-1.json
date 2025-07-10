@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2018 002792-1",
+    "filingDate": "09/02/2018",
+    "grantDate": null,
+    "title": "SISTEMA OPERACIONAL, M\u00c9TODO PARA OPERAR UM SISTEMA OPERACIONAL, E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 001 614.3",
+            "priorityDate": "18/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "HOLGER MOHRA",
+        "CLAUS ARNOLD",
+        "MARTIN ZADEMACH",
+        "JOHANNES G\u00dcLLICH",
+        "THOMAS OCHS"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "G06F 3/01",
+        "B60K 35/00",
+        "B60R 16/02",
+        "G06F 3/0485",
+        "B60K 37/00"
+    ]
+}

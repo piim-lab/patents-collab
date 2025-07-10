@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2018 013986-2",
+    "filingDate": "07/07/2015",
+    "grantDate": null,
+    "title": "PORCA OCA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/021.623",
+            "priorityDate": "07/07/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/793.651",
+            "priorityDate": "07/07/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/07/2015",
+        "applicationNumber": "BR 11 2017 000363-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "CHARLES HUTTER"
+    ],
+    "holders": [
+        122138
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "B21K 1/46",
+        "B21K 1/56"
+    ]
+}

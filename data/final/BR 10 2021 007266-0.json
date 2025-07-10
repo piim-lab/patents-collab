@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 007266-0",
+    "filingDate": "16/04/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETECTAR UMA CONDI\u00c7\u00c3O DE PRESS\u00c3O, E, SISTEMA IMPLEMENTADO POR COMPUTADOR PARA DETERMINAR UMA PRESS\u00c3O DE G\u00c1S DE PR\u00c9-CARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/014,784",
+            "priorityDate": "24/04/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/127,277",
+            "priorityDate": "18/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER C REINERS",
+        "JOHN A DIGHTON",
+        "PETER A JOHNSON"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "E02F 9/22",
+        "F15B 1/08",
+        "F15B 1/02"
+    ]
+}

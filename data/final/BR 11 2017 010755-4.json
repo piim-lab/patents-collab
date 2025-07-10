@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2017 010755-4",
+    "filingDate": "27/11/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE COMPOSTO ISOCIANATO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-254824",
+            "priorityDate": "17/12/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-002061",
+            "priorityDate": "08/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "YUYA YOSHIMOTO",
+        "MASAJI HIROTA"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": [
+        "C07C 263/10",
+        "C07C 265/12"
+    ]
+}

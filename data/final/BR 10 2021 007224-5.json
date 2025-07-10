@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 007224-5",
+    "filingDate": "15/04/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA DETECTAR UM N\u00cdVEL DE FLUIDO EM UM RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/011,890",
+            "priorityDate": "17/04/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/212,841",
+            "priorityDate": "25/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "JON SHEARER"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "G01F 23/00",
+        "B64D 43/00"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2021 018885-5",
+    "filingDate": "22/09/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA MELHORAR A COMUNICA\u00c7\u00c3O ENTRE UM CLIENTE SIP SOMENTE IPV6 E UM SERVIDOR OU CLIENTE SOMENTE IPV4",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/030,010",
+            "priorityDate": "23/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [
+        "DUSAN MUDRIC"
+    ],
+    "holders": [
+        66575
+    ],
+    "ipcCodes": [
+        "H04L 61/251"
+    ]
+}

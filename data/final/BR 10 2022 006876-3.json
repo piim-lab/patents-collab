@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 006876-3",
+    "filingDate": "08/04/2022",
+    "grantDate": null,
+    "title": "FITORREGULADOR PARA PLANTAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/201,058",
+            "priorityDate": "09/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "JOSE ANTONIO DE COTE"
+    ],
+    "holders": [
+        75355
+    ],
+    "ipcCodes": [
+        "A01P 21/00",
+        "A01N 65/03",
+        "A01N 33/08"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 020430-3",
+    "filingDate": "11/10/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE TRABALHO, E, CONJUNTO DE ARMA\u00c7\u00c3O DA SELA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "172/247,792",
+            "priorityDate": "23/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2807"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "SANJAYA DESHPANDE",
+        "JOHN V GUNDUPALLI",
+        "ANTHONY K KRAFT"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "E02F 3/76",
+        "E02F 3/815"
+    ]
+}

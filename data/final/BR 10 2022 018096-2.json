@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 018096-2",
+    "filingDate": "09/09/2022",
+    "grantDate": null,
+    "title": "GABINETE DE REFRIGERADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/480,827",
+            "priorityDate": "21/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN PIZZI",
+        "DANIEL PESTKA"
+    ],
+    "holders": [
+        76788
+    ],
+    "ipcCodes": [
+        "F25D 23/00"
+    ]
+}

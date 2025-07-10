@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2023 000086-2",
+    "filingDate": "08/10/2013",
+    "grantDate": null,
+    "title": "RECIPIENTE COMPREENDENDO PROF\u00c1RMACOS NEUTRALIZANTES DE VEGF",
+    "divisionalApplication": {
+        "filingDate": "08/10/2013",
+        "applicationNumber": "BR 11 2015 007778-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        134852
+    ],
+    "ipcCodes": []
+}

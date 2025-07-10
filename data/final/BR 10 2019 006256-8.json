@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 006256-8",
+    "filingDate": "28/03/2019",
+    "grantDate": null,
+    "title": "MOTONIVELADORA COM DIRE\u00c7\u00c3O DE CONFORTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000004096",
+            "priorityDate": "29/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO BENEVELLI",
+        "DOMENICO MEOLA",
+        "DAVIDE ANTONUCCI"
+    ],
+    "holders": [
+        47651
+    ],
+    "ipcCodes": [
+        "E02F 3/76",
+        "E02F 9/20",
+        "E02F 3/84",
+        "B62D 12/00",
+        "G05G 9/047"
+    ]
+}

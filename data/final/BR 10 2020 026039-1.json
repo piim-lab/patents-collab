@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2020 026039-1",
+    "filingDate": "18/12/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE TRATAMENTO A LASER",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102019000025093",
+            "priorityDate": "20/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "MATTEO PACHER",
+        "MARA TANELLI",
+        "SILVIA STRADA",
+        "BARBARA PREVITALI",
+        "SERGIO MATTEO SAVARESI",
+        "MAURIZIO SBETTI"
+    ],
+    "holders": [
+        12429
+    ],
+    "ipcCodes": [
+        "B23K 26/00"
+    ]
+}

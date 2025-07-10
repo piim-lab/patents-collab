@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 068901-0",
+    "filingDate": "17/09/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA CONTROLAR A ALTURA DE UM IMPLEMENTO AGR\u00cdCOLA EM RELA\u00c7\u00c3O AO SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/559.788",
+            "priorityDate": "18/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [
+        "KENNETH SEIDERS JR",
+        "KENNETH SEIDERS",
+        "KENETH SEIDERS JR"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 41/14",
+        "A01B 63/00"
+    ]
+}

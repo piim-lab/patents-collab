@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2021 004109-1",
+    "filingDate": "18/05/2009",
+    "grantDate": "03/03/2022",
+    "title": "M\u00e9todo para o acoplamento de um tubo revestido a um tubo n\u00e3o revestido",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/130,231",
+            "priorityDate": "30/05/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/05/2009",
+        "applicationNumber": "PI 0909538-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2798"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "OSCAR ZAPATA"
+    ],
+    "holders": [
+        352144
+    ],
+    "ipcCodes": [
+        "F16L 15/08",
+        "F16L 19/02",
+        "F16L 19/03",
+        "F16L 19/07"
+    ]
+}

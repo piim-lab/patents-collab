@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 10 2022 016213-1",
+    "filingDate": "15/08/2022",
+    "grantDate": null,
+    "title": "APLICATIVO/SOFTWARE DE GEST\u00c3O DO PROGRAMA APPCC",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "KELI CRISTINA DE LIMA NEVES",
+        "HENRIQUE DE CASTRO NEVES"
+    ],
+    "holders": [
+        76549
+    ],
+    "ipcCodes": [
+        "G06Q 10/06"
+    ]
+}

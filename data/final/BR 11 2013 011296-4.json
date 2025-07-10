@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2013 011296-4",
+    "filingDate": "07/11/2011",
+    "grantDate": null,
+    "title": "SENSOR DE DESIDRATA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "08/05/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2011/054955",
+        "pctDate": "07/11/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/957,542",
+            "priorityDate": "01/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "RONNIE L PHILIPS",
+        "NING WEI",
+        "XUEDONG SONG"
+    ],
+    "holders": [
+        91364
+    ],
+    "ipcCodes": [
+        "C09D 11/00",
+        "G01N 21/80"
+    ]
+}

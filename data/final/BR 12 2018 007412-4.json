@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2018 007412-4",
+    "filingDate": "08/09/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARA\u00c7\u00c3O DE ISOPROPIL \u00c9STER DE \u00c1CIDO (S)-(7-CIANO-4-PIRIDIN-2-ILMETIL-1,2,3,4-TETRA-HIDRO-CICLOPENTA[B]INDOL-2-IL)-CARB\u00c2MICO, OU DE UM SAL FARMACEUTICAMENTE ACEIT\u00c1VEL DO MESMO, FORMA DE DOSAGEM FARMAC\u00caUTICA, E FORMA DE GRAU T\u00c9CNICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/049,192",
+            "priorityDate": "11/09/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/09/2015",
+        "applicationNumber": "BR 11 2017 002449-7"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "CHARLES THOMAS BENSON",
+        "HANNAH YU",
+        "RACHEL RICHEY"
+    ],
+    "holders": [
+        87687
+    ],
+    "ipcCodes": [
+        "A61P 21/00",
+        "A61P 19/08",
+        "A61K 31/4439",
+        "A61P 5/26",
+        "A61P 21/06"
+    ]
+}

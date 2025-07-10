@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 13 2023 019536-8",
+    "filingDate": "25/09/2023",
+    "grantDate": null,
+    "title": "ECOAGLOMERADO OBTIDO POR PROCESSO DE RECICLABEM DE RES\u00cdDUOS DERIVADOS DA MINERA\u00c7\u00c3O",
+    "parentApplication": {
+        "filingDate": "08/05/2020",
+        "applicationNumber": "BR 10 2020 009196-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Depositado",
+            "bulletinNumber ": "2763"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2765"
+        }
+    ],
+    "inventors": [
+        "JORGE LUIZ DE CASTRO AVELLAR"
+    ],
+    "holders": [
+        53301,
+        58326
+    ],
+    "ipcCodes": [
+        "C04B 28/02",
+        "C04B 28/08"
+    ]
+}

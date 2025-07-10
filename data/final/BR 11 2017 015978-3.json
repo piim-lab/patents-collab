@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 015978-3",
+    "filingDate": "29/10/2015",
+    "grantDate": null,
+    "title": "M\u00e9todo para monitorar um recipiente metal\u00fargico",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15153241.3",
+            "priorityDate": "30/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "FRANZ PROFELT",
+        "ANDREAS ROHRHOFER",
+        "THOMAS KUEHAS",
+        "MICHAEL WEINZINGER"
+    ],
+    "holders": [
+        11259
+    ],
+    "ipcCodes": [
+        "G01K 1/02",
+        "B22D 2/00",
+        "G01K 11/26"
+    ]
+}

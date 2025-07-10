@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 007482-5",
+    "filingDate": "19/04/2021",
+    "grantDate": null,
+    "title": "ESTILETE COM L\u00c2MINA COM ESTILO DIFERENTE INTERCAMBI\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/852,951",
+            "priorityDate": "20/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "MICHAEL H PANOSIAN",
+        "JOSHUA KEELER"
+    ],
+    "holders": [
+        58211
+    ],
+    "ipcCodes": [
+        "B26B 1/08",
+        "B26B 5/00",
+        "B25G 1/08"
+    ]
+}

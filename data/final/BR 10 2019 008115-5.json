@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 008115-5",
+    "filingDate": "22/04/2019",
+    "grantDate": null,
+    "title": "VE\u00cdCULO COM TRA\u00c7\u00c3O NAS QUATRO RODAS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-082626",
+            "priorityDate": "23/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "RYOHEI YUASA",
+        "SATOSHI ISHIDA",
+        "SHOTA MURAI",
+        "TAITO GOTO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60K 23/08",
+        "F16D 11/00",
+        "B60K 17/344",
+        "F16D 27/118"
+    ]
+}

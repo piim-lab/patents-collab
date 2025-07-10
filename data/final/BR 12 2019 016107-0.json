@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 12 2019 016107-0",
+    "filingDate": "25/09/2008",
+    "grantDate": "11/02/2020",
+    "title": "UNIDADE DE REVELA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2008-0015802",
+            "priorityDate": "21/02/2008"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2008-0031765",
+            "priorityDate": "04/04/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/09/2008",
+        "applicationNumber": "PI 0803603-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "JONG IN KIM",
+        "SU BAEK",
+        "OH DUG GWON"
+    ],
+    "holders": [
+        3311
+    ],
+    "ipcCodes": [
+        "G03G 15/08",
+        "G03G 15/01"
+    ]
+}

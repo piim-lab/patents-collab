@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2012 018681-7",
+    "filingDate": "27/01/2011",
+    "grantDate": "16/10/2018",
+    "title": "PROCESSOS PARA PURIFICAR UM \u00c1CIDO GRAXO, PARA PREPARAR UM \u00c1CIDO GRAXO E PARA ESTENDER O COMPRIMENTO DE UM \u00c1CIDO GRAXO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1001345.6",
+            "priorityDate": "27/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "ADAM KELLIHER",
+        "ANGUS MORRISON",
+        "PHIL KNOWLES"
+    ],
+    "holders": [
+        94051
+    ],
+    "ipcCodes": [
+        "C07C 51/41",
+        "C07C 51/48",
+        "C07C 53/126",
+        "C07C 51/42",
+        "C07C 57/02"
+    ]
+}

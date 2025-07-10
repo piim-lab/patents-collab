@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2018 011988-1",
+    "filingDate": "14/12/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE ENTRELA\u00c7AMENTO PARA CORRE\u00c7\u00c3O DE ERROS DE ENVIO DE ALTA PRODUTIVIDADE",
+    "nationalPhaseDate": [
+        "13/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/066528",
+        "pctDate": "14/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/268,185",
+            "priorityDate": "16/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/377,707",
+            "priorityDate": "13/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "THOMAS JOSEPH RICHARDSON",
+        "VINCENT ABAYOMI LONCKE"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H03M 13/27"
+    ]
+}

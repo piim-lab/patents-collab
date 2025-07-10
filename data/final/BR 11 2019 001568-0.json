@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 11 2019 001568-0",
+    "filingDate": "28/07/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RECEBIMENTO DE SINAL DE REFER\u00caNCIA EM SISTEMA DE COMUNICA\u00c7\u00c3O SEM FIO E APARELHO PARA ISSO",
+    "nationalPhaseDate": [
+        "25/01/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT KR2017/008152",
+        "pctDate": "28/07/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/368.146",
+            "priorityDate": "28/07/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/373.981",
+            "priorityDate": "11/08/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "JONGHYUN PARK",
+        "JIWON KANG",
+        "KIJUN KIM",
+        "BYOUNGHOON KIM",
+        "EUNSUN KIM"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "H04L 25/03",
+        "H04L 5/00"
+    ]
+}

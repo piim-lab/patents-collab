@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2017 011406-9",
+    "filingDate": "30/05/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UM CHIP QUE TEM UMA PLURALIDADE DE REGI\u00d5ES DE MEDIDA ELETRICAMENTE ENDERE\u00c7\u00c1VEIS E CHIP QUE TEM UMA PLURALIDADE DE REGI\u00d5ES DE MEDIDA ELETRICAMENTE ENDERE\u00c7\u00c1VEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 210 138.4",
+            "priorityDate": "30/05/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/05/2014",
+        "applicationNumber": "BR 11 2015 029517-7"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "MARKUS SCHEIBER",
+        "HEINZ SCHOEDER"
+    ],
+    "holders": [
+        85627
+    ],
+    "ipcCodes": [
+        "G01N 27/403",
+        "G01N 27/30",
+        "B01L 3/00"
+    ]
+}

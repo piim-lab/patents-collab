@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2019 012919-7",
+    "filingDate": "18/12/2017",
+    "grantDate": null,
+    "title": "COMBINA\u00c7\u00c3O DE HERBICIDAS",
+    "nationalPhaseDate": [
+        "21/06/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2017/083302",
+        "pctDate": "18/12/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16205640.2",
+            "priorityDate": "21/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "HERVE TOSSENS",
+        "THOMAS WILDE",
+        "FRITZ WAGENER",
+        "STEVEN RUSSEL KING"
+    ],
+    "holders": [
+        36674,
+        140083
+    ],
+    "ipcCodes": [
+        "A01N 43/40",
+        "A01P 13/00",
+        "A01N 43/80",
+        "A01N 43/707"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2020 007952-5",
+    "filingDate": "01/12/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE \u00c1UDIO E DISPOSITIVO DE DECODIFICA\u00c7\u00c3O DE \u00c1UDIO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/419,747",
+            "priorityDate": "03/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/558,286",
+            "priorityDate": "10/11/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/12/2011",
+        "applicationNumber": "BR 11 2013 013353-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "JEFFREY RIEDMILLER",
+        "REGUNATHAN RADHAKRISHNAN",
+        "MARVIN PRIBADI",
+        "FARHAD FARAHANI",
+        "MICHAEL SMITHERS"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "G10L 21/00"
+    ]
+}

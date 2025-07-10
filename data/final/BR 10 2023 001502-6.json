@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2023 001502-6",
+    "filingDate": "26/01/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA FORMAR UM COMPONENTE FABRICADO ADITIVAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/678,869",
+            "priorityDate": "23/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "SERGEY MIRONETS",
+        "TAHANY IBRAHIM EL"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B33Y 30/00",
+        "B33Y 10/00",
+        "B29C 64/171",
+        "B29C 64/386",
+        "B33Y 40/00",
+        "B29C 64/393",
+        "B29C 64/147",
+        "B29C 64/188",
+        "B29C 64/141",
+        "B29C 64/336"
+    ]
+}

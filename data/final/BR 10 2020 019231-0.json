@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 019231-0",
+    "filingDate": "24/09/2020",
+    "grantDate": null,
+    "title": "APARELHO DE PURIFICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-179837",
+            "priorityDate": "30/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        }
+    ],
+    "inventors": [
+        "SATOSHI SEO",
+        "YOSHINOBU OZAKI",
+        "YOSHINOBU OZAKI",
+        "NORIHIKO GOGAMI",
+        "MASASHI MUKAE",
+        "YASUTAKA TAKEMOTO",
+        "HIROKI WADA"
+    ],
+    "holders": [
+        82432,
+        147
+    ],
+    "ipcCodes": [
+        "C07C 51/43",
+        "B01D 35/027",
+        "C07C 57/04",
+        "C07C 51/47",
+        "C07C 57/05"
+    ]
+}

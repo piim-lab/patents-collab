@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 000727-3",
+    "filingDate": "14/01/2019",
+    "grantDate": null,
+    "title": "APOIO DE BRA\u00c7O DE ASSENTO DE AVI\u00c3O E DE AERONAVE, E, M\u00c9TODO PARA EXPANDIR UM APOIO DE BRA\u00c7O PARA AERONAVES.",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201811002320",
+            "priorityDate": "19/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "RADHA BODDU",
+        "GAURAV SAHAY"
+    ],
+    "holders": [
+        21128
+    ],
+    "ipcCodes": [
+        "B64D 11/06"
+    ]
+}

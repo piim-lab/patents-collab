@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2021 017786-8",
+    "filingDate": "02/03/2020",
+    "grantDate": null,
+    "title": "ISOLAMENTO DE ARMAZENAMENTO SEGURO",
+    "nationalPhaseDate": [
+        "08/09/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/055468",
+        "pctDate": "02/03/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/296,345",
+            "priorityDate": "08/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [
+        "JONATHAN BRADBURY",
+        "LISA CRANTON HELLER",
+        "UTZ BACHER",
+        "FADI BUSABA"
+    ],
+    "holders": [
+        33313
+    ],
+    "ipcCodes": [
+        "G06F 9/455",
+        "G06F 21/78"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2022 021786-2",
+    "filingDate": "11/05/2021",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES \u00daTEIS EM TRATAMENTO DE DOEN\u00c7A DE KRABBE",
+    "nationalPhaseDate": [
+        "26/10/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/031802",
+        "pctDate": "11/05/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/023,459",
+            "priorityDate": "12/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/070,653",
+            "priorityDate": "26/08/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/073,756",
+            "priorityDate": "02/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "JAMES M WILSON",
+        "JULIETTE HORDEAUX",
+        "NATHAN KATZ"
+    ],
+    "holders": [
+        89061
+    ],
+    "ipcCodes": [
+        "A61K 48/00",
+        "A61P 25/00",
+        "C12N 9/38"
+    ]
+}

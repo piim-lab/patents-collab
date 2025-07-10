@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2022 019229-7",
+    "filingDate": "30/05/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA PRODU\u00c7\u00c3O E PARA TRIAGEM DE UM ANTICORPO QUE COMPREENDE UM DOM\u00cdNIO DE LIGA\u00c7\u00c3O AO ANT\u00cdGENO QUE COMPREENDE REGI\u00d5ES VARI\u00c1VEIS DE CADEIAS PESADA E LEVE DO ANTICORPO, CUJA ATIVIDADE DE LIGA\u00c7\u00c3O AO ANT\u00cdGENO NA PRESEN\u00c7A DE UM COMPOSTO ESPEC\u00cdFICO PARA O TECIDO ALVO \u00c9 MAIOR DO QUE A ATIVIDADE DE LIGA\u00c7\u00c3O AO ANT\u00cdGENO NA AUS\u00caNCIA DO REFERIDO COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-123781",
+            "priorityDate": "30/05/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-177311",
+            "priorityDate": "09/08/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/05/2013",
+        "applicationNumber": "BR 11 2014 029756-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "TOMOYUKI IGAWA",
+        "SHIGERO TAMBA",
+        "KANAKO TATSUMI",
+        "SHUN SHIMIZU",
+        "SHOJIRO KADONO"
+    ],
+    "holders": [
+        86875
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 35/00",
+        "A61K 39/395",
+        "G01N 33/531",
+        "C12N 15/09",
+        "G01N 33/50",
+        "C07K 16/46",
+        "C07K 16/28",
+        "G01N 33/15",
+        "C07K 16/32"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2020 013590-5",
+    "filingDate": "18/12/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA GERAR UM SINAL DE \u00c1UDIO BINAURAL EM RESPOSTA A \u00c1UDIO DE M\u00daLTIPLOS CANAIS AO USAR PELO MENOS UMA REDE DE RETARDO DE FEEDBACK",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/923,579",
+            "priorityDate": "03/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/988,617",
+            "priorityDate": "03/01/2014"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201410178258.0",
+            "priorityDate": "29/04/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/12/2014",
+        "applicationNumber": "BR 11 2016 014949-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "CHIEH YEN",
+        "DIRK J BREEBAART",
+        "GRANT A DAVIDSON",
+        "RHONDA WILSON",
+        "DAVID M COOPER",
+        "ZHIWEI SHUANG",
+        "CHIEH YEN",
+        "DIRK J BREEBAART",
+        "GRANT A DAVIDSON",
+        "RHONDA WILSON",
+        "DAVID M COOPER",
+        "ZHIWEI SHUANG"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "H04S 3/00"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2015 000185-8",
+    "filingDate": "03/07/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA ABRIR UMA CARCA\u00c7A DE UM ANIMAL ABATIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2009151",
+            "priorityDate": "06/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        }
+    ],
+    "inventors": [
+        "ARNO HERMANUS MARIA UEFFING"
+    ],
+    "holders": [
+        149468
+    ],
+    "ipcCodes": [
+        "A22B 5/00"
+    ]
+}

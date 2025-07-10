@@ -1,0 +1,87 @@
+{
+    "applicationNumber": "BR 11 2021 003447-1",
+    "filingDate": "23/08/2019",
+    "grantDate": null,
+    "title": "INIBIDOR DERIVADO DE QUINOLINA INOVADOR",
+    "nationalPhaseDate": [
+        "24/02/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2019/102230",
+        "pctDate": "23/08/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810971406.2",
+            "priorityDate": "24/08/2018"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201811403888.8",
+            "priorityDate": "23/11/2018"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201910126817.6",
+            "priorityDate": "20/02/2019"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201910490783.9",
+            "priorityDate": "06/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "FRANK WU",
+        "ZHONGHUI WAN"
+    ],
+    "holders": [
+        240937
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 35/00",
+        "A61P 17/06",
+        "A61P 9/00",
+        "A61P 19/02",
+        "A61K 31/506",
+        "A61P 27/02",
+        "A61P 13/12",
+        "C07D 491/056",
+        "C07D 401/14",
+        "A61K 31/4709",
+        "A61P 15/00",
+        "A61K 31/501",
+        "A61P 19/10"
+    ]
+}

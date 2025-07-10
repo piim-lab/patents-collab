@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2017 019214-8",
+    "filingDate": "08/09/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE TRAVAMENTO PARA FERRAMENTAS DE ENGATE AO SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/385,719",
+            "priorityDate": "09/09/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/479,056",
+            "priorityDate": "30/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "NICHOLAS VOELZ",
+        "RICHARD NICOSON",
+        "JAMES POPP",
+        "MATT GROSS"
+    ],
+    "holders": [
+        4037
+    ],
+    "ipcCodes": [
+        "E02F 9/28",
+        "E02F 3/00"
+    ]
+}

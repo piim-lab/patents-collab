@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 022602-1",
+    "filingDate": "29/10/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A GERA\u00c7\u00c3O DE DADOS, SISTEMA PARA A PERSONALIZA\u00c7\u00c3O DE CART\u00d5ES E PRODUTO DE PROGRAMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000009905",
+            "priorityDate": "30/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "MARCO ALFARANO",
+        "SOFIA MASSASCUSA"
+    ],
+    "holders": [
+        21200
+    ],
+    "ipcCodes": [
+        "H04W 12/00",
+        "G06F 21/35",
+        "G06F 16/9035"
+    ]
+}

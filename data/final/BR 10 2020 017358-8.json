@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2020 017358-8",
+    "filingDate": "25/08/2020",
+    "grantDate": null,
+    "title": "APARELHO DE ASSIST\u00caNCIA PARA PREVEN\u00c7\u00c3O DE COLIS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-159260",
+            "priorityDate": "02/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2766"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2798"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "WATARU IKE",
+        "YUMA HOSHIKAWA",
+        "RYOTA MURAKAMI",
+        "YUTO SHIMBO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60T 7/12",
+        "B60W 30/09"
+    ]
+}

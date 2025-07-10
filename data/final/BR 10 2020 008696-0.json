@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2020 008696-0",
+    "filingDate": "30/04/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MEDIR DESGASTE DE UMA BORDA DE CORTE DE UMA L\u00c2MINA DE UM VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/413,259",
+            "priorityDate": "15/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "DAVID A VEASY",
+        "CRAIG CHRISTOFFERSON",
+        "MICHAEL D PEAT",
+        "NATHAN J HORSTMAN",
+        "JOSHUA M SCHAU"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "E02F 3/84",
+        "E02F 9/26"
+    ]
+}

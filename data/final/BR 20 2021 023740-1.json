@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 20 2021 023740-1",
+    "filingDate": "25/11/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA POS PORT\u00c1TIL",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202022791004.X",
+            "priorityDate": "27/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "ZHE LIN",
+        "TAO YUAN",
+        "CHAO LIU"
+    ],
+    "holders": [
+        366295
+    ],
+    "ipcCodes": [
+        "G06Q 20/24"
+    ]
+}

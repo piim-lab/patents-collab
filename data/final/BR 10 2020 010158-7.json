@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2020 010158-7",
+    "filingDate": "21/05/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UMA M\u00c1QUINA DE TRABALHO EM UM LOCAL DE TRABALHO, E, M\u00c1QUINA DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/509,123",
+            "priorityDate": "11/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "NOEL W ANDERSON"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G06Q 10/04",
+        "G05D 1/02",
+        "A01D 31/02"
+    ]
+}

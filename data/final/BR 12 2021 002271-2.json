@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2021 002271-2",
+    "filingDate": "10/08/2012",
+    "grantDate": null,
+    "title": "CHAPA DE METAL CORRUGADA PARA UMA ESTRUTURA ELEVADA EM FORMA DE ARCO E ESTRUTURA ELEVADA EM FORMA DE ARCO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/523,026",
+            "priorityDate": "12/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/594,367",
+            "priorityDate": "02/02/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/08/2012",
+        "applicationNumber": "BR 11 2014 003340-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "MICHAEL W WILSON"
+    ],
+    "holders": [
+        131619
+    ],
+    "ipcCodes": [
+        "B21D 47/00",
+        "E04C 2/38",
+        "E04C 2/32",
+        "F16S 1/10",
+        "E01D 1/00",
+        "E02D 29/045",
+        "F16S 1/02"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2018 014288-3",
+    "filingDate": "12/01/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E COMPOSI\u00c7\u00d5ES PARA O TRATAMENTO DE DOEN\u00c7A NEUROL\u00d3GICA",
+    "nationalPhaseDate": [
+        "13/07/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/013189",
+        "pctDate": "12/01/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/279,394",
+            "priorityDate": "15/01/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/300,271",
+            "priorityDate": "26/02/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/328,925",
+            "priorityDate": "28/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [
+        "RUSSELL DEKELVER",
+        "SCOTT R MCIVOR",
+        "LI OU",
+        "THOMAS WECHSLER",
+        "CHESTER B WHITLEY"
+    ],
+    "holders": [
+        92346,
+        200038
+    ],
+    "ipcCodes": [
+        "A61K 48/00",
+        "A61P 3/00",
+        "C12N 5/10",
+        "C12N 15/09",
+        "C12N 9/40"
+    ]
+}

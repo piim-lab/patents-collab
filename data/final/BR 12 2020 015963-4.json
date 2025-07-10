@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 12 2020 015963-4",
+    "filingDate": "27/08/2018",
+    "grantDate": "14/06/2022",
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR DE DETERMINA\u00c7\u00c3O DE UM N\u00daMERO DE GR\u00c3OS A PARTIR DE UMA IMAGEM DE UM MILHO E MEIOS DE ARMAZENAMENTO N\u00c3O TRANSIT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/688,567",
+            "priorityDate": "28/08/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/08/2018",
+        "applicationNumber": "BR 11 2020 004115-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "7.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "JUAN PABLO BEDOYA",
+        "VICTOR STUBER",
+        "GERARD GUILLEMETTE",
+        "JOOST KEMINK",
+        "YAQI CHEN",
+        "DANIEL WILLIAMS",
+        "YING SHE",
+        "MARIAN FARAH",
+        "JULIAN BOSHARD",
+        "WEI GUAN"
+    ],
+    "holders": [
+        151012
+    ],
+    "ipcCodes": [
+        "G06Q 50/02",
+        "G06T 7/11",
+        "G06T 7/136"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 011778-5",
+    "filingDate": "12/06/2020",
+    "grantDate": null,
+    "title": "M\u00c1QUINA T\u00caXTIL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2019 116 278.5",
+            "priorityDate": "14/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "JOCHEN DRESSEN",
+        "EDUARD PREDIGER"
+    ],
+    "holders": [
+        57986
+    ],
+    "ipcCodes": [
+        "D01H 4/02",
+        "D01H 5/16"
+    ]
+}

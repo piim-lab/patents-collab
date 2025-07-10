@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 12 2019 010172-8",
+    "filingDate": "08/02/2008",
+    "grantDate": null,
+    "title": "INSTRUMENTO DE ESCRITA TERMOCROM\u00c1TICA",
+    "divisionalApplication": {
+        "filingDate": "08/02/2008",
+        "applicationNumber": "PI 0807388-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        82550,
+        351494
+    ],
+    "ipcCodes": []
+}

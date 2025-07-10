@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 11 2014 016001-5",
+    "filingDate": "28/12/2012",
+    "grantDate": "19/03/2019",
+    "title": "PROCESSOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/580,717",
+            "priorityDate": "28/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2773"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2809"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2810"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2812"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "DAVID RICHARD CORBIN",
+        "BHUMA RAJAGOPALAN",
+        "ERIC J TILL",
+        "KEITH W HUTCHENSON",
+        "MICHAEL STEPHEN MCKINNON",
+        "PAUL JOSEPH FAGAN",
+        "RONNIE OZER",
+        "SOURAV KUMAR SENGUPTA",
+        "STUART B FERGUSSON"
+    ],
+    "holders": [
+        81270
+    ],
+    "ipcCodes": [
+        "B01J 29/06",
+        "C07D 307/38",
+        "B01J 27/053"
+    ]
+}

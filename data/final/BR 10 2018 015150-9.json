@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 015150-9",
+    "filingDate": "25/07/2018",
+    "grantDate": null,
+    "title": "PNEU PARA RODAS DE VE\u00cdCULOS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102017000084726",
+            "priorityDate": "25/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "STEFANO CAFORIO",
+        "FABIO MARIO MONTANARO",
+        "MARCO NAHMIAS NANNI",
+        "LUCA GIANNINI",
+        "ANGELA LOSTRITTO",
+        "DIEGO ETTORE SPEZIARI",
+        "STEFANO MONTESELLO",
+        "VITO BELLO"
+    ],
+    "holders": [
+        79920,
+        40351
+    ],
+    "ipcCodes": [
+        "B60C 11/03"
+    ]
+}

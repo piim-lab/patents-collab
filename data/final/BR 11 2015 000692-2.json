@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2015 000692-2",
+    "filingDate": "09/07/2013",
+    "grantDate": null,
+    "title": "GR\u00c2NULO DISPERS\u00cdVEL EM \u00c1GUA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-160820",
+            "priorityDate": "19/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "YOSHIHISA ENDO",
+        "TAKAHIRO MAEKAWA"
+    ],
+    "holders": [
+        84137
+    ],
+    "ipcCodes": [
+        "A01N 25/00",
+        "A01N 25/12",
+        "A01P 3/00",
+        "A01N 47/18",
+        "A01N 25/14"
+    ]
+}

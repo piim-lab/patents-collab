@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2013 027524-3",
+    "filingDate": "25/04/2012",
+    "grantDate": null,
+    "title": "MESA",
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "BIANCA PUCHINGER",
+        "JOCHEN HOLZINGER",
+        "ANNE WEINMANN",
+        "FILIPPO MARTINI",
+        "JENNIFER BURKHARDT",
+        "MICHAEL HERZOG",
+        "EDDIE RAFII"
+    ],
+    "holders": [
+        67472,
+        118345,
+        264450
+    ],
+    "ipcCodes": [
+        "A47B 13/00",
+        "A47B 91/16",
+        "A47B 13/02"
+    ]
+}

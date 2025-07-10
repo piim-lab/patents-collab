@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 018764-9",
+    "filingDate": "19/09/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE TAMP\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/480,805",
+            "priorityDate": "21/09/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/883,723",
+            "priorityDate": "21/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "TOMMY ERIKSEN",
+        "B\u00c5RD ANGELL"
+    ],
+    "holders": [
+        74099
+    ],
+    "ipcCodes": [
+        "E21B 33/12",
+        "E21B 29/02"
+    ]
+}

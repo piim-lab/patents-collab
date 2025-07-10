@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2016 030460-1",
+    "filingDate": "23/12/2016",
+    "grantDate": null,
+    "title": "SISTEMA DE INSER\u00c7\u00c3O DE FIO, E, M\u00c9TODO PARA INSERIR UM FIO EM UM RECEPT\u00c1CULO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/010525",
+            "priorityDate": "29/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "EERIK J HELMICK",
+        "BRADLEY J MITCHELL"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 9/00",
+        "B65D 71/02"
+    ]
+}

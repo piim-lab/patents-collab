@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 11 2013 030106-6",
+    "filingDate": "24/05/2012",
+    "grantDate": null,
+    "title": "SISTEMA DE ENERGIA PARA APLICA\u00c7\u00d5ES DE ALTA TEMPERATURA COM ARMAZENAMENTO DE ENERGIA RECARREG\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/489,389",
+            "priorityDate": "24/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/493,039",
+            "priorityDate": "03/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/494,332",
+            "priorityDate": "07/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/537,360",
+            "priorityDate": "21/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/620,364",
+            "priorityDate": "04/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "RICCARDO SIGNORELLI",
+        "JOHN COOLEY",
+        "MORRIS GREEN",
+        "PADMANABAN KUTTIPILLAI",
+        "CHRISTOPHER DEANE",
+        "LINDSAY WILHELMUS"
+    ],
+    "holders": [
+        127418
+    ],
+    "ipcCodes": [
+        "E21B 47/00"
+    ]
+}

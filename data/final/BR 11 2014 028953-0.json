@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 028953-0",
+    "filingDate": "22/05/2013",
+    "grantDate": null,
+    "title": "Extrusora multi-eixos",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 608/2012",
+            "priorityDate": "23/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80208
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2019 028282-0",
+    "filingDate": "02/04/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO, E TERMINAL M\u00d3VEL",
+    "divisionalApplication": {
+        "filingDate": "02/04/2009",
+        "applicationNumber": "PI 0908287-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        351422
+    ],
+    "ipcCodes": []
+}

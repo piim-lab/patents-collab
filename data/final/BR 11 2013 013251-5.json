@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2013 013251-5",
+    "filingDate": "15/11/2011",
+    "grantDate": null,
+    "title": "RECIPIENTE DE COLETA DE AMOSTRA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61//419,587",
+            "priorityDate": "03/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/295,235",
+            "priorityDate": "14/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        }
+    ],
+    "inventors": [
+        "JAMIESON W CRAWFORD",
+        "BRADLEY M WILKINSON",
+        "C MARK NEWBY",
+        "JITENDRA GHANEKAR"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "A61M 5/178",
+        "A61J 1/20"
+    ]
+}

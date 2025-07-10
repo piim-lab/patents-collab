@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 002664-2",
+    "filingDate": "11/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA INICIADOR DE AERONAVE, E, M\u00c9TODO PARA CONTROLAR MOVIMENTO DE UMA SUPERF\u00cdCIE DE CONTROLE DE VOO DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20315041.2",
+            "priorityDate": "20/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "BRUNO SEMINEL",
+        "ARNAUD DELPEUCH",
+        "C\u00c9DRIC ANTRAYGUE"
+    ],
+    "holders": [
+        28880
+    ],
+    "ipcCodes": [
+        "B64C 13/50",
+        "G01L 5/00",
+        "B64C 13/04"
+    ]
+}

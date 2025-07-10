@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2016 007929-9",
+    "filingDate": "13/10/2014",
+    "grantDate": null,
+    "title": "SISTEMA DE ACESSO BIOM\u00c9TRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/890,091",
+            "priorityDate": "11/10/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/947,293",
+            "priorityDate": "03/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "ROBERT K ROWE",
+        "RYAN ERIC MARTIN"
+    ],
+    "holders": [
+        125003
+    ],
+    "ipcCodes": [
+        "A61B 5/117",
+        "G01N 21/27",
+        "G01B 7/28"
+    ]
+}

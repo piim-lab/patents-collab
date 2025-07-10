@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2014 021531-6",
+    "filingDate": "28/02/2013",
+    "grantDate": null,
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E USOS DOS MESMOS",
+    "nationalPhaseDate": [
+        "29/08/2014"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2013/028131",
+        "pctDate": "28/02/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/605,487",
+            "priorityDate": "01/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "SUN LEE",
+        "SOONGYU CHOI",
+        "GARY MITCHELL KARP",
+        "HIROO KOYAMA",
+        "HASANE RATNI"
+    ],
+    "holders": [
+        139633,
+        61582
+    ],
+    "ipcCodes": [
+        "A61P 19/00",
+        "A61P 21/00",
+        "A61P 43/00",
+        "C07D 519/00",
+        "C07D 491/052",
+        "C07D 491/04"
+    ]
+}

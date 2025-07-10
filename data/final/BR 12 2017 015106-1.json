@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2017 015106-1",
+    "filingDate": "21/06/2007",
+    "grantDate": "15/10/2019",
+    "title": "ESTRUTURA DE CRISTAL DE FORMULA 1b E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/817,118",
+            "priorityDate": "28/06/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/765,481",
+            "priorityDate": "20/06/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/06/2007",
+        "applicationNumber": "PI 0713544-0"
+    },
+    "events": [
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "JACK Z GOUGOUTAS",
+        "HILDEGARD LOBINGER",
+        "SRIVIDYA RAMAKRISHNAN",
+        "PRASHANT P DESHPANDE",
+        "JEFFREY T BIEN",
+        "CHIAJEN LAI",
+        "CHENCHI WANG",
+        "PETER RIEBEL",
+        "JOHN ANTHONY GROSSO",
+        "ALEXANDRA A NIRSCHL",
+        "JANAK SINGH",
+        "JOHN D DIMARCO FALECIDO"
+    ],
+    "holders": [
+        79506
+    ],
+    "ipcCodes": [
+        "A61P 3/10",
+        "A61K 31/70",
+        "C07H 7/04"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2022 017929-4",
+    "filingDate": "29/12/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE SUPORTE DE PNEUS",
+    "nationalPhaseDate": [
+        "08/09/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT ES2020/070825",
+        "pctDate": "29/12/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20382185.5",
+            "priorityDate": "12/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "JUAN MART\u00cdNEZ ALEJO",
+        "JUAN JOS\u00c9 LLOMBART GAVALDA"
+    ],
+    "holders": [
+        324784
+    ],
+    "ipcCodes": [
+        "B60C 25/00",
+        "G01M 17/02"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2015 002803-9",
+    "filingDate": "31/07/2013",
+    "grantDate": null,
+    "title": "SISTEMA DE CAMPO PARA UMA MESA CIR\u00daRGICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/681,846",
+            "priorityDate": "10/08/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/715,974",
+            "priorityDate": "19/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/710,568",
+            "priorityDate": "11/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "JEFFREY S ROBINSON",
+        "JOSE LUIS CORONADO",
+        "KEITH J EDGETT",
+        "JAMES B ROBINSON",
+        "DENISE E OCONNOR"
+    ],
+    "holders": [
+        81540
+    ],
+    "ipcCodes": [
+        "A61B 46/00",
+        "A61B 46/10",
+        "A61B 50/15",
+        "A61B 50/13"
+    ]
+}

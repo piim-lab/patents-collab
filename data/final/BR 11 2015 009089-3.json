@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2015 009089-3",
+    "filingDate": "24/10/2013",
+    "grantDate": null,
+    "title": "UNIDADE DE LINHA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/718,087",
+            "priorityDate": "24/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/815,540",
+            "priorityDate": "24/04/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "DEREK SAUDER",
+        "JEREMY HODEL",
+        "CORY MUHLBAUER"
+    ],
+    "holders": [
+        107653
+    ],
+    "ipcCodes": [
+        "A01C 5/06"
+    ]
+}

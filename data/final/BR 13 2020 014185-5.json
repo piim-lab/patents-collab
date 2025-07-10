@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 13 2020 014185-5",
+    "filingDate": "10/07/2020",
+    "grantDate": null,
+    "title": "SEGUIMENTO VERTICAL MODULAR, PARA ESTRUTURA\u00c7\u00c3O DE UMA \u00c1RVORE DE NATAL",
+    "parentApplication": {
+        "filingDate": "18/07/2012",
+        "applicationNumber": "BR 10 2012 017754-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        }
+    ],
+    "inventors": [
+        "HOLMES PEDRO GIACOMET JUNIOR"
+    ],
+    "holders": [
+        2243
+    ],
+    "ipcCodes": [
+        "A47G 33/04",
+        "E04H 12/22",
+        "A47G 33/06",
+        "A47G 33/12"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2018 068717-7",
+    "filingDate": "14/02/2005",
+    "grantDate": "05/11/2019",
+    "title": "PROCESSOS PARA A S\u00cdNTESE DE AGOMELATINA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "04 01439",
+            "priorityDate": "13/02/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/02/2005",
+        "applicationNumber": "PI 0500393-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "CLAUDE SOUVIE",
+        "ISAAC GONZALEZ BLANCO",
+        "GILLES THOMINOT",
+        "GENEVI\u00c8VE CHAPUIS",
+        "ST\u00c9PHANE HORVATH",
+        "G\u00c9RARD DAMIEN"
+    ],
+    "holders": [
+        2043
+    ],
+    "ipcCodes": [
+        "A61K 31/445",
+        "C07C 233/22",
+        "C07C 233/17"
+    ]
+}

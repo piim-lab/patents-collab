@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 017424-0",
+    "filingDate": "26/08/2020",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE TRABALHO M\u00d3VEL, E, M\u00c9TODO REALIZADO POR UMA M\u00c1QUINA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/928,667",
+            "priorityDate": "31/10/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/783,440",
+            "priorityDate": "06/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "ANDREW W HARMON",
+        "ROBERT T CASPER",
+        "ELIJAH B GARNER"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 79/00",
+        "A01B 71/02"
+    ]
+}

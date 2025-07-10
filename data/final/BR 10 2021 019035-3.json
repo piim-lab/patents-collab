@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 019035-3",
+    "filingDate": "23/09/2021",
+    "grantDate": null,
+    "title": "PROTE\u00c7\u00c3O DENT\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/031,722",
+            "priorityDate": "24/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [
+        "JOSEF V KNUTZEN",
+        "JESSICA RIOCA LIN",
+        "JOSEPH R MARTONE"
+    ],
+    "holders": [
+        70541
+    ],
+    "ipcCodes": [
+        "A61F 5/56"
+    ]
+}

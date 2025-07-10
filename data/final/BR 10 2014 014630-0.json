@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2014 014630-0",
+    "filingDate": "16/06/2014",
+    "grantDate": null,
+    "title": "PROCESSO DE ELIMINA\u00c7\u00c3O DO ARS\u00caNICO DE UMA CARGA DE HIDROCARBONETOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "13/55.932",
+            "priorityDate": "21/06/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "CLAIRE MARION",
+        "PHILIBERT LEFLAIVE",
+        "ANNICK PUCCI"
+    ],
+    "holders": [
+        32
+    ],
+    "ipcCodes": [
+        "C10G 45/08",
+        "C10G 25/00"
+    ]
+}

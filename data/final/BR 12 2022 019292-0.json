@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2022 019292-0",
+    "filingDate": "13/03/2017",
+    "grantDate": null,
+    "title": "APARELHO INCLUINDO UM CONJUNTO DE MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/307,037",
+            "priorityDate": "11/03/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/03/2017",
+        "applicationNumber": "BR 11 2018 068264-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "DEAN P WILLIAMS",
+        "MARK A PLAYFORD",
+        "DANIEL J KERNAN",
+        "LEE EMPRINGHAM",
+        "LILIANA V DE LILLO",
+        "CHRISTOPHER J F TIGHE",
+        "DEAN P WILLIAMS",
+        "MARK A PLAYFORD",
+        "DANIEL J KERNAN",
+        "LEE EMPRINGHAM",
+        "LILIANA V DE LILLO",
+        "CHRISTOPHER J F TIGHE"
+    ],
+    "holders": [
+        37571
+    ],
+    "ipcCodes": [
+        "H02K 11/33",
+        "H02K 5/15"
+    ]
+}

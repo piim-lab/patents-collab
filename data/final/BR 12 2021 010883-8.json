@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2021 010883-8",
+    "filingDate": "19/04/2013",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O DE MISTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/635,677",
+            "priorityDate": "19/04/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/04/2013",
+        "applicationNumber": "BR 11 2014 026166-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "KORNEEL DE RUDDER",
+        "STEPHANE LE MERDY",
+        "BART SCHELLENS",
+        "NIC DEGELIN",
+        "CORINE CHAUVIN",
+        "JEFFREY CURTIS GILLEN"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "F01N 3/28",
+        "F01N 3/00",
+        "F01N 3/20"
+    ]
+}

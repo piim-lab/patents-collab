@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2020 014602-8",
+    "filingDate": "15/12/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE RECUPERA\u00c7\u00c3O DE UMA PLATAFORMA M\u00d3VEL A PARTIR DE UM TANQUE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2017/066758",
+            "priorityDate": "15/12/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/12/2018",
+        "applicationNumber": "BR 11 2020 005580-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "JOHN W MEYERS",
+        "JOSEPH A DAILY",
+        "ROBERT T IV EFFINGER",
+        "DONALD A PONTRELLI",
+        "DAVID L CHEUVRONT",
+        "JAMES TODD LOVELACE",
+        "RONALD GILLORY",
+        "DAVID JOHN CASSIMATIS"
+    ],
+    "holders": [
+        263036
+    ],
+    "ipcCodes": [
+        "G01N 29/22",
+        "G02B 23/24",
+        "G01N 21/88",
+        "G01S 17/89",
+        "G01N 29/265",
+        "G01N 29/26"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 005922-0",
+    "filingDate": "25/03/2020",
+    "grantDate": null,
+    "title": "INSERTO REMOV\u00cdVEL PARA UMA CAIXA DE ROTOR DE DEBULHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/360,878",
+            "priorityDate": "21/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        }
+    ],
+    "inventors": [
+        "FRANCISCO MEZZOMO",
+        "MICHAEL J MATWAY",
+        "TRAVIS OHMS"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 41/12",
+        "A01F 12/52"
+    ]
+}

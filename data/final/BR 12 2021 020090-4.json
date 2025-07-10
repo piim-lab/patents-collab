@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2021 020090-4",
+    "filingDate": "10/11/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO ELETR\u00d4NICO DOBR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2015-0159787",
+            "priorityDate": "13/11/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/11/2016",
+        "applicationNumber": "BR 11 2018 009542-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "JAEHYUNG KIM",
+        "JINKYU BANG",
+        "JINU KIM",
+        "DONGHWAN KIM",
+        "TAEGYU KIM",
+        "KIYOUNG CHANG"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04M 1/02",
+        "H01Q 1/24",
+        "H05K 5/00",
+        "H05K 5/04",
+        "H01Q 1/48"
+    ]
+}

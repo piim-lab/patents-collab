@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 10 2021 003370-3",
+    "filingDate": "23/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE QUEBRA DE GR\u00c3OS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "28.10.25",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia resultante de financiamento p\u00fablico",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "RAMIRO SARAIVA DA SILVA",
+        "CARLOS FERNANDO OLIVEIRA CABE\u00c7A NEVES",
+        "SIDNEY ROBERTO DIAS DE CARVALHO",
+        "RAFAEL MONTEIRO VERAS",
+        "RENAN BONNARD"
+    ],
+    "holders": [
+        65707
+    ],
+    "ipcCodes": [
+        "B02C 4/32",
+        "B02C 25/00",
+        "B02C 4/38"
+    ]
+}

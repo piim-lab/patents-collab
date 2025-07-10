@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 018902-1",
+    "filingDate": "21/09/2022",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS DE COMPENSA\u00c7\u00c3O DE VELOCIDADE DE GUINCHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 17/486,275",
+            "priorityDate": "27/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "CURTIS J CALDWELL",
+        "BENJAMIN BARBIER"
+    ],
+    "holders": [
+        4453
+    ],
+    "ipcCodes": [
+        "B66D 1/48"
+    ]
+}

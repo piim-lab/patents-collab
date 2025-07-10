@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 015810-0",
+    "filingDate": "10/08/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO ELETR\u00d4NICO COM BLOQUEIO DE IMAGEM DE N\u00c3O PARTICIPANTE DURANTE COMUNICA\u00c7\u00c3O DE V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/399,377",
+            "priorityDate": "11/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "RAHUL B DESAI",
+        "AMIT KUMAR AGRAWAL"
+    ],
+    "holders": [
+        21580
+    ],
+    "ipcCodes": [
+        "G06V 40/16",
+        "H04N 5/222",
+        "G06V 10/25"
+    ]
+}

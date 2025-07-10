@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 12 2019 025678-0",
+    "filingDate": "01/11/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES QUE COMPREENDEM \u00c1CIDO NUCLEICO QUE CODIFICA UMA PROTE\u00cdNA DE EDI\u00c7\u00c3O G\u00caNICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/721,302",
+            "priorityDate": "01/11/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/785,404",
+            "priorityDate": "14/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/842,874",
+            "priorityDate": "03/07/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/11/2013",
+        "applicationNumber": "BR 11 2015 009804-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "MATTHEW ANGEL",
+        "CHRISTOPHER ROHDE"
+    ],
+    "holders": [
+        137826
+    ],
+    "ipcCodes": [
+        "C12N 15/63",
+        "A61P 35/00",
+        "A61K 48/00",
+        "C12Q 1/68",
+        "C12N 5/10",
+        "C12N 15/31",
+        "A61P 25/28",
+        "A61K 38/46",
+        "A61P 25/14",
+        "C12N 9/22",
+        "A61K 31/7115"
+    ]
+}

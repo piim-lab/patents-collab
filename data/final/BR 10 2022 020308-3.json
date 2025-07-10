@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 10 2022 020308-3",
+    "filingDate": "06/10/2022",
+    "grantDate": null,
+    "title": "\u00d3RTESE PARA REABILITA\u00c7\u00c3O DA M\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2780"
+        }
+    ],
+    "inventors": [
+        "PATR\u00cdCIA NETO BARROSO"
+    ],
+    "holders": [
+        77061
+    ],
+    "ipcCodes": [
+        "A61F 5/01",
+        "A61F 5/058"
+    ]
+}

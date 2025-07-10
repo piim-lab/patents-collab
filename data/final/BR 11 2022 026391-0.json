@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2022 026391-0",
+    "filingDate": "18/06/2021",
+    "grantDate": null,
+    "title": "FILTRO DE AR E GAXETA PARA O MESMO",
+    "nationalPhaseDate": [
+        "22/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/038123",
+        "pctDate": "18/06/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/042,407",
+            "priorityDate": "22/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "JOSEPH JOHN GORMAN",
+        "ADAM SIENKIEWICZ",
+        "JONATHAN P ALBAR"
+    ],
+    "holders": [
+        92381
+    ],
+    "ipcCodes": [
+        "F16J 15/10",
+        "B01D 46/00",
+        "F16J 15/06",
+        "B01D 46/02",
+        "F16J 15/02",
+        "F16L 23/16"
+    ]
+}

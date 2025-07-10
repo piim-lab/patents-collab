@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2018 068973-8",
+    "filingDate": "18/09/2018",
+    "grantDate": null,
+    "title": "CONJUNTO ENVOLT\u00d3RIO DE M\u00d3DULO, E, SISTEMA DE CONSTRU\u00c7\u00c3O DE M\u00d3DULO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/585,792",
+            "priorityDate": "14/11/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/991,070",
+            "priorityDate": "29/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "RYAN A HACKERT",
+        "KEVIN J GOERING",
+        "JEFFREY S WIGDAHL"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01F 15/14"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2020 024394-5",
+    "filingDate": "04/08/2011",
+    "grantDate": null,
+    "title": "CONJUGADO E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/427,845",
+            "priorityDate": "29/12/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/08/2011",
+        "applicationNumber": "BR 11 2013 016761-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "PHILIPP HADWIGER",
+        "TORSTEN HOFFMANN",
+        "KERSTIN JAHN",
+        "ERIC A KITAS",
+        "DAVID L LEWIS",
+        "PETER MOHR",
+        "HANS MARTIN MUELLER",
+        "GUENTHER OTT",
+        "INGO ROEHL",
+        "DAVID B ROZEMA"
+    ],
+    "holders": [
+        61582
+    ],
+    "ipcCodes": [
+        "A61K 48/00",
+        "C12N 15/11",
+        "C12N 15/87",
+        "A61K 47/18",
+        "A61K 31/713"
+    ]
+}

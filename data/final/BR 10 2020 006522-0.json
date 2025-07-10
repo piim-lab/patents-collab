@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 006522-0",
+    "filingDate": "31/03/2020",
+    "grantDate": null,
+    "title": "PROCESSO DE TRATAMENTO DE A\u00c7\u00daCAR",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1903702",
+            "priorityDate": "05/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "DAMIEN BRICHANT",
+        "ANTOINE CHARBONNEAU"
+    ],
+    "holders": [
+        57562
+    ],
+    "ipcCodes": [
+        "C13B 20/16",
+        "B01D 15/36",
+        "C13B 20/14"
+    ]
+}

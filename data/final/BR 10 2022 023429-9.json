@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 023429-9",
+    "filingDate": "17/11/2022",
+    "grantDate": null,
+    "title": "CONTROLE DE LEITOR RFID INTEGRADO COM ROUPA INTELIGENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/455.467",
+            "priorityDate": "18/11/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "WALTER D BURNSIDE",
+        "FENG TSAI"
+    ],
+    "holders": [
+        71509
+    ],
+    "ipcCodes": [
+        "G06F 1/16",
+        "G06K 19/077",
+        "G06K 19/07",
+        "G06K 7/00",
+        "G06K 7/10",
+        "G06F 3/16",
+        "H04W 4/80",
+        "H04B 17/318"
+    ]
+}

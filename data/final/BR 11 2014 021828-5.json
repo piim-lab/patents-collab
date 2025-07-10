@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 021828-5",
+    "filingDate": "13/03/2013",
+    "grantDate": "24/04/2019",
+    "title": "SAL DE ALCALOIDE BISQUATERN\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/610746",
+            "priorityDate": "14/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "BANGPING XIANG",
+        "NOBUYOSHI YASUDA"
+    ],
+    "holders": [
+        82587
+    ],
+    "ipcCodes": [
+        "C07D 453/04"
+    ]
+}

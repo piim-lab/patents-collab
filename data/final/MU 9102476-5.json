@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "MU 9102476-5",
+    "filingDate": "27/01/2011",
+    "grantDate": "09/10/2018",
+    "title": "CART\u00c3O DE DADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2010 20106703.X",
+            "priorityDate": "27/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2759"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2775"
+        }
+    ],
+    "inventors": [
+        "BIN ZHANG",
+        "JIANJUN XIAO",
+        "MENGLONG ZHAO",
+        "XI JIA"
+    ],
+    "holders": [
+        93247
+    ],
+    "ipcCodes": [
+        "H05K 5/02",
+        "H01R 13/72"
+    ]
+}

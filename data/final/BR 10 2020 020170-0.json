@@ -1,0 +1,93 @@
+{
+    "applicationNumber": "BR 10 2020 020170-0",
+    "filingDate": "01/10/2020",
+    "grantDate": null,
+    "title": "MEIO DE ARMAZENAGEM LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO E M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/910,343",
+            "priorityDate": "03/10/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/730,896",
+            "priorityDate": "30/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "28.20",
+            "description": "Peti\u00e7\u00e3o de tr\u00e2mite priorit\u00e1rio n\u00e3o conhecida",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "28.21",
+            "description": "Exig\u00eancia formal de tr\u00e2mite priorit\u00e1rio",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "NASSIR BENAMMAR",
+        "CHANNASANDRA RAVISHANKAR",
+        "GAGUK ZAKARIA"
+    ],
+    "holders": [
+        28
+    ],
+    "ipcCodes": [
+        "H04W 88/02",
+        "H04W 36/14",
+        "H04W 36/00",
+        "H04W 84/00",
+        "H04W 36/08",
+        "H04W 36/38",
+        "H04W 36/12",
+        "H04W 36/18"
+    ]
+}

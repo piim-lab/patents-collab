@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2021 000773-7",
+    "filingDate": "15/01/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE TURBINA E\u00d3LICA, CONTROLADOR DE TURBINA E\u00d3LICA E M\u00c9TODO PARA CONTROLAR UMA TURBINA E\u00d3LICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/744,498",
+            "priorityDate": "16/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "SIYUN WANG",
+        "LEONARDO CESAR KAMMER",
+        "FREDERICK WILSON WHEELER",
+        "DHIRAJ ARORA"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "H02P 9/00"
+    ]
+}

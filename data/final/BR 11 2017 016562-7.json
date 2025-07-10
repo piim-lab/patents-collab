@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2017 016562-7",
+    "filingDate": "02/02/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PROCESSAMENTO DE UMA MISTURA COMPREENDENDOPELO MENOS DOIS POLISSACAR\u00cdDEOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1501799.9",
+            "priorityDate": "03/02/2015"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1519344.4",
+            "priorityDate": "02/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "JOHANSSON INGBRITT",
+        "MARK LAWTHER",
+        "BART MOYSON",
+        "OLA ANDERSON"
+    ],
+    "holders": [
+        193996
+    ],
+    "ipcCodes": [
+        "C08B 37/00"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 017625-6",
+    "filingDate": "18/01/2013",
+    "grantDate": null,
+    "title": "KIT CURATIVO OCLUSIVO MODIFIC\u00c1VEL E SEU M\u00c9TODO DE CONSTRU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/588,121",
+            "priorityDate": "18/01/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/745,690",
+            "priorityDate": "18/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        }
+    ],
+    "inventors": [
+        "ZUROVCIK DANIELLE"
+    ],
+    "holders": [
+        140383
+    ],
+    "ipcCodes": [
+        "A61F 13/02",
+        "A61L 26/00",
+        "A61M 27/00",
+        "A61M 1/00"
+    ]
+}

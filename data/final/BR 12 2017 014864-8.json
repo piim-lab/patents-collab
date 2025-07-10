@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2017 014864-8",
+    "filingDate": "17/06/2005",
+    "grantDate": "05/06/2018",
+    "title": "M\u00c9TODO E SISTEMA PARA PROCESSAMENTO DE MATERIAL DE DETRITOS DE PERFURA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/875,083",
+            "priorityDate": "22/06/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/06/2005",
+        "applicationNumber": "PI 0511406-3"
+    },
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "GEORGE ALEXANDER BURNETT",
+        "DAVID WOOD",
+        "KENNETH WAYNE SEYFFERT",
+        "WILLIAN CHRISTIAN HERBEN",
+        "JAMES MICHAEL MCINTOSH",
+        "COLIN CRABB"
+    ],
+    "holders": [
+        49870
+    ],
+    "ipcCodes": [
+        "E21B 41/00",
+        "E21B 21/06"
+    ]
+}

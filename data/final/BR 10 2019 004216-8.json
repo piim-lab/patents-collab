@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2019 004216-8",
+    "filingDate": "28/02/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE T\u00caMPERA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102018002086.0",
+            "priorityDate": "09/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "SEBASTIAN DRUS",
+        "CARSTEN BIRK"
+    ],
+    "holders": [
+        20712
+    ],
+    "ipcCodes": [
+        "F28D 7/00",
+        "F28D 21/00"
+    ]
+}

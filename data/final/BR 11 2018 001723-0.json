@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2018 001723-0",
+    "filingDate": "26/07/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE UM FLUXO RICO EM ARG\u00d4NIO IMPURO.",
+    "nationalPhaseDate": [
+        "26/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/044004",
+        "pctDate": "26/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/199,450",
+            "priorityDate": "31/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/057,150",
+            "priorityDate": "01/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        96124
+    ],
+    "ipcCodes": []
+}

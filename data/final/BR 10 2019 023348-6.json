@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2019 023348-6",
+    "filingDate": "06/11/2019",
+    "grantDate": null,
+    "title": "SISTEMA PARA PRODUZIR AR PARA UMA CABINE DE UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/212,167",
+            "priorityDate": "06/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "MARCUS K RICHARDSON",
+        "STEVE G MACKIN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": []
+}

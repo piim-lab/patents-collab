@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2016 029210-3",
+    "filingDate": "30/10/2015",
+    "grantDate": null,
+    "title": "PLATAFORMA DE INTERCONEX\u00c3O PARA CONFIGURA\u00c7\u00c3O E GERENCIAMENTO EM TEMPO REAL DE UMA TROCA DE SERVI\u00c7OS COM BASE EM NUVEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/072,976",
+            "priorityDate": "30/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/233,933",
+            "priorityDate": "28/09/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/927,451",
+            "priorityDate": "29/10/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "PARVEEN KUMAR",
+        "GAGAN MAHESHWARI",
+        "JAGANATHAN JEYAPAUL",
+        "BRIAN J LILLIE"
+    ],
+    "holders": [
+        184234
+    ],
+    "ipcCodes": [
+        "H04L 12/24",
+        "H04L 29/08",
+        "G06F 9/50"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 024525-8",
+    "filingDate": "30/11/2022",
+    "grantDate": null,
+    "title": "MA\u00c7ANETA ELETR\u00d4NICA PARA UMA PORTA DE VE\u00cdCULO E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21215308.4",
+            "priorityDate": "16/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "THOMAS DEVERNOIS",
+        "ANTHONY GUERIN"
+    ],
+    "holders": [
+        68943
+    ],
+    "ipcCodes": [
+        "E05B 81/90",
+        "E05B 85/16",
+        "E05B 81/76"
+    ]
+}

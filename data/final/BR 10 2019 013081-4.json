@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2019 013081-4",
+    "filingDate": "24/06/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA DETECTAR SE GELO FOI DERRAMADO DE UMA SUPERF\u00cdCIE EXTERNA DE UM COMPONENTE, E, M\u00c9TODO PARA DESCONGELAR UMA SUPERF\u00cdCIE EXTERNA DE UM COMPONENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18306459.1",
+            "priorityDate": "07/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2802"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [
+        "LOUIS CHAUVET",
+        "ALEX PICARD",
+        "ROMAIN BOULOC",
+        "THIBAUT MARGER"
+    ],
+    "holders": [
+        28880
+    ],
+    "ipcCodes": [
+        "B64D 15/20",
+        "B64D 15/12",
+        "F02C 7/047"
+    ]
+}

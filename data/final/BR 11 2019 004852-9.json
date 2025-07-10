@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2019 004852-9",
+    "filingDate": "12/09/2017",
+    "grantDate": null,
+    "title": "TRANSMISS\u00c3O DE M\u00daLTIPLO ACESSO N\u00c3O ORTOGONAL",
+    "nationalPhaseDate": [
+        "13/03/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2017/101346",
+        "pctDate": "12/09/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/394,454",
+            "priorityDate": "14/09/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/407,999",
+            "priorityDate": "13/10/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/701,035",
+            "priorityDate": "11/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "YIQUN WU",
+        "ALIREZA BAYESTEH",
+        "YAN CHEN",
+        "JIANGLEI MA"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 27/26"
+    ]
+}

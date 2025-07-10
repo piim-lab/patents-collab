@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2023 004403-4",
+    "filingDate": "09/03/2023",
+    "grantDate": null,
+    "title": "MOTOR EL\u00c9TRICO, BOMBA DE COMBUST\u00cdVEL E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2022 202 909.7",
+            "priorityDate": "24/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "WOLF GOETZE",
+        "JENS MISSUN"
+    ],
+    "holders": [
+        34080
+    ],
+    "ipcCodes": [
+        "F02M 37/00"
+    ]
+}

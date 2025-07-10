@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2015 003250-8",
+    "filingDate": "15/08/2013",
+    "grantDate": null,
+    "title": "PRODU\u00c7\u00c3O DE C\u00c9LULAS SANGUINEAS VERMELHAS E PLAQUETAS A PARTIR DE C\u00c9LULAS-TRONCO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/683,246",
+            "priorityDate": "15/08/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/828,357",
+            "priorityDate": "14/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "GEORE J MURPHY",
+        "DAVID H SHERR",
+        "BRENDEN W SMITH",
+        "SARAH S ROZELLE"
+    ],
+    "holders": [
+        107621,
+        107622
+    ],
+    "ipcCodes": [
+        "C12N 5/071"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 10 2019 004247-8",
+    "filingDate": "28/02/2019",
+    "grantDate": null,
+    "title": "APLICATIVO GERADOR DE QRCODE PARA PERMISS\u00c3O DE ACESSO A LOCAIS PRIVADOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "DIMAS DE MELO PIMENTA II"
+    ],
+    "holders": [
+        46983
+    ],
+    "ipcCodes": [
+        "G06F 21/30",
+        "G06F 8/30"
+    ]
+}

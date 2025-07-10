@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2018 071345-7",
+    "filingDate": "18/04/2017",
+    "grantDate": null,
+    "title": "MEMBRO DE ALOJAMENTO DE ELEMENTO EMISSOR DE LUZ, MEMBRO DE MATRIZ E DISPOSITIVO EMISSOR DE LUZ",
+    "nationalPhaseDate": [
+        "17/10/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2017/015601",
+        "pctDate": "18/04/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-082994",
+            "priorityDate": "18/04/2016"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-146592",
+            "priorityDate": "26/07/2016"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-166726",
+            "priorityDate": "29/08/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "YOUJI FURUKUBO",
+        "SENTARO YAMAMOTO",
+        "MASANORI OKAMOTO",
+        "KATSUAKI MASAKI",
+        "TAKEHIRO NISHIMURA",
+        "KAZUYA SHIBATA"
+    ],
+    "holders": [
+        105527
+    ],
+    "ipcCodes": [
+        "H01S 5/022"
+    ]
+}

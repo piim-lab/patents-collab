@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2018 074657-0",
+    "filingDate": "29/11/2018",
+    "grantDate": null,
+    "title": "PROCESSO DE AN\u00c1LISE VOLUM\u00c9TRICA COM DIFERENTES N\u00cdVEIS DE RESOLU\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [
+        "L\u00c9O DE OLIVEIRA"
+    ],
+    "holders": [
+        20813
+    ],
+    "ipcCodes": [
+        "G01N 31/16"
+    ]
+}

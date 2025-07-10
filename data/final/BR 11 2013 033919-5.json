@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2013 033919-5",
+    "filingDate": "14/08/2012",
+    "grantDate": null,
+    "title": "COMBINA\u00c7\u00d5ES E SEUS USOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11177658.9",
+            "priorityDate": "16/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/523,861",
+            "priorityDate": "16/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/647,539",
+            "priorityDate": "16/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/654,097",
+            "priorityDate": "01/06/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "JUTTA AMERSDORFFER",
+        "STEFAN STEIDL",
+        "MARK WINDERLICH",
+        "SUSANNE KROHN",
+        "LISA ROJKJAER"
+    ],
+    "holders": [
+        111015
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C07K 16/28"
+    ]
+}

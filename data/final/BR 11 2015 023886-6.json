@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2015 023886-6",
+    "filingDate": "17/03/2014",
+    "grantDate": null,
+    "title": "POLIPEPT\u00cdDEO E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA201300155",
+            "priorityDate": "18/03/2013"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA201300684",
+            "priorityDate": "11/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "FRANK FOLLMANN",
+        "IDA ROSENKRANDS",
+        "ANJA OLSEN",
+        "PETER LAW\u00c6TZ ANDERSEN"
+    ],
+    "holders": [
+        163677
+    ],
+    "ipcCodes": [
+        "A61K 39/118",
+        "C07K 14/295"
+    ]
+}

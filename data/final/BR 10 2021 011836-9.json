@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 011836-9",
+    "filingDate": "17/06/2021",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O EM GEL L\u00cdQUIDO \u00cdNTIMO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "MAISA PACHECO DE LIRA"
+    ],
+    "holders": [
+        68265
+    ],
+    "ipcCodes": [
+        "A61P 15/02",
+        "A61K 35/02"
+    ]
+}

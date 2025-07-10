@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2016 007372-6",
+    "filingDate": "15/12/2004",
+    "grantDate": null,
+    "title": "ESPALHAMENTO ESPACIAL EM UM SISTEMA DE COMUNICA\u00c7\u00c3O MULTIANTENA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/531,021",
+            "priorityDate": "17/12/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/008,865",
+            "priorityDate": "09/12/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/12/2004",
+        "applicationNumber": "PI 0417675-8"
+    },
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "JAY RODNEY WALTON",
+        "LIZHONG ZHENG",
+        "JOHN W KETCHUM",
+        "MARK S WALLACE",
+        "STEVEN J HOWARD"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/06"
+    ]
+}

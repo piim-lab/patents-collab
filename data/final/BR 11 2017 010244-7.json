@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 010244-7",
+    "filingDate": "17/11/2015",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA PREPARA\u00c7\u00c3O DE UM PRODUTO L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2013824",
+            "priorityDate": "17/11/2014"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2013947",
+            "priorityDate": "09/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "JASPER JACOBUS VAN DE SLUIS",
+        "ROLAND WALDEMAR VERBEEK"
+    ],
+    "holders": [
+        190793
+    ],
+    "ipcCodes": [
+        "B67D 1/00",
+        "A47J 31/36",
+        "A47J 31/40",
+        "B65D 85/804"
+    ]
+}

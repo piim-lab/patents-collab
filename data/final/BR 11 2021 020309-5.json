@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2021 020309-5",
+    "filingDate": "09/04/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETERMINAR A GEOMETRIA DE UM DEFEITO COM BASE EM M\u00c9TODOS DE MEDI\u00c7\u00c3O N\u00c3O DESTRUTIVOS USANDO INVERS\u00c3O DIRETA",
+    "nationalPhaseDate": [
+        "08/10/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/060189",
+        "pctDate": "09/04/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19168280.6",
+            "priorityDate": "09/04/2019"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19168531.2",
+            "priorityDate": "10/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2799"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "ANDREY DANILOV",
+        "MATTHIAS PEUSSNER"
+    ],
+    "holders": [
+        177233
+    ],
+    "ipcCodes": [
+        "G01N 29/44",
+        "G01N 29/24",
+        "G01N 27/90"
+    ]
+}

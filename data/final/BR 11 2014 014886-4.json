@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 014886-4",
+    "filingDate": "07/12/2012",
+    "grantDate": null,
+    "title": "PROCESSO DE DETERMINA\u00c7\u00c3O DE UM CONSUMO DE POT\u00caNCIA, SISTEMA DE SUPERVIS\u00c3O E INSTALA\u00c7\u00c3O EL\u00c9TRICA EM CORRENTE ALTERNADA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1103955",
+            "priorityDate": "20/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "MARC BRUEL"
+    ],
+    "holders": [
+        253
+    ],
+    "ipcCodes": [
+        "G01R 21/133",
+        "G01R 21/06"
+    ]
+}

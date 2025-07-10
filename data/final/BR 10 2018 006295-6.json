@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 006295-6",
+    "filingDate": "28/03/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AUTOMATIZAR A MANUTEN\u00c7\u00c3O DE UM SISTEMA DE TRANSPORTE, E, PRODUTO DE PROGRAMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/473971",
+            "priorityDate": "30/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "SALLY DAY MAHONEY",
+        "SANDEEP SUDI",
+        "FRANK HIGGINS",
+        "YOSEF HAIMES",
+        "MICK MAURER",
+        "TONY BLACK",
+        "LESLIE C WATTERSON"
+    ],
+    "holders": [
+        28010
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G06Q 10/10",
+        "G06Q 10/00",
+        "B66B 5/00",
+        "B66B 1/34"
+    ]
+}

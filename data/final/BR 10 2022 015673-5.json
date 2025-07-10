@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 015673-5",
+    "filingDate": "08/08/2022",
+    "grantDate": null,
+    "title": "CORPO DA PIN\u00c7A DE UM FREIO A DISCO DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-141927",
+            "priorityDate": "31/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "DAIKI ATSUTA",
+        "TAKAHIRO TAKEMURA",
+        "SHOTARO TOKUYAMA",
+        "YUTA SUZUKI"
+    ],
+    "holders": [
+        147,
+        21950
+    ],
+    "ipcCodes": [
+        "F16D 65/02",
+        "B60T 17/00"
+    ]
+}

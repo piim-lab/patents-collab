@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 12 2018 073647-0",
+    "filingDate": "11/05/2007",
+    "grantDate": null,
+    "title": "ARRANJO PARA CONTROLAR UM VARIADOR E TRANSMISS\u00c3O CONTINUAMENTE VARI\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0611265.0",
+            "priorityDate": "08/06/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/05/2007",
+        "applicationNumber": "PI 0712137-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "ROBERT ANDREW OLIVER",
+        "ROBERT ANDREW OLIVER"
+    ],
+    "holders": [
+        97747
+    ],
+    "ipcCodes": [
+        "F16H 61/66",
+        "F16H 63/06"
+    ]
+}

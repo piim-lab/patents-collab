@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 071822-3",
+    "filingDate": "23/10/2018",
+    "grantDate": null,
+    "title": "TERMINAL PARA PROCESSAR UMA TRANSA\u00c7\u00c3O, M\u00c9TODO PARA PROCESSAR UMA TRANSA\u00c7\u00c3O, MEIO LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/576,043",
+            "priorityDate": "23/10/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/039,119",
+            "priorityDate": "18/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2761"
+        }
+    ],
+    "inventors": [
+        "MARCO ANDRES FREUDMAN",
+        "KYLE EVAN BLAIR"
+    ],
+    "holders": [
+        43028
+    ],
+    "ipcCodes": [
+        "G06Q 20/10",
+        "G06F 21/31",
+        "G06Q 20/08"
+    ]
+}

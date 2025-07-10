@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 12 2020 001027-4",
+    "filingDate": "15/12/2011",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE PROGRAMA\u00c7\u00c3O DE VE\u00cdCULO REMOTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/977,830",
+            "priorityDate": "23/12/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/12/2011",
+        "applicationNumber": "BR 11 2013 016232-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        117925
+    ],
+    "ipcCodes": []
+}

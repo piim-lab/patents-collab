@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 12 2020 005772-6",
+    "filingDate": "22/09/2014",
+    "grantDate": "11/10/2022",
+    "title": "PROCESSO PARA PREPARA\u00c7\u00c3O DE UM PRODUTO CATALISADOR E PRODUTO CATALISADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1316874.5",
+            "priorityDate": "23/09/2013"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1415175.7",
+            "priorityDate": "27/08/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/09/2014",
+        "applicationNumber": "BR 11 2016 006256-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2816"
+        }
+    ],
+    "inventors": [
+        "KARL LOWRY",
+        "JOHN LALANDE EDWARDS",
+        "DARREN J WATERS",
+        "JOHN ROBB"
+    ],
+    "holders": [
+        171768
+    ],
+    "ipcCodes": [
+        "C01G 23/047",
+        "C01G 23/053",
+        "C01G 23/08"
+    ]
+}

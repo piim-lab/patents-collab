@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 021051-3",
+    "filingDate": "14/10/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE COMUNICA\u00c7\u00c3O ETHERNET SOBRE USB PARA EMISSORES DE CUPONS FISCAIS ELETR\u00d4NICOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2756"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "ANDREI SILVA DE SOUZA",
+        "WENDELL PEREIRA DA SILVA"
+    ],
+    "holders": [
+        47245
+    ],
+    "ipcCodes": [
+        "G06F 13/10",
+        "G07G 5/00"
+    ]
+}

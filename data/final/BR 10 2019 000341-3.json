@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 000341-3",
+    "filingDate": "08/01/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE CONFORTO DE VE\u00cdCULO DE PASSAGEIRO, E M\u00c9TODO PARA GERENCIAR CONFORTO DE PASSAGEIRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/889,297",
+            "priorityDate": "06/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "TYLER E BERKLEY",
+        "DANIEL S THOMAS"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 11/06"
+    ]
+}

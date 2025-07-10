@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 10 2018 000889-7",
+    "filingDate": "16/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE AUTORIZA\u00c7\u00c3O A MOTORISTA PARA ATIVAR PELO MENOS UM SISTEMA DE VE\u00cdCULO, BASEADO EM UM PROCESSO DE AUTENTICA\u00c7\u00c3O BIOM\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EM",
+            "priorityNumber": "17151558.8",
+            "priorityDate": "16/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "15.9",
+            "description": "Perda de Prioridade",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "THOMAS FARGES"
+    ],
+    "holders": [
+        35651
+    ],
+    "ipcCodes": [
+        "G06F 21/32",
+        "B60R 25/25"
+    ]
+}

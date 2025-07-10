@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2012 014649-1",
+    "filingDate": "16/12/2010",
+    "grantDate": null,
+    "title": "SENSOR ESPECTRAL E M\u00c9TODO PARA VERIFICA\u00c7\u00c3O DE DOCUMENTOS DE VALOR",
+    "nationalPhaseDate": [
+        "15/06/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2010/007704",
+        "pctDate": "16/12/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2009 058 805.1",
+            "priorityDate": "18/12/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "J\u00d6RG FRANKENBERGER",
+        "WOLFGANG DECKENBACH",
+        "WOLFGANG RAUSCHER"
+    ],
+    "holders": [
+        83548
+    ],
+    "ipcCodes": [
+        "G07D 7/12"
+    ]
+}

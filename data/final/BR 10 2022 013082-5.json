@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 013082-5",
+    "filingDate": "29/06/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE FRENAGEM DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/229,029",
+            "priorityDate": "03/08/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/507,464",
+            "priorityDate": "21/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "MATTHEW PRICE",
+        "SHANKAR CHANDRASEKARAN",
+        "RAJASEKARAN MURUGESAN"
+    ],
+    "holders": [
+        12441
+    ],
+    "ipcCodes": [
+        "B60T 13/74",
+        "B60T 17/22",
+        "B60T 13/68"
+    ]
+}

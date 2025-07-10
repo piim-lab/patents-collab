@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2020 002127-6",
+    "filingDate": "12/09/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO DE DERIVA\u00c7\u00c3O DE VALORES DE MODO DE PREDI\u00c7\u00c3O DE REFER\u00caNCIA E CODIFICA\u00c7\u00c3O E DECODIFICA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O REPRESENTANDO MODOS DE PREDI\u00c7\u00c3O, E MEIO DE ARMAZENAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1115739.3",
+            "priorityDate": "12/09/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/09/2012",
+        "applicationNumber": "BR 11 2014 005323-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "EDOUARD FRAN\u00c7OIS",
+        "GUILLAUME LAROCHE",
+        "PATRICE ONNO"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/176",
+        "H04N 19/105",
+        "H04N 19/52",
+        "H04N 19/593",
+        "H04N 19/196"
+    ]
+}

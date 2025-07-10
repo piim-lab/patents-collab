@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2016 023313-5",
+    "filingDate": "06/10/2016",
+    "grantDate": null,
+    "title": "SECADOR DE CABELO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2015 1064 8938.9",
+            "priorityDate": "09/10/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "15.30",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "MARK JOHANNES LELIEVELD",
+        "CARLOS JOS\u00c9 CEVA",
+        "MARK JOHANNES LELIEVELD"
+    ],
+    "holders": [
+        5640,
+        79434,
+        314875
+    ],
+    "ipcCodes": [
+        "A45D 20/12",
+        "A45D 20/10"
+    ]
+}

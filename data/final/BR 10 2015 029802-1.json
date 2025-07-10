@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2015 029802-1",
+    "filingDate": "27/11/2015",
+    "grantDate": null,
+    "title": "SISTEMA DE DETEC\u00c7\u00c3O DE FALHA DE ATERRAMENTO, SISTEMA DE TRANSFER\u00caNCIA DE POT\u00caNCIA DE CORRENTE CONT\u00cdNUA E M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/556,744",
+            "priorityDate": "01/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "DONG DONG",
+        "YAN PAN",
+        "RIXIN LAI"
+    ],
+    "holders": [
+        10546
+    ],
+    "ipcCodes": [
+        "H02J 1/00",
+        "H02H 9/08"
+    ]
+}

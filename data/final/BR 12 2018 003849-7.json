@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 12 2018 003849-7",
+    "filingDate": "04/01/2005",
+    "grantDate": null,
+    "title": "DISPOSITIVO VED\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/770,095",
+            "priorityDate": "02/02/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/01/2005",
+        "applicationNumber": "PI 0507337-5"
+    },
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "CAROLE JEGO STORA"
+    ],
+    "holders": [
+        19235
+    ],
+    "ipcCodes": [
+        "H02G 15/013",
+        "C09K 3/10"
+    ]
+}

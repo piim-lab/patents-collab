@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 015478-3",
+    "filingDate": "20/12/2012",
+    "grantDate": null,
+    "title": "DISPOSITIVO CONECTOR E TETEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1151251-4",
+            "priorityDate": "22/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/579,061",
+            "priorityDate": "22/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        }
+    ],
+    "inventors": [
+        "LA TORRE CARLOS",
+        "LIDMAR ANNELI",
+        "PERSSON MICHAEL"
+    ],
+    "holders": [
+        109165
+    ],
+    "ipcCodes": [
+        "A01J 5/04",
+        "A01J 5/08"
+    ]
+}

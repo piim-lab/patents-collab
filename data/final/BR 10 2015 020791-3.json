@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2015 020791-3",
+    "filingDate": "27/08/2015",
+    "grantDate": "15/12/2020",
+    "title": "Dispositivo para abrir sacos em misturas de lixo",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14003598.1",
+            "priorityDate": "22/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2625"
+        }
+    ],
+    "inventors": [
+        "KARLG\u00dcNTER EGGERSMANN"
+    ],
+    "holders": [
+        19173
+    ],
+    "ipcCodes": [
+        "B65B 69/00"
+    ]
+}

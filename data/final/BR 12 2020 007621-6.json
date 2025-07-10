@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 12 2020 007621-6",
+    "filingDate": "15/04/2013",
+    "grantDate": null,
+    "title": "DECODIFICADOR, M\u00c9TODO PARA RECONSTRUIR UMA  IMAGEM, CODIFICADOR E M\u00c9TODO PARA CODIFICAR UMA IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/624,098",
+            "priorityDate": "13/04/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/666,185",
+            "priorityDate": "29/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/04/2013",
+        "applicationNumber": "BR 11 2014 025496-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "THOMAS SCHIERL",
+        "VALERI GEORGE",
+        "ANASTASIA HENKEL",
+        "DETLEV MARPE",
+        "KARSTEN GR\u00dcNEBERG",
+        "ROBERT SKUPIN"
+    ],
+    "holders": [
+        101422
+    ],
+    "ipcCodes": [
+        "H04N 19/13",
+        "H04N 19/174",
+        "H04N 19/436",
+        "H04N 19/169"
+    ]
+}

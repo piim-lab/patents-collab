@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2017 027919-7",
+    "filingDate": "22/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONITORAR UMA CHAVE DE INVERS\u00c3O DE FONTE E CHAVE DE INVERS\u00c3O DE FONTE IMPLEMENTANDO TAL M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1751279",
+            "priorityDate": "17/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "ALAIN RET",
+        "YANNICK NEYRET",
+        "PIERRE NEREAU",
+        "MARIE HYPOLITE"
+    ],
+    "holders": [
+        253
+    ],
+    "ipcCodes": [
+        "H01H 9/00"
+    ]
+}

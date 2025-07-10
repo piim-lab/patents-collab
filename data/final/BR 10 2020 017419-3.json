@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 10 2020 017419-3",
+    "filingDate": "26/08/2020",
+    "grantDate": null,
+    "title": "APARELHO DE CONTROLE DE INJE\u00c7\u00c3O DE COMBUST\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-173231",
+            "priorityDate": "24/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "HIROFUMI OHARA",
+        "SHOHEI OKAZAKI",
+        "KAZUSHI KIKUCHI",
+        "TAKAYOSHI OKUDA",
+        "KAZUKI UENO",
+        "HIROFUMI OHARA",
+        "SHOHEI OKAZAKI",
+        "KAZUSHI KIKUCHI",
+        "TAKAYOSHI OKUDA",
+        "KAZUKI UENO",
+        "TAKESHI MIYAURA",
+        "YOSHIYASU ITO",
+        "MAKIO TSUCHIYAMA",
+        "YOSHIHIRO FURUYA"
+    ],
+    "holders": [
+        147,
+        5783
+    ],
+    "ipcCodes": [
+        "F02D 41/40"
+    ]
+}

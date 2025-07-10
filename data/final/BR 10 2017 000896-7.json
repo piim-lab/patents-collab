@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2017 000896-7",
+    "filingDate": "16/01/2017",
+    "grantDate": null,
+    "title": "VE\u00cdCULO A MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016101514.8",
+            "priorityDate": "28/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "JOACHIM KAPPICH",
+        "SUBRAMANIAN LAKSHMANAN",
+        "GUNASEKARAN MANIKANDAN",
+        "PATIL ANAND MOTILAL",
+        "SRINIVASA RAO KANDREGULA"
+    ],
+    "holders": [
+        19650,
+        33987
+    ],
+    "ipcCodes": [
+        "B60R 11/00",
+        "B60K 11/00",
+        "B62K 19/00"
+    ]
+}

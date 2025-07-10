@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2014 023865-0",
+    "filingDate": "04/03/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA IDENTIFICAR UM SEGMENTO DE \u00c1UDIO CANDIDATO A PARTIR DE UMA CHAMADA TELEF\u00d4NICA, UM CONJUNTO DE DADOS CANDIDATO E UM SEGMENTO DE \u00c1UDIO CANDIDATO, M\u00c9TODO PARA CRIAR UM BITMAP TERN\u00c1RIO DE UM CONJUNTO DE DADOS E UM SEGMENTO DE \u00c1UDIO, M\u00c9TODO PARA CRIAR UMA REPRESENTA\u00c7\u00c3O COMPACTA PONDERADA DE UM CONJUNTO DE DADOS",
+    "nationalPhaseDate": [
+        "25/09/2014"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2013/028788",
+        "pctDate": "04/03/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/432,838",
+            "priorityDate": "28/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "KEVIN VLACK",
+        "FELIX IMMANUEL WYSS"
+    ],
+    "holders": [
+        144067
+    ],
+    "ipcCodes": [
+        "H04M 3/51",
+        "H03M 7/30",
+        "G06F 16/683",
+        "G10L 25/54"
+    ]
+}

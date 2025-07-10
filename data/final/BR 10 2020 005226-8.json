@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 005226-8",
+    "filingDate": "16/03/2020",
+    "grantDate": null,
+    "title": "BEBEDOURO PARA ANIMAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2019 001 866.4",
+            "priorityDate": "19/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "MARKUS VON DER ASSEN",
+        "CHRIS HAWK",
+        "JOHN HAWK",
+        "DUSTIN HICKS"
+    ],
+    "holders": [
+        57094
+    ],
+    "ipcCodes": [
+        "A01K 39/02"
+    ]
+}

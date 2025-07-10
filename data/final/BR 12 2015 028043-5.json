@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 12 2015 028043-5",
+    "filingDate": "28/09/2012",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O DE BASE EM UM SISTEMA DE COMUNICA\u00c7\u00c3O M\u00d3VEL E M\u00c9TODO DE COMUNICA\u00c7\u00c3O PARA  A ESTA\u00c7\u00c3O DE BASE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-217384",
+            "priorityDate": "30/09/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/09/2012",
+        "applicationNumber": "BR 11 2014 007308-2"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "HAJIME ZEMBUTSU",
+        "TOSHIYUKI TAMURA",
+        "TAKANORI IWAI"
+    ],
+    "holders": [
+        5254
+    ],
+    "ipcCodes": [
+        "H04W 24/02",
+        "H04M 3/42",
+        "H04W 88/14"
+    ]
+}

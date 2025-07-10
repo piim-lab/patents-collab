@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2015 000987-5",
+    "filingDate": "17/07/2013",
+    "grantDate": "26/05/2020",
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE 5-FLUORO-1H-PIRAZ\u00d3IS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12177058.0",
+            "priorityDate": "19/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2802"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2804"
+        }
+    ],
+    "inventors": [
+        "SERGII PAZENOK",
+        "NOBERT LUI",
+        "VADIM MIKHAILOVICH TIMOSHENKO",
+        "ELENA IVANOVNA KAMINSKAYA",
+        "YURIY GRIGORIEVICH SHERMOLOVICH"
+    ],
+    "holders": [
+        148546
+    ],
+    "ipcCodes": [
+        "C07D 231/16"
+    ]
+}

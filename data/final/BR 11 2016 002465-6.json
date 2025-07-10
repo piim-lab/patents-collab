@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2016 002465-6",
+    "filingDate": "07/08/2014",
+    "grantDate": null,
+    "title": "COMBINA\u00c7\u00c3O FARMAC\u00caUTICA E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/865,804",
+            "priorityDate": "14/08/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/894,029",
+            "priorityDate": "22/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "YAN CHEN",
+        "XIZHONG HUANG",
+        "SUNKYU KIM",
+        "THIERRY BOUYSSOU",
+        "INGO KONETZKI",
+        "SABINE PESTEL",
+        "ANDREAS SCHNAPP",
+        "CHRISTOPH HOENKE",
+        "PHILIPP LUSTENBERGER",
+        "KLAUS RUDOLF",
+        "MICHAEL P PIEPER",
+        "MICHEL PAIRET"
+    ],
+    "holders": [
+        26587,
+        79188
+    ],
+    "ipcCodes": [
+        "A61P 11/06",
+        "A61K 31/538"
+    ]
+}

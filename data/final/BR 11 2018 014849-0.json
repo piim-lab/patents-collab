@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "BR 11 2018 014849-0",
+    "filingDate": "22/02/2017",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE TRANSMISS\u00c3O, M\u00c9TODO DE TRANSMISS\u00c3O, DISPOSITIVO DE RECEP\u00c7\u00c3O E M\u00c9TODO DE RECEP\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "20/07/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2017/006473",
+        "pctDate": "22/02/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-037328",
+            "priorityDate": "29/02/2016"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-048375",
+            "priorityDate": "11/03/2016"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-087003",
+            "priorityDate": "25/04/2016"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-199336",
+            "priorityDate": "07/10/2016"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-244730",
+            "priorityDate": "16/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI MOTOZUKA",
+        "NAGANORI SHIRAKATA",
+        "MASATAKA IRIE",
+        "TAKENORI SAKAMOTO"
+    ],
+    "holders": [
+        80839
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04W 84/12",
+        "H04W 28/06"
+    ]
+}

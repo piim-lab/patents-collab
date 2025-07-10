@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 024471-2",
+    "filingDate": "03/12/2021",
+    "grantDate": null,
+    "title": "TAMPA PARA UM RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000030608",
+            "priorityDate": "11/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO FALZONI",
+        "PAOLO VITALI",
+        "ZENO ZUFFA",
+        "ALESSANDRO FALZONI",
+        "SOPHIA BRANDAO",
+        "LUIS FERNANDO RUEDA"
+    ],
+    "holders": [
+        81850,
+        123947,
+        39828,
+        61582
+    ],
+    "ipcCodes": [
+        "B65D 51/24",
+        "B65D 43/16"
+    ]
+}

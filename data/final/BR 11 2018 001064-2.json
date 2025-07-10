@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2018 001064-2",
+    "filingDate": "07/07/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UM AGENTE DE ADSOR\u00c7\u00c3O PARA TRATAR G\u00c1S COMPRIMIDO E UM DISPOSITIVO DE ADSOR\u00c7\u00c3O PROVIDENCIADO COM TAL AGENTE DE ADSOR\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "18/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT BE2016/000032",
+        "pctDate": "07/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/195,898",
+            "priorityDate": "23/07/2015"
+        },
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2015/5724",
+            "priorityDate": "06/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "CARLO LAMMERS",
+        "STEVEN HANS RIK WOUTER MULLENS"
+    ],
+    "holders": [
+        33201
+    ],
+    "ipcCodes": [
+        "B01J 20/32",
+        "B01D 53/02"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 071309-4",
+    "filingDate": "16/10/2018",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O DE MA\u00c7ANETA EXTERIOR PARA UM AUTOM\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 124 568.5",
+            "priorityDate": "20/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "HARALD GERBER"
+    ],
+    "holders": [
+        19650
+    ],
+    "ipcCodes": [
+        "E05B 81/90",
+        "E05B 79/20",
+        "E05B 85/16",
+        "E05B 81/76",
+        "E05B 85/06",
+        "E05B 77/10"
+    ]
+}

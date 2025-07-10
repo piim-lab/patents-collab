@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2014 000511-7",
+    "filingDate": "05/07/2012",
+    "grantDate": null,
+    "title": "STENT VASCULAR IMPLANT\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 107 109.5",
+            "priorityDate": "12/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN BADER",
+        "BORIS BEHNISCH"
+    ],
+    "holders": [
+        129889
+    ],
+    "ipcCodes": [
+        "A61L 31/16",
+        "A61L 31/14"
+    ]
+}

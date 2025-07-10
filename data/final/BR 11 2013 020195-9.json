@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2013 020195-9",
+    "filingDate": "09/02/2012",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o farmac\u00eautica livre de citrato compreendendo anakinra e uso de anakinra",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1150109-5",
+            "priorityDate": "11/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        }
+    ],
+    "inventors": [
+        "JONAS FRANSSON",
+        "EBBA FLORIN"
+    ],
+    "holders": [
+        120871
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61K 9/08",
+        "A61K 38/20"
+    ]
+}

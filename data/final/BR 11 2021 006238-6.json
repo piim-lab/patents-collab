@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2021 006238-6",
+    "filingDate": "11/10/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE V\u00cdDEO E M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE V\u00cdDEO",
+    "nationalPhaseDate": [
+        "31/03/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT KR2019/013384",
+        "pctDate": "11/10/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2018-0121713",
+            "priorityDate": "12/10/2018"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2018-0121757",
+            "priorityDate": "12/10/2018"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2019-0006611",
+            "priorityDate": "18/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "BAE KEUN LEE",
+        "BAE KEUN LEE"
+    ],
+    "holders": [
+        79352
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/70",
+        "H04N 19/122",
+        "H04N 19/60",
+        "H04N 19/105",
+        "H04N 19/11",
+        "H04N 19/124",
+        "H04N 19/119",
+        "H04N 19/109",
+        "H04N 19/184"
+    ]
+}

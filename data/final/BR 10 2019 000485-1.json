@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 10 2019 000485-1",
+    "filingDate": "10/01/2019",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO PARA AN\u00c1LISE DE TRANSCRIPTOMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-003697",
+            "priorityDate": "12/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "SATOSHI KONDO",
+        "CHIKARA OHTO",
+        "MADOKA ABE",
+        "NAOHIRO AOKI",
+        "AKARI FUKUDA",
+        "TATSURO HIROSE",
+        "ATSUSHI NAGANO"
+    ],
+    "holders": [
+        45548,
+        45549,
+        45550,
+        5783
+    ],
+    "ipcCodes": [
+        "G06N 5/02"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 009913-8",
+    "filingDate": "20/05/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA GERENCIAMENTO DE UM RADAR SECUND\u00c1RIO OPERANDO EM MODO S PARA EVITAR O PROBLEMA DE TROCA DE BDS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2105395",
+            "priorityDate": "25/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "DAVID CARLIER",
+        "LIONEL MATIAS",
+        "PHILIPPE REUILLON",
+        "YVES MEIGNAN"
+    ],
+    "holders": [
+        936
+    ],
+    "ipcCodes": [
+        "G05D 11/00",
+        "G01S 17/00",
+        "G01S 15/00"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2016 017264-7",
+    "filingDate": "23/01/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR MICROC\u00c1PSULAS AMINOPL\u00c1STICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14152610.3",
+            "priorityDate": "27/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "ARNAUD STRUILLOU",
+        "NICOLAS PICHON",
+        "CLAUDIE BELLOUARD"
+    ],
+    "holders": [
+        84722
+    ],
+    "ipcCodes": [
+        "C11D 3/50",
+        "B01J 13/16"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2018 007893-3",
+    "filingDate": "19/04/2018",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O E M\u00c9TODO PARA CONTROLE DE PRAGAS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-089129",
+            "priorityDate": "28/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "JUNYA IWAKAWA",
+        "TAKUYA INOUE"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": [
+        "A01N 43/40",
+        "A01N 47/12",
+        "A01N 45/02",
+        "A01P 15/00",
+        "A01N 47/42"
+    ]
+}

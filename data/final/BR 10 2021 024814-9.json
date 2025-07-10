@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 024814-9",
+    "filingDate": "08/12/2021",
+    "grantDate": null,
+    "title": "DISPLAY DE IDENTIDADE DE CHAMADOR EM DISPOSITIVOS DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/116,160",
+            "priorityDate": "09/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "JASON TORREY",
+        "GUIDO JONJIE S JR SENA",
+        "GAURAV SHARMA"
+    ],
+    "holders": [
+        72589
+    ],
+    "ipcCodes": [
+        "G06Q 30/02"
+    ]
+}

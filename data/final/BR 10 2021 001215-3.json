@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 001215-3",
+    "filingDate": "22/01/2021",
+    "grantDate": null,
+    "title": "PATINETE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2000984",
+            "priorityDate": "31/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "ELIN VILLEIUS",
+        "EMMA LINDHOLM",
+        "HASSAN JAN",
+        "LOUISE MELIN",
+        "WOLFGANG BERNDORFER",
+        "ROBERT KIRCHSCHLAGER"
+    ],
+    "holders": [
+        138932,
+        14406
+    ],
+    "ipcCodes": [
+        "B62K 3/00",
+        "B62K 13/00"
+    ]
+}

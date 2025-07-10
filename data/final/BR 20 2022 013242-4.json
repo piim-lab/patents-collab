@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 20 2022 013242-4",
+    "filingDate": "01/07/2022",
+    "grantDate": null,
+    "title": "P\u00c3O PARA HAMB\u00daRGUERES",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "20210101859",
+            "priorityDate": "01/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "EDGARDO GABRIEL LUNGHI",
+        "DAMI\u00c1N F\u00c9LIX RODAS"
+    ],
+    "holders": [
+        367098,
+        367099
+    ],
+    "ipcCodes": [
+        "A21D 13/32",
+        "A21D 13/00"
+    ]
+}

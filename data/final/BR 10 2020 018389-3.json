@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2020 018389-3",
+    "filingDate": "09/09/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERAR UM MOTOR EL\u00c9TRICO DE CORRENTE CONT\u00cdNUA COM ESCOVA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19198913.6",
+            "priorityDate": "23/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "JUAN CARRION",
+        "CARLOS DOMINGO",
+        "JORGE GASCO",
+        "FRANCISCO GONZALEZ ESPIN"
+    ],
+    "holders": [
+        1852
+    ],
+    "ipcCodes": [
+        "H02P 7/06",
+        "F04D 27/00",
+        "H02P 7/29",
+        "H02P 1/04"
+    ]
+}

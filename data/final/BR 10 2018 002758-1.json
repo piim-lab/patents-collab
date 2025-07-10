@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2018 002758-1",
+    "filingDate": "09/02/2018",
+    "grantDate": null,
+    "title": "SINALIZA\u00c7\u00c3O PARA DESCARREGAR SERVI\u00c7OS DE DIFUS\u00c3O A PARTIR DE UMA REDE M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17305164.0",
+            "priorityDate": "14/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2808"
+        }
+    ],
+    "inventors": [
+        "FRIEDER JURETZEK"
+    ],
+    "holders": [
+        36218,
+        36219
+    ],
+    "ipcCodes": [
+        "H04W 4/06",
+        "H04L 12/18",
+        "H04W 76/40"
+    ]
+}

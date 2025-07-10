@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2020 004106-1",
+    "filingDate": "28/02/2020",
+    "grantDate": null,
+    "title": "SISTEMA DERRI\u00c7ADOR DE CAF\u00c9 E DEMAIS DRUPAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "PEDRO BIANOR DIAS",
+        "VANDERSON RABELO DE PAULA"
+    ],
+    "holders": [
+        14786,
+        56709
+    ],
+    "ipcCodes": [
+        "A01D 46/06",
+        "A01D 46/26"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2021 012223-4",
+    "filingDate": "21/06/2021",
+    "grantDate": null,
+    "title": "CONFIGURA\u00c7\u00c3O DE DISPOSITIVOS DE SISTEMAS DE GERENCIAMENTO DE NEG\u00d3CIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "IN 202011026338",
+            "priorityDate": "22/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "MANISH GUPTA",
+        "GUTHA STALIN SANGHAMITRA",
+        "PRABHAT RANJAN",
+        "NAGASREE POLURI",
+        "UMA MAGESWARI SHANMUGAM",
+        "ANKITH MAKAM",
+        "BALAJI KRISHNASAMY",
+        "DARA RAJA PRAVEEN"
+    ],
+    "holders": [
+        271
+    ],
+    "ipcCodes": [
+        "G06Q 10/10",
+        "G06Q 50/16"
+    ]
+}

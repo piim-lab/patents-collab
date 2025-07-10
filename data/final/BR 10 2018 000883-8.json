@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 000883-8",
+    "filingDate": "16/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO, SISTEMA PARA REALIZAR O M\u00c9TODO, E, CONJUNTO ESTRUTURAL PARA UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/415,172",
+            "priorityDate": "25/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "CRAIG A CHARLTON",
+        "BRANKO LAKIC",
+        "JERALD A HULL",
+        "CHRISTOPHER A GREER",
+        "JUSTIN H PRATT"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B23P 21/00",
+        "B64F 5/10",
+        "B23B 35/00",
+        "B23B 49/00"
+    ]
+}

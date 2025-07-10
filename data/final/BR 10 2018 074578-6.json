@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 074578-6",
+    "filingDate": "28/11/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA FORNECER UM PARQUE DE CARREGAMENTO COM UMA PLURALIDADE DE PONTOS DE CARREGAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 128 092.8",
+            "priorityDate": "28/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH ROGGENDORF"
+    ],
+    "holders": [
+        19650
+    ],
+    "ipcCodes": [
+        "G06Q 50/06",
+        "H02J 3/00",
+        "H02J 7/02"
+    ]
+}

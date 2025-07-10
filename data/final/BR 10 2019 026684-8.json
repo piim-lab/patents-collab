@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 026684-8",
+    "filingDate": "13/12/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA DETERMINAR UMA M\u00c9TRICA DE UMA ATMOSFERA DE NUVEM.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/275,152",
+            "priorityDate": "13/02/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "CUONG THO HUYNH",
+        "KAARE JOSEF ANDERSON"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01N 15/02",
+        "G01N 21/17",
+        "G01S 17/95",
+        "G01N 21/47",
+        "G01S 7/48",
+        "G01S 17/10",
+        "G01S 7/4865"
+    ]
+}

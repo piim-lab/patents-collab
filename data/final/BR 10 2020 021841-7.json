@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 021841-7",
+    "filingDate": "24/10/2020",
+    "grantDate": null,
+    "title": "ARTICULA\u00c7\u00c3O DE SUPORTE PARA BARRA DE CORTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/663,998",
+            "priorityDate": "25/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "GLENN AESAERT",
+        "HERBERT M FARLEY",
+        "BENJAMIN KEMMERER",
+        "BART MA MISSOTTEN",
+        "SAM REUBENS",
+        "PIETER VAN OVERSCHELDE"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 34/04"
+    ]
+}

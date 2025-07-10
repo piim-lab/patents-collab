@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2013 026383-0",
+    "filingDate": "04/04/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DA GEST\u00c3O DE TEMPERATURA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/096,677",
+            "priorityDate": "28/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        }
+    ],
+    "inventors": [
+        "JEREMY D PAULSEN",
+        "SCOTT W WENZEL",
+        "RAFAEL IGNACIO GIGANTI",
+        "COREY T CUNNINGHAM",
+        "JEFFERY R SEIDLING"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "A61K 8/19"
+    ]
+}

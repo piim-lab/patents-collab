@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2022 015169-8",
+    "filingDate": "31/07/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE REGENERA\u00c7\u00c3O DE FLUIDO DE DI\u00c1LISE, M\u00c9TODO PARA REGENERAR UM FLUIDO DE DI\u00c1LISE, M\u00c9TODO PARA DI\u00c1LISE RENAL E M\u00c9TODO PARA PREPARAR UM FLUIDO DE DI\u00c1LISE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/719,549",
+            "priorityDate": "17/08/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/07/2019",
+        "applicationNumber": "BR 11 2020 022074-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "BRUCE HINDS",
+        "GUOZHENG SHAO"
+    ],
+    "holders": [
+        26358
+    ],
+    "ipcCodes": [
+        "A61M 1/16",
+        "A61M 1/14",
+        "A61M 1/34"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2016 011737-9",
+    "filingDate": "25/11/2014",
+    "grantDate": "29/11/2022",
+    "title": "APARELHO PARA PROCESSAMENTO DE INFORMA\u00c7\u00c3O, M\u00c9TODO PARA PROCESSAMENTO DE INFORMA\u00c7\u00c3O E PROGRAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-248687",
+            "priorityDate": "29/11/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-054114",
+            "priorityDate": "17/03/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-231952",
+            "priorityDate": "14/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "YOSUKE AOKI",
+        "HITOSHI MORIYAMA"
+    ],
+    "holders": [
+        1861
+    ],
+    "ipcCodes": [
+        "G06F 3/12"
+    ]
+}

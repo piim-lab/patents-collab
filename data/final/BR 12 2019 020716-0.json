@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 12 2019 020716-0",
+    "filingDate": "31/08/2012",
+    "grantDate": null,
+    "title": "HETEROCICLILAMINAS COMO INIBIDORES DE PI3K E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA QUE AS COMPREENDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/530,866",
+            "priorityDate": "02/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/594,882",
+            "priorityDate": "03/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/677,445",
+            "priorityDate": "30/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/08/2012",
+        "applicationNumber": "BR 11 2014 004971-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "7.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        }
+    ],
+    "inventors": [
+        "LONG LI",
+        "WENQING YAO",
+        "ANDREW P COMBS",
+        "EDDY W YUE",
+        "WENYU ZHU",
+        "JOSEPH GLENN",
+        "THOMAS P MADUSKUIE JR",
+        "SONG MEI",
+        "RICHARD B SPARKS",
+        "BRENT DOUTY",
+        "CHUNHONG HE"
+    ],
+    "holders": [
+        87093
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 35/00",
+        "A61P 1/00",
+        "C07D 487/04",
+        "A61K 31/519",
+        "A61P 17/00",
+        "A61P 19/00",
+        "C07D 471/04",
+        "A61P 27/00"
+    ]
+}

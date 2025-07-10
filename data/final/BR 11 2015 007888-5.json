@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2015 007888-5",
+    "filingDate": "27/09/2013",
+    "grantDate": null,
+    "title": "M\u00e9todo de fabrica\u00e7\u00e3o de part\u00edculas",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-225116",
+            "priorityDate": "10/10/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "KEIKO OSAKA",
+        "CHIAKI TANAKA",
+        "TAICHI NEMOTO"
+    ],
+    "holders": [
+        1861
+    ],
+    "ipcCodes": [
+        "C08J 3/12",
+        "C08G 63/08",
+        "C08G 63/90"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2014 005596-3",
+    "filingDate": "10/09/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AUMENTAR A APRESENTA\u00c7\u00c3O DE ANT\u00cdGENO CS6 DE ETEC NA SUPERF\u00cdCIE DA C\u00c9LULA, M\u00c9TODO PARA A FABRICA\u00c7\u00c3O DE UMA VACINA DE C\u00c9LULA INTEIRA MORTA, E, VACINA PARA A IMUNIZA\u00c7\u00c3O CONTRA ETEC QUE EXPRESSA CS6",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1150821-5",
+            "priorityDate": "12/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/533,405",
+            "priorityDate": "12/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        }
+    ],
+    "inventors": [
+        "NILS CARLIN",
+        "MARI SVENNERHOLM",
+        "JOSHUA TOBIAS"
+    ],
+    "holders": [
+        133037
+    ],
+    "ipcCodes": [
+        "A61K 39/02"
+    ]
+}

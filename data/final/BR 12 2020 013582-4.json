@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2020 013582-4",
+    "filingDate": "27/06/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE PAR\u00c2METRO DE QUANTIZA\u00c7\u00c3O DE V\u00cdDEO, DECODIFICADOR DE PAR\u00c2METRO DE QUANTIZA\u00c7\u00c3O DE V\u00cdDEO, E MEIO DE ARMAZENAMENTO DE INFORMA\u00c7\u00c3O LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-142453",
+            "priorityDate": "28/06/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/06/2012",
+        "applicationNumber": "BR 11 2013 033572-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "KEIICHI CHONO",
+        "HIROFUMI AOKI",
+        "YUZO SENDA"
+    ],
+    "holders": [
+        5254
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/91",
+        "H04N 19/50"
+    ]
+}

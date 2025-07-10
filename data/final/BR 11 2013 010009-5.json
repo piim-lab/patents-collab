@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2013 010009-5",
+    "filingDate": "01/11/2011",
+    "grantDate": null,
+    "title": "COMPOSTOS \u00daTEIS PARA INIBI\u00c7\u00c3O DE CHK1",
+    "nationalPhaseDate": [
+        "24/04/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2011/058692",
+        "pctDate": "01/11/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/411,137",
+            "priorityDate": "08/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "SUSANTA SAMAJDAR",
+        "SAJAN JOSEPH"
+    ],
+    "holders": [
+        87687
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/4995",
+        "C07D 401/14"
+    ]
+}

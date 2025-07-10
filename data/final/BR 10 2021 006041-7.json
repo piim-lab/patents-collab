@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 006041-7",
+    "filingDate": "29/03/2021",
+    "grantDate": null,
+    "title": "SIMULADOR PARA MANIPULADORES TELESC\u00d3PICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000006757",
+            "priorityDate": "31/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "MARCO IOTTI"
+    ],
+    "holders": [
+        50775
+    ],
+    "ipcCodes": [
+        "B66F 9/06",
+        "B66C 23/00",
+        "B60S 9/12"
+    ]
+}

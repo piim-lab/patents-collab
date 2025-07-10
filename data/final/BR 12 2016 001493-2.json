@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2016 001493-2",
+    "filingDate": "30/09/2003",
+    "grantDate": "02/10/2018",
+    "title": "M\u00c9TODOS E MECANISMOS PARA GERENCIAMENTO PROATIVO DE MEM\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/416.115",
+            "priorityDate": "04/10/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/325.591",
+            "priorityDate": "20/12/2002"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/09/2003",
+        "applicationNumber": "PI 0304297-9"
+    },
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "STUART SECHREST",
+        "MICHAEL R FORTIN",
+        "MEHMET IYIGUN",
+        "CENK ERGAN"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 12/08"
+    ]
+}

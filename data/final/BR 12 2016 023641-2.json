@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 12 2016 023641-2",
+    "filingDate": "20/04/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PRODU\u00c7\u00c3O DE TECIDO MULTIAXIAL E REFERIDO TECIDO MULTIAXIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/116,516",
+            "priorityDate": "28/04/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/04/2006",
+        "applicationNumber": "PI 0609944-0"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "JOHN M HAWES",
+        "GLENN KORNETT",
+        "BJORN RYDIN",
+        "SCOTT QUIGLEY",
+        "MICHAEL A ROYO",
+        "JAMES G DONOVAN",
+        "STEVEN YOOK"
+    ],
+    "holders": [
+        350733
+    ],
+    "ipcCodes": [
+        "D21F 7/08",
+        "D21F 1/00"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 11 2018 002413-9",
+    "filingDate": "04/08/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE BARBEAMENTO OU DEPILA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "05/02/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/045591",
+        "pctDate": "04/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/201,551",
+            "priorityDate": "05/08/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/873,857",
+            "priorityDate": "02/10/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/977,560",
+            "priorityDate": "21/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/135,485",
+            "priorityDate": "21/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "RUAIRIDH ROBERTSON",
+        "DAVID CARPENTER",
+        "ALAN KENNETH STRATTON",
+        "GEORGE K BONNOITT JR",
+        "PETER GLUCHE",
+        "RALPH GRETZSCHEL",
+        "MICHAEL MERTENS",
+        "MATTHIAS GESTER",
+        "PETER GLUCHE",
+        "RALPH GRETZSCHEL",
+        "MICHAEL MERTENS",
+        "MATTHIAS GESTER"
+    ],
+    "holders": [
+        207736,
+        109719
+    ],
+    "ipcCodes": []
+}

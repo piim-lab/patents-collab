@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2019 027893-1",
+    "filingDate": "08/08/2018",
+    "grantDate": null,
+    "title": "CONTROLE DE ENERGIA DE N\u00cdVEL DE RACK",
+    "nationalPhaseDate": [
+        "26/12/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/045838",
+        "pctDate": "08/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/543,233",
+            "priorityDate": "09/08/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/969,615",
+            "priorityDate": "02/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "DAVID JAMES ASHER HALL",
+        "KALADHAR VORUGANTI"
+    ],
+    "holders": [
+        184234
+    ],
+    "ipcCodes": [
+        "G06F 1/32",
+        "H02J 13/00",
+        "H02J 3/00",
+        "H02J 3/14",
+        "H02J 3/32"
+    ]
+}

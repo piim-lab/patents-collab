@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "BR 13 2016 020610-2",
+    "filingDate": "06/09/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E PROCESSO PARA OBTEN\u00c7\u00c3O DE REFOR\u00c7O ESTRUTURAL EM RESERVAT\u00d3RIO DE \u00c1GUA",
+    "parentApplication": {
+        "filingDate": "06/11/2015",
+        "applicationNumber": "BR 10 2015 028041-6"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "11.17",
+            "description": "Arquivamento do pedido de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o \u2013 Art. 77 da LPI",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "11.20",
+            "description": "Manuten\u00e7\u00e3o do arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "ANT\u00d4NIO CARLOS TORRES"
+    ],
+    "holders": [
+        4247
+    ],
+    "ipcCodes": [
+        "E03B 11/00"
+    ]
+}

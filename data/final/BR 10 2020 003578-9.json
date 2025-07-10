@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 003578-9",
+    "filingDate": "20/02/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO E PROCESSO PARA TRANSFER\u00caNCIA DE UMA TIRA DE UMA MANTA",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A50358/2019",
+            "priorityDate": "18/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "ANDR\u00c9 THEUSSL",
+        "WOLFGANG KLAMMINGER",
+        "REINHARD DIEMAT"
+    ],
+    "holders": [
+        12135
+    ],
+    "ipcCodes": [
+        "D21F 11/14",
+        "D21F 2/00"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2022 022612-4",
+    "filingDate": "29/08/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O ADO\u00c7ANTE COMPREENDENDO EXTRATO DE UM CULTIVAR DE STEVIA REBAUDIANA",
+    "divisionalApplication": {
+        "filingDate": "29/08/2016",
+        "applicationNumber": "BR 11 2018 003878-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        116487
+    ],
+    "ipcCodes": []
+}

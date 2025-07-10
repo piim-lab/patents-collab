@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2017 025997-8",
+    "filingDate": "01/12/2017",
+    "grantDate": null,
+    "title": "CONECTOR UNIVERSAL DE ALTA CAPACIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/432,444",
+            "priorityDate": "09/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/582,268",
+            "priorityDate": "28/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "MARK A MANNING",
+        "BLAKE T DEBERRY",
+        "MORRIS B WADE",
+        "BRUCE J WITWER"
+    ],
+    "holders": [
+        6743
+    ],
+    "ipcCodes": [
+        "F16L 37/084",
+        "F16L 15/00",
+        "F16L 37/086"
+    ]
+}

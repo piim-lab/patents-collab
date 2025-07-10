@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2022 024052-0",
+    "filingDate": "04/06/2021",
+    "grantDate": null,
+    "title": "OPERA\u00c7\u00d5ES DE BUFFER DE IMAGENS DESCODIFICADAS (DPB) E DELIMITADOR DE UNIDADE DE ACESSO (AUD)",
+    "nationalPhaseDate": [
+        "25/11/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/035999",
+        "pctDate": "04/06/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/036,415",
+            "priorityDate": "08/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/338,468",
+            "priorityDate": "03/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "VADIM SEREGIN",
+        "YONG HE",
+        "MUHAMMED ZEYD COBAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04N 19/70",
+        "H04N 19/30",
+        "H04N 19/423"
+    ]
+}

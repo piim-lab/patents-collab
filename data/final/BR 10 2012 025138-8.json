@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2012 025138-8",
+    "filingDate": "02/10/2012",
+    "grantDate": "19/02/2019",
+    "title": "ATOMIZADOR COSTAL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-234042",
+            "priorityDate": "25/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "MASAHIKO MIURA",
+        "RYOUICHI SHIMOOKA"
+    ],
+    "holders": [
+        960
+    ],
+    "ipcCodes": [
+        "A01M 7/00"
+    ]
+}

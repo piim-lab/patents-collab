@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 20 2017 024066-0",
+    "filingDate": "08/11/2017",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O DE ISCAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/679,850",
+            "priorityDate": "17/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "JAMES B HOLLAND",
+        "MICHAEL BENTON",
+        "MITCHELL RIVENBARK"
+    ],
+    "holders": [
+        188947
+    ],
+    "ipcCodes": [
+        "A01M 23/00"
+    ]
+}

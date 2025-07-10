@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 001309-8",
+    "filingDate": "23/07/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O PARA PULVERIZA\u00c7\u00c3O DE FERIMENTO, SEU PROCESSO DE PREPARA\u00c7\u00c3O, PROCESSO PARA PURIFICA\u00c7\u00c3O UM VE\u00cdCULO DE OXIG\u00caNIO, E USO DE HEMOGLOBINA OU MIOGLOBINA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11006057.1",
+            "priorityDate": "23/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "MICHAEL SANDER",
+        "HARALD P\u00d6TZSCHKE"
+    ],
+    "holders": [
+        130402
+    ],
+    "ipcCodes": [
+        "A61P 17/02",
+        "A61K 33/00",
+        "A61K 38/42"
+    ]
+}

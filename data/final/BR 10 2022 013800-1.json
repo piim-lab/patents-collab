@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 013800-1",
+    "filingDate": "12/07/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE AIRBAG DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-139384",
+            "priorityDate": "27/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "MITSUYOSHI OHNO",
+        "JIRO OHACHI",
+        "MASASHI HOTTA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60R 21/231",
+        "B60R 21/207",
+        "B60R 21/233"
+    ]
+}

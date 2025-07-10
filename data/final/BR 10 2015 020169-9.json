@@ -1,0 +1,99 @@
+{
+    "applicationNumber": "BR 10 2015 020169-9",
+    "filingDate": "21/08/2015",
+    "grantDate": null,
+    "title": "M\u00c1QUINA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62040666",
+            "priorityDate": "22/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "EMERSON DANIEL DOS ANJOS",
+        "RANDALL L LONG",
+        "STACY K WORLEY",
+        "BRUNO AGOSTINI",
+        "CAJETAN PINTO",
+        "CHRISTIAN MECKEL",
+        "MATHIEU HABERT",
+        "PETER LEMKE",
+        "FRANK GUTJAHR",
+        "KONRAD BRANDL",
+        "VLADIMIR DANOV",
+        "KLAUS DENNERLEIN",
+        "BERND GROMOLL",
+        "J\u00dcRGEN HOFMANN",
+        "PATRYK PIOTROWSKI",
+        "ANDREAS SCHR\u00d6TER",
+        "MIKE MELFI",
+        "RICH SCHIFERL",
+        "STEPHEN UMANS",
+        "XAVIER DE L\u00c9PINE",
+        "ARI VARTIAINEN",
+        "PEKKA KANNINEN",
+        "PETRI M\u00c4KI",
+        "JANNE IKONEN",
+        "LIMANSKIY VALENTIN GRIGORYEVICH",
+        "JAMES BRENT KLASSEN",
+        "STEPHEN SMITH CHAMBERLAIN",
+        "ROLAND KASPER",
+        "NORMAN BORCHARD",
+        "GRZEGORZ EKWINSKI",
+        "SEBASTIAN WEISS",
+        "DAVID RODGER",
+        "HONG CHENG LAI"
+    ],
+    "holders": [
+        88066,
+        259,
+        186898,
+        10546,
+        9155,
+        328,
+        259531,
+        463,
+        406629,
+        138598,
+        406630,
+        198125,
+        137719,
+        137720,
+        137721,
+        137722,
+        137723,
+        4605,
+        219007
+    ],
+    "ipcCodes": [
+        "H02K 51/00"
+    ]
+}

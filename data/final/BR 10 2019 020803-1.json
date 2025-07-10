@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2019 020803-1",
+    "filingDate": "03/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODOS RELACIONADOS PARA MONITORAR E AJUSTAR A PROFUNDIDADE REAL DE SEMENTE DURANTE UMA OPERA\u00c7\u00c3O DE PLANTIO, COM BASE NO TEOR DE UMIDADE DO SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/152.943",
+            "priorityDate": "05/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "IVAN ANTICH"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01C 7/20",
+        "A01C 21/00"
+    ]
+}

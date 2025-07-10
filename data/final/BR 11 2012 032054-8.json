@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2012 032054-8",
+    "filingDate": "22/06/2011",
+    "grantDate": "10/03/2020",
+    "title": "M\u00c9TODO PARA O FABRICO DE UM GEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 70282",
+            "priorityDate": "22/06/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 70342",
+            "priorityDate": "27/07/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 70572",
+            "priorityDate": "22/12/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2011 70288",
+            "priorityDate": "09/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN B NIELSEN",
+        "NIELS JOERGEN MADSEN"
+    ],
+    "holders": [
+        79530
+    ],
+    "ipcCodes": [
+        "C08G 18/32",
+        "C08L 75/12",
+        "C08G 18/48",
+        "C08L 75/08",
+        "C08F 2/50",
+        "C08J 3/075",
+        "C08G 18/66",
+        "C08G 18/75",
+        "C08G 18/72",
+        "C08J 3/28",
+        "C08G 18/65"
+    ]
+}

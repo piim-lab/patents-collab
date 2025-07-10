@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2014 013018-7",
+    "filingDate": "29/05/2014",
+    "grantDate": null,
+    "title": "Processos de transmiss\u00e3o e recebimento de dados entre um terminal e um port\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1301238",
+            "priorityDate": "31/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "C\u00c9DRIC BAUDOIN",
+        "FABRICE ARNAL"
+    ],
+    "holders": [
+        936,
+        12345
+    ],
+    "ipcCodes": [
+        "H04B 7/185",
+        "H04W 72/04"
+    ]
+}

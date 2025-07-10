@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2017 016524-4",
+    "filingDate": "19/02/2016",
+    "grantDate": null,
+    "title": "AERONAVE ACIONADA POR H\u00c9LICE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/631,423",
+            "priorityDate": "25/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        }
+    ],
+    "inventors": [
+        "HELIO HIRANO",
+        "LUIS GUSTAVO TRAPP"
+    ],
+    "holders": [
+        572
+    ],
+    "ipcCodes": [
+        "B64C 5/02",
+        "B64C 5/06",
+        "B64D 27/04"
+    ]
+}

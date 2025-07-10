@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2017 025817-3",
+    "filingDate": "30/11/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ESTABELECER UM PADR\u00c3O DE VOO ADJACENTE A UM ALVO PARA UM VE\u00cdCULO SEGUIR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/381,342",
+            "priorityDate": "16/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "ROLF RYSDYK"
+    ],
+    "holders": [
+        34328
+    ],
+    "ipcCodes": [
+        "G05D 1/10",
+        "G08G 5/00"
+    ]
+}

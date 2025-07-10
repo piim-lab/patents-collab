@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 013988-1",
+    "filingDate": "17/10/2012",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o de emuls\u00e3o de Pickering de \u00f3leo-\u00e1gua",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-281294",
+            "priorityDate": "22/12/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-219957",
+            "priorityDate": "02/10/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        }
+    ],
+    "inventors": [
+        "YUKI SUGIYAMA",
+        "TOMOKO SATO",
+        "KEN SHOJI"
+    ],
+    "holders": [
+        83813
+    ],
+    "ipcCodes": [
+        "A61K 8/81",
+        "A61Q 17/04",
+        "A61Q 19/00",
+        "A61Q 5/00",
+        "A61K 8/06",
+        "A61Q 1/00",
+        "C08F 290/06",
+        "B01F 17/52"
+    ]
+}

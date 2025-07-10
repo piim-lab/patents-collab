@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2012 004958-9",
+    "filingDate": "05/03/2012",
+    "grantDate": "11/06/2019",
+    "title": "PROCESSO PARA PRODUZIR UMA RA\u00c7\u00c3O SEMI\u00daMIDA E RA\u00c7\u00c3O SEMI\u00daMIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11002117.7",
+            "priorityDate": "15/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "HEINZ JOHANNES GARDEWIN"
+    ],
+    "holders": [
+        677
+    ],
+    "ipcCodes": [
+        "A23K 40/25",
+        "A23K 50/45"
+    ]
+}

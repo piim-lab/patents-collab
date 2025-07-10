@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 002357-1",
+    "filingDate": "31/07/2015",
+    "grantDate": null,
+    "title": "MEMBRO DE DESGASTE DE IMPLEMENTO DE ALTO DESEMPENHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/033,310",
+            "priorityDate": "05/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "US14/799,839",
+            "priorityDate": "15/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "THOMAS MARSHALL CONGDON JR",
+        "SUDHIR R KALLU",
+        "NICK WILLIAM BIGGS",
+        "NATHAN BJERKE"
+    ],
+    "holders": [
+        4453
+    ],
+    "ipcCodes": [
+        "E02F 3/815",
+        "E02F 9/28",
+        "E02F 3/65"
+    ]
+}

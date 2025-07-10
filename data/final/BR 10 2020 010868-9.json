@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2020 010868-9",
+    "filingDate": "29/05/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR A ALTURA DE UM IMPLEMENTO DE COLHEITA EM RELA\u00c7\u00c3O AO SOLO E SISTEMAS DE CONTROLE DE ALTURA RELACIONADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/428.561",
+            "priorityDate": "31/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "KENNETH SEIDERS JR",
+        "JETHRO MARTIN"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 41/127",
+        "A01B 63/00"
+    ]
+}

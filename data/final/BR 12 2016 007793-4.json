@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2016 007793-4",
+    "filingDate": "18/10/2005",
+    "grantDate": "06/11/2018",
+    "title": "M\u00c9TODO PARA PREPARAR UMA LATA DE ALUM\u00cdNIO PARA BEBIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/620,639",
+            "priorityDate": "20/10/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/10/2005",
+        "applicationNumber": "PI 0517414-7"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2532"
+        }
+    ],
+    "inventors": [
+        "ROBERT M OBRIEN",
+        "DANIEL E RARDON",
+        "RACHAEL ANN SPYNDA",
+        "GEORGE K BARTLEY III",
+        "RICHARD H EVANS"
+    ],
+    "holders": [
+        100955
+    ],
+    "ipcCodes": [
+        "B65D 17/00",
+        "C09D 151/08"
+    ]
+}

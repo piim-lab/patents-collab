@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 10 2018 071210-1",
+    "filingDate": "17/04/2017",
+    "grantDate": null,
+    "title": "APARELHO DE PESAGEM DESLOCADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/323442",
+            "priorityDate": "15/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.7",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.6",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "2.6",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "15.12",
+            "description": "Renumera\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "JOSHUA J GILLESPIE",
+        "RYAN O",
+        "GERALD LAUER",
+        "DOUGLAS BARNETT",
+        "KENNETH PINK",
+        "JOSHUA J GILLESPIE",
+        "RYAN ODELL",
+        "GERALD LAUER",
+        "DOUGLAS BARNETT",
+        "KENNETH PINKSTON"
+    ],
+    "holders": [
+        42784
+    ],
+    "ipcCodes": [
+        "A22C 21/00",
+        "B65G 17/20",
+        "B65G 17/16",
+        "G01G 11/00",
+        "G01G 19/14"
+    ]
+}

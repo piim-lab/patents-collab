@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2020 026983-9",
+    "filingDate": "18/09/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O NUTRITIVA S\u00d3LIDA INORG\u00c2NICA E USO DE UMA COMPOSI\u00c7\u00c3O NUTRITIVA S\u00d3LIDA INORG\u00c2NICA",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2012/00667",
+            "priorityDate": "10/10/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/09/2013",
+        "applicationNumber": "BR 11 2015 007865-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE JACQUES MYRIAM CAPPELLE",
+        "KURT THIERRY S VERHELST"
+    ],
+    "holders": [
+        154093
+    ],
+    "ipcCodes": [
+        "A23K 20/20",
+        "A61K 33/26",
+        "A23L 33/165",
+        "C05D 9/02",
+        "A23K 20/26"
+    ]
+}

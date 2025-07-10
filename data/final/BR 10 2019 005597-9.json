@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 005597-9",
+    "filingDate": "21/03/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA VALIDA\u00c7\u00c3O E CONSULTA PARA OPERA\u00c7\u00c3O DE AERONAVES",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201811010825",
+            "priorityDate": "23/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "ANITHA LAKSHMANAN",
+        "JAYEETA KAR"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01C 23/00",
+        "G05B 23/02"
+    ]
+}

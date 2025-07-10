@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2014 012141-5",
+    "filingDate": "20/06/2007",
+    "grantDate": null,
+    "title": "UNIDADE DE NUMERA\u00c7\u00c3O DE UM DISPOSITIVO DE NUMERA\u00c7\u00c3O",
+    "divisionalApplication": {
+        "filingDate": "20/06/2007",
+        "applicationNumber": "PI 0713517-3"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2592"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        81987
+    ],
+    "ipcCodes": []
+}

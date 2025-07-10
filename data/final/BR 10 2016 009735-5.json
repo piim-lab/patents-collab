@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2016 009735-5",
+    "filingDate": "29/04/2016",
+    "grantDate": null,
+    "title": "SISTEMA DE BALANCEAMENTO DE VEIO E M\u00c9TODO DE BALANCEAMENTO DE UM VEIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/700,371",
+            "priorityDate": "30/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [
+        "PHILIP LEICHT",
+        "YANG ZHAI"
+    ],
+    "holders": [
+        17728
+    ],
+    "ipcCodes": [
+        "F16F 15/36",
+        "F16F 15/30",
+        "B05B 7/14",
+        "B05D 1/12",
+        "G01M 1/32"
+    ]
+}

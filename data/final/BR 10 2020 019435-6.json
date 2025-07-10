@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2020 019435-6",
+    "filingDate": "24/09/2020",
+    "grantDate": null,
+    "title": "SUPORTE MULTIPROTOCOLO EM CAMADA F\u00cdSICA COMUM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/941,445",
+            "priorityDate": "27/11/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/831,726",
+            "priorityDate": "26/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "DEBENDRA DAS SHARMA"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "G06F 11/10",
+        "G06F 13/40"
+    ]
+}

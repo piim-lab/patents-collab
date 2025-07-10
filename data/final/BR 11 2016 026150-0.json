@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2016 026150-0",
+    "filingDate": "09/05/2015",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES, USOS E M\u00c9TODOS PARA PREPAR\u00c1-LAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/991,282",
+            "priorityDate": "09/05/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/050,202",
+            "priorityDate": "15/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/054,054",
+            "priorityDate": "23/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/128,208",
+            "priorityDate": "04/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        }
+    ],
+    "inventors": [
+        "MUSTAPHA HADDACH"
+    ],
+    "holders": [
+        182403
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/4353",
+        "C07D 487/14"
+    ]
+}

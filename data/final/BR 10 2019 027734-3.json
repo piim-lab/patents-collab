@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2019 027734-3",
+    "filingDate": "23/12/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE LIMPEZA, CARTUCHO DE PROCESSO E APARELHO PARA FORMA\u00c7\u00c3O DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-240051",
+            "priorityDate": "21/12/2018"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-240046",
+            "priorityDate": "21/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        }
+    ],
+    "inventors": [
+        "SHUHEI TOKIWA",
+        "TAKAYUKI KANAZAWA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "G03G 21/00",
+        "G03G 21/10",
+        "G03G 21/12"
+    ]
+}

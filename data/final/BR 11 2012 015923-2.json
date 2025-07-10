@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2012 015923-2",
+    "filingDate": "25/02/2011",
+    "grantDate": null,
+    "title": "\"PREPARA\u00c7\u00c3O S\u00d3LIDA REVESTIDA\"",
+    "nationalPhaseDate": [
+        "27/06/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2011/054256",
+        "pctDate": "25/02/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-042066",
+            "priorityDate": "26/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [
+        "YULI FUJISAKI",
+        "RYOJI YOSHI",
+        "YASUHIDE HORIUCHI"
+    ],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": [
+        "A61P 11/06",
+        "A61K 31/47",
+        "A61P 11/00",
+        "A61P 11/02",
+        "A61K 47/04",
+        "A61K 9/32",
+        "A61K 47/32"
+    ]
+}

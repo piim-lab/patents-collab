@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 010345-6",
+    "filingDate": "11/12/2013",
+    "grantDate": null,
+    "title": "FELTRO DE PRENSA COSTURADO COM PINO COM TECIDO BASE DE CAMADA TRIPLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/750,953",
+            "priorityDate": "10/01/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/752,161",
+            "priorityDate": "14/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "PETER BREUER",
+        "FRIEDRICH POSTL"
+    ],
+    "holders": [
+        112702
+    ],
+    "ipcCodes": [
+        "D21F 7/10"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 002626-0",
+    "filingDate": "11/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO E ALERTA DE TREM DE POUSO, E, M\u00c9TODO PARA OPERAR UM SISTEMA DE MONITORAMENTO E ALERTA DE TREM DE POUSO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/867,985",
+            "priorityDate": "06/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "AMEYA D KAMAT",
+        "TIM W ANSTEY",
+        "SURYA SUNDAR RAJ DURAIRAJ"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64C 25/26",
+        "B64C 25/10",
+        "B64C 25/28"
+    ]
+}

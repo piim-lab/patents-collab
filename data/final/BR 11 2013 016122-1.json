@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2013 016122-1",
+    "filingDate": "28/12/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA A CONVERS\u00c3O DE MAT\u00c9RIA PRIMA CONTENDO CARBOIDRATOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/427,588",
+            "priorityDate": "28/12/2010"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2005928",
+            "priorityDate": "28/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        }
+    ],
+    "inventors": [
+        "DE SOUSA DIAS ANA SOFIA VAGUEIRO",
+        "GRUTER GERARDUS JOHANNES MARIA",
+        "VAN PUTTEN ROBERT"
+    ],
+    "holders": [
+        86986
+    ],
+    "ipcCodes": [
+        "C07C 69/716",
+        "C07H 15/04",
+        "C07D 307/46",
+        "C07C 59/185"
+    ]
+}

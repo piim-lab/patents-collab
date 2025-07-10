@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2018 012490-3",
+    "filingDate": "21/01/2015",
+    "grantDate": null,
+    "title": "TELA DE FURO DE PO\u00c7O OU CONJUNTO DE TELA DE FURO DE PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1401066.4",
+            "priorityDate": "22/01/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/01/2015",
+        "applicationNumber": "BR 11 2016 017082-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "STEPHEN REID",
+        "ANDREW MCGEOCH",
+        "MATTHEW MANNING",
+        "DANIEL GEORGE PURKIS"
+    ],
+    "holders": [
+        177771
+    ],
+    "ipcCodes": [
+        "E21B 43/08"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2015 015732-7",
+    "filingDate": "16/12/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRATAR UMA PASTA DO PROCESSO DE BAYER COMPREENDENDO LICOR E LAMA VERMELHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/729,744",
+            "priorityDate": "28/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "CARL URBANI",
+        "JOHN D KILDEA",
+        "RYAN CHESTER",
+        "JING WANG"
+    ],
+    "holders": [
+        14606
+    ],
+    "ipcCodes": [
+        "C02F 1/52"
+    ]
+}

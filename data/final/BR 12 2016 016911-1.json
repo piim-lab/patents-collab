@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 12 2016 016911-1",
+    "filingDate": "24/04/2012",
+    "grantDate": null,
+    "title": "IMPEDIMENTO DE ACESSO ESTENDIDO CONTROLADO POR REDE PARA DISPOSITIVOS DE USU\u00c1RIO",
+    "divisionalApplication": {
+        "filingDate": "24/04/2012",
+        "applicationNumber": "BR 11 2014 026256-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2603"
+        }
+    ],
+    "inventors": [
+        "RICKARD LJUNG"
+    ],
+    "holders": [
+        350704
+    ],
+    "ipcCodes": [
+        "H04W 48/06"
+    ]
+}

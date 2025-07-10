@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2013 020966-6",
+    "filingDate": "14/02/2012",
+    "grantDate": null,
+    "title": "PROCESSO EM ESCALA COMERCIAL PARA PRODU\u00c7\u00c3O DO PRRSV",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/444,071",
+            "priorityDate": "17/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        }
+    ],
+    "inventors": [
+        "ELIZABETH JANE BERRY",
+        "FUAD TAWFIQ HADDADIN",
+        "ALI KHAZRAEINAZMPOUR",
+        "JEREMY KROLL",
+        "SONIA REGINA CANTISANO MALBURG",
+        "EDGAR ARNULFO SANDOVAL BASURTO",
+        "STEPHEN SCHEERER"
+    ],
+    "holders": [
+        85627
+    ],
+    "ipcCodes": [
+        "A61K 39/12",
+        "C12N 7/00"
+    ]
+}

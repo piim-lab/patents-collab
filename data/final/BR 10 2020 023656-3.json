@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 023656-3",
+    "filingDate": "19/11/2020",
+    "grantDate": null,
+    "title": "PROCESSO DE OTIMIZA\u00c7\u00c3O E PLATAFORMA DIGITAL PARA PLANEJAMENTO E SIMULA\u00c7\u00c3O DE OPERA\u00c7\u00d5ES LOG\u00cdSTICAS DE RECEBIMENTO, FORMA\u00c7\u00c3O DE PILHAS, ARMAZENAGEM, MOVIMENTA\u00c7\u00c3O, RECUPERA\u00c7\u00c3O E EXPEDI\u00c7\u00c3O DE GRAN\u00c9IS S\u00d3LIDOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "AFONSO CELSO MEDINA"
+    ],
+    "holders": [
+        63425
+    ],
+    "ipcCodes": [
+        "G06Q 10/00",
+        "B65D 90/48",
+        "G01F 17/00"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 13 2018 074482-7",
+    "filingDate": "27/11/2018",
+    "grantDate": null,
+    "title": "PROCESSO MICROFLU\u00cdDICO DE OBTEN\u00c7\u00c3O DE LIPOSSOMAS STEALTH CATI\u00d4NICOS",
+    "parentApplication": {
+        "filingDate": "30/11/2017",
+        "applicationNumber": "BR 10 2017 025862-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "LUCIMARA GAZIOLA DE LA TORRE",
+        "ISMAIL ES",
+        "LEONARDO JOSE MONTEBUGNOLI",
+        "ALLAN RADAIC",
+        "MARCELO BISPO DE JESUS"
+    ],
+    "holders": [
+        221
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 47/14",
+        "A61K 9/127",
+        "A61P 37/04",
+        "A61K 47/18",
+        "A61K 47/24"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2018 000999-7",
+    "filingDate": "11/07/2016",
+    "grantDate": null,
+    "title": "DRONE DE AN\u00c1LISE DE SAFRA AGR\u00cdCOLA",
+    "nationalPhaseDate": [
+        "17/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/041705",
+        "pctDate": "11/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/802,389",
+            "priorityDate": "17/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "RAYMOND M OCONNOR",
+        "IVAN GIOVANNI DI FEDERICO"
+    ],
+    "holders": [
+        206095
+    ],
+    "ipcCodes": [
+        "A01B 79/00"
+    ]
+}

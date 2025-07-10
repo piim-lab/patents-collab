@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2021 001892-8",
+    "filingDate": "01/08/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UM ARTIGO REVESTIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/052,166",
+            "priorityDate": "01/08/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/08/2019",
+        "applicationNumber": "BR 11 2020 025635-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "VICTOR VEERASAMY",
+        "BERND DISTELDORF"
+    ],
+    "holders": [
+        5003,
+        101596
+    ],
+    "ipcCodes": [
+        "C03C 17/36"
+    ]
+}

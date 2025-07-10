@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 20 2018 071353-7",
+    "filingDate": "17/10/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE IDENTIFICA\u00c7\u00c3O DE MARCA DE UM ITEM",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "15.10",
+            "description": "Mudan\u00e7a de Natureza",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [
+        "WELLYNGTON DE SOUZA INACIO"
+    ],
+    "holders": [
+        34272
+    ],
+    "ipcCodes": [
+        "G07D 7/12",
+        "G07D 7/04",
+        "B65G 43/08",
+        "B65B 57/02",
+        "G06K 19/08",
+        "B65B 19/28"
+    ]
+}

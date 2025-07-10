@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2012 015957-0",
+    "filingDate": "27/06/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE CIMENTO HIDROF\u00d3BICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/502,553",
+            "priorityDate": "29/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "ROBERT BAUMANN"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "C04B 24/26",
+        "C04B 103/65"
+    ]
+}

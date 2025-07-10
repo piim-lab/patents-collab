@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2013 015364-4",
+    "filingDate": "26/07/2011",
+    "grantDate": "26/01/2021",
+    "title": "DISPOSITIVO DE OPERA\u00c7\u00c3O DE DESTRANCAMENTO CENTRALIZADO",
+    "nationalPhaseDate": [
+        "18/06/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2011/066908",
+        "pctDate": "26/07/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-286597",
+            "priorityDate": "22/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "HITOSHI YANO",
+        "NOBUYUKI SATOU",
+        "HAYATO WAKAI"
+    ],
+    "holders": [
+        49246
+    ],
+    "ipcCodes": [
+        "B62H 5/00",
+        "E05B 83/34",
+        "E05B 83/00",
+        "E05B 77/34"
+    ]
+}

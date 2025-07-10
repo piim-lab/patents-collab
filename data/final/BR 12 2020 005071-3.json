@@ -1,0 +1,114 @@
+{
+    "applicationNumber": "BR 12 2020 005071-3",
+    "filingDate": "10/02/2015",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE CATALISADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/938,466",
+            "priorityDate": "11/02/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/938,472",
+            "priorityDate": "11/02/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/981,291",
+            "priorityDate": "18/04/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/985,151",
+            "priorityDate": "28/04/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/032,383",
+            "priorityDate": "01/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/087,911",
+            "priorityDate": "05/12/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/087,914",
+            "priorityDate": "05/12/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/087,905",
+            "priorityDate": "05/12/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/088,196",
+            "priorityDate": "05/12/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/02/2015",
+        "applicationNumber": "BR 11 2016 019334-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "FRANCIS C RIX",
+        "ALEXANDER D TODD",
+        "JEFF C HARLAN",
+        "LINFENG CHEN",
+        "RICHARD E CAMPBELL JR",
+        "LINFENG CHEN",
+        "JAN WVAN EGMOND",
+        "RICHARD E CAMPBELL",
+        "LINFENG CHEN",
+        "RICHARD E CAMPBELL JR",
+        "LINFENG CHEN"
+    ],
+    "holders": [
+        93609,
+        91636,
+        90421
+    ],
+    "ipcCodes": [
+        "B01J 31/22",
+        "B01J 31/12",
+        "C08F 210/06",
+        "C08F 110/06",
+        "C08F 10/06",
+        "B01J 31/02",
+        "B01J 8/18",
+        "C08F 4/00",
+        "C08F 10/02",
+        "B01J 31/14"
+    ]
+}

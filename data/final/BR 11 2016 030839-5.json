@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2016 030839-5",
+    "filingDate": "29/06/2015",
+    "grantDate": null,
+    "title": "AGENTE DE IGNI\u00c7\u00c3O PIROT\u00c9CNICO E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 009 807.9",
+            "priorityDate": "03/07/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "ULRICH BLEY",
+        "ALEKSEJ HOSCHENKO",
+        "ULF LAWRENTZ",
+        "PETER SIMON LECHNER"
+    ],
+    "holders": [
+        169897
+    ],
+    "ipcCodes": [
+        "C06C 7/00",
+        "C06B 43/00"
+    ]
+}

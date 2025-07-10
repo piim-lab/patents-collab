@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2015 028240-7",
+    "filingDate": "07/05/2014",
+    "grantDate": null,
+    "title": "MATERIAL DE A\u00c7O PARA ESTRUTURA SOLDADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-100507",
+            "priorityDate": "10/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        }
+    ],
+    "inventors": [
+        "ISAMU KAGE",
+        "SHINICHI MIURA",
+        "TSUTOMU KOMORI",
+        "TOSHIYUKI HOSHINO"
+    ],
+    "holders": [
+        1442
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C22C 38/60",
+        "C22C 38/16"
+    ]
+}

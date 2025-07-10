@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2014 004405-8",
+    "filingDate": "06/08/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ENVIAR DADOS, DISPOSITIVO PARA ENVIAR DADOS, E M\u00c9TODO PARA RECEBER DADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201110288736.X",
+            "priorityDate": "26/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "DONGSHENG LI"
+    ],
+    "holders": [
+        111114
+    ],
+    "ipcCodes": [
+        "H04L 25/03"
+    ]
+}

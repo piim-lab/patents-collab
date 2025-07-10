@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2018 004089-4",
+    "filingDate": "01/07/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE COMUNICA\u00c7\u00c3O DE INTERNET DAS COISAS, DISPOSITIVO DE LADO DE REDE, E TERMINAL DE INTERNET DAS COISAS",
+    "nationalPhaseDate": [
+        "28/02/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2016/088231",
+        "pctDate": "01/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510559591.0",
+            "priorityDate": "02/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "SHENG LIU",
+        "YI LUO"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 12/24"
+    ]
+}

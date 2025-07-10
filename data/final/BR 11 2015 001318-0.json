@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2015 001318-0",
+    "filingDate": "24/06/2013",
+    "grantDate": "26/01/2021",
+    "title": "PROCESSO PARA CONFORMAR MATERIAIS ESPUMADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/675,011",
+            "priorityDate": "24/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "RAINER ZIMMERMANN FALECIDO",
+        "JORGE PINTO",
+        "MATTHIAS ALEXANDER ROTH",
+        "J\u00d6RN DANIEL S\u00dcNDERMANN",
+        "ARNIM KRAATZ",
+        "DIETER SCHLAGER"
+    ],
+    "holders": [
+        79975
+    ],
+    "ipcCodes": [
+        "B32B 5/18",
+        "B29C 35/08",
+        "C08J 9/36",
+        "B29C 51/10",
+        "B29C 44/56"
+    ]
+}

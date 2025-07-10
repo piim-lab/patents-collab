@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 003639-4",
+    "filingDate": "20/02/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA VERIFICAR AS EXIG\u00caNCIAS DE SISTEMAS CYBER-F\u00cdSICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19158513.2",
+            "priorityDate": "21/02/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "BIRTHE B\u00d6HM"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "G06F 11/14"
+    ]
+}

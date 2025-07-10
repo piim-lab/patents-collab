@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 13 2021 005344-4",
+    "filingDate": "22/03/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MANIPULA\u00c7\u00c3O CELULAR MAGN\u00c9TICA",
+    "parentApplication": {
+        "filingDate": "23/08/2013",
+        "applicationNumber": "BR 11 2015 004374-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI",
+            "bulletinNumber ": "2780"
+        }
+    ],
+    "inventors": [
+        "KRISTIE MARIE KRUG"
+    ],
+    "holders": [
+        100360
+    ],
+    "ipcCodes": [
+        "G01N 33/543",
+        "G01N 33/569",
+        "C12N 13/00",
+        "B03C 1/02",
+        "B03C 1/01",
+        "B03C 1/015",
+        "B03C 1/28",
+        "B03C 1/023"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2020 003297-9",
+    "filingDate": "22/12/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PRODU\u00c7\u00c3O DE PART\u00cdCULA TIPO V\u00cdRUS EM PLANTAS, AS REFERIDAS PART\u00cdCULAS E COMPOSI\u00c7\u00d5ES COMPREENDENDO AS MESMAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/426,401",
+            "priorityDate": "22/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/496,371",
+            "priorityDate": "13/06/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/12/2011",
+        "applicationNumber": "BR 11 2013 016185-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "ANDRE DAOUST",
+        "MANON COUTURE",
+        "OLIVIER LAVOIE",
+        "PHILIPPE VEZINA"
+    ],
+    "holders": [
+        85238
+    ],
+    "ipcCodes": [
+        "C12N 15/82",
+        "A61P 37/04",
+        "C12N 15/62",
+        "C07K 19/00",
+        "C12N 15/00",
+        "A61P 31/16",
+        "C12N 7/00",
+        "A61K 39/295",
+        "C07K 14/11",
+        "C07K 14/005"
+    ]
+}

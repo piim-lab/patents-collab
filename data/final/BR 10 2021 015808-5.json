@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 015808-5",
+    "filingDate": "11/08/2021",
+    "grantDate": null,
+    "title": "GASPER PARA USO EM UMA AERONAVE DE PASSAGEIROS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/066,736",
+            "priorityDate": "17/08/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/367,064",
+            "priorityDate": "02/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "JONATHAN RHEAUME",
+        "GIUSI QUARTARONE"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64D 13/06"
+    ]
+}

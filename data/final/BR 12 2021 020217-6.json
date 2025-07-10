@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2021 020217-6",
+    "filingDate": "15/05/2013",
+    "grantDate": null,
+    "title": "MEIO DE FERMENTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/650,098",
+            "priorityDate": "22/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/650,093",
+            "priorityDate": "22/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/726,225",
+            "priorityDate": "14/11/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/890,777",
+            "priorityDate": "09/05/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/05/2013",
+        "applicationNumber": "BR 11 2014 028956-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "SYRONA SCOTT",
+        "SONG LIU",
+        "WHAN KO"
+    ],
+    "holders": [
+        115736
+    ],
+    "ipcCodes": [
+        "C12P 7/08",
+        "C12N 1/20",
+        "C12P 7/06"
+    ]
+}

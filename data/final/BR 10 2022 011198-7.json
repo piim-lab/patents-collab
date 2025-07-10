@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2022 011198-7",
+    "filingDate": "08/06/2022",
+    "grantDate": null,
+    "title": "VE\u00cdCULO E SISTEMA DE ALIMENTA\u00c7\u00c3O DE ENERGIA SEM CONTATO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-101179",
+            "priorityDate": "17/06/2021"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-085503",
+            "priorityDate": "25/05/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2794"
+        }
+    ],
+    "inventors": [
+        "RYOSUKE IKEMURA",
+        "SHOGO TSUGE",
+        "TOSHIYA HASHIMOTO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "H02J 50/80",
+        "B60L 53/122",
+        "B60L 53/124",
+        "B60L 53/39"
+    ]
+}

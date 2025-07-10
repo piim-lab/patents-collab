@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2018 008906-4",
+    "filingDate": "02/05/2018",
+    "grantDate": null,
+    "title": "CABOS DE SENSOR GEOF\u00cdSICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/500,570",
+            "priorityDate": "03/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/501,970",
+            "priorityDate": "05/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/957,705",
+            "priorityDate": "19/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "ANDERS G\u00d6RAN MATTSSON",
+        "STIG RUNE LENNART TENGHAMN",
+        "FREDERICK JAMES BARR"
+    ],
+    "holders": [
+        87
+    ],
+    "ipcCodes": [
+        "G01V 1/38"
+    ]
+}

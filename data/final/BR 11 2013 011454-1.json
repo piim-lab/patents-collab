@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2013 011454-1",
+    "filingDate": "02/11/2011",
+    "grantDate": "25/04/2019",
+    "title": "PROCESSO DE REVESTIMENTO DE UM COMPONENTE TUBULAR ROSCADO, COMPONENTE TUBULAR ROSCADO E UNI\u00c3O RESULTANTE22",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "10/044399",
+            "priorityDate": "10/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "ERIC GARD",
+        "ELIETTE PINEL",
+        "MIKAEL PETIT",
+        "MOHAMED GOUIDER"
+    ],
+    "holders": [
+        90706,
+        61
+    ],
+    "ipcCodes": [
+        "C10M 107/32"
+    ]
+}

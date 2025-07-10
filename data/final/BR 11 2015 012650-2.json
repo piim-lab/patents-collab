@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2015 012650-2",
+    "filingDate": "29/11/2013",
+    "grantDate": null,
+    "title": "CARTUCHO DE FILTRO E MONTAGEM DE FILTRO DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/731,259",
+            "priorityDate": "29/11/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/834,885",
+            "priorityDate": "15/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/841,440",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "STEVEN CAMPBELL",
+        "MICHEL BASEOTTO"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "B01D 46/52",
+        "B01D 46/24"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 014866-7",
+    "filingDate": "28/07/2021",
+    "grantDate": null,
+    "title": "SISTEMA, SISTEMA DE TESTEMUNHO DE TESTE REMOTO, E, M\u00c9TODO DE MONTAGEM DE UM SISTEMA DE TESTEMUNHO DE TESTE REMOTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/060,539",
+            "priorityDate": "03/08/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/066,175",
+            "priorityDate": "08/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "GARY WARBURTON"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "H04N 5/247",
+        "H04N 7/18",
+        "B64F 5/60"
+    ]
+}

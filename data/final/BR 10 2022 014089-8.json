@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 014089-8",
+    "filingDate": "15/07/2022",
+    "grantDate": null,
+    "title": "LIGA DE LAT\u00c3O SEM CHUMBO E USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102021118907.1",
+            "priorityDate": "21/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "FLORIAN SEUSS",
+        "ALEXANDER DEHNELT",
+        "VOLKER BR\u00c4UTIGAM"
+    ],
+    "holders": [
+        76306
+    ],
+    "ipcCodes": [
+        "C22C 9/01"
+    ]
+}

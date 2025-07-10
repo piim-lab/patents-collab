@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2017 014855-2",
+    "filingDate": "02/12/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONITORAMENTO AGR\u00cdCOLA, M\u00c9TODO PARA MONITORAMENTO DE UMA \u00c1REA DE SOLO E SISTEMA DE MONITORAMENTO AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "IL",
+            "priorityNumber": "236606",
+            "priorityDate": "11/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "AMIHAY GORNIK"
+    ],
+    "holders": [
+        193132
+    ],
+    "ipcCodes": [
+        "A01B 79/00",
+        "G06T 7/00",
+        "B64C 39/02"
+    ]
+}

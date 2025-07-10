@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 10 2020 004308-0",
+    "filingDate": "03/03/2020",
+    "grantDate": null,
+    "title": "BORRACHA REFOR\u00c7ADA CONTENDO \u00d3LEO DE TRIGLICER\u00cdDEO SILILADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/813,476",
+            "priorityDate": "04/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "JOSEPH JOHN KULIG",
+        "KELSEY ELIZABETH CANTWELL",
+        "GEORGE JIM PAPAKONSTANTOPOULOS"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "B60C 1/00",
+        "C08L 9/00",
+        "C08L 7/00",
+        "C08L 9/06",
+        "B60C 11/00",
+        "C08L 83/04",
+        "C08G 77/38",
+        "C08G 77/50"
+    ]
+}

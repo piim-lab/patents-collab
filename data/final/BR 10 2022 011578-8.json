@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2022 011578-8",
+    "filingDate": "13/06/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE SENSOR DE TEMPERATURA COM ALOJAMENTO ISOLANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21305816.7",
+            "priorityDate": "15/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "BASTIEN VENET",
+        "NICOLAS CHRISTOPHER PECQUET",
+        "ALEXANDRA DA CRUZ",
+        "PAUL WAFO",
+        "DAVID TREXLER"
+    ],
+    "holders": [
+        55952,
+        75989
+    ],
+    "ipcCodes": [
+        "G01K 1/08",
+        "G01K 7/16",
+        "G01K 7/22",
+        "G01K 7/00",
+        "G01K 7/02",
+        "G01K 1/16",
+        "G01K 1/143"
+    ]
+}

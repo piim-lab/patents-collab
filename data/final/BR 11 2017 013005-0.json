@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2017 013005-0",
+    "filingDate": "17/12/2015",
+    "grantDate": null,
+    "title": "PROCESSO  APLICADO  POR  UM DISPOSITIVO  DE  COMUNICA\u00c7\u00c3O,  MEIOS  DE  ARMAZENAGEM  E DISPOSITIVO DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1462988",
+            "priorityDate": "19/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "NICOLAS VIVIEN"
+    ],
+    "holders": [
+        51460
+    ],
+    "ipcCodes": [
+        "H04N 21/436",
+        "H04N 21/433",
+        "H04N 21/462",
+        "H04N 21/458"
+    ]
+}

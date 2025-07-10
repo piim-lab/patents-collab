@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2018 009464-5",
+    "filingDate": "10/05/2018",
+    "grantDate": null,
+    "title": "COORDENA\u00c7\u00c3O DE COR PARA PRODUTOS ESCANEADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/504,004",
+            "priorityDate": "10/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/970,223",
+            "priorityDate": "03/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "DAMIEN REYNOLDS",
+        "DOUGLAS MILSOM",
+        "CECELIA WREN"
+    ],
+    "holders": [
+        1530
+    ],
+    "ipcCodes": [
+        "G06Q 30/06"
+    ]
+}

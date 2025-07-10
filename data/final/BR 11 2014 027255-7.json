@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 027255-7",
+    "filingDate": "29/04/2013",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR PART\u00cdCULAS DE PIGMENTO AUTOAGLUTINANTES",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12167656.3",
+            "priorityDate": "11/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/648,638",
+            "priorityDate": "18/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "ARMELLE SENTI",
+        "PATRICK A C GANE",
+        "JOACHIM SCHOELKOPF"
+    ],
+    "holders": [
+        81654
+    ],
+    "ipcCodes": [
+        "D21H 17/00",
+        "C09C 1/02"
+    ]
+}

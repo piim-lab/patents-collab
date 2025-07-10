@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2017 019653-0",
+    "filingDate": "17/03/2016",
+    "grantDate": null,
+    "title": "COMPOSTO DE FORMULA I E COMPOSI\u00c7\u00c3O FARMACEUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1504565.1",
+            "priorityDate": "18/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "SALEH AHMED",
+        "GREGORY BARKER",
+        "HANNAH CANNING",
+        "RICHARD DAVENPORT",
+        "DAVID HARRISON",
+        "KERRY JENKINS",
+        "DAVID LIVERMORE",
+        "SUSANNE WRIGHT",
+        "NATASHA KINSELLA"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "C07D 487/04",
+        "A61K 31/519",
+        "A61P 9/10",
+        "A61P 13/12",
+        "C07D 471/04",
+        "A61K 31/437"
+    ]
+}

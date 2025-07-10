@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2013 002336-8",
+    "filingDate": "27/07/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE MATERIAIS DE SINTERIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-172807",
+            "priorityDate": "30/07/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-154782",
+            "priorityDate": "13/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        }
+    ],
+    "inventors": [
+        "TAKAHIDE HIGUCHI",
+        "KOUICHI NUSHIRO",
+        "NAOYUKI TAKEUCHI",
+        "NOBUYUKI OYAMA"
+    ],
+    "holders": [
+        1442
+    ],
+    "ipcCodes": [
+        "C22B 1/16"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2014 025416-8",
+    "filingDate": "14/03/2013",
+    "grantDate": null,
+    "title": "Agentes antimal\u00e1ricos, composi\u00e7\u00e3o farmac\u00eautica compreendendo-os e uso dos mesmos",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1206280.8",
+            "priorityDate": "10/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        }
+    ],
+    "inventors": [
+        "IAN HUGH GILBERT",
+        "NEIL NORCROSS",
+        "BEATRIZ BARAGANA RUIBAL",
+        "ACHIM PORZELLE"
+    ],
+    "holders": [
+        80174
+    ],
+    "ipcCodes": [
+        "A61P 33/06",
+        "A61K 31/4725",
+        "C07D 215/52"
+    ]
+}

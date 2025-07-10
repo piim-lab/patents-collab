@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2022 010572-3",
+    "filingDate": "30/05/2022",
+    "grantDate": null,
+    "title": "COMPONENTE SINTERIZADO E SEU PROCESSO DE PRODU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A50463/2021",
+            "priorityDate": "08/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "HORST R\u00d6SSLER",
+        "MARTIN OHLER",
+        "HELMUT AICHINGER",
+        "ALEXANDER M\u00dcLLER"
+    ],
+    "holders": [
+        10740
+    ],
+    "ipcCodes": [
+        "B22F 5/08",
+        "B21H 5/02"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 011975-6",
+    "filingDate": "12/06/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE SEPARA\u00c7\u00c3O MEC\u00c2NICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/682,966",
+            "priorityDate": "10/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "CHARLES C GALLOP",
+        "ALEX DEXTER WAYMAN"
+    ],
+    "holders": [
+        33687
+    ],
+    "ipcCodes": [
+        "B01D 29/01",
+        "B01D 21/26",
+        "B01D 39/10"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2017 025535-2",
+    "filingDate": "28/11/2017",
+    "grantDate": null,
+    "title": "MECANISMO DE TRANSMISS\u00c3O DE POT\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-231792",
+            "priorityDate": "29/11/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2679"
+        }
+    ],
+    "inventors": [
+        "MORIHIRO MATSUMOTO",
+        "TADASHI TAKAGAKI",
+        "SHINOBU ISHIDA",
+        "TETSUO HAMAJIMA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "F16H 57/022",
+        "F16H 1/08"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 067450-1",
+    "filingDate": "01/09/2018",
+    "grantDate": null,
+    "title": "TAMBOR DE CONSTRU\u00c7\u00c3O DE PNEUS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/693.773",
+            "priorityDate": "01/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": []
+}

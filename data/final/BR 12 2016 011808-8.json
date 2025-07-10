@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2016 011808-8",
+    "filingDate": "17/06/2013",
+    "grantDate": "21/09/2021",
+    "title": "PROCESSOS PARA PREPARAR A FORMA 1 DE \u00c1CIDO OBETIC\u00d3LICO E O \u00c1CIDO OBETIC\u00d3LICO CRISTALINO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/661,531",
+            "priorityDate": "19/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/06/2013",
+        "applicationNumber": "BR 11 2014 031828-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        148519
+    ],
+    "ipcCodes": []
+}

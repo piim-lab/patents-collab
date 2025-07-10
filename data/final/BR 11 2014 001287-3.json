@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2014 001287-3",
+    "filingDate": "02/02/2012",
+    "grantDate": "08/12/2020",
+    "title": "VACINA RECOMBINANTE DO V\u00cdRUS DA LEUCEMIA FELINA CONTENDO GENE OTIMIZADO DO ENVELOPE DO V\u00cdRUS DA LEUCEMIA FELINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/509,912",
+            "priorityDate": "20/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2679"
+        }
+    ],
+    "inventors": [
+        "HERVE POULET",
+        "THIERRY HEIDMANN"
+    ],
+    "holders": [
+        84161,
+        48954,
+        81379,
+        130389
+    ],
+    "ipcCodes": [
+        "A61K 39/12",
+        "C12N 15/86",
+        "C07K 14/005"
+    ]
+}

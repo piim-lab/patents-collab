@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2012 023892-2",
+    "filingDate": "15/03/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR \u00c1CIDO SUCC\u00cdNICO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-059578",
+            "priorityDate": "16/03/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-060674",
+            "priorityDate": "17/03/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-085561",
+            "priorityDate": "01/04/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-089048",
+            "priorityDate": "07/04/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-179896",
+            "priorityDate": "11/08/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        }
+    ],
+    "inventors": [
+        "YOSHIAKI MORI",
+        "GO TAKAHASHI",
+        "HIDEKI SUDA",
+        "SHUJI YOSHIDA"
+    ],
+    "holders": [
+        84092
+    ],
+    "ipcCodes": [
+        "C07C 51/43",
+        "C12N 15/09",
+        "C12P 7/46",
+        "C07C 55/10"
+    ]
+}

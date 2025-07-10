@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 20 2020 021643-6",
+    "filingDate": "22/10/2020",
+    "grantDate": null,
+    "title": "APERFEI\u00c7OAMENTO EM SAPATA DE PRESS\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "FERNANDO WILDEMANN"
+    ],
+    "holders": [
+        42856
+    ],
+    "ipcCodes": [
+        "B30B 15/00",
+        "D21F 3/00"
+    ]
+}

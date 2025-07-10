@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 12 2019 004240-3",
+    "filingDate": "28/05/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO IN VITRO PARA DETEC\u00c7\u00c3O DA PRESEN\u00c7A DE UMA PROTE\u00cdNA PSCA EM UMA AMOSTRA TESTE COMO UM INDICADOR DA PRESEN\u00c7A DE C\u00c2NCER",
+    "divisionalApplication": {
+        "filingDate": "28/05/2004",
+        "applicationNumber": "PI 0410842-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        96651
+    ],
+    "ipcCodes": []
+}

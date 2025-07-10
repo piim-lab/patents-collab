@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 026730-2",
+    "filingDate": "28/12/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE CONTROLE DE FRENAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/779,012",
+            "priorityDate": "31/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "AJITH KUTTANNAIR KUMAR",
+        "BRIAN MEYER",
+        "CHRIS WIESNER",
+        "MATTHEW PAUL ENSLEY",
+        "PATRICIA SUE LACY",
+        "WILLIAM JOHN POTTER",
+        "EDWARD W GAUGHAN"
+    ],
+    "holders": [
+        12441,
+        24087
+    ],
+    "ipcCodes": [
+        "B60T 13/66"
+    ]
+}

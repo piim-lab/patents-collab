@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2019 026630-9",
+    "filingDate": "13/12/2019",
+    "grantDate": null,
+    "title": "SISTEMA \u00d3PTICO, E, M\u00c9TODO PARA PROJETAR UMA IMAGEM DE LINHA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/579374",
+            "priorityDate": "23/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "KENT ALLAN RAMTHUN"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "H04N 9/31",
+        "H04N 13/30"
+    ]
+}

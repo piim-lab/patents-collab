@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 013019-1",
+    "filingDate": "22/11/2012",
+    "grantDate": null,
+    "title": "Montagem de bobina de igni\u00e7\u00e3o com extens\u00e3o para conex\u00e3o el\u00e9trica de um plugue de igni\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "TO2011A001098",
+            "priorityDate": "29/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "STEFANO SILVA",
+        "PASQUALE FORTE"
+    ],
+    "holders": [
+        137397
+    ],
+    "ipcCodes": [
+        "H01T 13/05"
+    ]
+}

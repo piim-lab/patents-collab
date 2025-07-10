@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2018 012896-1",
+    "filingDate": "22/12/2016",
+    "grantDate": null,
+    "title": "ARMA\u00c7\u00c3O DE SUPORTE",
+    "nationalPhaseDate": [
+        "22/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/082329",
+        "pctDate": "22/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 200 868.4",
+            "priorityDate": "22/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "MARKUS RUPP"
+    ],
+    "holders": [
+        90061
+    ],
+    "ipcCodes": [
+        "E04G 11/54",
+        "E04C 3/40"
+    ]
+}

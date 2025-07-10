@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2021 012035-1",
+    "filingDate": "29/11/2019",
+    "grantDate": null,
+    "title": "FILTRAGEM ADAPTATIVA EM LA\u00c7O (ALF) COM CORTE N\u00c3O LINEAR",
+    "nationalPhaseDate": [
+        "18/06/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/083066",
+        "pctDate": "29/11/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1821156.5",
+            "priorityDate": "21/12/2018"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1901775.5",
+            "priorityDate": "08/02/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "JONATHAN TAQUET",
+        "CHRISTOPHE GISQUET",
+        "GUILLAUME LAROCHE",
+        "PATRICE ONNO"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "H04N 19/70",
+        "H04N 19/117",
+        "H04N 19/82",
+        "H04N 19/86",
+        "H04N 19/182",
+        "H04N 19/14"
+    ]
+}

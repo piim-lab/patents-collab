@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2017 019199-0",
+    "filingDate": "06/09/2017",
+    "grantDate": null,
+    "title": "ELETR\u00d3LITO COMP\u00d3SITO, BATERIA SECUND\u00c1RIA, CONJUNTO DE BATERIA E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-030105",
+            "priorityDate": "21/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "NORIO TAKAMI",
+        "YASUHIRO HARADA",
+        "TAKUYA IWASAKI"
+    ],
+    "holders": [
+        7734
+    ],
+    "ipcCodes": [
+        "H01M 10/0525",
+        "H01M 10/42"
+    ]
+}

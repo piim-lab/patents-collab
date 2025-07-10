@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 001636-4",
+    "filingDate": "28/01/2022",
+    "grantDate": null,
+    "title": "SISTEMA QUE COMPREENDE UM INDICADOR POSICIONADO PR\u00d3XIMO A UM IMPLEMENTO ACOPLADO A UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/235,100",
+            "priorityDate": "20/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        }
+    ],
+    "inventors": [
+        "ANIRUDDHA PATIL",
+        "GIOVANNI A WUISAN",
+        "SURYA PRATAP PONNANA",
+        "CHRISTOPHER B HOWARD"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "E02F 9/26"
+    ]
+}

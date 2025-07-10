@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 12 2022 004363-1",
+    "filingDate": "21/02/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CODIFICAR IMAGENS PELA DERIVA\u00c7\u00c3O DE PAR\u00c2METROS DE UM MODELO LINEAR, M\u00c9TODO PARA DECODIFICAR IMAGENS PELA DERIVA\u00c7\u00c3O DE PAR\u00c2METROS DE UM MODELO LINEAR, DISPOSITIVO PARA CODIFICAR IMAGENS, DISPOSITIVO PARA DECODIFICAR IMAGENS E SUPORTE LEG\u00cdVEL POR COMPUTADOR N\u00c3O-TRANSIT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1802972.8",
+            "priorityDate": "23/02/2018"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1820023.8",
+            "priorityDate": "07/12/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/02/2019",
+        "applicationNumber": "BR 11 2020 017153-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "PATRICE ONNO",
+        "CHRISTOPHE GISQUET",
+        "GUILLAUME LAROCHE",
+        "JONATHAN TAQUET",
+        "PATRICE ONNO",
+        "CHRISTOPHE GISQUET",
+        "GUILLAUME LAROCHE",
+        "JONATHAN TAQUET",
+        "PATRICE ONNO",
+        "CHRISTOPHE GISQUET",
+        "GUILLAUME LAROCHE",
+        "JONATHAN TAQUET"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "H04N 19/156",
+        "H04N 19/186",
+        "H04N 19/42",
+        "H04N 19/50"
+    ]
+}

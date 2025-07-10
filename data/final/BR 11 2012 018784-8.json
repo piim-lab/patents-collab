@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2012 018784-8",
+    "filingDate": "23/02/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UMA COMPOSI\u00c7\u00c3O DE ARILOXITIT\u00c2NIO, M\u00c9TODO PARA ESTABILIZAR A MESMA, E,M\u00c9TODO PARA PRODUZIR UM CARBONATO DE DIARILA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-037925",
+            "priorityDate": "23/02/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-037926",
+            "priorityDate": "23/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "MIYAKE NOBUHISA",
+        "NISHIYAMA BUDIANTO"
+    ],
+    "holders": [
+        88491
+    ],
+    "ipcCodes": [
+        "B01J 31/12",
+        "C07F 7/28",
+        "C07C 69/96",
+        "C07C 68/06",
+        "C07C 37/64",
+        "C07C 39/235"
+    ]
+}

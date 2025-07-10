@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 013131-0",
+    "filingDate": "06/12/2013",
+    "grantDate": null,
+    "title": "Sistema dispensador e m\u00e9todo para dispensar um produto l\u00edquido que libera gases misturado a um produto diluente",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/734,532",
+            "priorityDate": "07/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        }
+    ],
+    "inventors": [
+        "JARED R FREUDENBERG",
+        "TROY A ANDERSON",
+        "HENRY LOUIS CARBONE II",
+        "RYAN CARROL",
+        "RYAN JACOB URBAN"
+    ],
+    "holders": [
+        10348
+    ],
+    "ipcCodes": [
+        "A61L 2/20",
+        "A61L 2/18",
+        "A61L 2/24"
+    ]
+}

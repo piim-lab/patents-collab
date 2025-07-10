@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 010334-5",
+    "filingDate": "27/05/2021",
+    "grantDate": null,
+    "title": "SERVIDOR DE CARTEIRA, SISTEMA DE CARTEIRA, E MEIO DE ARMAZENAMENTO N\u00c3O TRANSIT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-100081",
+            "priorityDate": "09/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "YURIKA TANAKA",
+        "HIDEO HASEGAWA",
+        "NOZOMU YOSHIOKA",
+        "TSUYOSHI TAKESHITA",
+        "SHOICHIRO SUZUKI",
+        "KOHEI ICHIHARA",
+        "SHOTA YAMAMOTO",
+        "JUNYA CHIKANISHI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06Q 20/12",
+        "G06Q 30/02"
+    ]
+}

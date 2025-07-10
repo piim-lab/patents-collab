@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 12 2012 003219-0",
+    "filingDate": "16/01/2009",
+    "grantDate": null,
+    "title": "REATIVOS PARA DETEC\u00c7\u00c3O DE PRODUTOS DE AN\u00c1LISE",
+    "divisionalApplication": {
+        "filingDate": "16/01/2009",
+        "applicationNumber": "PI 0906419-2"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        188010
+    ],
+    "ipcCodes": []
+}

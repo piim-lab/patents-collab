@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2019 021441-4",
+    "filingDate": "11/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE DADOS A\u00c9REOS ULTRASS\u00d4NICOS, E, M\u00c9TODO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/158,894",
+            "priorityDate": "12/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "DANIEL W SHANNON",
+        "KAREN A TEERLINCK",
+        "JOSEPH V MANTESE",
+        "JAIME SLY"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01N 29/34",
+        "B06B 1/06"
+    ]
+}

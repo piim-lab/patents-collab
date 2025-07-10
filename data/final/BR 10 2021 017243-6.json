@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2021 017243-6",
+    "filingDate": "31/08/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE ACIONAMENTO COM CONTROLE DE FRENAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/077,267",
+            "priorityDate": "11/09/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/458,166",
+            "priorityDate": "26/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2809"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "NIKHIL EDLABADKAR",
+        "AJITH KUTTANNAIR KUMAR",
+        "JOE FERKO"
+    ],
+    "holders": [
+        12441
+    ],
+    "ipcCodes": [
+        "B60T 13/74",
+        "B60T 17/22",
+        "B60L 7/18",
+        "B60L 7/02"
+    ]
+}

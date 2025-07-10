@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 006214-2",
+    "filingDate": "31/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA \u00d3PTICO COMBINADO PARA MEDI\u00c7\u00d5ES DIMENSIONAIS E T\u00c9RMICAS E M\u00c9TODO OPERACIONAL RELACIONADO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000006880",
+            "priorityDate": "01/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "SIMONE DONADELLO",
+        "BARBARA PREVITALI"
+    ],
+    "holders": [
+        12429
+    ],
+    "ipcCodes": [
+        "G01J 5/00",
+        "B23K 26/04",
+        "G01J 5/02",
+        "B23K 26/03",
+        "G01B 11/02",
+        "G01J 5/08",
+        "B23K 26/20",
+        "B23K 26/34",
+        "G01J 5/60",
+        "G01J 5/0803",
+        "G01J 5/0806"
+    ]
+}

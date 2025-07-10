@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2015 026117-9",
+    "filingDate": "14/10/2015",
+    "grantDate": null,
+    "title": "LI\u00c7O PARA UM TEAR E TEAR EQUIPADO COM TAL LI\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1459960",
+            "priorityDate": "16/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "MICHEL HERRMANN",
+        "PHILIPPE GAUBERT",
+        "DAMIEN BOUCHET"
+    ],
+    "holders": [
+        19857
+    ],
+    "ipcCodes": [
+        "D03C 9/02",
+        "D03C 9/00"
+    ]
+}

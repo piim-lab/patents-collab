@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2022 017978-2",
+    "filingDate": "17/03/2021",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES E M\u00c9TODOS DE GPAM",
+    "nationalPhaseDate": [
+        "08/09/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/022801",
+        "pctDate": "17/03/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/991,380",
+            "priorityDate": "18/03/2020"
+        },
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20205544",
+            "priorityDate": "27/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2808"
+        }
+    ],
+    "inventors": [
+        "CHEN LU",
+        "CHRISTOPHER MICHAEL LEWIS",
+        "WILLIAM JAMES GARRISI"
+    ],
+    "holders": [
+        25067
+    ],
+    "ipcCodes": [
+        "D21H 17/55",
+        "D21H 21/20",
+        "C08L 33/26"
+    ]
+}

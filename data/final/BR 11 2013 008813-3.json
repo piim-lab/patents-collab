@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2013 008813-3",
+    "filingDate": "20/10/2011",
+    "grantDate": null,
+    "title": "INSTALA\u00c7\u00c3O DE TRATAMENTO DE RES\u00cdDUOS E M\u00c9TODO DE TRATAR RES\u00cdDUOS CONTENDO LAMA DESSECADA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201010514609.2",
+            "priorityDate": "21/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "TOSHIKAZU HAYASHI",
+        "EIJI INOUE",
+        "TATSUYA WATANABE",
+        "TADASHI KATAHATA",
+        "NOBORU ICHITANI",
+        "TAKAO MATSUUCHI",
+        "WENSAN GUO",
+        "SHUNAN LI",
+        "CHENGFA HE",
+        "ZHAOHUI LI",
+        "CHANGLE ZHANG",
+        "KECHUN WANG"
+    ],
+    "holders": [
+        83618,
+        112395,
+        112396,
+        112397,
+        112398,
+        112399
+    ],
+    "ipcCodes": [
+        "C02F 11/06"
+    ]
+}

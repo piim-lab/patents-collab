@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 006510-0",
+    "filingDate": "29/09/2015",
+    "grantDate": null,
+    "title": "ETIQUETA DE RFID DE RASTREAMENTO DE PNEUS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/056,920",
+            "priorityDate": "29/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/072,806",
+            "priorityDate": "30/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "PAVEL JANKO",
+        "DENIS MARKOV",
+        "PAVEL JANKO",
+        "DENIS MARKOV"
+    ],
+    "holders": [
+        83177
+    ],
+    "ipcCodes": [
+        "G06K 19/077",
+        "B60C 23/00"
+    ]
+}

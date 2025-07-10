@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2017 017761-3",
+    "filingDate": "29/03/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA SEPARAR UMA MISTURA DE C\u00c9LULAS DE ESPERMA TINGIDAS",
+    "divisionalApplication": {
+        "filingDate": "29/03/2004",
+        "applicationNumber": "PI 0408857-3"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        100360
+    ],
+    "ipcCodes": []
+}

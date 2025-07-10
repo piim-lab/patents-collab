@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 001263-0",
+    "filingDate": "22/01/2018",
+    "grantDate": null,
+    "title": "EQUIPAMENTO DE COMUTA\u00c7\u00c3O PARA CORRENTE EL\u00c9TRICA COM CONTATOS EL\u00c9TRICOS SEPAR\u00c1VEIS E COM COMUTA\u00c7\u00c3O A AR",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1751389",
+            "priorityDate": "22/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2764"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        253
+    ],
+    "ipcCodes": []
+}

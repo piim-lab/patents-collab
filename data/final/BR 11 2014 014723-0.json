@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 014723-0",
+    "filingDate": "19/12/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO, E, INSTALA\u00c7\u00c3O PARA CONTROLAR CONSTRU\u00c7\u00c3O DE PNEUS PARA RODAS DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2011A002368",
+            "priorityDate": "23/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/596,477",
+            "priorityDate": "08/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "GIANNI PORTINARI",
+        "DAVIDE CONTI",
+        "LUIGI ANTONIO BADOLATO"
+    ],
+    "holders": [
+        79920
+    ],
+    "ipcCodes": [
+        "B29D 30/00",
+        "B29D 30/20"
+    ]
+}

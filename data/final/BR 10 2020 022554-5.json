@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 022554-5",
+    "filingDate": "05/11/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A DETERMINA\u00c7\u00c3O DOS PAR\u00c2METROS DE IMPRESS\u00c3O DE UMA IMPRESSORA E BANCADA DE TESTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19020644.1",
+            "priorityDate": "18/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "FRED ROSTALSKI"
+    ],
+    "holders": [
+        63048
+    ],
+    "ipcCodes": [
+        "B33Y 50/02"
+    ]
+}

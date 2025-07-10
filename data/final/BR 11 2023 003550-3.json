@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2023 003550-3",
+    "filingDate": "30/08/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E DISPOSITIVOS PARA COMUNICA\u00c7\u00c3O SEGURA COM E OPERA\u00c7\u00c3O DE UM IMPLANTE",
+    "nationalPhaseDate": [
+        "27/02/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT SE2021/050840",
+        "pctDate": "30/08/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "2051020-2",
+            "priorityDate": "31/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "PETER FORSELL"
+    ],
+    "holders": [
+        79844
+    ],
+    "ipcCodes": [
+        "H04W 12/06",
+        "A61B 5/00",
+        "G06F 21/30",
+        "A61N 1/372",
+        "G06F 21/35",
+        "A61N 1/08",
+        "G16H 40/60"
+    ]
+}

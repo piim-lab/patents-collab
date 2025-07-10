@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 11 2017 014295-3",
+    "filingDate": "08/01/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15150904.9",
+            "priorityDate": "13/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "CLAUDIO MILANESE",
+        "ALESSANDRA CAPEZZONE DE JOANNON",
+        "SERENA TONGIANI",
+        "LUCA DONATI",
+        "ANTONELLO FAZIO",
+        "SERENA TONGIANI",
+        "LUCA DONATI",
+        "CLAUDIO MILANESE",
+        "SIEGFRIED GSCHLIESSER",
+        "BHUSHAN DHRUVKUMAR DESAI",
+        "MASAZUMI KOJIMA",
+        "YOSHIO KUNO",
+        "HIROAKI NAKAGAMI",
+        "SHINJI SAGASAKI",
+        "KOICHI ISHIDOH",
+        "GAKU SEKIGUCHI"
+    ],
+    "holders": [
+        262828,
+        262829,
+        262830,
+        387763,
+        79577,
+        88250
+    ],
+    "ipcCodes": [
+        "A61K 47/26",
+        "A61P 9/10",
+        "A61K 47/38",
+        "A61P 7/02",
+        "A61K 47/36",
+        "A61K 9/36",
+        "A61K 9/32",
+        "A61K 47/32",
+        "A61K 31/444"
+    ]
+}

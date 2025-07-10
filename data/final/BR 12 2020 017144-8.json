@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 12 2020 017144-8",
+    "filingDate": "23/05/2014",
+    "grantDate": "03/05/2022",
+    "title": "M\u00c9TODO PARA A CODIFICA\u00c7\u00c3O DE OBJETOS DE \u00c1UDIO EM UM FLUXO DE DADOS, CODIFICADOR PARA A CODIFICA\u00c7\u00c3O DE OBJETOS DE \u00c1UDIO EM UM FLUXO DE DADOS, M\u00c9TODO EM UM DECODIFICADOR PARA DECODIFICAR UM FLUXO DE DADOS INCLUINDO OBJETOS DE \u00c1UDIO CODIFICADOS E DECODIFICADOR PARA DECODIFICAR UM FLUXO DE DADOS INCLUINDO OBJETOS DE \u00c1UDIO CODIFICADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/827,246",
+            "priorityDate": "24/05/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/893,770",
+            "priorityDate": "21/10/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/973,623",
+            "priorityDate": "01/04/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/05/2014",
+        "applicationNumber": "BR 11 2015 029129-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "HEIKO PURNHAGEN",
+        "KRISTOFER KJOERLING",
+        "TONI HIRVONEN",
+        "LARS VILLEMOES",
+        "DIRK J BREEBAART",
+        "LEIF JONAS SAMUELSSON"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "G10L 19/008"
+    ]
+}

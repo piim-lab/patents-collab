@@ -1,0 +1,94 @@
+{
+    "applicationNumber": "BR 12 2013 025375-0",
+    "filingDate": "08/11/2006",
+    "grantDate": "01/12/2020",
+    "title": "COMPOSTOS ORG\u00c2NICOS, SEUS M\u00c9TODOS DE PREPARO E USO, BEM COMO COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/735,093",
+            "priorityDate": "09/11/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/735,541",
+            "priorityDate": "10/11/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/789,332",
+            "priorityDate": "04/04/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/822,086",
+            "priorityDate": "11/08/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/11/2006",
+        "applicationNumber": "PI 0605921-0"
+    },
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "LILI FENG",
+        "SVEN ERIK GODTFREDSEN",
+        "PIOTR H KARPINSKI",
+        "PAUL ALLEN SUTTON",
+        "MAHAVIR PRASHAD",
+        "MICHAEL JOHN GIRGIS",
+        "BIN HU",
+        "YUGANG LIU",
+        "THOMAS J BLACKLOCK",
+        "SVEN ERIK GODTFREDSEN",
+        "PAUL ALLEN SUTTON",
+        "MAHAVIR PRASHAD",
+        "MICHAEL JOHN GIRGIS",
+        "BIN HU",
+        "YUGANG LIU",
+        "LILI FENG",
+        "PIOTR KARPINSKI",
+        "THOMAS J BLACKLOCK"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61K 31/216",
+        "A61K 31/41",
+        "A61P 9/00",
+        "A61P 9/10",
+        "A61P 3/10"
+    ]
+}

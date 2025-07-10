@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 011833-1",
+    "filingDate": "12/06/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE ACOMPANHAMENTO DE TREINOS EM ACADEMIAS DE GIN\u00c1STICA E MUSCULA\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "15.24.3",
+            "description": "Negado o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "TIAGO SAMPAIO LINS",
+        "MARCIO ESP\u00cdNDOLA FREIRE MAIA"
+    ],
+    "holders": [
+        39247
+    ],
+    "ipcCodes": [
+        "G06Q 10/10",
+        "G09B 7/02",
+        "G09B 7/00"
+    ]
+}

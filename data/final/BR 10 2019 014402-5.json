@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 014402-5",
+    "filingDate": "11/07/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ALINHAR UMA PLATAFORMA DE TRABALHO EM RELA\u00c7\u00c3O A UM OBJETO ALVO ESTACION\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/033,438",
+            "priorityDate": "12/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "CHARLES M RICHARDS",
+        "JAMES J TROY",
+        "STEPHEN G MOORE",
+        "KURT F WEBSTER"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64F 5/00",
+        "B66F 11/04",
+        "E04G 5/00",
+        "B62D 63/02",
+        "B64F 1/315",
+        "E04G 1/18",
+        "E04G 1/15",
+        "B66F 9/24",
+        "E04G 1/24"
+    ]
+}

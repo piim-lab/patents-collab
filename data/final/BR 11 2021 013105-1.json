@@ -1,0 +1,114 @@
+{
+    "applicationNumber": "BR 11 2021 013105-1",
+    "filingDate": "07/01/2020",
+    "grantDate": null,
+    "title": "INIBIDOR DE 15-PGDH",
+    "nationalPhaseDate": [
+        "01/07/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2020/000115",
+        "pctDate": "07/01/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-000915",
+            "priorityDate": "08/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2817"
+        }
+    ],
+    "inventors": [
+        "SHIGEKI SETO",
+        "HITOMI YAMADA",
+        "YOSHIFUMI SAITO",
+        "HARUAKI KURASAKI"
+    ],
+    "holders": [
+        136112
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 9/12",
+        "A61K 31/4985",
+        "A61P 17/02",
+        "A61P 9/00",
+        "A61P 25/00",
+        "A61K 31/519",
+        "A61P 19/02",
+        "A61P 17/14",
+        "A61P 1/16",
+        "A61P 9/10",
+        "A61P 11/06",
+        "A61P 17/00",
+        "A61P 1/04",
+        "A61K 31/55",
+        "A61K 31/517",
+        "A61P 3/10",
+        "A61P 11/00",
+        "A61P 1/02",
+        "A61P 21/00",
+        "A61K 31/454",
+        "A61P 43/00",
+        "A61P 37/06",
+        "A61P 25/28",
+        "A61P 27/02",
+        "A61P 13/12",
+        "A61K 31/5415",
+        "A61P 27/16",
+        "C07D 265/36",
+        "A61P 19/08",
+        "A61P 37/02",
+        "C07D 413/06",
+        "A61K 31/4709",
+        "A61K 31/496",
+        "C07D 471/04",
+        "A61P 15/00",
+        "A61K 31/538",
+        "A61P 27/06",
+        "C07D 413/14",
+        "C07D 519/00",
+        "C07D 498/04",
+        "A61K 31/4375",
+        "C07D 209/08",
+        "A61K 31/5383",
+        "A61K 31/5025",
+        "A61K 31/502",
+        "A61K 31/554",
+        "A61K 31/4545",
+        "A61P 21/04",
+        "C07D 267/22",
+        "C07D 413/04",
+        "A61K 31/4523",
+        "C07D 215/48",
+        "A61P 9/04",
+        "A61K 31/553",
+        "A61P 13/10",
+        "C07D 281/10",
+        "C07D 279/16",
+        "C07D 267/14"
+    ]
+}

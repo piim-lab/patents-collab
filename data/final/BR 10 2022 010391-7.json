@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 10 2022 010391-7",
+    "filingDate": "27/05/2022",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO IMPLEMENTADO EM PLATAFORMA ANTIFRAUDES DE COMUNICA\u00c7\u00c3O E AN\u00c1LISE DE SINISTROS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2761"
+        }
+    ],
+    "inventors": [
+        "BRAULIO VINICIUS SALES CRUZ",
+        "JUNIA EMANUELLE RODRIGUES CRUZ"
+    ],
+    "holders": [
+        75815
+    ],
+    "ipcCodes": [
+        "G06Q 40/08"
+    ]
+}

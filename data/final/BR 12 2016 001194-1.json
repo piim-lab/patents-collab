@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2016 001194-1",
+    "filingDate": "11/07/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE UM COMPONENTE ESTRUTURAL PARA VE\u00cdCULOS AUTOMOTORES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 213 711.7",
+            "priorityDate": "12/07/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/07/2014",
+        "applicationNumber": "BR 11 2016 000218-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2578"
+        }
+    ],
+    "inventors": [
+        "MICHAEL THIENEL",
+        "OLAF KRIESE",
+        "MARKUS SCHULTZ",
+        "WERNER STAMMBERGER",
+        "STEPHAN NERB"
+    ],
+    "holders": [
+        350631
+    ],
+    "ipcCodes": [
+        "B62D 25/00",
+        "B60J 5/00",
+        "B29C 45/14"
+    ]
+}

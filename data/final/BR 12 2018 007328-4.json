@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 12 2018 007328-4",
+    "filingDate": "12/12/2003",
+    "grantDate": "03/03/2020",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMACEUTICA E USO DO DITO COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/387,879",
+            "priorityDate": "13/03/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/12/2003",
+        "applicationNumber": "PI 0306026-8"
+    },
+    "events": [
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ELI M WALLACE",
+        "JOSEPH P LYSSIKATOS",
+        "T BRIAN HURLEY",
+        "ALLISON L MARLOW"
+    ],
+    "holders": [
+        82802,
+        79506
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07D 405/06",
+        "C07D 417/06",
+        "C07D 413/06",
+        "C07D 403/06",
+        "C07D 235/16"
+    ]
+}

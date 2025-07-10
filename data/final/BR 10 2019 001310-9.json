@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 001310-9",
+    "filingDate": "23/01/2019",
+    "grantDate": null,
+    "title": "APARELHO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-018465",
+            "priorityDate": "05/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "MITSUGU MAKITA",
+        "DAIGO FUJII",
+        "NAOKI YAMAMURO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06Q 50/10"
+    ]
+}

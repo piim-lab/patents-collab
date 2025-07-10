@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 11 2019 009543-8",
+    "filingDate": "29/09/2017",
+    "grantDate": null,
+    "title": "PREVEN\u00c7\u00c3O DE COLIS\u00c3O VEICULAR",
+    "nationalPhaseDate": [
+        "10/05/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/054291",
+        "pctDate": "29/09/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/421,551",
+            "priorityDate": "14/11/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/607,975",
+            "priorityDate": "30/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "MATTHEW HYATT TURPIN",
+        "STEPHEN MARC CHAVES"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G05D 1/10",
+        "G05D 1/02"
+    ]
+}

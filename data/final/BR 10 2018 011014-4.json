@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 011014-4",
+    "filingDate": "30/05/2018",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE GERENCIAMENTO DE VOO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/616,905",
+            "priorityDate": "07/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "DAVID ALLEN FAIRCHILD"
+    ],
+    "holders": [
+        8
+    ],
+    "ipcCodes": [
+        "G09G 5/00",
+        "G06F 3/14",
+        "G06F 11/20",
+        "G09G 5/12"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2019 026390-6",
+    "filingDate": "05/09/2008",
+    "grantDate": null,
+    "title": "M\u00c9TODO E TERMINAL DE COMUNICA\u00c7\u00c3O M\u00d3VEL PARA TRANSMITIR UM SINAL DE REFER\u00caNCIA EM UM SISTEMA DE COMUNICA\u00c7\u00c3O SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/970,754",
+            "priorityDate": "07/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/972.401",
+            "priorityDate": "14/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/978.687",
+            "priorityDate": "09/10/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/978.415",
+            "priorityDate": "09/10/2007"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2008-0033799",
+            "priorityDate": "11/04/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/09/2008",
+        "applicationNumber": "PI 0815617-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        }
+    ],
+    "inventors": [
+        "SEUNG HEE HAN",
+        "MINSEOK NOH",
+        "DAEWON LEE"
+    ],
+    "holders": [
+        157898
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04L 5/00"
+    ]
+}

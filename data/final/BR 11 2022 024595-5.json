@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2022 024595-5",
+    "filingDate": "05/05/2021",
+    "grantDate": null,
+    "title": "POSICIONAMENTO PASSIVO COM FORMA\u00c7\u00c3O DE FEIXE ANAL\u00d3GICA",
+    "nationalPhaseDate": [
+        "01/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/030869",
+        "pctDate": "05/05/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/038,152",
+            "priorityDate": "12/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/307,287",
+            "priorityDate": "04/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "SRINIVAS YERRAMALLI",
+        "XIAOXIA ZHANG",
+        "TAESANG YOO",
+        "ALEXANDROS MANOLAKOS",
+        "LORENZO FERRARI",
+        "HAO LIN",
+        "RAJAT PRAKASH",
+        "JING SUN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 64/00"
+    ]
+}

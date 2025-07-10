@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 006342-2",
+    "filingDate": "03/11/2014",
+    "grantDate": null,
+    "title": "Sistema e m\u00e9todo para transferir artigos em forma de haste",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13191470.7",
+            "priorityDate": "04/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        }
+    ],
+    "inventors": [
+        "LESZEK SIKORA"
+    ],
+    "holders": [
+        80986
+    ],
+    "ipcCodes": [
+        "A24C 5/35"
+    ]
+}

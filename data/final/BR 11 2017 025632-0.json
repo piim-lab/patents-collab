@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2017 025632-0",
+    "filingDate": "05/04/2016",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA DETERMINAR UM LIMITE SUPERIOR NA DIST\u00c2NCIA ENTRE DISPOSITIVOS",
+    "nationalPhaseDate": [
+        "29/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/026036",
+        "pctDate": "05/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/168,579",
+            "priorityDate": "29/05/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/971,723",
+            "priorityDate": "16/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "JOHN HILLAN",
+        "JEREMY ROBIN CHRISTOPHER ODONOGHUE",
+        "STEPHEN FRANKLAND"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 9/32"
+    ]
+}

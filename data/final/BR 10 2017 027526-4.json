@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2017 027526-4",
+    "filingDate": "19/12/2017",
+    "grantDate": null,
+    "title": "SISTEMA \u00daNICO DE IDENTIFICA\u00c7\u00c3O AUTOM\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "PT",
+            "priorityNumber": "20171000009064",
+            "priorityDate": "07/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "JOS\u00c9 ALEXANDRE GERALDO BARRETO"
+    ],
+    "holders": [
+        35035
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G07C 5/00",
+        "G07B 15/06"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 020536-9",
+    "filingDate": "05/01/2011",
+    "grantDate": "27/04/2021",
+    "title": "SISTEMA CONFIGURADO PARA GERAR UM SINAL ESTICADO NO TEMPO E/OU TRANSPOSTO DE FREQU\u00caNCIA DE UM SINAL DE ENTRADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/296,241",
+            "priorityDate": "19/01/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/331,545",
+            "priorityDate": "05/05/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/01/2011",
+        "applicationNumber": "BR 11 2012 017651-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": []
+}

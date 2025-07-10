@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 068805-7",
+    "filingDate": "17/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA PARA MOVER UM ATUADOR HIDR\u00c1ULICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17211099.1",
+            "priorityDate": "29/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "VINCENZO SERRICCHIO",
+        "ANDREA MORNACCHI",
+        "DOMENICO TAFUNI"
+    ],
+    "holders": [
+        22920
+    ],
+    "ipcCodes": [
+        "B62D 5/065",
+        "B65F 3/06"
+    ]
+}

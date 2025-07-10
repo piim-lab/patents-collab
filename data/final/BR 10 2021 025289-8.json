@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 025289-8",
+    "filingDate": "15/12/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO, SISTEMA, E, M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/303,380",
+            "priorityDate": "27/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        }
+    ],
+    "inventors": [
+        "PABLO VIEIRA REGO",
+        "RANDOLPH S COLES",
+        "JEFFREY JAMES CRAWFORD",
+        "CHUNG CHANG",
+        "EUNSOOK AN"
+    ],
+    "holders": [
+        8651,
+        2701
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "G06F 3/04812",
+        "G06F 16/74",
+        "G06F 16/732",
+        "G06F 16/432"
+    ]
+}

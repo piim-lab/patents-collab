@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2021 004265-9",
+    "filingDate": "21/06/2019",
+    "grantDate": null,
+    "title": "APARELHO DE LIMPEZA DE SUPERF\u00cdCIE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/688,439",
+            "priorityDate": "22/06/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/789,661",
+            "priorityDate": "08/01/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/06/2019",
+        "applicationNumber": "BR 11 2020 026071-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "TOM MINH NGUYEN",
+        "JACOB RESCH",
+        "JACOB S BOLES",
+        "YING CHUN WONG",
+        "JIAN HUA TANG",
+        "YUNFU WANG"
+    ],
+    "holders": [
+        63527
+    ],
+    "ipcCodes": [
+        "A47L 11/40",
+        "A47L 9/28"
+    ]
+}

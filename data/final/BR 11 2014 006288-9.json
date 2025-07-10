@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2014 006288-9",
+    "filingDate": "12/09/2012",
+    "grantDate": "05/02/2019",
+    "title": "Composi\u00e7\u00e3o antiperspirante anidra",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11183152.5",
+            "priorityDate": "28/09/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11194272.8",
+            "priorityDate": "19/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "MICHAEL RICHARD BAKER",
+        "KEVIN RONALD FRANKLIN",
+        "KIRILL SHAFRAN",
+        "NEIL ROBERT FLETCHER"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "A61Q 15/00",
+        "A61K 8/20",
+        "A61K 8/26"
+    ]
+}

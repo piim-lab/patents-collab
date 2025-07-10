@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 20 2021 011035-5",
+    "filingDate": "07/06/2021",
+    "grantDate": null,
+    "title": "PAINEL PARA COMANDOS EL\u00c9TRICOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "JACKSON MARCELINO DOS SANTOS"
+    ],
+    "holders": [
+        365311
+    ],
+    "ipcCodes": [
+        "D06F 39/08",
+        "G05B 11/01",
+        "H05K 7/02",
+        "H05K 7/00",
+        "H02P 1/00"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2019 000133-2",
+    "filingDate": "07/11/2011",
+    "grantDate": "15/09/2020",
+    "title": "REFORMADOR PARA REFORMA\u00c7\u00c3O DE G\u00c1S DE DESTILA\u00c7\u00c3O SECO E SISTEMA DE REFORMA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-249639",
+            "priorityDate": "08/11/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-249640",
+            "priorityDate": "08/11/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/11/2011",
+        "applicationNumber": "BR 11 2013 011447-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "YASUHARU MATSUSHITA"
+    ],
+    "holders": [
+        114204,
+        114205,
+        114206
+    ],
+    "ipcCodes": [
+        "C10J 3/00"
+    ]
+}

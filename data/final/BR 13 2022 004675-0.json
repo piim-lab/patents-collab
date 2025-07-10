@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 13 2022 004675-0",
+    "filingDate": "14/03/2022",
+    "grantDate": null,
+    "title": "BOLSAS OU MALAS COM AL\u00c7AS LATERAIS DUPLAS E SUPORTE PARA LEITURA",
+    "parentApplication": {
+        "filingDate": "24/01/2020",
+        "applicationNumber": "BR 10 2020 001662-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2773"
+        }
+    ],
+    "inventors": [
+        "SONIA REGINA DE CASTRO"
+    ],
+    "holders": [
+        14648
+    ],
+    "ipcCodes": [
+        "A45C 13/02",
+        "A45F 4/02",
+        "A45F 3/08",
+        "A45F 3/14"
+    ]
+}

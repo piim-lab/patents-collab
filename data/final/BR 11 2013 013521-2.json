@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 11 2013 013521-2",
+    "filingDate": "16/12/2011",
+    "grantDate": "20/10/2020",
+    "title": "PLACA BASE PARA UM UTENS\u00cdLIO DE OSTOMIA, UTENS\u00cdLIO DE OSTOMIA, E, DISPOSITIVO DE SUPORTE CONVEXO",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 70553",
+            "priorityDate": "17/12/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 70554",
+            "priorityDate": "17/12/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 70555",
+            "priorityDate": "17/12/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 70556",
+            "priorityDate": "17/12/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2011 70498",
+            "priorityDate": "09/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "BENT EKFELDT",
+        "BIRTHE VESTBO ANDERSEN",
+        "ESBEN STROEBECK",
+        "MICHAEL HANSEN",
+        "KRISTOFFER HANSEN",
+        "STEFFEN KONGENSBJERG LARSEN",
+        "MATTHEW LAWS",
+        "LIAM OBRIEN"
+    ],
+    "holders": [
+        79530
+    ],
+    "ipcCodes": [
+        "A61F 5/445"
+    ]
+}

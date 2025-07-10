@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2022 004541-0",
+    "filingDate": "11/03/2022",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE ACABAMENTO DE RODOVIAS COM SISTEMA DE NIVELAMENTO E M\u00c9TODO DE NIVELAMENTO DE UMA MESA DE UMA M\u00c1QUINA DE ACABAMENTO DE RODOVIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21162228.7",
+            "priorityDate": "12/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "DR STEFAN SIMON",
+        "PHILIPP STUMPF",
+        "RALF WEISER",
+        "MARTIN BUSCHMANN"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48",
+        "E01C 19/00"
+    ]
+}

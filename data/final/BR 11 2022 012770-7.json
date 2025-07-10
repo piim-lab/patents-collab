@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2022 012770-7",
+    "filingDate": "15/12/2020",
+    "grantDate": null,
+    "title": "LAVADORA DE ROUPAS",
+    "nationalPhaseDate": [
+        "27/06/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2020/046647",
+        "pctDate": "15/12/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-018399",
+            "priorityDate": "06/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "ATSUSHI NAKASE",
+        "SHO SAKUMA",
+        "YOSHINORI KATAOKA",
+        "TETSUYA KUBO",
+        "DAIKI SUNADA",
+        "IG GEUN KWON",
+        "JAE HYUN CHOI"
+    ],
+    "holders": [
+        697,
+        146738
+    ],
+    "ipcCodes": [
+        "D06F 37/22"
+    ]
+}

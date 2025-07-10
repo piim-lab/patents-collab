@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 11 2015 016293-2",
+    "filingDate": "08/01/2014",
+    "grantDate": "18/10/2022",
+    "title": "DERIVADOS DE BENZILAMINA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1300304.1",
+            "priorityDate": "08/01/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/750,074",
+            "priorityDate": "08/01/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/865,732",
+            "priorityDate": "14/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "CHRISTINE ELIZABETH ALLAN",
+        "ANDRZEJ ROMAN BATT",
+        "REBECCA LOUISE DAVIE",
+        "HANNAH JOY EDWARDS",
+        "DAVID MICHAEL EVANS",
+        "STEPHEN JOHN PETHEN"
+    ],
+    "holders": [
+        129738
+    ],
+    "ipcCodes": [
+        "A61K 31/427",
+        "C07D 417/06",
+        "A61P 27/02",
+        "C07D 409/06",
+        "C07D 401/14",
+        "C07D 413/06",
+        "C07D 401/06",
+        "C07D 401/10",
+        "A61K 31/4025",
+        "C07D 417/14",
+        "C07D 249/10",
+        "A61K 31/4436",
+        "C07D 403/10",
+        "C07D 231/14",
+        "C07D 409/14",
+        "C07D 207/34"
+    ]
+}

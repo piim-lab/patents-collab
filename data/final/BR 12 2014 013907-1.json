@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2014 013907-1",
+    "filingDate": "18/08/2004",
+    "grantDate": null,
+    "title": "PROCESSO PARA A POLIMERIZA\u00c7\u00c3O DE MON\u00d4MEROS OLEF\u00cdNICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/505,330",
+            "priorityDate": "23/09/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/08/2004",
+        "applicationNumber": "PI 0413962-3"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "RICHARD E CAMPBELL JR",
+        "LINFENG CHEN",
+        "ROGER B PAINTER",
+        "ROBERT N REIB",
+        "MICHAEL W TILSTON"
+    ],
+    "holders": [
+        9272
+    ],
+    "ipcCodes": [
+        "C08F 2/34",
+        "C08F 110/02"
+    ]
+}

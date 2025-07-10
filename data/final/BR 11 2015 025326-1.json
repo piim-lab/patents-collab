@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2015 025326-1",
+    "filingDate": "17/03/2014",
+    "grantDate": null,
+    "title": "PROCESSO DE ORDENA\u00c7\u00c3O OFF-LINE DOS TRATAMENTOS QUE FORMAM UMA TAREFA DE ACORDOCOM UM MODELO FLEX\u00cdVEL PARA UM SISTEMA MULTITAREFA EM TEMPO REAL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1353203",
+            "priorityDate": "09/04/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "VINCENT DAVID"
+    ],
+    "holders": [
+        164367
+    ],
+    "ipcCodes": [
+        "G06F 9/50",
+        "G06F 9/48"
+    ]
+}

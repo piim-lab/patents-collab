@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2017 025914-8",
+    "filingDate": "27/07/2006",
+    "grantDate": null,
+    "title": "PROCESSO PARA FABRICA\u00c7\u00c3O DE PANCREATINA, QUE APRESENTA UMA DIMINUI\u00c7\u00c3O DE CONTAMINANTES VIRAIS, E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "divisionalApplication": {
+        "filingDate": "27/07/2006",
+        "applicationNumber": "PI 0614914-6"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        225616
+    ],
+    "ipcCodes": []
+}

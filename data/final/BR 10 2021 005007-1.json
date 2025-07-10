@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 005007-1",
+    "filingDate": "17/03/2021",
+    "grantDate": null,
+    "title": "ACIONAMENTO DE FACA MEC\u00c2NICO PARA UM COLETOR DE UMA SEGADEIRA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/822,841",
+            "priorityDate": "18/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "JOEL T COOK",
+        "STEPHEN TODDERUD",
+        "KEVIN WARD"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 75/10"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 13 2016 020000-7",
+    "filingDate": "30/08/2016",
+    "grantDate": null,
+    "title": "CONVERSOR DE COMPRIMENTO DE ONDA ATIVO PARA USO COM OTDR E M\u00c9TODO PARA ESTENDER O ALCANCE DE SUPERVIS\u00c3O DO OTDR",
+    "parentApplication": {
+        "filingDate": "16/10/2003",
+        "applicationNumber": "PI 0304018-6"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2815"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "DANILO CESAR DINI",
+        "FABIO RENATO BASSAN",
+        "JO\u00c3O BATISTA ROSOLEM"
+    ],
+    "holders": [
+        85
+    ],
+    "ipcCodes": [
+        "H04B 10/071"
+    ]
+}

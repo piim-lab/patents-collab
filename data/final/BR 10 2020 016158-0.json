@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2020 016158-0",
+    "filingDate": "07/08/2020",
+    "grantDate": null,
+    "title": "IMPLEMENTO, E, M\u00c9TODO PARA OPERAR UM IMPLEMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/928,111",
+            "priorityDate": "30/10/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/918,152",
+            "priorityDate": "01/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "COLTER W KINNEY",
+        "GRANT J WONDERLICH",
+        "MICHAEL C STEELE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 73/00"
+    ]
+}

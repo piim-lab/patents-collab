@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 013124-1",
+    "filingDate": "02/07/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA MEDI\u00c7\u00d5ES DE SUBSUPERF\u00cdCIE OPERADA REMOTAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2027477",
+            "priorityDate": "02/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "PAUL ROACH"
+    ],
+    "holders": [
+        68616
+    ],
+    "ipcCodes": [
+        "E21B 44/00",
+        "E21B 7/26",
+        "E02D 1/02"
+    ]
+}

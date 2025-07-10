@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 12 2018 067654-0",
+    "filingDate": "28/10/2003",
+    "grantDate": null,
+    "title": "USO DE UM PAR PARA LIGA\u00c7\u00c3O AO NGF OU DE UM INIBIDOR DO NGF, E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "divisionalApplication": {
+        "filingDate": "28/10/2003",
+        "applicationNumber": "PI 0315735-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        82417,
+        351236
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2020 010643-3",
+    "filingDate": "12/10/2012",
+    "grantDate": null,
+    "title": "Dispers\u00e3o s\u00f3lida, composi\u00e7\u00f5es farmac\u00eauticas compreendendo a referida dispers\u00e3o, usos das composi\u00e7\u00f5es farmac\u00eauticas e processo de prepara\u00e7\u00e3o de uma dispers\u00e3o s\u00f3lida",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/547,620",
+            "priorityDate": "14/10/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/606,207",
+            "priorityDate": "02/03/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/10/2012",
+        "applicationNumber": "BR 11 2014 009092-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "DAVID SHANK FRY",
+        "CHRISTOPHER M LINDEMANN",
+        "MICHAEL PREIGH",
+        "COREY JAY BLOOM",
+        "CHRISTOPHER DONAVAN CRAIG",
+        "DEVON BREVARD DUBOSE",
+        "JEFF GAUTSCHI",
+        "DAN SMITHEY"
+    ],
+    "holders": [
+        82802
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 9/14",
+        "A61K 9/00",
+        "A61K 47/38",
+        "A61K 9/20",
+        "A61K 31/498",
+        "A61K 47/32"
+    ]
+}

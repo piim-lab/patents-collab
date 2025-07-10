@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2015 007815-6",
+    "filingDate": "11/06/2013",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE MODELAGEM DE CABELO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1210274.5",
+            "priorityDate": "11/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/06/2013",
+        "applicationNumber": "BR 11 2014 030854-3"
+    },
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "ALFREDO DE BENEDICTIS",
+        "JANUSZ LUCIEN HOLLAND",
+        "MARK CHRISTOPHER HUGHES"
+    ],
+    "holders": [
+        350464
+    ],
+    "ipcCodes": [
+        "A45D 2/36",
+        "A45D 6/02"
+    ]
+}

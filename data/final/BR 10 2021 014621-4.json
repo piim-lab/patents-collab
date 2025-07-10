@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 014621-4",
+    "filingDate": "26/07/2021",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR 1,4-CICLOEXANODICARBOXILATOS DE DIALQUILA E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20188048.1",
+            "priorityDate": "28/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "JOHANNES KRAFT",
+        "LENA ALTMANN",
+        "JOHAN ANTON",
+        "MICHAEL GRASS",
+        "THOMAS SCHNEIDER"
+    ],
+    "holders": [
+        962
+    ],
+    "ipcCodes": [
+        "B01J 21/00",
+        "B01J 23/38",
+        "B01J 21/06",
+        "C07C 67/283"
+    ]
+}

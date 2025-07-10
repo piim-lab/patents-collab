@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2020 008877-0",
+    "filingDate": "16/09/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA A FIXA\u00c7\u00c3O DESTAC\u00c1VEL DE UM CARTUCHO DE AGENTE DESECAGEM A UM ALOJAMENTO DE UMA INSTALA\u00c7\u00c3O DE TRATAMENTO DE AR COMPRIMIDODE UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2015 013 492.2",
+            "priorityDate": "16/10/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/09/2016",
+        "applicationNumber": "BR 10 2016 021404-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "OLIVER KAUPERT",
+        "WOLFGANG KOLLAND",
+        "GEORG HASLBERGER",
+        "THOMAS HOFSTETTER"
+    ],
+    "holders": [
+        3869
+    ],
+    "ipcCodes": [
+        "F15B 21/04",
+        "B01D 53/26",
+        "B01D 45/08"
+    ]
+}

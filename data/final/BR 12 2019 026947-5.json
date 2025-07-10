@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2019 026947-5",
+    "filingDate": "06/05/2011",
+    "grantDate": null,
+    "title": "MONOPEL\u00cdCULA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/359,017",
+            "priorityDate": "28/06/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/05/2011",
+        "applicationNumber": "BR 11 2012 033382-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        }
+    ],
+    "inventors": [
+        "ROSANA ROSA"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "B32B 27/32",
+        "B65D 75/00"
+    ]
+}

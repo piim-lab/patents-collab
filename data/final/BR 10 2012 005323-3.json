@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2012 005323-3",
+    "filingDate": "09/03/2012",
+    "grantDate": null,
+    "title": "SISTEMA PARA COMUNICAR DADOS ESPEC\u00cdFICOS DE DISPOSITIVO POR UMA REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/045,716",
+            "priorityDate": "11/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "NAWAL KISHOR PARWAL"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "G06Q 50/06",
+        "G01F 15/06",
+        "H04L 12/46",
+        "G01R 22/00",
+        "G01F 15/07"
+    ]
+}

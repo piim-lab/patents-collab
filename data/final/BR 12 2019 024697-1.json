@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2019 024697-1",
+    "filingDate": "30/08/2012",
+    "grantDate": null,
+    "title": "RECIPIENTE DE BOCA LARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/284,520",
+            "priorityDate": "28/10/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/08/2012",
+        "applicationNumber": "BR 11 2014 010121-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        98540
+    ],
+    "ipcCodes": []
+}

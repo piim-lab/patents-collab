@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2012 017956-0",
+    "filingDate": "04/01/2011",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE POLI(HALETO DE VINILA)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/297,317",
+            "priorityDate": "22/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "ERIK HAGBERG",
+        "STEPHEN DHORTON",
+        "STEPHEN HOWARD",
+        "GEORGE B POPPE"
+    ],
+    "holders": [
+        90116,
+        95244
+    ],
+    "ipcCodes": [
+        "C08K 5/1515"
+    ]
+}

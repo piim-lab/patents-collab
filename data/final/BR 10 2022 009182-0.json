@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 009182-0",
+    "filingDate": "11/05/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE FRENAGEM DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21175737.2",
+            "priorityDate": "25/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "MICHELE IELUZZI",
+        "PAOLO GRAZIANO",
+        "RENATO BADINO",
+        "LUIGI PETRUCCELLI"
+    ],
+    "holders": [
+        5226
+    ],
+    "ipcCodes": [
+        "B60T 7/06",
+        "G05G 1/30",
+        "G05G 5/03"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2017 028281-3",
+    "filingDate": "27/12/2017",
+    "grantDate": null,
+    "title": "SISTEMA PARA GERENCIAR REDE DE PONTOS DE CARREGAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P201631734",
+            "priorityDate": "30/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "JUAN GUINEA D\u00cdAZ",
+        "RECIO CALZADA",
+        "JORGE GONZALEZ HERNANDO",
+        "ZORAYDA GUERRERO VEGA",
+        "LUIS MAXIMILIANO ANDRES LOPEZ",
+        "JOSE ALBERTO GONZALEZ DEL RIO",
+        "SILVIA MAR\u00cdA CID RODRIGUEZ",
+        "ANTONIO JAVIER GARCIA PEREDA",
+        "ROBERTO NAVARRO MATESANZ",
+        "DAVID ALONSO HERNANDEZ",
+        "CELESTINO G\u00dcEMES SEOANE",
+        "MIGUEL ANGEL RODRIGUEZ JACUE",
+        "DAVID DE MANUEL DE BRIZ",
+        "ARISTA DELGADO",
+        "JUAN PERALES GOROSTIAGA",
+        "ENRIQUE DIAZ TROBO",
+        "JULIO ESTEVEZ PENA",
+        "IGNACIO L\u00d3PEZ BELL\u00d3N",
+        "MARTA ALBERTO MONFERRER",
+        "FERNANDO PARRILLA CASTA\u00d1O"
+    ],
+    "holders": [
+        35335
+    ],
+    "ipcCodes": [
+        "G06Q 50/06",
+        "G05B 19/042",
+        "G06Q 10/00",
+        "G06Q 10/02",
+        "B60L 11/18"
+    ]
+}

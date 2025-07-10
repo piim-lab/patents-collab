@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2017 020038-4",
+    "filingDate": "18/03/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA INIBIR A OXIDA\u00c7\u00c3O DE UMA GORDURA INSATURADA.",
+    "nationalPhaseDate": [
+        "19/09/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/023177",
+        "pctDate": "18/03/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/136,131",
+            "priorityDate": "20/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "CASSIE FHANER",
+        "KINJALBAHEN JOSHI",
+        "YUJING TAN"
+    ],
+    "holders": [
+        1101,
+        606
+    ],
+    "ipcCodes": [
+        "A61K 8/92",
+        "A61Q 19/10",
+        "A61K 8/40"
+    ]
+}

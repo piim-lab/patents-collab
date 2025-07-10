@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2020 001361-3",
+    "filingDate": "27/06/2012",
+    "grantDate": null,
+    "title": "SISTEMA PARA PROCESSAR SINAIS DE \u00c1UDIO, M\u00c9TODO PARA AUTORIZAR SINAIS DE \u00c1UDIO PARA RENDERIZA\u00c7\u00c3O E M\u00c9TODO PARA RENDERIZAR SINAIS DE \u00c1UDIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/504,005",
+            "priorityDate": "01/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/636,429",
+            "priorityDate": "20/04/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/06/2012",
+        "applicationNumber": "BR 11 2013 033386-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "CHARLES Q ROBINSON",
+        "NICOLAS R TSINGOS",
+        "CHRISTOPHE CHABANNE"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "H04S 7/00"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2022 020762-6",
+    "filingDate": "02/04/2021",
+    "grantDate": null,
+    "title": "CONJUGADOS DE ANTICORPO-F\u00c1RMACO COMPREENDENDO AGONISTAS DE STING, SEU USO E COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/004,108",
+            "priorityDate": "02/04/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/040,755",
+            "priorityDate": "18/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/111,820",
+            "priorityDate": "10/11/2020"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/04/2021",
+        "applicationNumber": "BR 11 2022 019919-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "JEREMY R DUVALL",
+        "KEITH W BENTLEY",
+        "RAGHIDA A BUKHALID",
+        "NANIYE CETINBAS",
+        "MARC I DAMELIN",
+        "EUGENE W KELLEHER",
+        "TIMOTHY B LOWINGER",
+        "JOSHUA D THOMAS",
+        "DORIN TOADER",
+        "LING XU",
+        "LIPING YANG"
+    ],
+    "holders": [
+        128426
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 47/68"
+    ]
+}

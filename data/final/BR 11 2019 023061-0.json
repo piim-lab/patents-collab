@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2019 023061-0",
+    "filingDate": "05/12/2017",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREVENIR OU TRATAR MIOPIA",
+    "nationalPhaseDate": [
+        "01/11/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/064708",
+        "pctDate": "05/12/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/583,096",
+            "priorityDate": "01/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/629,002",
+            "priorityDate": "21/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "JEFFREY K LUTTRULL",
+        "DAVID B CHANG",
+        "BENJAMIM W L MARGOLIS"
+    ],
+    "holders": [
+        193849
+    ],
+    "ipcCodes": [
+        "A61B 18/00",
+        "A61B 17/00",
+        "A61B 18/12",
+        "A61B 18/20",
+        "A61B 18/18",
+        "A61B 18/04"
+    ]
+}

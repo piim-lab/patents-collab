@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2016 013860-0",
+    "filingDate": "23/10/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE MATERIAL FORMADO, E, CHAPA MET\u00c1LICA COM SUPERF\u00cdCIE TRATADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-260072",
+            "priorityDate": "17/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "NAOFUMI NAKAMURA",
+        "YUDAI YAMAMOTO",
+        "JUN KUROBE"
+    ],
+    "holders": [
+        123471
+    ],
+    "ipcCodes": [
+        "B21D 22/28"
+    ]
+}

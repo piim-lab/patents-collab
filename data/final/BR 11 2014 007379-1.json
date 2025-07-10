@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2014 007379-1",
+    "filingDate": "28/09/2012",
+    "grantDate": null,
+    "title": "PONTA DE ESCARIFICADOR",
+    "nationalPhaseDate": [
+        "27/03/2014"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2012/057879",
+        "pctDate": "28/09/2012",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/542,042",
+            "priorityDate": "30/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/629,161",
+            "priorityDate": "27/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "EMILY J RIVERA",
+        "CLIFFORD O JESKE",
+        "MURRAY A SMITH",
+        "CRAIG HARDER"
+    ],
+    "holders": [
+        4453
+    ],
+    "ipcCodes": [
+        "E02F 9/28"
+    ]
+}

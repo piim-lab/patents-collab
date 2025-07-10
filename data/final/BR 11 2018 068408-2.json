@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 11 2018 068408-2",
+    "filingDate": "09/03/2017",
+    "grantDate": null,
+    "title": "PLATAFORMA DE FILTRA\u00c7\u00c3O MODULAR",
+    "nationalPhaseDate": [
+        "11/09/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/021580",
+        "pctDate": "09/03/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US2017/021580",
+            "priorityDate": "11/03/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/427,657",
+            "priorityDate": "08/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2654"
+        }
+    ],
+    "inventors": [
+        "LORI FOIX",
+        "MICHAEL J SHERMAN",
+        "STEVE WILSON",
+        "JAMES B LARSON",
+        "ERIK KLIMPEL",
+        "RICHARD A KIRCHNER",
+        "CHAD TOUSLEY",
+        "STEVEN J HAEHN",
+        "JEFF EHLERS"
+    ],
+    "holders": [
+        164465
+    ],
+    "ipcCodes": [
+        "B01D 35/02",
+        "B01D 29/11",
+        "F16K 1/48",
+        "F16K 41/08",
+        "B01D 29/31",
+        "C02F 1/18"
+    ]
+}

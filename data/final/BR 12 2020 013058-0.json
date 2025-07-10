@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 12 2020 013058-0",
+    "filingDate": "23/10/2017",
+    "grantDate": "07/12/2021",
+    "title": "DISPOSITIVO DE DIFUS\u00c3O DE LUZ FRONTAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/412,606",
+            "priorityDate": "25/10/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/529,507",
+            "priorityDate": "07/07/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/10/2017",
+        "applicationNumber": "BR 11 2019 008189-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "28.20",
+            "description": "Peti\u00e7\u00e3o de tr\u00e2mite priorit\u00e1rio n\u00e3o conhecida",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "25.13",
+            "description": "Anota\u00e7\u00e3o de Limita\u00e7\u00e3o ou \u00d4nus",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "25.13",
+            "description": "Anota\u00e7\u00e3o de Limita\u00e7\u00e3o ou \u00d4nus",
+            "bulletinNumber ": "2779"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        240862
+    ],
+    "ipcCodes": []
+}

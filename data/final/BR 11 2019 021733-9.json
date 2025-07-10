@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2019 021733-9",
+    "filingDate": "19/04/2018",
+    "grantDate": null,
+    "title": "INSERSOR PARA UM SENSOR DE ANALITO",
+    "nationalPhaseDate": [
+        "16/10/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/028318",
+        "pctDate": "19/04/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/487,084",
+            "priorityDate": "19/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/487,038",
+            "priorityDate": "19/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/629,916",
+            "priorityDate": "13/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "TROY M BREMER",
+        "BARRY LYONS"
+    ],
+    "holders": [
+        208699
+    ],
+    "ipcCodes": [
+        "A61M 5/32",
+        "A61B 5/151"
+    ]
+}

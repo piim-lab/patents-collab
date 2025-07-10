@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 026659-7",
+    "filingDate": "28/12/2021",
+    "grantDate": null,
+    "title": "SONDA DE TESTE DE TENS\u00c3O E M\u00c9TODO DE AVALIA\u00c7\u00c3O DE CARACTER\u00cdSTICAS DE TENS\u00c3O DE UM ESP\u00c9CIME",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/139,296",
+            "priorityDate": "31/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2822"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "RANDALL PERKINS"
+    ],
+    "holders": [
+        30226
+    ],
+    "ipcCodes": [
+        "G01N 3/20",
+        "G01N 3/08"
+    ]
+}

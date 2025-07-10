@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2019 018848-0",
+    "filingDate": "11/09/2019",
+    "grantDate": null,
+    "title": "INSTRUMENTO M\u00c9DICO E DISPOSITIVO DE GERA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18196941.1",
+            "priorityDate": "26/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER NEAGOS",
+        "CHRISTIAN SCHAEFER",
+        "MARKUS ENDERLE"
+    ],
+    "holders": [
+        436
+    ],
+    "ipcCodes": [
+        "A61B 18/00"
+    ]
+}

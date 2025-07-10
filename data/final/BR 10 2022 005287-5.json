@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2022 005287-5",
+    "filingDate": "21/03/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO M\u00d3VEL, E, M\u00c9TODO IMPLEMENTADO POR COMPUTADOR PARA PROVER APROVA\u00c7\u00c3O DE AUTONOMIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/164,196",
+            "priorityDate": "22/03/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/691,475",
+            "priorityDate": "10/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "MARGAUX M ASCHERL",
+        "JEFFREY E RUNDE",
+        "CURTIS A MAEDER",
+        "DAVID A JOHNSON",
+        "ERICH WASSILAK",
+        "MARIO L DONINI"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G16Y 40/00"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 003178-3",
+    "filingDate": "14/02/2020",
+    "grantDate": null,
+    "title": "C\u00c9LULA DE REL\u00c9 EST\u00c1TICA DE SEGURAN\u00c7A E CONJUNTO DE C\u00c9LULAS DE REL\u00c9 EST\u00c1TICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "19 01551",
+            "priorityDate": "15/02/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "DAMIEN LAMARCHE",
+        "QUENTIN BLERIOT",
+        "DENIS MENAND",
+        "CLAUDE BERT"
+    ],
+    "holders": [
+        389
+    ],
+    "ipcCodes": [
+        "H03K 17/082",
+        "H03K 17/18"
+    ]
+}

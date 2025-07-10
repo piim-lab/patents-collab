@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2022 009138-5",
+    "filingDate": "06/10/2017",
+    "grantDate": null,
+    "title": "SUPORTE IMPLANT\u00c1VEL QUE \u00c9 IMPLANT\u00c1VEL EM UM NEOFALO PARA SUPORTAR UM NEOP\u00caNIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/405,300",
+            "priorityDate": "07/10/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/10/2017",
+        "applicationNumber": "BR 11 2019 006991-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "NEAL POUCHER",
+        "MICHAEL M WITZMANN",
+        "MARK A MOSCHEL",
+        "GEOFFREY A DANIEL",
+        "JEFFREY BRIAN TAYLOR",
+        "JOHN CLEGG",
+        "JOHN J ALLEN",
+        "WEI ZHANG",
+        "RACHAEL ANNE BERGSTROM CRABB",
+        "SARAH J DEITCH",
+        "THOMAS KUBALAK",
+        "MICHAEL B HEKTNER",
+        "STEVE KNOP",
+        "VINCENT TASCHE"
+    ],
+    "holders": [
+        79530
+    ],
+    "ipcCodes": [
+        "A61F 2/26"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2014 006848-8",
+    "filingDate": "19/09/2012",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA CORRE\u00c7\u00c3O DE MEDI\u00c7\u00d5ES EM FUNDO DE PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/242,487",
+            "priorityDate": "23/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "FRANK SCHUBERTH",
+        "ANDREAS HARTMANN",
+        "MARTIN MAURER",
+        "HANNO RECKMANN"
+    ],
+    "holders": [
+        2932
+    ],
+    "ipcCodes": [
+        "E21B 47/01",
+        "E21B 47/08",
+        "E21B 47/09"
+    ]
+}

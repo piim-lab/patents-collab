@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2022 009916-5",
+    "filingDate": "07/09/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRATAR UMA AFEC\u00c7\u00c3O OFT\u00c1LMICA EM UM PACIENTE",
+    "divisionalApplication": {
+        "filingDate": "07/09/2017",
+        "applicationNumber": "BR 11 2019 004549-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        12581
+    ],
+    "ipcCodes": []
+}

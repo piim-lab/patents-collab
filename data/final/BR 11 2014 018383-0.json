@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2014 018383-0",
+    "filingDate": "24/01/2013",
+    "grantDate": "08/09/2021",
+    "title": "M\u00c9TODO PARA COMPLETAR UM PO\u00c7O, M\u00c9TODO PARA ATIVAR UM SISTEMA OBTURADOR EXPANS\u00cdVEL EM \u00d3LEO, E FLUIDO DE PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/590,502",
+            "priorityDate": "25/01/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/669,379",
+            "priorityDate": "09/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "MATTHEW OFFENBACHER",
+        "BALKRISHNA GADIYAR"
+    ],
+    "holders": [
+        87041
+    ],
+    "ipcCodes": [
+        "E21B 43/22",
+        "C09K 8/035",
+        "C09K 8/02"
+    ]
+}

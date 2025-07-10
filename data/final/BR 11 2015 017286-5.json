@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2015 017286-5",
+    "filingDate": "04/03/2014",
+    "grantDate": "09/06/2020",
+    "title": "ARTIGO REVESTIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13157839.5",
+            "priorityDate": "05/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "GABRIEL DESILLE",
+        "SEBASTIEN GIBANEL",
+        "BENOIT PROUVOST",
+        "BERNARD BOUTEVIN"
+    ],
+    "holders": [
+        41818,
+        48395
+    ],
+    "ipcCodes": [
+        "C07C 235/34",
+        "C08G 65/38",
+        "C07C 235/50",
+        "C07C 33/18",
+        "C09D 171/08"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2021 002040-0",
+    "filingDate": "01/07/2014",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE DIETA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/841,709",
+            "priorityDate": "01/07/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/07/2014",
+        "applicationNumber": "BR 11 2015 032889-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "VALTER D LONGO",
+        "WEI CHENG"
+    ],
+    "holders": [
+        88194
+    ],
+    "ipcCodes": [
+        "A61P 3/00",
+        "A23L 33/00",
+        "A61P 3/10",
+        "G01N 33/50"
+    ]
+}

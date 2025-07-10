@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2014 015481-3",
+    "filingDate": "19/12/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FEITURA DE UM METAL DURO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11194820.4",
+            "priorityDate": "21/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        }
+    ],
+    "inventors": [
+        "HEDIN ANDREAS",
+        "NORGREN SUSANNE",
+        "SJ\u00d6DAHL NINA",
+        "GARCIA JOSE"
+    ],
+    "holders": [
+        9548
+    ],
+    "ipcCodes": [
+        "B22F 8/00",
+        "C22C 29/02"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 012723-3",
+    "filingDate": "21/06/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE TRANSMISS\u00c3O DE POT\u00caNCIA DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-124667",
+            "priorityDate": "26/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "MIZUKI IMAFUKU"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "F16H 48/24",
+        "F16H 48/22",
+        "F16D 13/52",
+        "F16D 11/10"
+    ]
+}

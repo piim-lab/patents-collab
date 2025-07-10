@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2012 020252-9",
+    "filingDate": "09/02/2011",
+    "grantDate": "04/05/2021",
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE NEBIVOLOL",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RM2010A000053",
+            "priorityDate": "11/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "SANDRA BARTOLI",
+        "AMALIA CIPOLLONE",
+        "DANIELA FATTORI",
+        "RAFFAELLA VOLPICELLI",
+        "PAOLO MARAGNI",
+        "LIVIUS COTARCA",
+        "JOHNNY FOLETTO",
+        "RAFFAELLA VOLPICELLI",
+        "PAOLO MARAGNI",
+        "FRANCO MASSACCESI",
+        "LIVIUS COTARCA",
+        "JOHNNY FOLETTO",
+        "ILARIA MUNARI"
+    ],
+    "holders": [
+        80651,
+        97035
+    ],
+    "ipcCodes": [
+        "C07D 407/04",
+        "C07D 311/58"
+    ]
+}

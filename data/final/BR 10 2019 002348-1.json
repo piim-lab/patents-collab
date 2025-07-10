@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 002348-1",
+    "filingDate": "05/02/2019",
+    "grantDate": null,
+    "title": "COMP\u00d3SITO DE PAPEL, COMPOSI\u00c7\u00c3O E USO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "VALMIR BIM"
+    ],
+    "holders": [
+        46233
+    ],
+    "ipcCodes": [
+        "B32B 37/00",
+        "B32B 27/10",
+        "C08L 33/08",
+        "B32B 29/00",
+        "C08L 25/14"
+    ]
+}

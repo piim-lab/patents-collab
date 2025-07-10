@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 012559-5",
+    "filingDate": "16/12/2015",
+    "grantDate": "07/06/2022",
+    "title": "M\u00c9TODO PARA PRODUZIR PLACAS DE IMPRESS\u00c3O FLEXOGR\u00c1FICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14198604.2",
+            "priorityDate": "17/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2763"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "PETER FRONCZKIEWICZ",
+        "THORBEN WENDLAND",
+        "MATTHIAS BEYER"
+    ],
+    "holders": [
+        52258
+    ],
+    "ipcCodes": [
+        "G03F 7/32",
+        "G03F 7/027",
+        "G03F 7/20"
+    ]
+}

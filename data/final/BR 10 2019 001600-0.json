@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 10 2019 001600-0",
+    "filingDate": "25/01/2019",
+    "grantDate": null,
+    "title": "V\u00c1LVULA DE ESCOAMENTO DE L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/621,641",
+            "priorityDate": "25/01/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/171,450",
+            "priorityDate": "26/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "BRETT ANTHONY LANDACRE",
+        "JEFFREY SIMMONDS"
+    ],
+    "holders": [
+        10261
+    ],
+    "ipcCodes": [
+        "F16K 31/06",
+        "B67D 1/12",
+        "B67D 1/14"
+    ]
+}

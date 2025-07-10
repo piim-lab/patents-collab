@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2012 022294-5",
+    "filingDate": "16/04/2010",
+    "grantDate": null,
+    "title": "ARTICULADOR",
+    "nationalPhaseDate": [
+        "04/09/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT KR2010/002400",
+        "pctDate": "16/04/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0019933",
+            "priorityDate": "05/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "BUNG LEE"
+    ],
+    "holders": [
+        98312,
+        98313
+    ],
+    "ipcCodes": [
+        "A61C 19/05",
+        "A61C 11/00",
+        "A61C 11/02",
+        "A61C 13/097"
+    ]
+}

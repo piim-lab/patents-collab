@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 001665-5",
+    "filingDate": "28/01/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE MONITORAMENTO CONSTANTE DE VAG\u00d5ES EM COMBOIO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "CARLOS EDUARDO LAROTONDA",
+        "ROBERTO RUBIO POTZMANN"
+    ],
+    "holders": [
+        65209,
+        65210
+    ],
+    "ipcCodes": [
+        "B61K 9/12",
+        "G01H 17/00",
+        "G01D 21/02",
+        "G01D 3/08",
+        "B61K 9/04"
+    ]
+}

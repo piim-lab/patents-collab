@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2017 003928-1",
+    "filingDate": "21/07/2014",
+    "grantDate": null,
+    "title": "ROLAMENTO AXIAL",
+    "nationalPhaseDate": [
+        "23/01/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT RU2014/000537",
+        "pctDate": "21/07/2014",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "ALEKSANDR SERGEEVICH SEMYONOVYKH",
+        "RODION PETROVICH KAZANTSEV",
+        "SERGEI ARKADYEVICH NIKIFOROV",
+        "SERGEI PAVLOVICH EVTUSHENKO",
+        "SERGEI YURYEVICH SHCHUTSKY",
+        "VLADIMIR SERGEEVICH GERASIMOV"
+    ],
+    "holders": [
+        187485,
+        187486
+    ],
+    "ipcCodes": [
+        "F16C 17/04"
+    ]
+}

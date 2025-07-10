@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2018 074858-0",
+    "filingDate": "30/11/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE TELEMETRIA, RASTREAMENTO E COMANDO POR SAT\u00c9LITE AUTOM\u00c1TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102017000138364",
+            "priorityDate": "30/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "RAIMONDO FORTEZZA"
+    ],
+    "holders": [
+        38758
+    ],
+    "ipcCodes": [
+        "H04B 7/185",
+        "G01S 5/00"
+    ]
+}

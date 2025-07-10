@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2017 025334-8",
+    "filingDate": "25/05/2016",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO PARA PRODUZIR UM LAMINADO",
+    "nationalPhaseDate": [
+        "27/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/061731",
+        "pctDate": "25/05/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15169807.3",
+            "priorityDate": "29/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2539"
+        }
+    ],
+    "inventors": [
+        "GEORG KINZELMANN",
+        "RON MCKINLEY"
+    ],
+    "holders": [
+        79652,
+        81437
+    ],
+    "ipcCodes": [
+        "B32B 27/12",
+        "B29C 65/00",
+        "B32B 37/04",
+        "B29C 65/16",
+        "B29L 7/00"
+    ]
+}

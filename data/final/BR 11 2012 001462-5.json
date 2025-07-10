@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2012 001462-5",
+    "filingDate": "16/07/2010",
+    "grantDate": "16/10/2018",
+    "title": "PROCESSO PARA PREPARAR METIL MERCAPTANO.",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2009 027 837.0",
+            "priorityDate": "20/07/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "OLAF BARTH",
+        "CHRISTOPH WECKBECKER",
+        "HUBERT REDLINGSH\u00d6FER",
+        "JOHANNES A LERCHER",
+        "CHRISTOPH KAUFMANN"
+    ],
+    "holders": [
+        2331
+    ],
+    "ipcCodes": [
+        "C07C 321/04",
+        "C07C 319/02",
+        "C07C 319/28"
+    ]
+}

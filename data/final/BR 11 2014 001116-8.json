@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 001116-8",
+    "filingDate": "27/07/2012",
+    "grantDate": "17/03/2020",
+    "title": "\u201cPROCESSO PARA FORMA\u00c7\u00c3O DE UM POL\u00cdMERO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/513,025",
+            "priorityDate": "29/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2721"
+        }
+    ],
+    "inventors": [
+        "SEUNG LEE"
+    ],
+    "holders": [
+        81270
+    ],
+    "ipcCodes": [
+        "C08G 69/32",
+        "C08G 73/18"
+    ]
+}

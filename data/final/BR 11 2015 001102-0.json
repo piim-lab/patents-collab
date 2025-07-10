@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2015 001102-0",
+    "filingDate": "19/07/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DETEC\u00c7\u00c3O DE C\u00c2NCER, DROGA OU KIT E M\u00c9TODO DE SELE\u00c7\u00c3O DE DROGA TERAP\u00caUTICA",
+    "nationalPhaseDate": [
+        "16/01/2015"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2013/069642",
+        "pctDate": "19/07/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-160751",
+            "priorityDate": "19/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2017 022166-0",
+    "filingDate": "16/10/2017",
+    "grantDate": null,
+    "title": "COMPOSTO T\u00caXTIL QUE ABSORVE RU\u00cdDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 002 552.5",
+            "priorityDate": "17/03/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17 179 635.2",
+            "priorityDate": "04/07/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17 179 777.2",
+            "priorityDate": "05/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "ANGELA WEIK",
+        "SANDRA VILLING",
+        "PETER DR RUTSCH",
+        "ANGELA WEIK",
+        "GUNTER DR SCHARFENBERGER",
+        "SANDRA VILLING"
+    ],
+    "holders": [
+        2865
+    ],
+    "ipcCodes": [
+        "B60R 13/08",
+        "D04H 1/4374",
+        "G10K 11/168",
+        "D04H 1/559",
+        "D04H 1/4382"
+    ]
+}

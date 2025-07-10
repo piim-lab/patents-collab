@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 005337-0",
+    "filingDate": "17/03/2020",
+    "grantDate": null,
+    "title": "CONJUNTO DE TAMPA PARA UM ELETRODOM\u00c9STICO DE LAVANDERIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/384,210",
+            "priorityDate": "15/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "IFTKHAR AHAMAD",
+        "NEYDA ELEZA LEON LOPEZ",
+        "RAGHAVENDRAN PRABHAKARAN"
+    ],
+    "holders": [
+        2420
+    ],
+    "ipcCodes": [
+        "D06F 39/14"
+    ]
+}

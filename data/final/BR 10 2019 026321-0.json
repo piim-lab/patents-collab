@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2019 026321-0",
+    "filingDate": "11/12/2019",
+    "grantDate": null,
+    "title": "ESTRUTURA DE MULTICAMADAS, E, COMPONENTE DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201811047213",
+            "priorityDate": "13/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "ROBIN JACOB",
+        "GURU PRASAD MAHAPATRA"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64D 15/12",
+        "B32B 27/04",
+        "B32B 7/025"
+    ]
+}

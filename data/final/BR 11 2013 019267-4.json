@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2013 019267-4",
+    "filingDate": "19/07/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROCESSAMENTO DE ELEMENTO DE VIDRO FEITO A V\u00c1CUO CONT\u00cdNUO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2011 10034717.4",
+            "priorityDate": "31/01/2011"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2011 10034719.3",
+            "priorityDate": "31/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "YAN ZHAO",
+        "YANBING LI"
+    ],
+    "holders": [
+        91293
+    ],
+    "ipcCodes": [
+        "C03B 23/24"
+    ]
+}

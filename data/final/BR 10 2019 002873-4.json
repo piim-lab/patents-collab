@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 10 2019 002873-4",
+    "filingDate": "12/02/2019",
+    "grantDate": null,
+    "title": "INIBIDORES DE PD-1/PD-L1",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/630,187",
+            "priorityDate": "13/02/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/640,534",
+            "priorityDate": "08/03/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/763,116",
+            "priorityDate": "19/04/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/747,029",
+            "priorityDate": "17/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "EVANGELOS AKTOUDIANAKIS",
+        "AESOP CHO",
+        "ZHIMIN DU",
+        "MICHAEL GRAUPE",
+        "LATESHKUMAR THAKORLAL LAD",
+        "PAULO A MACHICAO TELLO",
+        "JONATHAN WILLIAM MEDLEY",
+        "SAMUEL E METOBO",
+        "PRASENJIT KUMAR MUKHERJEE",
+        "DEVAN NADUTHAMBI",
+        "ERIC Q PARKHILL",
+        "BARTON W PHILLIPS",
+        "SCOTT PRESTON SIMONOVICH",
+        "NEIL H SQUIRES",
+        "PEIYUAN WANG",
+        "WILLIAM J WATKINS",
+        "JIE XU",
+        "KIN SHING YANG",
+        "CHRISTOPHER ALLEN ZIEBENHAUS"
+    ],
+    "holders": [
+        11788
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/497",
+        "A61P 35/02",
+        "C07D 401/14",
+        "C07D 487/10"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2020 017103-4",
+    "filingDate": "25/02/2019",
+    "grantDate": null,
+    "title": "FRESA DE TOPO",
+    "nationalPhaseDate": [
+        "21/08/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IL2019/050210",
+        "pctDate": "25/02/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/904,600",
+            "priorityDate": "26/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2773"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER KOIFMAN",
+        "LEONID SHPIGELMAN",
+        "HOBOHM UWE DEDE"
+    ],
+    "holders": [
+        14404,
+        83582
+    ],
+    "ipcCodes": [
+        "B23C 5/10"
+    ]
+}

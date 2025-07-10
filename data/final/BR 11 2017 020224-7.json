@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 020224-7",
+    "filingDate": "17/03/2016",
+    "grantDate": null,
+    "title": "PROCESSO PARA REALIZAR UMA REA\u00c7\u00c3O EM UMA COLUNA DE REA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1504948.9",
+            "priorityDate": "24/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "ANDREW GEORGE HILES",
+        "RIKARD UMBERTO ANDERSSON",
+        "MICHAEL GAVIN JOHN WILLIAMS"
+    ],
+    "holders": [
+        88091
+    ],
+    "ipcCodes": [
+        "C07C 67/08",
+        "B01D 3/00",
+        "C07C 67/54",
+        "B01D 3/34"
+    ]
+}

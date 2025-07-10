@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2016 002004-9",
+    "filingDate": "25/07/2014",
+    "grantDate": null,
+    "title": "FERRAMENTA DE M\u00c1QUINA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2013 006 900.7",
+            "priorityDate": "01/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "OLAF KLABUNDE",
+        "J\u00dcRGEN BLICKLE",
+        "WALTER THOMASCHEWSKI",
+        "FABIAN BEK",
+        "STEFANO DELFINI",
+        "WILLI FELLMANN",
+        "BRUNO L\u00dcSCHER",
+        "MILAN BOZIC",
+        "THOMAS MATHYS",
+        "DANIEL GROLIMUND"
+    ],
+    "holders": [
+        169608,
+        1193
+    ],
+    "ipcCodes": [
+        "B25F 5/00",
+        "B27B 19/00",
+        "B24B 23/04",
+        "B24B 45/00",
+        "B23Q 3/12",
+        "B27B 5/30"
+    ]
+}

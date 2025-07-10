@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2018 009538-9",
+    "filingDate": "11/11/2016",
+    "grantDate": null,
+    "title": "SISTEMA AUTOM\u00c1TICO E M\u00c9TODO PARA ENTREGAR UMA SUBST\u00c2NCIA A UM ANIMAL",
+    "nationalPhaseDate": [
+        "11/05/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/061548",
+        "pctDate": "11/11/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/254,737",
+            "priorityDate": "13/11/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/349,981",
+            "priorityDate": "14/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "RAMIN KARIMPOUR"
+    ],
+    "holders": [
+        215148
+    ],
+    "ipcCodes": [
+        "A61D 7/00",
+        "A61D 1/02"
+    ]
+}

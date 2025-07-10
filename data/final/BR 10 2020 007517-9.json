@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 10 2020 007517-9",
+    "filingDate": "15/04/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE DIRE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-078767",
+            "priorityDate": "17/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2797"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "MASAHARU YAMASHITA",
+        "ATSUSHI SATO",
+        "MASATAKA OKUDA",
+        "YOSUKE YAMASHITA",
+        "SHINTARO TAKAYAMA",
+        "SHUNSUKE HIROMASA",
+        "TOSHIYUKI MIKIDA",
+        "SHOJI KUBOTA",
+        "YUJI FUJITA",
+        "KENICHI ABE",
+        "TOSHIMITSU SAKAI"
+    ],
+    "holders": [
+        3204,
+        57876,
+        5783
+    ],
+    "ipcCodes": [
+        "B60R 16/02",
+        "B62D 6/00",
+        "B62D 5/04"
+    ]
+}

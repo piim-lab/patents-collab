@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 021147-7",
+    "filingDate": "25/02/2013",
+    "grantDate": null,
+    "title": "Arranjo de filtro compreendendo um alojamento de filtro e uma unidade de filtro",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1250192-0",
+            "priorityDate": "01/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "EMIL PETTERSSON",
+        "ERIK NYBERG"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "F02M 35/024",
+        "B01D 46/00"
+    ]
+}

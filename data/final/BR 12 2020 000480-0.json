@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 12 2020 000480-0",
+    "filingDate": "25/01/2012",
+    "grantDate": null,
+    "title": "FERRAMENTA DE FIXA\u00c7\u00c3O DE FUNDO DE PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/014,705",
+            "priorityDate": "26/01/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/01/2012",
+        "applicationNumber": "BR 11 2013 019168-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        2701
+    ],
+    "ipcCodes": []
+}

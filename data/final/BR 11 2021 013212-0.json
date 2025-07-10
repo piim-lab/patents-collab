@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2021 013212-0",
+    "filingDate": "29/01/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE INFORMA\u00c7\u00c3O, ORGANIZA\u00c7\u00c3O, CONDU\u00c7\u00c3O, EMBARQUE E ACOMODA\u00c7\u00c3O DE PASSAGEIROS EM AERONAVES, EQUIPAMENTO E PROGRAMAS DE COMPUTADOR CORRESPONDENTES",
+    "nationalPhaseDate": [
+        "02/07/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT BR2019/050026",
+        "pctDate": "29/01/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "28.10.31",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de fam\u00edlia de patente iniciada no Brasil",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "RICARDO POCAI"
+    ],
+    "holders": [
+        30298
+    ],
+    "ipcCodes": [
+        "G06Q 90/00",
+        "G06Q 10/00",
+        "G06Q 50/30",
+        "G09F 19/22",
+        "G06Q 50/28",
+        "G06Q 10/02"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 10 2016 010183-2",
+    "filingDate": "05/05/2016",
+    "grantDate": "27/09/2022",
+    "title": "DISJUNTOR E USO DE UM DISJUNTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15166784.7",
+            "priorityDate": "07/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "FRANCESCO PISU",
+        "FREDRIK LUNDQVIST",
+        "JAKUB KORBEL",
+        "JOHAN COSTYSON",
+        "KANASARA KRUNAL",
+        "MATTIAS RUNNBERG",
+        "SAMI KOTILAINEN",
+        "RAPHAEL RIJO"
+    ],
+    "holders": [
+        463
+    ],
+    "ipcCodes": [
+        "H01H 1/38"
+    ]
+}

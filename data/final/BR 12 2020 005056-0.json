@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 12 2020 005056-0",
+    "filingDate": "26/05/2006",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR UMA PREPARA\u00c7\u00c3O ORAL QUE COMPREENDE CLORIDRATO DE N-[4-[4-(1,2-BENZISO-TIAZOL-3-IL)-1-PIPERAZINIL]-(2R,3R)-2,3-TETRAMETILENO-BUTIL]-(1\u2019R,2\u2019S,3\u2019R,4\u2019S)-2,3-BICICLO[2,2,1]HEPTANODICARBOXIIMIDA (LURASIDONA)",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-153508",
+            "priorityDate": "26/05/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/05/2006",
+        "applicationNumber": "PI 0611409-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "KAZUYUKI FUJIHARA"
+    ],
+    "holders": [
+        163991
+    ],
+    "ipcCodes": [
+        "A61K 47/10",
+        "A61K 47/26",
+        "A61K 47/38",
+        "A61K 9/20",
+        "A61K 31/496",
+        "C07D 417/12"
+    ]
+}

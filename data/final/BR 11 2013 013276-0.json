@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2013 013276-0",
+    "filingDate": "01/12/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR COURO, COURO, FORMULA\u00c7\u00c3O AQUOSA, E USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10193550.0",
+            "priorityDate": "02/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "EDWARD BOHRES",
+        "PETER DANISCH"
+    ],
+    "holders": [
+        108701
+    ],
+    "ipcCodes": [
+        "C08F 220/18",
+        "C08F 220/02",
+        "C14C 3/22"
+    ]
+}

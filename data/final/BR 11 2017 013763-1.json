@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 013763-1",
+    "filingDate": "23/12/2015",
+    "grantDate": "22/06/2021",
+    "title": "ENCHIMENTO BIDIRECIONAL PARA USO EM TORRES DE RESFRIAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/096,194",
+            "priorityDate": "23/12/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/148,969",
+            "priorityDate": "17/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "DAVEY J VADDER",
+        "SARAH L FERRARI",
+        "JOHN W LANE",
+        "PIERRE LIBERT",
+        "THOMAS W BUGLER"
+    ],
+    "holders": [
+        106782
+    ],
+    "ipcCodes": [
+        "F28F 25/08"
+    ]
+}

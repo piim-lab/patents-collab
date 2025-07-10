@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2020 023972-0",
+    "filingDate": "23/05/2019",
+    "grantDate": null,
+    "title": "TRATAMENTOS",
+    "nationalPhaseDate": [
+        "24/11/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2019/054293",
+        "pctDate": "23/05/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1808563.9",
+            "priorityDate": "24/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "IAN HAMPSON",
+        "LYNNE HAMPSON"
+    ],
+    "holders": [
+        277557
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61P 31/12",
+        "A61K 9/00",
+        "A61K 31/427",
+        "A61K 31/513"
+    ]
+}

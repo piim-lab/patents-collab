@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 023376-1",
+    "filingDate": "07/10/2016",
+    "grantDate": null,
+    "title": "APARELHO PARA DECODIFICAR UMA REPRESENTA\u00c7\u00c3O AMBISS\u00d4NICA DE ORDEM SUPERIOR (HOA) COMPACTADA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15306591.7",
+            "priorityDate": "08/10/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/361.863",
+            "priorityDate": "13/07/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/10/2016",
+        "applicationNumber": "BR 11 2018 007171-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "SVEN KORDON",
+        "ALEXANDER KRUEGER"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "G10L 19/008"
+    ]
+}

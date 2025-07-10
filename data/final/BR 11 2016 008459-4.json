@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 008459-4",
+    "filingDate": "05/11/2014",
+    "grantDate": null,
+    "title": "PRODU\u00c7\u00c3O DE MORFINANOS DE 6-HIDROXI SEM ISOLAMENTO DE INTERMEDI\u00c1RIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/901,032",
+            "priorityDate": "07/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "PETER X WANG",
+        "TAO JIANG"
+    ],
+    "holders": [
+        144353
+    ],
+    "ipcCodes": [
+        "A61K 31/485",
+        "C07D 489/02",
+        "C07D 489/08"
+    ]
+}

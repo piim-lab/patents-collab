@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 013704-5",
+    "filingDate": "02/07/2019",
+    "grantDate": null,
+    "title": "PROCESSO PARA INDU\u00c7\u00c3O DE REGENERA\u00c7\u00c3O CARD\u00cdACA POR IMPLANTE DE INTERCOMUNICA\u00c7\u00c3O VASCULAR",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "EN\u00c9AS RICARDO DE MORAIS GOMES",
+        "ALINE ALVES LARA GOMES"
+    ],
+    "holders": [
+        2469
+    ],
+    "ipcCodes": [
+        "A61K 38/16",
+        "A61P 9/10",
+        "A61L 27/00"
+    ]
+}

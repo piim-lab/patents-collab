@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2012 028998-5",
+    "filingDate": "18/05/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ESCOAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "10 53848",
+            "priorityDate": "18/05/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 305 486.0",
+            "priorityDate": "22/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        }
+    ],
+    "inventors": [
+        "PAUL ASTEGNO",
+        "PATRICK CHARLES",
+        "MATTHIEU PERRIER"
+    ],
+    "holders": [
+        1056
+    ],
+    "ipcCodes": [
+        "A01J 25/11"
+    ]
+}

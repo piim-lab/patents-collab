@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2022 010496-4",
+    "filingDate": "30/05/2022",
+    "grantDate": null,
+    "title": "MECANISMOS PARA EMISS\u00c3O DE RELAT\u00d3RIOS DE FALHA DE LINK DE R\u00c1DIO (RLF) PARA REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/337,321",
+            "priorityDate": "02/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "YUQIN CHEN",
+        "YUSHU ZHANG",
+        "FANGLI XU",
+        "QIMING LI",
+        "CHUNHAI YAO",
+        "GURUNADHA RAO KOTA",
+        "ZHIBIN WU",
+        "HAIJING HU",
+        "DAWEI ZHANG",
+        "PANAGIOTIS BOTSINIS",
+        "CHRISTIAN HOFMANN",
+        "SAMEH M ELDESSOKI"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "H04W 24/08",
+        "H04W 76/18"
+    ]
+}

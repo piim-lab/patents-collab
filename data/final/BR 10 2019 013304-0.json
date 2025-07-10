@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2019 013304-0",
+    "filingDate": "26/06/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE COLHEITA, M\u00c9TODO PARA OPERAR UMA PONTEIRA DE COLHEITA, E, SISTEMA DE COLHEITADEIRA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/693278",
+            "priorityDate": "02/07/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/414573",
+            "priorityDate": "16/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [
+        "BRYAN R YANKE",
+        "DUANE M BOMLENY",
+        "ANDREW J BRAET",
+        "MICHAEL L VANDEVEN",
+        "PAUL D MARVIN"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 41/14"
+    ]
+}

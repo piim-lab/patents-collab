@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2018 006090-5",
+    "filingDate": "30/01/2007",
+    "grantDate": null,
+    "title": "PRODUTO MEDICAMENTOSO, PROCESSO PARA A SUA PRODU\u00c7\u00c3O E KIT QUE COMPREENDE UM FRASCO PARA PROPORCIONAR ESSE PRODUTO MEDICAMENTOSO",
+    "divisionalApplication": {
+        "filingDate": "30/01/2007",
+        "applicationNumber": "PI 0708017-4"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        135483
+    ],
+    "ipcCodes": []
+}

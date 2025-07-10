@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2013 001153-3",
+    "filingDate": "16/01/2013",
+    "grantDate": "02/02/2021",
+    "title": "M\u00e9todo de alimentar contas e unidade de alimentar contas",
+    "priorityClaims": [
+        {
+            "countryCode": "PL",
+            "priorityNumber": "P.397839",
+            "priorityDate": "18/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2721"
+        }
+    ],
+    "inventors": [
+        "BARTOSZ CIESLIKOWSKI",
+        "JACEK FIGARSKI",
+        "RADOSLAW FIGARSKI",
+        "KAZIMIERZ MAKOSA"
+    ],
+    "holders": [
+        5298
+    ],
+    "ipcCodes": [
+        "A24D 3/02",
+        "B65G 29/00"
+    ]
+}

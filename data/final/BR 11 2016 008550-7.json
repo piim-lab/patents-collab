@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2016 008550-7",
+    "filingDate": "14/10/2014",
+    "grantDate": null,
+    "title": "BANDA G\u00c1STRICA N\u00c3O INFL\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1360058",
+            "priorityDate": "16/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "LUDOVIC CAZENAVE",
+        "VINCENT FRERING"
+    ],
+    "holders": [
+        105617
+    ],
+    "ipcCodes": [
+        "A61F 5/00"
+    ]
+}

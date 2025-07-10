@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2016 000127-3",
+    "filingDate": "04/07/2014",
+    "grantDate": null,
+    "title": "COMPOSTOS BIC\u00cdCLICOS \u00daTEIS PARA TRATAR DOEN\u00c7AS CAUSADAS POR RETROV\u00cdRUS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/843,155",
+            "priorityDate": "05/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        }
+    ],
+    "inventors": [
+        "JAMAL TAZI",
+        "FLORENCE MAHUTEAU",
+        "ROMAIN NAJMAN",
+        "DIDIER SCHERRER",
+        "NO\u00cbLIE CAMPOS",
+        "AUDE GARCEL"
+    ],
+    "holders": [
+        116753,
+        116754,
+        48954,
+        115001
+    ],
+    "ipcCodes": [
+        "A61K 31/497",
+        "A61K 31/506",
+        "A61P 31/14",
+        "A61K 31/47",
+        "A61K 31/4709"
+    ]
+}

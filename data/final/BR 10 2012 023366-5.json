@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2012 023366-5",
+    "filingDate": "17/09/2012",
+    "grantDate": null,
+    "title": "UNIDADE DE FILTRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/233,390",
+            "priorityDate": "15/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/371,066",
+            "priorityDate": "10/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER A KRUCKENBERG",
+        "JOHN W MORRISON",
+        "PETER J RICHMOND",
+        "JEFFREY A SPINDLER"
+    ],
+    "holders": [
+        2420
+    ],
+    "ipcCodes": []
+}

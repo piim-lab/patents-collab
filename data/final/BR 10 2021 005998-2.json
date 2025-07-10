@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2021 005998-2",
+    "filingDate": "29/03/2021",
+    "grantDate": null,
+    "title": "TRANSCRI\u00c7\u00c3O EM TEMPO REAL E ALIMENTA\u00c7\u00c3O DE MENSAGENS DE VOZ COM BASE NA PRESEN\u00c7A E PREFER\u00caNCIA DE USU\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/832,086",
+            "priorityDate": "27/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2790"
+        }
+    ],
+    "inventors": [
+        "NAVIN DAGA",
+        "PUSHKAR YASHAVANT DEOLE",
+        "SANDESH CHOPDEKAR"
+    ],
+    "holders": [
+        66575
+    ],
+    "ipcCodes": [
+        "G10L 15/26",
+        "G10L 15/22",
+        "H04M 3/51",
+        "H04M 3/533"
+    ]
+}

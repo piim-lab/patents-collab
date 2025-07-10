@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2018 009239-4",
+    "filingDate": "13/10/2011",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O E M\u00c9TODO DE CONTROLE DE PRAGAS F\u00daNGICAS E USO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-231368",
+            "priorityDate": "14/10/2010"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-275434",
+            "priorityDate": "10/12/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/10/2011",
+        "applicationNumber": "BR 11 2013 009074-0"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "SO KIGUCHI",
+        "SOICHI TANAKA",
+        "SO KIGUCHI",
+        "SOICHI TANAKA"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": [
+        "A01P 3/00",
+        "A01N 37/36",
+        "A01N 43/56",
+        "A01N 41/10"
+    ]
+}

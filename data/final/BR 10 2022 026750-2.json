@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2022 026750-2",
+    "filingDate": "27/12/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROCESSAMENTO DE IMAGEM, M\u00c9TODO DE PROCESSAMENTO DE IMAGEM, E MEIO DE ARMAZENAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-000249",
+            "priorityDate": "04/01/2022"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-000224",
+            "priorityDate": "04/01/2022"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-000259",
+            "priorityDate": "04/01/2022"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-183629",
+            "priorityDate": "16/11/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "KOKI NAKAMURA",
+        "TOKURO NISHIDA",
+        "HIROYUKI HASEGAWA",
+        "KENGO TAKEUCHI",
+        "KAZUYA KITAMURA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "G06T 11/00",
+        "G06T 3/00",
+        "G01B 11/22",
+        "G06V 40/00",
+        "H04N 5/262",
+        "G06V 20/60",
+        "H04N 23/00"
+    ]
+}

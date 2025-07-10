@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 072365-0",
+    "filingDate": "30/10/2018",
+    "grantDate": null,
+    "title": "SISTEMA, VE\u00cdCULO AGR\u00cdCOLA E M\u00c9TODO PARA DETECTAR UMA FALHA DE CONECTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/579846",
+            "priorityDate": "31/10/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/164168",
+            "priorityDate": "18/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "RANDALL A MARO"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "F15B 19/00",
+        "F15B 20/00",
+        "A01B 76/00",
+        "A01B 59/00"
+    ]
+}

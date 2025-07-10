@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 002720-7",
+    "filingDate": "12/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE COMPUTADOR E DISPOSITIVO PARA CONTROLAR O USO DE GRAVA\u00c7\u00d5ES DE M\u00cdDIA SEGURAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/975,203",
+            "priorityDate": "12/02/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/170,510",
+            "priorityDate": "08/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "SHOBHIT GUPTA",
+        "MISHA BOSIN",
+        "NEIL CHOPRA",
+        "GARRICK BUCKLEY",
+        "EMMANUELLE SONI",
+        "DHAVAL SHAH"
+    ],
+    "holders": [
+        56369
+    ],
+    "ipcCodes": [
+        "G06Q 10/00",
+        "G06Q 50/30",
+        "G06F 16/29",
+        "G06F 16/487"
+    ]
+}

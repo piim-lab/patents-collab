@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2017 008047-1",
+    "filingDate": "19/04/2017",
+    "grantDate": null,
+    "title": "ANT\u00cdGENO, PROCESSO DE OBTEN\u00c7\u00c3O DE ANT\u00cdGENO E PROCESSO DE OBTEN\u00c7\u00c3O DE ANTICORPOS POLICLONAIS E MONOCLONAIS",
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "EMANOEL S\u00c9RVIO COQUEIRO DOS SANTOS",
+        "CATARINA PAULA DA SILVA RAMOS"
+    ],
+    "holders": [
+        22619
+    ],
+    "ipcCodes": [
+        "G01N 33/569",
+        "C07K 14/195",
+        "G01N 33/18"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2018 076125-0",
+    "filingDate": "14/12/2018",
+    "grantDate": null,
+    "title": "CAVALETE REGUL\u00c1VEL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2773"
+        }
+    ],
+    "inventors": [
+        "FERNANDO DA COSTA BARROS",
+        "FRANCEUDO DA SILVA IBIAPINO",
+        "T\u00daLIO REIS OLIVEIRA",
+        "STELLA MARIA GOMES TOM\u00c9",
+        "LINA MARIA SOARES"
+    ],
+    "holders": [
+        20144
+    ],
+    "ipcCodes": [
+        "E04G 1/32"
+    ]
+}

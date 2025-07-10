@@ -1,0 +1,99 @@
+{
+    "applicationNumber": "BR 11 2012 030617-0",
+    "filingDate": "29/12/2010",
+    "grantDate": "23/11/2021",
+    "title": "SISTEMA DE CHASSI ARITCULADO DE VE\u00cdCULO ARTICULADO GRANDE",
+    "nationalPhaseDate": [
+        "30/11/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2010/080462",
+        "pctDate": "29/12/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020211872.X",
+            "priorityDate": "02/06/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020211901.2",
+            "priorityDate": "02/06/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020211875.3",
+            "priorityDate": "02/06/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020226770.5",
+            "priorityDate": "17/06/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020233715.9",
+            "priorityDate": "23/06/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020276171.4",
+            "priorityDate": "30/07/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020539553.1",
+            "priorityDate": "25/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "YUN HAO"
+    ],
+    "holders": [
+        104130
+    ],
+    "ipcCodes": [
+        "B60D 5/00",
+        "B62D 12/02"
+    ]
+}

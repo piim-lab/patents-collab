@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2013 025199-9",
+    "filingDate": "01/04/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRANSMITIR E M\u00c9TODO PARA RECEBER INFORMA\u00c7\u00c3O DE CONTROLE, ESTA\u00c7\u00c3O BASE E N\u00d3 SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/470,940",
+            "priorityDate": "01/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/471,049",
+            "priorityDate": "01/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/471,055",
+            "priorityDate": "01/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/471,061",
+            "priorityDate": "01/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/434,449",
+            "priorityDate": "30/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE J SARTORI",
+        "BINGYU QU",
+        "WEIMIN XIAO",
+        "BRIAN K CLASSON",
+        "VIPUL A DESAI"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04W 80/00"
+    ]
+}

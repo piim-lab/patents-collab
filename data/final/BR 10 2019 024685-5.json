@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2019 024685-5",
+    "filingDate": "22/11/2019",
+    "grantDate": null,
+    "title": "REL\u00c9 DE TRAVAMENTO MAGN\u00c9TICO DE M\u00daLTIPLOS CAMINHOS",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201811406172.3",
+            "priorityDate": "23/11/2018"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201811532030.1",
+            "priorityDate": "14/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "ZHIGANG WEN",
+        "FANGNENG LI",
+        "WENGUANG DAI",
+        "SHUMING ZHONG"
+    ],
+    "holders": [
+        54055
+    ],
+    "ipcCodes": [
+        "H01H 50/14",
+        "H01H 51/10"
+    ]
+}

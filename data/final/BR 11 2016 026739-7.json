@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2016 026739-7",
+    "filingDate": "21/05/2015",
+    "grantDate": null,
+    "title": "M\u00e9todo de fundi\u00e7\u00e3o de metal",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/001,124",
+            "priorityDate": "21/05/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/060,672",
+            "priorityDate": "07/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "SAMUEL R WAGSTAFF",
+        "WAYNE J FENTON",
+        "ROBERT B WAGSTAFF",
+        "MILAN FELBERBAUM",
+        "TODD F BISCHOFF",
+        "TINA J KOSMICKI"
+    ],
+    "holders": [
+        83506
+    ],
+    "ipcCodes": [
+        "B22D 27/02",
+        "B22D 11/115",
+        "B22D 11/041"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2020 018713-1",
+    "filingDate": "04/09/2013",
+    "grantDate": null,
+    "title": "INJETOR DE FEIXES \u00c0 BASE DE \u00cdONS NEGATIVOS",
+    "priorityClaims": [
+        {
+            "countryCode": "RU",
+            "priorityNumber": "2012137795",
+            "priorityDate": "04/09/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/775,444",
+            "priorityDate": "08/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/09/2013",
+        "applicationNumber": "BR 11 2015 004801-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER V BURDAKOV",
+        "YURI I BELCHENKO",
+        "VLADIMIR I DAVYDENKO",
+        "GENNADY I DIMOV",
+        "ALEXANDER A IVANOV",
+        "VALEERY V KOBETS",
+        "ARTEM N SMIRNOV",
+        "MICHL W BINDERBAUER",
+        "DONALD L SEVIER",
+        "TERRENCE E RICHARDSON"
+    ],
+    "holders": [
+        94477
+    ],
+    "ipcCodes": [
+        "G21B 1/15"
+    ]
+}

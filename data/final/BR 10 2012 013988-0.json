@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2012 013988-0",
+    "filingDate": "16/03/2012",
+    "grantDate": null,
+    "title": "ROLETE DE ACIONAMENTO PARA UMA ESTEIRA ARRANJADA PARA TRANSPORTAR MATERIAL DE COLHEITA",
+    "priorityClaims": [
+        {
+            "countryCode": "CA",
+            "priorityNumber": "2734475",
+            "priorityDate": "16/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [
+        "DANIEL CORMIER",
+        "FRANCOIS R TALBOT",
+        "KEITH A JOHNSON",
+        "NEAL J STOFFEL"
+    ],
+    "holders": [
+        2080,
+        2079
+    ],
+    "ipcCodes": [
+        "A01D 34/10"
+    ]
+}

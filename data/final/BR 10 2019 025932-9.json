@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2019 025932-9",
+    "filingDate": "06/12/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA VERIFICAR A EXIBI\u00c7\u00c3O DE UM ITEM DE CONTE\u00daDO POR UM DISPOSITIVO DE EXIBI\u00c7\u00c3O DIGITAL, E SISTEMA DE EXIBI\u00c7\u00c3O DIGITAL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1872985",
+            "priorityDate": "14/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "ANIRVAN BASU"
+    ],
+    "holders": [
+        45521
+    ],
+    "ipcCodes": [
+        "G06Q 10/10",
+        "G06Q 30/02"
+    ]
+}

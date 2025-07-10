@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 019114-4",
+    "filingDate": "11/01/2011",
+    "grantDate": "12/11/2019",
+    "title": "PROCESSO E INSTALA\u00c7\u00c3O PARA REFRIGERAR \u00c1CIDO SULF\u00daRICO.",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 006 541.2",
+            "priorityDate": "01/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "HEINZ DAUM",
+        "WOLFRAM SCHALK"
+    ],
+    "holders": [
+        81899
+    ],
+    "ipcCodes": [
+        "C01B 17/765",
+        "C01B 17/80"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 001739-5",
+    "filingDate": "31/01/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE CARREGAMENTO DE MATERIAL, E, M\u00c9TODO IMPLEMENTADO POR COMPUTADOR PARA CONTROLAR UM SISTEMA DE CARREGAMENTO DE MATERIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/223,457",
+            "priorityDate": "06/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "JEREMY J FAUST",
+        "KELLEN OCONNOR"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 90/02",
+        "A01D 87/00"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2019 013850-1",
+    "filingDate": "06/12/2017",
+    "grantDate": "30/08/2022",
+    "title": "TUBO FLEX\u00cdVEL N\u00c3O LIGADO E INSTALA\u00c7\u00c3O OFFSHORE",
+    "nationalPhaseDate": [
+        "04/07/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT DK2017/050412",
+        "pctDate": "06/12/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2017 70023",
+            "priorityDate": "13/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "MICHAEL HJORTH"
+    ],
+    "holders": [
+        47930
+    ],
+    "ipcCodes": [
+        "F16L 11/08"
+    ]
+}

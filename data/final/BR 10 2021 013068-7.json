@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 013068-7",
+    "filingDate": "01/07/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE SUSPENS\u00c3O LINEAR INDEPENDENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/047,343",
+            "priorityDate": "02/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "MICHAEL JENSEN",
+        "THOMAS T YI"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "B62D 7/06"
+    ]
+}

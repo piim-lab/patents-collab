@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2019 014956-9",
+    "filingDate": "09/04/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE TRATAR UMA COMPOSI\u00c7\u00c3O DE C\u00c9LULA VERMELHA SANGU\u00cdNEA, COMPOSI\u00c7\u00c3O DE C\u00c9LULA VERMELHA SANGU\u00cdNEA, E M\u00c9TODO DE REDUZIR A DESIDRATA\u00c7\u00c3O EM UMA COMPOSI\u00c7\u00c3O DE C\u00c9LULA VERMELHA SANGU\u00cdNEA",
+    "divisionalApplication": {
+        "filingDate": "09/04/2009",
+        "applicationNumber": "PI 0911176-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento - Art. 212 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "NAHEED MUFTI",
+        "ANNA ERICKSON",
+        "ANNE NORTH"
+    ],
+    "holders": [
+        219588
+    ],
+    "ipcCodes": [
+        "A61L 2/00",
+        "A01N 1/02",
+        "A01N 43/42",
+        "A61K 35/00",
+        "A61P 7/00"
+    ]
+}

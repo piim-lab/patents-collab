@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 001000-0",
+    "filingDate": "17/07/2014",
+    "grantDate": null,
+    "title": "PROCESSADOR DE \u00c1UDIO PARA PROCESSAMENTO DEPENDENTE DE ORIENTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13177381.4",
+            "priorityDate": "22/07/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14160878.6",
+            "priorityDate": "20/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "FLORIAN LESCHKA",
+        "JAN PLOGSTIES"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "H04R 5/04"
+    ]
+}

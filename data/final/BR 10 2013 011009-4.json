@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2013 011009-4",
+    "filingDate": "03/05/2013",
+    "grantDate": null,
+    "title": "ESTEIRA PARA OVOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2012 004 330.7",
+            "priorityDate": "03/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "G\u00dcNTER M\u00d6LLER",
+        "G\u00dcNTER M\u00d6LLER"
+    ],
+    "holders": [
+        6723
+    ],
+    "ipcCodes": [
+        "A01K 31/16",
+        "B65G 15/58"
+    ]
+}

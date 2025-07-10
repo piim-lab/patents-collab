@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 006625-0",
+    "filingDate": "02/04/2018",
+    "grantDate": null,
+    "title": "RESIST\u00caNCIA DE FREIO PARA QUE SE REALIZE UM AQUECEDOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 003 441.9",
+            "priorityDate": "08/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "MARKUS HUBERT",
+        "JOHANNES PETERANDERL",
+        "J\u00d6RG OBERMEIER",
+        "ANDREAS BUG"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "B60H 1/00",
+        "F01P 7/14",
+        "F01P 3/20",
+        "B60H 1/03",
+        "B60H 1/04"
+    ]
+}

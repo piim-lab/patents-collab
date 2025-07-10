@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2023 002323-4",
+    "filingDate": "19/04/2018",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O, M\u00c9TODO E USO PARA CONTROLE DE PRAGAS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-089129",
+            "priorityDate": "28/04/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/04/2018",
+        "applicationNumber": "BR 10 2018 007893-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "JUNYA IWAKAWA",
+        "TAKUYA INOUE",
+        "JUNYA IWAKAWA",
+        "TAKUYA INOUE"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": []
+}

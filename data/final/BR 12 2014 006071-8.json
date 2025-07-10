@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 12 2014 006071-8",
+    "filingDate": "12/06/2003",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR UMA BEBIDA CONSUM\u00cdVEL COM UMA CAMADA DE ESPUMA DE BOLHA FINA",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "1020833",
+            "priorityDate": "12/06/2002"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/06/2003",
+        "applicationNumber": "PI 0311744-8"
+    },
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "GUSTAAF FRANS BROUWER",
+        "ANTONIUS CORNELIS HUBERTUS VAN DER PLUIJM"
+    ],
+    "holders": [
+        85288
+    ],
+    "ipcCodes": [
+        "A47J 31/06"
+    ]
+}

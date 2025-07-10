@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 12 2020 025528-5",
+    "filingDate": "22/11/2012",
+    "grantDate": null,
+    "title": "ZE\u00d3LITA TIPO MSE, CATALISADOR DE CRAQUEAMENTO CATAL\u00cdTICO PARA PARAFINA E M\u00c9TODO DE PRODU\u00c7\u00c3O DE UMA ZE\u00d3LITA TIPO MSE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-258329",
+            "priorityDate": "25/11/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-258328",
+            "priorityDate": "25/11/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-255811",
+            "priorityDate": "22/11/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/11/2012",
+        "applicationNumber": "BR 11 2014 012670-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "YOSHIHIRO KUBOTA",
+        "SATOSHI INAGAKI",
+        "RAITA KOMATSU",
+        "KEIJI ITABASHI",
+        "TATSUYA OKUBO",
+        "TOYOHIKO HIEDA"
+    ],
+    "holders": [
+        137145,
+        45548,
+        105742
+    ],
+    "ipcCodes": [
+        "B01J 29/70",
+        "C07B 61/00",
+        "C07C 11/06",
+        "C01B 39/48",
+        "C07C 4/06"
+    ]
+}

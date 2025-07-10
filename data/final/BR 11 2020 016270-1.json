@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2020 016270-1",
+    "filingDate": "11/02/2019",
+    "grantDate": null,
+    "title": "COMPOSTO ATUANDO COMO ANTIBI\u00d3TICOS",
+    "nationalPhaseDate": [
+        "10/08/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2019/074771",
+        "pctDate": "11/02/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810138645.X",
+            "priorityDate": "10/02/2018"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810320980.1",
+            "priorityDate": "11/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "ZHENHUA HUANG",
+        "LI LI",
+        "MIN ZHANG"
+    ],
+    "holders": [
+        130739
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "C07D 405/10",
+        "A61K 31/4412",
+        "A61K 31/166",
+        "C07D 333/24",
+        "C07D 307/54",
+        "C07D 307/16"
+    ]
+}

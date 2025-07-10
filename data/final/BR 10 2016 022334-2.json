@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2016 022334-2",
+    "filingDate": "27/09/2016",
+    "grantDate": null,
+    "title": "SISTEMA PARA CONTROLE DE DESLOCAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/868,521",
+            "priorityDate": "29/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "PETER C MELTON FALECIDO"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "F16H 61/04",
+        "B60K 6/547"
+    ]
+}

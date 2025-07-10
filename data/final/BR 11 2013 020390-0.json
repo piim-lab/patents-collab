@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2013 020390-0",
+    "filingDate": "10/02/2012",
+    "grantDate": "13/11/2018",
+    "title": "TAMBOR FORMADOR DE ALIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 001069.1",
+            "priorityDate": "10/02/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 002345.4",
+            "priorityDate": "22/03/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 003605.0",
+            "priorityDate": "03/05/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 010186.2",
+            "priorityDate": "23/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "HENDRIKUS PETRUS GERARDUS VAN GERWEN",
+        "GEORGE LAMBERTUS JOSEPHUS MARIA BOOGERS",
+        "HENDRIK JAN RIGHOLT"
+    ],
+    "holders": [
+        117218
+    ],
+    "ipcCodes": [
+        "B29C 33/00",
+        "A22C 7/00"
+    ]
+}

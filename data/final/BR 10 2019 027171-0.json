@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2019 027171-0",
+    "filingDate": "18/12/2019",
+    "grantDate": null,
+    "title": "N\u00d3 SENSOR, M\u00c9TODO REALIZADO POR UM N\u00d3 SENSOR, E, CONTROLADOR OU HOST DE UMA REDE DE DETEC\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/226,277",
+            "priorityDate": "19/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "TRAVIS GANG",
+        "TRAVIS DEMENT",
+        "BENJAMIN T RULE",
+        "THOMAS HENCK"
+    ],
+    "holders": [
+        7188
+    ],
+    "ipcCodes": [
+        "G05B 23/02",
+        "H04L 29/08"
+    ]
+}

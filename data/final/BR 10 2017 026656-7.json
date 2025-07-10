@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2017 026656-7",
+    "filingDate": "11/12/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE PROTE\u00c7\u00c3O PARA UM VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/392,969",
+            "priorityDate": "28/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "TIMOTHY A HINKLE",
+        "JOHN M MOFFITT",
+        "QUINTON BERGGREN"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "B62D 33/06",
+        "E02F 9/16",
+        "B60R 21/11",
+        "B62D 27/06"
+    ]
+}

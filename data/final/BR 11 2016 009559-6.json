@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2016 009559-6",
+    "filingDate": "11/12/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE PART\u00cdCULAS COMP\u00d3SITAS E USO DAS MESMAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13005850.6",
+            "priorityDate": "17/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "UWE WILKENHOENER",
+        "JUERGEN BENDER",
+        "INGO GROSSER"
+    ],
+    "holders": [
+        124092
+    ],
+    "ipcCodes": [
+        "C09C 1/36",
+        "C09C 1/00",
+        "C09C 1/02"
+    ]
+}

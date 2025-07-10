@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2012 026537-7",
+    "filingDate": "13/04/2011",
+    "grantDate": null,
+    "title": "Processo para o tratamento e limpeza de um material polim\u00e9rico e dispositivo para realizar o processo",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 629/2010",
+            "priorityDate": "16/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "KLAUS FEICHTINGER",
+        "MANFRED HACKL",
+        "GERHARD WENDELIN"
+    ],
+    "holders": [
+        101514
+    ],
+    "ipcCodes": [
+        "B29B 17/04"
+    ]
+}

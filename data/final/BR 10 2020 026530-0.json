@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2020 026530-0",
+    "filingDate": "23/12/2020",
+    "grantDate": null,
+    "title": "VISUALIZAR UM TRATAMENTO DE C\u00c2NCER DE MAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/726,372",
+            "priorityDate": "24/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "ASSAF GOVARI"
+    ],
+    "holders": [
+        41495
+    ],
+    "ipcCodes": [
+        "A61B 5/00",
+        "A61B 8/00",
+        "A61N 7/00"
+    ]
+}

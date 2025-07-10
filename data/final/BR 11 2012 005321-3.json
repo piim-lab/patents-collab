@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2012 005321-3",
+    "filingDate": "10/09/2010",
+    "grantDate": null,
+    "title": "\"Processo\"",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/241,499",
+            "priorityDate": "11/09/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/241,506",
+            "priorityDate": "11/09/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/241,515",
+            "priorityDate": "11/09/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        }
+    ],
+    "inventors": [
+        "THOMAS G CALVARESE",
+        "PAUL JOSEPH FAGAN",
+        "RONALD JAMES DAVIS",
+        "RONNIE OZER"
+    ],
+    "holders": [
+        81270
+    ],
+    "ipcCodes": [
+        "B01J 27/18",
+        "C07C 31/00",
+        "B01J 27/138"
+    ]
+}

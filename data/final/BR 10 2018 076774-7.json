@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2018 076774-7",
+    "filingDate": "20/12/2018",
+    "grantDate": null,
+    "title": "SISTEMA ASSOCIATIVO DE CONTAS E CONEX\u00c3O INTRANET",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "PAULO COELHO VIEIRA",
+        "CAMILO ROMA DE BRITO",
+        "MARCIO LUIZ DE ALBUQUERQUE E SILVA",
+        "MANOEL EUSEBIO DE LIMA"
+    ],
+    "holders": [
+        45073,
+        25770
+    ],
+    "ipcCodes": [
+        "G06F 13/00",
+        "G06F 12/00",
+        "G06Q 10/00"
+    ]
+}

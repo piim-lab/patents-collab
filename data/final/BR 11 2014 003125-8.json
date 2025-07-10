@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 003125-8",
+    "filingDate": "15/08/2012",
+    "grantDate": null,
+    "title": "STENT FEITO A PARTIR DE LIGA DE MAGN\u00c9SIO BIOLOGICAMENTE DEGRAD\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 110 114.8",
+            "priorityDate": "15/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/573,114",
+            "priorityDate": "06/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "MICHAEL STEKKER",
+        "NOBERT HORT",
+        "FRANK FEYERABEND",
+        "ERIKA HOFFMANN",
+        "MICHAEL HOFFMANN",
+        "ROLAND HORRES"
+    ],
+    "holders": [
+        131506,
+        98428
+    ],
+    "ipcCodes": [
+        "A61L 31/14",
+        "A61L 31/02",
+        "C22C 23/00",
+        "C22C 23/06"
+    ]
+}

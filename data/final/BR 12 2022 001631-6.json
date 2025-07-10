@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2022 001631-6",
+    "filingDate": "19/12/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO, SISTEMA DE COMPUTADOR, E DISPOSITIVO DE MEM\u00d3RIA OU ARMAZENAMENTO N\u00c3O VOL\u00c1TIL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/925,090",
+            "priorityDate": "08/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/934,574",
+            "priorityDate": "31/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/513,132",
+            "priorityDate": "13/10/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/12/2014",
+        "applicationNumber": "BR 11 2016 015854-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "GARY J SULLIVAN",
+        "YOU ZHOU",
+        "CHIEH LEE",
+        "LUNG LIN"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "H04N 19/136",
+        "H04N 19/139",
+        "H04N 19/147",
+        "H04N 19/17",
+        "H04N 19/177",
+        "H04N 19/109",
+        "H04N 19/179"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2021 021951-0",
+    "filingDate": "01/05/2020",
+    "grantDate": null,
+    "title": "ENSAIOS",
+    "nationalPhaseDate": [
+        "01/11/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/062206",
+        "pctDate": "01/05/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1906127.4",
+            "priorityDate": "01/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "FR\u00c9D\u00c9RIC TRIEBEL",
+        "CHRYSTELLE BRIGNONE",
+        "MATHIEU ANGIN"
+    ],
+    "holders": [
+        209619
+    ],
+    "ipcCodes": [
+        "G01N 33/50",
+        "C12N 5/0783",
+        "C12Q 1/6897"
+    ]
+}

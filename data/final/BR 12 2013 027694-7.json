@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2013 027694-7",
+    "filingDate": "22/06/2010",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E EQUIPAMENTO PARA COORDENA\u00c7\u00c3O DE ENVIO DE SINAIS DE REFER\u00caNCIA A PARTIR DE M\u00daLTIPLAS C\u00c9LULAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/219,354",
+            "priorityDate": "22/06/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/818,464",
+            "priorityDate": "18/06/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/06/2010",
+        "applicationNumber": "PI 1013294-5"
+    },
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": []
+}

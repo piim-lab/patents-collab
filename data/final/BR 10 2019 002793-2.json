@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2019 002793-2",
+    "filingDate": "11/02/2019",
+    "grantDate": null,
+    "title": "VACINA ANTI-GNRH",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/629,287",
+            "priorityDate": "12/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2759"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "SUPAVADEE AMATAYAKUL",
+        "PAUL JOSEPH DOMINOWSKI",
+        "RICHARD LEE KREBS",
+        "JOHN FRANCIS POWER",
+        "KISHORE PRAYAGA",
+        "ANDREW HODGE"
+    ],
+    "holders": [
+        46388
+    ],
+    "ipcCodes": [
+        "A61K 9/107",
+        "A61K 39/00",
+        "A61K 39/39",
+        "A61K 39/385",
+        "A61P 15/00",
+        "A61K 38/09",
+        "A61K 31/711"
+    ]
+}

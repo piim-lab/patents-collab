@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2020 010829-0",
+    "filingDate": "18/06/2013",
+    "grantDate": "29/03/2022",
+    "title": "SISTEMA DE CONTROLE COMPREENDENDO UM CABO DE CONTROLE DE CATETER ORIENT\u00c1VEL E SISTEMA DE CONTROLE DE CATETER ORIENT\u00c1VEL PARA CONTROLE BIDIRECIONAL DE UM CATETER ORIENT\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/661,664",
+            "priorityDate": "19/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/06/2013",
+        "applicationNumber": "BR 11 2014 031843-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "GARETH DAVIES",
+        "MELANIE THOMPSON",
+        "DEEPTHI GORAPALLI",
+        "STEVE COPELAND",
+        "ROBERT G DICKIE",
+        "AMY LEFLER",
+        "BOGDAN BECA"
+    ],
+    "holders": [
+        147890
+    ],
+    "ipcCodes": [
+        "A61M 25/01"
+    ]
+}

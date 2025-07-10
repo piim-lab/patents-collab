@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 071563-1",
+    "filingDate": "19/10/2018",
+    "grantDate": null,
+    "title": "RECIPIENTE DESCART\u00c1VEL PARA ALIMENTA\u00c7\u00c3O DE LACTENTES",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "15.22.2",
+            "description": "Devolu\u00e7\u00e3o de Prazo por falha de Sistema",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento - Art. 212 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "DANIEL BATHKE MOTTA DA SILVA"
+    ],
+    "holders": [
+        42920
+    ],
+    "ipcCodes": [
+        "A61J 9/08"
+    ]
+}

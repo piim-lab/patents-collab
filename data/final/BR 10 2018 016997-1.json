@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 10 2018 016997-1",
+    "filingDate": "20/08/2018",
+    "grantDate": null,
+    "title": "SISTEMA PREDITIVO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/683400",
+            "priorityDate": "22/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "ERIK HARRINGTON",
+        "DAVID G HILL",
+        "RACHEL GALLACHER",
+        "CORY M CRANDALL",
+        "VICTOR BARGER",
+        "TIMOTHY MICHAEL MAYER",
+        "ARTEMIO P\u00c9REZ",
+        "CHRISTIAN MILLER",
+        "YUNIYA S BISHOP"
+    ],
+    "holders": [
+        1795
+    ],
+    "ipcCodes": [
+        "G05D 17/02"
+    ]
+}

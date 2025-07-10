@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2020 022191-7",
+    "filingDate": "25/10/2013",
+    "grantDate": null,
+    "title": "APARELHO DE ENCHIMENTO COM CASCALHO PARA UM PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/661,710",
+            "priorityDate": "26/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/738,713",
+            "priorityDate": "10/01/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/10/2013",
+        "applicationNumber": "BR 10 2013 027600-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "JOHN P BROUSSARD",
+        "CHRISTOPHER A HALL",
+        "RONALD VAN PETEGEM"
+    ],
+    "holders": [
+        2847
+    ],
+    "ipcCodes": [
+        "E21B 34/06",
+        "E21B 43/04",
+        "E21B 34/00"
+    ]
+}

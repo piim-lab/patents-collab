@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2015 004223-0",
+    "filingDate": "26/02/2015",
+    "grantDate": null,
+    "title": "TERMINAL DE CONECTOR \u00d3PTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/194.045",
+            "priorityDate": "28/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "15.30",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2589"
+        }
+    ],
+    "inventors": [
+        "TOM N CRUZ",
+        "JON M WOODRUFF",
+        "CHARLES E JACKSON"
+    ],
+    "holders": [
+        16511
+    ],
+    "ipcCodes": [
+        "G02B 6/38",
+        "G02B 6/32"
+    ]
+}

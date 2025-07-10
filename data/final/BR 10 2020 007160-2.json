@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2020 007160-2",
+    "filingDate": "09/04/2020",
+    "grantDate": null,
+    "title": "PROCESSO DE CLASSIFICA\u00c7\u00c3O E RECICLAGEM DE EMBALAGENS POLIM\u00c9RICAS LAMINADAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2803"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "EDSON JOAQUIM ANTUNES QUEVEDO",
+        "HENRIQUE SILVA DE ARAUJO"
+    ],
+    "holders": [
+        55216,
+        55217
+    ],
+    "ipcCodes": [
+        "B09B 3/00",
+        "B29B 17/02"
+    ]
+}

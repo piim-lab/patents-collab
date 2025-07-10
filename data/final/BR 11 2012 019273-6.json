@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 11 2012 019273-6",
+    "filingDate": "24/09/2010",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONSTRU\u00c7\u00c3O DE UM COMPONENTE E PARA O ACABAMENTO DE UMA SUPERF\u00cdCIE DE UM COMPONENTE DE UM DISPOSITIVO ELETR\u00d4NICO E COMPONENTE DE DISPOSITIVO ELETR\u00d4NICO",
+    "nationalPhaseDate": [
+        "01/08/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2010/050119",
+        "pctDate": "24/09/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/300,780",
+            "priorityDate": "02/02/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/325,786",
+            "priorityDate": "19/04/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/325,625",
+            "priorityDate": "19/04/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/794,496",
+            "priorityDate": "04/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "SCOTT MYERS",
+        "RICHARD HELEY",
+        "MATTHEW THEOBALD",
+        "ADAM STAGNARO",
+        "TANG TAN",
+        "RICHARD DINH",
+        "DAVID PAKULA"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "G06F 1/16"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2012 004668-3",
+    "filingDate": "01/09/2010",
+    "grantDate": null,
+    "title": "\"COMPOSI\u00c7\u00c3O E PROCESSO\"",
+    "nationalPhaseDate": [
+        "01/03/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2010/047473",
+        "pctDate": "01/09/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/239,088",
+            "priorityDate": "02/09/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/239,090",
+            "priorityDate": "02/09/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/239,091",
+            "priorityDate": "02/09/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/239,092",
+            "priorityDate": "02/09/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/239,094",
+            "priorityDate": "02/09/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "NEVILLE EVERTON DRYSDALE",
+        "FREDRIK NEDERBERG",
+        "JOACHIM C RITTER",
+        "JOEL M POLLINO",
+        "KENNETH G MOLOY",
+        "SURBHI MAHAJAN"
+    ],
+    "holders": [
+        81270
+    ],
+    "ipcCodes": [
+        "C07C 49/84",
+        "C07C 243/38",
+        "C07C 69/92",
+        "C07C 69/80"
+    ]
+}

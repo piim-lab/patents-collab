@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2013 008468-5",
+    "filingDate": "05/10/2011",
+    "grantDate": "20/09/2022",
+    "title": "PUN\u00c7\u00c3O DE CARBONETO CEMENTADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10186875.0",
+            "priorityDate": "07/10/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/392,761",
+            "priorityDate": "13/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "MICHAEL CARPENTER",
+        "JANE SMITH"
+    ],
+    "holders": [
+        112149
+    ],
+    "ipcCodes": [
+        "C22C 29/08",
+        "C22C 1/10"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 20 2020 026896-7",
+    "filingDate": "29/12/2020",
+    "grantDate": null,
+    "title": "COPO COM TAMPA ACOPLADA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "28.10.4",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante MEI, ME ou EPP",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "DOUGLAS NEGRISOLLI"
+    ],
+    "holders": [
+        73056
+    ],
+    "ipcCodes": [
+        "B65D 43/02",
+        "B65D 47/06",
+        "B65D 41/18"
+    ]
+}

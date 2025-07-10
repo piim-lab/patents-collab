@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2016 016183-1",
+    "filingDate": "13/01/2015",
+    "grantDate": "06/04/2021",
+    "title": "M\u00c9TODOS PARA REPELIR ROEDORES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/926,546",
+            "priorityDate": "13/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/042,524",
+            "priorityDate": "27/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/043,529",
+            "priorityDate": "29/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/083,551",
+            "priorityDate": "24/11/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/595,718",
+            "priorityDate": "13/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "KENNETH E BALLINGER JR",
+        "SCOTT JOHN WERNER"
+    ],
+    "holders": [
+        79997,
+        177317
+    ],
+    "ipcCodes": [
+        "A01N 25/00"
+    ]
+}

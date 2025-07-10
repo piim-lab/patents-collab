@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2017 002099-1",
+    "filingDate": "31/01/2017",
+    "grantDate": "06/02/2024",
+    "title": "SUPORTE DE CABOS E DE CAIXA",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "VALCIR FABRIS"
+    ],
+    "holders": [
+        26085,
+        11839
+    ],
+    "ipcCodes": [
+        "H02G 1/04",
+        "B25B 25/00",
+        "B65H 59/00"
+    ]
+}

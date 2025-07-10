@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 005422-0",
+    "filingDate": "22/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA PR\u00c1TICA E AVALIA\u00c7\u00c3O DE MENTORIAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "MIRIAN HATORI"
+    ],
+    "holders": [
+        66414
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G09B 5/06",
+        "G06Q 50/20"
+    ]
+}

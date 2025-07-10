@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2017 022160-8",
+    "filingDate": "12/04/2016",
+    "grantDate": "30/08/2022",
+    "title": "PIN\u00c7A KERRISON DESCART\u00c1VEL",
+    "nationalPhaseDate": [
+        "16/10/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/027060",
+        "pctDate": "12/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/148,315",
+            "priorityDate": "16/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/080,883",
+            "priorityDate": "25/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "JOHN A REDMOND",
+        "MARK T WHITEAKER"
+    ],
+    "holders": [
+        198044
+    ],
+    "ipcCodes": [
+        "A61B 17/16"
+    ]
+}

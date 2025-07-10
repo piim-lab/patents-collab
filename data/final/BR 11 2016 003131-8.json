@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 003131-8",
+    "filingDate": "05/11/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA ENVIAR UMA MENSAGEM DE ALERTA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201410836852.4",
+            "priorityDate": "29/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "CHANGBING CHEN",
+        "HAO CHEN",
+        "ENXING HOU"
+    ],
+    "holders": [
+        140362
+    ],
+    "ipcCodes": [
+        "G05B 15/02"
+    ]
+}

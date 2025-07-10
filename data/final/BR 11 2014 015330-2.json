@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2014 015330-2",
+    "filingDate": "27/11/2012",
+    "grantDate": null,
+    "title": "PROCESSO DE PREPARO DE CATALISADOR UTILIZ\u00c1VEL EM HIDROTRATAMENTO E HIDROCONVERS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1104026",
+            "priorityDate": "22/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "BERTRAND GUICHARD",
+        "LAURENT SIMON",
+        "SYLVIE LOPEZ",
+        "VALENTINA DE GRANDI",
+        "DELPHINE MINOUX",
+        "PIERRE DATH"
+    ],
+    "holders": [
+        139016,
+        32
+    ],
+    "ipcCodes": [
+        "C10G 45/08",
+        "B01J 37/20",
+        "B01J 37/02",
+        "B01J 23/28",
+        "B01J 23/75",
+        "B01J 23/882",
+        "B01J 27/14",
+        "B01J 38/52",
+        "B01J 27/19",
+        "B01J 29/90",
+        "C07C 5/00",
+        "B01J 37/28",
+        "C07C 5/10",
+        "C07C 13/18",
+        "B01J 38/62"
+    ]
+}

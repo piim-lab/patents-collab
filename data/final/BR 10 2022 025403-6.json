@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 025403-6",
+    "filingDate": "12/12/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UM PAPEL OU CART\u00c3O DE EMBALAGEM MULTICAMADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21216080.8",
+            "priorityDate": "20/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "PIOTR KOWALKIEWICZ",
+        "ROBERT RANISZEWSKI",
+        "ELISABETH SCHWAIGER"
+    ],
+    "holders": [
+        77630
+    ],
+    "ipcCodes": [
+        "D21F 11/04",
+        "D21F 9/00",
+        "D21F 1/82"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2018 003220-8",
+    "filingDate": "20/02/2018",
+    "grantDate": null,
+    "title": "UNIDADE DE PRODU\u00c7\u00c3O DE IMPULSO COM PELO MENOS DOIS CONJUNTOS DE ROTORES E UM ENVOLT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17400008.3",
+            "priorityDate": "27/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "UWE KIESEWETTER",
+        "SEBASTIAN MORES",
+        "MARIUS BEBESEL",
+        "RUPERT PFALLER"
+    ],
+    "holders": [
+        31485
+    ],
+    "ipcCodes": [
+        "B64D 27/26",
+        "B64D 47/00",
+        "B64C 27/32",
+        "B64C 39/00",
+        "B64D 27/02",
+        "B64C 27/08"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 004874-0",
+    "filingDate": "12/03/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE COMUTA\u00c7\u00c3O PARA INSTALA\u00c7\u00d5ES DE DISTRIBUI\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17160581.9",
+            "priorityDate": "13/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN REUBER",
+        "LUCIANO DI MAIO",
+        "GABRIELE VALENTINO DE NATALE"
+    ],
+    "holders": [
+        463
+    ],
+    "ipcCodes": [
+        "H01H 33/28",
+        "H01H 33/02",
+        "H02B 11/02"
+    ]
+}

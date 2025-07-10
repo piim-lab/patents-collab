@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2018 001898-4",
+    "filingDate": "20/06/2008",
+    "grantDate": "21/07/2020",
+    "title": "COMPOSI\u00c7\u00c3O PARA CONTROLAR PRAGAS INVERTEBRADAS E COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/937,285",
+            "priorityDate": "26/06/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/06/2008",
+        "applicationNumber": "PI 0810936-2"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "GEORGE PHILIP LAHM",
+        "JEFFREY KEITH LONG",
+        "MING XU"
+    ],
+    "holders": [
+        81593
+    ],
+    "ipcCodes": [
+        "A01N 43/80",
+        "C07D 261/04"
+    ]
+}

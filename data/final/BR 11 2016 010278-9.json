@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2016 010278-9",
+    "filingDate": "12/11/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE AJUSTE DA ABERTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-235061",
+            "priorityDate": "13/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        }
+    ],
+    "inventors": [
+        "TOMOKAZU SEKI",
+        "SHINTARO SUZUKI",
+        "MIHO YARIMIZU"
+    ],
+    "holders": [
+        13977
+    ],
+    "ipcCodes": [
+        "B60J 5/04",
+        "E05C 17/22"
+    ]
+}

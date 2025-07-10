@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2016 028986-6",
+    "filingDate": "09/12/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA EXTRAIR SELETIVAMENTE G\u00c1S HIDROG\u00caNIO DISSOLVIDO EM \u00d3LEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/965,450",
+            "priorityDate": "10/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "JAMES CHRISTOPHER HUNTER",
+        "GRAINNE BLACK"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "G01N 33/28",
+        "B01D 53/22",
+        "B01D 61/00",
+        "B01D 71/40"
+    ]
+}

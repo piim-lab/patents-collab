@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 016071-6",
+    "filingDate": "15/01/2013",
+    "grantDate": null,
+    "title": "LIGA, USO DA LIGA E STENT",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12151650.4",
+            "priorityDate": "18/01/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/633,324",
+            "priorityDate": "09/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "CLEMENS MEYER",
+        "MARK ROSENTRETER"
+    ],
+    "holders": [
+        131506
+    ],
+    "ipcCodes": [
+        "C22C 38/18",
+        "C21D 6/00",
+        "C22C 38/38"
+    ]
+}

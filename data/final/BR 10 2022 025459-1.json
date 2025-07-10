@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 025459-1",
+    "filingDate": "13/12/2022",
+    "grantDate": null,
+    "title": "ACIONADOR DE VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/654,128",
+            "priorityDate": "09/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "RANDALL L LONG",
+        "STACY K WORLEY",
+        "CAYLE D HARMON"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B60K 28/00",
+        "A01C 19/02",
+        "B60W 30/192",
+        "B60W 30/194"
+    ]
+}

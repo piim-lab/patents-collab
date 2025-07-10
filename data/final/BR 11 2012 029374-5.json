@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2012 029374-5",
+    "filingDate": "17/05/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR UM COMPLEXO \u00c1CIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/345,831",
+            "priorityDate": "18/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "SHAWN P ALLWEIN",
+        "ARNAUD GRANDEURY",
+        "GUY PIACENZA",
+        "S\u00c9BASTIEN ROSE"
+    ],
+    "holders": [
+        103392,
+        83117
+    ],
+    "ipcCodes": [
+        "A61K 31/506",
+        "C07D 487/14"
+    ]
+}

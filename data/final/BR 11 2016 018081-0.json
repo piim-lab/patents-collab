@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2016 018081-0",
+    "filingDate": "03/02/2015",
+    "grantDate": null,
+    "title": "APARELHO PARA DISTRIBUI\u00c7\u00c3O DE UM FLUIDO COM PRESS\u00c3O SUBSTANCIALMENTE CONSTANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1400358",
+            "priorityDate": "07/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "SYLVAIN REYNIER",
+        "ARNAUD REYNIER"
+    ],
+    "holders": [
+        115179,
+        115180
+    ],
+    "ipcCodes": [
+        "B05B 11/04"
+    ]
+}

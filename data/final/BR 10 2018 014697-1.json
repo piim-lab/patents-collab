@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 014697-1",
+    "filingDate": "18/07/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE CAME DESLIZANTE E M\u00c9TODO PARA OPERA\u00c7\u00c3O DE UM MOTOR DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017116987.3",
+            "priorityDate": "27/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "S\u00d6REN FRANKE",
+        "THILO KOWALSCHEK",
+        "FABIAN ZEIL",
+        "HEIKO NEUKIRCHNER"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "F01L 13/00",
+        "F02D 13/04",
+        "F01L 1/047",
+        "F01L 1/08"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 070587-3",
+    "filingDate": "05/10/2018",
+    "grantDate": null,
+    "title": "UM ADAPTADOR DE ASSENTO AMORTECIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1751235-1",
+            "priorityDate": "06/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "MIKAEL G\u00c4STRIN",
+        "AGNES AILI"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B60N 2/50",
+        "B60N 2/54"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2013 010660-3",
+    "filingDate": "28/10/2011",
+    "grantDate": "06/10/2020",
+    "title": "DIFERENCIAL DE VE\u00cdCULO DISPARADO ELETRONICAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/409,696",
+            "priorityDate": "03/11/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/283,057",
+            "priorityDate": "27/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "MATTHEW G FOX",
+        "KEITH E MORGENSAI",
+        "ANDREW N EDLER",
+        "PATRICK J MCMILLAN"
+    ],
+    "holders": [
+        4727
+    ],
+    "ipcCodes": [
+        "F16H 48/30"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 016890-3",
+    "filingDate": "21/01/2013",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o e m\u00e9todos para controle de doen\u00e7as de plantas",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-011777",
+            "priorityDate": "24/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "ATSUSHI IWATA",
+        "MAKOTO KURAHASHI"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": [
+        "A01P 3/00",
+        "A01N 43/36",
+        "A01N 37/30",
+        "A01N 43/38"
+    ]
+}

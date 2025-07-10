@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2018 013463-9",
+    "filingDate": "29/06/2018",
+    "grantDate": null,
+    "title": "IM\u00c3 DE TERRA RARA E M\u00c9TODO DE PRODU\u00c7\u00c3O DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-129658",
+            "priorityDate": "30/06/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-014161",
+            "priorityDate": "30/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2773"
+        }
+    ],
+    "inventors": [
+        "NORITSUGU SAKUMA",
+        "TETSUYA SHOJI",
+        "KAZUAKI HAGA",
+        "SATOSHI SUGIMOTO",
+        "MASASHI MATSUURA"
+    ],
+    "holders": [
+        39737,
+        5783
+    ],
+    "ipcCodes": [
+        "H01F 41/02",
+        "H01F 1/057",
+        "H01F 41/00"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 20 2022 002719-1",
+    "filingDate": "14/02/2022",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O CONSTRUTIVA APLICADA EM CAVILHA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "EDUARDO PALUDETO"
+    ],
+    "holders": [
+        366684
+    ],
+    "ipcCodes": [
+        "H01R 4/38",
+        "F16B 35/04"
+    ]
+}

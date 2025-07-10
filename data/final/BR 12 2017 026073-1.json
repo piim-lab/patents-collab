@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 12 2017 026073-1",
+    "filingDate": "31/01/2008",
+    "grantDate": null,
+    "title": "FERRAMENTA DE PERFURA\u00c7\u00c3O SUBTERR\u00c2NEA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/702,810",
+            "priorityDate": "06/02/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/01/2008",
+        "applicationNumber": "PI 0800693-8"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "CYRUS A IRANI",
+        "VICENT P ZELLER",
+        "CHUCK MACPHAIL",
+        "DON H PERKINS"
+    ],
+    "holders": [
+        2701
+    ],
+    "ipcCodes": [
+        "E21B 49/00"
+    ]
+}

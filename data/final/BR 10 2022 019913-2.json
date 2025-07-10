@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 019913-2",
+    "filingDate": "30/09/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E APARELHOS PARA GERAR MODELOS DE CALIBRA\u00c7\u00c3O EM AMBIENTE DE NUVEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/645,702",
+            "priorityDate": "22/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "TERENCE D PICKETT",
+        "PETER SCHADE",
+        "BROUGHTON BOYDELL",
+        "JOHN H STONE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G01N 21/35",
+        "G06N 20/00",
+        "G12B 13/00"
+    ]
+}

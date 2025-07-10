@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 007638-8",
+    "filingDate": "16/04/2020",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE LO\u00c7\u00c3O CAPILAR",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "MICHELSON DOS SANTOS JACINTO"
+    ],
+    "holders": [
+        57923
+    ],
+    "ipcCodes": [
+        "A61Q 5/00",
+        "A61K 8/9789",
+        "A61K 8/9794"
+    ]
+}

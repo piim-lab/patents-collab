@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2017 001946-9",
+    "filingDate": "30/07/2015",
+    "grantDate": null,
+    "title": "RESPOSTA DE OPERADOR DE V\u00c1LVULAS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1413711.1",
+            "priorityDate": "01/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "RICHARD ATHOL BARTON"
+    ],
+    "holders": [
+        107014
+    ],
+    "ipcCodes": [
+        "F16K 37/00"
+    ]
+}

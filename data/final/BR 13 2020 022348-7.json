@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 13 2020 022348-7",
+    "filingDate": "31/10/2020",
+    "grantDate": null,
+    "title": "PROCESSO SSCF MELHORADO PARA PRODU\u00c7\u00c3O DE ETANOL DE SEGUNDA GERA\u00c7\u00c3O A PARTIR DE BIOMASSA LIGNOCELUL\u00d3SICA E BIOMASSA RESIDUAL 2G",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202023044358",
+            "priorityDate": "12/10/2020"
+        }
+    ],
+    "parentApplication": {
+        "filingDate": "12/03/2019",
+        "applicationNumber": "BR 10 2019 004773-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "SHARMA AJAY KUMAR",
+        "SWAIN MANAS RANJAN",
+        "SINGH AJIT",
+        "MATHUR ANSHU SHANKAR",
+        "GUPTA RAVI PRAKASH",
+        "TULI DEEPAK",
+        "PURI SURESH KUMAR",
+        "RAMAKUMAR SANKARA SRI VENKATA"
+    ],
+    "holders": [
+        26252,
+        14502
+    ],
+    "ipcCodes": [
+        "C12N 9/42",
+        "C12R 1/72",
+        "C12P 7/10",
+        "C12R 1/85",
+        "C12R 1/19",
+        "C12R 1/84"
+    ]
+}

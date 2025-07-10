@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 013518-0",
+    "filingDate": "02/12/2014",
+    "grantDate": null,
+    "title": "APARELHOS DE CORTE POR SEGADEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/104,129",
+            "priorityDate": "12/12/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/154,294",
+            "priorityDate": "14/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        }
+    ],
+    "inventors": [
+        "FRANCOIS R TALBOT",
+        "DORY PARSONAGE"
+    ],
+    "holders": [
+        2079
+    ],
+    "ipcCodes": [
+        "A01D 34/17"
+    ]
+}

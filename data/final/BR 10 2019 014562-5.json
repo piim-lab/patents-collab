@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2019 014562-5",
+    "filingDate": "15/07/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO IMPLEMENTADO EM UM PROGRAMA DE COMPUTADOR PARA MONITORAMENTO DA ASSEPSIA DAS M\u00c3OS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "JAMIL RIBEIRO CADE",
+        "VITOR ROBLES FILOMENO",
+        "YVAN PONTES DE FREITAS"
+    ],
+    "holders": [
+        50437
+    ],
+    "ipcCodes": [
+        "G07C 9/00",
+        "A47K 5/12",
+        "G08B 21/24"
+    ]
+}

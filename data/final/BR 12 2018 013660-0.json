@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 12 2018 013660-0",
+    "filingDate": "27/06/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE DADOS DE V\u00cdDEO CONTROLADOS POR UM PROCESSADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/501,974",
+            "priorityDate": "28/06/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/06/2012",
+        "applicationNumber": "BR 11 2013 033699-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        }
+    ],
+    "inventors": [
+        "VADIM SEREGIN",
+        "KOO KIM"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/176",
+        "H04N 19/70",
+        "H04N 19/46",
+        "H04N 19/44",
+        "H04N 19/96",
+        "H04N 19/105",
+        "H04N 19/593",
+        "H04N 19/11",
+        "H04N 19/159",
+        "H04N 19/109",
+        "H04N 19/137"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 023681-0",
+    "filingDate": "21/11/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE LIMPADOR DE PARA-BRISA",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202141053856",
+            "priorityDate": "23/11/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "MUTHUKUMAR MURTHY",
+        "ASHOK KUMAR THIRUNARAYANA",
+        "SRIVIDYA ARYASOMAYAJULA",
+        "ROHINI KUNDANAGAR"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "B60S 1/04"
+    ]
+}

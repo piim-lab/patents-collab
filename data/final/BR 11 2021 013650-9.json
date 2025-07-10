@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2021 013650-9",
+    "filingDate": "03/01/2020",
+    "grantDate": null,
+    "title": "M\u00d3DULO MULTICAMADA DE ALTA POT\u00caNCIA TENDO BAIXA INDUT\u00c2NCIA E COMUTA\u00c7\u00c3O R\u00c1PIDA PARA PARALELIZAR DISPOSITIVOS DE POT\u00caNCIA",
+    "nationalPhaseDate": [
+        "09/07/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/012167",
+        "pctDate": "03/01/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/790,965",
+            "priorityDate": "10/01/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/266,771",
+            "priorityDate": "04/02/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/914,847",
+            "priorityDate": "14/10/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/658,630",
+            "priorityDate": "21/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "1.3.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "MATTHEW FEURTADO",
+        "BRICE MCPHERSON",
+        "DANIEL MARTIN",
+        "ALEXANDER LOSTETTER"
+    ],
+    "holders": [
+        293675
+    ],
+    "ipcCodes": [
+        "H05K 5/00",
+        "H05K 7/14",
+        "H05K 5/02",
+        "H02M 7/00"
+    ]
+}

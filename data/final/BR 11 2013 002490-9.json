@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2013 002490-9",
+    "filingDate": "04/08/2010",
+    "grantDate": null,
+    "title": "\"SISTEMA E M\u00c9TODO PARA A IDENTIFICA\u00c7\u00c3O AUTOM\u00c1TICA DE UM DISPOSITIVO OU APARELHO\".",
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        }
+    ],
+    "inventors": [
+        "CLAUDIO BOREAN",
+        "LEONARDO CLAPS",
+        "GABRIELE ELIA"
+    ],
+    "holders": [
+        86165
+    ],
+    "ipcCodes": [
+        "G01R 21/00",
+        "G01D 4/00"
+    ]
+}

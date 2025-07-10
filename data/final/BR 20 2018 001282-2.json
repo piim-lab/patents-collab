@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 20 2018 001282-2",
+    "filingDate": "22/01/2018",
+    "grantDate": null,
+    "title": "SUPORTE PROTETOR DE ONDAS ELETROMAGN\u00c9TICAS PARA DISPOSITIVOS DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "20170100173",
+            "priorityDate": "23/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "DAVID CABARCOS"
+    ],
+    "holders": [
+        358810
+    ],
+    "ipcCodes": [
+        "A45C 11/00",
+        "H05K 9/00"
+    ]
+}

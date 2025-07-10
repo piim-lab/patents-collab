@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 12 2022 002314-2",
+    "filingDate": "01/06/2012",
+    "grantDate": "17/01/2023",
+    "title": "APARELHO E M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/497,281",
+            "priorityDate": "15/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/503,430",
+            "priorityDate": "30/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/345,320",
+            "priorityDate": "06/01/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/06/2012",
+        "applicationNumber": "BR 10 2012 013367-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "JUN XU"
+    ],
+    "holders": [
+        326
+    ],
+    "ipcCodes": [
+        "H03M 7/40",
+        "H04N 19/176",
+        "H04N 19/70",
+        "H04N 19/61",
+        "H03M 7/30",
+        "H04N 19/91",
+        "H04N 19/50",
+        "H04N 19/124",
+        "H04N 19/184"
+    ]
+}

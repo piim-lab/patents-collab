@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 015579-5",
+    "filingDate": "06/08/2021",
+    "grantDate": null,
+    "title": "PROCESSO E INSTALA\u00c7\u00c3O DE TRATAMENTO DE BIOMASSA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000019738",
+            "priorityDate": "07/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "DANIELE BASSO",
+        "RENATO PAVANETTO",
+        "FLAVIO MANENTI",
+        "KRISTIANO PRIFTI"
+    ],
+    "holders": [
+        69438
+    ],
+    "ipcCodes": [
+        "C10J 3/72",
+        "C10J 3/00",
+        "C02F 11/10",
+        "C10L 5/44",
+        "B09B 3/40"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 000451-7",
+    "filingDate": "10/01/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE TRANSPORTE PARA TELAS DE ENROLAMENTO DE ONDAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18 163 016.1",
+            "priorityDate": "21/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "WOLFGANG L\u00dcTTGE",
+        "REINHARD HERMANN"
+    ],
+    "holders": [
+        41922
+    ],
+    "ipcCodes": [
+        "B65H 18/02",
+        "B21F 3/00",
+        "B21F 1/04",
+        "B21F 27/00"
+    ]
+}

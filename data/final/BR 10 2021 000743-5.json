@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2021 000743-5",
+    "filingDate": "15/01/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ESTIMAR ADER\u00caNCIA DE PNEU",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/966,652",
+            "priorityDate": "28/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "LASSI MIKAEL HARTIKAINEN",
+        "MUSTAFA ALI ARAT",
+        "KANWAR BHARAT SINGH"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "B60C 23/04",
+        "G01M 17/02"
+    ]
+}

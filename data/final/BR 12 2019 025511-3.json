@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2019 025511-3",
+    "filingDate": "13/11/2008",
+    "grantDate": null,
+    "title": "SISTEMA PARA MINIMIZAR UMA QUANTIDADE DE FLUXO DE RESFRIAMENTO E M\u00c9TODO PARA OPERAR O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/002.434",
+            "priorityDate": "17/12/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/11/2008",
+        "applicationNumber": "PI 0819386-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        }
+    ],
+    "inventors": [
+        "ANDREW K JONES"
+    ],
+    "holders": [
+        68231
+    ],
+    "ipcCodes": [
+        "F22B 37/48",
+        "F22B 37/56",
+        "F22B 37/52",
+        "F22B 37/50",
+        "F22B 37/54"
+    ]
+}

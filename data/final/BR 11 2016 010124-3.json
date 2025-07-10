@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 010124-3",
+    "filingDate": "07/11/2014",
+    "grantDate": null,
+    "title": "SISTEMA E PROCESSO DE CONTROLE CONTRA OCLUS\u00c3O DE DISPOSITIVO GERADOR DE N\u00c9VOA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "TO2013A000906",
+            "priorityDate": "08/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "MARCO ZANGIROLAMI",
+        "GIOVANNI BALESTRINI"
+    ],
+    "holders": [
+        164385
+    ],
+    "ipcCodes": [
+        "B05B 15/00",
+        "F41H 9/06"
+    ]
+}

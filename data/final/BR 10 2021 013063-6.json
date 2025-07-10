@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2021 013063-6",
+    "filingDate": "30/06/2021",
+    "grantDate": null,
+    "title": "VE\u00cdCULO MOTORIZADO E M\u00d3DULO DE ACIONAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2020 117 438.1",
+            "priorityDate": "02/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2818"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "HAGEN H\u00d6LSCHER",
+        "ACHIM SCHULZ",
+        "GARY AVERY",
+        "GERHARD SPENGLER",
+        "TOBIAS REICHLE"
+    ],
+    "holders": [
+        19650
+    ],
+    "ipcCodes": [
+        "B60K 7/00",
+        "B60K 17/14"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 013310-7",
+    "filingDate": "04/07/2022",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO PARA DETEC\u00c7\u00c3O DE UM ESTADO DE SA\u00daDE DE PLANTAS PARA UMA M\u00c1QUINA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 207 009.4",
+            "priorityDate": "05/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "JENS KOENIG",
+        "NICOLAS HOUIS"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "G01N 21/17",
+        "G01J 3/28",
+        "G01J 3/51"
+    ]
+}

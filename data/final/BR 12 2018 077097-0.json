@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2018 077097-0",
+    "filingDate": "09/03/2007",
+    "grantDate": null,
+    "title": "USOS DE UM SACAR\u00cdDEO N\u00c3O DIGER\u00cdVEL SOL\u00daVEL EM \u00c1GUA",
+    "divisionalApplication": {
+        "filingDate": "09/03/2007",
+        "applicationNumber": "PI 0708701-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79945
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2016 006175-6",
+    "filingDate": "05/12/2014",
+    "grantDate": null,
+    "title": "SISTEMA PARA A TRANSMISS\u00c3O DE ENERGIA E DADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 020 381.3",
+            "priorityDate": "10/12/2013"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 007 064.6",
+            "priorityDate": "15/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUND",
+        "CLAUS SCH\u00d6PFER"
+    ],
+    "holders": [
+        84079
+    ],
+    "ipcCodes": [
+        "H02J 3/18",
+        "H02J 13/00",
+        "H04B 3/54",
+        "H01F 38/14",
+        "H02H 3/05"
+    ]
+}

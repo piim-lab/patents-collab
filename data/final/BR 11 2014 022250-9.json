@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2014 022250-9",
+    "filingDate": "07/03/2013",
+    "grantDate": "05/01/2021",
+    "title": "PAINEL DE COMP\u00d3SITO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12158814.9",
+            "priorityDate": "09/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "DAVID MICHAEL CUMMINS",
+        "DIETRICH WIENKE",
+        "ROELOF MARISSEN",
+        "KOEN VAN PUTTEN",
+        "JOKE HENDRIX"
+    ],
+    "holders": [
+        16355
+    ],
+    "ipcCodes": [
+        "B32B 5/02",
+        "B32B 27/12",
+        "B32B 27/02",
+        "F41H 5/04"
+    ]
+}

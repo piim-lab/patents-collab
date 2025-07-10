@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2022 009911-1",
+    "filingDate": "20/05/2022",
+    "grantDate": null,
+    "title": "COMPOSTO PARA SUPRESS\u00c3O DE INC\u00caNDIOS E PROCESSO DE OBTEN\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "28.10.1",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante idoso",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2765"
+        }
+    ],
+    "inventors": [
+        "JOSE SEABRA JUNIOR",
+        "RAPHAEL CARDOSO RIBEIRO DE PAIVA"
+    ],
+    "holders": [
+        49515
+    ],
+    "ipcCodes": [
+        "A62C 3/00"
+    ]
+}

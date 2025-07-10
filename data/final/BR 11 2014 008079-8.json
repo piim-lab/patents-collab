@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 008079-8",
+    "filingDate": "03/10/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO  PARA  LOCALIZA\u00c7\u00c3O  DE  FALHAS  EM  FUN\u00c7\u00c3O  INTEGRADA  DE VE\u00cdCULO, FERRAMENTA DE DIAGN\u00d3STICO PARA LOCALIZA\u00c7\u00c3O DE FALHAS EM  FUN\u00c7\u00c3O  INTEGRADA  DE  VE\u00cdCULO,  MEIO  LEG\u00cdVEL  POR  M\u00c1QUINA  QUE EXECUTA TAL M\u00c9TODO E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1150919-7",
+            "priorityDate": "05/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "JOHAN ANEROS",
+        "TONY LINDGREN"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "G01R 31/00",
+        "G01M 17/007",
+        "G07C 5/08",
+        "G01R 31/28"
+    ]
+}

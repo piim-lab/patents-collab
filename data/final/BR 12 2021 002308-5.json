@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2021 002308-5",
+    "filingDate": "27/04/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE AUMENTO DE PRODU\u00c7\u00c3O, BIOMASSA, TAXA DE CRESCIMENTO, E/OU VIGOR DE UMA PLANTA, E, CONSTRUTO DE \u00c1CIDO NUCLEICO ISOLADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/328,692",
+            "priorityDate": "28/04/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/378,003",
+            "priorityDate": "30/08/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/405,260",
+            "priorityDate": "21/10/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/437,715",
+            "priorityDate": "31/01/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/04/2011",
+        "applicationNumber": "BR 11 2012 027504-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "EYAL EMMANUEL",
+        "HAGAI KARCHI"
+    ],
+    "holders": [
+        81747
+    ],
+    "ipcCodes": [
+        "A01H 5/00"
+    ]
+}

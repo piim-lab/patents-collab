@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 20 2018 005979-9",
+    "filingDate": "26/03/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ILUMINA\u00c7\u00c3O DE LED",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201721336686.7",
+            "priorityDate": "17/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "KAI CHEN",
+        "JIANMING HUANG"
+    ],
+    "holders": [
+        146248
+    ],
+    "ipcCodes": [
+        "F21K 9/20"
+    ]
+}

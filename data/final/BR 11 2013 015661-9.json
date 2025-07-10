@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2013 015661-9",
+    "filingDate": "12/12/2011",
+    "grantDate": "17/11/2020",
+    "title": "DISPOSITIVO DE PASSAR ROUPA A VAPOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10196803.0",
+            "priorityDate": "23/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2758"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": []
+}

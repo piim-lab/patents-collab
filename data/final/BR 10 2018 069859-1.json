@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2018 069859-1",
+    "filingDate": "27/09/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE LIMPEZA DE ROLOS, E, M\u00c9TODO PARA LIMPAR ROLOS.",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102017000109013",
+            "priorityDate": "28/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "STEFANO SPEZZANI"
+    ],
+    "holders": [
+        2619
+    ],
+    "ipcCodes": [
+        "B08B 1/04",
+        "B08B 1/00",
+        "B24B 9/00",
+        "B24B 29/08",
+        "B24B 5/37",
+        "B24B 37/02"
+    ]
+}

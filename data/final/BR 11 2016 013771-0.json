@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 013771-0",
+    "filingDate": "15/12/2014",
+    "grantDate": null,
+    "title": "MODELAGEM DE SINAL DE BANDA ELEVADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/916,697",
+            "priorityDate": "16/12/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/568,359",
+            "priorityDate": "12/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        }
+    ],
+    "inventors": [
+        "VENKATESH KRISHNAN",
+        "VENKATRAMAN S ATTI"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G10L 21/0388",
+        "G10L 19/08"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2016 021078-0",
+    "filingDate": "13/09/2016",
+    "grantDate": null,
+    "title": "LINHA PARA PROCESSAMENTO DE AVES",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2015494",
+            "priorityDate": "23/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "VAN STEIJN ALOYSIUS CHRISTIANUS MARIA"
+    ],
+    "holders": [
+        585
+    ],
+    "ipcCodes": [
+        "B65G 17/20"
+    ]
+}

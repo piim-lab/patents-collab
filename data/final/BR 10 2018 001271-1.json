@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2018 001271-1",
+    "filingDate": "22/01/2018",
+    "grantDate": null,
+    "title": "CONJUNTO PARA ACABAMENTO APLICADO EM M\u00d3VEIS",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "ALBERTO AVETTI"
+    ],
+    "holders": [
+        35765
+    ],
+    "ipcCodes": [
+        "A47B 95/02",
+        "A47B 96/00",
+        "A47B 95/00"
+    ]
+}

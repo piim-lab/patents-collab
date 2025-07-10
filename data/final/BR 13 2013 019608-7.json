@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 13 2013 019608-7",
+    "filingDate": "01/08/2013",
+    "grantDate": null,
+    "title": "EQUIPAMENTO DE TRATAMENTO POR ELETROCOAGULA\u00c7\u00c3O DE \u00c1GUA USADA EM LAVAGENS DE AUTOM\u00d3VEIS",
+    "parentApplication": {
+        "filingDate": "07/02/2013",
+        "applicationNumber": "BR 10 2013 003010-4"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "15.10",
+            "description": "Mudan\u00e7a de Natureza",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        5565,
+        5566
+    ],
+    "ipcCodes": []
+}

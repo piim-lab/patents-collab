@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2021 022642-0",
+    "filingDate": "10/11/2021",
+    "grantDate": null,
+    "title": "PRODUTO DE LIGA DE ALUM\u00cdNIO E M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UMA PLACA ESPESSA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/112,294",
+            "priorityDate": "11/11/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/479,211",
+            "priorityDate": "20/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "ZHENGDONG LONG",
+        "PHILIPPE PAUL GOMIERO",
+        "RAVI RASTOGI",
+        "HAOYAN DIAO",
+        "JASON N SCHEURING"
+    ],
+    "holders": [
+        71692
+    ],
+    "ipcCodes": [
+        "C22C 21/10",
+        "C22F 1/053"
+    ]
+}

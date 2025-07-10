@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2017 020130-9",
+    "filingDate": "20/09/2017",
+    "grantDate": null,
+    "title": "PLATAFORMA DOBR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "BE2016/5796",
+            "priorityDate": "21/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "SANDOR VAN VOOREN",
+        "PIETER VAN OVERSCHELDE",
+        "MAARTEN YSEBAERT"
+    ],
+    "holders": [
+        13869
+    ],
+    "ipcCodes": [
+        "A01D 41/14",
+        "A01D 45/02",
+        "A01B 73/04"
+    ]
+}

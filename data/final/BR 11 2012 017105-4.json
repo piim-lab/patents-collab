@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2012 017105-4",
+    "filingDate": "17/12/2010",
+    "grantDate": "24/03/2020",
+    "title": "Sistema para administrar um fluxo de g\u00e1s de respira\u00e7\u00e3o para uma via a\u00e9rea de um paciente",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/294,873",
+            "priorityDate": "14/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2805"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "BENJAMIN IRWIN SHELLY",
+        "MICHAEL THOMAS KANE",
+        "GREGORY DELANO MATTHEWS"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "A61M 16/00"
+    ]
+}

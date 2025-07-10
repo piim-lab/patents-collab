@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2014 008681-1",
+    "filingDate": "10/04/2014",
+    "grantDate": null,
+    "title": "SISTEMA AUTOM\u00c1TICO PARA FIXAR UM SELO E SISTEMA AUTOM\u00c1TICO COMBINADO PARA FIXAR SELOS",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0120149",
+            "priorityDate": "08/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "JEONGYONG KIM"
+    ],
+    "holders": [
+        6887
+    ],
+    "ipcCodes": [
+        "B65C 9/26",
+        "B65C 9/40",
+        "B65C 9/06"
+    ]
+}

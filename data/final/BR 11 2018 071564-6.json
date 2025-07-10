@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2018 071564-6",
+    "filingDate": "22/04/2016",
+    "grantDate": null,
+    "title": "PIV\u00d4 DA ALAVANCA DE CONTROLE",
+    "nationalPhaseDate": [
+        "19/10/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2016/000670",
+        "pctDate": "22/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "PAUL CARRIE"
+    ],
+    "holders": [
+        28880
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "B64D 45/00",
+        "B64C 13/04",
+        "G05G 9/04"
+    ]
+}

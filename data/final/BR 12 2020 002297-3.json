@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2020 002297-3",
+    "filingDate": "17/10/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE COMPOSTOS ATIVOS, M\u00c9TODO PARA CONTROLAR FUNGOS FITOPATOG\u00caNICOS, USO DAS COMPOSI\u00c7\u00d5ES E SEMENTE REVESTIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12356025.2",
+            "priorityDate": "19/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/730,251",
+            "priorityDate": "27/11/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/10/2013",
+        "applicationNumber": "BR 11 2015 008797-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        }
+    ],
+    "inventors": [
+        "PIERRE CRISTAU",
+        "PETER DAHMEN"
+    ],
+    "holders": [
+        79286
+    ],
+    "ipcCodes": [
+        "A01N 57/20",
+        "A01N 43/80",
+        "A01N 43/56"
+    ]
+}

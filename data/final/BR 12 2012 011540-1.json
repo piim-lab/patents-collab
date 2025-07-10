@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 12 2012 011540-1",
+    "filingDate": "28/10/2008",
+    "grantDate": null,
+    "title": "COBERTURA DE RADIADOR DE UMA MOTOCICLETA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2007-281088",
+            "priorityDate": "30/10/2007"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-014258",
+            "priorityDate": "24/01/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/10/2008",
+        "applicationNumber": "PI 0804618-2"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        }
+    ],
+    "inventors": [
+        "KOUJI KURIHARA",
+        "NOBUYUKI MIYOSHI",
+        "SATOSHI KAWAKAMI"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "B62K 11/04"
+    ]
+}

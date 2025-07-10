@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 12 2017 006341-3",
+    "filingDate": "04/08/2008",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O, SEU M\u00c9TODO DE PREPARA\u00c7\u00c3O E SEUS USOS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2007 A 001623",
+            "priorityDate": "03/08/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/08/2008",
+        "applicationNumber": "PI 0814769-8"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "ANDREA PIVA",
+        "MAURIZIO TEDESCHI"
+    ],
+    "holders": [
+        281393
+    ],
+    "ipcCodes": [
+        "A23K 10/00",
+        "A61P 1/00",
+        "A23L 3/3508",
+        "A23K 20/00",
+        "A23K 30/00"
+    ]
+}

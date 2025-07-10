@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2022 017313-6",
+    "filingDate": "27/01/2017",
+    "grantDate": null,
+    "title": "APARELHO DE RASTREAMENTO E M\u00c9TODO DE RASTREAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/289,077",
+            "priorityDate": "29/01/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/416,930",
+            "priorityDate": "26/01/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/01/2017",
+        "applicationNumber": "BR 11 2018 015488-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "JEFFREY A CHAMPA",
+        "KEVIN HAUGH"
+    ],
+    "holders": [
+        13552
+    ],
+    "ipcCodes": [
+        "G06Q 50/30",
+        "G07C 5/02",
+        "G01C 21/14"
+    ]
+}

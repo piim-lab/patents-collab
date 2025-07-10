@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2020 002003-2",
+    "filingDate": "06/04/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FORNECER UM LUBRIFICANTE PARA UMA SUPERF\u00cdCIE DE UM CILINDRO DE LAMINA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-088371",
+            "priorityDate": "07/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/04/2011",
+        "applicationNumber": "BR 11 2012 025589-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "TSUYOSHI INOUE",
+        "YASUYUKI MURAMATSU"
+    ],
+    "holders": [
+        188
+    ],
+    "ipcCodes": [
+        "B05D 3/00",
+        "B05B 12/08",
+        "B21B 27/10"
+    ]
+}

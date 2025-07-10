@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2012 024643-7",
+    "filingDate": "28/03/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO PARA PELETIZA\u00c7\u00c3O DE MATERIAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102010013096.6",
+            "priorityDate": "29/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "JAN LAMPKE",
+        "STEFFEN SILGE",
+        "GUNTHER SCHURIG",
+        "VINCENT DELATOUR",
+        "SANDRA WEYRAUCH"
+    ],
+    "holders": [
+        100073
+    ],
+    "ipcCodes": [
+        "B01J 2/14"
+    ]
+}

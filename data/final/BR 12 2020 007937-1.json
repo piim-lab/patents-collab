@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2020 007937-1",
+    "filingDate": "06/04/2011",
+    "grantDate": "28/09/2021",
+    "title": "SISTEMA DECODIFICADOR PARA PROVER UM SINAL EST\u00c9REO POR CODIFICA\u00c7\u00c3O EST\u00c9REO DE PREDI\u00c7\u00c3O COMPLEXA E M\u00c9TODO DE DECODIFICA\u00c7\u00c3O PARA REALIZAR UMA MISTURA ASCENDENTE DE UM SINAL EST\u00c9REO DE ENTRADA POR CODIFICA\u00c7\u00c3O EST\u00c9REO DE PREDI\u00c7\u00c3O COMPLEXA PARA UM SINAL EST\u00c9REO DE SA\u00cdDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/322,458",
+            "priorityDate": "09/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/04/2011",
+        "applicationNumber": "BR 11 2012 025868-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2769"
+        }
+    ],
+    "inventors": [
+        "HEIKO PURNHAGEN",
+        "PONTUS CARLSSON",
+        "LARS VILLEMOES"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "G10L 19/00"
+    ]
+}

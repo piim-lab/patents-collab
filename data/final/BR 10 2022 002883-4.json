@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 002883-4",
+    "filingDate": "15/02/2022",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA CONTROLAR O MOVIMENTO DE MONTAGEM DA LAN\u00c7A DE UM PULVERIZADOR AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/151,921",
+            "priorityDate": "22/02/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/307,206",
+            "priorityDate": "04/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "JEREMY A AMUNDSON",
+        "JOSE BATZ",
+        "NATHAN BROOKS",
+        "DAVID HAFVENSTEIN"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01M 7/00"
+    ]
+}

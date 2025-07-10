@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2016 023810-2",
+    "filingDate": "13/10/2016",
+    "grantDate": null,
+    "title": "CONJUNTO DE PLATAFORMA DE CORTE DUPLO",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "BE2015/5657",
+            "priorityDate": "14/10/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "MARC RM JONCKHEERE",
+        "KAREL C F PAUWELS",
+        "KOEN TEETAERT",
+        "ERIK VERMOTE"
+    ],
+    "holders": [
+        13869
+    ],
+    "ipcCodes": [
+        "A01D 41/12",
+        "A01D 45/00"
+    ]
+}

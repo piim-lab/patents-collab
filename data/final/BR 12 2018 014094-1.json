@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 12 2018 014094-1",
+    "filingDate": "13/02/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA A PRODU\u00c7\u00c3O DE UMA PLANTA, PARA A MODULA\u00c7\u00c3O DA TOLER\u00c2NCIA \u00c0 SECA E AO CALOR EM UMA PLANTA, PARA A OBTEN\u00c7\u00c3O DE UMA C\u00c9LULA DE PLANTA TRANSG\u00caNICA, PARA A OBTEN\u00c7\u00c3O DE UMA PLANTA TRANSG\u00caNICA, PARA DETERMINAR SE UM POLIMORFISMO EST\u00c1 ASSOCIADO COM A VARIA\u00c7\u00c3O NA TOLER\u00c2NCIA \u00c0 SECA OU TOLER\u00c2NCIA AO CALOR E \u00c1CIDO NUCLEICO ISOLADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/029,048",
+            "priorityDate": "15/02/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/02/2009",
+        "applicationNumber": "PI 0908140-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.2.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "CORY CHRISTENSEN",
+        "WUYI WANG",
+        "DENNIS YANG"
+    ],
+    "holders": [
+        80393
+    ],
+    "ipcCodes": [
+        "C12N 15/29",
+        "A01H 1/00",
+        "C12N 15/63"
+    ]
+}

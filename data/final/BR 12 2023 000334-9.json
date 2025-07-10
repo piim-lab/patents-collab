@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2023 000334-9",
+    "filingDate": "21/07/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO ACOPLADOR PARA UM ENDOSC\u00d3PIO DE VISUALIZA\u00c7\u00c3O LATERAL",
+    "divisionalApplication": {
+        "filingDate": "21/07/2016",
+        "applicationNumber": "BR 11 2018 001188-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        202049
+    ],
+    "ipcCodes": []
+}

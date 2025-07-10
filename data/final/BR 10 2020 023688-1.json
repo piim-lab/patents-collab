@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2020 023688-1",
+    "filingDate": "19/11/2020",
+    "grantDate": null,
+    "title": "PRENDEDOR DE PINO CURVADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/939,316",
+            "priorityDate": "22/11/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/097,546",
+            "priorityDate": "13/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "CIBY JOHN",
+        "KILEEAN E BELL"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": [
+        "B60R 13/02",
+        "F16B 21/07"
+    ]
+}

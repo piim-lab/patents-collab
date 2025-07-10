@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2018 069618-1",
+    "filingDate": "25/09/2018",
+    "grantDate": null,
+    "title": "PROCESSO E SISTEMA PARA REDUZIR AN\u00c9IS EM FORNOS DE CAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/564,087",
+            "priorityDate": "27/09/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/133,365",
+            "priorityDate": "17/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "KIMMO PELTONEN"
+    ],
+    "holders": [
+        3041
+    ],
+    "ipcCodes": [
+        "C04B 2/00",
+        "C04B 2/10",
+        "F27B 7/36"
+    ]
+}

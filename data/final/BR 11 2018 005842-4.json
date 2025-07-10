@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2018 005842-4",
+    "filingDate": "28/09/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O VISCOEL\u00c1STICA",
+    "nationalPhaseDate": [
+        "23/03/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2016/078704",
+        "pctDate": "28/09/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-195105",
+            "priorityDate": "30/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "28.10.12",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia para tratamento de sa\u00fade",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "TOMONORI YANO",
+        "ATSUSHI OHHATA",
+        "TOSHIHIRO GOTO",
+        "YUJI HIRAKI"
+    ],
+    "holders": [
+        104160,
+        96228
+    ],
+    "ipcCodes": [
+        "A61L 31/00"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2021 025776-0",
+    "filingDate": "21/03/2011",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o compreendendo compostos de naftofurano e uso da mesma para tratar c\u00e2ncer",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/315,886",
+            "priorityDate": "19/03/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/315,890",
+            "priorityDate": "19/03/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/325,814",
+            "priorityDate": "19/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/03/2011",
+        "applicationNumber": "BR 11 2012 023661-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "CHIANG JIA LI",
+        "DAVID LEGGETT",
+        "YOUZHI LI",
+        "WEI LI"
+    ],
+    "holders": [
+        99397
+    ],
+    "ipcCodes": [
+        "A61K 31/27"
+    ]
+}

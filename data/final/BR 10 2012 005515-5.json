@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2012 005515-5",
+    "filingDate": "12/03/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PROCESSAMENTO E PRODUTO DE PROGRAMA DE COMPUTADOR N\u00c3O TRANSIT\u00d3RIO ADAPTADO PARA IMPLANTAR UM M\u00c9TODO DE PROCESSAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1104159.7",
+            "priorityDate": "11/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "MICHAEL JAMES KNEE"
+    ],
+    "holders": [
+        750
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "H04N 13/00",
+        "H04N 13/20"
+    ]
+}

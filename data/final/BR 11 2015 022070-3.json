@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2015 022070-3",
+    "filingDate": "29/05/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA TRATAR, REDUZIR A INCID\u00caNCIA DE, E/OU PREVENIR EVENTOS ISQU\u00caMICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/792,056",
+            "priorityDate": "09/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/815,735",
+            "priorityDate": "25/04/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "CLIVE ARTHUR ARCULUS",
+        "SIMONA SKERJANEC",
+        "JAYNE PRATS",
+        "DAVID J SCHNEIDER"
+    ],
+    "holders": [
+        83608
+    ],
+    "ipcCodes": [
+        "A61K 31/7064"
+    ]
+}

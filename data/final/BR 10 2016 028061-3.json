@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2016 028061-3",
+    "filingDate": "29/11/2016",
+    "grantDate": null,
+    "title": "LIGA DE SOLDA E JUNTA DE SOLDA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-233363",
+            "priorityDate": "30/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio negado",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "SHUNSAKU YOSHIKAWA",
+        "HIKARU NOMURA"
+    ],
+    "holders": [
+        26006
+    ],
+    "ipcCodes": [
+        "B23K 35/00",
+        "B23K 35/26"
+    ]
+}

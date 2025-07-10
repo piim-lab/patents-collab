@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 010983-1",
+    "filingDate": "29/05/2019",
+    "grantDate": null,
+    "title": "DETERMINA\u00c7\u00c3O DE DADOS DE PR\u00c9-DISTOR\u00c7\u00c3O PARA UMA PROJE\u00c7\u00c3O E M\u00d3DULO PROJETOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 004 829.3",
+            "priorityDate": "15/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "MARTIN BACHHUBER",
+        "FRANK SCHMID"
+    ],
+    "holders": [
+        11520
+    ],
+    "ipcCodes": [
+        "G02B 27/18",
+        "G01B 11/24",
+        "G01B 11/25",
+        "G01C 11/04"
+    ]
+}

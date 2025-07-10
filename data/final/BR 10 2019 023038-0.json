@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 023038-0",
+    "filingDate": "01/11/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE SUSPENS\u00c3O PARA ESTA\u00c7\u00c3O DE OPERADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/207325",
+            "priorityDate": "03/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "BYRON N MANTERNACH",
+        "WEN TSUNG LIN",
+        "DONALD E YOUNG",
+        "AARON BOOMS",
+        "WILLIAM K RULE",
+        "JADE BENDER",
+        "KIRAN PATIL",
+        "ANTHONY DESALVO",
+        "RYAN PECINOVSKY"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B62D 33/06"
+    ]
+}

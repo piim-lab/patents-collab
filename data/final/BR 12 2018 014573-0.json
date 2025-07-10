@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 12 2018 014573-0",
+    "filingDate": "14/04/2011",
+    "grantDate": "19/11/2024",
+    "title": "M\u00c9TODO PARA  AJUSTAR O PONTO DE OPERA\u00c7\u00c3O DE UM GERADOR DE ONDA DE PRESS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 596/2010",
+            "priorityDate": "14/04/2010"
+        },
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 597/2010",
+            "priorityDate": "14/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/04/2011",
+        "applicationNumber": "BR 11 2012 025885-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2811"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        101088
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2017 016313-6",
+    "filingDate": "15/01/2016",
+    "grantDate": null,
+    "title": "SISTEMAS, DISPOSITIVOS E M\u00c9TODOS PARA COMUNICA\u00c7\u00c3O DE REDE",
+    "nationalPhaseDate": [
+        "28/07/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2016/071049",
+        "pctDate": "15/01/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/610,543",
+            "priorityDate": "30/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE LEROUX",
+        "AARON CALLARD",
+        "NIMAL GAMINI SENARATH",
+        "ALEX STEPHENNE"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 1/16"
+    ]
+}

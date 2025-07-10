@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2020 021857-0",
+    "filingDate": "17/05/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO, UM OU MAIS MEIOS LEG\u00cdVEIS POR M\u00c1QUINA N\u00c3O TRANSIT\u00d3RIOS E APARELHO",
+    "nationalPhaseDate": [
+        "26/10/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/032967",
+        "pctDate": "17/05/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/680,438",
+            "priorityDate": "04/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2790"
+        }
+    ],
+    "inventors": [
+        "PRASHANT SHEKHAR",
+        "GILLIES ALEXANDER MACDONALD",
+        "ABHIJIT KULKARNI"
+    ],
+    "holders": [
+        2701
+    ],
+    "ipcCodes": [
+        "E21B 41/00",
+        "E21B 21/06"
+    ]
+}

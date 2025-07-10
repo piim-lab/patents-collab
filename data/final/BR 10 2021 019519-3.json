@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 019519-3",
+    "filingDate": "29/09/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O, M\u00c9TODO DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O, SISTEMA, E M\u00cdDIA DE ARMAZENAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-167236",
+            "priorityDate": "01/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "TOYOKAZU NAKASHIMA",
+        "TAKAYUKI HATORI",
+        "SHUICHI SAWADA",
+        "DAIKI KUBO",
+        "TOMOKI ISHIKAWA",
+        "NAOYA OKA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06Q 30/06",
+        "G16Y 20/20"
+    ]
+}

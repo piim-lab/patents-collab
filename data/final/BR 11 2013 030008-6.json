@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2013 030008-6",
+    "filingDate": "03/05/2012",
+    "grantDate": null,
+    "title": "IMUNOENSAIO E KIT PARA DETECTAR CLOZAPINA E CONJUGADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/114,252",
+            "priorityDate": "24/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/186,147",
+            "priorityDate": "19/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "SALVATORE J SALAMONE",
+        "JODI BLAKE COURTNEY",
+        "HOWARD SARD",
+        "CHRISTOPHER SPEDALIERE"
+    ],
+    "holders": [
+        127336
+    ],
+    "ipcCodes": [
+        "A61P 25/18",
+        "C12Q 1/00"
+    ]
+}

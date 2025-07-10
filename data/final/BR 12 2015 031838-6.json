@@ -1,0 +1,97 @@
+{
+    "applicationNumber": "BR 12 2015 031838-6",
+    "filingDate": "21/12/2012",
+    "grantDate": null,
+    "title": "MEDIDOR DE FLUXO E SISTEMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/578,649",
+            "priorityDate": "21/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/333,574",
+            "priorityDate": "21/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/578,674",
+            "priorityDate": "21/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/578,658",
+            "priorityDate": "21/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2011/066588",
+            "priorityDate": "21/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/651,322",
+            "priorityDate": "24/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/679,117",
+            "priorityDate": "03/08/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/12/2012",
+        "applicationNumber": "BR 11 2014 015345-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        }
+    ],
+    "inventors": [
+        "DEAN KAMEN",
+        "BOB D PERET",
+        "DEREK G KANE",
+        "BRIAN H YOO",
+        "BRIAN D TRACEY",
+        "MATTHEW J JOHNSON",
+        "THOMAS S SCHNELLINGER",
+        "CHRISTOPHER C LANGENFELD",
+        "RICHARD J LANIGAN",
+        "ROBERT J BRYANT JR",
+        "COLIN H MURPHY",
+        "JOHN M KERWIN",
+        "MICHAEL J SLATE",
+        "FARRUKH USMAN",
+        "KAITLYN S CLARKE"
+    ],
+    "holders": [
+        130218
+    ],
+    "ipcCodes": [
+        "A61M 5/168"
+    ]
+}

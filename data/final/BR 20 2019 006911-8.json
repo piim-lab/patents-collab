@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 20 2019 006911-8",
+    "filingDate": "04/04/2019",
+    "grantDate": null,
+    "title": "AUTOMATIZADOR DE PORT\u00d5ES",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO GOLFARELLI",
+        "LUCA PALMIERI"
+    ],
+    "holders": [
+        60668
+    ],
+    "ipcCodes": [
+        "E05F 15/632"
+    ]
+}

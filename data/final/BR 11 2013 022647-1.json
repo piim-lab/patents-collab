@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2013 022647-1",
+    "filingDate": "09/03/2012",
+    "grantDate": "12/01/2021",
+    "title": "Sistema de separa\u00e7\u00e3o de sangue total automatizado e m\u00e9todo de processamento de sangue total com um circuito de separa\u00e7\u00e3o de sangue",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/451,903",
+            "priorityDate": "11/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/537,856",
+            "priorityDate": "22/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/538,558",
+            "priorityDate": "23/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/550,516",
+            "priorityDate": "24/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "BENJAMIN E KUSTERS",
+        "CHRISTOPHER J WEGENER",
+        "DANIEL R BOGGS",
+        "KYUNGYOON MIN"
+    ],
+    "holders": [
+        110734
+    ],
+    "ipcCodes": [
+        "B01D 33/06",
+        "B01D 63/16"
+    ]
+}

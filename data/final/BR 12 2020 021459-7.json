@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 021459-7",
+    "filingDate": "08/06/2016",
+    "grantDate": null,
+    "title": "APARELHO DE CONDU\u00c7\u00c3O MAGN\u00c9TICA COM CORRENTE APLICADA, E, M\u00c9TODO PARA CONDUZIR METAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/173,097",
+            "priorityDate": "09/06/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/06/2016",
+        "applicationNumber": "BR 11 2017 026362-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "MICHAEL KOSMICKI",
+        "MICHAEL BOMMARITO",
+        "DAVID ANTHONY GAENSBAUER",
+        "ROBERT BRUCE WAGSTAFF",
+        "DAVID MICHAEL CUSTERS"
+    ],
+    "holders": [
+        83506
+    ],
+    "ipcCodes": [
+        "H01F 7/02",
+        "H02N 15/00",
+        "B21C 47/34"
+    ]
+}

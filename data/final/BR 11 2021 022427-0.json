@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2021 022427-0",
+    "filingDate": "14/05/2020",
+    "grantDate": null,
+    "title": "INTERFACE DE CONEX\u00c3O MEC\u00c2NICA",
+    "nationalPhaseDate": [
+        "08/11/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/032871",
+        "pctDate": "14/05/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/849,760",
+            "priorityDate": "17/05/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/891,749",
+            "priorityDate": "26/08/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/929,532",
+            "priorityDate": "01/11/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/961,044",
+            "priorityDate": "14/01/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/003,996",
+            "priorityDate": "02/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "YU LU",
+        "RYAN KOSTECKA",
+        "ERIK J GRONVALL"
+    ],
+    "holders": [
+        91920
+    ],
+    "ipcCodes": [
+        "G02B 6/38"
+    ]
+}

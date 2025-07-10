@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2015 002609-5",
+    "filingDate": "29/07/2013",
+    "grantDate": null,
+    "title": "CARBAMATOS, PROCESSO PARA SUA PREPARA\u00c7\u00c3O E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/684,159",
+            "priorityDate": "17/08/2012"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12180823.2",
+            "priorityDate": "17/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "MAXIMILIAN DOCHNAHL",
+        "BERND WOLF",
+        "JOACHIM GEBHARDT",
+        "MICHAEL RACK",
+        "ROLAND G\u00d6TZ",
+        "TIMO FRASSETTO",
+        "UWE JOSEF VOGELBACHER",
+        "VOLKER MAYWALD"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C07C 275/60"
+    ]
+}

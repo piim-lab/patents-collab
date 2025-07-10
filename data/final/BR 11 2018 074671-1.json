@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2018 074671-1",
+    "filingDate": "24/05/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA FORMAR UM FEIXE DE TRANSMISS\u00c3O, E, MEIO LEG\u00cdVEL POR COMPUTADOR.",
+    "nationalPhaseDate": [
+        "29/11/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT GB2017/051452",
+        "pctDate": "24/05/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1609729.7",
+            "priorityDate": "03/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "GARY ROY MOORE"
+    ],
+    "holders": [
+        109937
+    ],
+    "ipcCodes": [
+        "G01S 7/524",
+        "G01S 7/52",
+        "G10K 11/34"
+    ]
+}

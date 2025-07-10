@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2018 014501-3",
+    "filingDate": "31/08/2007",
+    "grantDate": null,
+    "title": "PROCESSO E APARELHO PARA REDUZIR A INFLU\u00caNCIA DE UM COMPONENTE DE CC EM UMA CORRENTE DE CARGA DE UM MOTOR EL\u00c9TRICO TRIF\u00c1SICO ASS\u00cdNCRONO",
+    "divisionalApplication": {
+        "filingDate": "31/08/2007",
+        "applicationNumber": "PI 0716799-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "DANIEL KLING",
+        "GUNNAR JOHANSSON"
+    ],
+    "holders": [
+        106665
+    ],
+    "ipcCodes": [
+        "H02M 1/08",
+        "H02M 5/257",
+        "H02P 1/28",
+        "G05F 1/455"
+    ]
+}

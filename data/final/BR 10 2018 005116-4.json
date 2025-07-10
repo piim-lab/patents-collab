@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 005116-4",
+    "filingDate": "14/03/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DOBRAMENTO PARA UM SISTEMA DE SUBSTITUI\u00c7\u00c3O DE ESPELHOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017002578.9",
+            "priorityDate": "16/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "HANS ROHRM\u00dcLLER",
+        "ERICH SCH\u00d6NEGGER",
+        "MARC SCHIPPLING"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "B60R 1/06",
+        "B60R 11/04"
+    ]
+}

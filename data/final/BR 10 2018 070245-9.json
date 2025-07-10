@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 070245-9",
+    "filingDate": "01/10/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVOS DE CONTROLE DE FLUXO DE AR DE PASSAGEIRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/719,966",
+            "priorityDate": "29/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "FERNANDA LOTH PUGLIESI",
+        "CASSIO KARASAWA ZARONI",
+        "JAY BEEVER",
+        "BRUNO KIMURA CASTANHA"
+    ],
+    "holders": [
+        572
+    ],
+    "ipcCodes": [
+        "B64D 13/00",
+        "B60H 1/34"
+    ]
+}

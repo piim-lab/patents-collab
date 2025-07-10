@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2016 029109-3",
+    "filingDate": "05/06/2015",
+    "grantDate": null,
+    "title": "MONTAGEM DE RESFRIAMENTO SUBMARINO",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20140733",
+            "priorityDate": "11/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "STEIN F\u00d8LKNER"
+    ],
+    "holders": [
+        80194
+    ],
+    "ipcCodes": [
+        "H05K 7/14",
+        "H05K 7/20"
+    ]
+}

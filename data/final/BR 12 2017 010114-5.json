@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2017 010114-5",
+    "filingDate": "18/05/2007",
+    "grantDate": "06/11/2018",
+    "title": "MICRO-ORGANISMO RECOMBINANTE E M\u00c9TODO DE PRODU\u00c7\u00c3O DE UM \u00c9STER DE \u00c1CIDO GRAXO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/802,016",
+            "priorityDate": "19/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/801,995",
+            "priorityDate": "19/05/2006"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2007/003736",
+            "priorityDate": "13/02/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/908,547",
+            "priorityDate": "28/03/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/05/2007",
+        "applicationNumber": "PI 0712205-5"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2564"
+        }
+    ],
+    "inventors": [
+        "JAY D KEASLING",
+        "ZHIHAO HU",
+        "CHRIS SOMERVILLE",
+        "GEORGE CHURCH",
+        "DAVID BERRY",
+        "LISA FRIEDMAN",
+        "ANDREAS SCHIRMER",
+        "SHANE BRUBAKER",
+        "STEPHEN B DEL CARDAYR\u00c9"
+    ],
+    "holders": [
+        85450
+    ],
+    "ipcCodes": [
+        "C12N 9/02",
+        "C12N 1/20",
+        "C12P 7/04",
+        "C10L 1/10",
+        "C12P 7/64",
+        "C12N 9/10"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "applicationNumber": "BR 12 2020 017131-6",
+    "filingDate": "30/01/2009",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES DE MATRIZ EXTRACELULAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/024,854",
+            "priorityDate": "30/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/034,361",
+            "priorityDate": "06/03/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/050,940",
+            "priorityDate": "06/05/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/01/2009",
+        "applicationNumber": "PI 0906972-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "GAIL K NAUGHTON",
+        "FRANK ZEIGLER",
+        "MARK BAUMGARTNER",
+        "KYLE NICKEY",
+        "GAIL K NAUGHTON",
+        "FRANK ZIEGLER",
+        "MARK BAUMGARTNER",
+        "KYLE NICKEY"
+    ],
+    "holders": [
+        79723
+    ],
+    "ipcCodes": [
+        "C12N 5/077",
+        "C12N 5/071"
+    ]
+}

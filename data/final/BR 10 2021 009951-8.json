@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 009951-8",
+    "filingDate": "21/05/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA PRESSURIZAR UM FLUIDO, E, M\u00c9TODO PARA OPERAR UMA TRANSMISS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/911,507",
+            "priorityDate": "25/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "MICHAEL J CLIFF",
+        "BENJAMIN K DOLLINS"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G06F 17/00",
+        "B60K 17/00"
+    ]
+}

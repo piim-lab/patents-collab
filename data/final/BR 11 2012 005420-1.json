@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2012 005420-1",
+    "filingDate": "09/09/2010",
+    "grantDate": null,
+    "title": "INSERTO PARA PE\u00c7A DE BATERIA",
+    "nationalPhaseDate": [
+        "09/03/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AT2010/000322",
+        "pctDate": "09/09/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 1422/2009",
+            "priorityDate": "10/09/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "NORMAN NEUHOLD",
+        "NIKOLAUS CHORINSKY"
+    ],
+    "holders": [
+        84305,
+        84306
+    ],
+    "ipcCodes": [
+        "H01M 2/10",
+        "H01M 2/20",
+        "H01M 2/34",
+        "H01M 2/30",
+        "H01M 2/06"
+    ]
+}

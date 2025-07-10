@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2015 016446-3",
+    "filingDate": "18/12/2013",
+    "grantDate": null,
+    "title": "Processo para preparar compostos de f\u00f3rmula ii, solu\u00e7\u00e3o aquosa e uso da solu\u00e7\u00e3o aquosa",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13150663.6",
+            "priorityDate": "09/01/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13195331.7",
+            "priorityDate": "02/12/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13196978.4",
+            "priorityDate": "12/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "THOMAS ZIERKE",
+        "JOACHIM GEBHARDT",
+        "PETER SCHAEFER",
+        "UWE JOSEF VOGELBACHER",
+        "MICHAEL RACK",
+        "JAN KLAAS LOHMANN"
+    ],
+    "holders": [
+        20426
+    ],
+    "ipcCodes": [
+        "C07D 249/08",
+        "C07D 249/04",
+        "C07D 301/02",
+        "C07D 303/23"
+    ]
+}

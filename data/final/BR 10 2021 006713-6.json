@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 006713-6",
+    "filingDate": "08/04/2021",
+    "grantDate": null,
+    "title": "ISOLANTE DE ENERGIA EL\u00c9TRICA DE SOBRECARGA QUE INCLUI DISPOSITIVO DE MEDI\u00c7\u00c3O DE CORRENTE DE FUGA QUE POSSUI VIDA DE BATERIA PROLONGADA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "20 03829",
+            "priorityDate": "16/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "EMMANUEL BROCARD",
+        "FABRICE MESPLES",
+        "PHILIPPE CARTERON"
+    ],
+    "holders": [
+        66779
+    ],
+    "ipcCodes": [
+        "G01R 31/52"
+    ]
+}

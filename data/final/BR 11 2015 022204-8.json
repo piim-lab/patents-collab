@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2015 022204-8",
+    "filingDate": "26/02/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FORMA\u00c7\u00c3O DE UM COMPONENTE EL\u00c9TRICO PARA UMA C\u00c9LULA FOTOVOLTAICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/798,123",
+            "priorityDate": "13/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/079,540",
+            "priorityDate": "13/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "27.1",
+            "description": "Notifica\u00e7\u00e3o de Solicita\u00e7\u00e3o para Participa\u00e7\u00e3o no Programa de Patentes Verdes",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "27.2",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "STEVE BABAYAN",
+        "ROBERT BRAINARD",
+        "ARVIND CHARI",
+        "ALEJANDRO DE LA FUENTE VORNBROCK",
+        "VENKATESAN MURALI",
+        "GOPAL PRABHU",
+        "ARTHUR RUDIN",
+        "VENKATESWARAN SUBBARAMAN",
+        "DAVID TANNER",
+        "DONG XU"
+    ],
+    "holders": [
+        161809
+    ],
+    "ipcCodes": [
+        "H01L 31/18",
+        "H01L 31/04"
+    ]
+}

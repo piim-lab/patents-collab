@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 000190-9",
+    "filingDate": "06/01/2021",
+    "grantDate": null,
+    "title": "ACOPLAMENTO, E, PROCESSO PARA PRODUZIR UM ACOPLAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2000253",
+            "priorityDate": "13/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "AUR\u00c9LIEN DAMOUR",
+        "CHRISTIAN GEERTSEN"
+    ],
+    "holders": [
+        2405
+    ],
+    "ipcCodes": [
+        "F16L 13/02",
+        "F16L 13/11"
+    ]
+}

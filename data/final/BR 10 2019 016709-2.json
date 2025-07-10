@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2019 016709-2",
+    "filingDate": "12/08/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE ACIONAMENTO DE ENTINTAMENTO OU QUEIMA DE C\u00c9DULAS ATIVO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "DANILO DE ALMEIDA FERRAZ"
+    ],
+    "holders": [
+        2594
+    ],
+    "ipcCodes": [
+        "G07F 19/00",
+        "E05G 1/14"
+    ]
+}

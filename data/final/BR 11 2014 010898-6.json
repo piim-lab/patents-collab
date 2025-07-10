@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2014 010898-6",
+    "filingDate": "05/11/2012",
+    "grantDate": null,
+    "title": "APARELHO DE CODIFICA\u00c7\u00c3O DE IMAGEM, M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE IMAGEM, APARELHO DE DECODIFICA\u00c7\u00c3O DE IMAGEM E M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-243940",
+            "priorityDate": "07/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "KOJI OKAWA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "H04N 19/91",
+        "H04N 19/124",
+        "H04N 19/436",
+        "H04N 19/119",
+        "H04N 19/196"
+    ]
+}

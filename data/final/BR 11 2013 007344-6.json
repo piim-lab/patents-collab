@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2013 007344-6",
+    "filingDate": "23/09/2011",
+    "grantDate": null,
+    "title": "BOMBA CENTRIFUGA",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 1613/2010",
+            "priorityDate": "27/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "LUDWIG MICHAL",
+        "LORENZO BERGAMINI",
+        "DONATO ANTONIO RIPA",
+        "FABRIZIO MILONE",
+        "PATRICK HAUCK",
+        "JOACHIM SCHULLERER",
+        "AXEL SCHUNK",
+        "DAVID KRILL",
+        "FRED BR\u00dcCKMANN",
+        "FEDERICO DI SANTO",
+        "MATTIA LIBONI",
+        "CARLO PREARO",
+        "MICHEL GRIMM",
+        "NICOLAS FAVRE",
+        "HAGEN RENGER"
+    ],
+    "holders": [
+        93320,
+        140385,
+        122654,
+        12135
+    ],
+    "ipcCodes": [
+        "F04D 29/22"
+    ]
+}

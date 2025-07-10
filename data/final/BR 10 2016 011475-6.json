@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2016 011475-6",
+    "filingDate": "20/05/2016",
+    "grantDate": null,
+    "title": "SISTEMA EXAMINADOR DE ROTA E M\u00c9TODO PARA EXAMINAR UMA ROTA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/165,007",
+            "priorityDate": "21/05/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/047,083",
+            "priorityDate": "18/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "BRETT ALEXANDER MATTHEWS",
+        "GREGORY BOVERMAN",
+        "YURI ALEXEYEVICH PLOTNIKOV",
+        "FREDERICK WILSON WHEELER",
+        "MAJID NAYERI",
+        "JEFFREY MICHAEL FRIES"
+    ],
+    "holders": [
+        12441
+    ],
+    "ipcCodes": [
+        "B61L 3/00",
+        "G01P 3/66"
+    ]
+}

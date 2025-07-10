@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2019 016404-2",
+    "filingDate": "08/08/2019",
+    "grantDate": null,
+    "title": "ESTEIRA DE ROLETES DE CARGA A\u00c9REA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/100,459",
+            "priorityDate": "10/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2805"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "WILLIAM R CLOS",
+        "DARRIN M NOE"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G01G 19/00",
+        "B64D 9/00",
+        "G01G 3/12"
+    ]
+}

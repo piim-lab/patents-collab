@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 070769-8",
+    "filingDate": "09/10/2018",
+    "grantDate": null,
+    "title": "ELEMENTO DE PLACA DE A\u00c7O E M\u00c9TODO DE PRODUZIR O ELEMENTO DE PLACA DE A\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-197562",
+            "priorityDate": "11/10/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-085085",
+            "priorityDate": "26/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [
+        "TOMOAKI IHARA",
+        "SATOSHI YAMAZAKI",
+        "SHINOBU OKUMA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "C21D 9/46",
+        "C21D 1/18"
+    ]
+}

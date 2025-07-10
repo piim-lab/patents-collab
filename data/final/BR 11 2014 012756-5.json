@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 012756-5",
+    "filingDate": "28/11/2012",
+    "grantDate": null,
+    "title": "A\u00c7O BIF\u00c1SICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/629,757",
+            "priorityDate": "28/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        }
+    ],
+    "inventors": [
+        "HYUN JO JUN",
+        "NARAYAN S POTTORE",
+        "NINA MICHAILOVNA FONSTEIN"
+    ],
+    "holders": [
+        137224,
+        83738,
+        137222,
+        137223
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C22C 38/02",
+        "C22C 38/06",
+        "C22C 38/04"
+    ]
+}

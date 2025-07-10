@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 027627-7",
+    "filingDate": "06/05/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONTAGEM DE UM AR\u00cdETE DE ATUA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "12 54175",
+            "priorityDate": "07/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "SYLVAIN CHAUVEL"
+    ],
+    "holders": [
+        79254
+    ],
+    "ipcCodes": [
+        "F02C 6/08",
+        "F02C 9/18"
+    ]
+}

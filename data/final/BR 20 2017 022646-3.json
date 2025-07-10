@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 20 2017 022646-3",
+    "filingDate": "20/10/2017",
+    "grantDate": null,
+    "title": "PLACA DE APOIO DE SUPORTE PARA UMA MOLA EM UMA SUSPENS\u00c3O DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102016000106303",
+            "priorityDate": "21/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "WALTER BRUNO",
+        "PIERO ANTONIO CONTI",
+        "GIORDANO GRECO"
+    ],
+    "holders": [
+        33819
+    ],
+    "ipcCodes": [
+        "B60G 13/08"
+    ]
+}

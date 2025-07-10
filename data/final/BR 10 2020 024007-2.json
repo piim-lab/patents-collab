@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2020 024007-2",
+    "filingDate": "25/11/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE GERENCIAMENTO DE EMBARCA\u00c7\u00d5ES",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "GUILHERME MARIN"
+    ],
+    "holders": [
+        63572
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G08B 23/00",
+        "G05B 19/042",
+        "G05B 23/02",
+        "H04W 88/02",
+        "G08B 25/10",
+        "G01F 23/18"
+    ]
+}

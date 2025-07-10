@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 074092-0",
+    "filingDate": "23/11/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE AUTOPROVIS\u00c3O, SISTEMA PARA ACESSOS E PRODUTO DE PROGRAMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP17382808.8",
+            "priorityDate": "30/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "MARIA L GARCIA OSMA",
+        "ALFONSO AURELIO CARRILLO ASPIAZU",
+        "CARLOS RALLI UCENDO",
+        "DANIEL VELASCO BENITO"
+    ],
+    "holders": [
+        12617
+    ],
+    "ipcCodes": [
+        "H04L 12/24",
+        "H04B 10/2575",
+        "G06F 9/34"
+    ]
+}

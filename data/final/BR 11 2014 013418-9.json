@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2014 013418-9",
+    "filingDate": "09/11/2012",
+    "grantDate": "29/12/2020",
+    "title": "DESCARREGADOR DE SURTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102011088072.0",
+            "priorityDate": "09/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "INGO GOTTSCHALK",
+        "ERHARD PIPPERT",
+        "DIRK SPRINGBORN",
+        "MARKUS SULITZE"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H01C 7/12"
+    ]
+}

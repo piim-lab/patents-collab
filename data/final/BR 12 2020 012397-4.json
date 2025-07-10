@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 12 2020 012397-4",
+    "filingDate": "13/04/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DECODIFICAR V\u00cdDEO USANDO DESBLOQUEIO POR FILTRAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "61/323,449",
+            "priorityDate": "13/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/04/2011",
+        "applicationNumber": "BR 11 2012 026191-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "HYE MIN",
+        "JIN HAN",
+        "KOO KIM",
+        "SU CHEON",
+        "ELENA ALSHINA",
+        "ALEXANDER ALSHIN",
+        "IL LEE",
+        "NIKOLAY SHLYAKHOV",
+        "TAMMY LEE",
+        "JIANLE CHEN",
+        "VADIM SEREGIN",
+        "MI HONG"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/61",
+        "H04N 19/96",
+        "H04N 19/139",
+        "H04N 19/117",
+        "H04N 19/82",
+        "H04N 19/86",
+        "H04N 19/119",
+        "H04N 19/147",
+        "H04N 19/159"
+    ]
+}

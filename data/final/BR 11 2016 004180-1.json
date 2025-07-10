@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2016 004180-1",
+    "filingDate": "21/08/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA ADMINISTRA\u00c7\u00c3O DE MEDICAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1350995-5",
+            "priorityDate": "29/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "STEFAN L\u00d6\u00d6F",
+        "STEFAN MOR\u00c9N",
+        "ALASTAIR WILLOUGHBY",
+        "BRAD HOWARTH",
+        "IAN ANDERSON",
+        "RACHEL KOPPELMAN",
+        "MICHAEL HARMS",
+        "STEFFEN RAAB",
+        "DOMINIC GEORGE WEBBER",
+        "JAMES ROBERT HOWARTH",
+        "TREVOR JOHN BECKETT",
+        "GEOFFREY PHILIP GRAY",
+        "JOHN DAVID CROSS"
+    ],
+    "holders": [
+        79307,
+        104341,
+        134903
+    ],
+    "ipcCodes": [
+        "A61M 5/315",
+        "A61M 5/24"
+    ]
+}

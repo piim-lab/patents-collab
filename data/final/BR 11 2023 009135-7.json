@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2023 009135-7",
+    "filingDate": "01/11/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO AC\u00daSTICO DE LOCALIZA\u00c7\u00c3O, COMUNICA\u00c7\u00c3O E GERENCIAMENTO DO TIPO \"MUITOS-PARA-MUITOS",
+    "nationalPhaseDate": [
+        "12/05/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IL2021/051288",
+        "pctDate": "01/11/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IL",
+            "priorityNumber": "279076",
+            "priorityDate": "29/11/2020"
+        },
+        {
+            "countryCode": "IL",
+            "priorityNumber": "283637",
+            "priorityDate": "24/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2810"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "EREZ SHARON",
+        "SLAVA KANDIBA",
+        "NOAM FRENKEL",
+        "HEN PINTO"
+    ],
+    "holders": [
+        96000
+    ],
+    "ipcCodes": [
+        "G01C 21/00",
+        "H04W 64/00",
+        "H04R 29/00",
+        "G01S 5/00"
+    ]
+}

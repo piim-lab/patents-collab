@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2012 018288-9",
+    "filingDate": "17/01/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE TRATAMENTO E DESTOXIFICA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "23/07/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AT2011/000028",
+        "pctDate": "17/01/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 88/2010",
+            "priorityDate": "22/01/2010"
+        },
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 211/2010",
+            "priorityDate": "12/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "MANFRED HACKL",
+        "KLAUS FEICHTINGER",
+        "GERHARD WENDELIN",
+        "GEORG WEIGERSTORFER",
+        "JAMES DONALDSON"
+    ],
+    "holders": [
+        95003
+    ],
+    "ipcCodes": [
+        "B29B 17/04",
+        "C08J 11/06"
+    ]
+}

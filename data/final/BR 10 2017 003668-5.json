@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2017 003668-5",
+    "filingDate": "22/02/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA OPERAR UMA REDE DE SUPRIMENTO DE ENERGIA AUT\u00d4NOMA.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16158006.3",
+            "priorityDate": "01/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "WIEBKE FR\u00d6HNER",
+        "MARKUS REISCHB\u00d6CK",
+        "THOMAS WERNER"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H02J 3/06"
+    ]
+}

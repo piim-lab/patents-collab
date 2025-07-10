@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 12 2019 004903-3",
+    "filingDate": "21/07/2005",
+    "grantDate": null,
+    "title": "C\u00c9LULA HOSPEDEIRA EUCARI\u00d3TICA GENETICAMENTE MODIFICADA E M\u00c9TODO PARA AUMENTAR A PRODU\u00c7\u00c3O DE ISOPRENOIDES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/592,009",
+            "priorityDate": "27/07/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/07/2005",
+        "applicationNumber": "PI 0513837-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "JAY D KEASLING",
+        "ERIC M PARADISE",
+        "JAMES KIRBY"
+    ],
+    "holders": [
+        23919
+    ],
+    "ipcCodes": [
+        "C12N 15/63",
+        "C12N 5/10",
+        "C12N 15/31",
+        "C12N 1/15",
+        "C12N 15/12",
+        "C12N 15/64",
+        "C12N 15/10",
+        "C12N 1/16",
+        "C12N 1/18"
+    ]
+}

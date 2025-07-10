@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2015 009524-0",
+    "filingDate": "30/09/2014",
+    "grantDate": "18/01/2022",
+    "title": "M\u00c9TODO DE PREPARA\u00c7\u00c3O DE UM SEPARADOR PARA UMA BATERIA SECUND\u00c1RIA DE L\u00cdTIO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0116745",
+            "priorityDate": "30/09/2013"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2014-0130571",
+            "priorityDate": "29/09/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "SUNG LEE",
+        "MI JIN",
+        "KYUNG HAN",
+        "EUN KIM",
+        "RYUN KA"
+    ],
+    "holders": [
+        1960
+    ],
+    "ipcCodes": [
+        "H01M 10/052",
+        "H01M 2/14",
+        "H01M 2/16"
+    ]
+}

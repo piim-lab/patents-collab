@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2016 025915-7",
+    "filingDate": "04/07/2016",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA CONTROLE E AUDITORIA DE APLICA\u00c7\u00c3O DE PRODUTOS QU\u00cdMICOS FEITA POR VE\u00cdCULOS",
+    "events": [
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        182306
+    ],
+    "ipcCodes": []
+}

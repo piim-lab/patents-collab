@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2019 015871-5",
+    "filingDate": "05/01/2018",
+    "grantDate": null,
+    "title": "AGENTE DE REVESTIMENTO E USO DO MESMO",
+    "nationalPhaseDate": [
+        "31/07/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2018/050256",
+        "pctDate": "05/01/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 001 234.2",
+            "priorityDate": "03/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "ANNETTE KOHLER",
+        "CHRISTA LEHRER"
+    ],
+    "holders": [
+        130933
+    ],
+    "ipcCodes": [
+        "C09D 7/63",
+        "B43K 19/14",
+        "C09D 5/00",
+        "A45D 40/20",
+        "C09D 101/18",
+        "C09D 101/00",
+        "B43K 23/00"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2017 002327-3",
+    "filingDate": "03/02/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PROCESSAMENTO DE FLUXO DE DADOS",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "RICARDO GOMES CLEMENTE",
+        "HUBERT \u00c1UREO CERQUEIRA LIMA DA FONSECA",
+        "JUAN PEDRO ALVES LOPES"
+    ],
+    "holders": [
+        27632
+    ],
+    "ipcCodes": [
+        "G06F 1/32",
+        "G06F 17/30",
+        "G06F 9/50",
+        "G06F 12/08"
+    ]
+}

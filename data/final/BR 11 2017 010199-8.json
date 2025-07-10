@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 010199-8",
+    "filingDate": "19/11/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE INSTALA\u00c7\u00c3O DE UMA LINHA FLEX\u00cdVEL E LINHA FLEX\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "14 61248",
+            "priorityDate": "20/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "HENRI MORAND",
+        "FRED LAAF",
+        "ROMAIN RIVET",
+        "PAUL FERRAZ"
+    ],
+    "holders": [
+        13885
+    ],
+    "ipcCodes": [
+        "F16L 11/08",
+        "F16L 33/01",
+        "F16L 11/20"
+    ]
+}

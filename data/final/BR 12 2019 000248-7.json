@@ -1,0 +1,87 @@
+{
+    "applicationNumber": "BR 12 2019 000248-7",
+    "filingDate": "22/03/2005",
+    "grantDate": "22/04/2020",
+    "title": "REAGENTE DE LIGADOR DE PR\u00d3-F\u00c1RMACO DE CASCATA POLIM\u00c9RICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04 075892.2",
+            "priorityDate": "23/03/2004"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "04 15043.9",
+            "priorityDate": "05/07/2004"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "04 019293.2",
+            "priorityDate": "13/08/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/03/2005",
+        "applicationNumber": "PI 0507875-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "ULRICH HERSEL",
+        "HARALD RAU",
+        "THOMAS WEGGE",
+        "DIRK VETTER",
+        "ROBERT SCHNEPF"
+    ],
+    "holders": [
+        351399
+    ],
+    "ipcCodes": [
+        "C07D 207/46",
+        "C07K 14/00",
+        "C07D 401/12",
+        "A61K 47/69",
+        "C07K 14/61",
+        "A61K 47/58",
+        "A61K 47/60",
+        "C07K 14/62",
+        "C07C 69/96",
+        "A61K 47/61",
+        "A61K 47/64"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2022 002024-4",
+    "filingDate": "12/06/2020",
+    "grantDate": null,
+    "title": "MULTIPLEXA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O DE CONTROLE DE UPLINK (UCI) DE CONCESS\u00c3O CONFIGURADA PARA NOVA R\u00c1DIO-N\u00c3O LICENCIADA (NR-U)",
+    "nationalPhaseDate": [
+        "02/02/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/037575",
+        "pctDate": "12/06/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201941032730",
+            "priorityDate": "13/08/2019"
+        },
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201941034600",
+            "priorityDate": "28/08/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/899,506",
+            "priorityDate": "11/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "KAPIL BHATTAD",
+        "ANANTA NARAYANAN THYAGARAJAN",
+        "JING SUN",
+        "XIAOXIA ZHANG",
+        "MOSTAFA KHOSHNEVISAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/18",
+        "H04L 1/16"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2013 001610-8",
+    "filingDate": "27/07/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PREPARAR GRAXAS.",
+    "nationalPhaseDate": [
+        "22/01/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2011/045602",
+        "pctDate": "27/07/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/847,072",
+            "priorityDate": "30/07/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/073,793",
+            "priorityDate": "28/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "DAVID S LEE",
+        "SUSAN M ABERNATHY"
+    ],
+    "holders": [
+        18515
+    ],
+    "ipcCodes": [
+        "C10M 169/04",
+        "C10M 133/04",
+        "C10M 171/00",
+        "C10M 133/00",
+        "C10M 133/26"
+    ]
+}

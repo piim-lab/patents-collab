@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2016 008105-6",
+    "filingDate": "21/05/2014",
+    "grantDate": null,
+    "title": "PROCESSOS PARA DETERMINAR PROPRIEDADES DE UM TECIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/077,808",
+            "priorityDate": "12/11/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/077,992",
+            "priorityDate": "12/11/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/283,530",
+            "priorityDate": "21/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "DANIEL H SZE"
+    ],
+    "holders": [
+        113466
+    ],
+    "ipcCodes": [
+        "G01L 1/00",
+        "G06T 7/00",
+        "D21G 9/00",
+        "D21F 11/00"
+    ]
+}

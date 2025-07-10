@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2016 010347-9",
+    "filingDate": "06/05/2016",
+    "grantDate": null,
+    "title": "EMBREAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102015208450.7",
+            "priorityDate": "06/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "TIAGO PERES BATALHA",
+        "RUDONIEL CORREA CURY"
+    ],
+    "holders": [
+        22878
+    ],
+    "ipcCodes": [
+        "F16D 27/02",
+        "F16D 27/10"
+    ]
+}

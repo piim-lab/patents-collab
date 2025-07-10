@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2022 014486-9",
+    "filingDate": "21/07/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE EMULSIFICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/325,764",
+            "priorityDate": "31/03/2022"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/342,848",
+            "priorityDate": "17/05/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "EDWIN EARL KING",
+        "MICHAEL E BURNS",
+        "EDWIN EARL KING",
+        "MICHAEL E BURNS"
+    ],
+    "holders": [
+        76361
+    ],
+    "ipcCodes": [
+        "B01F 15/00",
+        "B01F 7/18",
+        "B22D 11/00",
+        "B01F 13/08",
+        "B22D 1/00",
+        "B01F 7/22"
+    ]
+}

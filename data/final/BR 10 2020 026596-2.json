@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 026596-2",
+    "filingDate": "23/12/2020",
+    "grantDate": null,
+    "title": "GUINDASTE COM LAN\u00c7A ARTICULADA, PARA APLICA\u00c7\u00c3O OFFSHORE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1915585",
+            "priorityDate": "24/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "KARAMOKO KONATE",
+        "MARC ERDIMELIAN"
+    ],
+    "holders": [
+        14604
+    ],
+    "ipcCodes": [
+        "B66C 23/18",
+        "B66C 23/62",
+        "B66C 23/68",
+        "B66C 23/64",
+        "B66C 23/82",
+        "B66C 23/683"
+    ]
+}

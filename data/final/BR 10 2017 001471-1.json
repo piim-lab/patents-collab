@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2017 001471-1",
+    "filingDate": "24/01/2017",
+    "grantDate": null,
+    "title": "CORPO AERODIN\u00c2MICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/043,152",
+            "priorityDate": "12/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "HENRY J KOPPELMAN",
+        "MICHAEL K KLEIN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 29/00"
+    ]
+}

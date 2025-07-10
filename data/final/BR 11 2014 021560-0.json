@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2014 021560-0",
+    "filingDate": "21/02/2013",
+    "grantDate": null,
+    "title": "Dispositivo de resgate para resgate em \u00e1gua",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P 201200204",
+            "priorityDate": "01/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "ANTONIO JAVIER BARRERO L\u00d3PEZ",
+        "JOS\u00c9 ALBERTO BARRERO L\u00d3PEZ",
+        "IVAN GARC\u00cdA ARENILLA",
+        "FLORENCIO BARRERO L\u00d3PEZ"
+    ],
+    "holders": [
+        142784,
+        142781,
+        142782,
+        142783
+    ],
+    "ipcCodes": [
+        "B63C 9/08",
+        "B63C 9/26"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2017 009487-8",
+    "filingDate": "05/11/2015",
+    "grantDate": "22/02/2022",
+    "title": "BRA\u00c7O ATUADOR DESTAC\u00c1VEL PARA DISPOSITIVOS DISTRATORES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/075,538",
+            "priorityDate": "05/11/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/933,494",
+            "priorityDate": "05/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "THOMAS S JOHNSTON JR",
+        "KLAUS KOHLER"
+    ],
+    "holders": [
+        190424,
+        14171
+    ],
+    "ipcCodes": [
+        "A61B 17/66",
+        "A61B 17/60"
+    ]
+}

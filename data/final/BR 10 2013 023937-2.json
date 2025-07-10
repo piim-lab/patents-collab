@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2013 023937-2",
+    "filingDate": "18/09/2013",
+    "grantDate": "03/12/2019",
+    "title": "DISPOSITIVO DE CORTE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 108 835.7",
+            "priorityDate": "19/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN F\u00dcCHTLING",
+        "CHRISTIAN F\u00dcCHTLING",
+        "KATSUMI OKOUCHI",
+        "ZHI XING ZHANG",
+        "HAO WEI MEI",
+        "C\u00c9SAR CARRASCO"
+    ],
+    "holders": [
+        960,
+        130505,
+        1211
+    ],
+    "ipcCodes": [
+        "B26D 7/01",
+        "B26D 7/26",
+        "B26D 1/547",
+        "B26D 7/08",
+        "B26D 5/08",
+        "B26D 1/45"
+    ]
+}

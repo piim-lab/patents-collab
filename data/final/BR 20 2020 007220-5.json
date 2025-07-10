@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 20 2020 007220-5",
+    "filingDate": "10/04/2020",
+    "grantDate": null,
+    "title": "RECIPIENTE DE DESCARTE DE RES\u00cdDUOS COM SISTEMA DE IDENTIFICA\u00c7\u00c3O E RASTREAMENTO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "28.10.11",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia verde",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "130",
+            "description": "Recurso Prejudicado",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        74173
+    ],
+    "ipcCodes": []
+}

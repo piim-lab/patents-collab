@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 003290-4",
+    "filingDate": "21/02/2022",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA PURGAR BOCAIS DE PULVERIZADOR AGR\u00cdCOLA COM BASE NA PRESS\u00c3O DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/151,921",
+            "priorityDate": "22/02/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/236,299",
+            "priorityDate": "21/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "NATHAN BROOKS",
+        "SCOTT ALLEN LONG",
+        "MITCHELL SANDEY"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01M 7/00"
+    ]
+}

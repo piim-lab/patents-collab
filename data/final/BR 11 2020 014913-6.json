@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2020 014913-6",
+    "filingDate": "22/01/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA USO DE C\u00c9LULAS T CAR",
+    "nationalPhaseDate": [
+        "22/07/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/014478",
+        "pctDate": "22/01/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/620,414",
+            "priorityDate": "22/01/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/620,706",
+            "priorityDate": "23/01/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/656,233",
+            "priorityDate": "11/04/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/724,171",
+            "priorityDate": "29/08/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/735,627",
+            "priorityDate": "24/09/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/736,727",
+            "priorityDate": "26/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [
+        "MICHAEL C JENSEN",
+        "JAMES MATTHAEI",
+        "PHILIP S LOW",
+        "HAIYAN CHU",
+        "YINGJUAN J LU",
+        "CHRISTOPHER P LEAMON",
+        "LEROY W WHEELER II"
+    ],
+    "holders": [
+        151028
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C12N 15/62",
+        "C07K 14/725",
+        "C07K 14/705",
+        "A61K 35/17"
+    ]
+}

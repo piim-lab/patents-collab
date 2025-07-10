@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "BR 11 2016 000243-1",
+    "filingDate": "10/07/2014",
+    "grantDate": "02/08/2022",
+    "title": "Sistema de seguran\u00e7a de mercadoria e m\u00e9todo para proteger item de mercadoria de roubo",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/845,392",
+            "priorityDate": "12/07/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/891,061",
+            "priorityDate": "15/10/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/902,900",
+            "priorityDate": "12/11/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/904,479",
+            "priorityDate": "15/11/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/924,321",
+            "priorityDate": "07/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/973,314",
+            "priorityDate": "01/04/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "GARY A TAYLOR",
+        "JEFFREY A GRANT",
+        "DAVID N BERGLUND"
+    ],
+    "holders": [
+        109542
+    ],
+    "ipcCodes": [
+        "E05B 15/16",
+        "E05B 47/00",
+        "E05B 73/00"
+    ]
+}

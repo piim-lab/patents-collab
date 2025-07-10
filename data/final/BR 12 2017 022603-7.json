@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2017 022603-7",
+    "filingDate": "20/10/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA MOVER UMA FERRAMENTA AUXILIAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/893,833",
+            "priorityDate": "21/10/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/10/2014",
+        "applicationNumber": "BR 11 2016 008626-0"
+    },
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "ROD CLARKE",
+        "RYAN J CARPENTER",
+        "CHRISTOPHER M CARPENTER",
+        "ERIC L BEWLEY",
+        "TAYLOR M FINLEY",
+        "JOSEPH E BLOMBERG",
+        "NOAH COWGILL"
+    ],
+    "holders": [
+        124482
+    ],
+    "ipcCodes": [
+        "E02F 5/02",
+        "E02F 5/14"
+    ]
+}

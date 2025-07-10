@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 12 2020 003206-5",
+    "filingDate": "29/01/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODOS DE PREPARO, M\u00c9TODO DE PURIFICA\u00c7\u00c3O, E COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/933,636",
+            "priorityDate": "30/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/025,161",
+            "priorityDate": "16/07/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/01/2015",
+        "applicationNumber": "BR 11 2016 017776-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "ANTONIO CHRISTIAN FERRETTI",
+        "WAH MAN",
+        "JALE MUSLEHIDDINOGLU",
+        "JEAN XU",
+        "KELVIN HIN",
+        "MARIE GEORGES BEAUCHAMPS",
+        "MOHIT ATUL KOTHARE",
+        "NANFEI ZHOU",
+        "NATHAN ANDREW BOERSEN",
+        "YING LI",
+        "ROBERT HILGRAF",
+        "MARK A NAGY",
+        "DAOZHONG ZOU",
+        "LIANFENG HUANG"
+    ],
+    "holders": [
+        88493
+    ],
+    "ipcCodes": [
+        "A61K 31/505"
+    ]
+}

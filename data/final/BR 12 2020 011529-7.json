@@ -1,0 +1,113 @@
+{
+    "applicationNumber": "BR 12 2020 011529-7",
+    "filingDate": "11/02/2015",
+    "grantDate": null,
+    "title": "APARELHO PARA A LIBERA\u00c7\u00c3O DE AGENTE TERAP\u00caUTICO EM UM OLHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/938,956",
+            "priorityDate": "12/02/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/049,089",
+            "priorityDate": "11/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/049,056",
+            "priorityDate": "11/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/049,100",
+            "priorityDate": "11/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/049,128",
+            "priorityDate": "11/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/104,295",
+            "priorityDate": "16/01/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/619,256",
+            "priorityDate": "11/02/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/02/2015",
+        "applicationNumber": "BR 11 2016 018570-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "BRENDAN J OBERKIRCHER",
+        "DANIEL W PRICE",
+        "MICHAEL F KEANE",
+        "SAEED SOKHANVAR",
+        "DANIEL J YASEVAC",
+        "MICHEL G BRUEHWILER",
+        "LEAH R SOFFER",
+        "ISAAC J KHAN",
+        "BENJAMIN L KO",
+        "CHRISTOPHER D RIEMANN",
+        "NATHAN D GRUBBS"
+    ],
+    "holders": [
+        178548
+    ],
+    "ipcCodes": [
+        "A61F 9/00"
+    ]
+}

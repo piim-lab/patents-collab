@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 11 2017 001690-7",
+    "filingDate": "22/07/2015",
+    "grantDate": null,
+    "title": "SISTEMA DE EMBALAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/029,679",
+            "priorityDate": "28/07/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/112,338",
+            "priorityDate": "05/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/150,360",
+            "priorityDate": "21/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/170,732",
+            "priorityDate": "04/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "STEPHEN F COMPTON",
+        "HUBERT J COOK",
+        "ANDREW B CARROUTH",
+        "JOE MILTON BOWEN",
+        "CSABA FRANK KISS",
+        "DAVID L ACKERMAN",
+        "STEVEN T CALVERT",
+        "TIMOTHY G CAUDLE",
+        "ANDREW W MOEHLENBROCK",
+        "H DEAN CONNER"
+    ],
+    "holders": [
+        186243
+    ],
+    "ipcCodes": [
+        "B05C 17/005",
+        "B05C 17/01",
+        "B65D 47/10"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2014 024849-4",
+    "filingDate": "26/02/2013",
+    "grantDate": "14/02/2023",
+    "title": "ARMAZENAMENTO EM BUFFER DE V\u00cdDEO DE BAIXO RETARDO EM CODIFICA\u00c7\u00c3O DE V\u00cdDEO",
+    "nationalPhaseDate": [
+        "03/10/2014"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2013/027815",
+        "pctDate": "26/02/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/620,266",
+            "priorityDate": "04/04/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/641,063",
+            "priorityDate": "01/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/776,140",
+            "priorityDate": "25/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2791"
+        }
+    ],
+    "inventors": [
+        "KUI WANG",
+        "YING CHEN",
+        "KUI WANG",
+        "YING CHEN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04N 19/70",
+        "H04N 19/46",
+        "H04N 19/44"
+    ]
+}

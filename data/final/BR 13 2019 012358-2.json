@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 13 2019 012358-2",
+    "filingDate": "17/06/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO E PROCESSO DE GERENCIAMENTO DE OPERA\u00c7\u00d5ES DE VE\u00cdCULOS",
+    "parentApplication": {
+        "filingDate": "08/09/2016",
+        "applicationNumber": "BR 10 2016 020708-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "RENAN SIGNOR",
+        "FELIPE LIMA FOLIATTI DA SILVA"
+    ],
+    "holders": [
+        352581
+    ],
+    "ipcCodes": [
+        "G07C 5/00",
+        "G08G 1/00",
+        "G08G 1/127",
+        "G07B 13/04"
+    ]
+}

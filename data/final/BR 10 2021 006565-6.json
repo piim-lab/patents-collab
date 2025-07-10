@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 006565-6",
+    "filingDate": "06/04/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE ACABAMENTO DE ESTRADAS E M\u00c9TODO PARA OPERAR A MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20168635.9",
+            "priorityDate": "08/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUSCHMANN",
+        "RALF WEISER"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48"
+    ]
+}

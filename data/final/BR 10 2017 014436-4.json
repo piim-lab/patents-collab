@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2017 014436-4",
+    "filingDate": "03/07/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE ELABORA\u00c7\u00c3O DE PR\u00d3TESES",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2765"
+        }
+    ],
+    "inventors": [
+        "EMERSON GALVES MORETTO",
+        "NEIDE PENA COTO",
+        "MARCELO KNORICH ZUFFO",
+        "REINALDO BRITO E DIAS"
+    ],
+    "holders": [
+        222
+    ],
+    "ipcCodes": [
+        "A61F 2/50",
+        "B29C 64/171",
+        "B29C 64/386"
+    ]
+}

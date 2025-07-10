@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 12 2020 012115-7",
+    "filingDate": "12/07/2017",
+    "grantDate": null,
+    "title": "APARELHO DE DOIS EST\u00c1GIOS PARA EXTRA\u00c7\u00c3O AUTOM\u00c1TICA DE \u00d3LEO DA CASCA DE TODA A FRUTA C\u00cdTRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/493,950",
+            "priorityDate": "21/07/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/602,357",
+            "priorityDate": "19/04/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/07/2017",
+        "applicationNumber": "BR 11 2018 074694-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "ROGER WATERS",
+        "CARLOS VALENTIN GALLO",
+        "SANTIAGO MANUEL SOSA",
+        "VICTOR FRANCISCO ONCHI NAVARRO"
+    ],
+    "holders": [
+        219613
+    ],
+    "ipcCodes": [
+        "C11B 1/10",
+        "A47J 19/02",
+        "A23L 1/222"
+    ]
+}

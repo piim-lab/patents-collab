@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 003417-6",
+    "filingDate": "23/02/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AUTENTICAR UM DISPOSITIVO, DISPOSITIVO HABILITADO PARA COMUNICA\u00c7\u00c3O, E, REDE DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21160205.7",
+            "priorityDate": "02/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "ANDREJ G\u00d6RBING",
+        "JONAS HURRELMANN"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H04L 9/32"
+    ]
+}

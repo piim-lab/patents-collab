@@ -1,0 +1,91 @@
+{
+    "applicationNumber": "BR 11 2012 019012-1",
+    "filingDate": "23/01/2011",
+    "grantDate": null,
+    "title": "FERRAMENTA DE CORTE",
+    "priorityClaims": [
+        {
+            "countryCode": "IL",
+            "priorityNumber": "204009",
+            "priorityDate": "17/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "GIL HECHT",
+        "GRIGORI NEIMAN",
+        "LEONID AMSTIBOVITSKY",
+        "MOHAMMAD ALI TAGHIPOUR KHADRBEIK",
+        "GIL HECHT",
+        "SHIMON SHITRIT",
+        "HANOCH GUY",
+        "GIL HECHT",
+        "TAKAHIKO MAKINO",
+        "GIL HECHT",
+        "SHAY AVRAHAMI",
+        "LEIF \u00c5KESSON",
+        "ANDERS STENBERG",
+        "JOHAN MADERUD",
+        "SUSANNE NORGREN",
+        "ELIAS FORSSBECK NYROT",
+        "ANDREAS BLOMQVIST",
+        "JOS\u00c9 LU\u00cdS GARCIA",
+        "ERIK HOLMSTR\u00d6N",
+        "MICHAEL STEINKOGLER",
+        "WILHELM KLAUS KUBIN",
+        "PAUL ARMAND DION",
+        "JOHN THOMAS CARON",
+        "GIL HECHT",
+        "WILLARD E HENDERER",
+        "STEPHEN M GEORGE",
+        "STEVEN R BURNS",
+        "SADAYUKI AKAKI",
+        "PAUL MATTEUCCI",
+        "DENNIS QUINTO",
+        "CHRISTIAN WOHLRAB",
+        "J\u00dcRGEN RAMM",
+        "AMIR SATRAN",
+        "ALEXANDER KOIFMAN",
+        "ALEXANDER BRONSHTEYN",
+        "ALEXANDER BRONSHTEYN",
+        "ALEXANDER KOIFMAN",
+        "AMIR SATRAN"
+    ],
+    "holders": [
+        14404,
+        82039,
+        372198,
+        387147,
+        9548,
+        391147,
+        98675,
+        339286,
+        105527,
+        279259,
+        83582
+    ],
+    "ipcCodes": [
+        "B23C 5/24"
+    ]
+}

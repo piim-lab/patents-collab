@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2012 017299-9",
+    "filingDate": "10/01/2011",
+    "grantDate": null,
+    "title": "SISTEMA PARA REALIZA\u00c7\u00c3O DE SERVI\u00c7OS REMOTOS PARA UMA T\u00c9CNICA DE INSTALA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 000 824.9",
+            "priorityDate": "12/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "THOMAS BALINT",
+        "J\u00d6RG BAUER",
+        "JAN KISSLING"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04L 12/46"
+    ]
+}

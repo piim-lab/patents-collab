@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 11 2013 020378-1",
+    "filingDate": "10/02/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PRECAU\u00c7\u00c3O DE MEDI\u00c7\u00c3O DE RSRQ DE UE PARA COORDENA\u00c7\u00c3O DE INTERFER\u00caNCIA",
+    "nationalPhaseDate": [
+        "09/08/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2012/071018",
+        "pctDate": "10/02/2012",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/441,744",
+            "priorityDate": "11/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/370,498",
+            "priorityDate": "10/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "15.9",
+            "description": "Perda de Prioridade",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "15.32",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "PER JOHAN MIKAEL JOHANSSON",
+        "WILLIAM PLUMB",
+        "SHEN CHEN"
+    ],
+    "holders": [
+        100543
+    ],
+    "ipcCodes": [
+        "H04L 1/20"
+    ]
+}

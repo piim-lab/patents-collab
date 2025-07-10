@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 075954-0",
+    "filingDate": "27/08/2018",
+    "grantDate": null,
+    "title": "APARELHO DE AN\u00c1LISE DE PART\u00cdCULAS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-178409",
+            "priorityDate": "15/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "KATSUTOSHI OGUMO"
+    ],
+    "holders": [
+        40016
+    ],
+    "ipcCodes": [
+        "G01N 15/10",
+        "G01N 15/00"
+    ]
+}

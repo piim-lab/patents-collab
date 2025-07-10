@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2013 005411-5",
+    "filingDate": "09/08/2011",
+    "grantDate": "10/12/2019",
+    "title": "PIN\u00c7A DO TIPO PINO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10 2010 0088175",
+            "priorityDate": "09/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "YOUNG CHO"
+    ],
+    "holders": [
+        82555
+    ],
+    "ipcCodes": [
+        "B65G 47/90",
+        "B25J 15/00",
+        "B65H 3/22"
+    ]
+}

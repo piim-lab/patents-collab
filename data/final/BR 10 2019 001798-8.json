@@ -1,0 +1,106 @@
+{
+    "applicationNumber": "BR 10 2019 001798-8",
+    "filingDate": "29/01/2019",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/624,287",
+            "priorityDate": "31/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "JOHN J RABASCO",
+        "DUANE R ROMER",
+        "JOEY W STORER",
+        "ANTONY K VAN DYK",
+        "WENQIN WANG",
+        "MARK LANGILLE",
+        "JESSICA LEVIN",
+        "ANTONINA NIKITENKO",
+        "MATTHEW PINNOW",
+        "AMITABH BANSAL",
+        "CHRISTIANE GERKE",
+        "LAURA BARTLE MARTIN",
+        "ALLAN JAMES SAUL",
+        "LIANG CHEN",
+        "YUNSHEN CHEN",
+        "JOY A GALLAGHER",
+        "FANWEN ZENG",
+        "KJELL OLMARKER",
+        "LIANG CHEN",
+        "YUNSHEN CHEN",
+        "XIANG QIAN LIU",
+        "MICHAEL T PETR",
+        "JODI A THOMAS",
+        "FANWEN ZENG",
+        "YONGFU LI",
+        "TIRTHA CHATTERJEE",
+        "PUSPENDU DEO",
+        "MARK W BEACH",
+        "MATTHEW LARIVE",
+        "DEV BARPANDA",
+        "DOGAN SAHIN SIVASLIGIL",
+        "STEPHANE BILTRESSE",
+        "SCOTT BACKER",
+        "JAMES H PAWLOW",
+        "MUHUNTHAN SATHIOSATHAM",
+        "ERIC P WASSERMAN",
+        "SHUHEI NAGAOKA",
+        "YUICHI FUJIMORI",
+        "TOMOHARU HAYAMA",
+        "YUICHI NEGISHI",
+        "WATARU KURASHIGE",
+        "ATSUYA HARASAWA",
+        "NOBUYUKI SHIMIZU"
+    ],
+    "holders": [
+        84897,
+        12231,
+        1101,
+        83854,
+        242030,
+        93075,
+        79284,
+        179897,
+        85017,
+        606
+    ],
+    "ipcCodes": [
+        "B01J 37/08",
+        "B01J 35/04",
+        "B01J 35/02",
+        "B01J 37/02",
+        "B01J 35/00",
+        "B01J 23/42",
+        "B01J 21/04"
+    ]
+}

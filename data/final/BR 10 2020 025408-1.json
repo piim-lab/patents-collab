@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 025408-1",
+    "filingDate": "11/12/2020",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O E M\u00c9TODO DE AQUECIMENTO DE UMA PLACA EST\u00c1TICA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/714064",
+            "priorityDate": "13/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER N REID",
+        "NATHAN ALLAN HOFFMANN",
+        "WILLIAM B KRUEGER",
+        "BRIAN ALAN GILKISON",
+        "ROBERT J JOHNSON"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "B64D 43/00",
+        "G01L 19/06"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2022 004083-7",
+    "filingDate": "06/01/2015",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO DE PROCESSAMENTO DE \u00c1UDIO, E, MEIO DE ARMAZENAMENTO N\u00c3O TRANSIT\u00d3RIO LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-005656",
+            "priorityDate": "16/01/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/01/2015",
+        "applicationNumber": "BR 11 2016 015971-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        }
+    ],
+    "inventors": [
+        "MINORU TSUJI",
+        "TORU CHINEN"
+    ],
+    "holders": [
+        326
+    ],
+    "ipcCodes": [
+        "H04R 3/00",
+        "H04R 1/40",
+        "H04S 5/02"
+    ]
+}

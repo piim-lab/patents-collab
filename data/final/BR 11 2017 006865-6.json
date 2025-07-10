@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 11 2017 006865-6",
+    "filingDate": "05/10/2015",
+    "grantDate": null,
+    "title": "VACINA CONTRA HIV-1 COMPREENDENDO UM OU MAIS ANT\u00cdGENOS EPISSENSO DE POPULA\u00c7\u00c3O, USO DA MESMA PARA PROTEGER UM INDIV\u00cdDUO DE UMA INFEC\u00c7\u00c3O POR HIV-1 OU PARA TRATAR HIV-1 E POLIPEPT\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/059,497",
+            "priorityDate": "03/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/059,506",
+            "priorityDate": "03/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "ERIC BRUENING",
+        "KLAUS FRUEH",
+        "LOUIS PICKER",
+        "BETTE T M KORBER",
+        "JAMES THEILER",
+        "EMILY MARSHALL"
+    ],
+    "holders": [
+        188969,
+        188970,
+        86591
+    ],
+    "ipcCodes": [
+        "A61P 31/18",
+        "A61K 39/21"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2022 006267-2",
+    "filingDate": "01/10/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRATAR HIV COM CABOTEGRAVIR E RILPIVIRINA",
+    "nationalPhaseDate": [
+        "31/03/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2020/059185",
+        "pctDate": "01/10/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/908,882",
+            "priorityDate": "01/10/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/908,995",
+            "priorityDate": "01/10/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/037,782",
+            "priorityDate": "11/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/052,214",
+            "priorityDate": "15/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "HERTA MARIA LUDOVICA CRAUWELS",
+        "SUSAN L FORD",
+        "DAVID ANDREW MARGOLIS",
+        "STEFAAN LOUIS F ROSSENU",
+        "WILLIAM ROBERT SPREEN",
+        "RODICA MIHAELA VAN SOLINGEN",
+        "PETER EVAN OWEN WILLIAMS"
+    ],
+    "holders": [
+        95857,
+        231409
+    ],
+    "ipcCodes": [
+        "A61P 31/18",
+        "A61K 31/4985",
+        "A61K 9/00",
+        "A61K 31/505"
+    ]
+}

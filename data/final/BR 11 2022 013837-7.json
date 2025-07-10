@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2022 013837-7",
+    "filingDate": "21/01/2021",
+    "grantDate": null,
+    "title": "NANOPART\u00cdCULAS LIP\u00cdDICAS",
+    "nationalPhaseDate": [
+        "12/07/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2021/051290",
+        "pctDate": "21/01/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20152938.5",
+            "priorityDate": "21/01/2020"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20152995.5",
+            "priorityDate": "21/01/2020"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20179434.4",
+            "priorityDate": "11/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "STEFAAN DE KOKER",
+        "SANNE BEVERS",
+        "RAYMOND MICHEL SCHIFFELERS",
+        "SANDER ALEXANDER ANTONIUS KOOIJMANS",
+        "SANNE BEVERS",
+        "STEFAAN DE KOKER",
+        "RAYMOND MICHEL SCHIFFELERS",
+        "SANDER ALEXANDER ANTONIUS KOOIJMANS"
+    ],
+    "holders": [
+        293205,
+        72774
+    ],
+    "ipcCodes": [
+        "A61K 9/51",
+        "A61K 47/14",
+        "A61K 9/127",
+        "A61K 38/00",
+        "A61K 39/00",
+        "A61K 9/00",
+        "A61K 47/24"
+    ]
+}

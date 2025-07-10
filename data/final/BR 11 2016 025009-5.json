@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "BR 11 2016 025009-5",
+    "filingDate": "20/05/2015",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o farmac\u00eautica compreendendo anticorpo ou fragmento de liga\u00e7\u00e3o ao ant\u00edgeno do mesmo que se liga especificamente \u00e0 prote\u00edna spike do MERS-COV e seu uso",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/002,233",
+            "priorityDate": "23/05/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/004,971",
+            "priorityDate": "30/05/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/051,717",
+            "priorityDate": "17/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/072,716",
+            "priorityDate": "30/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "28.10.13",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia solicitada pelo Minist\u00e9rio da Sa\u00fade",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "28.32",
+            "description": "Tr\u00e2mite priorit\u00e1rio por solicita\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade admitido",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "CHRISTOS KYRATSOUS",
+        "NEIL STAHL",
+        "SUMATHI SIVAPALASINGAM"
+    ],
+    "holders": [
+        81137
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "A61K 39/215",
+        "C07K 16/08"
+    ]
+}

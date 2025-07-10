@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2012 028882-2",
+    "filingDate": "11/05/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MELHORAR A OPERA\u00c7\u00c3O DE UMA C\u00c9LULA ELETROL\u00cdTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/104,086",
+            "priorityDate": "10/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        }
+    ],
+    "inventors": [
+        "HENRY W SCHUSSLER",
+        "DAVID R BUSH",
+        "CRAIC LONG"
+    ],
+    "holders": [
+        103026
+    ],
+    "ipcCodes": [
+        "C25B 15/00",
+        "C25B 13/08",
+        "C25B 1/46"
+    ]
+}

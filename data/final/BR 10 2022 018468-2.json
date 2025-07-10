@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2022 018468-2",
+    "filingDate": "15/09/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE TAXA DE COMPRESS\u00c3O VARI\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-161719",
+            "priorityDate": "30/09/2021"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-166512",
+            "priorityDate": "08/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "MASAKI CHO",
+        "MASAFUMI TAKI",
+        "NORIAKI OKANO",
+        "KENGO TOMIZAWA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "F01B 9/02"
+    ]
+}

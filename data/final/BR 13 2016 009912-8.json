@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 13 2016 009912-8",
+    "filingDate": "03/05/2016",
+    "grantDate": null,
+    "title": "APERFEI\u00c7OAMENTO INTRODUZIDO EM CAL\u00c7ADO",
+    "parentApplication": {
+        "filingDate": "12/05/2015",
+        "applicationNumber": "BR 10 2015 010822-2"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "11.17",
+            "description": "Arquivamento do pedido de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o \u2013 Art. 77 da LPI",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "11.20",
+            "description": "Manuten\u00e7\u00e3o do arquivamento",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "ROBERTO STIEFELMANN",
+        "MARCIO JOSE FERMO",
+        "CARLOS ROBERTO POHLMANN AGNE JUNIOR"
+    ],
+    "holders": [
+        364861,
+        352447
+    ],
+    "ipcCodes": [
+        "A43B 7/10"
+    ]
+}

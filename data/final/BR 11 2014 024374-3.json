@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 024374-3",
+    "filingDate": "20/03/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES E M\u00c9TODOS CONTRA A MAL\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/617,998",
+            "priorityDate": "30/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "THOMAR J POWELL"
+    ],
+    "holders": [
+        106409
+    ],
+    "ipcCodes": [
+        "A61K 39/385",
+        "A61K 39/015"
+    ]
+}

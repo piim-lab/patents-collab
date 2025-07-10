@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 12 2018 016193-0",
+    "filingDate": "21/09/2005",
+    "grantDate": null,
+    "title": "EQUIPAMENTO E M\u00c9TODO PARA A GERA\u00c7\u00c3O DE UMA SEQ\u00dc\u00caNCIA DE V\u00cdDEO CODIFICADO USANDO UMA PREDI\u00c7\u00c3O DE DADOS DE MOVIMENTO DE CAMADA INTERMEDI\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/619,457",
+            "priorityDate": "15/10/2004"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2004 059 993.9",
+            "priorityDate": "13/12/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/09/2005",
+        "applicationNumber": "PI 0516336-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "HEIKO SCHWARZ",
+        "DETLEV MARPE",
+        "THOMAS WIEGAND",
+        "HEIKO SCHWARZ",
+        "DETLEV MARPE",
+        "THOMAS WIEGAND"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/70",
+        "H04N 19/61",
+        "H04N 19/13",
+        "H04N 19/46",
+        "H04N 19/63",
+        "H04N 19/103",
+        "H04N 19/42",
+        "H04N 19/105",
+        "H04N 19/52",
+        "H04N 19/107",
+        "H04N 19/11",
+        "H04N 19/31",
+        "H04N 19/51",
+        "H04N 19/147",
+        "H04N 19/19",
+        "H04N 19/109",
+        "H04N 19/567",
+        "H04N 19/56",
+        "H04N 19/33",
+        "H04N 19/36",
+        "H04N 19/615"
+    ]
+}

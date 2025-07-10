@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 12 2016 013829-1",
+    "filingDate": "20/03/2012",
+    "grantDate": null,
+    "title": "COORDENA\u00c7\u00c3O DE OPERA\u00c7\u00d5ES DE AUTO-OTIMIZA\u00c7\u00c3O EM REDE AUTO-ORGANIZADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/556,109",
+            "priorityDate": "04/11/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/03/2012",
+        "applicationNumber": "BR 11 2014 010597-9"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "JOEY CHOU",
+        "MUTHAIAH VENKATACHALAM"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "H04W 16/18",
+        "H04W 52/02",
+        "H04W 84/18"
+    ]
+}

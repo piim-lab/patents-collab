@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 12 2022 005529-0",
+    "filingDate": "04/09/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONTAGEM DE REBANHOS PARA GERAR UM INVENT\u00c1RIO DE REBANHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/746,790",
+            "priorityDate": "17/10/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/748,774",
+            "priorityDate": "22/10/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/848,942",
+            "priorityDate": "16/05/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/09/2019",
+        "applicationNumber": "BR 11 2021 007269-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "28.10.26",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia disponibilizada no mercado",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "JACQUELIN LABRECQUE",
+        "FRANK GOUINEAU",
+        "PIERRE SAVATTE",
+        "DIMITRI ESTRADE",
+        "JOEL RIVEST"
+    ],
+    "holders": [
+        287069
+    ],
+    "ipcCodes": [
+        "A01K 11/00"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 019931-0",
+    "filingDate": "30/09/2022",
+    "grantDate": null,
+    "title": "CABE\u00c7A DE SONDA DE UMA SONDA DE DADOS DE AR, E, SONDA DE DADOS DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/492,319",
+            "priorityDate": "01/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "SCOTT D ISEBRAND",
+        "GREG ALLEN SEIDEL"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01P 5/14"
+    ]
+}

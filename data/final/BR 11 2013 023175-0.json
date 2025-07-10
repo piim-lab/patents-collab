@@ -1,0 +1,101 @@
+{
+    "applicationNumber": "BR 11 2013 023175-0",
+    "filingDate": "09/03/2012",
+    "grantDate": null,
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, E, USO DO COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-052687",
+            "priorityDate": "10/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/546,805",
+            "priorityDate": "13/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "YUUICHI SUGIMOTO",
+        "KOUICHI UOTO",
+        "MASAKI MIYAZAKI",
+        "MASAKI SETOGUCHI",
+        "TORU TANIGUCHI",
+        "KEISUKE YOSHIDA",
+        "AKITAKE YAMAGUCHI",
+        "SHOKO YOSHIDA",
+        "TAKANORI WAKABAYASHI",
+        "JIANCUN ZHANG",
+        "YINGJUN ZHANG",
+        "HONGMING XIE",
+        "QINGYUN REN",
+        "HUICHAO LUO",
+        "TIANZHU YU",
+        "YUMEI TAN",
+        "MARTIN HANS BOHLIN",
+        "CRAIG ROBERT STEWART",
+        "YUEN SIT",
+        "YAN CHEN",
+        "JIE CHEN",
+        "JACOB SWIDORSKI",
+        "BRIAN LEE VENABLES",
+        "NY SIN",
+        "NICHOLAS A MEANWELL",
+        "ALICIA REGUEIRO",
+        "RICHARD A HARTZ",
+        "LI XU",
+        "ZHENG LIU",
+        "GANG ZHOU",
+        "ZHONGHUI WAN",
+        "LIN LI",
+        "FRANK WU",
+        "MASAHIRO KAJINO",
+        "ATSUSHI HASUOKA",
+        "HARUYUKI NISHIDA",
+        "MASAHIRO KAJINO",
+        "ATSUSHI HASUOKA",
+        "HARUYUKI NISHIDA"
+    ],
+    "holders": [
+        240937,
+        82909,
+        181010,
+        79506,
+        88250,
+        116573
+    ],
+    "ipcCodes": [
+        "A61K 31/40",
+        "A61P 1/04",
+        "C07D 401/04",
+        "C07D 409/04",
+        "C07D 207/48"
+    ]
+}

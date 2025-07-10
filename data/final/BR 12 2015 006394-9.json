@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2015 006394-9",
+    "filingDate": "06/05/2008",
+    "grantDate": "16/10/2018",
+    "title": "DENTE DE DRAGA PARA EQUIPAMENTO DE ESCAVA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/928,780",
+            "priorityDate": "10/05/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/928,821",
+            "priorityDate": "10/05/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/930,483",
+            "priorityDate": "15/05/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/05/2008",
+        "applicationNumber": "PI 0811427-7"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2602"
+        }
+    ],
+    "inventors": [
+        "CHARLES G OLLINGER IV",
+        "CHRIS D SNYDER",
+        "JOHN S KREITZBERG"
+    ],
+    "holders": [
+        90093
+    ],
+    "ipcCodes": [
+        "E02F 9/28"
+    ]
+}

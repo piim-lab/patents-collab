@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2012 031662-5",
+    "filingDate": "12/12/2012",
+    "grantDate": null,
+    "title": "USO DE EMBALAGEM CARTONADA",
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.22",
+            "description": "Exig\u00eancia preliminar - pedidos sem buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        2263
+    ],
+    "ipcCodes": []
+}

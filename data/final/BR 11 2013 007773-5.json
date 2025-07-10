@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 11 2013 007773-5",
+    "filingDate": "28/09/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR DI\u00d3IS DE F\u00d3RMULA (IA) E (IB) E COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10186048.4",
+            "priorityDate": "01/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        }
+    ],
+    "inventors": [
+        "THOMAS ZIERKE"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C07D 249/08",
+        "C07C 35/21",
+        "C07C 29/17",
+        "C07C 29/10"
+    ]
+}

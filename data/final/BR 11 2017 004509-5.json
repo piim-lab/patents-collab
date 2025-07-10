@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 004509-5",
+    "filingDate": "06/10/2015",
+    "grantDate": "08/02/2022",
+    "title": "ARRANJO EL\u00c9TRICO DE CONECTOR DE ENCAIXE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 015 027.5",
+            "priorityDate": "09/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2795"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "THOMAS SCHERER",
+        "PETR SPUNAR",
+        "VOJTECH LEOPOLD",
+        "RAINER B\u00dcTHE",
+        "JIRI KECLIK"
+    ],
+    "holders": [
+        87350
+    ],
+    "ipcCodes": [
+        "H01R 13/703"
+    ]
+}

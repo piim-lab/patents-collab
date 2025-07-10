@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2013 001814-3",
+    "filingDate": "26/07/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO T\u00c9RMICO DE SEGURAN\u00c7A",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "DE 102010038401.1",
+            "priorityDate": "26/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "JOACHIM AURICH",
+        "BERND KRUEGER",
+        "LAURENT MEX",
+        "ULF ZUM FELDE",
+        "WOLFGANG WERNER"
+    ],
+    "holders": [
+        107437
+    ],
+    "ipcCodes": [
+        "H01H 85/12",
+        "H01H 37/76",
+        "H01H 85/06"
+    ]
+}

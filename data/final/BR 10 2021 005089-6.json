@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 005089-6",
+    "filingDate": "17/03/2021",
+    "grantDate": null,
+    "title": "FERTILIZANTE DE CIANAMIDA DE C\u00c1LCIO COM TRIAZONA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/991,240",
+            "priorityDate": "18/03/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/196,147",
+            "priorityDate": "09/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "BROC SONDGROTH",
+        "ERIC BERG"
+    ],
+    "holders": [
+        66317
+    ],
+    "ipcCodes": [
+        "C05C 9/00",
+        "C05C 7/00"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 018270-6",
+    "filingDate": "08/09/2020",
+    "grantDate": null,
+    "title": "IMUNOCITOCINAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "LAURA CODARRI DEAK",
+        "CHRISTIAN KLEIN",
+        "VALERIA NICOLINI",
+        "PABLO UMANA"
+    ],
+    "holders": [
+        61582
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "C07K 19/00",
+        "C07K 16/28",
+        "C07K 14/55"
+    ]
+}

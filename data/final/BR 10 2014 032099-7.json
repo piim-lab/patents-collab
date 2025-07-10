@@ -1,0 +1,36 @@
+{
+    "applicationNumber": "BR 10 2014 032099-7",
+    "filingDate": "19/12/2014",
+    "grantDate": null,
+    "title": "SISTEMA SEM\u00c2NTICO E M\u00c9TODO PARA INFER\u00caNCIA GEOGR\u00c1FICA DE ENTIDADES QUE N\u00c3O POSSUEM ATRIBUTOS GEOGR\u00c1FICOS",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "DANIEL GARCIA TEIJEIRO",
+        "CLAUDIA PIOVESAN MACEDO",
+        "RAFAEL DE MELO CUBA"
+    ],
+    "holders": [
+        85,
+        15654,
+        15655
+    ],
+    "ipcCodes": [
+        "G06F 17/30"
+    ]
+}

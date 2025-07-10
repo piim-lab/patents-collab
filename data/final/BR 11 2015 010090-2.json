@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2015 010090-2",
+    "filingDate": "15/11/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA LIXIVIAR CINZA DE CALDEIRA DE RECUPERA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20126204",
+            "priorityDate": "16/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "PATERSON MCKEOUGH"
+    ],
+    "holders": [
+        89727
+    ],
+    "ipcCodes": [
+        "D21C 11/12",
+        "D21C 11/00"
+    ]
+}

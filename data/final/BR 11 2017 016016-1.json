@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 016016-1",
+    "filingDate": "26/01/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE SUSPENS\u00c3O OFT\u00c1LMICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/107,696",
+            "priorityDate": "26/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79697
+    ],
+    "ipcCodes": []
+}

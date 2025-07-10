@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2023 000464-7",
+    "filingDate": "02/06/2021",
+    "grantDate": null,
+    "title": "ELETRODO COMPREENDENDO MATERIAL DE ELETRODO ATIVO E DISPOSITIVO ELETROQU\u00cdMICO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2008352.3",
+            "priorityDate": "03/06/2020"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2011681.0",
+            "priorityDate": "28/07/2020"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2013576.0",
+            "priorityDate": "28/08/2020"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/06/2021",
+        "applicationNumber": "BR 11 2022 023084-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        314045
+    ],
+    "ipcCodes": []
+}

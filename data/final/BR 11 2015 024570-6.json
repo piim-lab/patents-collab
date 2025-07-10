@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2015 024570-6",
+    "filingDate": "27/03/2014",
+    "grantDate": null,
+    "title": "Sistema de compress\u00e3o oscilante port\u00e1til",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/805,554",
+            "priorityDate": "27/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/865,227",
+            "priorityDate": "13/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "WILLIAM N TALLY",
+        "ROY CARL JR BURMEISTER",
+        "KEVIN FRANCIS MORAN"
+    ],
+    "holders": [
+        163980
+    ],
+    "ipcCodes": [
+        "A61H 7/00",
+        "A61H 9/00",
+        "A61H 11/00"
+    ]
+}

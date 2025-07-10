@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2020 017231-2",
+    "filingDate": "29/07/2011",
+    "grantDate": null,
+    "title": "LENTES DE SILICONE HIDROGEL HIDRATADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/369,102",
+            "priorityDate": "30/07/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/448,478",
+            "priorityDate": "02/03/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/07/2011",
+        "applicationNumber": "BR 11 2013 002179-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "YONGXING QIU",
+        "JOHN DALLAS PRUITT",
+        "SIBICHEN THEKVELI",
+        "ROBERT CAREY TUCKER",
+        "JARED NELSON",
+        "YONGXING QIU",
+        "JOHN DALLAS PRUITT",
+        "SIBICHEN THEKVELI",
+        "ROBERT CAREY TUCKER",
+        "JARED NELSON"
+    ],
+    "holders": [
+        12581
+    ],
+    "ipcCodes": [
+        "A61F 2/14"
+    ]
+}

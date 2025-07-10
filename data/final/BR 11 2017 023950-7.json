@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2017 023950-7",
+    "filingDate": "22/04/2016",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE LIMONEN-4-OL",
+    "nationalPhaseDate": [
+        "07/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/058963",
+        "pctDate": "22/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "1291/DEL/2015",
+            "priorityDate": "08/05/2015"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15174608.8",
+            "priorityDate": "30/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "BERND WOLF",
+        "MICHAEL RACK",
+        "STEFAN BENSON",
+        "ROLAND GOETZ",
+        "SUKUNATH NARAYANAN",
+        "CHIDAMBARAM RISHINARADAMANGALAM",
+        "HELMUT KRAUS"
+    ],
+    "holders": [
+        20426
+    ],
+    "ipcCodes": [
+        "C07C 29/56",
+        "C07D 493/08",
+        "C07C 29/17",
+        "C07C 35/18"
+    ]
+}

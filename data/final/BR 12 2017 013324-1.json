@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2017 013324-1",
+    "filingDate": "15/03/2006",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O POLIM\u00c9RICA CARREGADA, ARTIGO DE AMORTECIMENTO SONORO, TAPETE AUTOMOTIVO, MATERIAL DE COBERTURA, REVESTIMENTO DE FIO OU CABO, LADRILHO, REVESTIMENTO DE PISO, PERFIL, VEDA\u00c7\u00c3O E CAPACHO DE PISO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2005/008917",
+            "priorityDate": "17/03/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/717,587",
+            "priorityDate": "16/09/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/03/2006",
+        "applicationNumber": "PI 0609843-6"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "WENBIN LIANG",
+        "YUNMA WILSON CHEUNG",
+        "CHARLES F DIEHL",
+        "KYLE G KUMMER"
+    ],
+    "holders": [
+        9272
+    ],
+    "ipcCodes": [
+        "C08K 3/00",
+        "C08F 2/38",
+        "C08F 297/08",
+        "C08F 295/00"
+    ]
+}

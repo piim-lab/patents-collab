@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2018 014014-7",
+    "filingDate": "13/02/2017",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE  ESPIROGALBANONA",
+    "nationalPhaseDate": [
+        "10/07/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2017/053112",
+        "pctDate": "13/02/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1602644.5",
+            "priorityDate": "15/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "SIMON ELLWOOD",
+        "WILLIAM ALEXANDER THIAM"
+    ],
+    "holders": [
+        92015
+    ],
+    "ipcCodes": [
+        "C07C 41/50",
+        "C07C 45/45",
+        "C07C 45/51",
+        "C07C 49/553",
+        "C07C 41/56",
+        "C07C 41/00",
+        "C07C 41/28"
+    ]
+}

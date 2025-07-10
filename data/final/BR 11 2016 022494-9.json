@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 022494-9",
+    "filingDate": "26/03/2015",
+    "grantDate": "20/07/2021",
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE FURANO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14162689.5",
+            "priorityDate": "31/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "JEAN PAUL ANDRE MARIE JOSEPH GHISLAIN LANGE",
+        "SIPKE HIDDE WADMAN"
+    ],
+    "holders": [
+        13060
+    ],
+    "ipcCodes": [
+        "C07D 307/36"
+    ]
+}

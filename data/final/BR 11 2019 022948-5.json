@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2019 022948-5",
+    "filingDate": "31/08/2018",
+    "grantDate": null,
+    "title": "MONTAGEM DE EIXO EL\u00c9TRICO",
+    "nationalPhaseDate": [
+        "31/10/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2018/103415",
+        "pctDate": "31/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201721110121.7",
+            "priorityDate": "31/08/2017"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201710775696.9",
+            "priorityDate": "31/08/2017"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201710772616.4",
+            "priorityDate": "31/08/2017"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201721109237.9",
+            "priorityDate": "31/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "BULIANG ZHANG",
+        "DEAN GAO",
+        "SHENGLI HU",
+        "CHENNAN ZHANG",
+        "QINGGANG SHAO"
+    ],
+    "holders": [
+        253878
+    ],
+    "ipcCodes": [
+        "B60B 35/12",
+        "B60K 17/16",
+        "B60K 1/00"
+    ]
+}

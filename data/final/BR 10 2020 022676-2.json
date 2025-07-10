@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2020 022676-2",
+    "filingDate": "06/11/2020",
+    "grantDate": null,
+    "title": "TRANSMISS\u00c3O EM TEMPO REAL POR FIBRA \u00d3PTICA FURO ABAIXO PARA MONITORAMENTO DE PO\u00c7O E ATUA\u00c7\u00c3O DE EQUIPAMENTO FURO ABAIXO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/934,290",
+            "priorityDate": "12/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2765"
+        }
+    ],
+    "inventors": [
+        "FRANK D KALB",
+        "JUSTIN D GORHUM"
+    ],
+    "holders": [
+        6743
+    ],
+    "ipcCodes": [
+        "E21B 33/035",
+        "E21B 47/135"
+    ]
+}

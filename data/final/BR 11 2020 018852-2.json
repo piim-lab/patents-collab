@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 11 2020 018852-2",
+    "filingDate": "12/12/2018",
+    "grantDate": null,
+    "title": "FORRO DE CILINDRO PARA COBERTURA FUNDIDA E M\u00c9TODO PARA FABRICAR BLOCO DE CILINDRO",
+    "nationalPhaseDate": [
+        "15/09/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2018/045644",
+        "pctDate": "12/12/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-099656",
+            "priorityDate": "24/05/2018"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-203418",
+            "priorityDate": "30/10/2018"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-214320",
+            "priorityDate": "15/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        }
+    ],
+    "inventors": [
+        "KOICHI HATAKEYAMA",
+        "TOMOKI TAKIGUCHI",
+        "YOSHIHIKO AOKI",
+        "YUUSUKE OKUYAMA",
+        "MAKO ABE"
+    ],
+    "holders": [
+        189881,
+        966
+    ],
+    "ipcCodes": [
+        "F02F 1/00",
+        "B22D 13/02",
+        "B22D 19/00",
+        "B22D 13/10"
+    ]
+}

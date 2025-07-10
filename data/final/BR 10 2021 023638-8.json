@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2021 023638-8",
+    "filingDate": "24/11/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVOS DE VERIFICA\u00c7\u00c3O DE PAR DE SISTEMA AUT\u00d4NOMO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202011410695.2",
+            "priorityDate": "04/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2813"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "SHUNWAN ZHUANG",
+        "HAIBO WANG",
+        "YUNAN GU",
+        "MINGQING HUANG",
+        "ZHONGQI XIA",
+        "GANG YAN"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 45/24",
+        "H04L 45/02"
+    ]
+}

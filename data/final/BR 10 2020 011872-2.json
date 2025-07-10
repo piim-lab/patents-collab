@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2020 011872-2",
+    "filingDate": "12/06/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA CONTROLAR UM PRIMEIRO INVERSOR E UM SEGUNDO INVERSOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/861,792",
+            "priorityDate": "14/06/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/653,016",
+            "priorityDate": "15/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "DAN LI",
+        "LONG WU",
+        "GUANGQI ZHU"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "H02P 5/74",
+        "H02P 21/14",
+        "H02M 7/48",
+        "H02M 1/14"
+    ]
+}

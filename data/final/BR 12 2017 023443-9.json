@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 12 2017 023443-9",
+    "filingDate": "26/07/2005",
+    "grantDate": null,
+    "title": "PROCESSO PARA SUBSTITUIR PELO MENOS UMA PARTE CONDUTORA DE FLUIDO",
+    "divisionalApplication": {
+        "filingDate": "26/07/2005",
+        "applicationNumber": "PI 0513792-6"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2592"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        90228
+    ],
+    "ipcCodes": []
+}

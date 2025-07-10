@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 001526-0",
+    "filingDate": "27/01/2022",
+    "grantDate": null,
+    "title": "INV\u00d3LUCRO PARA ALIMENTOS PERME\u00c1VEL \u00c0 FUMA\u00c7A E AO VAPOR DE \u00c1GUA COM MELHOR TRANSPAR\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 102 502.8",
+            "priorityDate": "03/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "ULRICH DELIUS",
+        "IGOR RASKITA"
+    ],
+    "holders": [
+        45818
+    ],
+    "ipcCodes": [
+        "C08J 5/18",
+        "C08K 5/053",
+        "C08L 77/00",
+        "A22C 13/00",
+        "C08L 39/06"
+    ]
+}

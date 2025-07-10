@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2018 002452-3",
+    "filingDate": "05/02/2018",
+    "grantDate": null,
+    "title": "TRATAMENTO DE ERRO PARA SOLICITA\u00c7\u00d5ES DE DISPOSITIVOS DE IMPRESS\u00c3O MULTIFUNCIONAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/436,703",
+            "priorityDate": "17/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "JAYASIMHA NUGGEHALLI",
+        "BHUSHAN NADKARNI",
+        "SRIKRISHNA NARASIMHAN",
+        "ZHENYU LU",
+        "JAYASIMHA NUGGEHALLI",
+        "BHUSHAN NADKARNI",
+        "SRIKRISHNA NARASIMHAN",
+        "ZHENYU LU"
+    ],
+    "holders": [
+        1861,
+        36334
+    ],
+    "ipcCodes": [
+        "G06F 3/12",
+        "G06Q 20/40"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 000354-2",
+    "filingDate": "07/01/2020",
+    "grantDate": null,
+    "title": "SISTEMAS PARA USO COM UM AMORTECEDOR E PARA USO COM TREM DE POUSO, E, AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/533,626",
+            "priorityDate": "06/08/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2782"
+        }
+    ],
+    "inventors": [
+        "ADAM J DITZLER"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64C 25/36",
+        "B64C 25/62",
+        "B64C 25/00",
+        "B64C 25/02",
+        "B64C 25/34"
+    ]
+}

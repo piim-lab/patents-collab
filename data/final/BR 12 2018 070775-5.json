@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2018 070775-5",
+    "filingDate": "14/11/2008",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O, E MATERIAL ESTRUTURAL, EL\u00c9TRICO, QU\u00cdMICO, OU UMA COMBINA\u00c7\u00c3O DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/003,272",
+            "priorityDate": "15/11/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/11/2008",
+        "applicationNumber": "PI 0820560-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        }
+    ],
+    "inventors": [
+        "RICHARD E RIMAN",
+        "VAHIT ATAKAN"
+    ],
+    "holders": [
+        122674
+    ],
+    "ipcCodes": [
+        "C04B 35/64",
+        "C04B 35/01",
+        "C04B 35/495",
+        "C04B 35/457",
+        "C04B 41/45",
+        "C04B 41/50",
+        "C04B 41/00",
+        "C04B 41/87",
+        "C04B 35/447",
+        "C04B 35/468",
+        "C04B 35/26",
+        "C04B 35/553",
+        "C04B 35/42",
+        "C04B 35/49",
+        "C04B 35/47",
+        "C04B 35/491"
+    ]
+}

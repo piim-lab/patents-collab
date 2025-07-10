@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2020 010196-0",
+    "filingDate": "21/05/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE BOMBA E BOMBA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102019113948.1",
+            "priorityDate": "24/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "STEVE MEHLHORN",
+        "LORENZ SCHNEIDER",
+        "MAX WERTHMUELLER"
+    ],
+    "holders": [
+        58672
+    ],
+    "ipcCodes": [
+        "H02K 5/20",
+        "F04D 29/58"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2016 003136-2",
+    "filingDate": "15/02/2016",
+    "grantDate": null,
+    "title": "ELEMENTO EMISSOR DE LUZ",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-036172",
+            "priorityDate": "26/02/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-236336",
+            "priorityDate": "03/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "KEIJI EMURA",
+        "SHUN KITAHAMA",
+        "YASUO MIYOSHI",
+        "MAKOTO ABE",
+        "KEISUKE HIGASHITANI",
+        "NAOKI AZUMA",
+        "AKIYOSHI KINOUCHI",
+        "KEIJI EMURA"
+    ],
+    "holders": [
+        5000
+    ],
+    "ipcCodes": [
+        "H01L 33/38"
+    ]
+}

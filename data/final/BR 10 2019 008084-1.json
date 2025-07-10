@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2019 008084-1",
+    "filingDate": "18/04/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA PROVER UM SINAL DE CORRE\u00c7\u00c3O DE SAT\u00c9LITE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/675872",
+            "priorityDate": "24/05/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/017621",
+            "priorityDate": "25/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        }
+    ],
+    "inventors": [
+        "SONIA U KUNTZ",
+        "NIRAV R PARIKH",
+        "JUNKUN WAN",
+        "LIWEN L DAI"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G01S 19/42"
+    ]
+}

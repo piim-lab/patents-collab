@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2020 023897-3",
+    "filingDate": "24/11/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PROTEGER FLUXOS DE DADOS ENTRE UM EQUIPAMENTO DE COMUNICA\u00c7\u00c3O E UM TERMINAL REMOTO, EQUIPAMENTO QUE IMPLEMENTA O M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1913458",
+            "priorityDate": "29/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "NICOLAS KORBER",
+        "MICHA\u00cbL THIEN BAO NGUYEN DINH HIEN"
+    ],
+    "holders": [
+        51460
+    ],
+    "ipcCodes": [
+        "H04L 9/08"
+    ]
+}

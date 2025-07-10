@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 005871-7",
+    "filingDate": "28/03/2022",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O DE LIMPEZA PARA LIMPAR PISTOLAS DE PULVERIZA\u00c7\u00c3O EM UMA CABINE DE PINTURA E M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "IT202100007592",
+            "priorityDate": "29/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "PUNGETTI CRISTIAN",
+        "CHIARINI STEFANO",
+        "LOMBINI MARCO"
+    ],
+    "holders": [
+        75063
+    ],
+    "ipcCodes": [
+        "B05B 15/50"
+    ]
+}

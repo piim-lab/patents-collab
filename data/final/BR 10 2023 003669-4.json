@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2023 003669-4",
+    "filingDate": "27/02/2023",
+    "grantDate": null,
+    "title": "VE\u00cdCULO AGR\u00cdCOLA AUTOCONDUZIDO E M\u00c9TODO PARA DIRIGIR UM VE\u00cdCULO AGR\u00cdCOLA AUTOCONDUZIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2022 105 021.1",
+            "priorityDate": "03/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "MICHAEL HORSCH"
+    ],
+    "holders": [
+        78222
+    ],
+    "ipcCodes": [
+        "A01B 69/04",
+        "A01B 51/02"
+    ]
+}

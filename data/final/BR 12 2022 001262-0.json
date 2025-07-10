@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 12 2022 001262-0",
+    "filingDate": "15/11/2011",
+    "grantDate": null,
+    "title": "COMPOSTOS DE TRANSFEC\u00c7\u00c3O CONTENDO AMINA E COMPLEXO DE TRANSFEC\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/413,905",
+            "priorityDate": "15/11/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/437,503",
+            "priorityDate": "28/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/438,903",
+            "priorityDate": "02/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/543,242",
+            "priorityDate": "04/10/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/11/2011",
+        "applicationNumber": "BR 11 2013 011970-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "ZHIWEI YANG",
+        "PARUL ANGRISH",
+        "XAVIER DE MOLLERAT DU JEU",
+        "KRISTIN WIEDERHOLT",
+        "TAO WU"
+    ],
+    "holders": [
+        108709
+    ],
+    "ipcCodes": [
+        "A61K 48/00",
+        "C07D 211/58",
+        "C07C 229/24",
+        "C07C 229/16",
+        "C07C 237/06",
+        "C07C 229/26",
+        "C07D 211/28"
+    ]
+}

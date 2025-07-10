@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2012 021538-8",
+    "filingDate": "21/02/2011",
+    "grantDate": "06/10/2020",
+    "title": "Dispositivo de cuidado das unhas",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1003340.5",
+            "priorityDate": "26/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "MARK ARMSTRONG",
+        "TIMOTHY STANLEY CORVIN",
+        "NEIL JOHNSON"
+    ],
+    "holders": [
+        97801
+    ],
+    "ipcCodes": [
+        "A45D 34/06",
+        "A61M 35/00",
+        "A45D 29/18"
+    ]
+}

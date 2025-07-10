@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2021 016524-3",
+    "filingDate": "20/08/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA FORMAR UMA TIRA DE ENCHIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/072,726",
+            "priorityDate": "31/08/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/331,745",
+            "priorityDate": "27/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2794"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER DAVID DYRLUND",
+        "BRIAN RICHARD KOCH"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "B29D 30/48",
+        "B29D 30/30",
+        "B29D 30/62",
+        "B29C 48/07",
+        "B29C 48/30",
+        "B29C 48/21",
+        "B29C 48/49"
+    ]
+}

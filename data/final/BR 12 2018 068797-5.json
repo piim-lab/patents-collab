@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "BR 12 2018 068797-5",
+    "filingDate": "26/03/2004",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS DE COMPLEXO DE CICLODEXTRINA-CLADRIBINA COMPLEXO, USOS DO REFERIDO COMPLEXO, BEM COMO PROCESSOS PARA A SUA PREPARA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/458,922",
+            "priorityDate": "28/03/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/484,756",
+            "priorityDate": "02/07/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/541,247",
+            "priorityDate": "04/02/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/03/2004",
+        "applicationNumber": "PI 0408848-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        }
+    ],
+    "inventors": [
+        "NICHOLAS S BODOR",
+        "YOGESH DANDIKER"
+    ],
+    "holders": [
+        28958
+    ],
+    "ipcCodes": [
+        "A61P 19/02",
+        "A61P 35/02",
+        "A61K 9/20",
+        "A61P 25/28",
+        "A61K 47/40",
+        "A61K 31/52",
+        "C07H 19/173"
+    ]
+}

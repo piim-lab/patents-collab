@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 074686-3",
+    "filingDate": "29/11/2018",
+    "grantDate": null,
+    "title": "TAC\u00d3GRAFO E M\u00c9TODO PARA OPERAR UM TAC\u00d3GRAFO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17465587",
+            "priorityDate": "07/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "VIOREL TILEAGA",
+        "SILVIU STAN",
+        "KLAUS HUG"
+    ],
+    "holders": [
+        496
+    ],
+    "ipcCodes": [
+        "G05B 19/042",
+        "G06F 21/57"
+    ]
+}

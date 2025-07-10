@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 11 2023 012262-7",
+    "filingDate": "29/12/2021",
+    "grantDate": null,
+    "title": "CODIFICA\u00c7\u00c3O INTERPREDI\u00c7\u00c3O PARA COMPACTA\u00c7\u00c3O DE NUVEM DE PONTOS D GEOMETRIA",
+    "nationalPhaseDate": [
+        "20/06/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/065483",
+        "pctDate": "29/12/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/131,716",
+            "priorityDate": "29/12/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/134,492",
+            "priorityDate": "06/01/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/170,907",
+            "priorityDate": "05/04/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/177,186",
+            "priorityDate": "20/04/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/179,892",
+            "priorityDate": "26/04/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/218,170",
+            "priorityDate": "02/07/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/646,217",
+            "priorityDate": "28/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "ADARSH KRISHNAN RAMASUBRAMONIAN",
+        "BAPPADITYA RAY",
+        "LUONG PHAM VAN",
+        "GEERT VAN DER AUWERA",
+        "MARTA KARCZEWICZ"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G06T 9/00",
+        "H04N 19/70",
+        "H04N 19/597"
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2020 002109-8",
+    "filingDate": "28/08/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA CONTROLAR PESO CORPORAL EM UM SER HUMANO, E SISTEMA DE PROCESSAMENTO DE DADOS PARA AJUDAR UM SER HUMANO A CONTROLAR SEU PESO CORPORAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/092,981",
+            "priorityDate": "29/08/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/08/2009",
+        "applicationNumber": "PI 0918261-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        }
+    ],
+    "inventors": [
+        "KAREN MILLER",
+        "UTE GERWIG",
+        "JULIA PEETZ",
+        "CHRISTINE JACOBSOHN",
+        "WANEMA FRYE",
+        "STEPHANIE LYN ROST",
+        "MARIA KINIRONS",
+        "DAWN HALKUFF"
+    ],
+    "holders": [
+        351789
+    ],
+    "ipcCodes": [
+        "G06F 17/00",
+        "G06N 5/02"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2015 026810-2",
+    "filingDate": "02/05/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FORNECER UM SISTEMA \u00d3PTICO MONTADO \u00c0 CABE\u00c7A",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13305579.8",
+            "priorityDate": "02/05/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13306457.6",
+            "priorityDate": "22/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "BENOIT CALLIER",
+        "LO\u00cfC QUERE",
+        "MARC REIGNAULT",
+        "SIRA UHALTE NOGUES",
+        "MATHIEU MEYNEN",
+        "DENIS COHEN TANNOUDJI"
+    ],
+    "holders": [
+        81123
+    ],
+    "ipcCodes": [
+        "G02B 27/01",
+        "B29D 11/00",
+        "G02C 13/00",
+        "G02C 7/00",
+        "G02C 9/00"
+    ]
+}

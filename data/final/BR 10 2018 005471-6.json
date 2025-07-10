@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2018 005471-6",
+    "filingDate": "20/03/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE FORMA\u00c7\u00c3O DE IMAGEM DE ESTADO S\u00d3LIDO, SISTEMA DE FORMA\u00c7\u00c3O DE IMAGEM E OBJETO M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-054074",
+            "priorityDate": "21/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "HAJIME IKEDA",
+        "MASAHIRO KOBAYASHI"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "H01L 27/146"
+    ]
+}

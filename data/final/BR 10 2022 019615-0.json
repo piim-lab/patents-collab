@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 019615-0",
+    "filingDate": "28/09/2022",
+    "grantDate": null,
+    "title": "M\u00c1QUINA ASSENTADORA DE TUBOS COM CABINE DE OPERADOR QUE TEM VISTA FRONTAL ESTREITA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 17/449,894",
+            "priorityDate": "04/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "MARC DI SCHINO",
+        "MIHAI LAZAROIU"
+    ],
+    "holders": [
+        4453
+    ],
+    "ipcCodes": [
+        "B66C 13/54"
+    ]
+}

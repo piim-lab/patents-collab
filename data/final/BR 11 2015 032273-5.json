@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2015 032273-5",
+    "filingDate": "09/05/2014",
+    "grantDate": null,
+    "title": "PROCESSO DE DECODIFICA\u00c7\u00c3O E APARELHO DE DECODIFICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201310298040.4",
+            "priorityDate": "16/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "BIN WANG",
+        "LEI MIAO",
+        "ZEXIN LIU"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "G10L 19/02",
+        "G10L 21/0388",
+        "G10L 19/005"
+    ]
+}

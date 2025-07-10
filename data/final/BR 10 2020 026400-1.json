@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 026400-1",
+    "filingDate": "22/12/2020",
+    "grantDate": null,
+    "title": "SISTEMA, E, M\u00c9TODO PARA COMPENSA\u00c7\u00c3O DE HISTERESE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/814,428",
+            "priorityDate": "10/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "JEFF DOBCHUK"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G05D 7/00",
+        "G05D 3/00",
+        "G05D 13/00",
+        "G05D 9/00",
+        "G05D 27/00"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2012 015962-3",
+    "filingDate": "11/07/2011",
+    "grantDate": null,
+    "title": "APARELHO TRANSPORTADOR DO TIPO CARRO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201010255351.9",
+            "priorityDate": "17/08/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020294309.3",
+            "priorityDate": "17/08/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201020294310.6",
+            "priorityDate": "17/08/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        }
+    ],
+    "inventors": [
+        "MASAMI MURAKAMI",
+        "JIANGUO WANG"
+    ],
+    "holders": [
+        24424,
+        93833
+    ],
+    "ipcCodes": [
+        "B65G 35/00",
+        "B65G 37/00",
+        "B62D 65/18"
+    ]
+}

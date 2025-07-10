@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2019 013216-0",
+    "filingDate": "26/01/2007",
+    "grantDate": "05/05/2020",
+    "title": "COMPOSI\u00c7\u00d5ES IMUNOG\u00caNICAS, M\u00c9TODO PARA PREPARAR UMA COMPOSI\u00c7\u00c3O IMUNOG\u00caNICA, COMPOSI\u00c7\u00c3O OU M\u00c9TODO E ENSAIO IMUNOL\u00d3GICO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0601733.9",
+            "priorityDate": "27/01/2006"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0620175.0",
+            "priorityDate": "11/10/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/01/2007",
+        "applicationNumber": "PI 0707300-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "MICHAEL BROEKER",
+        "HOLGER KOST"
+    ],
+    "holders": [
+        204152
+    ],
+    "ipcCodes": [
+        "A61K 39/145"
+    ]
+}

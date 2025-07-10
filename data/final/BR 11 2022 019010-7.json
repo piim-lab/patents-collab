@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2022 019010-7",
+    "filingDate": "27/01/2021",
+    "grantDate": null,
+    "title": "DADOS DE MEDI\u00c7\u00c3O DE POSICIONAMENTO RELATADOS VIA SINALIZA\u00c7\u00c3O L1 OU L2",
+    "nationalPhaseDate": [
+        "22/09/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/015165",
+        "pctDate": "27/01/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/005,030",
+            "priorityDate": "03/04/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/158,217",
+            "priorityDate": "26/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2704"
+        }
+    ],
+    "inventors": [
+        "WEIMIN DUAN",
+        "ALEXANDROS MANOLAKOS",
+        "KRISHNA KIRAN MUKKAVILLI",
+        "WANSHI CHEN",
+        "TINGFANG JI",
+        "NAGA BHUSHAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 4/02",
+        "H04W 64/00"
+    ]
+}

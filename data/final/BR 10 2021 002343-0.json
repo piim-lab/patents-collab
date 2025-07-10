@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 002343-0",
+    "filingDate": "08/02/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ALERTAR OPERADORES DE UM VE\u00cdCULO DE TRABALHO DE AUTOPROPULS\u00c3O, E, VE\u00cdCULO DE TRABALHO DE AUTOPROPULS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/831,695",
+            "priorityDate": "26/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "MICHAEL G KEAN",
+        "DREW F HARWELL"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B60Q 9/00",
+        "E02F 9/08",
+        "E02F 9/26"
+    ]
+}

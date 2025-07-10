@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2016 025953-0",
+    "filingDate": "21/05/2015",
+    "grantDate": "30/11/2021",
+    "title": "VIGA MESTRE DE GUINDASTE E GUINDASTE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 107 323.1",
+            "priorityDate": "23/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2776"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH PASSMANN",
+        "RICHARD KREISNER",
+        "THOMAS SCHLIERBACH",
+        "STEFAN NOLL",
+        "FRANZ SCHULTE"
+    ],
+    "holders": [
+        80774
+    ],
+    "ipcCodes": [
+        "B66C 6/00"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2016 012535-5",
+    "filingDate": "11/02/2014",
+    "grantDate": "15/02/2022",
+    "title": "M\u00e9todo para analisar uma ra\u00e7\u00e3o para su\u00edno ou aves dom\u00e9sticas",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/109,926",
+            "priorityDate": "17/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "KYLE MCKINNEY",
+        "BENJAMIN HENRY",
+        "ALLYSON LOVELL",
+        "PATRICK BECKER",
+        "REBECCA A TIMMONS"
+    ],
+    "holders": [
+        79661
+    ],
+    "ipcCodes": [
+        "A23N 17/00"
+    ]
+}

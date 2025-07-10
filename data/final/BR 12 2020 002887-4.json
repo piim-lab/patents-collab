@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2020 002887-4",
+    "filingDate": "30/10/2009",
+    "grantDate": "17/11/2020",
+    "title": "APARELHO TERMINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-281389",
+            "priorityDate": "31/10/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/10/2009",
+        "applicationNumber": "PI 0921477-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        351422
+    ],
+    "ipcCodes": []
+}

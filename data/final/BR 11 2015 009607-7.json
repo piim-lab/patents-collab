@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 11 2015 009607-7",
+    "filingDate": "30/10/2013",
+    "grantDate": null,
+    "title": "LETALIDADE SINT\u00c9TICA E O TRATAMENTO DE C\u00c2NCER",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/720,218",
+            "priorityDate": "30/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/870,435",
+            "priorityDate": "27/08/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/870,418",
+            "priorityDate": "27/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "LUC G BERTHIAUME",
+        "CONGANIGE MANEKA ANNE PERINPANAYAGAM",
+        "CHUIYEE YAP",
+        "ERWAN BEAUCHAMP"
+    ],
+    "holders": [
+        130465
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "C12Q 1/68",
+        "G01N 33/574",
+        "A61K 31/12",
+        "A61K 31/20",
+        "A61K 31/4439",
+        "A61K 31/7088"
+    ]
+}

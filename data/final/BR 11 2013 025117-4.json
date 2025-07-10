@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2013 025117-4",
+    "filingDate": "02/03/2012",
+    "grantDate": "07/12/2021",
+    "title": "SENSOR DE PROXIMIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/470,571",
+            "priorityDate": "01/04/2011"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 018 364.7",
+            "priorityDate": "20/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI MIZUSAKI",
+        "DAISUKE INOUE",
+        "SUSUMU KUTSUHARA"
+    ],
+    "holders": [
+        124124,
+        133711
+    ],
+    "ipcCodes": [
+        "G01D 5/12"
+    ]
+}

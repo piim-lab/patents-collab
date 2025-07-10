@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2022 017718-6",
+    "filingDate": "05/03/2021",
+    "grantDate": null,
+    "title": "POLIPEPT\u00cdDEOS DE ULINASTATINA",
+    "nationalPhaseDate": [
+        "02/09/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/021148",
+        "pctDate": "05/03/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/985,499",
+            "priorityDate": "05/03/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/021,938",
+            "priorityDate": "08/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/108,773",
+            "priorityDate": "02/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2785"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o - Art. 87 da LPI",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "RICK PAULS",
+        "TODD VERDOORN",
+        "KARL FRANK JOHNSON",
+        "GREGORY THOMAS BLECK"
+    ],
+    "holders": [
+        324627
+    ],
+    "ipcCodes": [
+        "A61K 38/00",
+        "C07K 14/81",
+        "A61K 47/64"
+    ]
+}

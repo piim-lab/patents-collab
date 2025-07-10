@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2019 023426-1",
+    "filingDate": "07/11/2019",
+    "grantDate": null,
+    "title": "APOIO DE P\u00c9S MEC\u00c2NICO COM MOVIMENTA\u00c7\u00c3O ATIVA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "JULIANA FERNANDES PEREIRA",
+        "JO\u00c3O EDUARDO GUARNETTI DOS SANTOS"
+    ],
+    "holders": [
+        284
+    ],
+    "ipcCodes": [
+        "A61H 1/02",
+        "A63B 23/04",
+        "A63B 21/00"
+    ]
+}

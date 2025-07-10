@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2016 010419-6",
+    "filingDate": "22/09/2015",
+    "grantDate": null,
+    "title": "APARELHO DE IMAGEAMENTO E M\u00c9TODO DE IMAGEAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14187276.2",
+            "priorityDate": "01/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.1",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        }
+    ],
+    "inventors": [
+        "THOMAS KOEHLER",
+        "ROLAND PROKSA",
+        "BERNHARD JOHANNES BRENDEL",
+        "EWALD ROESSL"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "A61B 6/00",
+        "A61B 6/03",
+        "G21K 1/02"
+    ]
+}

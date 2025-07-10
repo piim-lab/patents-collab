@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2016 013694-2",
+    "filingDate": "16/12/2014",
+    "grantDate": null,
+    "title": "INSTALA\u00c7\u00c3O PARA O TRATAMENTO POR IMERS\u00c3O DE CORPOS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2013A002152",
+            "priorityDate": "20/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        }
+    ],
+    "inventors": [
+        "GIAMPAOLO COVIZZI",
+        "PAOLO COLOMBAROLI"
+    ],
+    "holders": [
+        125822
+    ],
+    "ipcCodes": [
+        "B65G 49/04"
+    ]
+}

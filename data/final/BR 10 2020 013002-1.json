@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 013002-1",
+    "filingDate": "25/06/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA MONITORAR FLUXO DE SOLO AO REDOR DE FERRAMENTAS DE PENETRA\u00c7\u00c3O EM SOLO DE UM IMPLEMENTO AGR\u00cdCOLA COM BASE EM DADOS DE RADAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/453,849",
+            "priorityDate": "26/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [
+        "LUCA FERRARI",
+        "TREVOR STANHOPE"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01B 63/111",
+        "A01B 79/00",
+        "G01S 13/88",
+        "A01B 49/02"
+    ]
+}

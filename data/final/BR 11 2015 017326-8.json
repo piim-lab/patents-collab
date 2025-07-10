@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2015 017326-8",
+    "filingDate": "23/01/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE 2-ALQUIL-3-BUTIN-2-\u00d3IS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13152337.5",
+            "priorityDate": "23/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "JOHANNES TSCHUMI"
+    ],
+    "holders": [
+        16355
+    ],
+    "ipcCodes": [
+        "C07C 29/42"
+    ]
+}

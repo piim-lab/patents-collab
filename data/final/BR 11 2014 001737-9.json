@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2014 001737-9",
+    "filingDate": "25/07/2012",
+    "grantDate": null,
+    "title": "PROCEDIMENTO PARA A CONSERVA\u00c7\u00c3O DE PRODUTOS DA IND\u00daSTRIA DE CARNES E OUTRAS IND\u00daSTRIAS ALIMENTARES",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P 201131274",
+            "priorityDate": "26/07/2011"
+        },
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P 201230284",
+            "priorityDate": "24/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "BAEZA ORTEGA FERNANDO",
+        "EGEA FERN\u00c1NDEZ ANTONIO",
+        "ROMERO L\u00d3PEZ MIGUEL ANGEL",
+        "PUMARI\u00d1O \u00c1LVAREZ JOS\u00c9 RAM\u00d3N",
+        "BORGEAUD JAIME",
+        "GUZM\u00c1N ARCOS JOS\u00c9 MARIA"
+    ],
+    "holders": [
+        130700
+    ],
+    "ipcCodes": [
+        "A61L 11/00",
+        "A22B 7/00"
+    ]
+}

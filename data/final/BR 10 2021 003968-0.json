@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2021 003968-0",
+    "filingDate": "02/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE TREM DE POUSO, E, SISTEMA PARA CONTROLAR SUBSISTEMAS DE TREM DE POUSO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202041009543",
+            "priorityDate": "05/03/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/128,143",
+            "priorityDate": "20/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "ASHISH VIJAY",
+        "ADNAN CEPIC",
+        "ANIL PRASAD JOSYULA",
+        "HARISH VENKATESHA"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64C 25/02"
+    ]
+}

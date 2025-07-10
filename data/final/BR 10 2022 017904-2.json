@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2022 017904-2",
+    "filingDate": "06/09/2022",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE COLETA AUTOMATIZADA DE RECICL\u00c1VEIS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "PEDRO BICALHO MAIA"
+    ],
+    "holders": [
+        76768
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G06Q 30/02",
+        "B65F 1/00",
+        "G07F 7/06"
+    ]
+}

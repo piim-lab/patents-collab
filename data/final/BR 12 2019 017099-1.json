@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2019 017099-1",
+    "filingDate": "10/03/2010",
+    "grantDate": "26/05/2020",
+    "title": "CONTADOR E APLICADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0904040.3",
+            "priorityDate": "10/03/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/03/2010",
+        "applicationNumber": "PI 1009424-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "RAYMOND BACON",
+        "IAIN MCDERMENT"
+    ],
+    "holders": [
+        108314
+    ],
+    "ipcCodes": [
+        "A61M 15/00",
+        "G06M 1/16"
+    ]
+}

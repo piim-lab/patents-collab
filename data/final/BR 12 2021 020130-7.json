@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 12 2021 020130-7",
+    "filingDate": "21/12/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE LIP\u00cdDEOS EXTRA\u00cdDOS DE PLANTAS E PROCESSO PARA PRODUZIR UM INGREDIENTE ALIMENTAR",
+    "divisionalApplication": {
+        "filingDate": "21/12/2012",
+        "applicationNumber": "BR 11 2014 015921-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2761"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        58137
+    ],
+    "ipcCodes": []
+}

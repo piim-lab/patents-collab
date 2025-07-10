@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2017 020852-4",
+    "filingDate": "28/09/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE BARRAMENTO DE BAIXA TENS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/401,546",
+            "priorityDate": "29/09/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/701,145",
+            "priorityDate": "11/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "MICHAEL WEIBY",
+        "JAMES TYRELL",
+        "JUSTIN CERUTTI",
+        "ANDREW MEYER"
+    ],
+    "holders": [
+        32805
+    ],
+    "ipcCodes": [
+        "H02J 7/02",
+        "H01R 24/60"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 006957-0",
+    "filingDate": "12/04/2021",
+    "grantDate": null,
+    "title": "APARELHO DE FILTRA\u00c7\u00c3O DE AR DE COMBUST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/861,260",
+            "priorityDate": "29/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "ALAN D SHEIDLER",
+        "CORY CONNER",
+        "GARY H KNAPP"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "F02M 35/024",
+        "B01D 46/00"
+    ]
+}

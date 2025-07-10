@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 020021-9",
+    "filingDate": "25/09/2019",
+    "grantDate": null,
+    "title": "INSTALA\u00c7\u00c3O DE ABATE DE AVES DOM\u00c9STICAS SUSPENSAS PELAS PERNAS",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2021716",
+            "priorityDate": "26/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "VAN STEIJN ALOYSIUS CHRISTIANUS MARIA",
+        "VAN SPALL JOY DAVID MIKE",
+        "SOULI RAMZI"
+    ],
+    "holders": [
+        585
+    ],
+    "ipcCodes": [
+        "A22C 21/00"
+    ]
+}

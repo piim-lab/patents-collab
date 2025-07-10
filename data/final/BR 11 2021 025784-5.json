@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2021 025784-5",
+    "filingDate": "22/06/2020",
+    "grantDate": null,
+    "title": "SISTEMAS DE TRATAMENTO DE FLUIDO BIOL\u00d3GICO",
+    "nationalPhaseDate": [
+        "20/12/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/039011",
+        "pctDate": "22/06/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/865,207",
+            "priorityDate": "22/06/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/869,544",
+            "priorityDate": "01/07/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/986,593",
+            "priorityDate": "06/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2823"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "DANIEL CHURCH",
+        "LLOYD ISON",
+        "MARC STERN"
+    ],
+    "holders": [
+        219588
+    ],
+    "ipcCodes": [
+        "A61M 1/36"
+    ]
+}

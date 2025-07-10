@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 017165-0",
+    "filingDate": "30/08/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PROCESSAMENTO H\u00cdBRIDO DE SINAIS PARA UMA ESTA\u00c7\u00c3O BASE E PARA UM TERMINAL M\u00d3VEL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "ALVARO JAVIER ORTEGA"
+    ],
+    "holders": [
+        69952,
+        4167
+    ],
+    "ipcCodes": [
+        "H04B 7/06",
+        "H04B 7/0452"
+    ]
+}

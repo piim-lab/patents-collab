@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2013 020599-7",
+    "filingDate": "16/02/2012",
+    "grantDate": null,
+    "title": "USO DE UMA COMPOSI\u00c7\u00c3O, E COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201110039278.6",
+            "priorityDate": "16/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        }
+    ],
+    "inventors": [
+        "SHAOCHI HSIN"
+    ],
+    "holders": [
+        121164
+    ],
+    "ipcCodes": [
+        "A61K 36/185",
+        "A23L 33/21",
+        "A23L 33/28",
+        "A23L 33/24"
+    ]
+}

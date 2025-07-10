@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2021 006674-4",
+    "filingDate": "25/01/2011",
+    "grantDate": "16/11/2021",
+    "title": "TINTA COMPREENDENDO COMPOSI\u00c7\u00c3O DE REVESTIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10151721.7",
+            "priorityDate": "26/01/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/400,648",
+            "priorityDate": "30/07/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/01/2011",
+        "applicationNumber": "BR 11 2012 018656-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [
+        "PATRICK A C GANE",
+        "DETLEF GYSAU",
+        "GEORGE SAUNDERS",
+        "JOSEPH MCJUNKINS"
+    ],
+    "holders": [
+        81654
+    ],
+    "ipcCodes": [
+        "C09C 1/00",
+        "C09D 7/12"
+    ]
+}

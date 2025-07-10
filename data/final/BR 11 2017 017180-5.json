@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2017 017180-5",
+    "filingDate": "29/01/2016",
+    "grantDate": null,
+    "title": "SINALIZA\u00c7\u00c3O DE RETRANSMISS\u00c3O ENTRE UE E REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/114,503",
+            "priorityDate": "10/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/006,769",
+            "priorityDate": "26/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": []
+}

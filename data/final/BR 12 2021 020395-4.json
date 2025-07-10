@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2021 020395-4",
+    "filingDate": "05/08/2009",
+    "grantDate": null,
+    "title": "USO DE UM ANTICORPO OU UM FRAGMENTO DO MESMO E COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS",
+    "divisionalApplication": {
+        "filingDate": "05/08/2009",
+        "applicationNumber": "PI 0911926-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": []
+}

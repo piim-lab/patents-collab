@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2017 018155-0",
+    "filingDate": "25/02/2016",
+    "grantDate": null,
+    "title": "SISTEMA DE DISPOSITIVO M\u00c9DICO INSER\u00cdVEL CONTENDO POR\u00c7\u00c3O PARA TRATAMENTO DE PLACA E M\u00c9TODOS DE UTILIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/121.349",
+            "priorityDate": "26/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "CHARLIE OLSON"
+    ],
+    "holders": [
+        100271
+    ],
+    "ipcCodes": [
+        "A61M 25/10",
+        "A61B 17/22",
+        "A61B 17/3207"
+    ]
+}

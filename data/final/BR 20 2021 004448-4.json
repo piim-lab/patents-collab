@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 20 2021 004448-4",
+    "filingDate": "09/03/2021",
+    "grantDate": null,
+    "title": "RADAR PARA FISCALIZA\u00c7\u00c3O DE ULTRAPASSAGEM EM LOCAL PROIBIDO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2776"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI",
+            "bulletinNumber ": "2778"
+        }
+    ],
+    "inventors": [
+        "WILLIAN CESAR LUNCA"
+    ],
+    "holders": [
+        364773
+    ],
+    "ipcCodes": [
+        "G01S 13/91"
+    ]
+}

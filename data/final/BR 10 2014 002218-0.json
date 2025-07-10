@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2014 002218-0",
+    "filingDate": "29/01/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UMA M\u00c1QUINA DE LAVAR",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0011196",
+            "priorityDate": "31/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "YOUNGKEE OH",
+        "KYOUNGLAN KIM",
+        "INGEUN AHN",
+        "YOUNGKEE OH",
+        "KYOUNGLAN KIM",
+        "INGEUN AHN"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "D06F 39/04"
+    ]
+}

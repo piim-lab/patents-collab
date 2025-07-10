@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2019 003378-1",
+    "filingDate": "20/06/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O INGER\u00cdVEL DOCE, PRODUTO ALIMENT\u00cdCIO OU DE BEBIDA, PREPARADO DE DROGA, FARMAC\u00caUTICO OU COSM\u00c9TICO, EDULCORANTE E PRODUTO COMPREENDENDO A COMPOSI\u00c7\u00c3O INGER\u00cdVEL DOCE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/499,171",
+            "priorityDate": "20/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/531,802",
+            "priorityDate": "07/09/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/06/2012",
+        "applicationNumber": "BR 11 2013 032703-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        }
+    ],
+    "inventors": [
+        "SIDDHARTHA PURKAYASTHA",
+        "AVETIK MARKOSYAN",
+        "MARQUITA L JOHNSON",
+        "MONICA MORALMA GARCES ORTEGA"
+    ],
+    "holders": [
+        116487
+    ],
+    "ipcCodes": [
+        "A23L 2/60"
+    ]
+}

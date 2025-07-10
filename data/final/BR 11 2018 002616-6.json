@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2018 002616-6",
+    "filingDate": "10/08/2015",
+    "grantDate": null,
+    "title": "SISTEMA DE C\u00c9LULAS A COMBUST\u00cdVEL DE \u00d3XIDO S\u00d3LIDO",
+    "nationalPhaseDate": [
+        "07/02/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2015/072660",
+        "pctDate": "10/08/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "MAKI HOSHINO",
+        "TATSUYA YAGUCHI"
+    ],
+    "holders": [
+        79937
+    ],
+    "ipcCodes": [
+        "H01M 8/06",
+        "H01M 8/04",
+        "H01M 8/12"
+    ]
+}

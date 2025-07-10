@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2012 031508-0",
+    "filingDate": "31/05/2011",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O, ARTIGO E CABO COMPREENDENDO A MESMA E SEU PROCESSO DE PRODU\u00c7\u00c3O E USO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10165493.7",
+            "priorityDate": "10/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "THOMAS STEFFL",
+        "DAVID FRIEL",
+        "KATJA KLIMKE",
+        "CHRISTER SVANBERG"
+    ],
+    "holders": [
+        79375
+    ],
+    "ipcCodes": [
+        "C08K 3/00",
+        "C08L 23/10",
+        "C08L 23/06"
+    ]
+}

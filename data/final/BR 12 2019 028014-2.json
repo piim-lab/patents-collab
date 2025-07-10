@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2019 028014-2",
+    "filingDate": "26/09/2014",
+    "grantDate": null,
+    "title": "FORMULA\u00c7\u00c3O SECA DE UMA VACINA, VACINA, E, USO DE UMA FORMUA\u00c7\u00c3O SECA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/883,611",
+            "priorityDate": "27/09/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/09/2014",
+        "applicationNumber": "BR 11 2016 006326-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "ZHISONG QIAO",
+        "KEVIN OCONNELL"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A61K 39/29"
+    ]
+}

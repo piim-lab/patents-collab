@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2021 022703-9",
+    "filingDate": "09/11/2011",
+    "grantDate": null,
+    "title": "Processos para prepara\u00e7\u00e3o de dimetilamida do \u00e1cido 7-ciclopentil-2-(5-piperazin-1-il-piridin-2-ilamo)-7H-pirrol[2,3-D]pirimidino-6-carbox\u00edlico e seus sais, e de seus intermedi\u00e1rios",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/412,064",
+            "priorityDate": "10/11/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/11/2011",
+        "applicationNumber": "BR 11 2013 010167-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "JOHN VINCENT CALIENNI",
+        "PEI CHEN",
+        "BAOQING GONG",
+        "PRASAD KOTESWARA KAPA",
+        "VISHAL SAXENA"
+    ],
+    "holders": [
+        79188,
+        102045
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/519",
+        "C07D 401/12"
+    ]
+}

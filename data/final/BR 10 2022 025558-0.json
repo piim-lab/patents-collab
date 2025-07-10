@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 025558-0",
+    "filingDate": "14/12/2022",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE TRABALHO AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/307,225",
+            "priorityDate": "07/02/2022"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/992,056",
+            "priorityDate": "22/11/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "GOVIND KUMAR GUPTA",
+        "DISPESH SHENDE",
+        "SANDEE EKHE",
+        "PRADEEP KALE",
+        "ELIJAH B GAMER"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 7/06"
+    ]
+}

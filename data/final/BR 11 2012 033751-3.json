@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2012 033751-3",
+    "filingDate": "29/06/2011",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE VACINA, C\u00c9LULA, ADJUVANTE, M\u00c9TODO DE VACINAR UM PACIENTE CONTRA E. CANIS E PROCESSOS PARA PRODUZIR A COMPOSI\u00c7\u00c3O DE VACINA E O ANT\u00cdGENO DE E. CANIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/360969",
+            "priorityDate": "02/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "KEVIN A OCONNELL",
+        "RANGAPPA NARAYANA RAMACHANDRA",
+        "STEPHEN DAVID GAUNT",
+        "RICHARD E CORSTVET",
+        "TERRI LEE WASMOEN"
+    ],
+    "holders": [
+        86713,
+        80362
+    ],
+    "ipcCodes": [
+        "C12R 1/01",
+        "C12N 5/078",
+        "A61K 39/02"
+    ]
+}

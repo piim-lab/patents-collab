@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 007232-9",
+    "filingDate": "14/04/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE MANUSEIO DE PLACAS EM UMA M\u00c1QUINA QUE TRATA DE RECIPIENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2103969",
+            "priorityDate": "16/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "DOMINIQUE COSSAIS",
+        "PATRICK MASSOT",
+        "GA\u00cbTAN DOITEAU",
+        "MICHEL ROYER"
+    ],
+    "holders": [
+        60113
+    ],
+    "ipcCodes": [
+        "B65B 35/00"
+    ]
+}

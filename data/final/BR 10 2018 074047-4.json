@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 10 2018 074047-4",
+    "filingDate": "22/11/2018",
+    "grantDate": "17/05/2022",
+    "title": "SISTEMA PARA GERAR DESENHOS DE INSTALA\u00c7\u00d5ES FORMAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/822,070",
+            "priorityDate": "24/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "FREDERICO BAVASTRO",
+        "PETAR PEJIC"
+    ],
+    "holders": [
+        43944
+    ],
+    "ipcCodes": [
+        "G06T 17/05",
+        "G06T 19/00",
+        "G06T 7/00",
+        "G06F 30/13",
+        "G06T 19/20",
+        "G06V 30/422",
+        "G06F 111/18"
+    ]
+}

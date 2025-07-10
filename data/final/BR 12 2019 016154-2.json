@@ -1,0 +1,125 @@
+{
+    "applicationNumber": "BR 12 2019 016154-2",
+    "filingDate": "31/12/2008",
+    "grantDate": "23/02/2021",
+    "title": "CONJUNTO DE BOMBA DE INFUS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/018,042",
+            "priorityDate": "31/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/017,989",
+            "priorityDate": "31/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/018,002",
+            "priorityDate": "31/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/018,339",
+            "priorityDate": "31/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/018,054",
+            "priorityDate": "31/12/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/023,645",
+            "priorityDate": "25/01/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/101,053",
+            "priorityDate": "29/09/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/101,105",
+            "priorityDate": "29/09/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/101,115",
+            "priorityDate": "29/09/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/101,077",
+            "priorityDate": "29/09/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/12/2008",
+        "applicationNumber": "PI 0821466-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "DEAN KAMEN",
+        "JOHN MATTHEW KERWIN",
+        "COLIN HOLMES MURPHY",
+        "LARRY BRIAN GRAY",
+        "RICHARD J LANIGAN",
+        "STEPHEN LEWIS FICHERA",
+        "GERALD MICHAEL GUAY",
+        "DEAN KAMEN",
+        "JOHN MATTHEW KERWIN",
+        "COLIN HOLMES MURPHY",
+        "LARRY BRIAN GRAY",
+        "RICHARD J LANIGAN",
+        "STEPHEN LEWIS FICHERA",
+        "GERALD MICHAEL GUAY",
+        "JOHN MATTHEW KERWIN",
+        "COLIN HOLMES MURPHY",
+        "LARRY BRIAN GRAY",
+        "RICHARD J LANIGAN",
+        "STEPHEN LEWIS FICHERA",
+        "GERALD MICHAEL GUAY",
+        "DEAN KAMEN"
+    ],
+    "holders": [
+        130218
+    ],
+    "ipcCodes": [
+        "A61M 5/142",
+        "A61M 5/168",
+        "A61M 5/14"
+    ]
+}

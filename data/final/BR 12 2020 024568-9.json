@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2020 024568-9",
+    "filingDate": "01/12/2017",
+    "grantDate": null,
+    "title": "GAXETA SELANTE MET\u00c1LICA E M\u00c9TODO DE SELAGEM DE COMPONENTES TUBULARES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/432,444",
+            "priorityDate": "09/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/582,268",
+            "priorityDate": "28/04/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/12/2017",
+        "applicationNumber": "BR 10 2017 025997-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "MARK A MANNING",
+        "BLAKE T DEBERRY",
+        "MORRIS B WADE",
+        "BRUCE J WITWER"
+    ],
+    "holders": [
+        6743
+    ],
+    "ipcCodes": [
+        "F16L 37/084",
+        "F16L 15/00",
+        "F16L 37/086"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2021 026737-9",
+    "filingDate": "05/08/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE BORO-HIDRETO DE S\u00d3DIO",
+    "nationalPhaseDate": [
+        "29/12/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2020/030034",
+        "pctDate": "05/08/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-144883",
+            "priorityDate": "06/08/2019"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-114417",
+            "priorityDate": "01/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "KAORU SUGITA",
+        "YUJI OOTA",
+        "RENE YO ABE",
+        "TAKUMA HACHISU",
+        "TAKEHIRO MATSUNAGA"
+    ],
+    "holders": [
+        129483,
+        130492
+    ],
+    "ipcCodes": [
+        "C01B 3/00",
+        "C01B 6/21"
+    ]
+}

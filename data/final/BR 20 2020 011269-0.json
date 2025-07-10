@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 20 2020 011269-0",
+    "filingDate": "04/06/2020",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O EM CONECTOR DE ENGATE R\u00c1PIDO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "AUGUSTO CRESPI",
+        "ANDR\u00c9 SPEROTTO",
+        "JOS\u00c9 CARLOS FIN",
+        "RICARDO DAL PIVA"
+    ],
+    "holders": [
+        363147,
+        38843
+    ],
+    "ipcCodes": [
+        "F16B 12/26"
+    ]
+}

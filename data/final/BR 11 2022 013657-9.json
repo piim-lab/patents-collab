@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2022 013657-9",
+    "filingDate": "05/01/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO E PROCESSO PARA O TRATAMENTO T\u00c9RMICO DE S\u00d3LIDOS MINERAIS",
+    "nationalPhaseDate": [
+        "08/07/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2021/050073",
+        "pctDate": "05/01/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2020 200 186.3",
+            "priorityDate": "09/01/2020"
+        },
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2020/5011",
+            "priorityDate": "09/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2785"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2795"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2810"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "GUIDO GRUND",
+        "EUGEN WAGNER",
+        "CHRISTIAN BRINKMANN"
+    ],
+    "holders": [
+        21971,
+        18662
+    ],
+    "ipcCodes": [
+        "F27B 7/20",
+        "C04B 7/12",
+        "F27D 17/00",
+        "C04B 7/44",
+        "C04B 20/04"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2019 000160-7",
+    "filingDate": "04/01/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RECONFIGURAR UMA REDE DE ENERGIA EL\u00c9TRICA E REDE DE ENERGIA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR 18 50090",
+            "priorityDate": "05/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        }
+    ],
+    "inventors": [
+        "PIERRE AUTHIE",
+        "LAURENT DESHAYES",
+        "FABIAN CHOMEZ"
+    ],
+    "holders": [
+        389
+    ],
+    "ipcCodes": [
+        "G06F 1/18"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2022 012817-3",
+    "filingDate": "11/01/2017",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE VAPORIZA\u00c7\u00c3O PESSOAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/277,060",
+            "priorityDate": "11/01/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/01/2017",
+        "applicationNumber": "BR 11 2018 014183-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "PERRY DAVIDSON",
+        "BINYAMIN SCHWARTZ",
+        "AARON SCHORR",
+        "NIMROD RESHEF",
+        "ERAN OREN",
+        "BEERI KATZNELSON"
+    ],
+    "holders": [
+        185067
+    ],
+    "ipcCodes": [
+        "A61M 15/00",
+        "A24F 47/00",
+        "A61M 11/04"
+    ]
+}

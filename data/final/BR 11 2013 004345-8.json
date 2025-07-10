@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2013 004345-8",
+    "filingDate": "25/08/2011",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA EVITAR MALWARE ACOPLADO A UM SERVIDOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/868,676",
+            "priorityDate": "25/08/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/868,669",
+            "priorityDate": "25/08/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/868,672",
+            "priorityDate": "25/08/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "KEVIN PATRICK MAHAFFEY",
+        "JAMES DAVID BURGESS",
+        "DAVID GOLOMBEK",
+        "ANTHONY MCKAY LINEBERRY",
+        "KYLE BARTON",
+        "DAVID LUKE RICHARDSON",
+        "JOHN G HERING",
+        "JONATHAN PANTERA GRUBB",
+        "TIMOTHY MICHEAL WYATT",
+        "DANIEL LEE EVANS",
+        "ARIEL SALOMON"
+    ],
+    "holders": [
+        109200
+    ],
+    "ipcCodes": [
+        "G06F 21/56"
+    ]
+}

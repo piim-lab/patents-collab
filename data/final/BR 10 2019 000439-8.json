@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 000439-8",
+    "filingDate": "09/01/2019",
+    "grantDate": null,
+    "title": "TAMP\u00c3O DE FURO LEVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/616,006",
+            "priorityDate": "11/01/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/227,937",
+            "priorityDate": "20/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "THOMAS MICHAEL CHLYSTEK",
+        "TAO WANG",
+        "GEORGE SIRAGUSA",
+        "GREGORY MAMELSON"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": []
+}

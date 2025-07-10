@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 13 2017 028081-0",
+    "filingDate": "26/12/2017",
+    "grantDate": null,
+    "title": "TROCADOR COM SISTEMA ARTICUL\u00c1VEL E ESTEIO ENGAT\u00c1VEL PARA BER\u00c7O",
+    "parentApplication": {
+        "filingDate": "06/06/2017",
+        "applicationNumber": "BR 20 2017 011992-6"
+    },
+    "events": [
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2797"
+        },
+        {
+            "code": "15.22.1",
+            "description": "Devolu\u00e7\u00e3o de Prazo Negada",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "REINALDO DUQUE"
+    ],
+    "holders": [
+        30165
+    ],
+    "ipcCodes": [
+        "A47D 11/00",
+        "A47C 19/04",
+        "A47D 9/00",
+        "A47D 7/01"
+    ]
+}

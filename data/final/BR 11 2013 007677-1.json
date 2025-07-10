@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2013 007677-1",
+    "filingDate": "30/09/2011",
+    "grantDate": null,
+    "title": "BOLSA DE OSTOMIA COM SISTEMA DE FILTRA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "28/03/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2011/054177",
+        "pctDate": "30/09/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/388.331",
+            "priorityDate": "30/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/248.704",
+            "priorityDate": "29/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "MARC LESKO",
+        "MINGLIANG LAWRENCE TSAI",
+        "GARY OBERHOLTZER"
+    ],
+    "holders": [
+        84271
+    ],
+    "ipcCodes": [
+        "A61F 5/441"
+    ]
+}

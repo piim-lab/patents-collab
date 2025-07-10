@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 023049-2",
+    "filingDate": "11/11/2020",
+    "grantDate": null,
+    "title": "SERINGA PR\u00c9-CHEIA.",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "20190103308",
+            "priorityDate": "12/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "JAIME LUIS SZAPIRO",
+        "GERM\u00c1N ANDR\u00c9S SZAPIRO",
+        "SA\u00daL MORENO BONINO"
+    ],
+    "holders": [
+        63248
+    ],
+    "ipcCodes": [
+        "A61M 5/315",
+        "A61M 39/22"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 11 2013 017009-3",
+    "filingDate": "30/12/2011",
+    "grantDate": null,
+    "title": "ANTICORPOS ANTI-CD38",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/428,699",
+            "priorityDate": "30/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/470,406",
+            "priorityDate": "31/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/470,382",
+            "priorityDate": "31/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/485,104",
+            "priorityDate": "11/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "KATHLEEN ANN ELIAS",
+        "GREGORY LANDES",
+        "SHWETA SINGH",
+        "WOUTER KORVER",
+        "ANDREW WALLING DRAKE",
+        "MARY HAAK",
+        "GYORGY PAL SNELL",
+        "VINAY BHASKAR"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "C07K 16/28"
+    ]
+}

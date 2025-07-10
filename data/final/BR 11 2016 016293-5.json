@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2016 016293-5",
+    "filingDate": "03/02/2015",
+    "grantDate": null,
+    "title": "CONECTOR E M\u00c9TODO DE USO DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "145/14",
+            "priorityDate": "04/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        147913
+    ],
+    "ipcCodes": []
+}

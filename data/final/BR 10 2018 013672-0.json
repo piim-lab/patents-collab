@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 10 2018 013672-0",
+    "filingDate": "03/07/2018",
+    "grantDate": "22/02/2022",
+    "title": "SISTEMA DE COMUNICA\u00c7\u00c3O E M\u00c9TODO USANDO M\u00daLTIPLOS PROTOCOLOS NFC",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/698,462",
+            "priorityDate": "07/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "KETAN PATWARDHAN",
+        "NARAYANAN GOPALAKRISHNAN",
+        "VICTOR PAN",
+        "JAMES CASTILLO"
+    ],
+    "holders": [
+        39817
+    ],
+    "ipcCodes": [
+        "G06Q 20/20",
+        "G06K 7/10"
+    ]
+}

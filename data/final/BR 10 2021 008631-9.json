@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 008631-9",
+    "filingDate": "04/05/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSI\u00c7\u00c3O DE CONTROLE PARA CONTROLAR OPERA\u00c7\u00c3O DE UM MOTOR DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "2050728-1",
+            "priorityDate": "17/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "ERIK H\u00d6CKERDAL",
+        "ANDERS LARSSON"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "F23N 5/22"
+    ]
+}

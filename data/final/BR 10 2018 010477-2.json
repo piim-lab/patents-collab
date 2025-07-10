@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 010477-2",
+    "filingDate": "23/05/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO, ARRANJO DE AMORTECEDOR DE IMPACTO, E, M\u00c9TODO PARA MONITORAR UM AMORTECEDOR DE IMPACTO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/642,098",
+            "priorityDate": "05/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "AMIR FAZELI",
+        "ADNAN CEPIC",
+        "SUSANNE M REBER"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64F 5/60",
+        "B64C 25/60",
+        "F16F 9/52"
+    ]
+}

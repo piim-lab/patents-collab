@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2015 010556-4",
+    "filingDate": "22/10/2013",
+    "grantDate": "23/02/2021",
+    "title": "M\u00c9TODO PARA VALIDAR SINAIS DE SA\u00cdDA DE DETECTORES INTERNOS \u00c0 CUBA DO REATOR NUCLEAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/725,591",
+            "priorityDate": "13/11/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/771,115",
+            "priorityDate": "20/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2797"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "DAVID J KRIEG",
+        "WILLIAM A BOYD",
+        "NICHOLAS A BACHMANN"
+    ],
+    "holders": [
+        81006
+    ],
+    "ipcCodes": [
+        "G21C 17/06"
+    ]
+}

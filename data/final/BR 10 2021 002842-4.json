@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2021 002842-4",
+    "filingDate": "16/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE DADOS EM CONT\u00caINERES",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202010399430.3",
+            "priorityDate": "12/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "KE WEI",
+        "CHERN MAO",
+        "TING CHANG",
+        "CHUN FU",
+        "TANG LIU",
+        "HUNG CHANG",
+        "WEN CHANG"
+    ],
+    "holders": [
+        65570
+    ],
+    "ipcCodes": [
+        "G06F 1/20"
+    ]
+}

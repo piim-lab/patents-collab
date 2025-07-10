@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 015303-2",
+    "filingDate": "03/08/2021",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O DE DESCOUREAMENTO PARCIAL DE UMA CARCA\u00c7A E PROCESSO DE DESCOUREAMENTO PARCIAL DE UMA CARCA\u00c7A",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2810"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "HENRIQUE DAL CORSO BECKER H ROOS",
+        "EDER BRAMBATTI",
+        "GIOVANI SORDI",
+        "TOBIAS DAMO ZANDONA"
+    ],
+    "holders": [
+        22772
+    ],
+    "ipcCodes": [
+        "A22B 5/08"
+    ]
+}

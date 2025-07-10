@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2016 013226-2",
+    "filingDate": "12/12/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR COPOL\u00cdMEROS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13197040.2",
+            "priorityDate": "13/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "RAVINDRA TUPE",
+        "JANI AHO",
+        "MARKKU VAHTERI",
+        "TUOMAS NOOPILA",
+        "JARMO KELA"
+    ],
+    "holders": [
+        79375
+    ],
+    "ipcCodes": [
+        "C08F 2/00"
+    ]
+}

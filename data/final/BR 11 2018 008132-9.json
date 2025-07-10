@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2018 008132-9",
+    "filingDate": "30/08/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA EVITAR VAZAMENTOS A PARTIR DE F\u00c1BRICAS DE MINERA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "20/04/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CL2016/000050",
+        "pctDate": "30/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CL",
+            "priorityNumber": "3138-2015",
+            "priorityDate": "23/10/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "ALVARO ENRIQUE ENDO ARRIAGADA"
+    ],
+    "holders": [
+        213665
+    ],
+    "ipcCodes": [
+        "F16B 39/00",
+        "F16B 1/00",
+        "F16B 21/00",
+        "F16B 43/00",
+        "B02C 17/18",
+        "F16B 39/284",
+        "B02C 17/00",
+        "F16B 39/24",
+        "B02C 17/22",
+        "F16B 39/34",
+        "F16F 1/32"
+    ]
+}

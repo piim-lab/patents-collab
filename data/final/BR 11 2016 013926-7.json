@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2016 013926-7",
+    "filingDate": "21/07/2014",
+    "grantDate": "12/07/2022",
+    "title": "SISTEMA DE TRANSMISS\u00c3O DE FOLHA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201310694605.0",
+            "priorityDate": "16/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "TSENG WHAH"
+    ],
+    "holders": [
+        175866
+    ],
+    "ipcCodes": [
+        "B41F 21/00",
+        "B65H 29/58",
+        "B41F 1/28"
+    ]
+}

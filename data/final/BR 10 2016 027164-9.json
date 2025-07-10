@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2016 027164-9",
+    "filingDate": "21/11/2016",
+    "grantDate": null,
+    "title": "?M\u00c9TODO E SISTEMA PARA ESTIMATIVA DE VELOCIDADE?",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/002,364",
+            "priorityDate": "20/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "LEI LIU",
+        "KYLE M BRUCE"
+    ],
+    "holders": [
+        7188
+    ],
+    "ipcCodes": [
+        "G01M 1/16",
+        "G01P 3/64"
+    ]
+}

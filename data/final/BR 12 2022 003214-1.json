@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2022 003214-1",
+    "filingDate": "12/09/2018",
+    "grantDate": null,
+    "title": "APARELHO PARA DECODIFICAR INFORMA\u00c7\u00d5ES DE MOVIMENTO, APARELHO PARA CODIFICAR INFORMA\u00c7\u00d5ES DE MOVIMENTO, E MEIO LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO PARA REGISTRAR UM FLUXO DE BITS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/557,414",
+            "priorityDate": "12/09/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/09/2018",
+        "applicationNumber": "BR 11 2020 001881-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2761"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": []
+}

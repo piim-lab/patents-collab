@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2014 006756-2",
+    "filingDate": "21/09/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA A CONVERS\u00c3O DE UMA ALIMENTA\u00c7\u00c3O CONTENDO XILANO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11182219.3",
+            "priorityDate": "21/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        }
+    ],
+    "inventors": [
+        "EVERT VAN DER HEIDE",
+        "MUNRO MACKAY"
+    ],
+    "holders": [
+        13060
+    ],
+    "ipcCodes": [
+        "C13K 13/00"
+    ]
+}

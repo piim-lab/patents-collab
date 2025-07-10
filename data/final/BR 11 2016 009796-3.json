@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2016 009796-3",
+    "filingDate": "03/11/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO PARA TRANSMITIR UM SINAL DE SINCRONIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/898,973",
+            "priorityDate": "01/11/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/530,322",
+            "priorityDate": "31/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE SARTORI",
+        "LIANG XIA",
+        "QIANG LI",
+        "BRANISLAV POPOVIC",
+        "FREDRIK BERGGREN"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04B 7/212"
+    ]
+}

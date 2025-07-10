@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 20 2018 006384-2",
+    "filingDate": "28/03/2018",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O APLICADA EM M\u00c1SCARA PARA REPOUSO",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2762"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2773"
+        }
+    ],
+    "inventors": [
+        "SERGIO KOJI TANAKA"
+    ],
+    "holders": [
+        23775
+    ],
+    "ipcCodes": [
+        "A61M 21/00",
+        "A61F 9/04"
+    ]
+}

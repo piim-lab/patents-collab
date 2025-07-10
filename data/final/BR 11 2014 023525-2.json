@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2014 023525-2",
+    "filingDate": "26/03/2013",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DECODIFICA\u00c7\u00c3O DE GRAVURA, M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE GRAVURA E DISPOSITIVO DE RECEBIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-069718",
+            "priorityDate": "26/03/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-069719",
+            "priorityDate": "26/03/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-062962",
+            "priorityDate": "25/03/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-062961",
+            "priorityDate": "25/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "28.1",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        }
+    ],
+    "inventors": [
+        "TORU KUMAKURA",
+        "SHIGERU FUKUSHIMA"
+    ],
+    "holders": [
+        127879
+    ],
+    "ipcCodes": [
+        "H04N 19/176"
+    ]
+}

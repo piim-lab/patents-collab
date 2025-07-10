@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2012 030474-0",
+    "filingDate": "29/11/2012",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE FIAR DE UMA LINHA DE FIAR",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "BS2011A000166",
+            "priorityDate": "30/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "MASSIMO GALLI",
+        "ROSARIO ASSENZA"
+    ],
+    "holders": [
+        1728
+    ],
+    "ipcCodes": [
+        "D01H 1/22"
+    ]
+}

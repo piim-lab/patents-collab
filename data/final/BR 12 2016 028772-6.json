@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2016 028772-6",
+    "filingDate": "26/04/2006",
+    "grantDate": "12/11/2019",
+    "title": "SAL CATALISADOR DE METAL DE TRANSI\u00c7\u00c3O PR\u00c9-FORMADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "05253295.9",
+            "priorityDate": "27/05/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/04/2006",
+        "applicationNumber": "PI 0610466-5"
+    },
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "RONALD HAGE",
+        "JEAN HYPOLITES KOEK",
+        "MARINUS MARIA CORNELIS GERARDUS WARMOESKERKEN"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "B01J 31/18",
+        "B01J 31/22",
+        "D21C 9/10",
+        "D06L 4/00"
+    ]
+}

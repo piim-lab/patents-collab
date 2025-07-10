@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2021 023059-2",
+    "filingDate": "17/11/2021",
+    "grantDate": null,
+    "title": "EXTRATOR PARA A REMO\u00c7\u00c3O DE UM ELEMENTO ANULAR DE UM EIXO",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "109140259",
+            "priorityDate": "18/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "CHENYI",
+        "CHEN WEI"
+    ],
+    "holders": [
+        71880
+    ],
+    "ipcCodes": [
+        "B25B 27/02"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2019 018366-3",
+    "filingDate": "05/03/2018",
+    "grantDate": null,
+    "title": "FECHAMENTO DE RECIPIENTE DE L\u00c2MINA MET\u00c1LICA DESTAC\u00c1VEL TENDO UMA BORDA ONDULADA",
+    "nationalPhaseDate": [
+        "04/09/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/020832",
+        "pctDate": "05/03/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/452,409",
+            "priorityDate": "07/03/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/511,458",
+            "priorityDate": "26/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "BRIAN J CHISHOLM"
+    ],
+    "holders": [
+        98540
+    ],
+    "ipcCodes": [
+        "B65D 77/20"
+    ]
+}

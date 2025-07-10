@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 12 2022 011401-6",
+    "filingDate": "15/11/2017",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR HIDROCARBONETOS C4+ ou COMBUST\u00cdVEL RENOV\u00c1VEL DE HIDROCARBONETO",
+    "divisionalApplication": {
+        "filingDate": "15/11/2017",
+        "applicationNumber": "BR 11 2020 009731-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        172
+    ],
+    "ipcCodes": []
+}

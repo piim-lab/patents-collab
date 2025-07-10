@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2013 019898-2",
+    "filingDate": "07/02/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE COMPOSTO C8+",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/440,249",
+            "priorityDate": "07/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "PAUL BLOMMEL",
+        "BRICE DALLY",
+        "WARREN LYMAN",
+        "RANDY CORTRIGHT"
+    ],
+    "holders": [
+        93815
+    ],
+    "ipcCodes": [
+        "C10L 1/02",
+        "C10G 3/00"
+    ]
+}

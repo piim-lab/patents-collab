@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2012 018879-8",
+    "filingDate": "22/12/2010",
+    "grantDate": "12/01/2021",
+    "title": "M\u00c9TODO E APARELHO DE TRATAMENTO DE G\u00c1S DE VENTILA\u00c7\u00c3O ORIUNDO DE UM ARMAZENAMENTO CONTENDO UMA CARGA DE HIDROCARBONETO L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "10 01525.3",
+            "priorityDate": "29/01/2010"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "10 18353.1",
+            "priorityDate": "29/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2806"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "SIMON MARK OCONNOR"
+    ],
+    "holders": [
+        96014
+    ],
+    "ipcCodes": [
+        "F17C 11/00"
+    ]
+}

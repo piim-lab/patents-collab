@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 13 2022 006065-6",
+    "filingDate": "30/03/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE GERA\u00c7\u00c3O DE ENERGIA HIDROEL\u00c9TRICA RENOV\u00c1VEL, DOM\u00c9STICO",
+    "parentApplication": {
+        "filingDate": "29/03/2022",
+        "applicationNumber": "BR 10 2022 005998-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "CARLOS ARMANDO GALLO",
+        "MARCELO DE ARA\u00daJO AQUINO GALLO"
+    ],
+    "holders": [
+        45844,
+        75095
+    ],
+    "ipcCodes": [
+        "F03B 13/08"
+    ]
+}

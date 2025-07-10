@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2016 011989-4",
+    "filingDate": "26/11/2014",
+    "grantDate": null,
+    "title": "Navio pipelay dotado de um guindaste",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1320842.6",
+            "priorityDate": "26/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        157578
+    ],
+    "ipcCodes": []
+}

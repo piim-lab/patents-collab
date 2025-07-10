@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2021 005481-9",
+    "filingDate": "28/06/2012",
+    "grantDate": null,
+    "title": "PROTE\u00cdNA DE FUS\u00c3O ISOLADA, E, USO DA MESMA",
+    "divisionalApplication": {
+        "filingDate": "28/06/2012",
+        "applicationNumber": "BR 11 2013 033799-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        129401
+    ],
+    "ipcCodes": []
+}

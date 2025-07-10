@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2019 021795-5",
+    "filingDate": "15/07/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O VEDANTE COMP\u00d3SITA ENDOD\u00d4NTICA PARA ENCHIMENTO E SELAGEM DE UM CANAL DE RA\u00cdZ",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/671,251",
+            "priorityDate": "13/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/07/2013",
+        "applicationNumber": "BR 11 2015 000639-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "TODD BERGER",
+        "KEVIN WILKINSON",
+        "ADAM BARANTZ",
+        "DAN AMMON"
+    ],
+    "holders": [
+        136739
+    ],
+    "ipcCodes": [
+        "A61K 6/00"
+    ]
+}

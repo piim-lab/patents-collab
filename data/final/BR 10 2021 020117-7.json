@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2021 020117-7",
+    "filingDate": "06/10/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO NASAL COMPRESSIVO E M\u00c9TODO DE USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/063,970",
+            "priorityDate": "06/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "PAUL E CHASAN"
+    ],
+    "holders": [
+        70850
+    ],
+    "ipcCodes": [
+        "A61F 5/08"
+    ]
+}

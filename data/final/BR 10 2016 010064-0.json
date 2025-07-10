@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2016 010064-0",
+    "filingDate": "04/05/2016",
+    "grantDate": null,
+    "title": "MONTAGEM DE MOLA E PROCESSO DE PRODUZIR UMA MONTAGEM DE MOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102015208978.9",
+            "priorityDate": "15/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2705"
+        }
+    ],
+    "inventors": [
+        "GREGOR TEICHMANN",
+        "BORIS DITZER",
+        "ULRICH KRIESE"
+    ],
+    "holders": [
+        22814
+    ],
+    "ipcCodes": [
+        "B29C 65/52",
+        "F16F 1/12",
+        "F16F 1/02"
+    ]
+}

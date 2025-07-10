@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2014 001222-9",
+    "filingDate": "21/06/2012",
+    "grantDate": null,
+    "title": "PERFUME",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/509,364",
+            "priorityDate": "19/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/511,288",
+            "priorityDate": "25/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        }
+    ],
+    "inventors": [
+        "BARONE SALVATORE J",
+        "STAINA IRINA",
+        "BLEUEZ LOIC"
+    ],
+    "holders": [
+        2484
+    ],
+    "ipcCodes": [
+        "A61K 8/81",
+        "A61K 8/34",
+        "A61Q 13/00"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 011678-1",
+    "filingDate": "16/06/2021",
+    "grantDate": null,
+    "title": "BANDEJA OCTOGONAL COM CANTOS DE QUATRO CAMADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/902,758",
+            "priorityDate": "16/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "JONATHAN T BEALES"
+    ],
+    "holders": [
+        20173
+    ],
+    "ipcCodes": [
+        "B65D 5/42",
+        "B65D 5/32",
+        "B65D 19/06"
+    ]
+}

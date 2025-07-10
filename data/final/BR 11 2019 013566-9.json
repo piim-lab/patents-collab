@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2019 013566-9",
+    "filingDate": "28/02/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO, APARELHO, PRODUTO DE PROGRAMA DE COMPUTADOR E CIRCUITO DE CHECAGEM DE CORRENTE DE VAZAMENTO DE BATERIA",
+    "nationalPhaseDate": [
+        "28/06/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2017/075197",
+        "pctDate": "28/02/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201611264805.2",
+            "priorityDate": "30/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "WENCHAO YU",
+        "CHONG WEN",
+        "HUI WANG",
+        "JIANJUN XU",
+        "KANGJIE CHAO",
+        "HUOGEN KUANG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H01M 10/48",
+        "H01M 10/04",
+        "G01R 31/36"
+    ]
+}

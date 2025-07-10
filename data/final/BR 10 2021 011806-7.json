@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 011806-7",
+    "filingDate": "17/06/2021",
+    "grantDate": null,
+    "title": "APLICATIVO COM CIRCUITOS DE CONTROLE FLEX\u00cdVEIS PARA PROGRAMAR UM CONTROLADOR DE CONSTRU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "IN 202011026340",
+            "priorityDate": "22/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "NAGASREE POLURI",
+        "GUTHA STALIN SANGHAMITRA",
+        "SHRIRAM SANKARAN",
+        "SHREYA RATAKONDA"
+    ],
+    "holders": [
+        271
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G05B 15/02",
+        "G06Q 50/08",
+        "G06F 30/13"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 12 2019 010008-0",
+    "filingDate": "12/03/2004",
+    "grantDate": "17/09/2019",
+    "title": "DERIVADOS DE PIRIMIDINA, SEU USO, E COMPOSI\u00c7\u00c3O E COMBINA\u00c7\u00c3O FARMAC\u00caUTICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "03 05929.2",
+            "priorityDate": "14/03/2003"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "03 19227.5",
+            "priorityDate": "15/08/2003"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "03 22370.8",
+            "priorityDate": "24/09/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/03/2004",
+        "applicationNumber": "PI 0408347-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "CARLOS GARCIA",
+        "TAKANORI KANAZAWA",
+        "EIJI KAWAHARA",
+        "KEIICHI MASUYA",
+        "NAOKO MATSUURA",
+        "TAKAHIRO MIYAKE",
+        "OSAMU OHMORI",
+        "ICHIRO UMEMURA",
+        "CARLOS GARCIA",
+        "TAKANORI KANAZAWA",
+        "EIJI KAWAHARA",
+        "KEIICHI MASUYA",
+        "NAOKO MATSUURA",
+        "TAKAHIRO MIYAKE",
+        "OSAMU OHMORI",
+        "ICHIRO UMEMURA"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 37/00",
+        "A61K 31/506",
+        "C07D 405/12",
+        "A61K 35/00",
+        "C07D 401/12",
+        "C07D 401/14",
+        "C07D 403/12",
+        "C07D 239/48"
+    ]
+}

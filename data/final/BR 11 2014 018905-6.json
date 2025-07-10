@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2014 018905-6",
+    "filingDate": "28/12/2012",
+    "grantDate": null,
+    "title": "M\u00e9todos de fabrica\u00e7\u00e3o para fabricar um componente de funil e um cont\u00eainer de empacotamento",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-020021",
+            "priorityDate": "01/02/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-020022",
+            "priorityDate": "01/02/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-020023",
+            "priorityDate": "01/02/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-021063",
+            "priorityDate": "02/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "TAKESHI SAITO",
+        "SHINJI KANEYUKI",
+        "NORIYUKI SASAKI",
+        "JYUN SADA"
+    ],
+    "holders": [
+        122683
+    ],
+    "ipcCodes": [
+        "B65D 83/06"
+    ]
+}

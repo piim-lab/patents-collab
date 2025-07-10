@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2019 004256-7",
+    "filingDate": "28/02/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA MOVER UM OBJETO, EM PARTICULAR, PARA UM APARELHO DE BALANCEAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000003187",
+            "priorityDate": "01/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "GIANNI TRIONFETTI"
+    ],
+    "holders": [
+        46987
+    ],
+    "ipcCodes": [
+        "F16F 15/36",
+        "B24B 41/04"
+    ]
+}

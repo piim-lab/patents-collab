@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 012095-0",
+    "filingDate": "04/12/2015",
+    "grantDate": null,
+    "title": "APARELHO DE RESFRIAMENTO, E, NAVIO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14197744.7",
+            "priorityDate": "12/12/2014"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15177631.7",
+            "priorityDate": "21/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "BART ANDRE SALTERS",
+        "ROELANT BOUDEWIJN HIETBRINK"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "B08B 7/00",
+        "F01P 3/20",
+        "F28D 1/047",
+        "F28F 19/00",
+        "F28F 19/04"
+    ]
+}

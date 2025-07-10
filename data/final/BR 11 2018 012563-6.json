@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2018 012563-6",
+    "filingDate": "14/12/2016",
+    "grantDate": null,
+    "title": "INSTRUMENTO CIR\u00daRGICO ULTRASS\u00d4NICO COM RECURSOS DE SUBSTITUI\u00c7\u00c3O DE L\u00c2MINA",
+    "nationalPhaseDate": [
+        "19/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/066451",
+        "pctDate": "14/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/976,127",
+            "priorityDate": "21/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "JOHN A HIBNER",
+        "RICHARD C SMITH",
+        "CATHERINE A CORBETT",
+        "CRAIG N FALLER",
+        "DAVID A WITT"
+    ],
+    "holders": [
+        46877
+    ],
+    "ipcCodes": [
+        "A61B 17/32",
+        "A61B 17/29"
+    ]
+}

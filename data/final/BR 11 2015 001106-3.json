@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2015 001106-3",
+    "filingDate": "15/07/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA A PRODU\u00c7\u00c3O DE COMPOSTOS DE ISOQUINOLINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/672,191",
+            "priorityDate": "16/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "MICHAEL D THOMPSON",
+        "JUNG MIN PARK",
+        "MICHAEL P AREND"
+    ],
+    "holders": [
+        150020
+    ],
+    "ipcCodes": [
+        "A61P 39/00",
+        "A61P 7/06",
+        "C07D 217/26"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2019 022150-0",
+    "filingDate": "22/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE PVD COM PROCESSO ASSISTIDO DE DESCARGA DE PLASMA EM ARCO REMOTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/169,776",
+            "priorityDate": "24/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2766"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "BRYCE ANTON",
+        "VLADIMIR GOROKHOVSKY"
+    ],
+    "holders": [
+        49833
+    ],
+    "ipcCodes": [
+        "C23C 14/34",
+        "C23C 14/35",
+        "H01J 37/34"
+    ]
+}

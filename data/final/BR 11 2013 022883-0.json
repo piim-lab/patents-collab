@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2013 022883-0",
+    "filingDate": "02/03/2012",
+    "grantDate": null,
+    "title": "APT\u00c2MEROS, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, KIT, USOS DE UM APT\u00c2MERO E COLUNA DE AF\u00c9RESE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11157229.3",
+            "priorityDate": "07/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/449,772",
+            "priorityDate": "07/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "INGOLF SCHIMKE",
+        "ANNEKATHRIN HABERLAND",
+        "GERD WALLUKAT"
+    ],
+    "holders": [
+        122821,
+        122822
+    ],
+    "ipcCodes": [
+        "A61M 1/36",
+        "C12N 15/115",
+        "A61K 31/7088"
+    ]
+}

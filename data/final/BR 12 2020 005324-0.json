@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2020 005324-0",
+    "filingDate": "08/10/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA IDENTIFICAR, EM UMA AMOSTRA, UMA OU MAIS MOL\u00c9CULAS DE \u00c1CIDO RIBONUCLEICO ALVO E M\u00c9TODOS PARA IDENTIFICAR, EM UMA AMOSTRA, UMA OU MAIS MOL\u00c9CULAS ALVO DE MICRO-RNA (MIRNA)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/061,376",
+            "priorityDate": "08/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/103,894",
+            "priorityDate": "15/01/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/10/2015",
+        "applicationNumber": "BR 11 2017 007033-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "FRANCIS BARANY",
+        "JOHN WILLIAM EFCAVITCH",
+        "CRISTIAN RUIZ RUEDA",
+        "JIANMIN HUANG",
+        "PHILIP B FEINBERG"
+    ],
+    "holders": [
+        79285
+    ],
+    "ipcCodes": [
+        "C12Q 1/68"
+    ]
+}

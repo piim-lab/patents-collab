@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2023 003280-0",
+    "filingDate": "23/02/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA DETECTAR ANOMALIAS DE UMA INFRAESTRUTURA EM UMA REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/681,832",
+            "priorityDate": "27/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO CAVALLARO CORTI",
+        "MANLIO MODUGNO",
+        "MORENO CARULLO",
+        "ANDREA CARCANO"
+    ],
+    "holders": [
+        45393
+    ],
+    "ipcCodes": [
+        "G05B 19/418",
+        "H04L 43/04",
+        "H04L 43/18"
+    ]
+}

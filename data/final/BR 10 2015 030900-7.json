@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2015 030900-7",
+    "filingDate": "10/12/2015",
+    "grantDate": "21/06/2022",
+    "title": "CONJUNTO DE CABECEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/090,912",
+            "priorityDate": "12/12/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/835,850",
+            "priorityDate": "26/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "WILLIAM H MACLAY",
+        "KEVAN WITHERS",
+        "PETER J ZARKOWSKYJ",
+        "CHARLES C JENSEN",
+        "MARK E WENTLAND",
+        "ALEXANDRU IASZFALVI"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 11/00"
+    ]
+}

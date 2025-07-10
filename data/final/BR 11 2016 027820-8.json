@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2016 027820-8",
+    "filingDate": "01/06/2015",
+    "grantDate": null,
+    "title": "SISTEMA DE DESENVOLVIMENTO E M\u00c9TODO IMPLEMENTADO POR COMPUTADOR DE DESENVOLVER UM SISTEMA DE COMPUTADOR PARA ACESSO A CONTE\u00daDO SEM\u00c2NTICO",
+    "nationalPhaseDate": [
+        "28/11/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2015/033554",
+        "pctDate": "01/06/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/006,662",
+            "priorityDate": "02/06/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/539,521",
+            "priorityDate": "12/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "ANTON SHAKIRZIANOV",
+        "SURIYA NARAYANAN",
+        "LIANG YU",
+        "TOMASZ KAMINSKI"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 9/44",
+        "G06F 8/33",
+        "G06F 16/36",
+        "G06F 8/36"
+    ]
+}

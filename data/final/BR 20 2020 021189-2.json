@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 20 2020 021189-2",
+    "filingDate": "16/10/2020",
+    "grantDate": null,
+    "title": "PISTA PARA VE\u00cdCULOS PESADOS COM MEIOS DE VERIFICA\u00c7\u00c3O DE VE\u00cdCULO VAZIO",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "202030679",
+            "priorityDate": "21/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "CRUZ HEREDIA OMAR SAHI",
+        "CASANOVA MAR GERALDO IGNACIO",
+        "OSORIO HERNANDEZ LUIS GUILLERMO",
+        "CRESPO ZARAGOZA JUAN CARLOS",
+        "ARANDA ESTEPA MANUEL",
+        "GONZALEZ ANTOLIN RUBEN",
+        "FERNANDEZ BECERRA IVAN",
+        "PRESA GARCIA AGUSTIN",
+        "VILLANUEVA VILLANUEVA LUIS"
+    ],
+    "holders": [
+        287614
+    ],
+    "ipcCodes": [
+        "E01F 13/10"
+    ]
+}

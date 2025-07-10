@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2015 019688-8",
+    "filingDate": "18/02/2014",
+    "grantDate": null,
+    "title": "PROCESSO DE PREPARA\u00c7\u00c3O DE UMA CHAPA E CHAPA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "PCT/FR2013/050332",
+            "priorityDate": "18/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN ALLELY",
+        "TIAGO MACHADO AMORIM",
+        "ASTRID COFFIGNY"
+    ],
+    "holders": [
+        149569
+    ],
+    "ipcCodes": [
+        "C23C 2/06",
+        "C23C 2/26",
+        "C23G 1/20"
+    ]
+}

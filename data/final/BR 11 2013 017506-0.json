@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2013 017506-0",
+    "filingDate": "06/01/2012",
+    "grantDate": null,
+    "title": "MONTAGEM DE CURATIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/430,908",
+            "priorityDate": "07/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/443,647",
+            "priorityDate": "16/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [
+        "JASPER JACKSON",
+        "JOHN A ZEPEDA",
+        "ADAM C FRENCH",
+        "DARREN G DOUD",
+        "GEOFFREY C GURTNER",
+        "BRETT A FOLLMER",
+        "WILLIAM R BEASLEY",
+        "PAUL YOCK",
+        "KEIICHIRO ICHIRYU",
+        "MANUEL A CARDONA PAMPLONA",
+        "TOR C KROG",
+        "KEMAL LEVI"
+    ],
+    "holders": [
+        82405
+    ],
+    "ipcCodes": [
+        "A61F 13/02"
+    ]
+}

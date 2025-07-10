@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2020 014023-2",
+    "filingDate": "21/03/2014",
+    "grantDate": null,
+    "title": "USOS DE SEDOEPTULOSE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13160426.6",
+            "priorityDate": "21/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/03/2014",
+        "applicationNumber": "BR 11 2015 023730-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "ARVAND HASCHEMI",
+        "OSWALD WAGNER",
+        "CS\u00d6RSZ NAGY",
+        "RODRIG MARCULESCU"
+    ],
+    "holders": [
+        163344
+    ],
+    "ipcCodes": [
+        "A61K 31/7004"
+    ]
+}

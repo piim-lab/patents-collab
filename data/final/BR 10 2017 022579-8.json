@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2017 022579-8",
+    "filingDate": "20/10/2017",
+    "grantDate": "02/08/2022",
+    "title": "DOSAGEM DIN\u00c2MICA DE DESINFETANTE COM COMPENSA\u00c7\u00c3O DA DEGRADA\u00c7\u00c3O DE CONCENTRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/331,133",
+            "priorityDate": "21/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "SUNGWOOK YANG"
+    ],
+    "holders": [
+        28027
+    ],
+    "ipcCodes": [
+        "A61L 2/26",
+        "A61L 2/24"
+    ]
+}

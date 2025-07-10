@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2022 002427-4",
+    "filingDate": "22/07/2020",
+    "grantDate": null,
+    "title": "TAMPA DO BLOCO TENSOR ROSQUEADA",
+    "nationalPhaseDate": [
+        "09/02/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/042949",
+        "pctDate": "22/07/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 16/539,278",
+            "priorityDate": "13/08/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "ZACHARY T DONLAN",
+        "MIRCEA DUMITRU"
+    ],
+    "holders": [
+        4453
+    ],
+    "ipcCodes": [
+        "B62D 55/15",
+        "B62D 55/088"
+    ]
+}

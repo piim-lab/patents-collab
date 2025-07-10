@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2022 013357-3",
+    "filingDate": "04/07/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UM RECURSO COM BASE EM INVERSOR E SISTEMA PARA CONTROLAR UM SISTEMA DE ENERGIA DE TURBINA E\u00d3LICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/388,189",
+            "priorityDate": "29/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "DUSTIN HOWARD",
+        "ALFREDO SEBASTIAN ACHILLES"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "H02M 7/49",
+        "H02K 3/28",
+        "H02P 101/15",
+        "H02M 5/42",
+        "H02P 9/02"
+    ]
+}

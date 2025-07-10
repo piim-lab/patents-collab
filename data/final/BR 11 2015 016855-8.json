@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2015 016855-8",
+    "filingDate": "15/01/2014",
+    "grantDate": null,
+    "title": "TIJOLO DE MAGN\u00c9SIA-CARBONO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-005609",
+            "priorityDate": "16/01/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-044450",
+            "priorityDate": "06/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "MASATO TANAKA",
+        "MICHIHARU SHIOHAMA",
+        "YOSHINORI MATSUO",
+        "JOUKI YOSHITOMI",
+        "MICHIHARU SHIOHAMA",
+        "MASATO TANAKA",
+        "YOSHINORI MATSUO",
+        "JOUKI YOSHITOMI"
+    ],
+    "holders": [
+        111239
+    ],
+    "ipcCodes": [
+        "C04B 35/043"
+    ]
+}

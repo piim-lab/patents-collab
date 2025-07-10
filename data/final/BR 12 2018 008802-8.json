@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2018 008802-8",
+    "filingDate": "11/12/2008",
+    "grantDate": null,
+    "title": "PRODUTO DE TABACO CONSUM\u00cdVEL COMPREENDENDO FOLHAS DE PLANTA DE TABACO MODIFICADA COM N\u00cdVEIS DE C\u00c1DMIO REDUZIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/996,982",
+            "priorityDate": "13/12/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/12/2008",
+        "applicationNumber": "PI 0820741-0"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80986
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2015 008174-6",
+    "filingDate": "11/10/2013",
+    "grantDate": null,
+    "title": "CONJUGADOS DE PIRROLOBENZODIAZEPINA-ANTICORPO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/712,924",
+            "priorityDate": "12/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/712,928",
+            "priorityDate": "12/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/784,421",
+            "priorityDate": "14/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/784,362",
+            "priorityDate": "14/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/784,383",
+            "priorityDate": "14/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "PATRICIUS HENDRIKUS CORNELIS VAN BERKEL",
+        "PHILIP WILSON HOWARD"
+    ],
+    "holders": [
+        91046,
+        124239
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61P 39/00",
+        "A61K 47/48"
+    ]
+}

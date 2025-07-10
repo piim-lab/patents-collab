@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2023 004152-3",
+    "filingDate": "06/03/2023",
+    "grantDate": null,
+    "title": "PEDAL DE LEME DE AERONAVE E DISPOSITIVO DE CONTROLE DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR 22 01931",
+            "priorityDate": "07/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "LAURENT PISTIAUX",
+        "VINCENT MATEUS"
+    ],
+    "holders": [
+        931
+    ],
+    "ipcCodes": [
+        "B64C 9/00",
+        "B64C 9/02"
+    ]
+}

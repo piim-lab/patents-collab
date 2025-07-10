@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2013 004110-6",
+    "filingDate": "21/02/2013",
+    "grantDate": null,
+    "title": "MECANISMO DE AJUSTE DE CORRENTE NOMINAL PARA REL\u00c9 DE SOBRECORRENTE DE UM DISJUNTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "20-2012-0001496",
+            "priorityDate": "27/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.22",
+            "description": "Exig\u00eancia preliminar - pedidos sem buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "DAE WON KIM"
+    ],
+    "holders": [
+        531
+    ],
+    "ipcCodes": [
+        "H01H 50/04",
+        "H01H 31/06"
+    ]
+}

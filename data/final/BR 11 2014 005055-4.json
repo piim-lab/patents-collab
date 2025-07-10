@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2014 005055-4",
+    "filingDate": "28/08/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA O TRATAMENTO DE LICOR NEGRO DE MADEIRA DE FOLHOSA E LICOR NEGRO DE MADEIRA DE FOLHOSA TRATADO DE ACORDO COM O PROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1150800-9",
+            "priorityDate": "05/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "MATS N\u00c4SMAN",
+        "MARIA BJ\u00d6RK"
+    ],
+    "holders": [
+        79258
+    ],
+    "ipcCodes": [
+        "D21C 11/04",
+        "A21C 11/00"
+    ]
+}

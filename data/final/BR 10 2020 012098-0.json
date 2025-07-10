@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 012098-0",
+    "filingDate": "16/06/2020",
+    "grantDate": null,
+    "title": "M\u00c1QUINA T\u00caXTIL APRESENTANDO UMA PLURALIDADE DE ESTA\u00c7\u00d5ES DE TRABALHO E M\u00c9TODO PARA MONITORAR A MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2019 116 627.6",
+            "priorityDate": "19/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "BERT HURTZ",
+        "DIRK SCHIFFERS",
+        "RALF SIEWERT",
+        "TAI MAC"
+    ],
+    "holders": [
+        50644
+    ],
+    "ipcCodes": [
+        "B65H 63/00"
+    ]
+}

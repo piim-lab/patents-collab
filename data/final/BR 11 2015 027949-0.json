@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2015 027949-0",
+    "filingDate": "20/01/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO EM UM N\u00d3 E EM UM TERMINAL, N\u00d3, E, TERMINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/819,949",
+            "priorityDate": "06/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "MATTIAS BERGSTR\u00d6M",
+        "RUTH GUERRA",
+        "CHRISTOFER LINDHEIMER",
+        "FILIP MESTANOV",
+        "ELENA MYHRE",
+        "HAKAN PERSSON",
+        "MAGNUS STATTIN",
+        "OUMER TEYEB"
+    ],
+    "holders": [
+        79444
+    ],
+    "ipcCodes": [
+        "H04W 84/12",
+        "H04W 36/24"
+    ]
+}

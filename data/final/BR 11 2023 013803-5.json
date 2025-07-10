@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2023 013803-5",
+    "filingDate": "11/01/2021",
+    "grantDate": null,
+    "title": "RELAT\u00d3RIO DE TRANSI\u00c7\u00c3O DE ESTADO DE RRC",
+    "nationalPhaseDate": [
+        "10/07/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2021/071136",
+        "pctDate": "11/01/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "PEKKA KOSKINEN",
+        "SAMULI HEIKKI TURTINEN",
+        "JORMA JOHANNES KAIKKONEN",
+        "CHUNLI WU"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04W 68/00"
+    ]
+}

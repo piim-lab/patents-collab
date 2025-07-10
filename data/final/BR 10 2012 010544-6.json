@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2012 010544-6",
+    "filingDate": "27/04/2012",
+    "grantDate": "10/03/2020",
+    "title": "ESPA\u00c7AMENTO DE \u00d3XIDO DE TIT\u00c2NIO POR SIP",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/095,300",
+            "priorityDate": "27/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "XIAOWU FAN",
+        "JINZHEN SHI",
+        "REN TARNG",
+        "KEUN LEE",
+        "PHILLIP B MESSERSMITH"
+    ],
+    "holders": [
+        1530,
+        1531
+    ],
+    "ipcCodes": [
+        "B82Y 30/00",
+        "C09D 5/02",
+        "C01G 23/047",
+        "C08K 9/10",
+        "C09C 1/36",
+        "C09C 3/10",
+        "C09D 151/10",
+        "C09D 7/62"
+    ]
+}

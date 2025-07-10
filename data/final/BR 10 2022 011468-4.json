@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 011468-4",
+    "filingDate": "10/06/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA EVITAR COLIS\u00c3O POR OSCILA\u00c7\u00c3O DE CARROCERIA PARA UMA M\u00c1QUINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/544,233",
+            "priorityDate": "07/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "RACHEL BRUFLODT",
+        "GIOVANNI A WUISAN",
+        "MICHAEL KEAN",
+        "BRETT S GRAHAM"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B62D 15/02",
+        "B62D 11/02",
+        "B60W 10/20",
+        "B60W 10/04",
+        "B60W 30/09"
+    ]
+}

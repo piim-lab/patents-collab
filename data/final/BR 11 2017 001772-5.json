@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2017 001772-5",
+    "filingDate": "22/06/2015",
+    "grantDate": null,
+    "title": "PROCESSO APERFEI\u00c7OADO DE FABRICA\u00c7\u00c3O DE (MET) ACRILATOS DE ALQUILA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1457262",
+            "priorityDate": "28/07/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "ANNE MORELIERE",
+        "GILLES FRIMOUR",
+        "MICHEL PAUL",
+        "STEPHANE DENIS"
+    ],
+    "holders": [
+        16482
+    ],
+    "ipcCodes": [
+        "C07C 69/54",
+        "C07C 67/08"
+    ]
+}

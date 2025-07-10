@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 022004-7",
+    "filingDate": "27/10/2020",
+    "grantDate": null,
+    "title": "ELEMENTO DE CONEX\u00c3O E BOCAL DE REVESTIMENTO DESTE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "19/12044",
+            "priorityDate": "28/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "BAPTISTE GRISLAIN",
+        "HERV\u00c9 BOUCHER",
+        "FRAN\u00c7OIS DEBROUCKE"
+    ],
+    "holders": [
+        62904
+    ],
+    "ipcCodes": [
+        "F16C 1/26",
+        "F16C 1/10",
+        "E05B 79/20"
+    ]
+}

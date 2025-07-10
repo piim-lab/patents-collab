@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2018 070977-1",
+    "filingDate": "11/10/2018",
+    "grantDate": null,
+    "title": "ATRIBUI\u00c7\u00c3O DE ENDERE\u00c7OS A PSUS, DISPOSI\u00c7\u00c3O DE SERVI\u00c7O E CABINE DE PASSAGEIROS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 009 880.8",
+            "priorityDate": "24/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "LOTHAR TRUNK",
+        "STEFAN M\u00dcLLER"
+    ],
+    "holders": [
+        11520
+    ],
+    "ipcCodes": [
+        "B64D 11/00",
+        "G06F 13/40",
+        "G06F 13/42"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2020 026451-6",
+    "filingDate": "22/12/2020",
+    "grantDate": null,
+    "title": "KIT, SISTEMA E COMPOSI\u00c7\u00c3O DE LIMPEZA PARA HIGIENE PESSOAL (MOUSSE)",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102019000025321",
+            "priorityDate": "23/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "MAURIZIO DELLA CUNA",
+        "GIACOMO SEBASTIANI"
+    ],
+    "holders": [
+        64515
+    ],
+    "ipcCodes": [
+        "C11D 1/86",
+        "B05B 11/00",
+        "C11D 1/94"
+    ]
+}

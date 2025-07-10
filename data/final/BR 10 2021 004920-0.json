@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2021 004920-0",
+    "filingDate": "16/03/2021",
+    "grantDate": null,
+    "title": "FAIXA DE CISALHAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/001,732",
+            "priorityDate": "30/03/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/065,848",
+            "priorityDate": "08/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "FRANCESCO SPORTELLI"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "B60C 11/00",
+        "B60C 9/00"
+    ]
+}

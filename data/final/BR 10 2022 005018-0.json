@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2022 005018-0",
+    "filingDate": "17/03/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA DEDU\u00c7\u00c3O EM TEMPO REAL DE AC\u00daMULO DE MATERIAL EM UM CONT\u00caINER DE CARREGAMENTO DE UM VE\u00cdCULO DE TRANSPORTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/190,933",
+            "priorityDate": "20/05/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/532,727",
+            "priorityDate": "22/11/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "JONATHAN SPENDLOVE",
+        "JOHN M HAGEMAN",
+        "ZIMIN W VILAR"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G01B 11/00",
+        "G01F 22/00",
+        "G01G 19/08",
+        "G01G 19/414"
+    ]
+}

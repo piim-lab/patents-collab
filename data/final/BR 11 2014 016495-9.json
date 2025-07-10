@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2014 016495-9",
+    "filingDate": "21/12/2012",
+    "grantDate": null,
+    "title": "LATA CONTENDO UM L\u00cdQUIDO E COMPREENDENDO UMA EXTREMIDADE DE TOPO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12150045.8",
+            "priorityDate": "03/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER NEINER"
+    ],
+    "holders": [
+        100000
+    ],
+    "ipcCodes": [
+        "B65D 17/32"
+    ]
+}

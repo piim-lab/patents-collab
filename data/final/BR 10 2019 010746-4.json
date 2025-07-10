@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2019 010746-4",
+    "filingDate": "24/05/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO PARA ACIONAR UM COMPRESSOR DE UM FLUIDO EM FORMA DE VAPOR E USO DE UM DISPOSITIVO PARA ACIONAR UM COMPRESSOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102018112424.4",
+            "priorityDate": "24/05/2018"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102019107523.8",
+            "priorityDate": "25/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2778"
+        }
+    ],
+    "inventors": [
+        "BERND GUNTERMANN",
+        "DAVID WALISKO",
+        "STEPHAN HEINRICHS"
+    ],
+    "holders": [
+        48433
+    ],
+    "ipcCodes": [
+        "B60H 1/32",
+        "H02K 1/18",
+        "F04B 35/04",
+        "H02K 15/02",
+        "H02K 3/50",
+        "H02K 5/22",
+        "H02K 11/33"
+    ]
+}

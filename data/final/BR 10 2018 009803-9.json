@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 009803-9",
+    "filingDate": "15/05/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA O AQUECIMENTO DE UM FORNO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17020240.2",
+            "priorityDate": "06/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "OLA RITZ\u00c9N",
+        "DAVID MUREN",
+        "TOMAS EKMAN"
+    ],
+    "holders": [
+        1173
+    ],
+    "ipcCodes": [
+        "F23C 5/08",
+        "F23D 14/32",
+        "F27B 9/28",
+        "F27B 9/36"
+    ]
+}

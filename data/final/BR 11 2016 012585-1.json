@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 012585-1",
+    "filingDate": "28/11/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA DETERMINAR UMA AUTONOMIA PARA UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1351446-8",
+            "priorityDate": "05/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "DAN CEDFORS"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "F02M 37/00",
+        "G07C 5/08",
+        "B60R 16/023",
+        "B60K 15/07",
+        "G01C 21/36",
+        "B60K 15/06"
+    ]
+}

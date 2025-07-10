@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2017 016694-1",
+    "filingDate": "08/02/2016",
+    "grantDate": null,
+    "title": "INV\u00d3LUCRO DE CONFINAMENTO E M\u00c9TODO PARA TRANSFERIR UM CARREGAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1551004",
+            "priorityDate": "09/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [
+        "PASCAL GOULAY",
+        "PASCAL COCHARD"
+    ],
+    "holders": [
+        49442
+    ],
+    "ipcCodes": [
+        "G21F 7/04",
+        "B25J 21/02",
+        "E06B 1/62",
+        "B01L 1/04"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2013 020158-4",
+    "filingDate": "07/02/2012",
+    "grantDate": null,
+    "title": "FERRAMENTA DE DESCOQUEAMENTO HIDR\u00c1ULICA E SISTEMA DE DESCOQUEAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/440,611",
+            "priorityDate": "08/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/217,357",
+            "priorityDate": "25/08/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        }
+    ],
+    "inventors": [
+        "DANIEL ARZUAGA"
+    ],
+    "holders": [
+        120866
+    ],
+    "ipcCodes": [
+        "C10B 33/00"
+    ]
+}

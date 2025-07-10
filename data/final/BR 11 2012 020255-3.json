@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2012 020255-3",
+    "filingDate": "11/02/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO, ESTA\u00c7\u00c3O DE BASE, EQUIPAMENTO DO USU\u00c1RIO, E SISTEMA PARA ENVIAR E RECEBER SINALIZA\u00c7\u00c3O DE PDCCH",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201010111643.5",
+            "priorityDate": "11/02/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201010142160.1",
+            "priorityDate": "29/03/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201010165438.7",
+            "priorityDate": "30/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        }
+    ],
+    "inventors": [
+        "BINGYU QU",
+        "LEI GUAN",
+        "LIXIA XUE"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04W 28/12"
+    ]
+}

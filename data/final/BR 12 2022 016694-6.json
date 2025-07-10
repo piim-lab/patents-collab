@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2022 016694-6",
+    "filingDate": "26/06/2018",
+    "grantDate": null,
+    "title": "ENCHIMENTO DE TECIDO BIOCOMPAT\u00cdVEL E USO DE UM ENCHIMENTO DE TECIDO",
+    "divisionalApplication": {
+        "filingDate": "26/06/2018",
+        "applicationNumber": "BR 11 2019 027687-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        257466
+    ],
+    "ipcCodes": []
+}

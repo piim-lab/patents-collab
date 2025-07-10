@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2016 002218-1",
+    "filingDate": "06/06/2014",
+    "grantDate": null,
+    "title": "MATERIAL POLIM\u00c9RICO ANISOTR\u00d3PICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/863,929",
+            "priorityDate": "09/08/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/907,614",
+            "priorityDate": "22/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "VASILY A TOPOLKARAEV",
+        "RYAN J MCENEANY",
+        "NEIL T SCHOLL",
+        "MARK M MLEZIVA"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "C08J 9/00",
+        "C08J 3/20",
+        "C08L 67/00",
+        "C08J 5/00",
+        "C08L 23/00",
+        "C08K 7/00"
+    ]
+}

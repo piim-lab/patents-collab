@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 018144-6",
+    "filingDate": "09/09/2022",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O DE SENSOR DE VIA",
+    "priorityClaims": [
+        {
+            "countryCode": "PL",
+            "priorityNumber": "P.438929",
+            "priorityDate": "10/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "MARIUSZ BULAWA",
+        "JAROSLAW STEC"
+    ],
+    "holders": [
+        76800
+    ],
+    "ipcCodes": [
+        "E01B 26/00",
+        "B61L 1/02",
+        "E01B 29/32"
+    ]
+}

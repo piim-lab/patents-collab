@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2013 000897-0",
+    "filingDate": "14/07/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE AGENTES DE CONSTRASTE",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "PD2010A000222",
+            "priorityDate": "15/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        }
+    ],
+    "inventors": [
+        "PIER LUCIO ANELLI",
+        "MARINO BROCCHETTA",
+        "ENRICO CAPPELLETTI",
+        "ORNELLA GAZZOTTI"
+    ],
+    "holders": [
+        80292
+    ],
+    "ipcCodes": [
+        "C07C 231/10"
+    ]
+}

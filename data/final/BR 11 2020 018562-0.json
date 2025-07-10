@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2020 018562-0",
+    "filingDate": "08/03/2019",
+    "grantDate": null,
+    "title": "PROCESSO PREPARATIVO",
+    "nationalPhaseDate": [
+        "11/09/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/055815",
+        "pctDate": "08/03/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18161983.4",
+            "priorityDate": "15/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "JULIAN EGGER",
+        "DANIEL G\u00d6TZ",
+        "MICHAL SOWA"
+    ],
+    "holders": [
+        140083,
+        88766
+    ],
+    "ipcCodes": [
+        "C07D 401/10",
+        "C07C 233/00"
+    ]
+}

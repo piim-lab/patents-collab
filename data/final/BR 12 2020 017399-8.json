@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 017399-8",
+    "filingDate": "16/07/2013",
+    "grantDate": "03/05/2022",
+    "title": "M\u00c9TODO E DISPOSITIVO PARA RENDERIZAR UMA REPRESENTA\u00c7\u00c3O DE CAMPO SONORO AMBISONICS DE ORDEM SUPERIOR PARA REPRODU\u00c7\u00c3O DE \u00c1UDIO, DISPOSITIVO PARA DECODIFICA\u00c7\u00c3O E MEIO LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12305862.0",
+            "priorityDate": "16/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/07/2013",
+        "applicationNumber": "BR 11 2015 001128-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "JOHANNES BOEHM",
+        "FLORIAN KEILER"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "H04S 3/00"
+    ]
+}

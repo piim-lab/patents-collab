@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2014 003034-4",
+    "filingDate": "07/02/2014",
+    "grantDate": null,
+    "title": "MALA COM CAPA PROTETORA",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "102202961",
+            "priorityDate": "08/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "11.6",
+            "description": "Arquivamento do Pedido \u2013 Art. 216 \u00a72\u00b0 da LPI",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "3.6",
+            "description": "Publica\u00e7\u00e3o do Pedido Arquivado Definitivamente - Art. 216 \u00a72\u00ba e Art. 17 \u00a72\u00ba da LPI",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "TANG TING TING",
+        "TANG TING TING"
+    ],
+    "holders": [
+        10810,
+        10811
+    ],
+    "ipcCodes": [
+        "A45C 5/00"
+    ]
+}

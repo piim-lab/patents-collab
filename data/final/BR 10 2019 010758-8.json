@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2019 010758-8",
+    "filingDate": "27/05/2019",
+    "grantDate": null,
+    "title": "INSTRUMENTO DE F\u00d3RCEPS LAPAROSC\u00d3PICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18176834.2",
+            "priorityDate": "08/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "ACHIM BRODBECK",
+        "BERNHARD NOLD",
+        "MATTHIAS VOIGTLAENDER",
+        "TIM CLOSS"
+    ],
+    "holders": [
+        436
+    ],
+    "ipcCodes": [
+        "A61B 17/29",
+        "A61B 17/28"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2016 007880-2",
+    "filingDate": "21/10/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARA\u00c7\u00c3O DE GABAPENTINA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2013A001757",
+            "priorityDate": "22/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "MASSIMO VERZINI",
+        "LIVIUS COTARCA",
+        "FABIO BELLUZZO",
+        "GIORGIO SORIATO",
+        "DANIELE URBANI",
+        "ENRICO PACE"
+    ],
+    "holders": [
+        80651
+    ],
+    "ipcCodes": [
+        "C07C 227/04",
+        "C07C 229/28",
+        "C07C 227/40"
+    ]
+}

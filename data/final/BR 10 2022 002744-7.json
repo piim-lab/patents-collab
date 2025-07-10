@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2022 002744-7",
+    "filingDate": "14/02/2022",
+    "grantDate": null,
+    "title": "SEGMENTO DE REFINADOR, DISCO REFINADOR, E, REFINADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "2150341-2",
+            "priorityDate": "24/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2798"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "THOMMY LINDBLOM",
+        "LEONARDO GABRIEL"
+    ],
+    "holders": [
+        17741
+    ],
+    "ipcCodes": [
+        "D21D 1/30",
+        "D21D 1/28",
+        "D21D 1/20"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "applicationNumber": "BR 12 2020 017546-0",
+    "filingDate": "27/12/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO  PROGRAMADO  EM  UM  CONTROLADOR  DE  UM DISPOSITIVO,  E,  APARELHO  PARA  IMPLEMENTAR  UMA ATRIBUI\u00c7\u00c3O DE PALAVRA C\u00d3DIGO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/432,970",
+            "priorityDate": "14/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/432,957",
+            "priorityDate": "14/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/038,129",
+            "priorityDate": "01/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/448,031",
+            "priorityDate": "01/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/227,732",
+            "priorityDate": "08/09/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/12/2011",
+        "applicationNumber": "PI 1106909-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "EHSAN MAANI",
+        "WEI LIU",
+        "LINA DONG",
+        "ALI TABATABAI",
+        "EHSAN MAANI",
+        "WEI LIU",
+        "LINA DONG",
+        "ALI TABATABAI",
+        "EHSAN MAANI",
+        "WEI LIU",
+        "LINA DONG",
+        "ALI TABATABAI"
+    ],
+    "holders": [
+        326
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/13",
+        "H04N 19/503",
+        "H04N 19/186",
+        "H04N 19/593",
+        "H04N 19/159"
+    ]
+}

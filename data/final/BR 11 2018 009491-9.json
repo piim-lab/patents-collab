@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 11 2018 009491-9",
+    "filingDate": "06/03/2017",
+    "grantDate": "16/08/2022",
+    "title": "VIDRA\u00c7A COMP\u00d3SITA ILUMIN\u00c1VEL",
+    "nationalPhaseDate": [
+        "10/05/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2017/055180",
+        "pctDate": "06/03/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16159456.9",
+            "priorityDate": "09/03/2016"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16159469.2",
+            "priorityDate": "09/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "MARCEL KLEIN",
+        "DIRK D\u00d6RNER",
+        "MARCEL KLEIN",
+        "DIRK D\u00d6RNER"
+    ],
+    "holders": [
+        17414
+    ],
+    "ipcCodes": [
+        "G02B 6/00",
+        "B32B 17/06",
+        "F21V 8/00",
+        "B32B 17/10",
+        "F21V 33/00",
+        "B60Q 3/10"
+    ]
+}

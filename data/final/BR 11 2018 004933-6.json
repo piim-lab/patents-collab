@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2018 004933-6",
+    "filingDate": "10/08/2016",
+    "grantDate": null,
+    "title": "AGENDAMENTO EFICAZ DE TAREFAS MULTIVERSIONADAS",
+    "nationalPhaseDate": [
+        "13/03/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/046385",
+        "pctDate": "10/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/852,737",
+            "priorityDate": "14/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "ARUN RAMAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G06F 9/50",
+        "G06F 9/48"
+    ]
+}

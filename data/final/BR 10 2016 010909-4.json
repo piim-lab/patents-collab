@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2016 010909-4",
+    "filingDate": "13/05/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE MONITORAMENTO DE VIBRA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/161,712",
+            "priorityDate": "14/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "NICHOLAS DAVID NAGRODSKY",
+        "JAMES MICHAEL KISS JR",
+        "JEFFREY FRIES",
+        "DERICK DIAZ",
+        "DAVE FARMER"
+    ],
+    "holders": [
+        389
+    ],
+    "ipcCodes": [
+        "G01H 9/00",
+        "B61L 25/02",
+        "B61L 1/06"
+    ]
+}

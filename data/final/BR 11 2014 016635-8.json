@@ -1,0 +1,97 @@
+{
+    "applicationNumber": "BR 11 2014 016635-8",
+    "filingDate": "31/12/2012",
+    "grantDate": "13/07/2021",
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O, E, USO DE UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201210011031.8",
+            "priorityDate": "13/01/2012"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201210573072.6",
+            "priorityDate": "25/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2807"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "HONGXIA DING",
+        "JIN LI",
+        "KUN MENG",
+        "JOHN FINN",
+        "LESLIE WILLIAM TARI",
+        "ZHIYONG CHEN",
+        "JUNHU ZHANG",
+        "DOUGLAS PHILLIPISON",
+        "SUK JOONG LEE",
+        "MICHAEL TRZOSS",
+        "DANIEL BENSEN",
+        "XIAOMING LI",
+        "MIN TENG",
+        "VOON ONG",
+        "ALLEN JOHN BORCHARDT",
+        "THANH TO LAM",
+        "FELICE C LIGHTSTONE",
+        "SERGIO E WONG",
+        "TOAN B NGUYEN",
+        "RAJINDER SINGH",
+        "SOMASEKHAR BHAMIDIPATI",
+        "ESTEBAN MASUDA"
+    ],
+    "holders": [
+        139817,
+        82587,
+        107668,
+        123077
+    ],
+    "ipcCodes": [
+        "A61P 37/00",
+        "C07D 498/04",
+        "A61K 31/5383",
+        "A61K 31/675",
+        "C07F 9/6561"
+    ]
+}

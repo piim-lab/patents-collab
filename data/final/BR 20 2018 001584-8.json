@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 20 2018 001584-8",
+    "filingDate": "25/01/2018",
+    "grantDate": null,
+    "title": "AUTOMATIZADOR PARA PORT\u00c3O SEM CAIXA DE REDU\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "BEATRIZ MARQUES",
+        "EDGAR MARQUES"
+    ],
+    "holders": [
+        65287
+    ],
+    "ipcCodes": [
+        "E05F 15/603"
+    ]
+}

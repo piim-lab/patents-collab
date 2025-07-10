@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2018 070680-5",
+    "filingDate": "15/12/2009",
+    "grantDate": null,
+    "title": "CONVERSOR DE POT\u00caNCIA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2009-006543",
+            "priorityDate": "15/01/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/12/2009",
+        "applicationNumber": "PI 0924037-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        }
+    ],
+    "inventors": [
+        "KANTARO YOSHIMOTO",
+        "KANTARO YOSHIMOTO",
+        "KANTARO YOSHIMOTO"
+    ],
+    "holders": [
+        79937
+    ],
+    "ipcCodes": [
+        "H02M 7/06",
+        "H02M 3/28"
+    ]
+}

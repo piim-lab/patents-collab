@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 020123-1",
+    "filingDate": "06/10/2021",
+    "grantDate": null,
+    "title": "TERMINAL DE BATERIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/065,134",
+            "priorityDate": "07/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "GUSTAVO BONUCCI",
+        "LUIS ALTERO",
+        "RAFAEL KAZUO SATO T LEME",
+        "AGNELO BARTOLOMEU CAVALLARO"
+    ],
+    "holders": [
+        39019
+    ],
+    "ipcCodes": [
+        "H01M 50/172",
+        "H01R 13/512"
+    ]
+}

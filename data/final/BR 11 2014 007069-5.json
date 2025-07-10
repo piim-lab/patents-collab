@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 007069-5",
+    "filingDate": "26/09/2012",
+    "grantDate": null,
+    "title": "PROTE\u00cdNAS DE FUS\u00c3O PARA O TRATAMENTO DE DIST\u00daRBIOS METAB\u00d3LICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/539,280",
+            "priorityDate": "26/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "BRIAN R BOETTCHER",
+        "SHARI L CAPLAN",
+        "DOUGLAS S DANIELS",
+        "NORIO HAMAMATSU",
+        "STUART LICHT",
+        "STEPHEN CRAIG WELDON"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61K 38/18",
+        "A61K 38/00",
+        "A61K 45/06",
+        "C07K 14/50"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2021 024791-6",
+    "filingDate": "08/12/2021",
+    "grantDate": null,
+    "title": "CONTROLADOR ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/130,950",
+            "priorityDate": "22/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2791"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "DARRELL E ANKNEY",
+        "NICHOLAS WLAZNIK",
+        "FRANCESCO DEL ZOPPO"
+    ],
+    "holders": [
+        320120,
+        1795
+    ],
+    "ipcCodes": [
+        "H02J 9/00",
+        "H02H 3/12",
+        "H02H 1/00"
+    ]
+}

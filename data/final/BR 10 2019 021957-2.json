@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 021957-2",
+    "filingDate": "18/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA DISPENSADOR DE FRAGR\u00c2NCIA PASSIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/748,490",
+            "priorityDate": "21/10/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/654,581",
+            "priorityDate": "16/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "BERNIE ZIEBART",
+        "JODIE SCHOON"
+    ],
+    "holders": [
+        34447
+    ],
+    "ipcCodes": [
+        "A61L 9/12"
+    ]
+}

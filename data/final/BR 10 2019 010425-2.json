@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 010425-2",
+    "filingDate": "22/05/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ENVIO DE DADOS A PARTIR DE UM DISPOSITIVO A MONTANTE PARA UM DISPOSITIVO A JUSANTE, PROGRAMA DE COMPUTADOR DESCARREG\u00c1VEL A PARTIR DE UMA REDE DE COMUNICA\u00c7\u00c3O OU GRAVADO EM SUPORTE LEG\u00cdVEL OU EXECUT\u00c1VEL POR UM PROCESSADOR E SISTEMA DE ENVIO DE DADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1854232",
+            "priorityDate": "22/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "PIERRE AXEL LAGADEC",
+        "SA\u00cfD DERRADJI",
+        "DOMINIQUE RIGAL",
+        "LAURENT MARLIAC"
+    ],
+    "holders": [
+        35258
+    ],
+    "ipcCodes": [
+        "G06F 3/01"
+    ]
+}

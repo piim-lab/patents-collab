@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2021 008187-2",
+    "filingDate": "28/04/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE AVALIA\u00c7\u00c3O INTEGRADO, OBTEN\u00c7\u00c3O DE DISPOSITIVO INTRABUCAL  E RESPECTIVO USO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "28.10.4",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante MEI, ME ou EPP",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "RODRIGO BAPTISTA PARDO"
+    ],
+    "holders": [
+        67160
+    ],
+    "ipcCodes": [
+        "A61B 5/00",
+        "A63B 71/08",
+        "G16H 30/40",
+        "G16H 20/40"
+    ]
+}

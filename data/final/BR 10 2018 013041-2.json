@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 013041-2",
+    "filingDate": "25/06/2018",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA OPERAR UM SISTEMA DE LUZ",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/633,085",
+            "priorityDate": "26/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "ARTHUR E BROCKSCHMIDT",
+        "JAMIE J CHILDRESS",
+        "KAREN L HILLS",
+        "TERESA A KING",
+        "MELANIE KIMSEY"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "H02M 7/217",
+        "A61L 2/10",
+        "B64D 13/06"
+    ]
+}

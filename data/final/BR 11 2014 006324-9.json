@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2014 006324-9",
+    "filingDate": "14/09/2012",
+    "grantDate": "26/12/2018",
+    "title": "COMPOSI\u00c7\u00c3O E SEU USO PARA O TRATAMENTO DE HCV",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/535,885",
+            "priorityDate": "16/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/561,753",
+            "priorityDate": "18/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        }
+    ],
+    "inventors": [
+        "ADRIAN S RAY",
+        "WILLIAM J WATKINS",
+        "JOHN O LINK",
+        "DAVID W OLDACH",
+        "WILLIAM E DELANEY IV"
+    ],
+    "holders": [
+        133372
+    ],
+    "ipcCodes": [
+        "A61P 31/14",
+        "A61K 31/4184",
+        "A61K 31/381",
+        "A61K 31/513",
+        "A61K 31/4196"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 10 2020 021831-0",
+    "filingDate": "23/10/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE RECICLAGEM PARA ELETR\u00d3LITO S\u00d3LIDO \u00c0 BASE DE \u00d3XIDO COM FASE ORIGINAL, M\u00c9TODO DE FABRICA\u00c7\u00c3O DE BATERIA DE L\u00cdTIO E BATERIA ECOL\u00d3GICA DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "108138562",
+            "priorityDate": "25/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "NAN YANG"
+    ],
+    "holders": [
+        42765,
+        42766
+    ],
+    "ipcCodes": [
+        "H01M 10/42",
+        "H01M 10/0562",
+        "H01M 10/54"
+    ]
+}

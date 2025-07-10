@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2013 016489-1",
+    "filingDate": "24/06/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE S\u00cdNTESE SOLVOT\u00c9RMICO DE PENEIRAS MOLECULARES.",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201010610515.5",
+            "priorityDate": "29/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "PENG TIAN",
+        "ZHONGMIN LIU",
+        "YING ZHANG",
+        "DONG FAN",
+        "XIONG SU"
+    ],
+    "holders": [
+        118170
+    ],
+    "ipcCodes": [
+        "B01J 29/85",
+        "C01B 39/54",
+        "C01B 37/08"
+    ]
+}

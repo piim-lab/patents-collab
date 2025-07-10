@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2018 007290-7",
+    "filingDate": "03/11/2015",
+    "grantDate": null,
+    "title": "MINHA PATENTE 1",
+    "nationalPhaseDate": [
+        "11/04/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2015/058854",
+        "pctDate": "03/11/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "BR",
+            "priorityNumber": "1020150330243",
+            "priorityDate": "03/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "15.7",
+            "description": "Peti\u00e7\u00e3o n\u00e3o Conhecida",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "INVENTOR",
+        "INVENTOR"
+    ],
+    "holders": [
+        212706,
+        212707
+    ],
+    "ipcCodes": [
+        "G02C 7/04"
+    ]
+}

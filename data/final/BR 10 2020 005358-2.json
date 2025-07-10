@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 005358-2",
+    "filingDate": "18/03/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE BANCADA E RESPECTIVO M\u00c9TODO DE GERA\u00c7\u00c3O DE CORROS\u00c3O ACELERADA POR FLUXO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "GELSON LUIZ CARNEIRO",
+        "VAGNER SILVERIO",
+        "TIAGO FRANCESCONI",
+        "RODRIGO PALUDO",
+        "NILTON CLAUDIO DA SILVA SANTOS"
+    ],
+    "holders": [
+        1413
+    ],
+    "ipcCodes": [
+        "G01N 3/56",
+        "G01N 17/00",
+        "G01N 33/2028"
+    ]
+}

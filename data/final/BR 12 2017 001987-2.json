@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 12 2017 001987-2",
+    "filingDate": "13/02/2014",
+    "grantDate": null,
+    "title": "T\u00c9CNICAS PARA MONITOR COM MODULA\u00c7\u00c3O DUPLA COM CONVERS\u00c3O DE LUZ",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/775,375",
+            "priorityDate": "08/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/02/2014",
+        "applicationNumber": "BR 11 2015 020571-2"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "AJIT NINAN",
+        "CHUN CHI WAN"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "H05B 37/02",
+        "G09G 3/20"
+    ]
+}

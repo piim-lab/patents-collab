@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2012 033729-7",
+    "filingDate": "28/06/2011",
+    "grantDate": null,
+    "title": "AGULHA.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1002701",
+            "priorityDate": "28/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        }
+    ],
+    "inventors": [
+        "SIMON FORBE"
+    ],
+    "holders": [
+        100389
+    ],
+    "ipcCodes": [
+        "A61M 5/32"
+    ]
+}

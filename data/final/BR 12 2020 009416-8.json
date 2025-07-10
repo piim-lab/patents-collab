@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2020 009416-8",
+    "filingDate": "04/05/2007",
+    "grantDate": null,
+    "title": "MODULADORES DA VIA HEDGEHOG",
+    "divisionalApplication": {
+        "filingDate": "04/05/2007",
+        "applicationNumber": "PI 0711333-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "WENQI GAO",
+        "JIQING JIANG",
+        "YONGQIN WAN",
+        "DAI CHENG",
+        "DONG HAN",
+        "XU WU",
+        "SHIFENG PAN"
+    ],
+    "holders": [
+        80494
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07C 233/65",
+        "C07D 405/12",
+        "C07D 401/14",
+        "C07D 401/04",
+        "C07D 295/26",
+        "C07C 233/75",
+        "C07D 409/12",
+        "C07D 413/04",
+        "C07D 213/75",
+        "A61K 31/4433",
+        "C07D 295/135",
+        "C07D 239/49"
+    ]
+}

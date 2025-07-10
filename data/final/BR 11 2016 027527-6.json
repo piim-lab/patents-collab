@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2016 027527-6",
+    "filingDate": "08/06/2015",
+    "grantDate": null,
+    "title": "Sistema de transporte para carga a granel",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 108 333.4",
+            "priorityDate": "13/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "SIMONE GANZ",
+        "SEBASTIAN DROSTE",
+        "FRANK ZENKE"
+    ],
+    "holders": [
+        22748
+    ],
+    "ipcCodes": [
+        "B65G 47/53",
+        "B65G 47/66",
+        "B65G 15/04"
+    ]
+}

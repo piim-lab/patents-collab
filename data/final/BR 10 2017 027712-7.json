@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2017 027712-7",
+    "filingDate": "21/12/2017",
+    "grantDate": null,
+    "title": "APARELHO PARA AN\u00c1LISE DE G\u00c1S E M\u00c9TODO DE AN\u00c1LISE DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16206168.3",
+            "priorityDate": "22/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "DAVID PETER ROBINSON"
+    ],
+    "holders": [
+        4554
+    ],
+    "ipcCodes": [
+        "G02B 5/08",
+        "G02B 26/12",
+        "G02B 17/00"
+    ]
+}

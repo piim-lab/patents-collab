@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2012 018915-8",
+    "filingDate": "01/04/2011",
+    "grantDate": "30/07/2019",
+    "title": "FECHO PARA UM RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10159039.6",
+            "priorityDate": "01/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2768"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "FABRIZIO PUCCI",
+        "BJ\u00d6RN CHRISTENSEN",
+        "FABIAN WAHL",
+        "MICHAEL WEBER",
+        "SAMUEL SCHINDLER",
+        "LUKAS WILHELM"
+    ],
+    "holders": [
+        90449,
+        164186,
+        164187,
+        25374
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2020 018481-7",
+    "filingDate": "16/12/2016",
+    "grantDate": null,
+    "title": "CARTUCHOS DE FILTRO E MONTAGENS DE PURIFICADOR DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/269.761",
+            "priorityDate": "18/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/316.713",
+            "priorityDate": "01/04/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/12/2016",
+        "applicationNumber": "BR 11 2018 012466-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "KRISTOF DECOSTER",
+        "JOHNNY CRAESSAERTS",
+        "JOHAN G DEWIT",
+        "BART CATOOR",
+        "TIM BILLIAU",
+        "BAPTIST MARIA MOERS",
+        "RUI SUN",
+        "JACOB C SAVSTROM"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "B01D 46/52",
+        "B01D 46/00",
+        "B01D 50/00"
+    ]
+}

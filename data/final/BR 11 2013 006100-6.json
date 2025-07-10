@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2013 006100-6",
+    "filingDate": "26/09/2011",
+    "grantDate": null,
+    "title": "ARTIGOS EXTRUDADOS DE POLIETILENO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10181136.2",
+            "priorityDate": "28/09/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10181234.5",
+            "priorityDate": "28/09/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11182427.2",
+            "priorityDate": "23/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        }
+    ],
+    "inventors": [
+        "PIETRO BAITA",
+        "HARILAOS MAVRIDIS",
+        "PAOLO FERRARI",
+        "JENS WIESECKE",
+        "ROBERTA PICA",
+        "GABRIELE MEI",
+        "DIEGO BRITA"
+    ],
+    "holders": [
+        81147
+    ],
+    "ipcCodes": [
+        "C08F 2/00",
+        "C08F 2/34",
+        "C08F 4/649",
+        "C08F 10/02"
+    ]
+}

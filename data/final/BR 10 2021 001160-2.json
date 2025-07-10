@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2021 001160-2",
+    "filingDate": "21/01/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA RESFRIAMENTO DE UM FLUIDO DE EXAUST\u00c3O DE DIESEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/749,380",
+            "priorityDate": "22/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "DANIEL ALAN MOREY"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "F01N 3/02"
+    ]
+}

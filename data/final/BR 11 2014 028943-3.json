@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2014 028943-3",
+    "filingDate": "10/05/2013",
+    "grantDate": null,
+    "title": "SISTEMA DE ULTRASSOM DE DIAGN\u00d3STICO QUE COMPENSA AS IMAGENS EXPORTADAS PARA UM TERMINAL REMOTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/650,241",
+            "priorityDate": "22/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "DAVID RUST",
+        "KARL ERHARD THIELE",
+        "KEVIN BRADLEY",
+        "EARL A CANFIELD"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "A61B 8/00",
+        "G16H 40/40",
+        "G01S 7/52",
+        "G01S 7/00"
+    ]
+}

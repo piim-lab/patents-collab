@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 009474-5",
+    "filingDate": "14/05/2021",
+    "grantDate": null,
+    "title": "ESTRUTURA PARA CAPTA\u00c7\u00c3O DO FLUXO DE VENTO GERADO PELO DESLOCAMENTO DE VE\u00cdCULOS EM RODOVIAS E VIAS R\u00c1PIDAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o - Art. 87 da LPI",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "ALO\u00cdSIO JOS\u00c9 SOECKI"
+    ],
+    "holders": [
+        67552
+    ],
+    "ipcCodes": [
+        "F03D 3/06",
+        "F03D 9/10",
+        "F03D 9/46"
+    ]
+}

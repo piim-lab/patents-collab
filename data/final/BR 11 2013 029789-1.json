@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2013 029789-1",
+    "filingDate": "16/05/2012",
+    "grantDate": null,
+    "title": "PRODUTO TRABALHADO FEITO DE UMA LIGA DE ALUM\u00cdNIO, PROCESSO PARA SUA FABRICA\u00c7\u00c3O E UTILIZA\u00c7\u00c3O DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "11/01555",
+            "priorityDate": "20/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/488,196",
+            "priorityDate": "20/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "FRANK EBERL",
+        "BERNARD BES"
+    ],
+    "holders": [
+        102883
+    ],
+    "ipcCodes": [
+        "C22C 21/06",
+        "C22F 1/047"
+    ]
+}

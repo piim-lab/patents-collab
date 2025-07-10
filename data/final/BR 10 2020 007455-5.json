@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2020 007455-5",
+    "filingDate": "15/04/2020",
+    "grantDate": null,
+    "title": "INSTALA\u00c7\u00c3O DESTINADA A PERMITIR UM CONTROLE DE CONFORMIDADE E PROCEDIMENTO DE CONTROLE DE CONFORMIDADE DE UMA PE\u00c7A MEC\u00c2NICA DE UM VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "19/03977",
+            "priorityDate": "15/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "EMERIC RICHARD",
+        "SARAH TALLET"
+    ],
+    "holders": [
+        57853
+    ],
+    "ipcCodes": [
+        "G01B 11/24",
+        "G01N 21/88",
+        "B62D 3/12",
+        "G01N 21/91"
+    ]
+}

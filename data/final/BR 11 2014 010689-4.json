@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 010689-4",
+    "filingDate": "25/10/2012",
+    "grantDate": null,
+    "title": "APARELHO DE INJE\u00c7\u00c3O EM OVOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/554.631",
+            "priorityDate": "02/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        }
+    ],
+    "inventors": [
+        "PAUL ARCHIE STEEN",
+        "MICHAEL GLENN SCHNUPPER",
+        "DANIEL SCOTT REES"
+    ],
+    "holders": [
+        46388
+    ],
+    "ipcCodes": [
+        "A01K 45/00"
+    ]
+}

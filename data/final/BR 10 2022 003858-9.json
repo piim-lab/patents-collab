@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 003858-9",
+    "filingDate": "02/03/2022",
+    "grantDate": null,
+    "title": "REGULADOR DE PRESS\u00c3O DE COMBINA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/155,848",
+            "priorityDate": "03/03/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/386,012",
+            "priorityDate": "27/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "DAVID W GAILEY",
+        "RANDY C EDENFIELD"
+    ],
+    "holders": [
+        35633
+    ],
+    "ipcCodes": [
+        "F16K 1/30",
+        "B67D 1/12",
+        "F16K 15/18",
+        "G05D 16/06"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 005437-1",
+    "filingDate": "01/08/2012",
+    "grantDate": null,
+    "title": "SENSOR E ARTIGO ABSORVENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/230,102",
+            "priorityDate": "12/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        }
+    ],
+    "inventors": [
+        "XUEDONG SONG",
+        "KAREN MELOY GOEDERS",
+        "NING WEI"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "G01N 31/22",
+        "G01N 21/81"
+    ]
+}

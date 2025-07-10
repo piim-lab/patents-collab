@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 10 2018 016862-2",
+    "filingDate": "17/08/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA A FIXA\u00c7\u00c3O DE UM COMPONENTE E VE\u00cdCULO COM TAL DISPOSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017118893.2",
+            "priorityDate": "18/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [
+        "STEFAN STENDER",
+        "MARKUS SIFLINGER"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "B60R 1/00",
+        "B60R 11/02",
+        "B60K 37/04",
+        "F16B 19/02",
+        "F16B 17/00"
+    ]
+}

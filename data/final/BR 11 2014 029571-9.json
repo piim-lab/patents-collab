@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2014 029571-9",
+    "filingDate": "08/05/2013",
+    "grantDate": null,
+    "title": "PROCESSO DE S\u00cdNTESE DE MULTIEST\u00c1GIO COM G\u00c1S DE S\u00cdNTESE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 207 921.1",
+            "priorityDate": "11/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "THOMAS HAAS",
+        "EVA MARIA WITTMANN"
+    ],
+    "holders": [
+        962
+    ],
+    "ipcCodes": [
+        "C12P 7/06",
+        "C12P 7/62",
+        "C12P 7/40",
+        "C12P 7/64",
+        "C12P 7/02",
+        "C12P 7/54",
+        "C12P 7/42",
+        "C12P 7/46",
+        "C12P 7/24"
+    ]
+}

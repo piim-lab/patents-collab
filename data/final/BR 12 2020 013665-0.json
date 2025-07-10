@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 12 2020 013665-0",
+    "filingDate": "30/09/2009",
+    "grantDate": null,
+    "title": "SERINGAS PR\u00c9-CARREGADAS COMPREENDENDO COMPOSI\u00c7\u00c3O LIQUIDA DE METILNALTREXONA COM BAIXO TEOR DE TUNGST\u00caNIO E OS USOS DA DITA COMPOSI\u00c7\u00c3O NA PREPARAGAO DE SERINGAS PR\u00c9-CARREGADAS, MEDICAMENTOS E KITS PARA O TRATAMENTO DE CONSTIPA\u00c7\u00c3O INDUZIDA POR OPIOIDES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/101,201",
+            "priorityDate": "30/09/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/226,581",
+            "priorityDate": "17/07/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/237,428",
+            "priorityDate": "27/08/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/09/2009",
+        "applicationNumber": "PI 0919539-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "NATALIYA BAZHINA",
+        "GEORGE JOSEPH DONATO",
+        "STEVEN R FABIAN",
+        "JOHN LOKHNAUTH",
+        "SREENIVASULU MEGATI",
+        "CHARLES MELUCCI",
+        "CHRISTIAN OFSLAGER",
+        "NIKETA PATEL",
+        "GALEN RADEBAUGH",
+        "SYED M SHAH",
+        "JAN SZELIGA",
+        "HUYI ZHANG",
+        "TIANMIN ZHU"
+    ],
+    "holders": [
+        87326
+    ],
+    "ipcCodes": [
+        "A61K 31/485",
+        "A61P 1/10",
+        "C07D 471/08",
+        "C07D 489/08"
+    ]
+}

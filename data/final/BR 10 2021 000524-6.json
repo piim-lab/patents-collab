@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2021 000524-6",
+    "filingDate": "12/01/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE AGENTE, SERVIDOR DE AGENTE E MEIO DE GRAVA\u00c7\u00c3O LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-009344",
+            "priorityDate": "23/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "KOHKI TAKESHITA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G10L 15/22"
+    ]
+}

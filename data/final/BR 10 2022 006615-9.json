@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 006615-9",
+    "filingDate": "06/04/2022",
+    "grantDate": null,
+    "title": "APARELHO DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O E SISTEMA DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-069001",
+            "priorityDate": "15/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "NAOYA OKA",
+        "SATOSHI KITAMURA",
+        "YUSUKE SOBUE",
+        "SEIRA NAKADA",
+        "MAMI MORI",
+        "MASATO MORISHIMA",
+        "YASUYUKI NUNOKAWA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06Q 30/00",
+        "G06Q 50/30",
+        "G16Z 99/00"
+    ]
+}

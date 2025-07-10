@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 12 2020 018161-3",
+    "filingDate": "09/10/2017",
+    "grantDate": "20/04/2021",
+    "title": "MOL\u00c9CULA TENDO UTILIDADE PESTICIDA, COMPOSI\u00c7\u00c3O, PROCESSO PARA CONTROLE DE PRAGAS, E SEMENTE RESISTENTE A PRAGAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/407,118",
+            "priorityDate": "12/10/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/407,092",
+            "priorityDate": "12/10/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/10/2017",
+        "applicationNumber": "BR 11 2019 006746-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "RONALD J HEEMSTRA",
+        "RONALD ROSS",
+        "TIMOTHY P MARTIN",
+        "NICOLAAS VERMEULEN",
+        "JOHN F DAEUBLE",
+        "JOSEPH D ECKELBARGER",
+        "ALEX NOLAN",
+        "KAITLYN GRAY",
+        "DAVID A DEMETER",
+        "RICKY HUNTER",
+        "TONY K TRULLINGER"
+    ],
+    "holders": [
+        60
+    ],
+    "ipcCodes": [
+        "A01N 53/00",
+        "C07D 239/47",
+        "C07D 277/28",
+        "C07D 275/03",
+        "C07D 231/14",
+        "C07D 333/38",
+        "C07C 271/22",
+        "C07D 305/08",
+        "C07D 213/53",
+        "C07C 311/09",
+        "C07C 255/19",
+        "C07D 307/24",
+        "C07C 237/42",
+        "C07D 285/06",
+        "C07C 381/00"
+    ]
+}

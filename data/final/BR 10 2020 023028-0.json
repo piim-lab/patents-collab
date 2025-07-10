@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 023028-0",
+    "filingDate": "11/11/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONSTRU\u00c7\u00c3O DE TEXTO A PARTIR DE PALAVRAS E ASSUNTOS PREDETERMINADOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "FELIPE PEREIRA CUNHA"
+    ],
+    "holders": [
+        63238
+    ],
+    "ipcCodes": [
+        "G06F 16/00",
+        "G06F 40/20"
+    ]
+}

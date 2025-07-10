@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2013 025446-7",
+    "filingDate": "29/03/2012",
+    "grantDate": null,
+    "title": "CORRENTE DE DRAGAGEM DE CABO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2011 004 762.8",
+            "priorityDate": "04/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "G\u00dcNTER BLASE",
+        "ANDREAS HERMEY"
+    ],
+    "holders": [
+        124335
+    ],
+    "ipcCodes": [
+        "F16G 13/16"
+    ]
+}

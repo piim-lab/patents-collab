@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2015 010813-0",
+    "filingDate": "12/11/2013",
+    "grantDate": null,
+    "title": "M\u00e9todo de biorreator de imers\u00e3o tempor\u00e1ria",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RE2012A000080",
+            "priorityDate": "12/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "ARIEL DOMINGO ARENCIBIA RODRIGUEZ",
+        "LAURA V ARRU"
+    ],
+    "holders": [
+        155761
+    ],
+    "ipcCodes": [
+        "A01G 7/02",
+        "A01G 31/00"
+    ]
+}

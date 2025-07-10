@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 010203-6",
+    "filingDate": "18/05/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO EM TEMPO REAL DE BANCO DE BATERIAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "CESAR COSENZA DE CARVALHO",
+        "MARCELO MARTINS WERNECK",
+        "FRANCISCO ROBERTO REIS FRAN\u00c7A",
+        "GERALDO BIELER"
+    ],
+    "holders": [
+        650
+    ],
+    "ipcCodes": [
+        "H02J 7/00",
+        "G01R 31/36",
+        "G01R 31/382",
+        "G01R 31/385",
+        "G01R 31/388",
+        "G01R 31/389"
+    ]
+}

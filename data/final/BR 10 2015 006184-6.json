@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2015 006184-6",
+    "filingDate": "19/03/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MANUTEN\u00c7\u00c3O DE UM STRUT DE CHOQUE DE UM TREM DE ATERRISSAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/968,449",
+            "priorityDate": "21/03/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/317,977",
+            "priorityDate": "27/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "AMIR M FAZELI",
+        "ADNAN CEPIC",
+        "SUSANNE M REBER"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64F 5/00",
+        "F16F 9/43",
+        "B64C 25/58",
+        "F16F 9/06"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2017 022117-9",
+    "filingDate": "15/04/2016",
+    "grantDate": null,
+    "title": "\u201cSONDAS DUPLAS SUPRESSORAS\u201d",
+    "nationalPhaseDate": [
+        "13/10/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/027964",
+        "pctDate": "15/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/147,695",
+            "priorityDate": "15/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2532"
+        }
+    ],
+    "inventors": [
+        "RONALD M COOK",
+        "BEN SOWERS",
+        "MARC P BEAL"
+    ],
+    "holders": [
+        182400
+    ],
+    "ipcCodes": [
+        "C07F 9/09",
+        "C07H 19/04",
+        "C07D 241/46"
+    ]
+}

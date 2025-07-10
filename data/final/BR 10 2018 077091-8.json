@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 077091-8",
+    "filingDate": "26/12/2018",
+    "grantDate": null,
+    "title": "BATERIA RECARREG\u00c1VEL E M\u00c9TODO DE PRODU\u00c7\u00c3O DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-251798",
+            "priorityDate": "27/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2794"
+        }
+    ],
+    "inventors": [
+        "KUNIMITSU YAMAMOTO",
+        "TSUYOSHI SASAKI",
+        "CHIKAAKI OKUDA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "H01M 4/13",
+        "H01M 4/02"
+    ]
+}

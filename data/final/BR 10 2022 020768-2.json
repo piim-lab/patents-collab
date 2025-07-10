@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 020768-2",
+    "filingDate": "13/10/2022",
+    "grantDate": null,
+    "title": "CONJUNTO DE TAMPA",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202141046821",
+            "priorityDate": "13/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "RAJENDRAN PADALINGAM",
+        "RAMESH VAIDHEESWARAN",
+        "GERALD MARK PENNINGTON",
+        "KHOA D PHAM",
+        "THOMAS R NIXON",
+        "CHRISTOPHER MILLER"
+    ],
+    "holders": [
+        33987,
+        90948
+    ],
+    "ipcCodes": [
+        "B65D 41/04",
+        "B65D 47/12",
+        "B67B 3/20"
+    ]
+}

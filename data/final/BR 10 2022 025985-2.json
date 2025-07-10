@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 025985-2",
+    "filingDate": "19/12/2022",
+    "grantDate": null,
+    "title": "PORTA DE TR\u00c1S DE VE\u00cdCULO COMPREENDENDO UMA ALAVANCA CINEM\u00c1TICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21217742.2",
+            "priorityDate": "24/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "ANTHONY GUERIN",
+        "ALEXANDRE PIERI",
+        "SACHIN SHARMA"
+    ],
+    "holders": [
+        68943
+    ],
+    "ipcCodes": [
+        "E05B 85/10",
+        "E05B 85/18"
+    ]
+}

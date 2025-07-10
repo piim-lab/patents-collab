@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 11 2014 011159-6",
+    "filingDate": "09/11/2012",
+    "grantDate": null,
+    "title": "CHAPA DE A\u00c7O EL\u00c9TRICO N\u00c3O ORIENTADO E SEU M\u00c9TODO DE PRODU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-247637",
+            "priorityDate": "11/11/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-247683",
+            "priorityDate": "11/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "MASAHIRO FUJIKURA",
+        "YOSHIYUKI USHIGAMI",
+        "TESSHU MURAKAWA",
+        "SHINICHI KANAO",
+        "MAKOTO ATAKE",
+        "TAKERU ICHIE",
+        "KOJIRO HORI"
+    ],
+    "holders": [
+        188
+    ],
+    "ipcCodes": [
+        "C21D 8/12",
+        "C22C 38/00",
+        "C22C 38/06",
+        "C22C 38/60",
+        "H01F 1/16"
+    ]
+}

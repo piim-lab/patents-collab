@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2012 033475-1",
+    "filingDate": "16/06/2011",
+    "grantDate": null,
+    "title": "Garrafa de vinho de vidro",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/825,950",
+            "priorityDate": "29/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "JERALD D NEMIRE"
+    ],
+    "holders": [
+        98540
+    ],
+    "ipcCodes": [
+        "C03B 9/34",
+        "C03B 9/325"
+    ]
+}

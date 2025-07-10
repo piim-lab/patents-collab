@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2018 004076-2",
+    "filingDate": "26/08/2016",
+    "grantDate": null,
+    "title": "SUPORTE DE ESTABILIZA\u00c7\u00c3O ERETO E BANCO CONVERT\u00cdVEIS",
+    "nationalPhaseDate": [
+        "28/02/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/048879",
+        "pctDate": "26/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/211,346",
+            "priorityDate": "28/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "BRUCE HOCKRIDGE",
+        "GRZEGORZ LYSZCZARZ"
+    ],
+    "holders": [
+        127637
+    ],
+    "ipcCodes": [
+        "A63B 21/00",
+        "A63B 21/06"
+    ]
+}

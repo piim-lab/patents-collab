@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2018 008782-3",
+    "filingDate": "23/09/2016",
+    "grantDate": null,
+    "title": "T\u00c9CNICAS PARA SINALIZA\u00c7\u00c3O VE\u00cdCULO A VE\u00cdCULO BASEADA EM REDE DE \u00c1REA AMPLA",
+    "nationalPhaseDate": [
+        "30/04/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/053437",
+        "pctDate": "23/09/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/249,177",
+            "priorityDate": "30/10/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/273,452",
+            "priorityDate": "22/09/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "SHAILESH PATIL",
+        "GEORGIOS TSIRTSIS",
+        "JUNYI LI",
+        "HONG CHENG",
+        "SUDHIR KUMAR BAGHEL",
+        "MICHAELA VANDERVEEN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 4/06",
+        "H04W 72/04",
+        "H04W 16/04",
+        "H04W 72/00",
+        "H04W 48/12",
+        "H04W 64/00",
+        "H04W 72/12",
+        "H04W 4/04"
+    ]
+}

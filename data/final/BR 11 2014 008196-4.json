@@ -1,0 +1,94 @@
+{
+    "applicationNumber": "BR 11 2014 008196-4",
+    "filingDate": "05/10/2012",
+    "grantDate": "20/10/2020",
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11184278.7",
+            "priorityDate": "07/10/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/544,591",
+            "priorityDate": "07/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [
+        "CLAUDE PASCAL",
+        "ROLAND JACQUOT",
+        "PHILIPPE MARION",
+        "MARKUS HEINRICH",
+        "HANNELORE JASCH",
+        "SARAH H\u00d6FLING",
+        "EVERT VAN DER HEIDE",
+        "PIETER HUIZENGA",
+        "GOVINDA SUBBANNA WAGLE",
+        "YIGAL BECKER",
+        "MICHAEL CHESKIS",
+        "JOHN WILLIAM SMITH",
+        "CLAIRE MCGUINESS",
+        "ANDREW PAUL SHARRATT",
+        "ANDREW MARK TAYLOR"
+    ],
+    "holders": [
+        13060,
+        87652,
+        841,
+        127824,
+        17748,
+        79480
+    ],
+    "ipcCodes": [
+        "C07C 21/18",
+        "C07C 17/25"
+    ]
+}

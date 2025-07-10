@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 005059-4",
+    "filingDate": "17/03/2021",
+    "grantDate": null,
+    "title": "AMORTECEDOR DE OSCILA\u00c7\u00d5ES LATERAIS PARA CENTRALIZAR UM TREM DE POUSO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/823,817",
+            "priorityDate": "19/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "BHUWAN JAIN",
+        "SIMON LUCAS",
+        "BENEDICT SY"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64C 25/00",
+        "B64C 25/02"
+    ]
+}

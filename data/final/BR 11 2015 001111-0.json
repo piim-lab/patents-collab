@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2015 001111-0",
+    "filingDate": "16/07/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE DESVIO ADAPTATIVO DE AMOSTRA (SAO)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/672,166",
+            "priorityDate": "16/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "HOON PARK",
+        "ELENA ALSHINA",
+        "ALEXANDER ALSHIN"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/91",
+        "H04N 19/82",
+        "H04N 19/86"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2022 005617-0",
+    "filingDate": "24/03/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA EXTRAIR DADOS DE UM DISJUNTOR, E, MEIO TRANSIT\u00d3RIO LEG\u00cdVEL POR COMPUTADOR",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "FILIPE DE OLIVEIRA COSTA",
+        "MARCOS VIN\u00cdCIUS LISBOA MELO",
+        "ADILSON ROBERTO BATISTEL"
+    ],
+    "holders": [
+        710,
+        50698,
+        5424,
+        85,
+        2778
+    ],
+    "ipcCodes": [
+        "G06Q 50/06",
+        "G06Q 10/06",
+        "G06N 20/00",
+        "G01R 31/50",
+        "G06V 10/10",
+        "G06V 30/18",
+        "G06V 20/62"
+    ]
+}

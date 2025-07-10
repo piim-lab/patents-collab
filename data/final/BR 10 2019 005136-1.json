@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 005136-1",
+    "filingDate": "15/03/2019",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE CARREGAMENTO TRANSPORT\u00c1VEL PARA UMA CENTRAL DE PRODU\u00c7\u00c3O DE REVESTIMENTOS E CENTRAL DE PRODU\u00c7\u00c3O DE REVESTIMENTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "18 52224",
+            "priorityDate": "15/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "THIERRY DE SARS",
+        "LAURENT GATEL"
+    ],
+    "holders": [
+        47334
+    ],
+    "ipcCodes": [
+        "E01C 19/10",
+        "B65D 88/30"
+    ]
+}

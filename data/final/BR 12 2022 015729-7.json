@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2022 015729-7",
+    "filingDate": "17/07/2014",
+    "grantDate": null,
+    "title": "DECODIFICADOR DE \u00c1UDIO DE M\u00daLTIPLOS CANAIS E M\u00c9TODO PARA FORNECER PELO MENOS DOIS SINAIS DE \u00c1UDIO DE SA\u00cdDA COM BASE EM UMA REPRESENTA\u00c7\u00c3O CODIFICADA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13177375.6",
+            "priorityDate": "22/07/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13189309.1",
+            "priorityDate": "18/10/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/07/2014",
+        "applicationNumber": "BR 11 2016 001248-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "SASCHA DICK",
+        "CHRISTIAN HELMRICH",
+        "JOHANNES HILPERT",
+        "ANDREAS H\u00d6LZER"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "G10L 19/008",
+        "G10L 19/20",
+        "G10L 19/00"
+    ]
+}

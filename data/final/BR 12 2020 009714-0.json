@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2020 009714-0",
+    "filingDate": "02/07/2013",
+    "grantDate": "22/06/2021",
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE UM V\u00cdDEO, APARELHO DE CODIFICA\u00c7\u00c3O DE UM V\u00cdDEO, E MEIO N\u00c3O TRANSIT\u00d3RIO LEG\u00cdVEL POR COMPUTADOR PARA ARMAZENAR DADOS ASSOCIADOS A UM V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/667,117",
+            "priorityDate": "02/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/07/2013",
+        "applicationNumber": "BR 11 2014 033040-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "KOO KIM"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/13",
+        "H04N 19/157",
+        "H04N 19/119"
+    ]
+}

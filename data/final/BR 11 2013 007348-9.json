@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2013 007348-9",
+    "filingDate": "21/10/2011",
+    "grantDate": null,
+    "title": "BARRA DE REFOR\u00c7O, E, M\u00c9TODO PARA MANUFATURAR BARRAS",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20101485",
+            "priorityDate": "21/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "PER CATO STANDAL",
+        "LEONARD W MILLER"
+    ],
+    "holders": [
+        111392
+    ],
+    "ipcCodes": [
+        "E04C 5/07",
+        "C04B 14/38",
+        "C04B 16/06",
+        "C04B 32/02"
+    ]
+}

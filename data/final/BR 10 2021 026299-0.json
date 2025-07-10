@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 026299-0",
+    "filingDate": "23/12/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UMA TAXA DE APLICA\u00c7\u00c3O AGR\u00cdCOLA, UMA OU MAIS M\u00cdDIAS LEG\u00cdVEIS POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIAS, E, APARELHO PARA CONTROLAR UMA TAXA DE APLICA\u00c7\u00c3O AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/203,243",
+            "priorityDate": "16/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "TIMOTHY A WILCOX"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G06Q 50/02",
+        "A01C 15/00",
+        "A01B 76/00",
+        "G05D 11/00",
+        "G16Z 99/00"
+    ]
+}

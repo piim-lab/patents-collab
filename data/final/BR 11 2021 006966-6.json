@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2021 006966-6",
+    "filingDate": "31/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA AUTOM\u00c1TICO DE COLETA E RASTREAMENTO DE AMOSTRA",
+    "nationalPhaseDate": [
+        "12/04/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/059206",
+        "pctDate": "31/10/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/753,692",
+            "priorityDate": "31/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2799"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "MICHAEL DAVID LEWIS",
+        "SHALOM FRISS",
+        "JYOTI DHARNA",
+        "CHRISTOPHER P AULBACH",
+        "JASON R SONTHEIMER",
+        "ATIF KHAN"
+    ],
+    "holders": [
+        118753
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G06Q 50/02",
+        "A01B 79/02"
+    ]
+}

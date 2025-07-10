@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2018 001665-2",
+    "filingDate": "26/01/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE FILTRO DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-26359",
+            "priorityDate": "15/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2766"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2791"
+        }
+    ],
+    "inventors": [
+        "SUGURU KANDA",
+        "MORTEN GULLIKSEN",
+        "RYUICHI ABE",
+        "TAKAAKI SHOMURA",
+        "HIDETOSHI MIYAZAKI"
+    ],
+    "holders": [
+        147,
+        296373
+    ],
+    "ipcCodes": [
+        "F02M 35/10"
+    ]
+}

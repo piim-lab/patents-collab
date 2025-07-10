@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2012 002583-0",
+    "filingDate": "05/08/2010",
+    "grantDate": null,
+    "title": "Vacina e m\u00e9todo para obter uma vacina direcionada contra pleuropneumonia porcina",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09167342.6",
+            "priorityDate": "06/08/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/231,820",
+            "priorityDate": "06/08/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": []
+}

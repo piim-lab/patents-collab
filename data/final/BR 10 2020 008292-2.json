@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2020 008292-2",
+    "filingDate": "27/04/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO, APARELHO, E, M\u00cdDIA DE ARMAZENAMENTO LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/450,643",
+            "priorityDate": "24/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "LOUIS J BAILEY"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "H04B 7/185",
+        "H04L 29/06",
+        "G08G 5/00"
+    ]
+}

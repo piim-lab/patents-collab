@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2022 000065-7",
+    "filingDate": "23/02/2017",
+    "grantDate": "03/05/2022",
+    "title": "Indicador Biol\u00f3gico de Esteriliza\u00e7\u00e3o e m\u00e9todo de Ativa\u00e7\u00e3o do mesmo",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/057,768",
+            "priorityDate": "01/03/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/02/2017",
+        "applicationNumber": "BR 10 2017 003826-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "BEHNAM AMIN"
+    ],
+    "holders": [
+        28027
+    ],
+    "ipcCodes": [
+        "A61L 2/28",
+        "C12Q 1/22"
+    ]
+}

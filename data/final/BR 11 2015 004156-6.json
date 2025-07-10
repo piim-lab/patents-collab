@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2015 004156-6",
+    "filingDate": "15/03/2013",
+    "grantDate": null,
+    "title": "FILME E ARTIGO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/693,798",
+            "priorityDate": "28/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "MARIA KUPSCH",
+        "DELIORMANLI",
+        "MARLOS GIUNTINI DE OLIVEIRA",
+        "ASHISH BATRA"
+    ],
+    "holders": [
+        1101,
+        129727
+    ],
+    "ipcCodes": [
+        "B32B 27/32",
+        "B32B 27/00",
+        "B32B 27/30",
+        "B32B 7/00",
+        "B32B 27/08",
+        "B32B 27/36",
+        "B32B 27/28",
+        "B32B 7/04",
+        "B32B 7/02"
+    ]
+}

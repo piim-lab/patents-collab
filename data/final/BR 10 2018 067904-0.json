@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 10 2018 067904-0",
+    "filingDate": "05/09/2018",
+    "grantDate": "07/12/2021",
+    "title": "M\u00c9TODO PARA IDENTIFICAR E EXIBIR ACESSOS DE OPERADOR A OBJETOS DE PROCESSO, E, SISTEMA DE OPERADOR.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17200152.1",
+            "priorityDate": "06/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "BENJAMIN LUTZ"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "G05B 19/042",
+        "G06Q 20/40"
+    ]
+}

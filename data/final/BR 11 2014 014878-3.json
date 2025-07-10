@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2014 014878-3",
+    "filingDate": "06/12/2012",
+    "grantDate": null,
+    "title": "Processo para a produ\u00e7\u00e3o de uma pe\u00e7a moldada com uma se\u00e7\u00e3o transversal anelar",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 056 601.5",
+            "priorityDate": "19/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        }
+    ],
+    "inventors": [
+        "DANIEL DE BEER",
+        "G\u00dcNTER SIEPER"
+    ],
+    "holders": [
+        6847
+    ],
+    "ipcCodes": [
+        "B29C 45/00",
+        "B29C 45/26"
+    ]
+}

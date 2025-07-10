@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2020 017844-2",
+    "filingDate": "08/09/2014",
+    "grantDate": "25/01/2022",
+    "title": "Decodificador e codificador de \u00e1udio para alinhamento no tempo de dados de processamento baseados em QMF.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/877,194",
+            "priorityDate": "12/09/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/909,593",
+            "priorityDate": "27/11/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/09/2014",
+        "applicationNumber": "BR 11 2016 005167-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "KRISTOFER KJOERLING",
+        "HEIKO PURNHAGEN",
+        "JENS POPP"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "G10L 21/0388"
+    ]
+}

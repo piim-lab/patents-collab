@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 003338-8",
+    "filingDate": "19/08/2014",
+    "grantDate": null,
+    "title": "VACINA PARA ADENOV\u00cdRUS AVI\u00c1RIO, E USO DE PROTE\u00cdNA DA FIBRA-2 DE SOROTIPO DE ADENOV\u00cdRUS AVI\u00c1RIO C (FADV-C), FADV-A OU A PROTE\u00cdNA DA FIBRA DE FADV-B, FADV-D OU FADV-E",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13180860.2",
+            "priorityDate": "19/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "MICHAEL HESS",
+        "ANNA SCHACHNER",
+        "ANA MAREK",
+        "BARBARA JASKULSKA"
+    ],
+    "holders": [
+        170278
+    ],
+    "ipcCodes": [
+        "A61K 39/235"
+    ]
+}

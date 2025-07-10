@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 008466-6",
+    "filingDate": "26/04/2018",
+    "grantDate": null,
+    "title": "TENSOR DE GRAMPO MANUAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/490,691",
+            "priorityDate": "27/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/933,454",
+            "priorityDate": "23/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "THOMAS M GROBBEL"
+    ],
+    "holders": [
+        8209
+    ],
+    "ipcCodes": [
+        "B25B 5/04",
+        "B25B 5/10"
+    ]
+}

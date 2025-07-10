@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2021 011002-6",
+    "filingDate": "01/04/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O COSM\u00c9TICA DE CABELOS E PROCESSO PARA MOLDAR, ALTERAR O FORMATO OU CUIDAR DO CABELO",
+    "priorityClaims": [
+        {
+            "countryCode": "BR",
+            "priorityNumber": "PCT/BR2015/050037",
+            "priorityDate": "02/04/2015"
+        },
+        {
+            "countryCode": "BR",
+            "priorityNumber": "PCT/BR2015/050270",
+            "priorityDate": "23/12/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/04/2016",
+        "applicationNumber": "BR 11 2017 020294-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "CAMILA MACIEL BIATO",
+        "ERIKA ALEGRIO JARQUE PETALI",
+        "BRUNO MAIKO SATO",
+        "SINTIA AGUIAR",
+        "LILIANE SILVESTRE DE ALMEIDA",
+        "SERGE RESTLE"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "A61K 8/46",
+        "A61K 8/73",
+        "A61Q 5/04",
+        "A61K 8/894"
+    ]
+}

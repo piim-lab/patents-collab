@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 021254-0",
+    "filingDate": "16/10/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE AGRUPAMENTO DE PE\u00c7AS DE EQUIPAMENTO POR ESPA\u00c7O SONORO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1911587",
+            "priorityDate": "17/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2771"
+        }
+    ],
+    "inventors": [
+        "FR\u00c9D\u00c9RIC SODI",
+        "VINCENT SCHOTT"
+    ],
+    "holders": [
+        51460
+    ],
+    "ipcCodes": [
+        "H04R 29/00",
+        "H04S 7/00"
+    ]
+}

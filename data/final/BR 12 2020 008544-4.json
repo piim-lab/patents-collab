@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 12 2020 008544-4",
+    "filingDate": "19/02/2008",
+    "grantDate": "17/02/2021",
+    "title": "4-ARIL-1,4-DI-HIDRO-1,6-NAFTIRIDINAMIDAS SUBSTITU\u00cdDAS, SEU USO E SEU PROCESSO DE PREPARA\u00c7\u00c3O, E MEDICAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2007 009 494.0",
+            "priorityDate": "27/02/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/02/2008",
+        "applicationNumber": "PI 0808098-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "LARS B\u00c4RFACKER",
+        "PETER KOLKHOF",
+        "HEINZ SCHLEMMER",
+        "ROLF GROSSER",
+        "ADAM NITSCHE",
+        "MARTINA KLEIN",
+        "KLAUS M\u00dcNTER",
+        "BARBARA ALBRECHT",
+        "ELKE HARTMANN",
+        "PETER KOLKHOF",
+        "HEINZ SCHLEMMER",
+        "ROLF GROSSER",
+        "ADAM NITSCHE",
+        "MARTINA KLEIN",
+        "KLAUS M\u00dcNTER",
+        "BARBARA ALBRECHT",
+        "ELKE HARTMANN",
+        "LARS B\u00c4RFACKER"
+    ],
+    "holders": [
+        79417
+    ],
+    "ipcCodes": [
+        "A61P 9/10",
+        "C07D 471/04",
+        "A61K 31/437"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2019 001114-1",
+    "filingDate": "06/04/2009",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS DE PERFURA\u00c7\u00c3O SUBMARINA",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20081668",
+            "priorityDate": "04/04/2008"
+        },
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20083453",
+            "priorityDate": "08/08/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/04/2009",
+        "applicationNumber": "PI 0911365-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        }
+    ],
+    "inventors": [
+        "BORRE FOSSLI",
+        "BORRE FOSSLI"
+    ],
+    "holders": [
+        89735
+    ],
+    "ipcCodes": [
+        "E21B 21/08",
+        "E21B 7/12",
+        "E21B 21/00",
+        "E21B 21/06",
+        "E21B 7/128"
+    ]
+}

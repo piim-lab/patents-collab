@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 10 2020 022775-0",
+    "filingDate": "09/11/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE NIVELAMENTO DE BARRAS ATIVO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "CLAUDIO AFFONSO AMORETTI BIER"
+    ],
+    "holders": [
+        63130
+    ],
+    "ipcCodes": [
+        "B66C 23/80"
+    ]
+}

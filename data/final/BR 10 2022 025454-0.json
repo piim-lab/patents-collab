@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2022 025454-0",
+    "filingDate": "13/12/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DISTRIBUI\u00c7\u00c3O DE SEMENTES PARA M\u00c1QUINAS DE SEMEADURA",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "20220100209",
+            "priorityDate": "02/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "GUSTAVO ALEJANDRO BOETSCH"
+    ],
+    "holders": [
+        49879
+    ],
+    "ipcCodes": [
+        "A01C 7/08"
+    ]
+}

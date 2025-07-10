@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 20 2021 009825-8",
+    "filingDate": "20/05/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO MOTORREDUTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "202020000002692",
+            "priorityDate": "20/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "MARCHESINI VAINER"
+    ],
+    "holders": [
+        78086
+    ],
+    "ipcCodes": [
+        "B65G 33/24"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2022 012697-9",
+    "filingDate": "08/07/2019",
+    "grantDate": null,
+    "title": "USOS DE DERIVADOS DE 3-(5-HIDR\u00d3XI-1-OXOISOINDOLIN-2-IL)PIPERIDINA-2,6-DIONA, E KIT",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/695,920",
+            "priorityDate": "10/07/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/835,543",
+            "priorityDate": "18/04/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/07/2019",
+        "applicationNumber": "BR 11 2020 026947-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "CLAIRE ADCOCK",
+        "SIMONE BONAZZI",
+        "ARTIOM CERNIJENKO",
+        "PHILIP LAM",
+        "KATHRYN TAYLOR LINKENS",
+        "HASNAIN AHMED MALIK",
+        "FRANCE THOMSEN",
+        "MICHAEL SCOTT VISSER"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/454",
+        "C07D 401/14",
+        "C07D 401/04"
+    ]
+}

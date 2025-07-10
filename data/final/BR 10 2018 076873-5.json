@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 10 2018 076873-5",
+    "filingDate": "21/12/2018",
+    "grantDate": null,
+    "title": "APARELHO ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-251132",
+            "priorityDate": "27/12/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-251115",
+            "priorityDate": "27/12/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-252110",
+            "priorityDate": "27/12/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-251161",
+            "priorityDate": "27/12/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-251259",
+            "priorityDate": "27/12/2017"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-212167",
+            "priorityDate": "12/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        }
+    ],
+    "inventors": [
+        "TATSUYA NISHIGUCHI",
+        "EMI KONDO",
+        "TOMOAKI TAKAHASHI",
+        "YOSUKE TAKAGI",
+        "HIROTSUGU KISHIMOTO",
+        "DASOM GU",
+        "YONGHYUCK LEE",
+        "HONGKWAN LEE",
+        "YONGCHAN JEON",
+        "CHUL HO JEONG",
+        "HYUNJUN CHO",
+        "EUNGIL CHOI",
+        "SOHRA HAN",
+        "KI LEE",
+        "HONG KIM",
+        "BONG LEE",
+        "HYUN WHANG",
+        "MO KANG",
+        "MIN KIM",
+        "HO KIM",
+        "SUK KIM",
+        "WON SON"
+    ],
+    "holders": [
+        272,
+        76820,
+        245,
+        5134
+    ],
+    "ipcCodes": []
+}

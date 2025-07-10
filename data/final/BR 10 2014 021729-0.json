@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2014 021729-0",
+    "filingDate": "02/09/2014",
+    "grantDate": null,
+    "title": "APARATO DE TRATAMENTO DE ROUPA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0105541",
+            "priorityDate": "03/09/2013"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0105543",
+            "priorityDate": "03/09/2013"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0105720",
+            "priorityDate": "03/09/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "SANGHEE YOO",
+        "SUNGMIN LEE",
+        "KUSUNG GWON",
+        "YEONGKYEONG CHOI",
+        "GILNAM LEE",
+        "KWANGHYUN KIM",
+        "BONGGON RYU"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "D06F 25/00"
+    ]
+}

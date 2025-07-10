@@ -1,0 +1,92 @@
+{
+    "applicationNumber": "BR 12 2020 020973-9",
+    "filingDate": "28/01/2015",
+    "grantDate": null,
+    "title": "CONJUGADO DE ANTICORPO-F\u00c1RMACO ANTI-HER2, F\u00c1RMACO ANTITUMOR E/OU ANTIC\u00c2NCER, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E USO DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-017777",
+            "priorityDate": "31/01/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-168944",
+            "priorityDate": "22/08/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-227886",
+            "priorityDate": "10/11/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/01/2015",
+        "applicationNumber": "BR 11 2016 013482-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "9.2.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI NAITO",
+        "YUSUKE OGITANI",
+        "TAKESHI MASUDA",
+        "TAKASHI NAKADA",
+        "MASAO YOSHIDA",
+        "SHINJI ASHIDA",
+        "KOJI MORITA",
+        "HIDEKI MIYAZAKI",
+        "YUJI KASUYA",
+        "ICHIRO HAYAKAWA",
+        "YUKI ABE"
+    ],
+    "holders": [
+        88250
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "A61K 31/4745",
+        "C07K 16/28",
+        "C07D 491/052"
+    ]
+}

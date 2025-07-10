@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 025110-0",
+    "filingDate": "10/04/2013",
+    "grantDate": null,
+    "title": "PRODUTO FEITO EM LIGA \u00c0 BASE DE ALUM\u00cdNIO SEU PROCESSO PARA FABRICA\u00c7\u00c3O E USO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "12/01063",
+            "priorityDate": "11/04/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/622,774",
+            "priorityDate": "11/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "ARMELLE DANIELOU",
+        "MATTHIEU MARQUETTE",
+        "J\u00c9R\u00d4ME PIGNATEL",
+        "GA\u00cbLLE POUGET",
+        "TIMOTHY WARNER"
+    ],
+    "holders": [
+        102883
+    ],
+    "ipcCodes": [
+        "C22F 1/057",
+        "C22C 21/12",
+        "C22C 21/16",
+        "C22C 23/00",
+        "B21C 29/00"
+    ]
+}

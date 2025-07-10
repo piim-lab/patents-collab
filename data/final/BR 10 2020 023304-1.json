@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 023304-1",
+    "filingDate": "16/11/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MEDIA\u00c7\u00c3O PARA TRANSA\u00c7\u00d5ES FINANCEIRAS COM VALIDA\u00c7\u00c3O DA IDENTIFICA\u00c7\u00c3O UTILIZANDO BIOMETRIA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2776"
+        },
+        {
+            "code": "28.10.3",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante portador de doen\u00e7a grave",
+            "bulletinNumber ": "2816"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2816"
+        }
+    ],
+    "inventors": [
+        "FREDERICO MARQUES ALMEIDA DE LAFFITTE"
+    ],
+    "holders": [
+        53744
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "G06Q 40/00"
+    ]
+}

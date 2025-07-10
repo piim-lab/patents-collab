@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 017129-4",
+    "filingDate": "30/08/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA ALOCAR POT\u00caNCIA DE CARGA DE PROPULS\u00c3O EXTRA\u00cdDA DE BATERIAS DE ALTA ENERGIA E ALTA POT\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/072,759",
+            "priorityDate": "31/08/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/395,032",
+            "priorityDate": "05/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "JOHN A TRELA",
+        "MEHDY BAREKATEIN",
+        "GLEN M BROWN",
+        "SHENGYI LIU"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "H01M 10/44",
+        "H01M 10/42"
+    ]
+}

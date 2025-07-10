@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2019 003151-4",
+    "filingDate": "15/02/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE PURIFICA\u00c7\u00c3O DE EXAUST\u00c3O DE UM MOTOR DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-076170",
+            "priorityDate": "11/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "YASUMASA NOTAKE",
+        "HIROMASA NISHIOKA",
+        "KEISHI TAKADA",
+        "TETSUYA SAKUMA",
+        "KIYOSHI FUJIHARA",
+        "TAKAMITSU ASANUMA",
+        "YOSHIHISA TSUKAMOTO",
+        "KAZUHIRO UMEMOTO",
+        "JUNICHI MATSUO",
+        "HIROMASA NISHIOKA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "F01N 3/08",
+        "F01N 3/20"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2019 017468-4",
+    "filingDate": "22/08/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA FORMA\u00c7\u00c3O DE FUROS DENTRO DE UMA FOLHA COMP\u00d3SITA N\u00c3O CURADA, E M\u00c9TODO PARA FORMA\u00c7\u00c3O DE UMA ESTRUTURA COMP\u00d3SITA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/115,798",
+            "priorityDate": "29/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2771"
+        }
+    ],
+    "inventors": [
+        "KENNY T KHUONG",
+        "MICHAEL J BASALA"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B29C 70/00",
+        "B29C 70/54",
+        "B32B 5/26",
+        "B29C 70/24"
+    ]
+}

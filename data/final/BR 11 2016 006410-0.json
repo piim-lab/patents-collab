@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2016 006410-0",
+    "filingDate": "22/09/2014",
+    "grantDate": null,
+    "title": "APARELHO DE IMPRESS\u00c3O EM LATA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-196884",
+            "priorityDate": "24/09/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-196878",
+            "priorityDate": "24/09/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-196880",
+            "priorityDate": "24/09/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "MASAYUKI IZUME"
+    ],
+    "holders": [
+        171842,
+        16476
+    ],
+    "ipcCodes": [
+        "G01N 21/88",
+        "G01N 21/956",
+        "B41F 17/22",
+        "G01N 21/89",
+        "G01N 21/90",
+        "B41F 31/14",
+        "B41F 33/14"
+    ]
+}

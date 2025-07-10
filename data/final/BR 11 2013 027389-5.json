@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2013 027389-5",
+    "filingDate": "10/05/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA O PREPARO DE SAL S\u00d3DICO DE SULFATO DE CONDROITINA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2011A000829",
+            "priorityDate": "12/05/2011"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2011A000136",
+            "priorityDate": "02/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "DAVIDE BIANCHI",
+        "MARCO VALETTI",
+        "PAOLA BAZZA",
+        "NICCOL\u00d2 MIRAGLIA",
+        "ERMANNO VALOTI"
+    ],
+    "holders": [
+        106633
+    ],
+    "ipcCodes": [
+        "C08B 37/08",
+        "A61K 31/737",
+        "C08L 5/08"
+    ]
+}

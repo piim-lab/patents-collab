@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2015 013573-0",
+    "filingDate": "10/12/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE TESTE DE UM TUBO REFORMADOR DE A\u00c7O AUSTEN\u00cdTICO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/735,505",
+            "priorityDate": "10/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "MICHAEL MASLEID",
+        "GEORGE TSVIK",
+        "ZOFIA NIEMCZURA"
+    ],
+    "holders": [
+        83738
+    ],
+    "ipcCodes": [
+        "G01N 27/82"
+    ]
+}

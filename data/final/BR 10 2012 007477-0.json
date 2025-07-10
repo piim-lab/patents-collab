@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2012 007477-0",
+    "filingDate": "02/04/2012",
+    "grantDate": null,
+    "title": "Sistema de transmiss\u00e3o de pedal",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/076,569",
+            "priorityDate": "31/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/076,560",
+            "priorityDate": "31/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/087,450",
+            "priorityDate": "15/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/087,453",
+            "priorityDate": "15/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "HER YANG"
+    ],
+    "holders": [
+        53
+    ],
+    "ipcCodes": [
+        "B62M 9/08"
+    ]
+}

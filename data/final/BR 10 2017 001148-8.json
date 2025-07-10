@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2017 001148-8",
+    "filingDate": "19/01/2017",
+    "grantDate": null,
+    "title": "INV\u00d3LUCRO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-016553",
+            "priorityDate": "29/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "KAZUHISA ABE",
+        "PHILIPPE COENEGRACHT",
+        "MOHAMED AZNAG",
+        "PAUL JOSEPH CLAES",
+        "DIRK JOZEF G VAN DE WEYER",
+        "MAARTEN MICHIELS",
+        "DIEDERIK HOUBEN",
+        "PIETER DOULTREMONT",
+        "EDDY MAES",
+        "GEERT VAN GENECHTEN",
+        "MADDY NADINE FREDERICKX",
+        "EMILIE DE GROE"
+    ],
+    "holders": [
+        121817,
+        160948,
+        27293
+    ],
+    "ipcCodes": []
+}

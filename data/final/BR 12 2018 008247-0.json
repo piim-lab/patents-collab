@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2018 008247-0",
+    "filingDate": "13/11/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PREPARA\u00c7\u00c3O DE TUBO DE CATALISADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/116,140",
+            "priorityDate": "19/11/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/599,777",
+            "priorityDate": "11/11/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/617,461",
+            "priorityDate": "12/11/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/11/2009",
+        "applicationNumber": "PI 0921711-8"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        }
+    ],
+    "inventors": [
+        "PETER RICHTER",
+        "PETER MARKOWSKI",
+        "PETRAS KRUOPYS"
+    ],
+    "holders": [
+        351115
+    ],
+    "ipcCodes": [
+        "B01J 8/06",
+        "B65G 69/16"
+    ]
+}

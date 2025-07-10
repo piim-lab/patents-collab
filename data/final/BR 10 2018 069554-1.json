@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2018 069554-1",
+    "filingDate": "25/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE VOO, E, M\u00c9TODO DE USO DE UM SISTEMA DE CONTROLE DE VOO PARA OPERAR UMA SUPERF\u00cdCIE DE CONTROLE DE VOO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/720464",
+            "priorityDate": "29/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2774"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER S BABAZADEH"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "B64C 13/50",
+        "B64C 13/12"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 015761-0",
+    "filingDate": "21/07/2017",
+    "grantDate": null,
+    "title": "TAMPA DE DOBRADI\u00c7A PARA UMA PORTA DE VE\u00cdCULO E VE\u00cdCULO COMERCIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 008 963.6",
+            "priorityDate": "23/07/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "ALBERT ZAINDL",
+        "JULIAN SCHMIDL",
+        "ANDRZEJ WIATROWSKI"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "B60R 1/00"
+    ]
+}

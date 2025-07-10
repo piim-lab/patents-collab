@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 010681-6",
+    "filingDate": "01/06/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE ENVIDRA\u00c7AMENTO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "HELOISA MELO BAUMANN"
+    ],
+    "holders": [
+        67973
+    ],
+    "ipcCodes": [
+        "E06B 3/42"
+    ]
+}

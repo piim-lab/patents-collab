@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2014 015652-2",
+    "filingDate": "26/12/2012",
+    "grantDate": null,
+    "title": "PROCESSO DE OBTEN\u00c7\u00c3O DE UM \u00d3LEO DE ABACATE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1162461",
+            "priorityDate": "26/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE MSIKA",
+        "JACQUES LEGRAND"
+    ],
+    "holders": [
+        96023
+    ],
+    "ipcCodes": [
+        "A61P 19/02",
+        "A61P 19/04",
+        "A61K 36/54"
+    ]
+}

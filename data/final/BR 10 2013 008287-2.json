@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2013 008287-2",
+    "filingDate": "05/04/2013",
+    "grantDate": null,
+    "title": "SISTEMA DE AGENDAMENTO CENTRALIZADO DE CONSULTAS E TERAPIAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "LUIZ ALBERTO KUSSLER",
+        "LUIZ ALBERTO KUSSLER"
+    ],
+    "holders": [
+        6333
+    ],
+    "ipcCodes": [
+        "G06Q 50/22",
+        "H04W 56/00",
+        "G06Q 10/00",
+        "H04W 72/00"
+    ]
+}

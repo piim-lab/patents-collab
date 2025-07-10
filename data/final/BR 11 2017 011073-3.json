@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2017 011073-3",
+    "filingDate": "25/11/2015",
+    "grantDate": null,
+    "title": "MONITOR DE FISIOLOGIA PORT\u00c1TIL",
+    "nationalPhaseDate": [
+        "25/05/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT GB2015/053598",
+        "pctDate": "25/11/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1420945.6",
+            "priorityDate": "25/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "LEON MARSH",
+        "LEON MARSH"
+    ],
+    "holders": [
+        191227
+    ],
+    "ipcCodes": [
+        "A61B 5/00",
+        "G01J 5/00",
+        "A61B 5/01",
+        "G01J 5/02",
+        "G01J 5/04",
+        "G01J 5/12"
+    ]
+}

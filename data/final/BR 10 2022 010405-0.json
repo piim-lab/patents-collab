@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 010405-0",
+    "filingDate": "27/05/2022",
+    "grantDate": null,
+    "title": "CONJUNTO DE PORTA DE ELEVADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/479,236",
+            "priorityDate": "20/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "COLETTE RUDEN",
+        "MICHAEL J TRACEY"
+    ],
+    "holders": [
+        28010
+    ],
+    "ipcCodes": [
+        "B66B 13/30"
+    ]
+}

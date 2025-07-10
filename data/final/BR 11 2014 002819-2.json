@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 002819-2",
+    "filingDate": "09/08/2012",
+    "grantDate": null,
+    "title": "Conjunto de cabe\u00e7a de carbonata\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/521,794",
+            "priorityDate": "10/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/624,306",
+            "priorityDate": "15/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "ALLAN RING",
+        "AVI COHEN",
+        "DORON KROM",
+        "HAGAI HARDUFF",
+        "AMIT AVIGDOR"
+    ],
+    "holders": [
+        131320
+    ],
+    "ipcCodes": [
+        "B01F 3/04"
+    ]
+}

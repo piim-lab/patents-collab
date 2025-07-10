@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2014 021810-2",
+    "filingDate": "22/02/2013",
+    "grantDate": null,
+    "title": "COBERTURA DE SUPERF\u00cdCIE CONTENDO G\u00c1S, ESTRUTURA E USO DESTA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 004 067.9",
+            "priorityDate": "03/03/2012"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 004 574.6",
+            "priorityDate": "10/03/2012"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 005 163.8",
+            "priorityDate": "17/03/2012"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 007 068.3",
+            "priorityDate": "11/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "THOMAS SCHIMMEL"
+    ],
+    "holders": [
+        142931
+    ],
+    "ipcCodes": [
+        "B05D 5/00",
+        "B05D 5/02",
+        "B05D 5/08",
+        "B63B 1/38",
+        "B05D 5/04"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2017 007815-5",
+    "filingDate": "12/10/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICAR UM PAINEL EMISSOR DE RAIO X",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1418391.7",
+            "priorityDate": "16/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "GIL TRAVISH",
+        "RAPHAEL HAUSER"
+    ],
+    "holders": [
+        189529
+    ],
+    "ipcCodes": [
+        "A61B 6/00",
+        "H01J 35/06",
+        "H01J 1/304"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2018 002986-0",
+    "filingDate": "16/02/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE SUPORTE DE PERFURA\u00c7\u00c3O SUBMARINA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-027861",
+            "priorityDate": "17/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "TOMOKAZU SARUHASHI",
+        "IKUO SAWADA",
+        "MASANORI KYO",
+        "TAKAHIRO YOKOYAMA",
+        "NORIAKI SAKURAI",
+        "TERENCE LIM",
+        "SUHAIMI ADLINA",
+        "KIM KOK GOI",
+        "SIM GUAN TEO"
+    ],
+    "holders": [
+        36290,
+        36291
+    ],
+    "ipcCodes": [
+        "E21B 17/01",
+        "E21B 19/24"
+    ]
+}

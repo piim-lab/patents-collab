@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2018 008921-0",
+    "filingDate": "25/03/2009",
+    "grantDate": null,
+    "title": "SEDE DE V\u00c1LVULA DE UM MOTOR DE COMBUST\u00c3O INTERNA FABRICADA USANDO UM MATERIAL DE LIGA SINTERIZADA BASEADA EM FERRO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-093436",
+            "priorityDate": "31/03/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/03/2009",
+        "applicationNumber": "PI 0910437-2"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        }
+    ],
+    "inventors": [
+        "KENICHI SATO",
+        "HIROSHI OSHIGE",
+        "TAKESHI HANIU"
+    ],
+    "holders": [
+        159758
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "B22F 5/00",
+        "C22C 38/44",
+        "F01L 3/02",
+        "C22C 19/07",
+        "C22C 33/02"
+    ]
+}

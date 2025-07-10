@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2012 026219-0",
+    "filingDate": "13/04/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DIAGN\u00d3STICOS PARA GLAUCOMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/342,363",
+            "priorityDate": "13/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        }
+    ],
+    "inventors": [
+        "FRANZ GRUS",
+        "NILS BOEHM",
+        "NORBERT PFEIFFER",
+        "KATHARINA BELL"
+    ],
+    "holders": [
+        101278
+    ],
+    "ipcCodes": [
+        "G01N 33/564"
+    ]
+}

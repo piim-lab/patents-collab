@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2022 022500-8",
+    "filingDate": "04/05/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA DETECTAR UM ATAQUE EM UM CANAL DE COMUNICA\u00c7\u00c3O \u00d3PTICA",
+    "nationalPhaseDate": [
+        "04/11/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/030648",
+        "pctDate": "04/05/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/022,088",
+            "priorityDate": "08/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "JEFFREY H HUNT",
+        "YUPENG GONG",
+        "RICHARD VINCENT PENTY",
+        "IAN WHITE",
+        "ADRIAN WONFOR"
+    ],
+    "holders": [
+        1208,
+        329618
+    ],
+    "ipcCodes": [
+        "G06F 21/60",
+        "G06F 21/55",
+        "H04B 10/85",
+        "H04B 10/70"
+    ]
+}

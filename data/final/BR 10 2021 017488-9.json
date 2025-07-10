@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2021 017488-9",
+    "filingDate": "02/09/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE INICIALIZA\u00c7\u00c3O REMOTO PARA UM SISTEMA DE VE\u00cdCULOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/077,262",
+            "priorityDate": "11/09/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/458,841",
+            "priorityDate": "27/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2782"
+        }
+    ],
+    "inventors": [
+        "JANMEJAY TRIPATHY",
+        "JEFFREY D KERNWEIN",
+        "ANN K GRIMM",
+        "PHILLIP A BURGART"
+    ],
+    "holders": [
+        24087
+    ],
+    "ipcCodes": [
+        "G07C 5/00",
+        "G01C 21/34",
+        "G01C 21/36",
+        "G01C 21/20",
+        "B61L 27/10",
+        "B61L 27/57",
+        "H04L 67/12"
+    ]
+}

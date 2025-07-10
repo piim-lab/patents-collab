@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2018 009944-2",
+    "filingDate": "16/05/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETECTAR APLICATIVOS DE TERMINAIS DE USU\u00c1RIO M\u00d3VEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17382279.2",
+            "priorityDate": "16/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "JULIA LLANOS ALONSO",
+        "ANTONIO GUZM\u00c1N SACRIST\u00c1N",
+        "JOS\u00c9 MAR\u00cdA ALONSO CEBRI\u00c1N"
+    ],
+    "holders": [
+        15812
+    ],
+    "ipcCodes": [
+        "H04W 8/18",
+        "G06F 21/50"
+    ]
+}

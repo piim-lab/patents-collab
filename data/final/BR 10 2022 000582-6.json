@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 000582-6",
+    "filingDate": "12/01/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE TRANSFER\u00caNCIA DE DADOS DE AERONAVE, SISTEMA PRODUTOR DE DADOS PARA UM SISTEMA DE TRANSFER\u00caNCIA DE DADOS DE UMA AERONAVE, SISTEMA CONSUMIDOR DE DADOS E M\u00c9TODO PARA TRANSFERIR DADOS DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "21 00285",
+            "priorityDate": "13/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "SERGE BRUILLOT",
+        "PATRICK DIGNIMONT",
+        "J\u00c9R\u00d4ME CAPPELLE"
+    ],
+    "holders": [
+        931
+    ],
+    "ipcCodes": [
+        "G08G 5/00"
+    ]
+}

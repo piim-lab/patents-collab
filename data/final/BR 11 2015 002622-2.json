@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2015 002622-2",
+    "filingDate": "08/08/2013",
+    "grantDate": "21/12/2021",
+    "title": "M\u00c9TODO DE FORMA\u00c7\u00c3O DE UMA CAMADA DE SUPERF\u00cdCIE",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1250920-4",
+            "priorityDate": "09/08/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/681,279",
+            "priorityDate": "09/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "DARKO PERVAN"
+    ],
+    "holders": [
+        129192
+    ],
+    "ipcCodes": [
+        "E04F 15/10",
+        "B05C 19/04",
+        "B44C 5/04",
+        "B27N 3/06",
+        "B27M 3/04",
+        "B32B 21/12"
+    ]
+}

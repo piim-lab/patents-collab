@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 016809-7",
+    "filingDate": "02/12/2014",
+    "grantDate": null,
+    "title": "PAR\u00c2METROS PARA DESCOBERTA DE DISPOSITIVO A DISPOSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/929,895",
+            "priorityDate": "21/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/556,996",
+            "priorityDate": "01/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "SUDHIR KUMAR BAGHEL",
+        "SHAILESH PATIL",
+        "GEORGIOS TSIRTSIS"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 8/00"
+    ]
+}

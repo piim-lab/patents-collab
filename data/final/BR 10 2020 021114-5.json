@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 021114-5",
+    "filingDate": "15/10/2020",
+    "grantDate": null,
+    "title": "ARTIGO DE MAQUIAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102019000019202",
+            "priorityDate": "17/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2756"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "CECILIA ELENA SCHENA",
+        "ANDREA RUBENS SANGALLI"
+    ],
+    "holders": [
+        62646
+    ],
+    "ipcCodes": [
+        "A45D 40/00",
+        "A45D 33/18"
+    ]
+}

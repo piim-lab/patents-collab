@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2013 013708-1",
+    "filingDate": "03/06/2013",
+    "grantDate": null,
+    "title": "PROCESSO CONT\u00cdNUO PARA O TRATAMENTO T\u00c9RMICO DE UMA POLIAMIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12 170778.0",
+            "priorityDate": "05/06/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        }
+    ],
+    "inventors": [
+        "ANDREAS CHRISTEL",
+        "BRENT ALLAN CULBERT",
+        "ANDREAS CHRISTEL",
+        "BRENT ALLAN CULBERT"
+    ],
+    "holders": [
+        7119
+    ],
+    "ipcCodes": [
+        "B01J 19/24",
+        "C08G 69/46"
+    ]
+}

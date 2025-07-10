@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 13 2018 069012-3",
+    "filingDate": "19/09/2018",
+    "grantDate": null,
+    "title": "USO DE ANTICORPOS POLICLONAIS HUMANOS OU FRAGMENTOS DESTES, E, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/302,842",
+            "priorityDate": "03/03/2016"
+        }
+    ],
+    "parentApplication": {
+        "filingDate": "27/02/2017",
+        "applicationNumber": "BR 11 2018 067353-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "ERAN SCHENKER",
+        "YUVAL SAGIV"
+    ],
+    "holders": [
+        222909
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61K 39/42"
+    ]
+}

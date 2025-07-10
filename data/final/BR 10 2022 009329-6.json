@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2022 009329-6",
+    "filingDate": "13/05/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FORNECIMENTO DE UM ARRANJO DE CONEX\u00c3O EL\u00c9TRICA E VE\u00cdCULO COMPREENDENDO UM ARRANJO DE CONEX\u00c3O EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "2150636-5",
+            "priorityDate": "19/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "VIKTOR NYMAN",
+        "ALEXANDER TASEVSKI",
+        "JOEL MAURITZON"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B60R 16/02",
+        "H01R 4/30",
+        "F16B 35/04"
+    ]
+}

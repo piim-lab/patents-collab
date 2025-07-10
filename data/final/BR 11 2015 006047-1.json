@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2015 006047-1",
+    "filingDate": "13/06/2013",
+    "grantDate": "14/06/2022",
+    "title": "M\u00c9TODO REALIZADO POR UM EQUIPAMENTO DE USU\u00c1RIO PARA RETRANSMISS\u00c3O DE DADOS DE HARQ, M\u00c9TODO REALIZADO POR UM EQUIPAMENTO DE USU\u00c1RIO PARA TRANSMISS\u00c3O DE DADOS DE HARQ, DISPOSI\u00c7\u00c3O PARA UM EQUIPAMENTO DE USU\u00c1RIO CONFIGURADO PARA TRANSMISS\u00c3O DE DADOS DE HARQ, E, EQUIPAMENTO DE USU\u00c1RIO PARA RETRANSMISS\u00c3O DE DADOS DE HARQ",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/703,940",
+            "priorityDate": "21/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "15.23",
+            "description": "Pedido \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "15.23",
+            "description": "Pedido \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "19.1",
+            "description": "Notifica\u00e7\u00e3o de Decis\u00e3o Judicial",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "NAMIR LIDIAN",
+        "ERIK LARSSON",
+        "ALESSANDRO CAVERNI",
+        "PETER VON WRYCZA",
+        "CAGATAY KONUSKAN"
+    ],
+    "holders": [
+        108606
+    ],
+    "ipcCodes": [
+        "H04B 7/06",
+        "H04L 1/18",
+        "H04L 1/06"
+    ]
+}

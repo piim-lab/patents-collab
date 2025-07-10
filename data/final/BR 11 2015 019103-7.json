@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 019103-7",
+    "filingDate": "05/03/2014",
+    "grantDate": null,
+    "title": "ERROS DE MEM\u00d3RIA INCORRIG\u00cdVEIS REDUZIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/792,597",
+            "priorityDate": "11/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "KIRAN PANGAL",
+        "PRASHANT S DAMLE",
+        "RAJESH SUNDARAM",
+        "SHEKOUFEH QAWAMI",
+        "JULIE M WALKER",
+        "DOYLE RIVERS"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "G06F 12/00",
+        "G06F 11/16"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2015 020058-3",
+    "filingDate": "14/02/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DISTRIBUI\u00c7\u00c3O E PROCESSO COSM\u00c9TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1351477",
+            "priorityDate": "21/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        }
+    ],
+    "inventors": [
+        "NICOLAS ALBISETTI",
+        "ODILE AUBRUN",
+        "FABRICE SPRINGINSFELD"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "A61Q 15/00",
+        "A61K 8/06",
+        "A45D 40/26"
+    ]
+}

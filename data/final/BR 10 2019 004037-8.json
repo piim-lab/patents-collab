@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2019 004037-8",
+    "filingDate": "27/02/2019",
+    "grantDate": null,
+    "title": "TURBINA A G\u00c1S AERODERIVADA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000003136",
+            "priorityDate": "28/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "FRANCESCO CARATELLI"
+    ],
+    "holders": [
+        33992
+    ],
+    "ipcCodes": [
+        "F02C 7/20",
+        "F02C 7/18",
+        "F02C 7/24",
+        "F01D 25/26",
+        "F01D 25/14"
+    ]
+}

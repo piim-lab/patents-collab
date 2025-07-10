@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2021 012636-8",
+    "filingDate": "04/11/2019",
+    "grantDate": null,
+    "title": "INDICATOR DE TRATAMENTO, UM M\u00c9TODO DE PRODU\u00c7\u00c3O DO MESMO E UM M\u00c9TODO PARA USO DO MESMO",
+    "nationalPhaseDate": [
+        "25/06/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2019/059445",
+        "pctDate": "04/11/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/786,075",
+            "priorityDate": "28/12/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/785,971",
+            "priorityDate": "28/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2773"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2773"
+        },
+        {
+            "code": "25.12",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "MORRIS FOX",
+        "NAVID OMIDBAKHSH"
+    ],
+    "holders": [
+        271860
+    ],
+    "ipcCodes": [
+        "A61L 2/28"
+    ]
+}

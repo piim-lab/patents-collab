@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2014 006328-5",
+    "filingDate": "17/03/2014",
+    "grantDate": null,
+    "title": "FILTRO DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/794,421",
+            "priorityDate": "15/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/213,408",
+            "priorityDate": "14/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "STEVE WILLIAMS",
+        "JERE JAMES WALL",
+        "TAKAHIKO SHIMIZU",
+        "HIROYUKI SHIMMURA",
+        "JUNJI AIHARA",
+        "TETSUNORI IWAMOTO",
+        "TAKEHISA NAKAJIMA",
+        "KENJIRO SAITO",
+        "SUMITAKA HIROSE"
+    ],
+    "holders": [
+        1851,
+        11427,
+        1852,
+        147
+    ],
+    "ipcCodes": [
+        "F02M 35/00"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2020 002980-7",
+    "filingDate": "16/08/2018",
+    "grantDate": null,
+    "title": "SISTEMAS DE FILTRO, ELEMENTOS E M\u00c9TODOS COM RECURSOS DE RASTREAMENTO SEM FIO DE CURTO ALCANCE",
+    "nationalPhaseDate": [
+        "12/02/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/046810",
+        "pctDate": "16/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/546,246",
+            "priorityDate": "16/08/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/102,277",
+            "priorityDate": "13/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "DANNY WILLIAM MILLER",
+        "DANIEL E ADAMEK"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "B01D 35/143",
+        "B01D 46/00",
+        "B01D 46/42",
+        "B01D 29/01",
+        "B01D 29/11",
+        "B01D 29/58"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2012 028727-3",
+    "filingDate": "12/05/2011",
+    "grantDate": null,
+    "title": "COORDENA\u00c7\u00c3O DE RECURSOS PARA GRUPOS PONTO-A-PONTO ATRAV\u00c9S DE NEGOCIA\u00c7\u00c3O DISTRIBUIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/334,143",
+            "priorityDate": "12/05/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/349,659",
+            "priorityDate": "28/05/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/103,733",
+            "priorityDate": "09/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "STEFAN GEIRHOFER",
+        "RAVI PALANKI",
+        "NAGA BHUSHAN",
+        "ALEKSANDAR DAMNJANOVIC",
+        "PARAG ARUN AGASHE"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04W 72/04",
+        "H04L 29/08",
+        "H04W 8/00",
+        "H04W 76/14",
+        "H04L 5/14",
+        "H04W 84/18",
+        "H04W 28/18",
+        "H04W 72/02",
+        "H04W 28/08",
+        "H04W 92/18"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2013 021797-9",
+    "filingDate": "24/02/2012",
+    "grantDate": null,
+    "title": "FILTRO PERME\u00c1VEL A G\u00c1S FORNECIDO COM REPEL\u00caNCIA DE \u00d3LEO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-042794",
+            "priorityDate": "28/02/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-097649",
+            "priorityDate": "25/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        }
+    ],
+    "inventors": [
+        "YOSHIKI IKEYAMA",
+        "NOBUAKI MARUOKA",
+        "NAOFUMI KOSAKA",
+        "ASUKA ONOHARA"
+    ],
+    "holders": [
+        19962
+    ],
+    "ipcCodes": []
+}

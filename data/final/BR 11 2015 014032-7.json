@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2015 014032-7",
+    "filingDate": "16/12/2013",
+    "grantDate": null,
+    "title": "Dispositivo e c\u00e1psula para distribuir um produto sobre um corpo vivo",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "12 03433",
+            "priorityDate": "15/12/2012"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "12 03445",
+            "priorityDate": "17/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "STEPHANE DECAUX",
+        "G\u00c9RALDINE DECAUX",
+        "FLORENT SIMON"
+    ],
+    "holders": [
+        157629
+    ],
+    "ipcCodes": [
+        "A45D 34/04",
+        "A61N 5/06",
+        "A61K 9/00",
+        "A45D 34/00",
+        "A61M 37/00",
+        "A61M 35/00",
+        "A61H 15/02"
+    ]
+}

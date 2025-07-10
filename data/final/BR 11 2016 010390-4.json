@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2016 010390-4",
+    "filingDate": "31/10/2014",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES AGROQU\u00cdMICAS TENDO RESIST\u00caNCIA \u00c0 CHUVA AUMENTADA",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "1378/KOL/2013",
+            "priorityDate": "05/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "7.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        }
+    ],
+    "inventors": [
+        "SUJATA DHONDIRAM DESAI",
+        "SATISH EKANATH BHOGE",
+        "JAIDEV RAJNIKANT SHROFF",
+        "VIKRAM RAJNIKANT SHROFF"
+    ],
+    "holders": [
+        11412
+    ],
+    "ipcCodes": [
+        "A01N 47/14",
+        "A01N 25/24",
+        "A01N 55/02"
+    ]
+}

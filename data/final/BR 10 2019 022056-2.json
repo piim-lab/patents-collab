@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2019 022056-2",
+    "filingDate": "21/10/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA PILOTAR UMA AERONAVE.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/202,431",
+            "priorityDate": "28/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        }
+    ],
+    "inventors": [
+        "JOHAN L DE PRINS",
+        "BASTIAN FIGLAR",
+        "DAVID GARRIDO",
+        "JULIEN SCHARL",
+        "THOMAS E YOCHUM"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G08G 5/00"
+    ]
+}

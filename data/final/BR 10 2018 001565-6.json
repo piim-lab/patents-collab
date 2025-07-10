@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 001565-6",
+    "filingDate": "25/01/2018",
+    "grantDate": null,
+    "title": "?SISTEMA E M\u00c9TODO PARA MONITORAR AUTOMATICAMENTE A RUGOSIDADE DE SUPERF\u00cdCIE DE SOLO?",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/423,811",
+            "priorityDate": "03/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "LUCA FERRARI",
+        "JOHN H POSSELIUS",
+        "BRET T TURPIN",
+        "TAYLOR C BYBEE"
+    ],
+    "holders": [
+        17534,
+        79
+    ],
+    "ipcCodes": [
+        "A01B 79/00"
+    ]
+}

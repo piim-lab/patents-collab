@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2019 019513-7",
+    "filingDate": "03/07/2014",
+    "grantDate": null,
+    "title": "FOLHA DE A\u00c7O DESCOBERTA E FOLHA DE A\u00c7O REVESTIDA",
+    "divisionalApplication": {
+        "filingDate": "03/07/2014",
+        "applicationNumber": "BR 11 2017 000019-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "OLGA A GIRINA",
+        "DAMON PANAHI"
+    ],
+    "holders": [
+        149569
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C21D 9/46",
+        "C22C 38/22",
+        "C21D 1/18",
+        "C21D 8/02"
+    ]
+}

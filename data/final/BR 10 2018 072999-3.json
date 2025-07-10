@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 072999-3",
+    "filingDate": "08/11/2018",
+    "grantDate": null,
+    "title": "RODA DENTADA, TREM DE ENGRENAGENS E VE\u00cdCULO A MOTOR COM TAL TREM DE ENGRENAGENS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017126205.9",
+            "priorityDate": "09/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "JENS T\u00dcRK",
+        "MARCUS VIET"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "F16H 55/18"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2012 020768-7",
+    "filingDate": "22/11/2010",
+    "grantDate": "31/03/2020",
+    "title": "DISPOSITIVO  E  M\u00c9TODO PARA  OPERAR UMA M\u00c1QUINA S\u00cdNCRONA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 008 814.5",
+            "priorityDate": "22/02/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "MARCEL BENECKE"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H02P 27/16",
+        "H02P 27/02"
+    ]
+}

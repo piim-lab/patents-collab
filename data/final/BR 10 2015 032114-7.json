@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2015 032114-7",
+    "filingDate": "21/12/2015",
+    "grantDate": null,
+    "title": "CONGELADOR DE LOTE PARA EXPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2014A002211",
+            "priorityDate": "22/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "PAOLO SOFFIENTINI",
+        "EMANUELA CIPELLETTI"
+    ],
+    "holders": [
+        21001,
+        21002
+    ],
+    "ipcCodes": [
+        "A23G 9/22",
+        "F25D 3/00",
+        "A23G 9/12"
+    ]
+}

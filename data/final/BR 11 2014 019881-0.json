@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 019881-0",
+    "filingDate": "18/02/2013",
+    "grantDate": "02/07/2019",
+    "title": "ENFARDADOR AGR\u00cdCOLA QUADRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "BE2012/0105",
+            "priorityDate": "22/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "DIDIER VERHAEGHE"
+    ],
+    "holders": [
+        13869
+    ],
+    "ipcCodes": [
+        "B30B 9/30",
+        "A01F 15/10"
+    ]
+}

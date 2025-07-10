@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2021 026254-3",
+    "filingDate": "04/06/2013",
+    "grantDate": null,
+    "title": "ESTRUTURA DE QUADRO DE SUPORTE PARA UM VE\u00cdCULO UTILIT\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 013 910.1",
+            "priorityDate": "13/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/06/2013",
+        "applicationNumber": "BR 10 2013 013754-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "STEVE SATTLER",
+        "J\u00dcRGEN HINTEREDER"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "B62D 21/02"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 075282-0",
+    "filingDate": "06/12/2018",
+    "grantDate": null,
+    "title": "V\u00c1LVULA LIMITADORA DE ACIONAMENTO R\u00c1PIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/596,280",
+            "priorityDate": "08/12/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/202,750",
+            "priorityDate": "28/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "WILLIAM JOHN POTTER",
+        "RYAN REPKO",
+        "EDWARD W GAUGHAN"
+    ],
+    "holders": [
+        24087
+    ],
+    "ipcCodes": [
+        "F16K 15/02",
+        "B60T 15/02",
+        "B60T 15/42"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2017 013996-4",
+    "filingDate": "28/06/2017",
+    "grantDate": null,
+    "title": "VE\u00cdCULO UTILIT\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "UY",
+            "priorityNumber": "36.763",
+            "priorityDate": "01/07/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "MARTIN HORNSMANN",
+        "MARTIN ROSSOL",
+        "KARL SEIDINGER",
+        "GIUSEPPE MELAI"
+    ],
+    "holders": [
+        36800,
+        125,
+        30709
+    ],
+    "ipcCodes": [
+        "B62D 21/02"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2015 000250-8",
+    "filingDate": "03/06/2013",
+    "grantDate": null,
+    "title": "PORTADOR E UMA MONTAGEM DE SUPORTE PARA UM FREIO A DISCO DE VE\u00cdCULOS PESADOS E M\u00c9TODO DE MONTAR UM PORTADOR DE UM FREIO A DISCO EM UM SUPORTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12177731.2",
+            "priorityDate": "24/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "03/06/2013",
+        "applicationNumber": "BR 10 2013 013679-4"
+    },
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "ADRIAN BULL",
+        "OTTO OLSSON",
+        "M\u00c5RTEN SYLWAN"
+    ],
+    "holders": [
+        312,
+        7112
+    ],
+    "ipcCodes": [
+        "F16D 55/02"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 12 2017 027373-6",
+    "filingDate": "02/05/2007",
+    "grantDate": null,
+    "title": "ARTIGO DE CAL\u00c7ADO COM CONJUNTOS DE SUPORTE TENDO COLUNAS DE SUPORTE ELASTOM\u00c9RICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/419,015",
+            "priorityDate": "18/05/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/05/2007",
+        "applicationNumber": "PI 0710781-1"
+    },
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "STEVEN F SMITH",
+        "GERALD E CROWLEY",
+        "CHRISTOPHER COOK"
+    ],
+    "holders": [
+        108355
+    ],
+    "ipcCodes": [
+        "A43B 13/18",
+        "A43B 13/16"
+    ]
+}

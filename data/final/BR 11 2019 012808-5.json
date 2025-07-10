@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2019 012808-5",
+    "filingDate": "11/01/2018",
+    "grantDate": null,
+    "title": "TOMADA DE A\u00c7\u00c3O COM BASE EM UM GR\u00c1FICO F\u00cdSICO",
+    "nationalPhaseDate": [
+        "19/06/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/013232",
+        "pctDate": "11/01/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/447,790",
+            "priorityDate": "18/01/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/436,686",
+            "priorityDate": "17/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "VIJAY MITAL"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06F 17/30",
+        "H04L 12/28",
+        "G06N 5/04",
+        "G06N 3/00"
+    ]
+}

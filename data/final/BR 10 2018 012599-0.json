@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 012599-0",
+    "filingDate": "20/06/2018",
+    "grantDate": null,
+    "title": "PROCESSO DE EXTRUS\u00c3O DE QUATRO BOLHAS PARA FILME DE POL\u00cdMERO SOPRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/522,409",
+            "priorityDate": "20/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "MIROSLAV PLANETA",
+        "HARINDER TAMBER"
+    ],
+    "holders": [
+        39501
+    ],
+    "ipcCodes": [
+        "B29C 47/00",
+        "B29L 23/00",
+        "B29L 9/00",
+        "B29C 47/06",
+        "B29C 47/28",
+        "B29C 47/26"
+    ]
+}

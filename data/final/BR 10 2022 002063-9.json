@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2022 002063-9",
+    "filingDate": "03/02/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE FORNECIMENTO DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-017036",
+            "priorityDate": "05/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2804"
+        }
+    ],
+    "inventors": [
+        "NAOKI YANAGIZAWA",
+        "TECKCHIANG GOH",
+        "KAZUO OOTSUKA",
+        "HIROSHI TSUKADA",
+        "SHUJI TOMURA",
+        "JUNTA IZUMI",
+        "KENJI KIMURA",
+        "JUNICHI MATSUMOTO",
+        "MASAKAZU HABU",
+        "KAZUHIKO FUKUTANI"
+    ],
+    "holders": [
+        188,
+        5783
+    ],
+    "ipcCodes": [
+        "H02M 7/48",
+        "H05B 6/06",
+        "H05B 6/04"
+    ]
+}

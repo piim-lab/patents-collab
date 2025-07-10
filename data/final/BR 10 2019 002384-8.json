@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 002384-8",
+    "filingDate": "06/02/2019",
+    "grantDate": null,
+    "title": "CHAPA DE METAL COM CORTE DE CONTORNO PARA A REDU\u00c7\u00c3O DA VIBRA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 103 001.0",
+            "priorityDate": "09/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "EWALD HARTWICH",
+        "MARC BARTKE",
+        "NORMANN WILLIMEK"
+    ],
+    "holders": [
+        46248
+    ],
+    "ipcCodes": [
+        "B21C 1/00"
+    ]
+}

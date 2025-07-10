@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2021 016935-4",
+    "filingDate": "26/08/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO DE FUNCIONAMENTO DE UM DISPOSITIVO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "ARI MAGALHAES NETO"
+    ],
+    "holders": [
+        47693
+    ],
+    "ipcCodes": [
+        "G06Q 30/02",
+        "G01C 21/36",
+        "H04W 4/021"
+    ]
+}

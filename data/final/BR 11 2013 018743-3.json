@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2013 018743-3",
+    "filingDate": "29/12/2010",
+    "grantDate": null,
+    "title": "GAIOLA ALVEOLAR",
+    "nationalPhaseDate": [
+        "27/06/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT BR2010/000447",
+        "pctDate": "29/12/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "BR",
+            "priorityNumber": "PI09058656",
+            "priorityDate": "29/12/2009"
+        },
+        {
+            "countryCode": "BR",
+            "priorityNumber": "PI10012834",
+            "priorityDate": "28/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "SONIA REGINA DE CASTRO"
+    ],
+    "holders": [
+        14648
+    ],
+    "ipcCodes": [
+        "B62J 23/00",
+        "B62D 25/06"
+    ]
+}

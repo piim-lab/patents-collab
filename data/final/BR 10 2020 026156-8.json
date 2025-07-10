@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 026156-8",
+    "filingDate": "21/12/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DESLIGAR UMA REDE DE COMUNICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1915442",
+            "priorityDate": "23/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "MASSINISSA LALAM",
+        "LAURENT ALARCON"
+    ],
+    "holders": [
+        51460
+    ],
+    "ipcCodes": [
+        "H04W 88/08",
+        "H04W 24/02",
+        "H04W 88/10"
+    ]
+}

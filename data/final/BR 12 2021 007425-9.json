@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 12 2021 007425-9",
+    "filingDate": "28/12/2011",
+    "grantDate": null,
+    "title": "APARELHO DE DECODIFICA\u00c7\u00c3O, E M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE UM SINAL DE BANDA SUPERIOR",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0138045",
+            "priorityDate": "29/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/495,017",
+            "priorityDate": "09/06/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/12/2011",
+        "applicationNumber": "BR 11 2013 016438-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "HYUN CHOO",
+        "MI OH",
+        "SANG SUNG"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "G10L 19/24"
+    ]
+}

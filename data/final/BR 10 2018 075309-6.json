@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 075309-6",
+    "filingDate": "06/12/2018",
+    "grantDate": null,
+    "title": "APARELHO, M\u00c9TODO, E, ESTRUTURA COMP\u00d3SITA PARA UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/838008",
+            "priorityDate": "11/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2804"
+        }
+    ],
+    "inventors": [
+        "DEREK R TUCK",
+        "PHILIPP A BOETTCHER",
+        "CARSON ALEXANDER SMITH",
+        "DAVID THOMAS MISCIAGNA"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 45/02"
+    ]
+}

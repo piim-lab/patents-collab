@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 20 2019 012435-6",
+    "filingDate": "17/06/2019",
+    "grantDate": null,
+    "title": "UM SENSOR DE CORRENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/686,139",
+            "priorityDate": "18/06/2018"
+        },
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2018/5556",
+            "priorityDate": "07/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        33201
+    ],
+    "ipcCodes": []
+}

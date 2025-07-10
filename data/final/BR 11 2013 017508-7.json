@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 017508-7",
+    "filingDate": "11/01/2012",
+    "grantDate": null,
+    "title": "PROCESSO DE POSICIONAMENTO M\u00daTUO DE TUBOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "11/50231",
+            "priorityDate": "11/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "FRAN\u00c7OIS DAGENAIS"
+    ],
+    "holders": [
+        110898
+    ],
+    "ipcCodes": [
+        "B23K 37/053"
+    ]
+}

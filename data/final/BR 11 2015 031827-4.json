@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2015 031827-4",
+    "filingDate": "20/06/2014",
+    "grantDate": null,
+    "title": "Composto e seu uso, processo para a prepara\u00e7\u00e3o de um composto, composi\u00e7\u00e3o farmac\u00eautica",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1311169.5",
+            "priorityDate": "21/06/2013"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1314397.9",
+            "priorityDate": "09/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "MARTIN TEALL"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "A61P 25/00",
+        "A61K 31/454",
+        "C07D 401/12"
+    ]
+}

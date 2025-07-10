@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 005021-7",
+    "filingDate": "17/03/2021",
+    "grantDate": null,
+    "title": "CORREIA DE ESCOVA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/837525",
+            "priorityDate": "01/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "LUC GODART",
+        "PATRICK BEAUNEVEU",
+        "BRUNO BERTHONNEAU",
+        "DAMIEN DOLE",
+        "ELIJAH B GARNER",
+        "MICHAEL E FRASIER",
+        "MICHAEL E FRIESTAD",
+        "ELIJAH B GARNER",
+        "KOMAL KULKARNI",
+        "TYLER G GROVES",
+        "LUC GODART",
+        "PATRICK BEAUNEVEU",
+        "BRUNO BERTHONNEAU",
+        "DAMIEN DOLE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 7/16"
+    ]
+}

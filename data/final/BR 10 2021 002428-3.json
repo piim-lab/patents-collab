@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2021 002428-3",
+    "filingDate": "09/02/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE LIGA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-021025",
+            "priorityDate": "10/02/2020"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-219758",
+            "priorityDate": "29/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "KOUICHIROU MORIMURA",
+        "YUSUKE YOSHIDA",
+        "ICHIRO KUSAKARI",
+        "OSAMU ITAGAKI",
+        "SHINPEI SUGIHARA",
+        "OSAMU ITAGAKI",
+        "SHINPEI SUGIHARA",
+        "KOUICHIROU MORIMURA",
+        "YUSUKE YOSHIDA",
+        "ICHIRO KUSAKARI",
+        "YUSUKE YOSHIDA",
+        "KOUICHIROU MORIMURA",
+        "ICHIRO KUSAKARI",
+        "KOUICHIROU MORIMURA",
+        "YUSUKE YOSHIDA",
+        "TAKAHIRO ITO",
+        "HIROKI ISHIGURO"
+    ],
+    "holders": [
+        61205
+    ],
+    "ipcCodes": [
+        "E04G 21/12"
+    ]
+}

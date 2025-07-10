@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 008725-1",
+    "filingDate": "28/10/2015",
+    "grantDate": null,
+    "title": "Pe\u00e7a de turbom\u00e1quina",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1460497",
+            "priorityDate": "31/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "B\u00c9ATRICE PELTIER",
+        "C\u00c9DRIK BROZEK",
+        "YVON MILLET",
+        "FR\u00c9D\u00c9RIC PRIMA"
+    ],
+    "holders": [
+        48954,
+        167805,
+        190022,
+        190023
+    ],
+    "ipcCodes": [
+        "C22C 14/00"
+    ]
+}

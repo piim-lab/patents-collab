@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2020 002340-0",
+    "filingDate": "18/08/2018",
+    "grantDate": null,
+    "title": "COLETA ASSISTIDA DE REALIDADE AUMENTADA",
+    "nationalPhaseDate": [
+        "04/02/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2018/056256",
+        "pctDate": "18/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/553,055",
+            "priorityDate": "31/08/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/020,118",
+            "priorityDate": "27/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "JOHN BADALAMENTI",
+        "JOSHUA INCH",
+        "CHRISTOPHER MICHAEL SANCHEZ",
+        "THEODORE RUSSELL SUMERS"
+    ],
+    "holders": [
+        56369
+    ],
+    "ipcCodes": [
+        "G06T 19/00",
+        "G01C 21/34",
+        "G06T 7/70"
+    ]
+}

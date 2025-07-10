@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2012 031567-2",
+    "filingDate": "29/10/2002",
+    "grantDate": "24/04/2019",
+    "title": "FORMULA\u00c7\u00d5ES DEP\u00d3SITO DE ILOPERIDONA, MICROPART\u00cdCULA COMPREENDENDO ILOPERIDONA, BEM COMO SEU PROCESSO DE PREPARA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/339,036",
+            "priorityDate": "30/10/2001"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/10/2002",
+        "applicationNumber": "PI 0213564-7"
+    },
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "MARKUS AHLHEIM",
+        "ROLF LOEFFLER"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61P 25/18",
+        "A61K 9/16",
+        "A61K 31/454"
+    ]
+}

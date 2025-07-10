@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 006859-0",
+    "filingDate": "09/04/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA O TRATAMENTO DE FERRUGEM DE SOJA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP20190936.3",
+            "priorityDate": "13/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "STEFAAN REYBROUCK",
+        "KOEN QUAGHEBEUR"
+    ],
+    "holders": [
+        66835
+    ],
+    "ipcCodes": [
+        "A01N 43/40",
+        "A01N 47/14",
+        "A01P 3/00",
+        "A01N 43/653",
+        "A01N 37/20",
+        "A01N 37/50",
+        "A01N 37/34"
+    ]
+}

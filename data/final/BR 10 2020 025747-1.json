@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2020 025747-1",
+    "filingDate": "16/12/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE PR\u00c9-CORTE DE RECIPIENTE .",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19000572.8",
+            "priorityDate": "18/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2764"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2775"
+        }
+    ],
+    "inventors": [
+        "MANUEL GONZ\u00c1LEZ"
+    ],
+    "holders": [
+        57730
+    ],
+    "ipcCodes": [
+        "B65B 61/06",
+        "B26F 1/40",
+        "B26F 1/44",
+        "B26D 3/08"
+    ]
+}

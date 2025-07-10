@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2017 024889-5",
+    "filingDate": "21/11/2017",
+    "grantDate": null,
+    "title": "CONJUNTO DE DISPOSITIVO DE CORTE DE COMBUST\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201641039589",
+            "priorityDate": "21/11/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2765"
+        }
+    ],
+    "inventors": [
+        "T DEEPAN",
+        "P S ARULMURUGAN",
+        "RAMESH VAIDHEESWARAN"
+    ],
+    "holders": [
+        33987
+    ],
+    "ipcCodes": [
+        "B62J 37/00",
+        "F02D 33/00",
+        "F02M 69/28"
+    ]
+}

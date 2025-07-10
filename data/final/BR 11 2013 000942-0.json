@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2013 000942-0",
+    "filingDate": "29/08/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA ETIQUETAR FARDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/871,439",
+            "priorityDate": "30/08/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "KEVIN SMITH",
+        "CHRISTOPHER FOSTER"
+    ],
+    "holders": [
+        5995
+    ],
+    "ipcCodes": [
+        "A01F 15/08"
+    ]
+}

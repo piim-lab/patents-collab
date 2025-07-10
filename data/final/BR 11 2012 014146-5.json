@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2012 014146-5",
+    "filingDate": "18/12/2009",
+    "grantDate": "09/07/2019",
+    "title": "Instala\u00e7\u00e3o com entrada de ar",
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "ERIK LANS"
+    ],
+    "holders": [
+        92381
+    ],
+    "ipcCodes": [
+        "B01D 46/00",
+        "F02C 7/04",
+        "F02C 7/052",
+        "B01D 46/12"
+    ]
+}

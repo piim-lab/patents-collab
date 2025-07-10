@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2020 019637-5",
+    "filingDate": "25/09/2020",
+    "grantDate": null,
+    "title": "ENCAIXE PARA UM TERMINAL DE BATERIA PARA AUMENTO DA RETEN\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/582,018",
+            "priorityDate": "25/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        }
+    ],
+    "inventors": [
+        "MAURICIO GISOLDI"
+    ],
+    "holders": [
+        39019
+    ],
+    "ipcCodes": [
+        "H01R 4/48",
+        "H01R 11/28"
+    ]
+}

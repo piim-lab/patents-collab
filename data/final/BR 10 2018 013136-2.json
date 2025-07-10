@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2018 013136-2",
+    "filingDate": "26/06/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE GERENCIAMENTO DE RES\u00cdDUO PARA UM VE\u00cdCULO AGR\u00cdCOLA E VE\u00cdCULO AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/634,621",
+            "priorityDate": "27/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2754"
+        }
+    ],
+    "inventors": [
+        "STEFAAN DESMET",
+        "NATHAN E ISAAC",
+        "COOPER W LINDE",
+        "TIM PASSCHYN"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 41/12",
+        "A01F 12/44",
+        "A01F 17/02"
+    ]
+}

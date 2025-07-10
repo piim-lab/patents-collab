@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2023 007874-1",
+    "filingDate": "26/10/2021",
+    "grantDate": null,
+    "title": "LOCI DE PORTO SEGURO",
+    "nationalPhaseDate": [
+        "26/04/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/056689",
+        "pctDate": "26/10/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/105,834",
+            "priorityDate": "26/10/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/141,926",
+            "priorityDate": "26/01/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/179,143",
+            "priorityDate": "23/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "1.3",
+            "description": "Pedido PCT Admitido na Fase Nacional",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "XINYING ZHENG",
+        "BRENDAN GALVIN",
+        "SOMYA KHARE",
+        "AARON COOPER",
+        "MICHELLE NGUYEN",
+        "ANZHI YAO"
+    ],
+    "holders": [
+        338082
+    ],
+    "ipcCodes": [
+        "C12N 15/63",
+        "C12N 15/11",
+        "C12N 5/10",
+        "A61K 35/12",
+        "C12N 9/22",
+        "A61K 35/17"
+    ]
+}

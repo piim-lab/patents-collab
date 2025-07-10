@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 12 2021 005514-9",
+    "filingDate": "23/06/2011",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE FRATURAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/862,128",
+            "priorityDate": "24/08/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/06/2011",
+        "applicationNumber": "BR 11 2013 004168-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "MARIA M OCONNELL",
+        "YANG XU",
+        "HECTOR H MIRELES",
+        "LALE KORKMAZ"
+    ],
+    "holders": [
+        2932
+    ],
+    "ipcCodes": [
+        "E21B 33/124",
+        "E21B 23/04",
+        "E21B 43/26"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2013 022451-7",
+    "filingDate": "09/03/2012",
+    "grantDate": null,
+    "title": "Dispositivo de filtra\u00e7\u00e3o de sangue",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/451,903",
+            "priorityDate": "11/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/537,856",
+            "priorityDate": "22/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/538,558",
+            "priorityDate": "23/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/550,516",
+            "priorityDate": "24/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "DANIEL R BOGGS",
+        "MARK J BRIERTON",
+        "BENJAMIN E KUSTERS",
+        "KYUNGYOON MIN",
+        "CHRISTOPHER J WAGENER"
+    ],
+    "holders": [
+        110734
+    ],
+    "ipcCodes": [
+        "B01D 61/00"
+    ]
+}

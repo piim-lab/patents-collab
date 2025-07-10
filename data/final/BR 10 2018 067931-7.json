@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 10 2018 067931-7",
+    "filingDate": "05/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE MODELAGEM, M\u00c9TODO DE GERENCIAMENTO DE MODELO, M\u00c9TODO DE GERA\u00c7\u00c3O DE ALERTA E SISTEMA E M\u00c9TODO DE PREVEN\u00c7\u00c3O DE RISCO EM SERVI\u00c7O DE GEST\u00c3O DE SA\u00daDE",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "11.11",
+            "description": "Arquivamento - Art. 17 \u00a7 2\u00ba da LPI",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.6",
+            "description": "Publica\u00e7\u00e3o do Pedido Arquivado Definitivamente - Art. 216 \u00a72\u00ba e Art. 17 \u00a72\u00ba da LPI",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "JOS\u00c9 SERIPIERI FILHO"
+    ],
+    "holders": [
+        41502
+    ],
+    "ipcCodes": [
+        "G06Q 50/22",
+        "G06Q 10/10"
+    ]
+}

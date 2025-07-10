@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2013 016805-6",
+    "filingDate": "16/12/2011",
+    "grantDate": "07/01/2020",
+    "title": "M\u00c9TODO DE FUS\u00c3O DE UMA CARGA S\u00d3LIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/982,971",
+            "priorityDate": "31/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "VIVEK GAUTAM",
+        "KENNETH KAISER",
+        "LUC JARRY",
+        "R\u00c9MI PIERRE TSIAVA"
+    ],
+    "holders": [
+        2085
+    ],
+    "ipcCodes": [
+        "F23C 6/04",
+        "C22B 21/00",
+        "C22B 7/00",
+        "F23D 14/32"
+    ]
+}

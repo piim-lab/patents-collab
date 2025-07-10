@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2012 025652-1",
+    "filingDate": "12/04/2011",
+    "grantDate": null,
+    "title": "M\u00e9todo de fabricar um painel de constru\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1050363-9",
+            "priorityDate": "13/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "DARKO PERVAN",
+        "G\u00d6RAN ZIEGLER",
+        "NICLAS HAKANSSON",
+        "HANS PERSSON",
+        "JAN JACOBSSON"
+    ],
+    "holders": [
+        81110
+    ],
+    "ipcCodes": [
+        "B44C 5/04",
+        "B27N 3/06",
+        "B32B 21/08",
+        "E04F 15/00",
+        "B32B 21/02"
+    ]
+}

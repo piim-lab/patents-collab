@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2014 021779-3",
+    "filingDate": "06/03/2013",
+    "grantDate": "27/07/2021",
+    "title": "PROCESSO PROGRESSIVO DE RECONHECIMENTO DE DESCARGAS PARCIAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "12 52152",
+            "priorityDate": "09/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "BOUCHRA DAOUDI",
+        "GILBERT LUNA",
+        "RAPHA\u00cbL LEBRETON",
+        "S\u00c9BASTIEN LOUISE"
+    ],
+    "holders": [
+        10276
+    ],
+    "ipcCodes": [
+        "G01R 31/02",
+        "G01R 31/12"
+    ]
+}

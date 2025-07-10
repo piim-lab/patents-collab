@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2022 013584-3",
+    "filingDate": "07/07/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO AMBIENTAL PONTO A PONTO, EM TEMPO REAL, COM ACIONAMENTO DE EQUIPAMENTOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "NILSON NUNES MORAIS JUNIOR",
+        "RENATO TRAVASSOS BELTRAME",
+        "NATAN AUGUSTO COSTA FASSARELLA",
+        "KLERIO SILVA ROCHA",
+        "ALBERTO POLONIO MANSKE"
+    ],
+    "holders": [
+        58376,
+        58369
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G01W 1/10"
+    ]
+}

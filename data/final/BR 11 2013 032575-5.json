@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2013 032575-5",
+    "filingDate": "04/07/2012",
+    "grantDate": null,
+    "title": "BOMBA HIDR\u00c1ULICA DE FUNDO DE PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11173224.4",
+            "priorityDate": "08/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "JORGEN HALLUNDBAEK",
+        "PETER GR\u00c5B\u00c6K"
+    ],
+    "holders": [
+        82770
+    ],
+    "ipcCodes": [
+        "E21B 43/12",
+        "F04B 47/06",
+        "F04B 1/053",
+        "F04B 1/10"
+    ]
+}

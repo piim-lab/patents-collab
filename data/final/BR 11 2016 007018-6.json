@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 007018-6",
+    "filingDate": "25/09/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA FORNECER UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/886,667",
+            "priorityDate": "04/10/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13191083.8",
+            "priorityDate": "31/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [
+        "THOMAS ZIERKE",
+        "NICOLE HOLUB",
+        "GERALD SCHMELEBECK",
+        "JUNMIN JI",
+        "ERIC GEORGE KLAUBER",
+        "MICHAEL RACK",
+        "DAVID CORTES"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C07C 37/02"
+    ]
+}

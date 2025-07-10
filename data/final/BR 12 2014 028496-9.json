@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 12 2014 028496-9",
+    "filingDate": "27/09/2012",
+    "grantDate": null,
+    "title": "CONTINUIDADE DE SERVI\u00c7O MULTICAST/DIFUS\u00c3O EM REDES DE M\u00daLTIPLAS OPERADORAS.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/542,086",
+            "priorityDate": "30/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/531,848",
+            "priorityDate": "25/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/09/2012",
+        "applicationNumber": "BR 11 2014 007424-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "KAMRAN ETEMAD",
+        "YUJIAN ZHANG"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "H04W 4/06",
+        "H04W 52/02",
+        "H04L 12/18",
+        "H04W 4/08",
+        "H04W 36/00",
+        "H04W 76/40",
+        "H04W 48/16",
+        "H04L 12/891",
+        "H04W 52/14",
+        "H04L 12/709"
+    ]
+}

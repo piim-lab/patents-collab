@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2020 019605-7",
+    "filingDate": "25/09/2020",
+    "grantDate": null,
+    "title": "BOMBA HELICOIDAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102019128602.6",
+            "priorityDate": "23/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "RALF RICHTER",
+        "SUSANNE BR\u00dcTTING",
+        "GERHARD ROHLFING",
+        "AXEL J\u00c4SCHKE",
+        "UWE BRANDT"
+    ],
+    "holders": [
+        102412,
+        38437
+    ],
+    "ipcCodes": [
+        "F04C 2/16"
+    ]
+}

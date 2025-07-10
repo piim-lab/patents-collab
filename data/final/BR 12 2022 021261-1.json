@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 12 2022 021261-1",
+    "filingDate": "25/09/2018",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE RESINA DE REPARO DE PARA-BRISA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1715588.8",
+            "priorityDate": "26/09/2017"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1717463.2",
+            "priorityDate": "24/10/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/09/2018",
+        "applicationNumber": "BR 11 2020 002108-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "PAUL SYFKO"
+    ],
+    "holders": [
+        86364
+    ],
+    "ipcCodes": [
+        "B32B 17/10",
+        "B29C 35/08",
+        "B29C 73/02"
+    ]
+}

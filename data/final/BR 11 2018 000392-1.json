@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2018 000392-1",
+    "filingDate": "14/07/2016",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE D-SORBITOL",
+    "nationalPhaseDate": [
+        "08/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/066712",
+        "pctDate": "14/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15176657.3",
+            "priorityDate": "14/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "MAE JOANNE AGUILA",
+        "HANS PETER HOHMANN",
+        "LAURENT LEFORT",
+        "JONATHAN ALAN MEDLOCK",
+        "GUENTER PAPPENBERGER"
+    ],
+    "holders": [
+        16355
+    ],
+    "ipcCodes": [
+        "C07C 29/149",
+        "C07C 31/26",
+        "C07C 29/136"
+    ]
+}

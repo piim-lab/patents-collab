@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2014 028076-2",
+    "filingDate": "29/04/2013",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR PART\u00cdCULAS DE PIGMENTO AUTOLIGANTES",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12167683.7",
+            "priorityDate": "11/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/648,639",
+            "priorityDate": "18/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        81654
+    ],
+    "ipcCodes": []
+}

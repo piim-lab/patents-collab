@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 010714-9",
+    "filingDate": "01/06/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA AVALIA\u00c7\u00c3O DO VALOR DO CR\u00c9DITO DE FAZENDEIRO E RISCO ASSOCIADO COM FAZENDA",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202121039875",
+            "priorityDate": "02/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "MARIAPPAN SAKKAN",
+        "SANAT SARANGI",
+        "SRINIVASU PAPPULA",
+        "RAVINKUMAR SIVALINGAM",
+        "JAYANTRAO MOHITE",
+        "SURYAKANT ASHOK SAWANT",
+        "SANTOSH KUMAR MOHAN"
+    ],
+    "holders": [
+        873
+    ],
+    "ipcCodes": [
+        "G06Q 50/00",
+        "G06Q 40/00"
+    ]
+}

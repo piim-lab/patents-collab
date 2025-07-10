@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2023 001474-7",
+    "filingDate": "26/01/2023",
+    "grantDate": null,
+    "title": "SISTEMA, M\u00c9TODO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES, E MEIO DE ARMAZENAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-012595",
+            "priorityDate": "31/01/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "AKIHIRO MORIYA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "H04W 4/029",
+        "H04W 4/021",
+        "H04M 11/06",
+        "H04W 68/02"
+    ]
+}

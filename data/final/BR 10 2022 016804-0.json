@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 016804-0",
+    "filingDate": "23/08/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES, VE\u00cdCULO EQUIPADO COM DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES, M\u00c9TODO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES E M\u00cdDIA DE GRAVA\u00c7\u00c3O GRAVADA COM PROGRAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-140998",
+            "priorityDate": "31/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "SHIMPEI ASAI",
+        "JUMPEI FUKE",
+        "KUNIHARU TSUZUKI",
+        "SHOTA HONDA",
+        "TORU YOSHIHARA",
+        "NAOYUKI TAKADA",
+        "NOBUYOSHI NAGAI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "H04W 4/40"
+    ]
+}

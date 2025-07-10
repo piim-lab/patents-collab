@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2013 015003-3",
+    "filingDate": "19/12/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OBTER UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1021530.9",
+            "priorityDate": "20/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/424695",
+            "priorityDate": "20/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        }
+    ],
+    "inventors": [
+        "ANNE NILSEN",
+        "SONDRE NILSEN"
+    ],
+    "holders": [
+        92548
+    ],
+    "ipcCodes": [
+        "C07B 59/00",
+        "C07C 309/73",
+        "C07C 269/06",
+        "C07C 271/24",
+        "C07C 303/28",
+        "C07C 309/65"
+    ]
+}

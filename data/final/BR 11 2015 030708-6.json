@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 030708-6",
+    "filingDate": "18/06/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO E PROCESSO DE CORTE DE PE\u00c7AS EM MATERIAL MET\u00c1LICO OU COMP\u00d3SITO E PE\u00c7AS OBTIDAS COM UM TAL PROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1355773",
+            "priorityDate": "19/06/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "CEDRIC BONNET",
+        "ARNAUD DE PONNAT",
+        "OLIVIER MARTIN",
+        "LUDOVIC LOISON",
+        "ANTOINE BOSSELUT",
+        "FR\u00c9D\u00c9RIC DE OLIVEIRA CUNHA"
+    ],
+    "holders": [
+        155285
+    ],
+    "ipcCodes": [
+        "B23D 57/02",
+        "B27B 17/00"
+    ]
+}

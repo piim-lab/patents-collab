@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2012 018542-0",
+    "filingDate": "20/01/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PERFURAR FUROS EM FERRO GUSA EM UM ALTO-FORNO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-013868",
+            "priorityDate": "26/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "RYUSUKE UEMURA",
+        "YOSHIHIRO TAKANO",
+        "TAKANORI KIMURA",
+        "TATUHIRO KOTYOU",
+        "MANABU FUKUDA",
+        "TOSHIYA NOMURA",
+        "HIROSHI YAMASAKI"
+    ],
+    "holders": [
+        95731,
+        188
+    ],
+    "ipcCodes": [
+        "C21B 7/00",
+        "F27D 1/16"
+    ]
+}

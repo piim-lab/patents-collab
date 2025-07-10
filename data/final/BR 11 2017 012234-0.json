@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 012234-0",
+    "filingDate": "04/12/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA SEPARA\u00c7\u00c3O DE GLIC\u00d3IS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14196838.8",
+            "priorityDate": "08/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "PIETER HUIZENGA",
+        "KAI J\u00dcRGEN FISCHER",
+        "KAI J\u00dcRGEN FISCHER",
+        "WALDO EUGENE DE VILLIERS",
+        "PIETER HUIZENGA",
+        "CARMELO GOLF PEREZ",
+        "EVERT VAN DER HEIDE",
+        "PIETER HUIZENGA",
+        "KAI J\u00dcRGEN FISCHER",
+        "CARMELO PEREZ GOLF",
+        "KAI J\u00dcRGEN FISCHER",
+        "PIETER HUIZENGA",
+        "CARMELO PEREZ GOLF",
+        "EVERT VAN DER HEIDE"
+    ],
+    "holders": [
+        13060
+    ],
+    "ipcCodes": [
+        "C07C 29/80",
+        "C07C 29/84"
+    ]
+}

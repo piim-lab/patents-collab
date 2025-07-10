@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2020 001800-3",
+    "filingDate": "11/06/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEM PARA REMOVER UM OSSO DE SOBRECOXA DE UMA SOBRECOXA DE AVES",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2013018",
+            "priorityDate": "18/06/2014"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2013019",
+            "priorityDate": "18/06/2014"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2013017",
+            "priorityDate": "18/06/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/06/2015",
+        "applicationNumber": "BR 11 2016 029613-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "HEINZE ANNEMA",
+        "RICHARD GERARD JOHAN DRABBELS",
+        "ROGER PIERRE HUBERTUS MARIA CLAESSENS",
+        "STEFAN CHRISTIANUS WILHELMUS MARTINUS VAN DEN HEUVEL"
+    ],
+    "holders": [
+        91486
+    ],
+    "ipcCodes": [
+        "A22C 21/00"
+    ]
+}

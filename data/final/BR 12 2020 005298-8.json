@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2020 005298-8",
+    "filingDate": "26/09/2012",
+    "grantDate": "13/04/2021",
+    "title": "M\u00c9TODO DE IMPLANTAR UM SISTEMA DE COMPLETA\u00c7\u00c3O DE M\u00daLTIPLAS ZONAS COM DESLOCAMENTO \u00daNICO",
+    "divisionalApplication": {
+        "filingDate": "26/09/2012",
+        "applicationNumber": "BR 11 2015 006639-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "TOMMY FRANK GRIGSBY",
+        "WILLIAM MARK RICHARDS"
+    ],
+    "holders": [
+        2701
+    ],
+    "ipcCodes": [
+        "E21B 43/12",
+        "E21B 43/08"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2021 023230-0",
+    "filingDate": "18/07/2011",
+    "grantDate": "17/01/2023",
+    "title": "VACINA DE COMBINA\u00c7\u00c3O QUE COMPREENDE UMA VACINA COMPREENDENDO UM PARVOV\u00cdRUS VIVO ATENUADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10169872.8",
+            "priorityDate": "16/07/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/365,684",
+            "priorityDate": "19/07/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/07/2011",
+        "applicationNumber": "BR 11 2012 030659-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [
+        "NORMAN SPIBEY"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "C12N 7/04",
+        "A61K 39/23",
+        "C07K 14/015"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2012 033444-5",
+    "filingDate": "27/12/2012",
+    "grantDate": null,
+    "title": "PACOTE MOLDADO PARA DISPOSITIVO EMISSOR DE LUZ",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "P2011-289846",
+            "priorityDate": "28/12/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "P2011-289848",
+            "priorityDate": "28/12/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "P2012-284130",
+            "priorityDate": "27/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "NOBUHIDE KASAE",
+        "KEISUKE SEJIKI"
+    ],
+    "holders": [
+        5000
+    ],
+    "ipcCodes": [
+        "H01L 33/48",
+        "H01L 33/52"
+    ]
+}

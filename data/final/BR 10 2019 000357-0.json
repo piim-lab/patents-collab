@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 000357-0",
+    "filingDate": "08/01/2019",
+    "grantDate": null,
+    "title": "ACIONADOR DE FACA DE ELO DE CENTRO PARA UMA SEGADORA DE UMA CEIFADEIRA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/865.834",
+            "priorityDate": "09/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "JOEL COOK",
+        "JOHN HINKLE",
+        "HERB FARLEY",
+        "DAVID M DECHRISTOPHER",
+        "BARRY LEHMAN"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 34/30"
+    ]
+}

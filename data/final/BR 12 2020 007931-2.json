@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2020 007931-2",
+    "filingDate": "15/01/2014",
+    "grantDate": "30/08/2022",
+    "title": "M\u00c9TODO E APARELHO PARA OTIMIZAR O N\u00cdVEL DE INTENSIDADE DO SOM E A FAIXA DIN\u00c2MICA ATRAV\u00c9S DE DISPOSITIVOS DE REPRODU\u00c7\u00c3O DIFERENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/754,882",
+            "priorityDate": "21/01/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/809,250",
+            "priorityDate": "05/04/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/824,010",
+            "priorityDate": "16/05/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/01/2014",
+        "applicationNumber": "BR 11 2015 017064-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2769"
+        }
+    ],
+    "inventors": [
+        "JEFFREY RIEDMILLER",
+        "SCOTT GREGORY NORCROSS",
+        "KARL JONAS ROEDEN"
+    ],
+    "holders": [
+        82053,
+        91998
+    ],
+    "ipcCodes": [
+        "H03G 9/00"
+    ]
+}

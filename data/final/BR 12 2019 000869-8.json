@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2019 000869-8",
+    "filingDate": "16/04/2009",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O N\u00c3O-VIVA CONTENDO CARBOIDRATO, E, USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08154764.8",
+            "priorityDate": "18/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/046,161",
+            "priorityDate": "18/04/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/111,756",
+            "priorityDate": "06/11/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08105738.2",
+            "priorityDate": "06/11/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/04/2009",
+        "applicationNumber": "PI 0909769-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": []
+}

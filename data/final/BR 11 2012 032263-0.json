@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 032263-0",
+    "filingDate": "01/06/2011",
+    "grantDate": null,
+    "title": "\"COMPONENTE F\u00caMEA, CONEX\u00c3O ROSQUEADA E PROCESSO PARA  OBTEN\u00c7\u00c3O DA MESMA\".",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "10/02563",
+            "priorityDate": "17/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        }
+    ],
+    "inventors": [
+        "GUILLAUME COEFFE",
+        "C\u00c9LINE SCHES"
+    ],
+    "holders": [
+        90706,
+        188
+    ],
+    "ipcCodes": [
+        "F16L 15/00"
+    ]
+}

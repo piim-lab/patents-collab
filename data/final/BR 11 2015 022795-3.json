@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2015 022795-3",
+    "filingDate": "05/03/2014",
+    "grantDate": null,
+    "title": "PROCESSO DE CONVERS\u00c3O DE HMF EM FDCA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/782,589",
+            "priorityDate": "14/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "ALEXANDRA SANBORN"
+    ],
+    "holders": [
+        95244
+    ],
+    "ipcCodes": [
+        "C07D 307/40"
+    ]
+}

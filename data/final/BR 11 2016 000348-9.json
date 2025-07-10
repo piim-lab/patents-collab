@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2016 000348-9",
+    "filingDate": "08/07/2014",
+    "grantDate": null,
+    "title": "COLETOR PARA UMA CEIFEIRA-DEBULHADORA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 107 148.1",
+            "priorityDate": "08/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "WOLFGANG OEHLER",
+        "ALEXANDER N\u00dcRNBERG",
+        "BART MA MISSOTTEN",
+        "WILLEN VANDAMME"
+    ],
+    "holders": [
+        13869,
+        130158
+    ],
+    "ipcCodes": [
+        "A01D 41/14"
+    ]
+}

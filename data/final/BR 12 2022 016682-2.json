@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 12 2022 016682-2",
+    "filingDate": "30/03/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE RENDERIZA\u00c7\u00c3O DE UM SINAL AC\u00daSTICO, E APARELHO PARA RENDERIZA\u00c7\u00c3O DE UM SINAL AC\u00daSTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/971,647",
+            "priorityDate": "28/03/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/03/2015",
+        "applicationNumber": "BR 11 2016 022559-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "BAE CHON",
+        "MIN KIM"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "H04S 5/02"
+    ]
+}

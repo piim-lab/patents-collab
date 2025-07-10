@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2014 026186-5",
+    "filingDate": "19/04/2013",
+    "grantDate": "01/02/2022",
+    "title": "M\u00c9TODO DE TRANSFEC\u00c7\u00c3O CELULAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/636,331",
+            "priorityDate": "20/04/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/783,823",
+            "priorityDate": "14/03/2013"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2013204327",
+            "priorityDate": "12/04/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "SCOTT GEOFFREY TYACK"
+    ],
+    "holders": [
+        58137,
+        145287
+    ],
+    "ipcCodes": [
+        "A01K 67/027",
+        "C12N 15/90",
+        "C12N 15/85",
+        "C12N 15/89",
+        "C12N 5/16",
+        "C12N 15/88",
+        "A01K 67/02",
+        "C12N 15/873"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2015 022367-2",
+    "filingDate": "14/03/2014",
+    "grantDate": null,
+    "title": "VACINA, MOL\u00c9CULA DE \u00c1CIDO NUCLEICO, E, MOL\u00c9CULA DE AMINO\u00c1CIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/799,952",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "DAVID WEINER",
+        "KARUPPIAH MUTHUMANI",
+        "JEWELL WALTERS",
+        "JIAN YAN"
+    ],
+    "holders": [
+        89061
+    ],
+    "ipcCodes": [
+        "C07H 21/04",
+        "A61K 48/00",
+        "A61K 38/00",
+        "C07K 14/00"
+    ]
+}

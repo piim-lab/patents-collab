@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 001839-9",
+    "filingDate": "29/08/2013",
+    "grantDate": null,
+    "title": "Conjunto incluindo um encaixe de distribui\u00e7\u00e3o antirrefil, produto incluindo o encaixe, m\u00e9todo de produ\u00e7\u00e3o de um produto e produto",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/621,603",
+            "priorityDate": "17/09/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/08/2013",
+        "applicationNumber": "BR 11 2015 005396-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "BRIAN J CHISHOLM"
+    ],
+    "holders": [
+        98540
+    ],
+    "ipcCodes": [
+        "B65D 55/02",
+        "B65D 49/02"
+    ]
+}

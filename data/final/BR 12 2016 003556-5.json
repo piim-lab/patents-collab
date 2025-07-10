@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2016 003556-5",
+    "filingDate": "28/02/2013",
+    "grantDate": "26/06/2018",
+    "title": "ABSORVEDOR DE \u00d3LEO FLUTUANTE, SEUS USOS, E SEU M\u00c9TODO DE FABRICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12003447.5",
+            "priorityDate": "04/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/722,883",
+            "priorityDate": "06/11/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/02/2013",
+        "applicationNumber": "BR 11 2014 027510-6"
+    },
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2623"
+        }
+    ],
+    "inventors": [
+        "WINFRIED A RIEDEL"
+    ],
+    "holders": [
+        145984
+    ],
+    "ipcCodes": [
+        "E02B 15/06",
+        "E02B 15/04",
+        "C02F 1/68",
+        "C09K 3/32",
+        "E02B 15/10"
+    ]
+}

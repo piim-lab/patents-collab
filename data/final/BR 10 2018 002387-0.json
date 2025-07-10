@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 002387-0",
+    "filingDate": "05/02/2018",
+    "grantDate": null,
+    "title": "MONTAGEM DE MOLA COM UM LOCAL DE FIXA\u00c7\u00c3O PROTEGIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/463,574",
+            "priorityDate": "24/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "KERRY WILLIAM QUINN",
+        "ED STEFFES JR"
+    ],
+    "holders": [
+        20656
+    ],
+    "ipcCodes": [
+        "F16F 1/12",
+        "F16F 3/04"
+    ]
+}

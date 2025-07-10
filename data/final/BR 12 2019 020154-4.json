@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2019 020154-4",
+    "filingDate": "29/08/2007",
+    "grantDate": null,
+    "title": "BANCO DE FILTROS [\"FILTERBANK\"] DE AN\u00c1LISE, BANCO DE FILTROS DE S\u00cdNTESE, CODIFICADOR, DECODIFICADOR, MIXADOR E SISTEMA DE CONFER\u00caNCIA",
+    "divisionalApplication": {
+        "filingDate": "29/08/2007",
+        "applicationNumber": "PI 0716004-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "BERNHARD GRILL",
+        "MARKUS SCHNELL",
+        "RALF GEIGER",
+        "GERHARD SCHULLER"
+    ],
+    "holders": [
+        87912,
+        78782
+    ],
+    "ipcCodes": []
+}

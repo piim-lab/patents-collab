@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 12 2020 023074-6",
+    "filingDate": "03/04/2018",
+    "grantDate": null,
+    "title": "CONJUNTO DE \u00c2NCORA EPIC\u00c1RDICA PARA ENDOVASCULARMENTE ENTREGAR E IMPLEMENTAR UMA \u00c2NCORA NO ESPA\u00c7O PERIC\u00c1RDICO, SAIA DE VEDA\u00c7\u00c3O ATRIAL E CONJUNTO M\u00c9DICO PARA IMPLEMENTAR MINIMAMENTE INVASIVAMENTE UMA V\u00c1LVULA NO CORA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/481,846",
+            "priorityDate": "05/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/509,587",
+            "priorityDate": "22/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/558,315",
+            "priorityDate": "13/09/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "03/04/2018",
+        "applicationNumber": "BR 11 2019 020867-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "VIVEK RAJAGOPAL",
+        "JAIME EDUARDO SARABIA",
+        "YENCHIN LIAO"
+    ],
+    "holders": [
+        252087
+    ],
+    "ipcCodes": [
+        "A61B 17/00",
+        "A61B 17/04",
+        "A61B 17/064",
+        "A61F 2/24",
+        "A61B 17/08"
+    ]
+}

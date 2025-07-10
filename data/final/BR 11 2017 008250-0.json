@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2017 008250-0",
+    "filingDate": "04/08/2015",
+    "grantDate": null,
+    "title": "Inserto de recipiente \u00e0 prova de falhas, e, recipiente \u00e0 prova de falhas",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/068,574",
+            "priorityDate": "24/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/102,087",
+            "priorityDate": "11/01/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/128,493",
+            "priorityDate": "04/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "FRANCIS F ABDI",
+        "JONAS SURDENAS",
+        "MOHAMAD REZA TALAGANI"
+    ],
+    "holders": [
+        106141
+    ],
+    "ipcCodes": [
+        "B60K 15/077"
+    ]
+}

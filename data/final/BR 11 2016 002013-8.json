@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2016 002013-8",
+    "filingDate": "10/07/2014",
+    "grantDate": null,
+    "title": "SENSOR DE MONITORAMENTO DE PRESS\u00c3O DO PNEU",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201320472777.9",
+            "priorityDate": "02/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "WEI LI",
+        "WEIHUA SHI",
+        "HONGJUN DUAN",
+        "QIAN LONG"
+    ],
+    "holders": [
+        100039
+    ],
+    "ipcCodes": [
+        "B60C 23/04",
+        "G01L 17/00"
+    ]
+}

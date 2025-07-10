@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2013 029199-0",
+    "filingDate": "14/05/2012",
+    "grantDate": null,
+    "title": "Dispositivo de distribui\u00e7\u00e3o de dois f\u00e1rmacos",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11166091.6",
+            "priorityDate": "13/05/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11181165.9",
+            "priorityDate": "13/09/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11183732.4",
+            "priorityDate": "03/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "JOHANNES MARTINUS MARIA BLOEMERS",
+        "ANKO CORNELUS EISSENS",
+        "HENDERIK WILLEM FRIJLINK",
+        "LEONARDUS GERARDUS JOZEF DE LEEDE"
+    ],
+    "holders": [
+        126734
+    ],
+    "ipcCodes": [
+        "A61K 31/519",
+        "A61K 9/20",
+        "A61K 9/28",
+        "A61K 31/568"
+    ]
+}

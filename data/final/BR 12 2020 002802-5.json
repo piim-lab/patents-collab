@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2020 002802-5",
+    "filingDate": "14/08/2014",
+    "grantDate": null,
+    "title": "LIOFILIZADO DE UM SAL DE HEMISSULFATO DO \u00c1CIDO 5,10-METILENO-(6R)-TETRA-HIDROF\u00d3LICO E PRODUTO RECONSTITU\u00cdDO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13004050.4",
+            "priorityDate": "14/08/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/08/2014",
+        "applicationNumber": "BR 11 2016 002770-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "RUDOLF MOSER",
+        "VIOLA GROEHN",
+        "THOMAS EGGER",
+        "THOMAS AMMANN"
+    ],
+    "holders": [
+        170076
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/519",
+        "C07D 475/04"
+    ]
+}

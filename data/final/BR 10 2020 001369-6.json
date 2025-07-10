@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 001369-6",
+    "filingDate": "22/01/2020",
+    "grantDate": null,
+    "title": "FERRO A VAPOR PARA PASSAR ROUPAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16715364",
+            "priorityDate": "16/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "EUCLIDES MARTINS DE CAMARGO",
+        "MARCELO ROG\u00c9RIO NEVES"
+    ],
+    "holders": [
+        55944,
+        55945
+    ],
+    "ipcCodes": [
+        "D06F 75/10",
+        "D06F 75/20",
+        "D06F 75/24"
+    ]
+}

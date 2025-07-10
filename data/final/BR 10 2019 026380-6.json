@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2019 026380-6",
+    "filingDate": "12/12/2019",
+    "grantDate": null,
+    "title": "PRENSA DE CORTE FINO E M\u00c9TODO PARA OPERAR UMA PRENSA DE CORTE FINO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18212195.4",
+            "priorityDate": "13/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "JOS\u00c9 LOZANO BONET"
+    ],
+    "holders": [
+        50081
+    ],
+    "ipcCodes": [
+        "B30B 15/00"
+    ]
+}

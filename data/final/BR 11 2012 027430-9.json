@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2012 027430-9",
+    "filingDate": "25/04/2011",
+    "grantDate": null,
+    "title": "Processo para a produ\u00e7\u00e3o de um polipept\u00eddeo recombinante compreendendo o cultivo de c\u00e9lulas CHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61327846",
+            "priorityDate": "26/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH EJOOSTEN",
+        "CHRISTIAN LEIST",
+        "J\u00d6RG SCHMIDT"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "C12N 5/02",
+        "C12P 21/00",
+        "C12P 21/02",
+        "C12N 5/00"
+    ]
+}

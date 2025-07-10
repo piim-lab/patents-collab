@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 072654-4",
+    "filingDate": "05/11/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE RESGATE E M\u00c9TODO DE RESGATE, E SERVIDOR UTILIZADO PARA O SISTEMA DE RESGATE E O M\u00c9TODO DE RESGATE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-218371",
+            "priorityDate": "13/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2768"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "HIROKI SAWADA",
+        "MASATO TAMAOKI",
+        "EISUKE ANDO",
+        "MASATO ENDO",
+        "KUNIAKI HASEGAWA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "H04W 64/00",
+        "H04W 12/02"
+    ]
+}

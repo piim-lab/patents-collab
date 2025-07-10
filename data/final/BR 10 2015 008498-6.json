@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2015 008498-6",
+    "filingDate": "15/04/2015",
+    "grantDate": null,
+    "title": "SISTEMA DE SEGURAN\u00c7A PARA TREM E M\u00c9TODO DE AUXILIAR A OPERA\u00c7\u00c3O SEGURA DE TREM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/979,692",
+            "priorityDate": "15/04/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/466,000",
+            "priorityDate": "22/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "CLAUDE PERRAS",
+        "LEIGH THORPE",
+        "FRANCOIS BLOUIN"
+    ],
+    "holders": [
+        17218
+    ],
+    "ipcCodes": [
+        "G08B 21/02",
+        "B61L 27/00",
+        "B61L 15/00",
+        "B61L 25/02",
+        "B61L 23/00",
+        "G08B 3/00",
+        "G01S 19/14",
+        "G01S 19/50"
+    ]
+}

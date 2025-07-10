@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2018 008516-6",
+    "filingDate": "27/04/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E APARELHOS PARA CONTROLAR SUPERF\u00cdCIES DE CONTROLE DE VOO DE AERONAVES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/519,693",
+            "priorityDate": "14/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/695,749",
+            "priorityDate": "05/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2764"
+        }
+    ],
+    "inventors": [
+        "NEAL VAN HUYNH",
+        "PATRICK JOSEPH MCCORNICK"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64C 13/50",
+        "B64C 13/42"
+    ]
+}

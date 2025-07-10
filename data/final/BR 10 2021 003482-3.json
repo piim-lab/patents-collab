@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 003482-3",
+    "filingDate": "24/02/2021",
+    "grantDate": null,
+    "title": "PR\u00c9-ARMAZENAMENTO EM CACHE SELETIVO DE FLUXOS DE M\u00cdDIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/800,617",
+            "priorityDate": "25/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "JEFFREY GRUBB",
+        "ERIC ROSS KLEIN",
+        "CHRISTOPHER J ZUCKER",
+        "WILLIAM B MAY JR"
+    ],
+    "holders": [
+        30358
+    ],
+    "ipcCodes": [
+        "H04N 21/24",
+        "H04N 21/231",
+        "H04N 21/2662",
+        "H04N 21/222",
+        "H04N 21/2183"
+    ]
+}

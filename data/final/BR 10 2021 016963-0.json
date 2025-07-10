@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 016963-0",
+    "filingDate": "26/08/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AJUSTAR UMA TEMPERATURA DE UMA PLACA DE MESA DE UMA MESA DE PAVIMENTA\u00c7\u00c3O DE UMA PAVIMENTADORA DE ESTRADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20193017.9",
+            "priorityDate": "27/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUSCHMANN",
+        "ROMAN MUNZ",
+        "RALF WEISER",
+        "DENNIS HANFLAND"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 23/14",
+        "E01C 19/42"
+    ]
+}

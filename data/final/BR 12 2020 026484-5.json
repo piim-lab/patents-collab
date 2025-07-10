@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2020 026484-5",
+    "filingDate": "21/06/2016",
+    "grantDate": null,
+    "title": "F\u00d3RMULA PARA MULTIPLICAC\u00c5O DE MICRORGANISMOS",
+    "divisionalApplication": {
+        "filingDate": "21/06/2016",
+        "applicationNumber": "BR 20 2016 014672-6"
+    },
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "28.10.4",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante MEI, ME ou EPP",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio n\u00e3o admitido",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        68266
+    ],
+    "ipcCodes": []
+}

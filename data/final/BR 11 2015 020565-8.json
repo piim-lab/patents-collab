@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 020565-8",
+    "filingDate": "14/03/2014",
+    "grantDate": null,
+    "title": "INSTALA\u00c7\u00c3O E M\u00c9TODO DE FUNDI\u00c7\u00c3O UTILIZANDO A MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0027910",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "KYUNG SHIK OH",
+        "JOO DONG LEE",
+        "JEONG YUN CHOI",
+        "SUNG JOOL KIM"
+    ],
+    "holders": [
+        85001
+    ],
+    "ipcCodes": [
+        "B22D 11/10",
+        "B22D 11/20",
+        "B22D 11/12",
+        "B22D 7/06"
+    ]
+}

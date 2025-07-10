@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2022 016016-0",
+    "filingDate": "22/02/2021",
+    "grantDate": null,
+    "title": "RETORNO DE MEDI\u00c7\u00c3O COMPRIMIDA USANDO UMA REDE NEURAL DE CODIFICADOR",
+    "nationalPhaseDate": [
+        "12/08/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/019092",
+        "pctDate": "22/02/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/980,856",
+            "priorityDate": "24/02/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/180,124",
+            "priorityDate": "19/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "TAESANG YOO",
+        "NAGA BHUSHAN",
+        "PAVAN KUMAR VITTHALADEVUNI",
+        "JUNE NAMGOONG",
+        "KRISHNA KIRAN MUKKAVILLI",
+        "TINGFANG JI",
+        "JAY KUMAR SUNDARARAJAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H03M 7/30"
+    ]
+}

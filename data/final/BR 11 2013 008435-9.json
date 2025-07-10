@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2013 008435-9",
+    "filingDate": "10/10/2011",
+    "grantDate": "20/04/2021",
+    "title": "M\u00c9TODO PARA OBTER UM SERVI\u00c7O EM UM TERMINAL, M\u00c9TODO PARA PROVER UM SERVI\u00c7O A UM SERVIDOR, TERMINAL PARA OBTER UM SERVI\u00c7O, E SERVIDOR PARA OBTER UM SERVI\u00c7O.",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0098499",
+            "priorityDate": "08/10/2010"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2011-0097569",
+            "priorityDate": "27/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [
+        "OK CHA",
+        "GOOKPARK",
+        "JUN LEE",
+        "YOUNG KANG",
+        "CHUL JEON",
+        "IL EOM",
+        "YOON BAE",
+        "YOUNG CHOI",
+        "GON SONG",
+        "HYUN HAN",
+        "JOO LEE",
+        "HWAN HONG"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "G06Q 50/00"
+    ]
+}

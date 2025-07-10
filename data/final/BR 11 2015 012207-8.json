@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2015 012207-8",
+    "filingDate": "26/11/2013",
+    "grantDate": null,
+    "title": "MECANISMO DE AJUSTE DE PENEIRA DE CREMALHEIRA E PINH\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/684.959",
+            "priorityDate": "26/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "CRAIG ELWYN MURRAY"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01F 12/44"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 023225-8",
+    "filingDate": "13/11/2020",
+    "grantDate": null,
+    "title": "M\u00c1QUINA  DE  COLHEITA  AGR\u00cdCOLA,  M\u00c9TODO  REALIZADO  POR UMA M\u00c1QUINA AGR\u00cdCOLA, E, SISTEMA DE COMPUTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/783,745",
+            "priorityDate": "06/02/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/783,511",
+            "priorityDate": "06/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        }
+    ],
+    "inventors": [
+        "SEBASTIAN BLANK",
+        "CURTIS R HAMMER",
+        "NOEL W ANDERSON",
+        "DOHN W PFEIFFER",
+        "GURMUKH H ADVANI"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01M 21/00"
+    ]
+}

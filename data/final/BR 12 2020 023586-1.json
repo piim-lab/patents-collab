@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2020 023586-1",
+    "filingDate": "13/11/2008",
+    "grantDate": null,
+    "title": "CARTUCHOS DE FILTRO DE AR E CONJUNTOS DE FILTRO DE AR",
+    "divisionalApplication": {
+        "filingDate": "13/11/2008",
+        "applicationNumber": "PI 0820419-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento - Art. 212 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "DONNALD DUANE LARSON",
+        "DAVID WAYNE NELSON",
+        "BENNY KEVIN NELSON",
+        "JOHN DAVID KUHN"
+    ],
+    "holders": [
+        81598
+    ],
+    "ipcCodes": [
+        "B01D 46/52",
+        "B01D 46/24",
+        "B01D 46/10"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2015 003731-3",
+    "filingDate": "21/08/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE LIXIVIA\u00c7\u00c3O EM PILHAS",
+    "priorityClaims": [
+        {
+            "countryCode": "ZA",
+            "priorityNumber": "2012/06310",
+            "priorityDate": "22/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "EDUARDO LUIS PATI\u00d1O MARTINEZ",
+        "MICHAEL JAMES NICOL",
+        "GEORGE FREDERICK RAUTENBACH"
+    ],
+    "holders": [
+        151599
+    ],
+    "ipcCodes": [
+        "C22B 15/00",
+        "C22B 1/00",
+        "C22B 3/10"
+    ]
+}

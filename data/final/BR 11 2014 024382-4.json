@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2014 024382-4",
+    "filingDate": "18/04/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS DE CONTEN\u00c7\u00c3O DE ABUSO DE LIBERA\u00c7\u00c3O IMEDIATA E SEU PROCESSO DE PREPARA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/625,926",
+            "priorityDate": "18/04/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/792,478",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "SIVA N RAMAN",
+        "JAE HAN PARK",
+        "THOMAS A DIEZI",
+        "CLIFFORD J HERMAN",
+        "SUNIL K BATTU",
+        "ERIC A BURGE"
+    ],
+    "holders": [
+        144353
+    ],
+    "ipcCodes": [
+        "A61K 9/20",
+        "A61K 31/485",
+        "A61K 45/06"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2016 004883-4",
+    "filingDate": "04/03/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA OPERAR UM BASCULANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1503871.4",
+            "priorityDate": "06/03/2015"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1603356.5",
+            "priorityDate": "26/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "MAREK BALDYS",
+        "MAARTEN HERTOG",
+        "JACOB BIEMOND",
+        "MAREK BALDYS",
+        "MAARTEN HERTOG",
+        "JACOB BIEMOND"
+    ],
+    "holders": [
+        3903
+    ],
+    "ipcCodes": [
+        "B60P 1/16",
+        "F15B 13/02",
+        "F15B 11/08"
+    ]
+}

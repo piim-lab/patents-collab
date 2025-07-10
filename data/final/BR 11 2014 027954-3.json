@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 027954-3",
+    "filingDate": "17/08/2012",
+    "grantDate": null,
+    "title": "CONJUNTO DE BATERIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-111421",
+            "priorityDate": "15/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "ATSUHIRO KUMAGAI",
+        "KIYOSHI YONISHI",
+        "SHIGEJI IKEDA"
+    ],
+    "holders": [
+        326
+    ],
+    "ipcCodes": [
+        "H01M 2/10"
+    ]
+}

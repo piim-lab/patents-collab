@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2013 000114-3",
+    "filingDate": "04/07/2011",
+    "grantDate": "29/12/2020",
+    "title": "COMPOSI\u00c7\u00c3O DE LIMPEZA E PROCESSO PARA LIMPEZA DE UM SUBSTRATO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP10170404",
+            "priorityDate": "22/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2616"
+        }
+    ],
+    "inventors": [
+        "ALYN JAMES PARRY",
+        "NEIL JAMES PARRY",
+        "ANNE CYNTHIA PEILOW",
+        "PAUL SIMON STEVENSON"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "C11D 1/06",
+        "C11D 3/386"
+    ]
+}

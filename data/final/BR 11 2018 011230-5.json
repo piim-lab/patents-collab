@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2018 011230-5",
+    "filingDate": "11/11/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO E EQUIPAMENTO PARA DESACOPLAR A LAT\u00caNCIA DE UPLINK UTILIZANDO RAJADA DE UPLINK COMUM NA ESTRUTURA DE SUBQUADROS TDD",
+    "nationalPhaseDate": [
+        "01/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/061593",
+        "pctDate": "11/11/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/263,466",
+            "priorityDate": "04/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/211,604",
+            "priorityDate": "15/07/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "WEI ZENG",
+        "TINGFANG JI",
+        "JOSEPH BINAMIRA SORIAGA",
+        "JOHN SMEE",
+        "NAGA BHUSHAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 5/00",
+        "H04L 5/14"
+    ]
+}

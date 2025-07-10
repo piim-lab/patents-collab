@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2020 005722-0",
+    "filingDate": "16/05/2014",
+    "grantDate": null,
+    "title": "SISTEMA PARA PREPARA\u00c7\u00c3O DE UMA BEBIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1308925.5",
+            "priorityDate": "17/05/2013"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1308929.7",
+            "priorityDate": "17/05/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/05/2014",
+        "applicationNumber": "BR 11 2015 028311-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        }
+    ],
+    "inventors": [
+        "ANDREW CHAPMAN",
+        "STUART BANISTER",
+        "SIMON JELLEY",
+        "ESAK SHABUDIN",
+        "ANDREW HALLIDAY"
+    ],
+    "holders": [
+        85288
+    ],
+    "ipcCodes": [
+        "A47J 31/36",
+        "B65D 85/804"
+    ]
+}

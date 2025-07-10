@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 11 2023 004583-5",
+    "filingDate": "13/09/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE TRATAMEMTO DE C\u00c2NCER COM PROTE\u00c7\u00c3O RENAL",
+    "nationalPhaseDate": [
+        "10/03/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/050064",
+        "pctDate": "13/09/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/706,829",
+            "priorityDate": "11/09/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/158,803",
+            "priorityDate": "09/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "28.10.12",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia para tratamento de sa\u00fade",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2794"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2811"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2820"
+        }
+    ],
+    "inventors": [
+        "DONALD KEYSER",
+        "ALVARO GUILLEM",
+        "RICHARD ZAGER"
+    ],
+    "holders": [
+        277522
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/41",
+        "A61K 33/26",
+        "A61K 31/7016",
+        "A61K 31/295",
+        "A61K 33/243"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 019071-0",
+    "filingDate": "13/09/2019",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE JANELA FIXA ENCAPSULADO PARA UM VE\u00cdCULO A MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/132.182",
+            "priorityDate": "14/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "ANDR\u00c9 GUELLEC",
+        "PHIL PARK",
+        "MARK LABERGE"
+    ],
+    "holders": [
+        52066
+    ],
+    "ipcCodes": [
+        "B60J 1/17",
+        "B60J 1/10",
+        "B60J 10/76"
+    ]
+}

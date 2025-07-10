@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 024805-0",
+    "filingDate": "08/12/2021",
+    "grantDate": null,
+    "title": "GEST\u00c3O PONTA A PONTA DE COMUNICA\u00c7\u00d5ES AUTENTICADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/247,387",
+            "priorityDate": "09/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "GAURAV SHARMA",
+        "GUIDO JONJIE S SENA JR",
+        "KEN POLITZ",
+        "MARYBETH DEGEORGIS",
+        "MANJUL MAHARISHI",
+        "JASON TORREY",
+        "JAMES GARVERT"
+    ],
+    "holders": [
+        72589
+    ],
+    "ipcCodes": [
+        "H04W 12/069",
+        "H04W 12/0433"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2017 007748-5",
+    "filingDate": "16/10/2015",
+    "grantDate": "09/03/2021",
+    "title": "USO DE UM EXTRATO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2014-0139734",
+            "priorityDate": "16/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "JOO BYOUNG YOON",
+        "HYUN YONG LEE",
+        "JI HYUN YOUM",
+        "KWANG HYUN KIM",
+        "JI HYUN JEON",
+        "HWAN BONG CHANG",
+        "YUN HA HWANG",
+        "SEUNG KYOO SEONG",
+        "DONG RACK CHOI"
+    ],
+    "holders": [
+        189474
+    ],
+    "ipcCodes": [
+        "A61P 11/06",
+        "A61P 11/00",
+        "A61K 36/19"
+    ]
+}

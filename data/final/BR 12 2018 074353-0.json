@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 12 2018 074353-0",
+    "filingDate": "28/01/2004",
+    "grantDate": "16/07/2019",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, POLIPEPT\u00cdDEO E M\u00c9TODOS PARA A PRODU\u00c7\u00c3O DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/443,098",
+            "priorityDate": "28/01/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/471,288",
+            "priorityDate": "15/05/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/519,460",
+            "priorityDate": "12/11/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/01/2004",
+        "applicationNumber": "PI 0407071-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "MARK G CURRIE",
+        "SHALINA MAHAJAN",
+        "THEA NORMAN",
+        "G TODD MILNE"
+    ],
+    "holders": [
+        117801
+    ],
+    "ipcCodes": [
+        "A61K 38/00"
+    ]
+}

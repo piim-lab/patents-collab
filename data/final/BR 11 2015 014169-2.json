@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2015 014169-2",
+    "filingDate": "17/12/2013",
+    "grantDate": null,
+    "title": "Grade Agr\u00edcola",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/738,313",
+            "priorityDate": "17/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        }
+    ],
+    "inventors": [
+        "DALE KOCH"
+    ],
+    "holders": [
+        107653
+    ],
+    "ipcCodes": [
+        "A01B 73/02",
+        "A01B 73/04",
+        "A01B 73/06"
+    ]
+}

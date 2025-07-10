@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 002303-1",
+    "filingDate": "05/02/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UMA PASTILHA DE FREIO, PASTILHA DE FREIO, CONJUNTO DE FREIO DE DISCO E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18183229.6",
+            "priorityDate": "12/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "MARCO WERDER",
+        "FRED KERSTEN",
+        "JOSEF DLUGOSCH"
+    ],
+    "holders": [
+        46207
+    ],
+    "ipcCodes": [
+        "F16D 65/04",
+        "B22F 7/08"
+    ]
+}

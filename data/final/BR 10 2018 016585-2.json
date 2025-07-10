@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 016585-2",
+    "filingDate": "14/08/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE FORNECIMENTO DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-178593",
+            "priorityDate": "19/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "MASAKI OKAMURA",
+        "YOSHIHIKO HIROE",
+        "NAOYOSHI TAKAMATSU",
+        "YOSHITAKA NIIMI",
+        "NORITAKE MITSUTANI",
+        "YASUHIRO TAOKA",
+        "NAOYOSHI TAKAMATSU",
+        "HIROTSUGU OHATA",
+        "LEIF ANDERS JILKEN",
+        "BERND BL\u00d6CHER",
+        "MARC HILLER",
+        "RAINER SOMMER"
+    ],
+    "holders": [
+        259,
+        392827,
+        5783
+    ],
+    "ipcCodes": [
+        "H02M 7/483"
+    ]
+}

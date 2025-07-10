@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 011785-3",
+    "filingDate": "14/06/2022",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE COLHEITA, E, SISTEMA DE CONTROLE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/466,047",
+            "priorityDate": "03/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "DANIEL S HOFFMAN",
+        "CRISTIANO ENGELMANN",
+        "ANTHONY J KNEPPER",
+        "JUSTIN C FREEHILL",
+        "DUANE M BOMLENY",
+        "CORWIN M PURYK"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 34/03"
+    ]
+}

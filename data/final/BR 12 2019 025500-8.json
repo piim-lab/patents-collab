@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2019 025500-8",
+    "filingDate": "11/07/2007",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA L\u00cdQUIDA ORAL",
+    "divisionalApplication": {
+        "filingDate": "11/07/2007",
+        "applicationNumber": "PI 0714399-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "WILLIAM BUBNIS",
+        "STEPHANIE SHIELD",
+        "GAYLE P HOSKOVEC"
+    ],
+    "holders": [
+        350153
+    ],
+    "ipcCodes": [
+        "A61K 31/137",
+        "A61K 9/00"
+    ]
+}

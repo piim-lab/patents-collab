@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 004820-7",
+    "filingDate": "24/08/2012",
+    "grantDate": null,
+    "title": "M\u00e9todo implementado por computador para gerenciar dispositivos de computa\u00e7\u00e3o hospedeiros, componente de monitoramento de estado, sistema e uso do sistema.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/221,609",
+            "priorityDate": "30/08/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "MATTHEW T CORDDRY",
+        "WYATT D CAMP",
+        "JACOB GABRIELSON"
+    ],
+    "holders": [
+        110840
+    ],
+    "ipcCodes": [
+        "H04L 12/26",
+        "G06F 11/32"
+    ]
+}

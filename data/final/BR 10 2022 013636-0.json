@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 013636-0",
+    "filingDate": "08/07/2022",
+    "grantDate": null,
+    "title": "SINO PARA UM BARRIL PL\u00c1STICO",
+    "priorityClaims": [
+        {
+            "countryCode": "RU",
+            "priorityNumber": "2022111232",
+            "priorityDate": "25/04/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "KNYAZEV SERGEY VLADIMIROVICH"
+    ],
+    "holders": [
+        76241,
+        76242,
+        76243,
+        76244,
+        76245
+    ],
+    "ipcCodes": [
+        "B65D 21/02",
+        "B65D 25/48",
+        "B65D 8/00",
+        "B65D 25/22",
+        "B65D 25/28"
+    ]
+}

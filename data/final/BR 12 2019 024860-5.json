@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2019 024860-5",
+    "filingDate": "26/05/2009",
+    "grantDate": null,
+    "title": "RETENTOR, MANCAL DE ESFERA DE SULCO PROFUNDO E MANCAL VEDADO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-155909",
+            "priorityDate": "13/06/2008"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008/178620",
+            "priorityDate": "09/07/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/05/2009",
+        "applicationNumber": "PI 0915147-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "TAKAHIRO WAKUDA",
+        "KATSUAKI SASAKI",
+        "SHOHEI FUKAMA"
+    ],
+    "holders": [
+        137154
+    ],
+    "ipcCodes": [
+        "F16C 33/32",
+        "F16C 33/42",
+        "F16C 33/44"
+    ]
+}

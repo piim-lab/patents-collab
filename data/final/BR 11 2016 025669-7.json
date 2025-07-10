@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2016 025669-7",
+    "filingDate": "08/05/2015",
+    "grantDate": null,
+    "title": "PR\u00d3TESE PARA P\u00c9",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 006 687.8",
+            "priorityDate": "09/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "JEFF FRIESEN",
+        "JUSTIN R SMITH",
+        "OLEG PIANYKH"
+    ],
+    "holders": [
+        89512
+    ],
+    "ipcCodes": [
+        "A61F 2/50",
+        "A61F 2/66"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 012747-1",
+    "filingDate": "24/11/2014",
+    "grantDate": null,
+    "title": "Processo de prepara\u00e7\u00e3o de uma mistura rac\u00eamica de (RR,SS)-d6-tetrabenazina",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/911,214",
+            "priorityDate": "03/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "CHENGZHI ZHANG"
+    ],
+    "holders": [
+        152876
+    ],
+    "ipcCodes": [
+        "A61K 31/473"
+    ]
+}

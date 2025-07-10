@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 001163-7",
+    "filingDate": "21/01/2021",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO PARA REALIZAR CONSULTAS DE CAIXA EM HARDWARE DE TRAVESSIA DE RAIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/819,120",
+            "priorityDate": "15/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "CARSTEN BENTHIN",
+        "KARTHIK VAIDYANATHAN",
+        "SVEN WOOP"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "G06T 15/00",
+        "G06T 15/08",
+        "G06T 17/10",
+        "G06T 15/06"
+    ]
+}

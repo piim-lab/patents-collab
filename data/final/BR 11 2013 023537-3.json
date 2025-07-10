@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2013 023537-3",
+    "filingDate": "25/03/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O T\u00d3PICA PARA O TRATAMENTO DE UM DIST\u00daRBIO DA PELE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/468,212",
+            "priorityDate": "28/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "NAFTALI PRIMOR"
+    ],
+    "holders": [
+        123229
+    ],
+    "ipcCodes": [
+        "A61Q 19/00",
+        "A61P 17/06",
+        "A61P 17/02",
+        "A61P 17/04",
+        "A61K 38/07",
+        "A61K 38/06"
+    ]
+}

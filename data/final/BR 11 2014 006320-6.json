@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2014 006320-6",
+    "filingDate": "14/09/2012",
+    "grantDate": null,
+    "title": "APARELHOS DE DECODIFICA\u00c7\u00c3O E DE CODIFICA\u00c7\u00c3O DE V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2011-0093564",
+            "priorityDate": "16/09/2011"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2011-0106108",
+            "priorityDate": "17/10/2011"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2012-0005916",
+            "priorityDate": "18/01/2012"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2012-0102214",
+            "priorityDate": "14/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "SUNG CHANG LIM",
+        "HUI YONG KIM",
+        "JIN HO LEE",
+        "JIN SOO CHOI",
+        "JIN WOONG KIM",
+        "JAE GON KIM",
+        "SANG YONG LEE",
+        "UN KI PARK"
+    ],
+    "holders": [
+        133368,
+        89173
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/70",
+        "H04N 19/13",
+        "H04N 19/105",
+        "H04N 19/52",
+        "H04N 19/139",
+        "H04N 19/593",
+        "H04N 19/513",
+        "H04N 19/56"
+    ]
+}

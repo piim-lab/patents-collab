@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2021 007635-6",
+    "filingDate": "22/04/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA T\u00caXTIL E CARRO DE SERVI\u00c7O PARA M\u00c1QUINAS T\u00caXTEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102020111342.0",
+            "priorityDate": "27/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER MARX"
+    ],
+    "holders": [
+        50644
+    ],
+    "ipcCodes": [
+        "D01H 13/14",
+        "D01H 13/00",
+        "D01H 15/013",
+        "B65H 54/26"
+    ]
+}

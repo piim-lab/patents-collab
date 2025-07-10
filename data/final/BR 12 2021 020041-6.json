@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 12 2021 020041-6",
+    "filingDate": "28/09/2011",
+    "grantDate": null,
+    "title": "POLIPEPT\u00cdDEO QUIM\u00c9RICO, SEU USO E COMPOSI\u00c7\u00c3O QUE O COMPREENDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/387,402",
+            "priorityDate": "28/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/422,091",
+            "priorityDate": "10/12/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/09/2011",
+        "applicationNumber": "BR 11 2013 007385-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "MARY ERICKSON",
+        "MARY ERICKSON"
+    ],
+    "holders": [
+        107642,
+        111423
+    ],
+    "ipcCodes": [
+        "C07K 14/575"
+    ]
+}

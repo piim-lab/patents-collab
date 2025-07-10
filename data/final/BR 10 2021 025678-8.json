@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 025678-8",
+    "filingDate": "17/12/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE TRANSPORTE AUT\u00d4NOMO DE CARGA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2816"
+        }
+    ],
+    "inventors": [
+        "JOEL BOARETTO",
+        "MAICON MOLON"
+    ],
+    "holders": [
+        68140
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "B60W 40/02",
+        "B62D 53/00",
+        "B60D 1/00",
+        "H04W 4/80",
+        "B62D 35/00",
+        "G05D 1/02",
+        "B60W 30/00",
+        "B60D 1/24",
+        "G01S 17/00",
+        "H04B 1/00",
+        "H04W 4/40",
+        "A01B 59/00"
+    ]
+}

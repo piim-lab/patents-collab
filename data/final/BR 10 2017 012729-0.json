@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 10 2017 012729-0",
+    "filingDate": "14/06/2017",
+    "grantDate": null,
+    "title": "PROCESSO PARA A RECUPERA\u00c7\u00c3O DE OURO A PARTIR DE MIN\u00c9RIOS DE TRANSI\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "ALTAIR SOUZA S\u00c9RGIO"
+    ],
+    "holders": [
+        26120
+    ],
+    "ipcCodes": [
+        "B03D 1/001",
+        "B03D 1/012"
+    ]
+}

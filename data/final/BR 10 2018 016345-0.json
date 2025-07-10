@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2018 016345-0",
+    "filingDate": "09/08/2018",
+    "grantDate": null,
+    "title": "TRANSMISS\u00c3O CONTINUAMENTE VARI\u00c1VEL COM CAPACIDADE PARA OPERAR CONTINUAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "106137591",
+            "priorityDate": "31/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "CHENGHSIN"
+    ],
+    "holders": [
+        33766
+    ],
+    "ipcCodes": [
+        "F16H 15/32"
+    ]
+}

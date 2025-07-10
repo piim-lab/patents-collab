@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2015 031128-8",
+    "filingDate": "25/07/2014",
+    "grantDate": "24/11/2020",
+    "title": "Processo de tratamento capilar e uso da composi\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1357380",
+            "priorityDate": "26/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "GR\u00c9GORY PLOS",
+        "ANNE BOUCHARA",
+        "PATRICE LERDA"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "A61Q 5/06",
+        "A61K 8/898",
+        "C08L 83/08"
+    ]
+}

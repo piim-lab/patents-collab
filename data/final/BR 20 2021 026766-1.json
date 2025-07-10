@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 20 2021 026766-1",
+    "filingDate": "29/12/2021",
+    "grantDate": null,
+    "title": "BOCAL DE PULVERIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202023280136.2",
+            "priorityDate": "30/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "FENGQI HE",
+        "ZHENGYA CAO",
+        "GUANGXING LI"
+    ],
+    "holders": [
+        79284
+    ],
+    "ipcCodes": [
+        "B05B 1/02",
+        "B05B 1/04",
+        "B01D 33/50"
+    ]
+}

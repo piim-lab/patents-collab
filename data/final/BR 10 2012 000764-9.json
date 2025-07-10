@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2012 000764-9",
+    "filingDate": "12/01/2012",
+    "grantDate": null,
+    "title": "SISTEMA PARA CONEX\u00c3O DE DOIS COMPONENTES CONSTRUTIVOS, CAVALETE DE SUPORTE PARA TAL E CONJUNTO DE ESPELHOS PARA VE\u00cdCULOS AUTOMOTORES DOTADOS DESSES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102011002787.4",
+            "priorityDate": "17/01/2011"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102011081902.9",
+            "priorityDate": "31/08/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        }
+    ],
+    "inventors": [
+        "RICHARD REIMCHEN",
+        "JOCHEN DENKFELDER",
+        "ALBRECHT POPP"
+    ],
+    "holders": [
+        106
+    ],
+    "ipcCodes": [
+        "B60R 1/00",
+        "F16B 7/04"
+    ]
+}

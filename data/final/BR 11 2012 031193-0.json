@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2012 031193-0",
+    "filingDate": "30/05/2011",
+    "grantDate": "10/05/2022",
+    "title": "M\u00c9TODO PARA COMUNICA\u00c7\u00d5ES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/815,476",
+            "priorityDate": "15/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "JOS\u00c9 LUIS CANTERO ESCOLA",
+        "ALEX BISBE TOSAT"
+    ],
+    "holders": [
+        104603
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04M 3/51",
+        "H04M 7/00"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2015 019795-7",
+    "filingDate": "11/02/2014",
+    "grantDate": "16/06/2020",
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE BISPIRIBAC DE S\u00d3DIO E INTERMEDI\u00c1RIOS DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "329/MUM/2013",
+            "priorityDate": "18/02/2013"
+        },
+        {
+            "countryCode": "IN",
+            "priorityNumber": "332/MUM/2013",
+            "priorityDate": "18/02/2013"
+        },
+        {
+            "countryCode": "IN",
+            "priorityNumber": "465/MUM/2013",
+            "priorityDate": "18/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [
+        "SUCHET S MATHUR",
+        "ANITH VIJAYAN",
+        "VINAYAK H NOUGARE",
+        "SACHIN R BHOSALE",
+        "MANGESH K DAPAKE",
+        "SURESHKUMAR D PARKAR",
+        "PRAGNESH D DAMANIA",
+        "NANDKISHOR S JAGTAP",
+        "A KALIRAJAN",
+        "RAHUL H KHAMKAR",
+        "NANDKUMAR J JAIN",
+        "MAHENDRA M MORE",
+        "SATYAWAN B AHER",
+        "SACHIN S PADWAL"
+    ],
+    "holders": [
+        160767
+    ],
+    "ipcCodes": [
+        "C07D 239/30",
+        "C07D 239/60"
+    ]
+}

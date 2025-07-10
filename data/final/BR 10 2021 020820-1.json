@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 020820-1",
+    "filingDate": "18/10/2021",
+    "grantDate": null,
+    "title": "CONJUNTO DE TRANSPORTE PARA UM CABE\u00c7OTE DE COLHEITA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/119,852",
+            "priorityDate": "11/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "JIXIN CHEN",
+        "MICHAEL W MOSSMAN",
+        "MICHAEL L VANDEVEN",
+        "DUANE M BOMLENY"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 34/04",
+        "A01B 59/00"
+    ]
+}

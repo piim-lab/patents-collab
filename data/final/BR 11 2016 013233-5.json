@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2016 013233-5",
+    "filingDate": "04/12/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA TELOMERIZA\u00c7\u00c3O DE BUTADIENO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/915,781",
+            "priorityDate": "13/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "HELENE N LAUNAY",
+        "JESSICA L KLINKENBERG",
+        "JOHN R BRIGGS",
+        "SARAH E HOUSE",
+        "MARCEL C VAN ENGELEN",
+        "LARRY G WRIGHT",
+        "GEORG BAR",
+        "WILMA HANSEN",
+        "JULIA FUERTES CABELLO",
+        "ISTVAN LENGYEL"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "C07C 41/06",
+        "C07F 15/00"
+    ]
+}

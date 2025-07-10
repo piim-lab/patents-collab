@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2020 003343-3",
+    "filingDate": "18/02/2020",
+    "grantDate": null,
+    "title": "CONFIGURA\u00c7\u00c3O DE SENSOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19160799.3",
+            "priorityDate": "05/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "J\u00dcRG HANS FR\u00d6HLICH",
+        "MARCO ZAHNER",
+        "FABIAN SCHNEIDER",
+        "DIRK BAUMANN",
+        "MARKUS HUGO MUSER",
+        "SHAILESH SHASHANK DIGHE",
+        "DOUGLAS PATTERSON",
+        "THORSTEN REGENER"
+    ],
+    "holders": [
+        31532,
+        56430
+    ],
+    "ipcCodes": [
+        "E21B 47/06",
+        "E21B 17/10",
+        "E21B 47/01"
+    ]
+}

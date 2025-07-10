@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2019 016485-9",
+    "filingDate": "08/08/2019",
+    "grantDate": null,
+    "title": "ESTRUTURA HORIZONTAL PARA FORNECIMENTO DE ELETRICIDADE POR COMP\u00d3SITOS",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "107127703",
+            "priorityDate": "08/08/2018"
+        },
+        {
+            "countryCode": "TW",
+            "priorityNumber": "107135860",
+            "priorityDate": "11/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2794"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "NAN YANG"
+    ],
+    "holders": [
+        42765,
+        42766
+    ],
+    "ipcCodes": [
+        "H02J 15/00",
+        "B60L 53/31"
+    ]
+}

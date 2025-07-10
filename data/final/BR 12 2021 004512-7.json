@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 12 2021 004512-7",
+    "filingDate": "19/01/2011",
+    "grantDate": "17/08/2021",
+    "title": "M\u00c9TODOS PARA PRODUZIR PIRIPIROPENO A E M\u00c9TODO PARA PRODUZIR 4-HIDROXI-6-(PIRIDIN-3-IL)-3-((2E,6E)-3,7,11-TRIMETILDODECA-2,6,10-TRIENIL)-2H-PIRANO-2-ONA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-014727",
+            "priorityDate": "26/01/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/01/2011",
+        "applicationNumber": "BR 11 2012 019456-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI ANZAI",
+        "KENTARO YAMAMOTO",
+        "KAZUHIKO OYAMA",
+        "MARIKO TSUCHIDA",
+        "KIMIHIKO GOTO",
+        "MASAAKI MITOMI"
+    ],
+    "holders": [
+        82725
+    ],
+    "ipcCodes": [
+        "C12N 5/10",
+        "C12N 1/21",
+        "C12N 1/15",
+        "C12N 15/09",
+        "C12N 1/19",
+        "C12P 17/18"
+    ]
+}

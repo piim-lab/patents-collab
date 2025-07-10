@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 13 2014 025241-9",
+    "filingDate": "09/10/2014",
+    "grantDate": null,
+    "title": "PORCA UNIVERSAL",
+    "parentApplication": {
+        "filingDate": "08/08/2014",
+        "applicationNumber": "BR 10 2014 019698-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "11.17",
+            "description": "Arquivamento do pedido de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o \u2013 Art. 77 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "3.6",
+            "description": "Publica\u00e7\u00e3o do Pedido Arquivado Definitivamente - Art. 216 \u00a72\u00ba e Art. 17 \u00a72\u00ba da LPI",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "11.20",
+            "description": "Manuten\u00e7\u00e3o do arquivamento",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "CLAUDIO DE AZEVEDO RIBEIRO DA FONSECA"
+    ],
+    "holders": [
+        352392
+    ],
+    "ipcCodes": [
+        "F16B 37/00"
+    ]
+}

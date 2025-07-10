@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 010718-6",
+    "filingDate": "25/05/2018",
+    "grantDate": null,
+    "title": "APARATO DE TREINO COM PESOS PARA ANIMAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 15/605,938",
+            "priorityDate": "25/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2659"
+        }
+    ],
+    "inventors": [
+        "RAVI RAMAMOORTHY IYER"
+    ],
+    "holders": [
+        38861
+    ],
+    "ipcCodes": [
+        "A01K 15/02",
+        "A01K 27/00",
+        "A44B 18/00",
+        "A63B 21/065"
+    ]
+}

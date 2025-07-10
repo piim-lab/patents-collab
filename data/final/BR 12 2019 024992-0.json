@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2019 024992-0",
+    "filingDate": "07/12/2007",
+    "grantDate": null,
+    "title": "CODIFICADOR, DECODIFICADOR E M\u00c9TODOS PARA CODIFICA\u00c7\u00c3O E DECODIFICA\u00c7\u00c3O DE SEGMENTOS DE DADOS REPRESENTANDO UMA CORRENTE DE DADOS DE DOM\u00cdNIO DE TEMPO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/869,670",
+            "priorityDate": "12/12/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/12/2007",
+        "applicationNumber": "PI 0718738-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        }
+    ],
+    "inventors": [
+        "RALF GEIGER",
+        "MAX NEUENDORF",
+        "YOSHIKAZU YOKOTANI",
+        "NIKOLAUS RETTELBACH",
+        "JUERGEN HERRE",
+        "STEFAN GEYERSBERGER"
+    ],
+    "holders": [
+        87912
+    ],
+    "ipcCodes": [
+        "H04N 21/434",
+        "G10L 19/022",
+        "H04N 21/2662",
+        "H04N 21/438",
+        "H04N 21/2383",
+        "G10L 19/18",
+        "G10L 19/032",
+        "G10L 19/26",
+        "H04N 21/2368"
+    ]
+}

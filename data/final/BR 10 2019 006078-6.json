@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 006078-6",
+    "filingDate": "27/03/2019",
+    "grantDate": null,
+    "title": "PROCEDIMENTO PARA UTILIZAR OS REJEITOS COMO MATERIAL DE CONSTRU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "CL",
+            "priorityNumber": "789-2018",
+            "priorityDate": "27/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2809"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2816"
+        }
+    ],
+    "inventors": [
+        "PAMELA CHAVEZ CROOKER",
+        "JOHANNA OBREQUE CONTRERAS",
+        "SERGIO HERRERA ASTUDILLO",
+        "ANDREA EUSEBIA DEL MILAGRO CONTRERAS VERA",
+        "LUIS CARRERA DEL CANTO"
+    ],
+    "holders": [
+        47670
+    ],
+    "ipcCodes": [
+        "C09K 17/50"
+    ]
+}

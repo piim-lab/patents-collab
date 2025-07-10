@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2021 023301-2",
+    "filingDate": "26/04/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PROTE\u00c7\u00c3O CONTRA SOBRETENS\u00c3O PARA UM EVENTO DE ILHAMENTO DE REDE",
+    "divisionalApplication": {
+        "filingDate": "26/04/2013",
+        "applicationNumber": "BR 10 2013 010236-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        113
+    ],
+    "ipcCodes": []
+}

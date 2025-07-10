@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 13 2022 008249-8",
+    "filingDate": "29/04/2022",
+    "grantDate": null,
+    "title": "PROCESSO DE OTIMIZA\u00c7\u00c3O DE EXTRA\u00c7\u00c3O DE AMIRINAS A PARTIR DE FOLHAS DE UVAIA",
+    "parentApplication": {
+        "filingDate": "28/03/2018",
+        "applicationNumber": "BR 10 2018 006377-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "ELISSANDRO JAIR KLEIN",
+        "MELISSA GURGEL ADEODATO VIEIRA",
+        "EDSON ANTONIO DA SILVA"
+    ],
+    "holders": [
+        4899,
+        221
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 25/24",
+        "A61P 31/00",
+        "A61P 1/04",
+        "A61K 36/61",
+        "A61P 17/18"
+    ]
+}

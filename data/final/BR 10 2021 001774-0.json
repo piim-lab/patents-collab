@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2021 001774-0",
+    "filingDate": "29/01/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE GERENCIAMENTO DE REGISTRO DE TRANSFER\u00caNCIA DE ATIVOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "GUILHERME CASTRO SIQUEIRA NASSER",
+        "MARCELO FREITAS MIRANDA",
+        "JO\u00c3O CARLOS GARCIA"
+    ],
+    "holders": [
+        65239
+    ],
+    "ipcCodes": [
+        "G06Q 50/26",
+        "G06Q 50/18"
+    ]
+}

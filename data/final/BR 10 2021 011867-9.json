@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 011867-9",
+    "filingDate": "17/06/2021",
+    "grantDate": null,
+    "title": "RECIPIENTE DE ADSOR\u00c7\u00c3O DE FLUXO RADIAL COM UM DISPOSITIVO DE CARREGAMENTO INTEGRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/910,524",
+            "priorityDate": "24/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "MICAH S KIFFER",
+        "WILLIAM ERIC KARLSON"
+    ],
+    "holders": [
+        780
+    ],
+    "ipcCodes": [
+        "B01D 53/04"
+    ]
+}

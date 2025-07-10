@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 11 2019 012669-4",
+    "filingDate": "19/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERA\u00c7\u00c3O DE RECURSOS EM UM ESTADO OFF-LINE E SISTEMA PARA OPERA\u00c7\u00c3O DE RECURSOS EM UM ESTADO OFF-LINE",
+    "nationalPhaseDate": [
+        "18/06/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/067334",
+        "pctDate": "19/12/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201611175289.6",
+            "priorityDate": "19/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/845,422",
+            "priorityDate": "18/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "GE CHEN",
+        "LEI WANG",
+        "LINGNAN SHEN",
+        "XING CHEN"
+    ],
+    "holders": [
+        183918
+    ],
+    "ipcCodes": [
+        "G06F 15/173"
+    ]
+}

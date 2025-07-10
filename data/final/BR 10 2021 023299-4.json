@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2021 023299-4",
+    "filingDate": "19/11/2021",
+    "grantDate": null,
+    "title": "RECIPIENTES DE EXTREMIDADE AFUNILADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/952,867",
+            "priorityDate": "19/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2813"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "MICHAEL MCLEOD",
+        "TIMOTHY L MCCARTHY",
+        "JEFFREY S JAMES"
+    ],
+    "holders": [
+        20173
+    ],
+    "ipcCodes": [
+        "B65D 5/18",
+        "B65D 5/54",
+        "B65D 5/20",
+        "B65D 5/66"
+    ]
+}

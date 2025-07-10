@@ -1,0 +1,106 @@
+{
+    "applicationNumber": "BR 10 2021 003012-7",
+    "filingDate": "18/02/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA O DIAGN\u00d3STICO DE INFEC\u00c7\u00c3O POR SARS-CoV-2, KIT E USOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20158348.1",
+            "priorityDate": "19/02/2020"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20158626.0",
+            "priorityDate": "20/02/2020"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20158821.7",
+            "priorityDate": "21/02/2020"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2020 003 564.5",
+            "priorityDate": "20/08/2020"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2020 104 982.8",
+            "priorityDate": "28/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "28.10.12",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia para tratamento de sa\u00fade",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2785"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        34669,
+        65630
+    ],
+    "ipcCodes": []
+}

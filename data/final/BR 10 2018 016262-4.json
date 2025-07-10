@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 016262-4",
+    "filingDate": "09/08/2018",
+    "grantDate": null,
+    "title": "AJUSTE DE SINAL DE DADOS PARA TELAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/553,745",
+            "priorityDate": "01/09/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/989,066",
+            "priorityDate": "24/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2798"
+        }
+    ],
+    "inventors": [
+        "KOOROSH AFLATOONI",
+        "WARREN S RIEUTORT",
+        "PIERRE S GUILLOU",
+        "YVES EMELIE",
+        "JE CHO",
+        "MARC ALBRECHT",
+        "GRAEME M WILLIAMS",
+        "SEAN C CHANG",
+        "ZHAO WANG"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "G09G 3/3275"
+    ]
+}

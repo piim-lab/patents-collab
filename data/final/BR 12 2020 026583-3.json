@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2020 026583-3",
+    "filingDate": "10/09/2013",
+    "grantDate": null,
+    "title": "INV\u00d3LUCRO INTERNO DE FECHO, FECHO INCLUINDO O INV\u00d3LUCRO INTERNO DE FECHO E FECHO PARA UM RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/649,171",
+            "priorityDate": "11/10/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/09/2013",
+        "applicationNumber": "BR 11 2015 006229-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "MICHAEL J LONSWAY",
+        "BRIAN J CHISHOLM"
+    ],
+    "holders": [
+        98540
+    ],
+    "ipcCodes": [
+        "B65D 1/02",
+        "B65D 41/02",
+        "B65D 51/16"
+    ]
+}

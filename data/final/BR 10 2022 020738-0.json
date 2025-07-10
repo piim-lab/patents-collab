@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 020738-0",
+    "filingDate": "13/10/2022",
+    "grantDate": null,
+    "title": "MECANISMO DE CORTE COM CORREIA COM PONTO DE CONTATO DE CONVERS\u00c3O PARA UM SISTEMA DE TRANSPORTE COM AR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 126 683.1",
+            "priorityDate": "14/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "STEFFEN SUDHUES",
+        "CHRISTOPH HARTMANN",
+        "MICHAEL POKRIEFKE"
+    ],
+    "holders": [
+        16679
+    ],
+    "ipcCodes": [
+        "A01D 34/835"
+    ]
+}

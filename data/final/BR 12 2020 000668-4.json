@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "BR 12 2020 000668-4",
+    "filingDate": "12/01/2017",
+    "grantDate": null,
+    "title": "DISPENSADOR, COM UM SUPORTE DE CARTUCHO, SISTEMA COMPREENDENDO REFERIDO DISPENSADOR E M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE UMA BEBIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016200254.6",
+            "priorityDate": "12/01/2016"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016212013.1",
+            "priorityDate": "01/07/2016"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016212012.3",
+            "priorityDate": "01/07/2016"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016218509.8",
+            "priorityDate": "27/09/2016"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016218507.1",
+            "priorityDate": "27/09/2016"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016218884.4",
+            "priorityDate": "29/09/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/01/2017",
+        "applicationNumber": "BR 11 2018 014135-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "MARC KR\u00dcGER",
+        "G\u00dcNTER EMPL",
+        "DANIEL FISCHER"
+    ],
+    "holders": [
+        219735
+    ],
+    "ipcCodes": [
+        "B67D 1/08"
+    ]
+}

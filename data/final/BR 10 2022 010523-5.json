@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 010523-5",
+    "filingDate": "30/05/2022",
+    "grantDate": null,
+    "title": "APARELHO, E, M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/463,242",
+            "priorityDate": "31/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "QIANG R LIU",
+        "JEFFREY E RUNDE",
+        "SIMON SCHAEFER"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 69/00"
+    ]
+}

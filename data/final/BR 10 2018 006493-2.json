@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2018 006493-2",
+    "filingDate": "29/03/2018",
+    "grantDate": null,
+    "title": "FILTRO, DISPOSITIVO DE FILTRAGEM E M\u00c9TODO DE USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/472.598",
+            "priorityDate": "29/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2787"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "SCOTT HOPKINS"
+    ],
+    "holders": [
+        1377
+    ],
+    "ipcCodes": [
+        "B01D 46/00",
+        "B01D 46/24",
+        "B01D 29/00",
+        "B01D 39/20",
+        "B01D 46/30",
+        "B01D 29/33"
+    ]
+}

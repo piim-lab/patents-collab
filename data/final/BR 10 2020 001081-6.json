@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 001081-6",
+    "filingDate": "17/01/2020",
+    "grantDate": null,
+    "title": "CONJUNTO DE MA\u00c7ANETA DE PORTA E VE\u00cdCULO A MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "DE 10 2019 101 492.1",
+            "priorityDate": "22/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "SIMON FELS"
+    ],
+    "holders": [
+        19650
+    ],
+    "ipcCodes": [
+        "E05B 85/16"
+    ]
+}

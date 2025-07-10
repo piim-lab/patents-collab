@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2019 020832-5",
+    "filingDate": "03/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE INFORMA\u00c7\u00c3O DE VOO DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/152,250",
+            "priorityDate": "04/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "GRACE SHANTI GARDEN",
+        "SARAH ANNE MECKLEM",
+        "REECE A CLOTHIER",
+        "BRENDAN PATRICK WILLIAMS",
+        "NEALE LESLIE FULTON"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G08G 5/00",
+        "G05B 13/00",
+        "G01S 5/00"
+    ]
+}

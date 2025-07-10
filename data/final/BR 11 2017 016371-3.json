@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 016371-3",
+    "filingDate": "29/01/2016",
+    "grantDate": null,
+    "title": "AGRUPAMENTO DE \u00cdNDICE DE PALETA PARA CODIFICA\u00c7\u00c3O CABAC DE BANDA LARGA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/110,302",
+            "priorityDate": "30/01/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/009,477",
+            "priorityDate": "28/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "MARTA KARCZEWICZ",
+        "WEI PU",
+        "RAJAN LAXMAN JOSHI",
+        "VADIM SEREGIN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/70",
+        "H04N 19/13",
+        "H04N 19/593"
+    ]
+}

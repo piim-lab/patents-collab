@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2015 001925-7",
+    "filingDate": "23/02/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE REVESTIMENTO, M\u00c9TODO DE FORMA\u00c7\u00c3O DE UMA COMPOSI\u00c7\u00c3O DE REVESTIMENTO, USO DE UMA COMPOSI\u00c7\u00c3O DE REVESTIMENTO, SUBSTRATO REVESTIDO, E, M\u00c9TODO DE FORMA\u00c7\u00c3O DE UM SUBSTRATO REVESTIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/446,006",
+            "priorityDate": "23/02/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/02/2012",
+        "applicationNumber": "BR 11 2013 021170-9"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "JOSEPH MCJUNKINS",
+        "CHARLES FREEMAN"
+    ],
+    "holders": [
+        81654
+    ],
+    "ipcCodes": [
+        "C09D 7/00"
+    ]
+}

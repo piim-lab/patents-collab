@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 027265-1",
+    "filingDate": "19/12/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA CONTROLAR A DESCARGA DE UM CAPACITOR DE RETEN\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201811048665",
+            "priorityDate": "21/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "PERVAZE HUMAYUN",
+        "MIDHUN M HEGDEN"
+    ],
+    "holders": [
+        1795
+    ],
+    "ipcCodes": [
+        "G06F 1/26",
+        "H02J 13/00"
+    ]
+}

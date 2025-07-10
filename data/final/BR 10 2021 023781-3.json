@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 10 2021 023781-3",
+    "filingDate": "25/11/2021",
+    "grantDate": null,
+    "title": "COLUNA DE L\u00c2MINAS PARA USO EM UM UTENS\u00cdLIO DE PICAR ALIMENTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/153,152",
+            "priorityDate": "20/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2798"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "STEVEN J VERBRUGGE",
+        "JUNYU YE",
+        "JOHAN CARRETTE"
+    ],
+    "holders": [
+        9312
+    ],
+    "ipcCodes": [
+        "B26D 1/00",
+        "A47J 44/00",
+        "B26D 7/00",
+        "A47J 43/00",
+        "A47J 17/00"
+    ]
+}

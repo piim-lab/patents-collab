@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2014 012262-8",
+    "filingDate": "12/12/2012",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE INJE\u00c7\u00c3O INTRAD\u00c9RMICA SEM AGULHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/570,163",
+            "priorityDate": "13/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "9.2.1",
+            "description": "Decis\u00e3o Anulada",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "CHRIS CAPPELLO",
+        "MATT WIXEY",
+        "JOHN W BINGHAM"
+    ],
+    "holders": [
+        130935
+    ],
+    "ipcCodes": [
+        "A61M 5/315",
+        "A61M 5/30"
+    ]
+}

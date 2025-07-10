@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 021250-0",
+    "filingDate": "09/10/2019",
+    "grantDate": null,
+    "title": "APARELHO DE VENTILA\u00c7\u00c3O M\u00c9DICA COM SELETORES PARA SELECIONAR UMA CATEGORIA DE PACIENTE E MODOS DE VENTILA\u00c7\u00c3O COMPAT\u00cdVEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1859472",
+            "priorityDate": "12/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "LESLIE RUSSO",
+        "MAXIME DERACHE"
+    ],
+    "holders": [
+        28204
+    ],
+    "ipcCodes": [
+        "A61M 16/00",
+        "A61M 16/20"
+    ]
+}

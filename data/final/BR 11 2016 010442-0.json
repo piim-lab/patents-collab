@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 010442-0",
+    "filingDate": "31/10/2014",
+    "grantDate": null,
+    "title": "Aparelho e m\u00e9todo de gera\u00e7\u00e3o de imagem, e, unidade de armazenamento.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-233428",
+            "priorityDate": "11/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "TOMOHIRO OTO",
+        "SIMON MARK BENSON",
+        "IAN HENRY BICKERSTAFF"
+    ],
+    "holders": [
+        174128,
+        66602
+    ],
+    "ipcCodes": [
+        "G09G 5/00",
+        "G06T 19/00",
+        "H04N 5/232",
+        "G09G 3/20",
+        "H04N 5/64"
+    ]
+}

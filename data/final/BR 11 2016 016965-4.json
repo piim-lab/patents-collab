@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2016 016965-4",
+    "filingDate": "12/12/2014",
+    "grantDate": null,
+    "title": "ESTRUTURA E M\u00c9TODO DE CARREGAMENTO DE CABO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1401169.6",
+            "priorityDate": "23/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "JAMES YOUNG",
+        "PHILIP WARD",
+        "JEREMY FEATHERSTONE"
+    ],
+    "holders": [
+        52333
+    ],
+    "ipcCodes": [
+        "B63B 35/04"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2012 027693-0",
+    "filingDate": "17/05/2011",
+    "grantDate": null,
+    "title": "QUEIMADOR DE G\u00c1S COM M\u00daLTIPLOS AN\u00c9IS DE CHAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "VE2010A000023",
+            "priorityDate": "19/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "CARLO PAESANI"
+    ],
+    "holders": [
+        102225
+    ],
+    "ipcCodes": [
+        "F23D 14/06"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2013 033259-0",
+    "filingDate": "29/06/2012",
+    "grantDate": "24/11/2020",
+    "title": "PAINEL ESPECTRALMENTE SELETIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2011902631",
+            "priorityDate": "01/07/2011"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2011904552",
+            "priorityDate": "02/11/2011"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2012900381",
+            "priorityDate": "02/02/2012"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2012901618",
+            "priorityDate": "24/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "VICTOR ROSENBERG",
+        "MIKHAIL VASILIEV",
+        "KAMAL ALAMEH"
+    ],
+    "holders": [
+        129126
+    ],
+    "ipcCodes": [
+        "G02B 6/00",
+        "G02B 5/20",
+        "G02B 5/26",
+        "E06B 3/66",
+        "E06B 3/67"
+    ]
+}

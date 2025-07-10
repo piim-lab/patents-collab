@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 011111-7",
+    "filingDate": "01/12/2014",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS APRIMO\u00acRADAS DE PIMOBENDAN",
+    "priorityClaims": [
+        {
+            "countryCode": "HU",
+            "priorityNumber": "P1300702",
+            "priorityDate": "04/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "P\u00c9TER LACZAY"
+    ],
+    "holders": [
+        85627
+    ],
+    "ipcCodes": [
+        "A61K 9/16",
+        "A61K 31/501"
+    ]
+}

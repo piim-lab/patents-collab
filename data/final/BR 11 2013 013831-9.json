@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2013 013831-9",
+    "filingDate": "23/08/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE EXIBI\u00c7\u00c3O DE INFORMA\u00c7\u00c3O E APARELHO DE TERMINAL M\u00d3VEL",
+    "nationalPhaseDate": [
+        "20/05/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT KR2011/006217",
+        "pctDate": "23/08/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0114907",
+            "priorityDate": "18/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.40",
+            "description": "Notifica\u00e7\u00e3o de regulariza\u00e7\u00e3o do processo em andamento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "SEUNG MYUNG LEE"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "G06F 3/0488",
+        "G06F 3/0482",
+        "H04B 1/40"
+    ]
+}

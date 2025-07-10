@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2020 023793-7",
+    "filingDate": "13/11/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE UM SINAL DE \u00c1UDIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/725,694",
+            "priorityDate": "13/11/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/11/2013",
+        "applicationNumber": "BR 11 2015 010954-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "HYUN CHOO",
+        "ANTON VICTOROVICH POROV",
+        "KONSTANTIN SERGEEVICH OSIPOV",
+        "SUK LEE",
+        "HYUN CHOO",
+        "ANTON VICTOROVICH POROV",
+        "KONSTANTIN SERGEEVICH OSIPOV",
+        "SUK LEE"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "G10L 19/005"
+    ]
+}

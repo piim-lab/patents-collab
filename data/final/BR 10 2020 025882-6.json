@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2020 025882-6",
+    "filingDate": "17/12/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA DETERMINAR UMA TOPOLOGIA DE UMA REDE DE PONTOS DE ACESSO SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR1915181",
+            "priorityDate": "20/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "SYLVAIN LE ROUX",
+        "ANTHONY REUCHE"
+    ],
+    "holders": [
+        51460
+    ],
+    "ipcCodes": [
+        "H04W 28/02",
+        "H04W 24/02",
+        "H04W 84/18",
+        "H04W 28/08",
+        "H04W 40/12",
+        "H04W 76/22"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2013 007373-0",
+    "filingDate": "30/09/2011",
+    "grantDate": null,
+    "title": "EMULS\u00c3O DE CICLOSPORINA, E, USO DE UMA EMULS\u00c3O DE CICLOSPORINA",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 00891",
+            "priorityDate": "01/10/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/388,633",
+            "priorityDate": "01/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "ESKIL ELMER"
+    ],
+    "holders": [
+        111408
+    ],
+    "ipcCodes": [
+        "A61K 9/107",
+        "A61K 38/13"
+    ]
+}

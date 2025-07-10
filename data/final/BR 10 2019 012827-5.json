@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 012827-5",
+    "filingDate": "19/06/2019",
+    "grantDate": null,
+    "title": "EST\u00c1GIO HIDR\u00c1ULICO, E, M\u00c9TODO PARA OPERAR UM EST\u00c1GIO HIDR\u00c1ULICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18179688.9",
+            "priorityDate": "25/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "AGOSTINO MEDAGLIA"
+    ],
+    "holders": [
+        22920
+    ],
+    "ipcCodes": [
+        "F15B 5/00",
+        "F15B 13/043"
+    ]
+}

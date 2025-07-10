@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2013 024259-0",
+    "filingDate": "20/03/2012",
+    "grantDate": "19/01/2021",
+    "title": "DISPOSITIVO DE AMARRAR TIRAS EM CARGA",
+    "nationalPhaseDate": [
+        "20/09/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT DK2012/050083",
+        "pctDate": "20/03/2012",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "BA 2011 00056",
+            "priorityDate": "21/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "LARS V HANSEN"
+    ],
+    "holders": [
+        123608
+    ],
+    "ipcCodes": [
+        "B60P 7/08"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2021 001679-1",
+    "filingDate": "24/07/2019",
+    "grantDate": null,
+    "title": "TERMINAL DE CONT\u00caINERES",
+    "nationalPhaseDate": [
+        "29/01/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CH2019/050015",
+        "pctDate": "24/07/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "952/18",
+            "priorityDate": "03/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2817"
+        }
+    ],
+    "inventors": [
+        "THOMAS SCHWEIZER"
+    ],
+    "holders": [
+        281467
+    ],
+    "ipcCodes": [
+        "B65G 63/00",
+        "B65G 67/60"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2016 020191-4",
+    "filingDate": "27/02/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A OPERA\u00c7\u00c3O DE UM FORNO DE CUBA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 102 913.5",
+            "priorityDate": "05/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "MARTIN KANNAPPEL",
+        "RAINER KLOCK"
+    ],
+    "holders": [
+        105717,
+        18662
+    ],
+    "ipcCodes": [
+        "F27D 19/00",
+        "F27D 3/16",
+        "C21C 5/00"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2017 027611-2",
+    "filingDate": "20/12/2017",
+    "grantDate": null,
+    "title": "UM M\u00c9TODO E UMA UNIDADE DE CONTROLE PARA DETERMINAR A FUNCIONALIDADE DE UM SENSOR DE N\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1651692-4",
+            "priorityDate": "20/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "MARCUS GRALDE",
+        "SIMON SMEDS"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "G01F 23/14",
+        "G01N 9/26"
+    ]
+}

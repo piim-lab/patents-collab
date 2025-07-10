@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 13 2022 021070-4",
+    "filingDate": "17/10/2022",
+    "grantDate": null,
+    "title": "DISSIPADOR DE CALOR COM DISPOSITIVO DE COMUTA\u00c7\u00c3O DE ENERGIA INTEGRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US17/503433",
+            "priorityDate": "18/10/2021"
+        }
+    ],
+    "parentApplication": {
+        "filingDate": "24/04/2020",
+        "applicationNumber": "BR 11 2021 021285-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "DOWN JAMES P",
+        "VALENTE PAUL J",
+        "WAI DAVID"
+    ],
+    "holders": [
+        14535
+    ],
+    "ipcCodes": [
+        "H01L 23/367",
+        "H01L 23/495"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2013 010949-1",
+    "filingDate": "24/10/2011",
+    "grantDate": null,
+    "title": "ANTICORPOS EST\u00c1VEIS E SOL\u00daVEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/405,798",
+            "priorityDate": "22/10/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/484,749",
+            "priorityDate": "11/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        }
+    ],
+    "inventors": [
+        "LEONARDO BORRAS",
+        "DAVID URECH"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "C07K 16/24"
+    ]
+}

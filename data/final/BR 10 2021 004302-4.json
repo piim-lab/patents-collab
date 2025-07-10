@@ -1,0 +1,96 @@
+{
+    "applicationNumber": "BR 10 2021 004302-4",
+    "filingDate": "08/03/2021",
+    "grantDate": null,
+    "title": "BOMBA PERIST\u00c1LTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2020 106 372.5",
+            "priorityDate": "09/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "NORBERT B\u00dcCKLE",
+        "TORSTEN KOCH",
+        "FELIX SEIBOLD",
+        "SERGEJ RODAU",
+        "MARTIN BAECKE",
+        "UWE SCHWERDTFEGER",
+        "JOHN J BIASI",
+        "LARRY B GRAY",
+        "DANIEL F PAWLOWSKI",
+        "RONALD OUDE VRIELINK",
+        "FOKKE PATRICK VAN DER SPAN",
+        "JONATHAN ADRIANUS LITTOOIJ",
+        "ROBERT MEAD",
+        "STEVEN BROKENSHIRE",
+        "LUC MA\u00ceTRE",
+        "CYRIL RYSER",
+        "LAURENT FARINE",
+        "DIDIER SIEGENTHALER",
+        "DEAN KAMEN",
+        "JOHN M KERWIN",
+        "LARRY B GRAY",
+        "CHRISTOPHER C LANGENFELD",
+        "MICHAEL J SLATE",
+        "MICHAEL S PLACE",
+        "GREGORY R LANIER JR",
+        "BOB D PERET",
+        "DEREK G KANE",
+        "KEVIN A DURAND",
+        "STANLEY B SMITH III",
+        "COLIN H MURPHY",
+        "JACOB W SCARPACI",
+        "RICHARD J LANIGAN",
+        "DAVID BLUMBERG JR",
+        "BRIAN D TRACEY",
+        "JASON A DEMERS",
+        "RUSSELL H BEAVIS",
+        "DAVID D B CANNAN",
+        "N CHRISTOPHER PERRY",
+        "MARC A MANDRO",
+        "BRIAN H YOO"
+    ],
+    "holders": [
+        135170,
+        776,
+        130218,
+        338128,
+        176115
+    ],
+    "ipcCodes": [
+        "A61M 5/142",
+        "A61M 5/168",
+        "A61M 1/28",
+        "A61J 7/00",
+        "A61M 5/145"
+    ]
+}

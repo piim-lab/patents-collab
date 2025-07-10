@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 007373-2",
+    "filingDate": "18/04/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE GERENCIAMENTO DE IMPLEMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/349688",
+            "priorityDate": "16/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "TYLER D SCHLEICHER",
+        "CURTIS A MAEDER",
+        "NOEL W ANDERSON",
+        "JEFFREY E RUNDE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B60K 35/00",
+        "A01C 5/06",
+        "G01S 19/01",
+        "G01N 33/24",
+        "B60K 37/06"
+    ]
+}

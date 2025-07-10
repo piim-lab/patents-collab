@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 012737-6",
+    "filingDate": "28/06/2021",
+    "grantDate": null,
+    "title": "CONJUNTO DE CORTE PARA MISTURAS PARA USO ALIMENT\u00cdCIO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "202020000003778",
+            "priorityDate": "30/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO LANDI",
+        "MARCO FOSSA"
+    ],
+    "holders": [
+        43326
+    ],
+    "ipcCodes": [
+        "A21C 5/00"
+    ]
+}

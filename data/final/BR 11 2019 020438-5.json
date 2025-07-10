@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2019 020438-5",
+    "filingDate": "30/03/2018",
+    "grantDate": null,
+    "title": "PEPT\u00cdDEO ATIVO DO RECEPTOR DE GIP",
+    "nationalPhaseDate": [
+        "30/09/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2018/013540",
+        "pctDate": "30/03/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-072556",
+            "priorityDate": "31/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "TAIJI ASAMI",
+        "NAOKI NISHIZAWA",
+        "AYUMU NIIDA",
+        "YOKO KANEMATSU",
+        "MARI ADACHI",
+        "SHIRO TAKEKAWA",
+        "TOMOKO MORIMOTO"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "A61K 38/00",
+        "C07K 14/605"
+    ]
+}

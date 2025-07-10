@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2020 017670-9",
+    "filingDate": "17/03/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CODIFICAR UMA TABELA DE BUSCA DE COR TRIDIMENSIONAL, E M\u00c9TODO PARA DECODIFICAR UMA TABELA DE BUSCA DE COR TRIDIMENSIONAL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13305453.6",
+            "priorityDate": "08/04/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13306010.3",
+            "priorityDate": "15/07/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14305109.2",
+            "priorityDate": "27/01/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/03/2014",
+        "applicationNumber": "BR 11 2015 025623-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE BORDES",
+        "PIERRE ANDRIVON",
+        "EMMANUEL JOLLY"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/30",
+        "H04N 19/186",
+        "H04N 19/50"
+    ]
+}

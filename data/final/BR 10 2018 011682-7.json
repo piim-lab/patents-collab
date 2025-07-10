@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 011682-7",
+    "filingDate": "08/06/2018",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE CONSTRU\u00c7\u00c3O COM PLATAFORMA OPERACIONAL E CONTROLE DE ACESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17175163.9",
+            "priorityDate": "09/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUSCHMANN"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "B60J 5/10",
+        "B60J 5/12",
+        "B60J 7/16",
+        "B60J 7/04",
+        "B60J 5/14"
+    ]
+}

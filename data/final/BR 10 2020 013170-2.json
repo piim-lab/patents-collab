@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 013170-2",
+    "filingDate": "26/06/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA REDUZIR A ACUMULA\u00c7\u00c3O DE MATERIAL RELATIVA A UM CONJUNTO DE FECHAMENTO DE UM IMPLEMENTO AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/456,129",
+            "priorityDate": "28/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "JOSHUA HARMON",
+        "TREVOR STANHOPE"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01B 71/08",
+        "A01B 15/16",
+        "A01B 23/06"
+    ]
+}

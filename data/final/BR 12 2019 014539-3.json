@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2019 014539-3",
+    "filingDate": "27/02/2008",
+    "grantDate": "10/11/2020",
+    "title": "SISTEMAS DE HEMODI\u00c1LISE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/903,582",
+            "priorityDate": "27/02/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/904,024",
+            "priorityDate": "27/02/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/02/2008",
+        "applicationNumber": "PI 0808044-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "MICHAEL J WILT",
+        "JASON A DEMERS",
+        "KEVIN L GRANT",
+        "BRIAN TRACEY",
+        "JAMES D DALE",
+        "MICHAEL J WILT",
+        "KEVIN L GRANT",
+        "BRIAN TRACEY",
+        "JAMES D DALE",
+        "JASON A DEMERS"
+    ],
+    "holders": [
+        130218
+    ],
+    "ipcCodes": [
+        "A61M 1/16"
+    ]
+}

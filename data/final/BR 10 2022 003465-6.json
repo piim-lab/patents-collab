@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 003465-6",
+    "filingDate": "23/02/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE MEDI\u00c7\u00c3O INDIVIDUAL DE \u00c1GUA ATRAV\u00c9S DE PRESS\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "ERNESTO BERL",
+        "WANG LIPING TSUZUKI",
+        "JANE MARIA MORIMURA HORIKAWA",
+        "OSVALDO BARBOSA DE OLIVEIRA JUNIOR"
+    ],
+    "holders": [
+        56737,
+        74357,
+        74358,
+        74359
+    ],
+    "ipcCodes": [
+        "G01F 1/05",
+        "G01F 15/00",
+        "H04W 80/00",
+        "G01F 1/86"
+    ]
+}

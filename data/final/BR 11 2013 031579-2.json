@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2013 031579-2",
+    "filingDate": "10/02/2012",
+    "grantDate": "08/10/2019",
+    "title": "M\u00c9TODO PARA DISPENSAR UMA BEBIDA GASOSA CONTENDO ESPUMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-127773",
+            "priorityDate": "07/06/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-128512",
+            "priorityDate": "08/06/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-026552",
+            "priorityDate": "09/02/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-026572",
+            "priorityDate": "09/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "NORIO ENDO",
+        "SHINOBU UENO",
+        "DAIJU MIZUMOTO",
+        "TAKAFUMI ASAKURA",
+        "HIROSHI SHIBATA"
+    ],
+    "holders": [
+        128278
+    ],
+    "ipcCodes": [
+        "C12G 3/04",
+        "A47J 31/00",
+        "A23L 2/00",
+        "C12C 5/02",
+        "A23G 9/00",
+        "B67D 1/07"
+    ]
+}

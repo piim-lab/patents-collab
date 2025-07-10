@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2022 004688-0",
+    "filingDate": "24/09/2020",
+    "grantDate": null,
+    "title": "VEDA\u00c7\u00c3O DE CABO COMPOSTO",
+    "nationalPhaseDate": [
+        "14/03/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2020/052498",
+        "pctDate": "24/09/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/904,956",
+            "priorityDate": "24/09/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/951,422",
+            "priorityDate": "20/12/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/967,417",
+            "priorityDate": "29/01/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/025,683",
+            "priorityDate": "15/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "KRISTOF VASTMANS",
+        "JIRI ZAVREL"
+    ],
+    "holders": [
+        91920
+    ],
+    "ipcCodes": [
+        "G02B 6/44",
+        "G02B 6/38",
+        "H02G 3/08",
+        "H02G 15/013",
+        "F16J 15/02"
+    ]
+}

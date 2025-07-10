@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2023 003223-3",
+    "filingDate": "28/12/2016",
+    "grantDate": null,
+    "title": "EQUIPAMENTO PARA PROCESSAR UMA INSTRU\u00c7\u00c3O PARA PROCESSAR UM LA\u00c7O ENCAIXADO E M\u00c9TODO IMPLEMENTADO EM COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/014,265",
+            "priorityDate": "03/02/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/12/2016",
+        "applicationNumber": "BR 10 2016 030825-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "DONG HYUK WOO",
+        "ANDREW EVERETT PHELPS"
+    ],
+    "holders": [
+        26957
+    ],
+    "ipcCodes": [
+        "G06F 9/38",
+        "G06F 9/30",
+        "G06F 9/32",
+        "G06F 17/16",
+        "G06F 9/355",
+        "G06F 9/345"
+    ]
+}

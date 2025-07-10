@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2019 013943-9",
+    "filingDate": "04/07/2019",
+    "grantDate": null,
+    "title": "VE\u00cdCULO DE TRABALHO CONFIGURADO PARA SE DESLOCAR EM UMA DIRE\u00c7\u00c3O DE DESLOCAMENTO ATRAV\u00c9S DE UMA SUPERF\u00cdCIE DE SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/057,407",
+            "priorityDate": "07/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2816"
+        }
+    ],
+    "inventors": [
+        "DONALD K LANDPHAIR",
+        "NATHAN A MARIMAN"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 7/06"
+    ]
+}

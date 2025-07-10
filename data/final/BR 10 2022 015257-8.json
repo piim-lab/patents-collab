@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 015257-8",
+    "filingDate": "01/08/2022",
+    "grantDate": null,
+    "title": "REDE EM MALHA PARA RETRANSMISS\u00d5ES DE POT\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/462,863",
+            "priorityDate": "31/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "YOSHIKI TANAKA",
+        "SHINICHI KODAMA",
+        "TETSUYA SHIHARA"
+    ],
+    "holders": [
+        76455
+    ],
+    "ipcCodes": [
+        "H04W 84/18",
+        "H02J 50/40"
+    ]
+}

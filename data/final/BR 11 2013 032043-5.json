@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2013 032043-5",
+    "filingDate": "14/06/2012",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE PARA OPERA\u00c7\u00d5ES DE FUNDO DO PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/496,784",
+            "priorityDate": "14/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "ADRIAN VUYK JR"
+    ],
+    "holders": [
+        2847
+    ],
+    "ipcCodes": [
+        "E21B 44/00",
+        "E21B 41/00",
+        "E21B 47/04"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 10 2019 020641-1",
+    "filingDate": "01/10/2019",
+    "grantDate": null,
+    "title": "CONJUNTO DE COMPARTIMENTO DE ARMAZENAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/148,666",
+            "priorityDate": "01/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2813"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "AMAR PATEL",
+        "AMRUTHESH SHIVASHANKAR",
+        "VINAY SIDDALINGAPPA",
+        "GANESHPRASAD KALAVAR",
+        "REJO JAYARAJ",
+        "TOM THOMAS",
+        "PREMANANDA KANTHI"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "F16B 12/00",
+        "B64D 11/00",
+        "B64C 1/22"
+    ]
+}

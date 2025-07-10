@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 12 2020 026900-6",
+    "filingDate": "12/06/2018",
+    "grantDate": null,
+    "title": "EXTRATOR DE TAMPA PARA UMA PISTOLA DE SOLDAGEM E M\u00c9TODO PARA REMOVER UMA TAMPA DE UMA PISTOLA DE SOLDAGEM",
+    "divisionalApplication": {
+        "filingDate": "12/06/2018",
+        "applicationNumber": "BR 11 2020 025320-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "DAVID M SIMONE",
+        "DANIEL P VANDERZWET",
+        "PHILIP W BROWN"
+    ],
+    "holders": [
+        164232
+    ],
+    "ipcCodes": [
+        "B23K 11/11",
+        "B23K 11/36",
+        "B23K 11/30"
+    ]
+}

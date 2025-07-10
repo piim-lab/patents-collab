@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2022 000648-5",
+    "filingDate": "07/08/2015",
+    "grantDate": null,
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O ADESIVA, E, ARTIGO DE FABRICA\u00c7\u00c3O",
+    "divisionalApplication": {
+        "filingDate": "07/08/2015",
+        "applicationNumber": "BR 11 2017 002882-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        109661
+    ],
+    "ipcCodes": []
+}

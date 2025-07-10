@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 012795-3",
+    "filingDate": "24/11/2011",
+    "grantDate": "29/12/2020",
+    "title": "PROCESSO DE TRATAMENTO DE PRODUTOS VEGETAIS E COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1059693",
+            "priorityDate": "24/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "ALBERTO SARDO"
+    ],
+    "holders": [
+        115322
+    ],
+    "ipcCodes": [
+        "A01N 65/00",
+        "A01N 31/16",
+        "A01P 3/00",
+        "A01N 59/26",
+        "A23B 7/154",
+        "A23B 7/157"
+    ]
+}

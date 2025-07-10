@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2018 067722-8",
+    "filingDate": "16/06/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UMA MISTURA DE GASOLINA E BUTANOL E MISTURA DE GASOLINA E BUTANOL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/355,224",
+            "priorityDate": "16/06/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/06/2011",
+        "applicationNumber": "BR 11 2012 031989-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        }
+    ],
+    "inventors": [
+        "JAMES J BAUSTIAN",
+        "LESLIE R WOLF"
+    ],
+    "holders": [
+        85942
+    ],
+    "ipcCodes": [
+        "C10L 1/02",
+        "C10L 1/18",
+        "C10L 1/06"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2018 010017-0",
+    "filingDate": "23/11/2016",
+    "grantDate": null,
+    "title": "VIDRA\u00c7A COM SE\u00c7\u00c3O DE PERFIL EMBUTIDO",
+    "nationalPhaseDate": [
+        "17/05/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT FR2016/053058",
+        "pctDate": "23/11/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1561226",
+            "priorityDate": "23/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "WERNER KUSTER",
+        "VOLKMAR OFFERMANN"
+    ],
+    "holders": [
+        17414
+    ],
+    "ipcCodes": [
+        "B60J 1/02",
+        "B62D 25/08",
+        "B60J 1/00",
+        "B60J 10/70",
+        "B60J 10/18",
+        "B60J 10/30"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2017 020861-3",
+    "filingDate": "28/09/2017",
+    "grantDate": null,
+    "title": "APARELHO DE FOTO-DETEC\u00c7\u00c3O E SISTEMA DE FOTO- DETEC\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-202052",
+            "priorityDate": "13/10/2016"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-146724",
+            "priorityDate": "28/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2756"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2764"
+        }
+    ],
+    "inventors": [
+        "KAZUHIRO MORIMOTO",
+        "MAHITO SHINOHARA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "H01L 27/14",
+        "H01L 31/107"
+    ]
+}

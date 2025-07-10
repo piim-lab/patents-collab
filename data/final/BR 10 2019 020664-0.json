@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2019 020664-0",
+    "filingDate": "01/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA PARA CONTROLE DE MANUTEN\u00c7\u00d5ES E HIST\u00d3RICO DE VE\u00cdCULOS E CONTROLE DE FROTAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "PRISCILA BITTENCOURT DE ASSIS"
+    ],
+    "holders": [
+        38785,
+        52522
+    ],
+    "ipcCodes": [
+        "G01V 15/00",
+        "G07C 5/08",
+        "G08G 1/127",
+        "G08C 25/04"
+    ]
+}

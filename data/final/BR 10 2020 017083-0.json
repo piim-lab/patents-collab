@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 017083-0",
+    "filingDate": "21/08/2020",
+    "grantDate": null,
+    "title": "VE\u00cdCULO DE ESTERILIZA\u00c7\u00c3O M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "109125582",
+            "priorityDate": "29/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2760"
+        }
+    ],
+    "inventors": [
+        "CHEN YUN"
+    ],
+    "holders": [
+        61188
+    ],
+    "ipcCodes": [
+        "E01H 1/00",
+        "E01H 3/02"
+    ]
+}

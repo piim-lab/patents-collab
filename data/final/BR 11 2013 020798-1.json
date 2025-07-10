@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2013 020798-1",
+    "filingDate": "17/02/2012",
+    "grantDate": null,
+    "title": "TERAPIA DE COMBINA\u00c7\u00c3O DO INIBIDOR mTOR /JAK",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/444,581",
+            "priorityDate": "18/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/503,785",
+            "priorityDate": "01/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/503,789",
+            "priorityDate": "01/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO M VANNUCCHI",
+        "COSTANZA BOGANI",
+        "PAOLA GUGLIELMELLI"
+    ],
+    "holders": [
+        121284,
+        115119
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/519",
+        "A61P 35/02",
+        "A61K 31/436",
+        "A61K 45/06"
+    ]
+}

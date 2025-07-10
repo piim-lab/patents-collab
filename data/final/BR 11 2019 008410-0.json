@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 11 2019 008410-0",
+    "filingDate": "13/10/2017",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE FORMA\u00c7\u00c3O DE N\u00daCLEO E M\u00c9TODO DE FORMA\u00c7\u00c3O DE N\u00daCLEO",
+    "nationalPhaseDate": [
+        "25/04/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2017/001338",
+        "pctDate": "13/10/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-213525",
+            "priorityDate": "31/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "6.9",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "KATSUTOSHI OKUMURA",
+        "HIROTSUNE WATANABE",
+        "SHOGO IZUMI",
+        "HIROTAKA KURITA",
+        "KATSUSHIGE YAMAMOTO"
+    ],
+    "holders": [
+        1658,
+        5783
+    ],
+    "ipcCodes": [
+        "B01F 15/02",
+        "B22C 13/12",
+        "B22C 13/16",
+        "B22C 15/02",
+        "B22C 5/04"
+    ]
+}

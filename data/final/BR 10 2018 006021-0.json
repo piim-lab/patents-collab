@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2018 006021-0",
+    "filingDate": "26/03/2018",
+    "grantDate": null,
+    "title": "MECANISMO DIRECIONADOR DE POTES, TAMPAS E AFINS",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2764"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2779"
+        }
+    ],
+    "inventors": [
+        "JOSE CARLOS FRAGA"
+    ],
+    "holders": [
+        37278
+    ],
+    "ipcCodes": [
+        "B65G 47/24",
+        "B65G 47/26",
+        "B65G 47/46",
+        "B65G 47/34"
+    ]
+}

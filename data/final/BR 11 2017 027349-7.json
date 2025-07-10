@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2017 027349-7",
+    "filingDate": "17/06/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MELHORAR OS BENEF\u00cdCIOS DE SA\u00daDE",
+    "nationalPhaseDate": [
+        "18/12/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/038043",
+        "pctDate": "17/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/745,091",
+            "priorityDate": "19/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "STEPHEN T WOODY"
+    ],
+    "holders": [
+        203481
+    ],
+    "ipcCodes": [
+        "A61K 33/00",
+        "A61Q 17/02",
+        "A61Q 19/10",
+        "A61L 2/00",
+        "A61K 8/19",
+        "A01N 59/00",
+        "A61Q 17/00"
+    ]
+}

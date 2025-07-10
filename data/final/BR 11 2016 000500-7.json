@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 000500-7",
+    "filingDate": "11/07/2014",
+    "grantDate": "04/08/2020",
+    "title": "Associa\u00e7\u00e3o de lip\u00eddeo tern\u00e1ria e composi\u00e7\u00e3o emoliente",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1356892",
+            "priorityDate": "12/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "H\u00c9L\u00c8NE DUPLAN",
+        "DANIEL REDOULES",
+        "ALEXANDRE DELALLEAU"
+    ],
+    "holders": [
+        84161,
+        100069,
+        168990
+    ],
+    "ipcCodes": [
+        "A61Q 19/00",
+        "A61K 8/97",
+        "A61K 8/63",
+        "A61K 8/37",
+        "A61K 8/06"
+    ]
+}

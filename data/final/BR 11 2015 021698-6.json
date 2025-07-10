@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2015 021698-6",
+    "filingDate": "07/03/2014",
+    "grantDate": "04/07/2023",
+    "title": "SISTEMAS E M\u00c9TODOS PARA OPERA\u00c7\u00c3O DE MIMO INTENSIFICADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/775,016",
+            "priorityDate": "08/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/821,867",
+            "priorityDate": "10/05/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/832,310",
+            "priorityDate": "07/06/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/199,743",
+            "priorityDate": "06/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "STEFAN GEIRHOFER",
+        "PETER GAAL",
+        "WANSHI CHEN",
+        "HAO XU"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04B 7/06"
+    ]
+}

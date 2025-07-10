@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2019 016664-1",
+    "filingDate": "30/05/2007",
+    "grantDate": "02/06/2020",
+    "title": "DISPOSITIVO DE FORMA\u00c7\u00c3O DE IMAGEM DIGITAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/809,551",
+            "priorityDate": "31/05/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/05/2007",
+        "applicationNumber": "PI 0711977-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "ANN E ELSNER",
+        "BENNO PETRIG"
+    ],
+    "holders": [
+        351583
+    ],
+    "ipcCodes": [
+        "A61B 3/10",
+        "A61B 3/12"
+    ]
+}

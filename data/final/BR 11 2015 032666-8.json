@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 032666-8",
+    "filingDate": "16/06/2014",
+    "grantDate": null,
+    "title": "COURO SINT\u00c9TICO AUTOMOTIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-141900",
+            "priorityDate": "05/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "YUKITO KANEKO",
+        "AKIRA SAIDA",
+        "TOMOYUKI UEMURA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "B60N 2/58",
+        "B60R 13/02",
+        "B60K 37/00",
+        "D06N 3/14",
+        "B62D 1/06"
+    ]
+}

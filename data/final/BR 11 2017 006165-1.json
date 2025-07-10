@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2017 006165-1",
+    "filingDate": "31/08/2015",
+    "grantDate": null,
+    "title": "COMUNICA\u00c7\u00c3O DE DADOS DE CONTROLE DE LTE DE LAT\u00caNCIA ULTRABAIXA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/056,403",
+            "priorityDate": "26/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/056,397",
+            "priorityDate": "26/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/056,281",
+            "priorityDate": "26/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/839,703",
+            "priorityDate": "28/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.40",
+            "description": "Notifica\u00e7\u00e3o de regulariza\u00e7\u00e3o do processo em andamento",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "WANSHI CHEN",
+        "PETER GAAL",
+        "SHIMMAN ARVIND PATEL",
+        "HAO XU"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 5/00",
+        "H04L 1/18",
+        "H04L 1/16"
+    ]
+}

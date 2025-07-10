@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 003268-2",
+    "filingDate": "20/02/2018",
+    "grantDate": null,
+    "title": "ESTRUTURA DE DRENAGEM DE PORTA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-029256",
+            "priorityDate": "20/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2791"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2803"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "YOSUKE OHTAKE",
+        "HIDETAKA INAGAKI",
+        "TAKESHI KIKUCHI",
+        "MASATO HAYASHI"
+    ],
+    "holders": [
+        14411
+    ],
+    "ipcCodes": [
+        "B62D 25/04"
+    ]
+}

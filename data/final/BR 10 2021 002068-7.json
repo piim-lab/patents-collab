@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 002068-7",
+    "filingDate": "03/02/2021",
+    "grantDate": null,
+    "title": "TAMPA GOTEJADORA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2772"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o - Art. 87 da LPI",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "VICENTE ROMO RODRIGUES NETO"
+    ],
+    "holders": [
+        31233
+    ],
+    "ipcCodes": [
+        "B65D 47/04",
+        "B65D 47/06",
+        "B65D 47/18",
+        "B65D 47/08"
+    ]
+}

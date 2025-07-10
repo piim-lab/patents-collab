@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 010177-9",
+    "filingDate": "25/05/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA DEMODULA\u00c7\u00c3O DE TRANSFORMADOR DIFERENCIAL VARI\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202111026628",
+            "priorityDate": "15/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "ASHISH VIJAY",
+        "ROBIN HILL",
+        "DAVID BROOKES"
+    ],
+    "holders": [
+        1795
+    ],
+    "ipcCodes": [
+        "G01D 5/22",
+        "H01F 21/06"
+    ]
+}

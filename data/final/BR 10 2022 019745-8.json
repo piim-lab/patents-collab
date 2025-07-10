@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 019745-8",
+    "filingDate": "29/09/2022",
+    "grantDate": null,
+    "title": "SISTEMA PARA MONITORAMENTO E CONTROLE EM TEMPO REAL DE OPERA\u00c7\u00d5ES DE BOT",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/511,081",
+            "priorityDate": "26/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "JOHN A YOUNG",
+        "REINHARD P KLEMM"
+    ],
+    "holders": [
+        66575
+    ],
+    "ipcCodes": [
+        "H04M 3/51",
+        "G06N 3/08",
+        "G06N 20/00"
+    ]
+}

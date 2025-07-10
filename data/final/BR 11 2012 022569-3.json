@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2012 022569-3",
+    "filingDate": "01/02/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA PURIFICA\u00c7\u00c3O BIOL\u00d3GICA DE \u00c1GUAS RESIDUAIS FRIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10 002 478.5",
+            "priorityDate": "10/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        }
+    ],
+    "inventors": [
+        "GEERT NYHUIS"
+    ],
+    "holders": [
+        9078
+    ],
+    "ipcCodes": [
+        "C02F 3/28",
+        "C02F 3/30",
+        "C02F 11/12",
+        "C02F 11/04",
+        "C02F 101/16"
+    ]
+}

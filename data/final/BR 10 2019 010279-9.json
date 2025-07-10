@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 010279-9",
+    "filingDate": "20/05/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA MODULA\u00c7\u00c3O E CODIFICA\u00c7\u00c3O DE M\u00daLTIPLAS PORTADORAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/675,184",
+            "priorityDate": "23/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "RAINER STROBEL",
+        "VLADIMIR OKSMAN"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "H04L 27/26",
+        "H04L 27/34"
+    ]
+}

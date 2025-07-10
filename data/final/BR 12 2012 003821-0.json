@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2012 003821-0",
+    "filingDate": "27/06/2001",
+    "grantDate": "01/09/2020",
+    "title": "COMPOSI\u00c7\u00c3O IMUNOG\u00caNICA MULTIVALENTE, USO DA MESMA, M\u00c9TODO DE IMUNIZA\u00c7\u00c3O DE UM HOSPEDEIRO HUMANO CONTRA DOEN\u00c7A, E, PROCESSO PARA PRODUZIR A COMPOSI\u00c7\u00c3O IMUNOG\u00caNICA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0015999.6",
+            "priorityDate": "29/06/2000"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0108363.3",
+            "priorityDate": "03/04/2001"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0108364.1",
+            "priorityDate": "03/04/2001"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/06/2001",
+        "applicationNumber": "PI 0112057-3"
+    },
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "DOMINIQUE BOUTRIAU",
+        "CARINE CAPIAU",
+        "PIERRE MICHEL DESMONS",
+        "DOMINIQUE LEMOINE",
+        "JAN POOLMAN"
+    ],
+    "holders": [
+        85017
+    ],
+    "ipcCodes": [
+        "A61K 39/00"
+    ]
+}

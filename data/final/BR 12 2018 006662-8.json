@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2018 006662-8",
+    "filingDate": "13/11/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR O ENVELHECIMENTO DE UM CATALISADOR MULTIMODAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/858,824",
+            "priorityDate": "14/11/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/11/2007",
+        "applicationNumber": "PI 0718849-8"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "NATARAJAN MURUGANANDAM",
+        "JEEVAN ABICHANDANI",
+        "KERSTEN A TERRY",
+        "HEMANT G PATEL",
+        "GEORGE RODRIGUEZ"
+    ],
+    "holders": [
+        90421
+    ],
+    "ipcCodes": [
+        "C08F 10/00",
+        "C08F 210/16",
+        "C08F 4/659",
+        "C08F 4/6592",
+        "C08F 4/69"
+    ]
+}

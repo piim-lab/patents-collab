@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2023 000245-5",
+    "filingDate": "05/01/2023",
+    "grantDate": null,
+    "title": "SISTEMA DE RESFRIAMENTO DE REFRIGERADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/667,930",
+            "priorityDate": "09/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "TIAGO DEIVED FAGUNDES",
+        "PAULO C\u00c9SAR ROSALES PALOMINO"
+    ],
+    "holders": [
+        2420
+    ],
+    "ipcCodes": [
+        "F25D 23/00"
+    ]
+}

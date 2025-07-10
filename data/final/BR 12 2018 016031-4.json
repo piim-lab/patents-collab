@@ -1,0 +1,104 @@
+{
+    "applicationNumber": "BR 12 2018 016031-4",
+    "filingDate": "18/07/2005",
+    "grantDate": "22/10/2019",
+    "title": "PROCESSO PARA PRODUZIR UM ANTICORPO MONOCLONAL VARIANTE COM RESPOSTA DE ADCC REAL\u00c7ADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/598855",
+            "priorityDate": "04/08/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/602953",
+            "priorityDate": "19/08/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/604339",
+            "priorityDate": "28/08/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/609101",
+            "priorityDate": "10/09/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/638442",
+            "priorityDate": "23/12/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/643718",
+            "priorityDate": "13/01/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/07/2005",
+        "applicationNumber": "PI 0514068-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "BARRETT ALLAN",
+        "WEIDONG JIANG",
+        "YING TANG",
+        "JEFFRY DEAN WATKINS"
+    ],
+    "holders": [
+        351218
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C12N 5/10",
+        "C12N 15/12",
+        "C07K 16/00"
+    ]
+}

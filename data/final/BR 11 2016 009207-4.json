@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "BR 11 2016 009207-4",
+    "filingDate": "24/10/2014",
+    "grantDate": null,
+    "title": "COMPOSTOS DE PROSTACICLINA",
+    "nationalPhaseDate": [
+        "25/04/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2014/062232",
+        "pctDate": "24/10/2014",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/895,680",
+            "priorityDate": "25/10/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/910,703",
+            "priorityDate": "02/12/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/950,967",
+            "priorityDate": "11/03/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/028,758",
+            "priorityDate": "24/07/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/042,123",
+            "priorityDate": "26/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "VLADIMIR MALININ",
+        "ZHILI LI",
+        "ADAM PLAUNT",
+        "DONNA KONICEK",
+        "WALTER PERKINS",
+        "FRANZISKA LEIFER"
+    ],
+    "holders": [
+        146949
+    ],
+    "ipcCodes": [
+        "A61P 11/00",
+        "A61K 31/19",
+        "C07C 62/00"
+    ]
+}

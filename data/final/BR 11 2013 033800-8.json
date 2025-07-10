@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2013 033800-8",
+    "filingDate": "26/06/2012",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO PARA A TRANSMISS\u00c3O SERIAL DE DADOS COM TAMANHO FLEX\u00cdVEL DE MENSAGENS E COMPRIMENTO VARI\u00c1VEL DE BITS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 078 266.4",
+            "priorityDate": "29/06/2011"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 122 845.8",
+            "priorityDate": "29/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "FLORIAN HARTWICH",
+        "CHRISTIAN HORST"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "G06F 13/42",
+        "H04L 12/413"
+    ]
+}

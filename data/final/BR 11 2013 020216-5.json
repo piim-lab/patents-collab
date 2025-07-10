@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 11 2013 020216-5",
+    "filingDate": "09/02/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR SUBST\u00c2NCIA  ALVO ATRAV\u00c9S DO PROCESSO DE FERMENTA\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-025750",
+            "priorityDate": "09/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        120887
+    ],
+    "ipcCodes": []
+}

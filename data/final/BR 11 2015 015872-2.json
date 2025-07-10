@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2015 015872-2",
+    "filingDate": "18/12/2013",
+    "grantDate": "27/02/2020",
+    "title": "COMPOSI\u00c7\u00c3O DE TRATAMENTO ORAL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13153689.8",
+            "priorityDate": "01/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "ANDREW PHILIP PARKER"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "A61K 8/81",
+        "A61K 8/46",
+        "A61Q 11/00",
+        "A61K 8/49",
+        "A61K 8/41",
+        "A61K 8/60",
+        "A61K 8/42"
+    ]
+}

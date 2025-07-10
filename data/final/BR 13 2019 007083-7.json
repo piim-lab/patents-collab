@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 13 2019 007083-7",
+    "filingDate": "08/04/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DENT\u00c1RIO",
+    "parentApplication": {
+        "filingDate": "29/12/2016",
+        "applicationNumber": "BR 10 2016 030925-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "ROG\u00c9RIO VOGES PINHEIRO",
+        "RAFAEL VIDAL PERES"
+    ],
+    "holders": [
+        26978,
+        26979
+    ],
+    "ipcCodes": [
+        "A61C 13/00",
+        "C09D 131/04",
+        "A61C 13/08",
+        "A61C 13/20"
+    ]
+}

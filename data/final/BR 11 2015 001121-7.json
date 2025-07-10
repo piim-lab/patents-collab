@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2015 001121-7",
+    "filingDate": "18/06/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O E PROCESSO PARA CONTROLE DE DOEN\u00c7A DE PLANTA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-161709",
+            "priorityDate": "20/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "YUICHI MATSUZAKI"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": [
+        "A01P 3/00",
+        "A01N 37/36",
+        "A01N 43/56"
+    ]
+}

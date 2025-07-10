@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 017151-3",
+    "filingDate": "26/08/2022",
+    "grantDate": null,
+    "title": "PRODUTO ALIMENT\u00cdCIO AGREGADO EST\u00c1VEL EM PRATELEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/463,952",
+            "priorityDate": "01/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "EMILY FORTENER",
+        "ERIC HISSAM",
+        "SHINTARO PANG",
+        "NATHAN VALENTINE"
+    ],
+    "holders": [
+        15706
+    ],
+    "ipcCodes": [
+        "A23L 7/126",
+        "A23L 33/21",
+        "A23L 33/115",
+        "A23L 33/125"
+    ]
+}

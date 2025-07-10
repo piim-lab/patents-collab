@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2012 003537-1",
+    "filingDate": "18/08/2010",
+    "grantDate": null,
+    "title": "CONJUNTO DE PORTA ELEVAT\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2009903893",
+            "priorityDate": "18/08/2009"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2009905149",
+            "priorityDate": "22/10/2009"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2010902414",
+            "priorityDate": "02/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "DAVID JOHN AUGHTON",
+        "DAMIEN VERNON PEARSON"
+    ],
+    "holders": [
+        82638
+    ],
+    "ipcCodes": [
+        "G01F 1/66",
+        "G01P 5/24",
+        "E02B 7/26",
+        "G12B 9/00",
+        "E02B 7/40",
+        "E02B 13/02"
+    ]
+}

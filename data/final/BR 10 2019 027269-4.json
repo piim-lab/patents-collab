@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 027269-4",
+    "filingDate": "19/12/2019",
+    "grantDate": null,
+    "title": "OTIMIZAR UM MODELO PARAM\u00c9TRICO DE DESEMPENHO DE AERONAVES",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1873496",
+            "priorityDate": "20/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "GUILLAUME MEULLE",
+        "CHRISTOPHE PIERRE",
+        "DORIAN MARTINEZ"
+    ],
+    "holders": [
+        936
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "B64F 5/00",
+        "B64D 45/00",
+        "G05D 1/10",
+        "B64D 47/00",
+        "G01C 21/34",
+        "G01C 21/20",
+        "G08G 5/00"
+    ]
+}

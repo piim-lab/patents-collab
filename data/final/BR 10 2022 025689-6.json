@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 025689-6",
+    "filingDate": "15/12/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE FRIC\u00c7\u00c3O DE EMBREAGEM E MECANISMO DE EMBREAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR2113777",
+            "priorityDate": "17/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "LOIC VASSIEUX",
+        "J\u00c9R\u00d4ME BOUDIN",
+        "ROEL VERHOOG"
+    ],
+    "holders": [
+        12801
+    ],
+    "ipcCodes": [
+        "F16D 23/04"
+    ]
+}

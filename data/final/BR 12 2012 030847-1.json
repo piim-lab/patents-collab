@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 12 2012 030847-1",
+    "filingDate": "27/01/2000",
+    "grantDate": "06/07/2021",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA N\u00c3O AQUOSA PARA USO DERMATOL\u00d3GICO COMPREENDENDO CALCIPOTRIOL E BETAMETASONA, E, USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 1999 00561",
+            "priorityDate": "23/04/1999"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/01/2000",
+        "applicationNumber": "PI 0009956-2"
+    },
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "ERIK DIDRIKSEN",
+        "GERT H\u00d8Y",
+        "ERIK DIDRIKSEN",
+        "GERT HOY"
+    ],
+    "holders": [
+        93418
+    ],
+    "ipcCodes": [
+        "A61K 31/56",
+        "A61P 17/06",
+        "A61K 31/59",
+        "A61K 31/573",
+        "A61K 31/593"
+    ]
+}

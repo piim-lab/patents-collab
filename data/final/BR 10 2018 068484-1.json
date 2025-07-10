@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2018 068484-1",
+    "filingDate": "12/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE PARADA DE EMERG\u00caNCIA DE ELEVADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17306189.6",
+            "priorityDate": "15/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "ANTOINE ADRIAN BLANCHARD",
+        "EMMANUEL CONVARD",
+        "ARNAUD CAZ\u00c9"
+    ],
+    "holders": [
+        28010
+    ],
+    "ipcCodes": [
+        "B66B 5/12"
+    ]
+}

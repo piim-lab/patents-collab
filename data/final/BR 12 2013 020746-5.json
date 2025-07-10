@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 12 2013 020746-5",
+    "filingDate": "26/09/2007",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O E M\u00c9TODO PARA REDUZIR OU ELIMINAR INCRUSTA\u00c7\u00d5ES EM UM PROCESSO INDUSTRIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/829411",
+            "priorityDate": "13/10/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/09/2007",
+        "applicationNumber": "PI 0717827-1"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        }
+    ],
+    "inventors": [
+        "HOWARD I HEITNER",
+        "DONALD P SPITZER"
+    ],
+    "holders": [
+        82695
+    ],
+    "ipcCodes": [
+        "C02F 1/00"
+    ]
+}

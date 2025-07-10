@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 10 2019 024374-0",
+    "filingDate": "19/11/2019",
+    "grantDate": null,
+    "title": "PROCESSO DE VERIFICA\u00c7\u00c3O DA INTEGRIDADE DE PROCEDIMENTOS QUE ENVOLVAM O DEP\u00d3SITO OU ENVIO DE UM CONJUNTO DE INFORMA\u00c7\u00d5ES OU OBJETOS E POSTERIOR PUBLICA\u00c7\u00c3O DOS MESMOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "JEROEN ANTONIUS MARIA VAN DE GRAAF",
+        "RUI FILIPE LOPES JOAQUIM",
+        "ALEJANDRO HEVIA ANGULO",
+        "PETER YVAIN ANTHONY RYAN"
+    ],
+    "holders": [
+        53943,
+        53942,
+        231
+    ],
+    "ipcCodes": [
+        "H04L 9/32"
+    ]
+}

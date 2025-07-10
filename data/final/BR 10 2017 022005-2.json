@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2017 022005-2",
+    "filingDate": "11/10/2017",
+    "grantDate": null,
+    "title": "BATENTE DE LIMITE DUPLO INTERNO AJUST\u00c1VEL PARA VENEZIANAS DE ROLO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/408,291",
+            "priorityDate": "14/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "STEPHEN P SMITH",
+        "KENNETH M FALLER"
+    ],
+    "holders": [
+        8928
+    ],
+    "ipcCodes": [
+        "E06B 9/24",
+        "E06B 9/262",
+        "E06B 9/17",
+        "E06B 9/388"
+    ]
+}

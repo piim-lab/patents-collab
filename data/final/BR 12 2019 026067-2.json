@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2019 026067-2",
+    "filingDate": "20/01/2012",
+    "grantDate": null,
+    "title": "ESTRUTURA DE PR\u00c9-FORMA TECIDA E PR\u00c9-FORMA TECIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/011,633",
+            "priorityDate": "21/01/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/01/2012",
+        "applicationNumber": "BR 11 2013 017524-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "JONATHAN GOERING",
+        "KEITH EDWARD BURGESS"
+    ],
+    "holders": [
+        85727
+    ],
+    "ipcCodes": [
+        "B29D 99/00",
+        "B29C 70/22",
+        "B29L 31/60",
+        "B29B 11/16"
+    ]
+}

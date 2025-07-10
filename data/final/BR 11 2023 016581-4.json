@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2023 016581-4",
+    "filingDate": "19/02/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE COMPUTA\u00c7\u00c3O COM COMBINA\u00c7\u00c3O DE ANTENA",
+    "nationalPhaseDate": [
+        "17/08/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2022/017112",
+        "pctDate": "19/02/2022",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/151,512",
+            "priorityDate": "19/02/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/160,902",
+            "priorityDate": "14/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "GARRETT EDWARD KINSMAN",
+        "LUCIEN JEAN BAPTISTE LOISEAU",
+        "ELIOTT QUENTIN ERIC TEISSONNIERE",
+        "MICHA ANTHENOR BENOLIEL"
+    ],
+    "holders": [
+        256095
+    ],
+    "ipcCodes": [
+        "H01Q 1/24",
+        "H01Q 1/22",
+        "H01Q 1/44"
+    ]
+}

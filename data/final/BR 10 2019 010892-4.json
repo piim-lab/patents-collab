@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 010892-4",
+    "filingDate": "28/05/2019",
+    "grantDate": null,
+    "title": "TAMBOR DE CABO RASTRE\u00c1VEL, E, KIT PARA TAMBOR DE CABO RASTRE\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000005845",
+            "priorityDate": "30/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "FABIO ABBIATI",
+        "DAVIDE FASSONE",
+        "ANTONINO ARENA"
+    ],
+    "holders": [
+        2136
+    ],
+    "ipcCodes": [
+        "G06Q 50/28",
+        "B65H 75/34"
+    ]
+}

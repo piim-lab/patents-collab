@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 21 2015 017654-8",
+    "filingDate": "27/01/2014",
+    "grantDate": null,
+    "title": "APARELHO PARA DISTRIBUI\u00c7\u00c3O DE VEDANTE DE PNEU",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 100 738.4",
+            "priorityDate": "25/01/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/837.857",
+            "priorityDate": "15/03/2013"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 100 815.4",
+            "priorityDate": "24/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        }
+    ],
+    "inventors": [
+        "MARTIN PATRICK SPINDLER",
+        "BYRON PETER HUTTEN",
+        "HENRY FRIEDRICH FERDINAND KLEMM",
+        "VOLKER PFEIFER"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": [
+        "B29C 73/16"
+    ]
+}

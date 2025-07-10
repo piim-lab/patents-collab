@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 001003-4",
+    "filingDate": "17/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E COMPOSI\u00c7\u00c3O PARA INIBIR CORROS\u00c3O EM UM SUBSTRATO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/410,140",
+            "priorityDate": "19/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2747"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "PATRICK JOHN KINLEN",
+        "WAYNIE MARK SCHUETTE",
+        "LUCIA PINHEIRO SANTOS PIMENTA",
+        "CATHERINE JANE PARRISH"
+    ],
+    "holders": [
+        1208,
+        231
+    ],
+    "ipcCodes": [
+        "C23F 11/10"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 012753-8",
+    "filingDate": "19/06/2019",
+    "grantDate": null,
+    "title": "DESATIVA\u00c7\u00c3O AUTOM\u00c1TICA DE LUZ DE SETA BASEADA EM C\u00c2MERA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/021,483",
+            "priorityDate": "28/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2802"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "JOSEF LOTZ"
+    ],
+    "holders": [
+        2038
+    ],
+    "ipcCodes": [
+        "B60Q 1/34",
+        "B60Q 1/38",
+        "B60Q 1/40"
+    ]
+}

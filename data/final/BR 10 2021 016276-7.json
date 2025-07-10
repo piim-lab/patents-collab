@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 10 2021 016276-7",
+    "filingDate": "17/08/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE CONEX\u00c3O SEM FIO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        }
+    ],
+    "inventors": [
+        "TAKASHI NISHIMURA"
+    ],
+    "holders": [
+        6768
+    ],
+    "ipcCodes": [
+        "H04W 4/02",
+        "H04W 64/00"
+    ]
+}

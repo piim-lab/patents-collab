@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2017 016463-2",
+    "filingDate": "31/07/2017",
+    "grantDate": null,
+    "title": "PO\u00c7O DE ALIMENTA\u00c7\u00c3O APRESENTANDO PLACAS TORCIDAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/369,947",
+            "priorityDate": "02/08/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/659,441",
+            "priorityDate": "25/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "LINDSAY BRANDINO RAWLS"
+    ],
+    "holders": [
+        3041
+    ],
+    "ipcCodes": [
+        "B01D 21/00",
+        "B01D 21/08",
+        "B01D 21/24",
+        "B01D 21/06"
+    ]
+}

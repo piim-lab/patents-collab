@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2013 009945-3",
+    "filingDate": "27/10/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA REFINA\u00c7\u00c3O DE \u00d3LEO BRUTO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2010A001999",
+            "priorityDate": "27/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "GIACOMO FERNANDO RISPOLI",
+        "GIUSEPPE BELLUSSI"
+    ],
+    "holders": [
+        85959
+    ],
+    "ipcCodes": [
+        "C10G 47/26",
+        "C10G 49/12",
+        "C10G 45/16",
+        "C10G 65/14",
+        "C10G 67/16",
+        "C10G 69/14"
+    ]
+}

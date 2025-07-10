@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2019 010866-5",
+    "filingDate": "28/05/2019",
+    "grantDate": null,
+    "title": "UM ANTICORPO HUMANIZADO ANTI-IFN-ALFA2B",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "P 20180101402",
+            "priorityDate": "28/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "CAROLINA VER\u00d3NICA ATTALLAH",
+        "MARINA ETCHEVERRIGARAY",
+        "MARCOS RAFAEL OGGERO EBERHARDT",
+        "MAR\u00cdA FERNANDA AGUILAR",
+        "MARCELO DE MACEDO BR\u00cdGIDO",
+        "ANDREA QUEIROZ MARANH\u00c3O",
+        "ALBERTO SERGIO GARAY",
+        "DANIEL ENRIQUE RODRIGUES",
+        "FERNANDO HENRIQUE HERRERA"
+    ],
+    "holders": [
+        49122,
+        1051,
+        49123
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61P 37/00",
+        "C07K 16/24"
+    ]
+}

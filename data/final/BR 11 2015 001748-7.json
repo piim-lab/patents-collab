@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2015 001748-7",
+    "filingDate": "23/07/2013",
+    "grantDate": null,
+    "title": "Conjunto de filtro",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/675,679",
+            "priorityDate": "25/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "STEVEN J MERRITT",
+        "FARRELL CALCATERRA"
+    ],
+    "holders": [
+        113273
+    ],
+    "ipcCodes": [
+        "B01D 46/24",
+        "F24F 13/20",
+        "B01D 46/42",
+        "F02M 33/00"
+    ]
+}

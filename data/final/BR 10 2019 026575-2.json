@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2019 026575-2",
+    "filingDate": "13/12/2019",
+    "grantDate": null,
+    "title": "ATUADOR, E, AERONAVE.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19306070.4",
+            "priorityDate": "04/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "RAPHAEL MEDINA",
+        "RUI AMARAL"
+    ],
+    "holders": [
+        19336
+    ],
+    "ipcCodes": [
+        "B64C 13/28",
+        "B64C 9/00",
+        "B64C 13/00",
+        "B64C 5/10"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2012 029719-8",
+    "filingDate": "25/05/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REDUZIR A CONGEST\u00c3O NUMA REDE CELULAR SEM FIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/348,022",
+            "priorityDate": "25/05/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/381,159",
+            "priorityDate": "09/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/435,564",
+            "priorityDate": "24/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "GREGORY G RALEIGH",
+        "ALI RAISSINIA",
+        "JAMES LAVINE"
+    ],
+    "holders": [
+        103596
+    ],
+    "ipcCodes": [
+        "G01R 31/08"
+    ]
+}

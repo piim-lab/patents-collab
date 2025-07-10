@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2019 000234-4",
+    "filingDate": "07/01/2019",
+    "grantDate": null,
+    "title": "VE\u00cdCULO DE DIRIGIR MONTADO EM SELIM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-022571",
+            "priorityDate": "09/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "HIROSHI TADOKORO",
+        "CHIKASHI TAKIGUCHI",
+        "HIROSHI TADOKORO",
+        "KATSUHIRO UTSUGI",
+        "YASUHIRO MORIMOTO",
+        "YOSHIYUKI IKEBE",
+        "CHIKASHI TAKIGUCHI",
+        "TATSUYA SEIJI",
+        "SHOHEI MIURA",
+        "TOSHIHIRO KUBO",
+        "SHINYA KOYAMA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "F02M 35/16"
+    ]
+}

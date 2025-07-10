@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2018 073842-9",
+    "filingDate": "21/11/2018",
+    "grantDate": null,
+    "title": "INSTALA\u00c7\u00c3O DE DOSAGEM PARA PRODUTOS EM P\u00d3",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102017000134672",
+            "priorityDate": "23/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "PAOLO DE BONA",
+        "GIANLUCA COCCOLO"
+    ],
+    "holders": [
+        43867
+    ],
+    "ipcCodes": [
+        "B01F 3/18",
+        "G01F 13/00",
+        "B01F 11/00"
+    ]
+}

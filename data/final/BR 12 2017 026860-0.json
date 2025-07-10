@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2017 026860-0",
+    "filingDate": "13/03/2009",
+    "grantDate": null,
+    "title": "PROCESSO PARA FORMAR UM INGREDIENTE REAL\u00c7ADOR DE SAL, COMPOSI\u00c7\u00c3O DE SABOR PARA PRODUTOS ALIMENT\u00cdCIOS, PRODUTO ALIMENT\u00cdCIO E M\u00c9TODO PARA SEU FORNECIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/037,064",
+            "priorityDate": "17/03/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/03/2009",
+        "applicationNumber": "PI 0908725-7"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "TARUN BHOWMIK",
+        "STEFKA IVANOVA MYAKA",
+        "JOHAN PETER VAN LEERSUM",
+        "ROY WADE SMITH"
+    ],
+    "holders": [
+        92015
+    ],
+    "ipcCodes": [
+        "A23L 27/40"
+    ]
+}

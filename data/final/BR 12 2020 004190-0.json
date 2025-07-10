@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2020 004190-0",
+    "filingDate": "16/09/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA SECAR G\u00c1S COMPRIMIDO",
+    "divisionalApplication": {
+        "filingDate": "16/09/2014",
+        "applicationNumber": "BR 11 2016 006094-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.2.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2705"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        33201
+    ],
+    "ipcCodes": []
+}

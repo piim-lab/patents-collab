@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2020 014750-1",
+    "filingDate": "20/07/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE SUSPENS\u00c3O DE LAN\u00c7A, E, SUSPENS\u00c3O DE LAN\u00c7A",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/519,991",
+            "priorityDate": "23/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        }
+    ],
+    "inventors": [
+        "GARRY E BAXTER",
+        "BRADLEY J HITCHLER"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "E02F 9/14"
+    ]
+}

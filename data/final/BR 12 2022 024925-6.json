@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2022 024925-6",
+    "filingDate": "17/10/2016",
+    "grantDate": "28/11/2023",
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA DE LIBERA\u00c7\u00c3O PROLONGADA COMPREENDENDO (3S,4R)-3-ETIL-4-(3H-IMIDAZO[1,2-A]PIRROLO[2,3-E]PIRAZIN-8-IL)-N-(2,2,2-TRIFLUOROETIL)PIRROLI-DINA-1-CARBOXAMIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/242,797",
+            "priorityDate": "16/10/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/267,672",
+            "priorityDate": "15/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/301,537",
+            "priorityDate": "29/02/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/352,380",
+            "priorityDate": "20/06/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/10/2016",
+        "applicationNumber": "BR 11 2018 007677-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "205",
+            "description": "Intima\u00e7\u00e3o para manifesta\u00e7\u00e3o por parte do titular e do requerente",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        12773
+    ],
+    "ipcCodes": []
+}

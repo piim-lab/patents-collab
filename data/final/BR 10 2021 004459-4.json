@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 004459-4",
+    "filingDate": "09/03/2021",
+    "grantDate": null,
+    "title": "CABO REMOV\u00cdVEL EQUIPADO COM UMA TRAVA M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR2003105",
+            "priorityDate": "30/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "MICHEL MONTGELARD"
+    ],
+    "holders": [
+        1056
+    ],
+    "ipcCodes": [
+        "A47J 45/07",
+        "A47J 45/10",
+        "A47J 27/00"
+    ]
+}

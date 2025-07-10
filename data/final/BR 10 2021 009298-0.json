@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 009298-0",
+    "filingDate": "13/05/2021",
+    "grantDate": null,
+    "title": "ACABAMENTO ANTIMICROBIANO \u00c0 BASE DE COBRE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/024,096",
+            "priorityDate": "13/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2785"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "PATRICK SULLIVAN",
+        "BRYCE ANTON",
+        "AUGUSTO KUNRATH"
+    ],
+    "holders": [
+        49833
+    ],
+    "ipcCodes": [
+        "A01P 1/00",
+        "A01N 59/20"
+    ]
+}

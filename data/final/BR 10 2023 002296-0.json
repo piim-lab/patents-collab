@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2023 002296-0",
+    "filingDate": "07/02/2023",
+    "grantDate": null,
+    "title": "ESTRUTURA DE PROTE\u00c7\u00c3O PARA VE\u00cdCULO PARA CONDUZIR MONTADO EM SELIM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-061273",
+            "priorityDate": "31/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "SUGURU KANDA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "F16K 31/06",
+        "B62K 11/00",
+        "B60K 15/03",
+        "F02M 25/08"
+    ]
+}

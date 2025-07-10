@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2014 029264-7",
+    "filingDate": "12/04/2013",
+    "grantDate": "05/01/2021",
+    "title": "MICROC\u00c1PSULAS COM REVESTIMENTO INSOL\u00daVEL EM \u00c1GUA CONTENDO UM ATIVO OXID\u00c1VEL E UM PROCESSO PARA PREPAR\u00c1-LAS EMPREGANDO APENAS PULVERIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12305434.8",
+            "priorityDate": "12/04/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/623.210",
+            "priorityDate": "12/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "PIERRE BUISSON",
+        "CARINE CHAIGNEAU",
+        "EUDES VENDEVILLE"
+    ],
+    "holders": [
+        147133
+    ],
+    "ipcCodes": [
+        "A23D 9/00"
+    ]
+}

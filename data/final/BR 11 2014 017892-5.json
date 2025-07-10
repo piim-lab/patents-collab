@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 017892-5",
+    "filingDate": "29/01/2013",
+    "grantDate": "07/05/2019",
+    "title": "COMPOSI\u00c7\u00c3O PARA O TRATAMENTO DO CABELO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12305117.9",
+            "priorityDate": "31/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "MICHEL BLONDEL",
+        "CHRISTOPHER JOHN ROBERTS"
+    ],
+    "holders": [
+        79409
+    ],
+    "ipcCodes": [
+        "A61K 8/81",
+        "A61Q 5/00"
+    ]
+}

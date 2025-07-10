@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2013 022812-1",
+    "filingDate": "06/03/2012",
+    "grantDate": "22/01/2019",
+    "title": "A\u00c7O INOXID\u00c1VEL DUPLEX",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-052502",
+            "priorityDate": "10/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "SHINNOSUKE KURIHARA",
+        "HIDEKI TAKABE",
+        "HISASHI AMAYA",
+        "KAZUHIRO OGAWA",
+        "JAMES OLIVER",
+        "JAN Y JONSSON",
+        "JAMES OLIVER",
+        "JAN Y JONSSON"
+    ],
+    "holders": [
+        102625,
+        188,
+        61
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C22C 38/02",
+        "C22C 38/04",
+        "C22C 38/42",
+        "C22C 38/44",
+        "C22C 38/58"
+    ]
+}

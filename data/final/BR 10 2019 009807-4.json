@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 009807-4",
+    "filingDate": "14/05/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA CONTROLAR A OPERA\u00c7\u00c3O DE ASPERSORES AGR\u00cdCOLAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/979.739",
+            "priorityDate": "15/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        }
+    ],
+    "inventors": [
+        "KEVIN M SMITH",
+        "TREVOR STANHOPE"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01M 7/00"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2020 018275-0",
+    "filingDate": "02/07/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE V\u00cdDEO PARA CODIFICAR DADOS DE V\u00cdDEO POR MEIO DA CODIFICA\u00c7\u00c3O PREDITIVA INTERQUADROS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-148849",
+            "priorityDate": "02/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/07/2013",
+        "applicationNumber": "BR 10 2013 017036-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "KIMIHIKO KAZUI",
+        "SATOSHI SHIMADA",
+        "JUNPEI KOYAMA"
+    ],
+    "holders": [
+        1953
+    ],
+    "ipcCodes": [
+        "H04N 19/70",
+        "G11B 27/031",
+        "H04N 21/44"
+    ]
+}

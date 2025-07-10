@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 072812-1",
+    "filingDate": "06/11/2018",
+    "grantDate": null,
+    "title": "SISTEMA PARA DESABILITAR TAMBOR DE FRESAGEM DE M\u00c1QUINA DE FRESAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/582.715",
+            "priorityDate": "07/11/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/139.273",
+            "priorityDate": "24/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2666"
+        }
+    ],
+    "inventors": [
+        "TODD AVANS",
+        "JAMES H BEVILL",
+        "DAVID SWEARINGEN"
+    ],
+    "holders": [
+        43404
+    ],
+    "ipcCodes": [
+        "E01C 23/088",
+        "G01L 1/22",
+        "G01G 19/12"
+    ]
+}

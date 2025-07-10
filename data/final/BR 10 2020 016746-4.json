@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 016746-4",
+    "filingDate": "17/08/2020",
+    "grantDate": null,
+    "title": "M\u00c1QUINA AGR\u00cdCOLA, E, M\u00c9TODO REALIZADO POR UMA M\u00c1QUINA AGR\u00cdCOLA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/670,312",
+            "priorityDate": "31/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "CARY S HUBNER",
+        "MATT D BARTELSON",
+        "ERICK D ESPING",
+        "SCOTT C JOHNSON",
+        "LAUREN M WHITE",
+        "DOUGLAS J OLSON"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 7/20"
+    ]
+}

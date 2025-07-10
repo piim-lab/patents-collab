@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2019 028274-9",
+    "filingDate": "27/11/2012",
+    "grantDate": "19/01/2021",
+    "title": "CIRCUITO DE ASPIRA\u00c7\u00c3O PARA UM SISTEMA DE FLUIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/568,220",
+            "priorityDate": "08/12/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/11/2012",
+        "applicationNumber": "BR 11 2014 013812-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "MEL MATTHEW OLIVEIRA",
+        "GARY P SORENSEN",
+        "MICHAEL D MORGAN",
+        "MEL MATTHEW OLIVEIRA",
+        "GARY P SORENSEN",
+        "MICHAEL D MORGAN"
+    ],
+    "holders": [
+        92010,
+        12581
+    ],
+    "ipcCodes": [
+        "A61M 1/00"
+    ]
+}

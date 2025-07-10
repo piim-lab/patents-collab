@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2022 013637-8",
+    "filingDate": "08/07/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO PARA CORTAR TAMPAS PARA RECIPIENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102021000019310",
+            "priorityDate": "21/07/2021"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102022000008678",
+            "priorityDate": "29/04/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "DAVIDE PENAZZI",
+        "MATTEO VENTURINI",
+        "RUGGERO MENZOLINI"
+    ],
+    "holders": [
+        39828
+    ],
+    "ipcCodes": [
+        "B26D 1/14",
+        "B26D 3/16"
+    ]
+}

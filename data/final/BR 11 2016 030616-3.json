@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2016 030616-3",
+    "filingDate": "23/06/2015",
+    "grantDate": null,
+    "title": "DISPOSITIVO E PROCESSO PARA  A SEPARA\u00c7\u00c3O DE MATERIAL EM FOLHAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14175196.6",
+            "priorityDate": "01/07/2014"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14196274.6",
+            "priorityDate": "04/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        }
+    ],
+    "inventors": [
+        "MATHIAS LOCHBICHLER",
+        "CHRISTOPHER LANKEIT",
+        "MARTIN LANDWEHR",
+        "LUDGER HOISCHEN"
+    ],
+    "holders": [
+        135597
+    ],
+    "ipcCodes": [
+        "B65H 5/00",
+        "B65H 3/02"
+    ]
+}

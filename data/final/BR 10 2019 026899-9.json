@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2019 026899-9",
+    "filingDate": "17/12/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE DETEC\u00c7\u00c3O DE FOLGA EM UM ELEMENTO TRANSMISS\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "MARTIN MARCELO LEDER",
+        "HELDREY DA COSTA MACIEL"
+    ],
+    "holders": [
+        2559
+    ],
+    "ipcCodes": [
+        "G01L 5/06",
+        "B62M 9/16",
+        "G01L 5/26"
+    ]
+}

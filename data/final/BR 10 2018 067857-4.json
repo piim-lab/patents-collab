@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2018 067857-4",
+    "filingDate": "05/09/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO INDICADOR PARA IDENTIFICA\u00c7\u00c3O DE ASSENTO E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017008465.3",
+            "priorityDate": "08/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "STEFAN M\u00dcLLER"
+    ],
+    "holders": [
+        11520
+    ],
+    "ipcCodes": [
+        "B65G 69/22"
+    ]
+}

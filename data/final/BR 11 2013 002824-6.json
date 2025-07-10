@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2013 002824-6",
+    "filingDate": "29/10/2010",
+    "grantDate": "22/10/2019",
+    "title": "DOBRADI\u00c7A DE TORQUE AJUST\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "099126071",
+            "priorityDate": "05/08/2010"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201010273481.5",
+            "priorityDate": "07/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "8.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "8.5",
+            "description": "Exig\u00eancia de Complementa\u00e7\u00e3o da Retribui\u00e7\u00e3o Anual",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "WATERSON CHEN"
+    ],
+    "holders": [
+        108032,
+        108031
+    ],
+    "ipcCodes": [
+        "E05F 1/12"
+    ]
+}

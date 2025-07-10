@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2019 000231-0",
+    "filingDate": "07/01/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O, M\u00c9TODO, E MEIO DE ARMAZENAMENTO DE PROGRAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-002759",
+            "priorityDate": "11/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "HIDEKI KOBAYASHI",
+        "AKIHIRO MUGURUMA",
+        "YUKIYA SUGIYAMA",
+        "SHOTA HIGASHIHARA",
+        "RIHO MATSUO",
+        "NAOKI YAMAMURO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G10L 15/00",
+        "G10L 17/00"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2014 007357-0",
+    "filingDate": "09/03/2012",
+    "grantDate": null,
+    "title": "M\u00e9todos para determinar o ajuste da dosagem de um f\u00e1rmaco de varredura de nitrog\u00eanio",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/542,100",
+            "priorityDate": "30/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/564,668",
+            "priorityDate": "29/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "BRUCE SCHARSCHMIDT",
+        "MASOUD MOKHTARANI"
+    ],
+    "holders": [
+        133958
+    ],
+    "ipcCodes": [
+        "A61K 49/00"
+    ]
+}

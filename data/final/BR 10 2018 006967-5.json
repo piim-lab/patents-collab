@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 006967-5",
+    "filingDate": "06/04/2018",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE DETEC\u00c7\u00c3O DE VIBRA\u00c7\u00c3O DE TR\u00caS PONTOS COM RESTRI\u00c7\u00c3O EXATA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/483,302",
+            "priorityDate": "10/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/837,443",
+            "priorityDate": "11/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2758"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        37571
+    ],
+    "ipcCodes": []
+}

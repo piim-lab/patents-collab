@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 20 2021 001879-3",
+    "filingDate": "01/02/2021",
+    "grantDate": null,
+    "title": "AJUSTE PARA UM BARRIL DE PET",
+    "priorityClaims": [
+        {
+            "countryCode": "RU",
+            "priorityNumber": "2020113504",
+            "priorityDate": "14/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "KNYAZEV SERGEY VLADIMIROVICH"
+    ],
+    "holders": [
+        76241,
+        76242,
+        76243,
+        76244,
+        76245
+    ],
+    "ipcCodes": [
+        "B67D 1/04"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2017 012025-9",
+    "filingDate": "29/12/2015",
+    "grantDate": null,
+    "title": "EMULS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/097,359",
+            "priorityDate": "29/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "YOENJUNG LEE",
+        "STACY A MUNDSCHAU",
+        "SCOTT W WENZEL",
+        "JEFFERY R SEIDLING"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "A61K 8/92",
+        "A61K 8/06",
+        "A61K 8/19",
+        "A61K 8/04",
+        "A61K 8/73"
+    ]
+}

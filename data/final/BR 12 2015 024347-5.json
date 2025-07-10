@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2015 024347-5",
+    "filingDate": "07/01/2005",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA SELE\u00c7\u00c3O DE UMA COMBINA\u00c7\u00c3O DE FORMATOS DE TRANSPORTE EM UMA UNIDADE DE TRANSMISS\u00c3O E RECEP\u00c7\u00c3O SEM FIO, E UNIDADE DE TRANSMISS\u00c3O E RECEP\u00c7\u00c3O SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/535,426",
+            "priorityDate": "09/01/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/019,489",
+            "priorityDate": "22/12/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/01/2005",
+        "applicationNumber": "PI 0506455-4"
+    },
+    "events": [
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        }
+    ],
+    "inventors": [
+        "GUODONG ZHANG",
+        "STEPHEN E TERRY",
+        "STEPHEN G DICK"
+    ],
+    "holders": [
+        588
+    ],
+    "ipcCodes": [
+        "H04W 52/14",
+        "H04W 52/34"
+    ]
+}

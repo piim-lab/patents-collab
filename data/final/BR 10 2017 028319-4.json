@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2017 028319-4",
+    "filingDate": "27/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA IDENTIFICAR UMA PARTE DE UM VE\u00cdCULO E SISTEMA DE INSPE\u00c7\u00c3O DE VE\u00cdCULOS",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201611236364.5",
+            "priorityDate": "28/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "YANWEI XU",
+        "ZHENG HU",
+        "YONGMING WANG",
+        "CHUAN GAO",
+        "WEIFENG YU",
+        "QIANG LI",
+        "YUAN MA",
+        "JIANPING GU",
+        "YU HU",
+        "SHANGMIN SUN"
+    ],
+    "holders": [
+        12100
+    ],
+    "ipcCodes": [
+        "G01N 21/88",
+        "G06Q 99/00",
+        "G01N 21/95"
+    ]
+}

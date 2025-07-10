@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2020 010527-5",
+    "filingDate": "30/09/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES COMPREENDENDO GRAFITE HIDROGENADA E DESIDROGENADA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 202 202.4",
+            "priorityDate": "12/02/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/09/2016",
+        "applicationNumber": "BR 11 2018 016389-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "REN\u00c9 HOFFMANN",
+        "CHRISTOPH E NEBEL",
+        "SARAH ROSCHER"
+    ],
+    "holders": [
+        222008
+    ],
+    "ipcCodes": [
+        "H01M 4/587",
+        "C25B 1/00"
+    ]
+}

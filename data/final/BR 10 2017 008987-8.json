@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 10 2017 008987-8",
+    "filingDate": "28/04/2017",
+    "grantDate": null,
+    "title": "APARELHO PARA TRATAR PRODUTOS FLUIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 115 817.8",
+            "priorityDate": "25/08/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "MARIO REDA",
+        "ROG\u00c9RIO DIEL"
+    ],
+    "holders": [
+        22748
+    ],
+    "ipcCodes": [
+        "F04B 9/12",
+        "B08B 9/035",
+        "F04F 3/00"
+    ]
+}

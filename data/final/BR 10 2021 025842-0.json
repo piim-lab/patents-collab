@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2021 025842-0",
+    "filingDate": "20/12/2021",
+    "grantDate": null,
+    "title": "BOCAL PARA DISPENSAR UM PRODUTO ALIMENT\u00cdCIO (F)LUIDO E M\u00c9TODO PARA DISTRIBUI\u00c7\u00c3O DE UM PRODUTO ALIMENT\u00cdCIO (F)LUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000031658",
+            "priorityDate": "21/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "VLADIMIR VIKTOROV",
+        "CARMEN VISCONTE",
+        "MARCO LONGO"
+    ],
+    "holders": [
+        346,
+        73026
+    ],
+    "ipcCodes": [
+        "A23G 9/28"
+    ]
+}

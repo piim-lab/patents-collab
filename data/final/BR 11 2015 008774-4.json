@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2015 008774-4",
+    "filingDate": "14/10/2013",
+    "grantDate": null,
+    "title": "Placas, m\u00e9todos para fazer as referidas placas e pasta fluida",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/717,588",
+            "priorityDate": "23/10/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/835,002",
+            "priorityDate": "15/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/044,582",
+            "priorityDate": "02/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "YIJUN SANG",
+        "CHRIS C LEE",
+        "CESAR CHAN",
+        "WEIXIN D SONG"
+    ],
+    "holders": [
+        82584
+    ],
+    "ipcCodes": [
+        "C08B 30/14"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2022 027031-0",
+    "filingDate": "17/07/2015",
+    "grantDate": null,
+    "title": "USO DE COMPOSTOS PARA A PREPARA\u00c7\u00c3O DE COMPOSI\u00c7\u00d5ES PARA O TRATAMENTO DE DESORDENS INFLAMAT\u00d3RIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14306164.6",
+            "priorityDate": "17/07/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/07/2015",
+        "applicationNumber": "BR 11 2017 000682-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "JAMAL TAZI",
+        "ROMAIN NAJMAN",
+        "FLORENCE MAHUTEAU",
+        "DIDIER SCHERRER",
+        "KARIM CHEBLI",
+        "MICHAEL HAHNE"
+    ],
+    "holders": [
+        116753,
+        116754,
+        48954,
+        115001
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61P 25/00",
+        "A61P 1/00",
+        "A61P 19/02",
+        "C12Q 1/68",
+        "A61K 31/497",
+        "A61K 31/47",
+        "G01N 33/50",
+        "A61K 31/4709",
+        "A61K 31/5377",
+        "C07D 215/38"
+    ]
+}

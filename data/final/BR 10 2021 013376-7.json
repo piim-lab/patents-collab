@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 013376-7",
+    "filingDate": "06/07/2021",
+    "grantDate": null,
+    "title": "DISPOSITIVO E M\u00c9TODO DE SOLDAGEM ROTATIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102020000016210",
+            "priorityDate": "06/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "ANDREA DUCHINI",
+        "ALDO FUSAR POLI",
+        "MATTEO PIANTONI",
+        "GABRIELE RESMINI",
+        "MARCO ROSANI",
+        "MAURIZIO SPATTI"
+    ],
+    "holders": [
+        68730
+    ],
+    "ipcCodes": [
+        "B23K 20/02",
+        "B23K 101/16",
+        "B23K 103/00"
+    ]
+}

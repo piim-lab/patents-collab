@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2016 022466-3",
+    "filingDate": "25/07/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CODIFICAR UM SINAL SONORO, M\u00c9TODO PARA DECODIFICAR UM SINAL SONORO, DISPOSITIVO PARA CODIFICAR UM SINAL SONORO E DISPOSITIVO PARA DECODIFICAR UM SINAL SONORO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/980,865",
+            "priorityDate": "17/04/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "REDWAN SALAMI",
+        "VACLAV EKSLER"
+    ],
+    "holders": [
+        180492
+    ],
+    "ipcCodes": [
+        "G10L 19/06",
+        "G10L 19/12",
+        "G10L 19/26"
+    ]
+}

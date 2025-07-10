@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2015 023030-0",
+    "filingDate": "24/02/2014",
+    "grantDate": null,
+    "title": "INDICADOR DE ESTERILIZA\u00c7\u00c3O E PROCESSO DE ESTERILIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/832,019",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "PHILLIP P FRANCISKOVICH",
+        "TRICIA A CREGGER",
+        "WILLIAM A YIRAVA"
+    ],
+    "holders": [
+        85519
+    ],
+    "ipcCodes": [
+        "G01N 33/52",
+        "C12Q 1/22",
+        "C12N 15/75"
+    ]
+}

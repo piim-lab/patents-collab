@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2018 009878-7",
+    "filingDate": "05/10/2016",
+    "grantDate": null,
+    "title": "?MECANISMO DE RODA LIVRE?",
+    "nationalPhaseDate": [
+        "16/05/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT PL2016/000112",
+        "pctDate": "05/10/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "PL",
+            "priorityNumber": "P.414846",
+            "priorityDate": "18/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [
+        "MIGASZEWSKI WIKTOR",
+        "MIGASZEWSKI FRANCISZEK",
+        "MIGASZEWSKI STEFAN"
+    ],
+    "holders": [
+        215450
+    ],
+    "ipcCodes": [
+        "F16D 41/063",
+        "F16D 41/28"
+    ]
+}

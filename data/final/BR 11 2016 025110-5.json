@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2016 025110-5",
+    "filingDate": "30/04/2015",
+    "grantDate": null,
+    "title": "GERENCIAMENTO DE PERFIL DE VOZ E GERA\u00c7\u00c3O DE SINAL DE FALA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/986,701",
+            "priorityDate": "30/04/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/700,009",
+            "priorityDate": "29/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "SHARATH MANJUNATH",
+        "DANIEL J SINDER"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "G10L 21/003",
+        "G10L 13/033"
+    ]
+}

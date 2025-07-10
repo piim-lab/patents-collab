@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 12 2018 004345-8",
+    "filingDate": "03/10/2007",
+    "grantDate": "27/11/2018",
+    "title": "INSTALA\u00c7\u00c3O DE PRODU\u00c7\u00c3O E PROCESSO DE PRODU\u00c7\u00c3O DE CHAPA DE A\u00c7O RECOZIDA AP\u00d3S GALVANIZA\u00c7\u00c3O POR IMERS\u00c3O A QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-280593",
+            "priorityDate": "13/10/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "03/10/2007",
+        "applicationNumber": "PI 0719196-0"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2551"
+        }
+    ],
+    "inventors": [
+        "HAJIME ONOZAWA",
+        "YOSHITAKA KIMURA",
+        "HAJIME ONOZAWA",
+        "YOSHITAKA KIMURA"
+    ],
+    "holders": [
+        61
+    ],
+    "ipcCodes": [
+        "C23C 2/06",
+        "C23C 2/28",
+        "C23C 2/00",
+        "C23C 2/16"
+    ]
+}

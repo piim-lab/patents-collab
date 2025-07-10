@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2019 003180-8",
+    "filingDate": "15/02/2019",
+    "grantDate": null,
+    "title": "PROCESSO E SISTEMA DE AN\u00c1LISE E GEST\u00c3O HIDROL\u00d3GICA PARA BACIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "20180100382",
+            "priorityDate": "16/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "28.10.1",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante idoso",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "ENRIQUE MENOTTI PESCARMONA"
+    ],
+    "holders": [
+        46586
+    ],
+    "ipcCodes": [
+        "G06F 17/00",
+        "G06Q 10/00",
+        "G01C 13/00"
+    ]
+}

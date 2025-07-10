@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 007495-4",
+    "filingDate": "15/04/2020",
+    "grantDate": null,
+    "title": "IMPLEMENTO AGR\u00cdCOLA, E, IMPLEMENTO PARA ATRAVESSAR UM CAMPO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/396,816",
+            "priorityDate": "29/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "RANDALL A MARO"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 63/114"
+    ]
+}

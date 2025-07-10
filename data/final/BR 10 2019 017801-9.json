@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2019 017801-9",
+    "filingDate": "27/08/2019",
+    "grantDate": null,
+    "title": "BOMBA MULTIF\u00c1SICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18194754.0",
+            "priorityDate": "17/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "MATTHEW BOURNE",
+        "MATTHEW BOURNE",
+        "NICHOLAS CZEMERYS",
+        "KAREL DE RAEVE",
+        "MARCO CARVALHO",
+        "THOMAS WELSCHINGER",
+        "KAREL DE RAEVE",
+        "BARTOSZ KUS",
+        "THOMAS WELSCHINGER"
+    ],
+    "holders": [
+        5589
+    ],
+    "ipcCodes": [
+        "F04D 29/66",
+        "F04D 31/00",
+        "F04D 29/057",
+        "F04D 29/05"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2020 026281-5",
+    "filingDate": "21/12/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE IDENTIFICA\u00c7\u00c3O DE COR DE PELE E RECOMENDA\u00c7\u00c3O DE BASE COSM\u00c9TICA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "MARCELA DAMAA DE SAN JUAN"
+    ],
+    "holders": [
+        64438
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "A61B 5/103",
+        "G06Q 30/06",
+        "A45D 44/00",
+        "G09G 5/02"
+    ]
+}

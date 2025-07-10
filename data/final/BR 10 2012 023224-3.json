@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2012 023224-3",
+    "filingDate": "14/09/2012",
+    "grantDate": "16/03/2021",
+    "title": "DISPOSITIVO EM UMA M\u00c1QUINA DE PREPARA\u00c7\u00c3O DE SALA DE FIA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 113 367.8",
+            "priorityDate": "15/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "THOMAS SCHMITZ",
+        "DIRK MEIER",
+        "PEER DUSCHNEIT",
+        "KONRAD TEMBURG",
+        "PEER DUSCHNEIT",
+        "KONRAD TEMBURG"
+    ],
+    "holders": [
+        3052
+    ],
+    "ipcCodes": [
+        "D01G 23/00",
+        "D01G 9/06",
+        "D01G 9/14"
+    ]
+}

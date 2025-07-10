@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2015 018613-0",
+    "filingDate": "21/01/2014",
+    "grantDate": null,
+    "title": "Distribuidor de fluxo para l\u00edquido descendente em uma coluna de processo verticalmente alongada",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/760,495",
+            "priorityDate": "04/02/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/155,746",
+            "priorityDate": "15/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "DARRAN MATTHEW HEADLEY",
+        "IZAK NIEUWOUDT",
+        "STEPHEN ANDREW PILE"
+    ],
+    "holders": [
+        115377
+    ],
+    "ipcCodes": [
+        "B01D 3/00",
+        "B01F 3/04"
+    ]
+}

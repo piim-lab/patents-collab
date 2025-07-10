@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2017 004862-4",
+    "filingDate": "10/03/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO, DISPOSITIVO E SISTEMA PARA DETERMINAR A LOCALIZA\u00c7\u00c3O DE FALHA DE UMA FALHA.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16161729.5",
+            "priorityDate": "22/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "CEZARY DZIENIS",
+        "ANDREAS JURISCH"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H02H 3/26"
+    ]
+}

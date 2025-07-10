@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2012 031558-7",
+    "filingDate": "10/06/2011",
+    "grantDate": "08/12/2020",
+    "title": "MEDI\u00c7\u00c3O COM ESPECTROMETRIA DE MASSA DAS RESIST\u00caNCIAS DE BETA-LACTAMASE.",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 023 452.4",
+            "priorityDate": "11/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "MARKUS KOSTRZEWA",
+        "KARSTEN MICHELMANN",
+        "KATRIN SPARBIER"
+    ],
+    "holders": [
+        104869
+    ],
+    "ipcCodes": [
+        "G01N 33/68",
+        "G01N 33/94",
+        "C12Q 1/34"
+    ]
+}

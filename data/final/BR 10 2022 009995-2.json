@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2022 009995-2",
+    "filingDate": "23/05/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERAR UMA TURBINA E\u00d3LICA E TURBINA E\u00d3LICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21 178 317.0",
+            "priorityDate": "08/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "J\u00d6RN BECKER"
+    ],
+    "holders": [
+        1622
+    ],
+    "ipcCodes": [
+        "F03D 80/40"
+    ]
+}

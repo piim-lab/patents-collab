@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 070220-3",
+    "filingDate": "01/10/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA ESTABELECER UM DESENHO-ALVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/722,706",
+            "priorityDate": "02/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "MARKUS WELSCHER",
+        "ROLAND SAUER",
+        "CHRISTOPH WINTER",
+        "RAY STEVEN SPRATT"
+    ],
+    "holders": [
+        15131
+    ],
+    "ipcCodes": [
+        "G02C 7/02",
+        "G02C 7/06"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2013 030828-1",
+    "filingDate": "30/05/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR UM EQUIVALENTE DE COURO CABELUDO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1154684",
+            "priorityDate": "30/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/492,383",
+            "priorityDate": "02/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        }
+    ],
+    "inventors": [
+        "KHALID BAKKAR"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "C12N 5/071"
+    ]
+}

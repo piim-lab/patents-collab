@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2021 026844-1",
+    "filingDate": "30/12/2021",
+    "grantDate": null,
+    "title": "ATUADOR PARA UMA V\u00c1LVULA DE OPERA\u00c7\u00c3O GIRAT\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/233,514",
+            "priorityDate": "18/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "ADRIAN OSCAR BUCCIARELLI",
+        "EMILIANO SCHIFRIN"
+    ],
+    "holders": [
+        73401
+    ],
+    "ipcCodes": [
+        "F16K 31/12",
+        "F16K 31/50",
+        "F16K 31/143"
+    ]
+}

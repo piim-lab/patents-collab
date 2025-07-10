@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2019 024250-7",
+    "filingDate": "18/11/2019",
+    "grantDate": null,
+    "title": "PROCESSO PARA ABASTECIMENTO DE COMBUST\u00cdVEIS EM VE\u00cdCULOS AUTOMOTORES",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "ANDRE MARCHETTI",
+        "RODRIGO MARCHETTI"
+    ],
+    "holders": [
+        53872,
+        53873
+    ],
+    "ipcCodes": [
+        "G06Q 20/20",
+        "G06Q 20/32",
+        "G06Q 20/16",
+        "G06Q 20/14"
+    ]
+}

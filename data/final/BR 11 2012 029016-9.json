@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2012 029016-9",
+    "filingDate": "18/05/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE REDU\u00c7\u00c3O DIRETA",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2010902162",
+            "priorityDate": "18/05/2010"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2010904167",
+            "priorityDate": "15/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "RODNEY JAMES DRY",
+        "JACQUES PILOTE"
+    ],
+    "holders": [
+        102396
+    ],
+    "ipcCodes": [
+        "C21B 13/00",
+        "C21B 11/08"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 005303-8",
+    "filingDate": "18/03/2019",
+    "grantDate": null,
+    "title": "INST\u00c2NCIAS FALHAS E CENSURADAS COM BASE NA ESTIMATIVA DE VIDA \u00daTIL RESTANTE (RUL) DAS ENTIDADES",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201821025626",
+            "priorityDate": "09/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "PANKAJ MALHOTRA",
+        "VISHNU TV",
+        "LOVEKESH VIG",
+        "GAUTAM SHROFF"
+    ],
+    "holders": [
+        873
+    ],
+    "ipcCodes": [
+        "G05B 23/02",
+        "G06F 11/22"
+    ]
+}

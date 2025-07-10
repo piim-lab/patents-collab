@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2019 019342-5",
+    "filingDate": "17/09/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE ARMAZENAMENTO E PREPARO DE COMIDAS E BEBIDAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/154,455",
+            "priorityDate": "08/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "CYNTHIA A VANDEWALL",
+        "ALBERTO DE ICAZA MURA",
+        "KIRSTEN M MCINTYRE",
+        "LEIGH ANN POPIK",
+        "RYAN J REESE",
+        "JOSEPH B LANE",
+        "CRAIG VOGEL"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 11/00",
+        "A23L 3/10",
+        "A47B 31/02",
+        "F25D 25/02",
+        "F25D 23/12",
+        "A47G 23/06"
+    ]
+}

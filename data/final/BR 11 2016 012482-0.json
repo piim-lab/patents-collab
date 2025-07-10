@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2016 012482-0",
+    "filingDate": "10/12/2014",
+    "grantDate": null,
+    "title": "COMPOSTO AROM\u00c1TICO, SEU USO, AGENTE E M\u00c9TODO DE CONTROLE DE PESTE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-256703",
+            "priorityDate": "12/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        }
+    ],
+    "inventors": [
+        "TAKAYUKI SHIODA"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": [
+        "A61P 33/00",
+        "A61P 33/14",
+        "A01P 3/00",
+        "A01N 43/56",
+        "A61P 33/10",
+        "A61K 31/415",
+        "C07D 231/12",
+        "C07D 231/22",
+        "C07D 231/14",
+        "C07D 231/16",
+        "C07D 231/20",
+        "C07D 231/18",
+        "C07D 231/28"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2020 025103-4",
+    "filingDate": "27/02/2018",
+    "grantDate": null,
+    "title": "Compostos, e composi\u00e7\u00e3o farmac\u00eautica ou medicamento compreendendo os mesmos",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17158326.3",
+            "priorityDate": "28/02/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/02/2018",
+        "applicationNumber": "BR 11 2019 017184-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "MICHAEL B\u00d6S"
+    ],
+    "holders": [
+        248768
+    ],
+    "ipcCodes": [
+        "A61P 27/16",
+        "A61K 31/381",
+        "C07D 333/24"
+    ]
+}

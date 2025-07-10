@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 006956-5",
+    "filingDate": "11/04/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE INSER\u00c7\u00c3O DE CARREGAMENTO DE PR\u00d3TESE DE VOZ F\u00c1CIL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/340,527",
+            "priorityDate": "07/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "KEVIN ALAN GLEN",
+        "DIMITRIOS STROUMPOULIS"
+    ],
+    "holders": [
+        55018
+    ],
+    "ipcCodes": [
+        "A61M 16/04",
+        "A61F 2/20"
+    ]
+}

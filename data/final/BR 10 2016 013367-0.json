@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2016 013367-0",
+    "filingDate": "09/06/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR E SISTEMA PARA DETERMINAR UM TEOR PERMISS\u00cdVEL DE UMIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/745,813",
+            "priorityDate": "22/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "SAHRUDINE APDALHALIEM",
+        "CHYUN CLIFF CHEN",
+        "WAEIL M ASHMAWI",
+        "KIMBERLY D MEREDITH"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G01N 25/56"
+    ]
+}

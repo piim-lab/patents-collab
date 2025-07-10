@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2020 015609-0",
+    "filingDate": "12/08/2004",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA DISTRIBUIR UM MEDICAMENTO PARA DENTRO DO CORPO DE UM PACIENTE POR INJE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/494,286",
+            "priorityDate": "12/08/2003"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/558,611",
+            "priorityDate": "02/04/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/08/2004",
+        "applicationNumber": "PI 0413539-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "CHRIS CINDRICH",
+        "RALPH SONDEREGGER",
+        "GLADE HOWELL",
+        "WESTON HARDING",
+        "ALEX LASTOVICH",
+        "LIONEL VEDRINE",
+        "CHRIS CINDRICH",
+        "RALPH SONDEREGGER",
+        "GLADE HOWELL",
+        "WESTON HARDING",
+        "ALEX LASTOVICH",
+        "LIONEL VEDRINE"
+    ],
+    "holders": [
+        79552
+    ],
+    "ipcCodes": [
+        "A61M 5/14"
+    ]
+}

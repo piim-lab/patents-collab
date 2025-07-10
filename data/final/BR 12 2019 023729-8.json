@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2019 023729-8",
+    "filingDate": "09/05/2013",
+    "grantDate": null,
+    "title": "USO DE COMBINA\u00c7\u00d5ES DE LISINA PLYSS2 E UM OU MAIS ANTIBI\u00d3TICOS",
+    "divisionalApplication": {
+        "filingDate": "09/05/2013",
+        "applicationNumber": "BR 11 2014 027842-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        146103
+    ],
+    "ipcCodes": []
+}

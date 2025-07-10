@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 003225-1",
+    "filingDate": "22/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE ORIENTA\u00c7\u00c3O DE CULTIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/817,202",
+            "priorityDate": "12/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "SAM R HELMICH",
+        "DAVID J GLASS"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "A01B 69/04",
+        "A01B 79/00",
+        "G05D 1/02"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2016 028102-4",
+    "filingDate": "30/11/2016",
+    "grantDate": null,
+    "title": "ROTOR PARA UM MOTOR COM ANEL DESLIZANTE E MOTOR COM ANEL DESLIZANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102015015679.9",
+            "priorityDate": "03/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "HEINZ POSSELT",
+        "MARCO KLEIS",
+        "CESAR LUIS PINTER"
+    ],
+    "holders": [
+        4605,
+        1173
+    ],
+    "ipcCodes": [
+        "H02K 3/51",
+        "H02K 13/02",
+        "H02K 17/22"
+    ]
+}

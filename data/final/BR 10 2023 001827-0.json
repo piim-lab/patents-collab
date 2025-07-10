@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2023 001827-0",
+    "filingDate": "31/01/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONTROLE DE UM VE\u00cdCULO TENDO UM SISTEMA DE CONDU\u00c7\u00c3O COM UM S\u00d3 PEDAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/591,177",
+            "priorityDate": "02/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "EDVIN GODO",
+        "BANUCHANDAR MUTHUKUMAR",
+        "FRANK FALCONE",
+        "AMEYA JATHAR"
+    ],
+    "holders": [
+        2335
+    ],
+    "ipcCodes": [
+        "B60T 1/10",
+        "B60T 7/02",
+        "B60T 8/32",
+        "B60T 7/12",
+        "B60L 7/18",
+        "B60L 7/26"
+    ]
+}

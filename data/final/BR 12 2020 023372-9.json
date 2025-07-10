@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 023372-9",
+    "filingDate": "15/08/2007",
+    "grantDate": null,
+    "title": "VI\u00b4RUS DA DENGUE DO TIPO 3 (DEN3) ATENUADO E COMPOSIC\u00b8A~O IMUNOGE^NICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/837,723",
+            "priorityDate": "15/08/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/08/2007",
+        "applicationNumber": "PI 0716455-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "STEPHEN S WHITEHEAD",
+        "JOSEPH E BLANEY",
+        "BRIAN R MURPHY"
+    ],
+    "holders": [
+        352065
+    ],
+    "ipcCodes": [
+        "C07H 21/04",
+        "A61K 39/00",
+        "A61K 39/12",
+        "C12N 7/00",
+        "A61K 39/42"
+    ]
+}

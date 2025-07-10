@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2012 026283-1",
+    "filingDate": "15/04/2011",
+    "grantDate": "16/10/2018",
+    "title": "M\u00c9TODO DE TRATAMENTO DE UM SUBSTRATO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP 10160194.6",
+            "priorityDate": "16/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "RONALD HAGE",
+        "FABIAN PIERRE GUY GAULARD",
+        "KIMBERLY SORAYA YANG"
+    ],
+    "holders": [
+        98242
+    ],
+    "ipcCodes": [
+        "B01J 31/18",
+        "C11D 3/39"
+    ]
+}

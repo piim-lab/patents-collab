@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2019 012242-0",
+    "filingDate": "14/06/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DO TIPO N\u00d3RIA PARA TRANSPORTAR PLACAS DE APOIO PARA PRODUTOS DE PANIFICA\u00c7\u00c3O OU SIMILARES",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR1870699",
+            "priorityDate": "14/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "OLIVIER SERGENT",
+        "DAMIEN PINEAU"
+    ],
+    "holders": [
+        49549
+    ],
+    "ipcCodes": [
+        "A21B 1/42",
+        "B65G 17/12",
+        "A21B 1/48"
+    ]
+}

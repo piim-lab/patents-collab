@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2019 010135-3",
+    "filingDate": "20/05/2008",
+    "grantDate": null,
+    "title": "COMPARTIMENTO DE BOMBA",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2007902706",
+            "priorityDate": "21/05/2007"
+        },
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2008901109",
+            "priorityDate": "07/03/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/05/2008",
+        "applicationNumber": "PI 0810324-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "KEVIN EDWARD BURGESS",
+        "GARTH NORMAN CANTRILL"
+    ],
+    "holders": [
+        351491
+    ],
+    "ipcCodes": [
+        "F04D 29/00",
+        "F04D 29/44",
+        "F04D 7/04",
+        "F04D 7/00"
+    ]
+}

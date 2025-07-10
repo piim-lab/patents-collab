@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 020108-8",
+    "filingDate": "06/10/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE ACABAMENTO DE ESTRADAS E M\u00c9TODO PARA NIVELAR UMA MESA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20200791.0",
+            "priorityDate": "08/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "RALF WEISER",
+        "PHILIPP STUMPF",
+        "STEFAN SIMON"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48",
+        "E01C 19/00",
+        "E01C 23/01"
+    ]
+}

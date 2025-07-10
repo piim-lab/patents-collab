@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 000958-9",
+    "filingDate": "18/01/2022",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA DETERMINAR A FREQU\u00caNCIA DE ROTA\u00c7\u00c3O DE UM MEMBRO ROTATIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202141005206",
+            "priorityDate": "08/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "ASWIN KUMAR VALLAMKONDU",
+        "MARK SHERWOOD MILLER",
+        "RAMESH ANNAMAREDDY"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "G01D 5/28",
+        "G01N 21/21",
+        "G01N 21/17",
+        "G01D 5/26",
+        "G01N 21/41"
+    ]
+}

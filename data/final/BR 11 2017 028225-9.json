@@ -1,0 +1,99 @@
+{
+    "applicationNumber": "BR 11 2017 028225-9",
+    "filingDate": "30/06/2016",
+    "grantDate": null,
+    "title": "?COMPOSI\u00c7\u00c3O?",
+    "nationalPhaseDate": [
+        "27/12/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/065321",
+        "pctDate": "30/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15174677.3",
+            "priorityDate": "30/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2768"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN PLANK",
+        "CARSTEN RUDOLPH",
+        "MANISH KUMAR ANEJA",
+        "LUDWIG WEISS",
+        "MEHRIJE FERIZI",
+        "JOHANNES GEIGER",
+        "JOSHUA S KATZ",
+        "DAVID J BRENNAN",
+        "FLORIN DAN",
+        "YUJING TAN",
+        "SUSAN L JORDAN",
+        "TIMOTHY J YOUNG",
+        "YANG SONG"
+    ],
+    "holders": [
+        81491,
+        1101,
+        606
+    ],
+    "ipcCodes": [
+        "A61K 47/10",
+        "A61K 38/00",
+        "A61K 9/08",
+        "A61K 47/26",
+        "A61K 47/34",
+        "A61K 38/17",
+        "A61K 38/38",
+        "C08G 65/00"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2013 009905-4",
+    "filingDate": "19/10/2011",
+    "grantDate": null,
+    "title": "Sistema da limpeza da linha secund\u00e1ria",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/406,770",
+            "priorityDate": "26/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "SAMIR AHMAD"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "A61M 16/00",
+        "A61B 5/03",
+        "A61B 5/08"
+    ]
+}

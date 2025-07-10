@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 10 2018 002164-8",
+    "filingDate": "31/01/2018",
+    "grantDate": null,
+    "title": "COMPOSTOS PARA O TRATAMENTO DE INFEC\u00c7\u00c3O PELO V\u00cdRUS DA HEPATITE B",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/453,982",
+            "priorityDate": "02/02/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/506,921",
+            "priorityDate": "16/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/536,777",
+            "priorityDate": "25/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "EVANGELOS AKTOUDIANAKIS",
+        "EDA CANALES",
+        "KEVIN S CURRIE",
+        "DARRYL KATO",
+        "JIAYAO LI",
+        "JOHN O LINK",
+        "SAMUEL E METOBO",
+        "ROLAND D SAITO",
+        "SCOTT D SCHROEDER",
+        "NATHAN SHAPIRO",
+        "WINSTON C TSE",
+        "QIAOYIN WU"
+    ],
+    "holders": [
+        11788
+    ],
+    "ipcCodes": [
+        "A61P 31/20",
+        "C07D 519/00",
+        "A61K 31/5383",
+        "A61K 31/5025",
+        "A61K 31/502",
+        "C07D 471/14",
+        "C07D 498/14"
+    ]
+}

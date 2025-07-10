@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 001515-0",
+    "filingDate": "23/01/2020",
+    "grantDate": null,
+    "title": "SISTEMA PARA COMPRAS GEORREFERENCIADAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "MAURO SABATINI FILHO",
+        "CARLOS EDUARDO DA SILVA",
+        "SAUL DUTRA SABBA"
+    ],
+    "holders": [
+        35704,
+        55977,
+        35703
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G06Q 10/04",
+        "G06Q 50/30",
+        "G06Q 30/06"
+    ]
+}

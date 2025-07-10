@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2019 025555-2",
+    "filingDate": "03/12/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE COMPUTADOR, E, M\u00c9TODO DE MELHORIA DA INTEGRIDADE DE UM SISTEMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/209,506",
+            "priorityDate": "04/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        }
+    ],
+    "inventors": [
+        "JOHN NEWELL SANDERS"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G06F 3/06"
+    ]
+}

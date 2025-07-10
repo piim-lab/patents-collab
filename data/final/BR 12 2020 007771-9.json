@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 007771-9",
+    "filingDate": "29/06/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR PRODUTOS L\u00cdQUIDOS A PARTIR DE UMA MAT\u00c9RIA-PRIMA QUE CONT\u00c9M BIOMASSA, PROCESSO PARA PRODUZIR UM PRODUTO L\u00cdQUIDO DE VALOR SUPERIOR DE UMA MAT\u00c9RIA-PRIMA INICIAL E PROCESSO PARA PRODUZIR UM PRODUTO L\u00cdQUIDO DE VALOR SUPERIOR A PARTIR DE UMA MAT\u00c9RIA-PRIMA PR\u00c9-TRATADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/321,147",
+            "priorityDate": "01/07/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/06/2015",
+        "applicationNumber": "BR 11 2016 030584-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "LARRY G FELIX",
+        "MARTIN B LINCK",
+        "TERRY L MARKER",
+        "MICHAEL JROBERTS"
+    ],
+    "holders": [
+        172
+    ],
+    "ipcCodes": [
+        "C10G 3/00",
+        "C01B 3/34",
+        "C10G 1/06",
+        "C10K 1/32"
+    ]
+}

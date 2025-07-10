@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2020 001816-0",
+    "filingDate": "25/05/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODOS DE PURIFICA\u00c7\u00c3O DE UM ANTICORPO OU UMA IMUNOADESINA",
+    "divisionalApplication": {
+        "filingDate": "25/05/2011",
+        "applicationNumber": "BR 11 2012 029904-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.2.3",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        32509
+    ],
+    "ipcCodes": []
+}

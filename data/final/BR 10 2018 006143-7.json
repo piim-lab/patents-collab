@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 006143-7",
+    "filingDate": "27/03/2018",
+    "grantDate": null,
+    "title": "COMANDO DE V\u00c1LVULAS VARI\u00c1VEL COM CAME DE FRENAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 003 081.2",
+            "priorityDate": "31/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "STEFFEN HIRSCHMANN",
+        "THOMAS MALISCHEWSKI",
+        "ANDREAS SOMMERMANN",
+        "J\u00dcRGEN RITTER"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "F01L 13/06",
+        "F01L 1/047",
+        "F01L 1/08"
+    ]
+}

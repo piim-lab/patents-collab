@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 000282-1",
+    "filingDate": "06/01/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CODIFICAR AS PALAVRAS EM L\u00cdNGUA PORTUGUESA MINIMIZANDO OS ERROS DE ESCRITA E PROBLEMAS FON\u00c9TICOS PARA CATALOGA\u00c7\u00c3O E RASTREIO DE INFORMA\u00c7\u00d5ES EM BASES DE DADOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "RICARDO CEZAR VOLERT"
+    ],
+    "holders": [
+        55686
+    ],
+    "ipcCodes": [
+        "G06F 16/00",
+        "G06F 16/58"
+    ]
+}

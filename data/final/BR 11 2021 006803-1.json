@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2021 006803-1",
+    "filingDate": "10/10/2019",
+    "grantDate": null,
+    "title": "MATRIZ MUSCULAR DESCELULARIZADA",
+    "nationalPhaseDate": [
+        "09/04/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/055626",
+        "pctDate": "10/10/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/744,204",
+            "priorityDate": "11/10/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/854,647",
+            "priorityDate": "30/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "HUI XU",
+        "LI TING HUANG",
+        "ERIC STEC"
+    ],
+    "holders": [
+        121006
+    ],
+    "ipcCodes": [
+        "A61L 27/38",
+        "A61L 27/36"
+    ]
+}

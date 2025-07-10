@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2021 026665-4",
+    "filingDate": "21/06/2013",
+    "grantDate": null,
+    "title": "FORMAS CRISTALINAS DE (6AR,9AS)-5,6A,7,8,9,9A-HEXAHIDRO-5-METIL-3-(FENILAMINO)-2-((4-(6-FLUOROPIRIDIN-2-IL)FENIL)METIL)-CICLOPENT [4,5] IMIDAZO [1,2-A]PIRAZOL[4,3-E]PIRIMIDIN-4(2H)-ONA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/662.355",
+            "priorityDate": "21/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/06/2013",
+        "applicationNumber": "BR 11 2014 032338-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "PENG LI",
+        "LAWRENCE P WENNOGLE",
+        "ROBERT DAVIS",
+        "GRAHAM BUCKTON",
+        "MARK HOOPER"
+    ],
+    "holders": [
+        148808
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61P 9/00",
+        "A61K 31/519"
+    ]
+}

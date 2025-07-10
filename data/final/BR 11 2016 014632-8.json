@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2016 014632-8",
+    "filingDate": "18/12/2014",
+    "grantDate": "29/06/2021",
+    "title": "M\u00c9TODO DE ESCANEAMENTO DE UMA TUBULA\u00c7\u00c3O, E, ADAPTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1322944.8",
+            "priorityDate": "23/12/2013"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1413804.4",
+            "priorityDate": "04/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "OLIVER JOHN BECKETT",
+        "BRIAN WILSON"
+    ],
+    "holders": [
+        83854
+    ],
+    "ipcCodes": [
+        "G01N 23/04",
+        "G01N 23/18"
+    ]
+}

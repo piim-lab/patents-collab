@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2012 029975-1",
+    "filingDate": "20/05/2011",
+    "grantDate": null,
+    "title": "PEPT\u00cdDEO E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA COMO MEDICAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "10 54106",
+            "priorityDate": "27/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "ESTHER SUZY ARLETTE FELLOUS",
+        "JORGE KALIL",
+        "MARIO PALMA"
+    ],
+    "holders": [
+        103754,
+        103755,
+        103756
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07K 7/08",
+        "C07K 7/06",
+        "A61K 38/08",
+        "A61K 38/10"
+    ]
+}

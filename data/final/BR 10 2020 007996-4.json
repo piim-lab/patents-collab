@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2020 007996-4",
+    "filingDate": "22/04/2020",
+    "grantDate": null,
+    "title": "SISTEMA PARA CONTROLAR ACESSO AOS COMPARTIMENTOS DE ARMAZENAMENTO, E, M\u00c9TODO PARA TRAVAR SELETIVAMENTE COMPARTIMENTOS DE ARMAZENAMENTO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/397,223",
+            "priorityDate": "29/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "MAHESH CHENGALVA"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 25/00",
+        "B64D 9/00",
+        "G05B 19/04"
+    ]
+}

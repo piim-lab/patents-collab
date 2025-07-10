@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 015899-9",
+    "filingDate": "31/07/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE DETEC\u00c7\u00c3O DE FAIXA DE VISIBILIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/105,701",
+            "priorityDate": "20/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "ROBERT RUTKIEWICZ",
+        "DAVID MATTY",
+        "KENT ALLAN RAMTHUN",
+        "JOSEPH T PESIK"
+    ],
+    "holders": [
+        7188
+    ],
+    "ipcCodes": [
+        "B64D 45/00",
+        "H04N 5/225",
+        "B64D 47/08",
+        "G01S 17/02",
+        "G08G 5/04"
+    ]
+}

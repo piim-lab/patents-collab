@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2015 030608-0",
+    "filingDate": "13/06/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA TRATAMENTO DE POLPA DE PAPEL E POLPA DE PAPEL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1355496",
+            "priorityDate": "13/06/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "FR\u00c9D\u00c9RIC POUYET",
+        "DOMINIQUE LACHENAL",
+        "CHRISTINE CHIRAT"
+    ],
+    "holders": [
+        16482,
+        2085,
+        167275,
+        167276,
+        145818
+    ],
+    "ipcCodes": [
+        "D21C 9/00",
+        "D21C 9/08",
+        "D21C 9/153",
+        "D21C 9/10"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2020 002346-5",
+    "filingDate": "27/07/2012",
+    "grantDate": null,
+    "title": "RECIPIENTE DE REVELADOR, DISPOSITIVO DE REVELA\u00c7\u00c3O, UNIDADE DE PROCESSO, E APARELHOS DE FORMA\u00c7\u00c3O DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-164036",
+            "priorityDate": "27/07/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-019937",
+            "priorityDate": "01/02/2012"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-019940",
+            "priorityDate": "01/02/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/07/2012",
+        "applicationNumber": "BR 11 2013 007292-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        1861
+    ],
+    "ipcCodes": []
+}

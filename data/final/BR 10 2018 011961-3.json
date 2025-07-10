@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2018 011961-3",
+    "filingDate": "13/06/2018",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA ANALISAR CORES A PARTIR DE UMA PLATAFORMA DE M\u00cdDIA SOCIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/519,657",
+            "priorityDate": "14/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/003,899",
+            "priorityDate": "08/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "DAMIEN REYNOLDS",
+        "TANUJA SINGEETHAM"
+    ],
+    "holders": [
+        1530
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "G06K 9/46",
+        "G06F 3/0482"
+    ]
+}

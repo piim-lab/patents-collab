@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2021 005428-0",
+    "filingDate": "22/03/2021",
+    "grantDate": null,
+    "title": "PROCESSADOR DE INFORMA\u00c7\u00d5ES, M\u00c9TODO DE PROCESSAMENTO DE INFORMA\u00c7\u00d5ES E MEIO DE ARMAZENAMENTO N\u00c3O TRANSIT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-052669",
+            "priorityDate": "24/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "RYOTA NAKABAYASHI",
+        "NAOKI YAMADA",
+        "DAIGO FUJII",
+        "ATSUSHI IKEGAYA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06Q 50/00"
+    ]
+}

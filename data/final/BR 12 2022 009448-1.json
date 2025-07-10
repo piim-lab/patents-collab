@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2022 009448-1",
+    "filingDate": "04/09/2019",
+    "grantDate": null,
+    "title": "CONTA EXPANDIDA DE RESINA \u00c0 BASE DE POLIAMIDA E M\u00c9TODO PARA A PRODU\u00c7\u00c3O DA MESMA",
+    "divisionalApplication": {
+        "filingDate": "04/09/2019",
+        "applicationNumber": "BR 11 2021 004036-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        187876
+    ],
+    "ipcCodes": []
+}

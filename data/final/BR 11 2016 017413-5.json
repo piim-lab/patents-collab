@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2016 017413-5",
+    "filingDate": "05/03/2015",
+    "grantDate": null,
+    "title": "Telhado em parte coberto por uma cobertura de telhado modular",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14158245.2",
+            "priorityDate": "07/03/2014"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14158244.5",
+            "priorityDate": "07/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "ROLAND GIESEN VAN",
+        "HENRICA STEENBAKKERS"
+    ],
+    "holders": [
+        37265,
+        80841
+    ],
+    "ipcCodes": [
+        "H02S 40/32",
+        "H02S 20/23",
+        "H02S 20/25"
+    ]
+}

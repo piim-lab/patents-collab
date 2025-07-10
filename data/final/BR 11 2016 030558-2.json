@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 030558-2",
+    "filingDate": "02/07/2015",
+    "grantDate": null,
+    "title": "REDU\u00c7\u00c3O DE CORRELA\u00c7\u00c3O ENTRE CANAIS DE PLANO DE FUNDO AMBISS\u00d4NICO DE ORDEM MAIS ALTA (HOA)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/020,348",
+            "priorityDate": "02/07/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/060,512",
+            "priorityDate": "06/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/789,961",
+            "priorityDate": "01/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "NILS G\u00dcNTHER PETERS",
+        "DIPANJAN SEN",
+        "MARTIN JAMES MORRELL"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04S 3/00",
+        "H04R 5/04"
+    ]
+}

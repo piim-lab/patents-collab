@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2014 011091-3",
+    "filingDate": "05/11/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE UTILIZA\u00c7\u00c3O DO SISTEMA ENVOLVENTE DE ESTERILIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/557,215",
+            "priorityDate": "08/11/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/592,233",
+            "priorityDate": "30/01/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/667,526",
+            "priorityDate": "02/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        }
+    ],
+    "inventors": [
+        "JEFFREY JAMES FARMER",
+        "KELLY L HOLT",
+        "RONALD K ANDERSON",
+        "MELISSA R GAYNOR",
+        "CORINNA SCHWARZ"
+    ],
+    "holders": [
+        81540
+    ],
+    "ipcCodes": [
+        "B32B 5/02",
+        "A61B 17/00",
+        "A61L 2/26",
+        "B32B 5/22",
+        "G01N 21/88",
+        "B32B 7/04",
+        "B32B 7/02",
+        "A61B 50/30",
+        "A61B 46/00"
+    ]
+}

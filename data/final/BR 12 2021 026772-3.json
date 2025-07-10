@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 12 2021 026772-3",
+    "filingDate": "14/06/2019",
+    "grantDate": null,
+    "title": "MOL\u00c9CULA NUCLEOT\u00cdDICA E VETOR DE DIRECIONAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/685,203",
+            "priorityDate": "14/06/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/702,206",
+            "priorityDate": "23/07/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/812,580",
+            "priorityDate": "01/03/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/06/2019",
+        "applicationNumber": "BR 11 2020 025279-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "ANDREW J MURPHY",
+        "LYNN MACDONALD",
+        "CHUNGUANG GUO",
+        "JOHN MCWHIRTER",
+        "VERA VORONINA"
+    ],
+    "holders": [
+        81137
+    ],
+    "ipcCodes": [
+        "C12N 5/10",
+        "A01K 67/027",
+        "C12N 15/85",
+        "C12N 5/12",
+        "C07K 14/705"
+    ]
+}

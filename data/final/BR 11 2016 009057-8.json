@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2016 009057-8",
+    "filingDate": "24/10/2014",
+    "grantDate": null,
+    "title": "CARTUCHO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 017 672.7",
+            "priorityDate": "25/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "STEPHAN GELFERT",
+        "AKINOBU HIRAYAMA",
+        "TAKAHITO UENO",
+        "TOSHIAKI TAKEUCHI",
+        "DIDIER GRAF",
+        "JAMES LYNCH",
+        "JIMMY RENNICK",
+        "GIOVANNA LANDI",
+        "MORTEN GR\u00d8SFJELD",
+        "ALEXANDRA LIND\u00c9N",
+        "PETER NORRBY",
+        "PRZEMYSLAW ROMANOW",
+        "EOIN MCNALLY",
+        "BRYAN MURPHY",
+        "TAKUMI NAGASHIMA",
+        "YOSHIHIRO KOIZUMI",
+        "SHUN OYA"
+    ],
+    "holders": [
+        169897,
+        80986,
+        245,
+        3209
+    ],
+    "ipcCodes": [
+        "B41J 2/175"
+    ]
+}

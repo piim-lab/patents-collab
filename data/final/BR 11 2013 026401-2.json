@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2013 026401-2",
+    "filingDate": "27/03/2012",
+    "grantDate": null,
+    "title": "Processo para a produ\u00e7\u00e3o de etanol a partir de uma biomassa celul\u00f3sica ou lignocelul\u00f3sica",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "11/01147",
+            "priorityDate": "14/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "MARCEL ROPARS",
+        "CAROLINE AYMARD",
+        "REJANE DASTILLUNG",
+        "SANDRA MENIR"
+    ],
+    "holders": [
+        32
+    ],
+    "ipcCodes": [
+        "C12P 7/10",
+        "C12P 7/14"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2014 009432-2",
+    "filingDate": "16/04/2012",
+    "grantDate": null,
+    "title": "ARTIGO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/550,657",
+            "priorityDate": "24/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [
+        "TIANYI LIAO",
+        "FRED C WYNEGAR",
+        "RAYMOND S P LEUNG",
+        "CHUANG CHENGYUAN",
+        "CERA JUAN",
+        "BENOIT PROUVOST",
+        "SEBASTIEN GIBANEL",
+        "BRIAN YU",
+        "YONGCHUN CHEN",
+        "MANISH TAXAK",
+        "SIVANSANKARAN KUMARAGURU",
+        "EDWARD O II SHAFFER",
+        "DONALD HOBDAY",
+        "JAMES JOSEPH CLARK JR",
+        "ROLAND ECKEHARD NEPF",
+        "GARRY ROLAND WOLTMAN",
+        "SUSAN J MODER",
+        "ANNAIG GAEL JACQUEMARD",
+        "DOUGLAS K FARMER",
+        "BECKY J ROSE",
+        "CARMEN A COVELLI",
+        "GREGORY P WEEKS",
+        "STEVEN WAYNE SMITH",
+        "GREGORY P WEEKS",
+        "HONG LIU",
+        "JUAN CERA",
+        "WILLEM BAKKER"
+    ],
+    "holders": [
+        34056,
+        48395,
+        404620,
+        1101,
+        9272,
+        93369,
+        80315,
+        98335
+    ],
+    "ipcCodes": [
+        "D04B 1/14",
+        "D01F 6/70",
+        "D01F 8/04",
+        "D04B 1/18"
+    ]
+}

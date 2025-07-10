@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2017 010319-2",
+    "filingDate": "19/11/2015",
+    "grantDate": null,
+    "title": "ESTEROIDES 6-ALQUIL-7-HIDR\u00d3XI-4-EN-3-ONA E PROCESSO PARA A PREPARA\u00c7\u00c3O DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1420594.2",
+            "priorityDate": "19/11/2014"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1420593.4",
+            "priorityDate": "19/11/2014"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1505670.8",
+            "priorityDate": "01/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER WEYMOUTH",
+        "ZOFIA KOMSTA",
+        "JAMES BOYDELL",
+        "CARL OTTER",
+        "LAURA WALLIS",
+        "RHYS BATCHELOR"
+    ],
+    "holders": [
+        190824
+    ],
+    "ipcCodes": [
+        "C07J 9/00",
+        "C07J 71/00"
+    ]
+}

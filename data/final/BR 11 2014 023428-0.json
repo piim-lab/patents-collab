@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2014 023428-0",
+    "filingDate": "22/03/2013",
+    "grantDate": null,
+    "title": "Sistema tensor de correia vedado",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/432,548",
+            "priorityDate": "28/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "KEVIN G DUTIL",
+        "ANTHONY E LANNUTTI",
+        "JAMES KEVIN LINDSTROM"
+    ],
+    "holders": [
+        82424
+    ],
+    "ipcCodes": [
+        "F16H 7/12"
+    ]
+}

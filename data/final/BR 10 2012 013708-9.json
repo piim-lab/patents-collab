@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2012 013708-9",
+    "filingDate": "06/06/2012",
+    "grantDate": "12/11/2019",
+    "title": "SISTEMA DE GASEIFICA\u00c7\u00c3O DE BIOMASSA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/157,636",
+            "priorityDate": "10/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2566"
+        }
+    ],
+    "inventors": [
+        "RICHARD ANTHONY DEPUY",
+        "OMPRAKASH MALL",
+        "NIRAJ KUMAR MISHRA"
+    ],
+    "holders": [
+        113,
+        780
+    ],
+    "ipcCodes": [
+        "C10J 3/00"
+    ]
+}

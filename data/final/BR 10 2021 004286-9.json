@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 004286-9",
+    "filingDate": "05/03/2021",
+    "grantDate": null,
+    "title": "IMPLEMENTO PARA PULVERIZA\u00c7\u00c3O AGR\u00cdCOLA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "ALEXANDRE APARECIDO CRESCIO",
+        "IGHOR BUSNARDO COLOMBO",
+        "LUCAS NUNES BONILHA"
+    ],
+    "holders": [
+        190
+    ],
+    "ipcCodes": [
+        "A01M 7/00"
+    ]
+}

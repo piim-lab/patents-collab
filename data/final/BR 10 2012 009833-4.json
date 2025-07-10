@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2012 009833-4",
+    "filingDate": "26/04/2012",
+    "grantDate": null,
+    "title": "SEPARADOR COM RETARDO DE TEMPO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 290200.2",
+            "priorityDate": "26/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        }
+    ],
+    "inventors": [
+        "J\u00c9R\u00d4ME S\u00c9JOURN\u00c9"
+    ],
+    "holders": [
+        1435
+    ],
+    "ipcCodes": [
+        "B65G 1/08"
+    ]
+}

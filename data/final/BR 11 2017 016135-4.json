@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2017 016135-4",
+    "filingDate": "27/01/2016",
+    "grantDate": null,
+    "title": "PROJ\u00c9TIL AERODIN\u00c2MICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/108,270",
+            "priorityDate": "27/01/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/006,866",
+            "priorityDate": "26/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "GARY E GIBSON",
+        "MICHAEL A VARACINS",
+        "JON WILLSON"
+    ],
+    "holders": [
+        193798
+    ],
+    "ipcCodes": [
+        "F42B 10/24",
+        "F42B 10/06"
+    ]
+}

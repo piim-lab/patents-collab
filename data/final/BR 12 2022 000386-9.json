@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 12 2022 000386-9",
+    "filingDate": "13/03/2019",
+    "grantDate": null,
+    "title": "ANTICORPOS QUE SE LIGAM A CD39, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E KIT DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/642,938",
+            "priorityDate": "14/03/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/803,235",
+            "priorityDate": "08/02/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/03/2019",
+        "applicationNumber": "BR 11 2020 018480-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "SCOTT CHAPPEL",
+        "ANDREW LAKE",
+        "MICHAEL WARREN",
+        "AUSTIN DULAK",
+        "ERIK DEVEREAUX",
+        "PAMELA M HOLLAND",
+        "TAUQEER ZAIDI",
+        "MATTHEW RAUSCH",
+        "BIANKA PRINZ",
+        "NELS P NIELSON",
+        "SONIA DAS"
+    ],
+    "holders": [
+        210819
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C07K 16/30",
+        "A61P 35/02",
+        "C07K 16/28"
+    ]
+}

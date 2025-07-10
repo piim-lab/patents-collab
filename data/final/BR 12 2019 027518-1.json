@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2019 027518-1",
+    "filingDate": "10/05/2016",
+    "grantDate": "19/01/2021",
+    "title": "PROCESSOS PARA A PREPARA\u00c7\u00c3O DE UM COMPOSTO, COMPOSTO DE AMINA DE DICLOROPIRIDAZINA E MISTURA DO COMPOSTO DE AMINA DE DICLOROPIRIDAZINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/159,392",
+            "priorityDate": "11/05/2015"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15169166.4",
+            "priorityDate": "26/05/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/05/2016",
+        "applicationNumber": "BR 11 2017 023935-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        }
+    ],
+    "inventors": [
+        "ERIC GEORGE KLAUBER",
+        "MICHAEL RACK",
+        "ROLAND GOETZ",
+        "SEBASTIAN S\u00d5RGEL"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C07D 401/12",
+        "C07D 237/20"
+    ]
+}

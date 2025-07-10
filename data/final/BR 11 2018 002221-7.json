@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2018 002221-7",
+    "filingDate": "02/08/2016",
+    "grantDate": null,
+    "title": "LIMITE CONFIGUR\u00c1VEL PARA SELE\u00c7\u00c3O DE FORMATO PARA AGREGA\u00c7\u00c3O DE TRANSPORTADOR APERFEI\u00c7OADO",
+    "nationalPhaseDate": [
+        "01/02/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/045111",
+        "pctDate": "02/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/200,569",
+            "priorityDate": "03/08/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/224,877",
+            "priorityDate": "01/08/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "WANSHI CHEN",
+        "PETER GAAL",
+        "RENQIU WANG"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/00",
+        "H04L 1/16"
+    ]
+}

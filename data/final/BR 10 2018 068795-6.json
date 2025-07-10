@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 068795-6",
+    "filingDate": "17/09/2018",
+    "grantDate": null,
+    "title": "SUPORTE DE RECIPIENTE COM DISPOSITIVO REGULADOR DE TEMPERATURA PARA UM INJETOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 104 002.4",
+            "priorityDate": "22/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "ANAMARIA GEANGU",
+        "MARKUS G\u00d6TZ"
+    ],
+    "holders": [
+        776
+    ],
+    "ipcCodes": [
+        "A61M 5/00",
+        "G05D 23/01"
+    ]
+}

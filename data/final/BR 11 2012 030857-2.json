@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2012 030857-2",
+    "filingDate": "06/06/2011",
+    "grantDate": null,
+    "title": "\"M\u00c9TODO DE UNI\u00c3O DE MATERIAIS DE LIGA DE ALUM\u00cdNIO ENTRE SI\"",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "JP 2010-129289",
+            "priorityDate": "04/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "TAKASHI MURASE",
+        "KAZUKO FUJITA",
+        "AKIO NIIKURA"
+    ],
+    "holders": [
+        104405
+    ],
+    "ipcCodes": [
+        "B23K 20/00",
+        "B23K 20/22",
+        "B23K 20/16",
+        "B23K 20/14"
+    ]
+}

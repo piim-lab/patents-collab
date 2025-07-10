@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2022 023693-6",
+    "filingDate": "12/12/2018",
+    "grantDate": null,
+    "title": "ROLO DE PROCESSAMENTO DE SOLO E M\u00c1QUINA DE PROCESSAMENTO DE SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017129932.7",
+            "priorityDate": "14/12/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/12/2018",
+        "applicationNumber": "BR 10 2018 075773-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "MATTHIAS MEIER"
+    ],
+    "holders": [
+        17659
+    ],
+    "ipcCodes": [
+        "E02D 3/026",
+        "E01C 19/26",
+        "A01B 29/04",
+        "E01C 23/12"
+    ]
+}

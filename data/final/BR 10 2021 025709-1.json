@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 10 2021 025709-1",
+    "filingDate": "18/12/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE ESTIMA\u00c7\u00c3O DE CANAL E  DECODIFICA\u00c7\u00c3O BASEADO EM REDE NEURAL  DE ARQUITETURA DIFERENCIADA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "JONATHAN AGUIAR SOARES",
+        "KAYOL SOARES MAYER",
+        "FERNANDO CESAR COMPARSI DE CASTRO",
+        "DALTON SOARES ARANTES"
+    ],
+    "holders": [
+        1697,
+        221
+    ],
+    "ipcCodes": [
+        "H04L 25/02",
+        "G06N 3/04",
+        "H04B 7/0413"
+    ]
+}

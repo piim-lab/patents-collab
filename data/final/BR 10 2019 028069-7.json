@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 028069-7",
+    "filingDate": "27/12/2019",
+    "grantDate": null,
+    "title": "CESTA REMOV\u00cdVEL PARA ELETRODOM\u00c9STICOS PARA LAVAGEM DE ROUPAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/785,822",
+            "priorityDate": "28/12/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/668,238",
+            "priorityDate": "30/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [
+        "SETH E BIXBY",
+        "SAYER J MURPHY",
+        "KARTIK SADANAND VASTRAD"
+    ],
+    "holders": [
+        2420
+    ],
+    "ipcCodes": [
+        "D06F 37/20",
+        "D06F 21/08"
+    ]
+}

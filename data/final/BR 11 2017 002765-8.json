@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2017 002765-8",
+    "filingDate": "05/08/2015",
+    "grantDate": null,
+    "title": "PROCEDIMENTO DE SOLICITA\u00c7\u00c3O DE CSI EM LTE/LTE-A COM ESPECTRO N\u00c3O LICENCIADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/036,296",
+            "priorityDate": "12/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/818,049",
+            "priorityDate": "04/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "SIDDHARTHA MALLIK",
+        "TAO LUO"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 1/00"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2022 012383-3",
+    "filingDate": "23/12/2020",
+    "grantDate": null,
+    "title": "FILTRAGEM LOOP ADAPTATIVA DE COMPONENTE CRUZADO PARA CODIFICA\u00c7\u00c3O DE V\u00cdDEO",
+    "nationalPhaseDate": [
+        "21/06/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2020/138735",
+        "pctDate": "23/12/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2019/086984",
+            "priorityDate": "23/12/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/960,147",
+            "priorityDate": "13/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "ANAND MEHER KOTRA",
+        "SEMIH ESENLIK",
+        "ELENA ALEXANDROVNA ALSHINA",
+        "HAN GAO",
+        "BIAO WANG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/70",
+        "H04N 19/117"
+    ]
+}

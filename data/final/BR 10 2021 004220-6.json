@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2021 004220-6",
+    "filingDate": "05/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE DETEC\u00c7\u00c3O DE FORMA\u00c7\u00c3O E UM PROCESSO DE CONTROLE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/986,239",
+            "priorityDate": "06/03/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/181,612",
+            "priorityDate": "22/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "ANDREW FORESTER",
+        "PAUL WRATSCHKO",
+        "JAKE NEAL",
+        "DAVID JACKSON",
+        "CHRIS BLAIR",
+        "JAMES FAUFAU"
+    ],
+    "holders": [
+        62576
+    ],
+    "ipcCodes": [
+        "D21G 9/00",
+        "G01N 33/34",
+        "D21F 9/02"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2017 015515-3",
+    "filingDate": "19/07/2017",
+    "grantDate": null,
+    "title": "CONJUNTO DO EIXO COM UM SUBCONJUNTO DO SEMIEIXO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/218,248",
+            "priorityDate": "25/07/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "ANTONIO COLETTA",
+        "PING PAN",
+        "GREGORY D PAVUK",
+        "BIN HU",
+        "WALTER A SANTAROSSA",
+        "PHILLIP LEICHT"
+    ],
+    "holders": [
+        2335
+    ],
+    "ipcCodes": [
+        "B60B 35/14",
+        "B60B 27/06"
+    ]
+}

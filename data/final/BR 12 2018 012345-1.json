@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2018 012345-1",
+    "filingDate": "21/04/2006",
+    "grantDate": null,
+    "title": "VETOR VIRAL RECOMBINANTE OU VETOR DE POLINUCLEOT\u00cdDEO RECOMBINANTE, USO DOS MESMOS E VACINA PARA INDUZIR UMA RESPOSTA IMUNE CONTRA UM V\u00cdRUS INFLUENZA OU INIBIR A INFEC\u00c7\u00c3O POR UM V\u00cdRUS INFLUENZA NUM ANIMAL CAN\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/673,443",
+            "priorityDate": "21/04/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/04/2006",
+        "applicationNumber": "PI 0610503-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "PATTI C CRAWFORD",
+        "PAUL J GIBBS",
+        "EDWARD J DUBOVI",
+        "RUBEN O DONIS",
+        "JACQUELINE KATZ",
+        "ALEXANDER I KLIMOV",
+        "NANCY J COX",
+        "WILLIAM L CASTLEMAN"
+    ],
+    "holders": [
+        351149,
+        38093,
+        111511
+    ],
+    "ipcCodes": [
+        "A61K 39/145",
+        "C07K 14/11",
+        "C12N 15/44"
+    ]
+}

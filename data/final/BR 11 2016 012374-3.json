@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2016 012374-3",
+    "filingDate": "01/12/2014",
+    "grantDate": null,
+    "title": "FOLHA DE LAMINADO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "3942/MUM/2013",
+            "priorityDate": "16/12/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14152974.3",
+            "priorityDate": "29/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "SRIDHAR JANARDHANA",
+        "ADESH TEWARI"
+    ],
+    "holders": [
+        82156
+    ],
+    "ipcCodes": [
+        "B32B 27/10",
+        "B65D 65/14",
+        "B65D 65/10",
+        "B65D 75/08"
+    ]
+}

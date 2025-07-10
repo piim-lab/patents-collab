@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 12 2020 019421-9",
+    "filingDate": "28/09/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR UMA CAMADA DE TUBO FLEX\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1616706.6",
+            "priorityDate": "30/09/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/09/2017",
+        "applicationNumber": "BR 11 2019 006372-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "MAJEED AL",
+        "NEVILLE DODDS",
+        "VINEET JHA",
+        "JAMES LATTO",
+        "DAVID FINCH"
+    ],
+    "holders": [
+        8137
+    ],
+    "ipcCodes": [
+        "F16L 11/08",
+        "B32B 27/30",
+        "B29C 53/56",
+        "B32B 27/12",
+        "B32B 27/08",
+        "B32B 1/08",
+        "B32B 5/08",
+        "D02G 3/16"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2016 022222-9",
+    "filingDate": "23/03/2015",
+    "grantDate": null,
+    "title": "APARELHO, SISTEMA E M\u00c9TODO PARA DETONA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "26/09/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AU2015/050122",
+        "pctDate": "23/03/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/971,205",
+            "priorityDate": "27/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "RODNEY APPLEBY",
+        "DAVID JOHNSON",
+        "RICHARD GOODRIDGE",
+        "BYRON WICKS"
+    ],
+    "holders": [
+        101283
+    ],
+    "ipcCodes": [
+        "F42D 1/05",
+        "F42B 3/113",
+        "F42C 15/42",
+        "F42B 3/11"
+    ]
+}

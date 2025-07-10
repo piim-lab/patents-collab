@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2015 012907-2",
+    "filingDate": "04/12/2013",
+    "grantDate": "23/07/2019",
+    "title": "COMPOSI\u00c7\u00c3O DE CUIDADO PESSOAL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12197527.0",
+            "priorityDate": "17/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2616"
+        }
+    ],
+    "inventors": [
+        "NEIL JAMES PARRY",
+        "PAUL SIMON STEVENSON",
+        "JAMES ROBERT SCHWARTZ",
+        "ERIC SCOTT JOHNSON",
+        "BONNIE THERESA KING",
+        "JOYCE ROSS AKRED",
+        "GEORGE POLSON",
+        "PATRICIA A TURLEY"
+    ],
+    "holders": [
+        29352,
+        79409,
+        82649
+    ],
+    "ipcCodes": [
+        "A61K 8/27"
+    ]
+}

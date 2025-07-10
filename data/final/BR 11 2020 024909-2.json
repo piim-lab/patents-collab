@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2020 024909-2",
+    "filingDate": "19/06/2019",
+    "grantDate": null,
+    "title": "T\u00c9CNICAS PARA EXIBIR UMA TABELA DE SOMBREAMENTOS ASSOCIADA COM IMAGENS DE \"RAYTRACING",
+    "nationalPhaseDate": [
+        "07/12/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/037825",
+        "pctDate": "19/06/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/700,695",
+            "priorityDate": "19/07/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/213,746",
+            "priorityDate": "07/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "AUSTIN NEIL KINROSS",
+        "AMAR PATEL"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "G06T 15/00",
+        "G06T 15/06"
+    ]
+}

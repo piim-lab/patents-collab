@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2015 013474-2",
+    "filingDate": "10/12/2013",
+    "grantDate": null,
+    "title": "EMBALAGEM DE CONSUMO CONTENDO UM FLUIDO DE TRATAMENTO DE TECIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12197081.8",
+            "priorityDate": "13/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "ELIZABETH JANE SMITH"
+    ],
+    "holders": [
+        82156
+    ],
+    "ipcCodes": [
+        "B65D 1/02",
+        "B65D 1/04"
+    ]
+}

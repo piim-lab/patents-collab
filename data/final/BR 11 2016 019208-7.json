@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2016 019208-7",
+    "filingDate": "23/02/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TESTAGEM DE UMA PE\u00c7A DE TRABALHO USANDO ULTRASSOM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 102 374.9",
+            "priorityDate": "24/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "FELIX K\u00d6BER",
+        "KERSTIN SCHOLZ",
+        "EDGAR ZAUS"
+    ],
+    "holders": [
+        108690
+    ],
+    "ipcCodes": [
+        "G01N 29/265",
+        "G01N 29/11",
+        "G01N 29/26"
+    ]
+}

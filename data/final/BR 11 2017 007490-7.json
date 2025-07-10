@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2017 007490-7",
+    "filingDate": "07/10/2015",
+    "grantDate": null,
+    "title": "Armadura que possui um alojamento",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 220 675.8",
+            "priorityDate": "13/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "MARIO HAMBERGER",
+        "ANDREAS WALBERER",
+        "CHRISTIAN WIERLING"
+    ],
+    "holders": [
+        93320
+    ],
+    "ipcCodes": [
+        "F16K 27/02",
+        "F16K 1/42"
+    ]
+}

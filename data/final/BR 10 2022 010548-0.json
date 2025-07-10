@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2022 010548-0",
+    "filingDate": "30/05/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CONTROLE DE DIRE\u00c7\u00c3O DO VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-096471",
+            "priorityDate": "09/06/2021"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-042666",
+            "priorityDate": "17/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2790"
+        }
+    ],
+    "inventors": [
+        "TAKESHI HAMAGUCHI",
+        "SHUSAKU SUGAMOTO",
+        "SATOSHI HANDA",
+        "SATOSHI INOUE",
+        "SHINTARO SAIGO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B62D 6/00",
+        "B60W 50/16"
+    ]
+}

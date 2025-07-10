@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2013 017393-5",
+    "filingDate": "25/03/2009",
+    "grantDate": null,
+    "title": "COMPOSTOS DERIVADOS SUBSTITU\u00cdDOS DE 4-AMINOCICLOHEXANO, MEDICAMENTOS CONTENDO PELO MENOS UM COMPOSTO E USO DOS REFERIDOS COMPOSTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08005748-2",
+            "priorityDate": "27/03/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/03/2009",
+        "applicationNumber": "PI 0909527-6"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2578"
+        }
+    ],
+    "inventors": [
+        "BERT NOLTE",
+        "WOLFGANG SCHR\u00d6DER",
+        "KLAUS LINZ",
+        "WERNER ENGLBERGER",
+        "HANS SCHICK",
+        "HEINZ GRAUBAUM",
+        "BIRGIT ROLOFF",
+        "SIGRID OZEGOWSKI",
+        "J\u00d3ZSEF B\u00c1LINT",
+        "HELMUT SONNENSCHEIN"
+    ],
+    "holders": [
+        80587
+    ],
+    "ipcCodes": [
+        "A61K 31/404",
+        "C07D 209/14",
+        "C07D 209/12",
+        "C07C 211/40"
+    ]
+}

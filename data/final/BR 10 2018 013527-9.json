@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 013527-9",
+    "filingDate": "29/06/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE BLOQUEIO DE ATAQUES DE NEGA\u00c7\u00c3O DE SERVI\u00c7O DISTRIBU\u00cdDOS E APARELHO CORRESPONDENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17305827.2",
+            "priorityDate": "30/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "ERWAN LE MERRER",
+        "CHRISTOPHER NEUMANN"
+    ],
+    "holders": [
+        34116
+    ],
+    "ipcCodes": [
+        "H04L 29/06"
+    ]
+}

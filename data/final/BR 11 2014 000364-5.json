@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2014 000364-5",
+    "filingDate": "09/07/2012",
+    "grantDate": null,
+    "title": "SISTEMA DE SUBMERS\u00c3O DE RES\u00cdDUOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/505,156",
+            "priorityDate": "07/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/625,134",
+            "priorityDate": "17/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "ROGER HOWITT",
+        "JIM GRAYSON",
+        "MARK BOLTON",
+        "PAUL BOSWORTH"
+    ],
+    "holders": [
+        125316
+    ],
+    "ipcCodes": [
+        "C22B 21/00",
+        "F27D 27/00",
+        "C22B 7/00",
+        "F27B 3/18",
+        "F27B 3/04"
+    ]
+}

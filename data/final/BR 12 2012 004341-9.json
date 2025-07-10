@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2012 004341-9",
+    "filingDate": "27/02/2009",
+    "grantDate": null,
+    "title": "Anticorpo monoclonal isolado anti-mol\u00e9cula de orienta\u00e7\u00e3o repulsiva A",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/032,707",
+            "priorityDate": "29/02/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/090,743",
+            "priorityDate": "21/08/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/02/2009",
+        "applicationNumber": "PI 0908012-0"
+    },
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "BERNHARD K M\u00dcLLER",
+        "MARTIN SCHMIDT",
+        "EVE H BARLOW",
+        "MARY R LEDDY",
+        "CHUNGMING HSIEH",
+        "PHILLIP D BARDWELL"
+    ],
+    "holders": [
+        225617,
+        12773
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C07K 16/22"
+    ]
+}

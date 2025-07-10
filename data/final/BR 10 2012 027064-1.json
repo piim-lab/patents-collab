@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2012 027064-1",
+    "filingDate": "22/10/2012",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA MEDI\u00c7\u00c3O DE PAR\u00c2METROS OU PARA EXTRA\u00c7\u00c3O DE AMOSTRAS EM FUS\u00d5ES DE FERRO OU A\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 116 440.9",
+            "priorityDate": "20/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        }
+    ],
+    "inventors": [
+        "GUIDO JACOBUS NEYENS",
+        "ERIC B BORTELS",
+        "DRIES BEYENS"
+    ],
+    "holders": [
+        543
+    ],
+    "ipcCodes": [
+        "C21C 5/46",
+        "G01N 33/20"
+    ]
+}

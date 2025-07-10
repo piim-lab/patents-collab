@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2023 004124-8",
+    "filingDate": "06/03/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETECTAR ANOMALIAS EM DADOS DE S\u00c9RIE TEMPORAL PRODUZIDOS POR DISPOSITIVOS DE UMA INFRAESTRUTURA EM UMA REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/690,676",
+            "priorityDate": "09/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO VALENTE",
+        "ALESSANDRO ZAMBERLETTI",
+        "MORENO CARULLO"
+    ],
+    "holders": [
+        45393
+    ],
+    "ipcCodes": [
+        "G06F 11/30",
+        "G06N 3/0464",
+        "H04L 43/04"
+    ]
+}

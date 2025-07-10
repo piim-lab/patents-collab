@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2016 001753-6",
+    "filingDate": "08/08/2014",
+    "grantDate": null,
+    "title": "ANTICORPO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, DNA E USO DE UM ANTICORPO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-166164",
+            "priorityDate": "09/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "FUMIYOSHI OKANO",
+        "TAKANORI SAITO",
+        "YOSHITAKA MINAMIDA",
+        "TAKAYOSHI IDO"
+    ],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "C07K 16/18",
+        "A61P 35/02",
+        "C12P 21/08",
+        "C12N 15/09",
+        "C07K 16/46",
+        "A61K 45/00"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 004927-8",
+    "filingDate": "16/03/2021",
+    "grantDate": null,
+    "title": "MAGN\u00c9TICA CONVERS\u00cdVEL PARA CAT\u00d3DO ROTATIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/989,960",
+            "priorityDate": "16/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "STERLING WALKER MYERS III",
+        "ZACHARY ZEMBOWER"
+    ],
+    "holders": [
+        49833
+    ],
+    "ipcCodes": [
+        "C23C 14/34",
+        "C23C 14/35",
+        "H01J 37/34"
+    ]
+}

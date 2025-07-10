@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 012564-0",
+    "filingDate": "18/06/2019",
+    "grantDate": null,
+    "title": "LAVADOR DE TAMBOR COM DRENAGEM AUXILIADA POR GRAVIDADE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/687,381",
+            "priorityDate": "20/06/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/438,732",
+            "priorityDate": "12/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "LINDSAY RAWLS",
+        "TODD S GRACE"
+    ],
+    "holders": [
+        3041
+    ],
+    "ipcCodes": [
+        "D06F 37/02",
+        "D06F 39/10"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2021 001557-4",
+    "filingDate": "29/07/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETERMINAR VIDA \u00daTIL RESTANTE DE MEMBRANA PARA PROCESSO DE SEPARA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "27/01/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/043899",
+        "pctDate": "29/07/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/711,134",
+            "priorityDate": "27/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "SHU PAN",
+        "GEORGE E MAHLEY III",
+        "ATSUSHI MORISATO",
+        "OLEG O MEDVEDEV",
+        "JASON M DIETRICH"
+    ],
+    "holders": [
+        5635
+    ],
+    "ipcCodes": [
+        "B01D 53/22",
+        "B01D 65/10"
+    ]
+}

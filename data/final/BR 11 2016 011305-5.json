@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2016 011305-5",
+    "filingDate": "31/10/2014",
+    "grantDate": null,
+    "title": "CONDUTOR PARA RECIPIENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102013112833.5",
+            "priorityDate": "20/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "MARTIN BACKHAUS",
+        "BERTHOLD PAROTH"
+    ],
+    "holders": [
+        22748
+    ],
+    "ipcCodes": [
+        "B65G 23/00",
+        "B65G 15/50"
+    ]
+}

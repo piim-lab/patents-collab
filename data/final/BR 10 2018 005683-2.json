@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 005683-2",
+    "filingDate": "22/03/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE DISTRIBUI\u00c7\u00c3O DE AR, E, M\u00c9TODO PARA DISTRIBUIR FLUXOS DE AR EM UM VE\u00cdCULO A\u00c9REO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/476,491",
+            "priorityDate": "31/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2802"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "ANNIKA E CARDEN",
+        "ROYAL E BOGGS",
+        "BRIAN D HLAVKA",
+        "SIDNEY D SHELL"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 13/00",
+        "F24F 13/02"
+    ]
+}

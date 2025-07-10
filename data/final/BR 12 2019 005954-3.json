@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 12 2019 005954-3",
+    "filingDate": "30/12/2009",
+    "grantDate": null,
+    "title": "C\u00c1PSULA, SISTEMA E M\u00c9TODO PARA PREPARAR UMA QUANTIDADE PREDETERMINADA DE BEBIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09162914.7",
+            "priorityDate": "17/06/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09162895.8",
+            "priorityDate": "17/06/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09162931.1",
+            "priorityDate": "17/06/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09163310.7",
+            "priorityDate": "19/06/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09167851.6",
+            "priorityDate": "13/08/2009"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09170590.5",
+            "priorityDate": "17/09/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/12/2009",
+        "applicationNumber": "PI 0925097-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "RALF KAMERBEEK",
+        "JOHN HENRI FLAMAND",
+        "ANGENITA DOROTHEA POST VAN LOON",
+        "HENDRIK CORNELIS KOELING",
+        "AREND CORNELIS JACOBUS BIESHEUVEL",
+        "RALF KAMERBEEK",
+        "ANGENITA DOROTHEA POST VAN LOON",
+        "JOHN HENRI FLAMAND",
+        "HENDRIK CORNELIS KOELING",
+        "AREND CORNELIS JACOBUS BIESHEUVEL"
+    ],
+    "holders": [
+        85288
+    ],
+    "ipcCodes": [
+        "A47J 31/36"
+    ]
+}

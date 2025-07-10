@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2015 010858-0",
+    "filingDate": "19/12/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O AQUOSA COSM\u00c9TICA EST\u00c1VEL COMPREENDENDO PART\u00cdCULAS EM SUSPENS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1262409",
+            "priorityDate": "20/12/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/740,478",
+            "priorityDate": "21/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "RENAUD SOUZY",
+        "YVES KENSICHER",
+        "OLIVIER GUERRET"
+    ],
+    "holders": [
+        125713
+    ],
+    "ipcCodes": [
+        "A61K 8/81",
+        "C08F 220/28"
+    ]
+}

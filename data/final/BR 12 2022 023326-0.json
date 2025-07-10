@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2022 023326-0",
+    "filingDate": "08/09/2015",
+    "grantDate": null,
+    "title": "CONJUNTO DE ETIQUETA PARA ANIMAIS",
+    "divisionalApplication": {
+        "filingDate": "08/09/2015",
+        "applicationNumber": "BR 11 2016 028499-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": []
+}

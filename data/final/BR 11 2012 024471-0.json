@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2012 024471-0",
+    "filingDate": "30/03/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO E EQUIPAMENTO PARA COEXIST\u00caNCIA MULTI-R\u00c1DIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/319,324",
+            "priorityDate": "31/03/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/356,973",
+            "priorityDate": "21/06/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/389,637",
+            "priorityDate": "04/10/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/904,509",
+            "priorityDate": "14/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "PRANAV DAYAL",
+        "TAMER ADEL KADOUS",
+        "ASHOK MANTRAVADI",
+        "JIBING WANG",
+        "RAJAT PRAKASH"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 16/14",
+        "H04W 72/12"
+    ]
+}

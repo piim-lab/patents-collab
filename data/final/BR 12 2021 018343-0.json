@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 12 2021 018343-0",
+    "filingDate": "13/03/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RECONSTRUIR UMA IMAGEM INCLUINDO UM BLOCO N\u00c3O QUADRADO, M\u00c9TODO PARA CODIFICAR UMA IMAGEM E M\u00cdDIA DE ARMAZENAMENTO DIGITAL LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/484,900",
+            "priorityDate": "13/04/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/03/2018",
+        "applicationNumber": "BR 11 2019 021584-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "MOONMO KOO",
+        "SEUNGHWAN KIM"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "H04N 19/129",
+        "H04N 19/176",
+        "H04N 19/18",
+        "H04N 19/157",
+        "H04N 19/91",
+        "H04N 19/119"
+    ]
+}

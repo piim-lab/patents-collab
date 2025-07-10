@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2015 014963-4",
+    "filingDate": "19/12/2013",
+    "grantDate": null,
+    "title": "FORMULA\u00c7\u00c3O DE SUSPENS\u00c3O INJET\u00c1VEL VETERIN\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "605005",
+            "priorityDate": "20/12/2012"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "615485",
+            "priorityDate": "13/09/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "7.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "RAID ALANY",
+        "ROBERT WILLIAM LACHLAN HOLMES"
+    ],
+    "holders": [
+        158197
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "A61K 47/44",
+        "A61K 31/43"
+    ]
+}

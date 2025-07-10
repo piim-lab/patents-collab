@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 009656-0",
+    "filingDate": "18/05/2021",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS DE HIGIENIZA\u00c7\u00c3O PORT\u00c1TEIS COM ORIENTA\u00c7\u00c3O DE ALCANCE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/027,869",
+            "priorityDate": "20/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/039,011",
+            "priorityDate": "30/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "JAMIE J CHILDRESS"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "A61L 2/10",
+        "F21L 19/00",
+        "F21V 13/02"
+    ]
+}

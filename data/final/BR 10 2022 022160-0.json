@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 022160-0",
+    "filingDate": "31/10/2022",
+    "grantDate": null,
+    "title": "MAPA DE COMPONENTES DE RENDIMENTO DE CULTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/294,050",
+            "priorityDate": "27/12/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/538,110",
+            "priorityDate": "24/01/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "WILLIAM LOUIS PATZOLDT",
+        "LEE KAMP REDDEN",
+        "JOHN CHADWICK YAGOW"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 21/00"
+    ]
+}

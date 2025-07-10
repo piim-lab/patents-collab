@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2018 067464-1",
+    "filingDate": "03/09/2018",
+    "grantDate": null,
+    "title": "PROCESSO, E, COMPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/554,086",
+            "priorityDate": "05/09/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/638,993",
+            "priorityDate": "06/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "JAMES C BOHLING",
+        "IBRAHIM ERYAZICI",
+        "PHILIP R HARSH",
+        "PARTHA S MAJUMDAR",
+        "EDWIN NUNGESSER",
+        "JAMES KEITH BARDMAN",
+        "KARL ALLEN BROMM"
+    ],
+    "holders": [
+        606
+    ],
+    "ipcCodes": [
+        "C09C 1/36"
+    ]
+}

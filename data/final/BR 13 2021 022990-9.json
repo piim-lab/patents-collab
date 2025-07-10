@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 13 2021 022990-9",
+    "filingDate": "16/11/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE CIT\u00d4METRO DE FLUXO.",
+    "parentApplication": {
+        "filingDate": "14/03/2013",
+        "applicationNumber": "BR 12 2016 005335-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2713"
+        }
+    ],
+    "inventors": [
+        "KRIS BUCHANAN",
+        "JOHNATHAN CHARLES SHARPE",
+        "KENNETH MICHAEL EVANS"
+    ],
+    "holders": [
+        100360
+    ],
+    "ipcCodes": [
+        "G01N 33/48"
+    ]
+}

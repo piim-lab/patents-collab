@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2022 022702-7",
+    "filingDate": "18/05/2021",
+    "grantDate": null,
+    "title": "ATRASO DE ATUALIZA\u00c7\u00c3O DE ID DE CAPACIDADE DE R\u00c1DIO DE UE (URCID) PARA EPLMN",
+    "nationalPhaseDate": [
+        "08/11/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/032902",
+        "pctDate": "18/05/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/026,635",
+            "priorityDate": "18/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/322,186",
+            "priorityDate": "17/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2721"
+        }
+    ],
+    "inventors": [
+        "MONA AGRAWAL",
+        "HARIS ZISIMOPOULOS",
+        "ARVIND VARDARAJAN SANTHANAM",
+        "LENAIG GENEVIEVE CHAPONNIERE",
+        "GAVIN BERNARD HORN",
+        "MASATO KITAZOE",
+        "OSAMA LOTFALLAH"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 36/00",
+        "H04W 8/22"
+    ]
+}

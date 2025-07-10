@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2021 020722-1",
+    "filingDate": "15/10/2021",
+    "grantDate": null,
+    "title": "CONJUNTO DE FUSOS, E, FUSO DE ALGOD\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/107,679",
+            "priorityDate": "30/10/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/449,490",
+            "priorityDate": "30/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "BRANDON C CARLSON",
+        "SANJEEV M HALLALE",
+        "MATTHEW C RONEY",
+        "CHARLES F OSTERMEIER",
+        "HEMA V GUTHY",
+        "HECTOR PORTILLO"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 46/16"
+    ]
+}

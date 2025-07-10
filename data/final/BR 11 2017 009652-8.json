@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2017 009652-8",
+    "filingDate": "10/11/2015",
+    "grantDate": null,
+    "title": "SISTEMA \u00d3PTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "IL",
+            "priorityNumber": "235642",
+            "priorityDate": "11/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "YAAKOV AMITAL",
+        "YUVAL OFIR",
+        "ELAD MOR",
+        "YAAKOV AMITAI",
+        "YUVAL OFIR",
+        "EITAN RONEN",
+        "TSION EISENFELD",
+        "RONEN CHRIKI",
+        "YOCHAY DANZIGER",
+        "RONEN CHRIKI",
+        "JONATHAN GELBERG",
+        "MATTHIEU GUILLOT",
+        "BRUNO FERMIGIER",
+        "MARIUS PELOUX",
+        "GILLES LE SAUX"
+    ],
+    "holders": [
+        181666,
+        81123
+    ],
+    "ipcCodes": [
+        "G02C 7/06",
+        "G02C 7/08"
+    ]
+}

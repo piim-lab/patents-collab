@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2016 029083-6",
+    "filingDate": "10/06/2015",
+    "grantDate": null,
+    "title": "Processo de liga\u00e7\u00e3o de uma estrutura em caix\u00e3o, compreendendo pe\u00e7as elementares, asa de aeronave e aeronave",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1455249",
+            "priorityDate": "10/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        }
+    ],
+    "inventors": [
+        "DOMINIQUE BAILLY",
+        "C\u00c9DRIC BLANCHEGEORGE",
+        "ELRIC MINARD"
+    ],
+    "holders": [
+        126783
+    ],
+    "ipcCodes": [
+        "B64C 3/26",
+        "B29C 65/48",
+        "B29C 65/72"
+    ]
+}

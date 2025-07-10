@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2017 025538-0",
+    "filingDate": "04/08/2009",
+    "grantDate": null,
+    "title": "\u00c1CIDO NUCLEICO, ANTICORPOS MONOCLONAIS HUMANO ISOLADO, SUA COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E SEUS USOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/085,980",
+            "priorityDate": "04/08/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/08/2009",
+        "applicationNumber": "PI 0917418-4"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "ZHUOZHI WANG",
+        "JOHN E MURPHY",
+        "JUNLIANG PAN",
+        "HAIYAN JIANG",
+        "BING LIU"
+    ],
+    "holders": [
+        97389
+    ],
+    "ipcCodes": [
+        "C12P 21/08",
+        "C07K 16/36"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 029044-0",
+    "filingDate": "22/05/2013",
+    "grantDate": "09/04/2019",
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UM RECEPT\u00c1CULO DE PLANTA; E RECEPT\u00c1CULO DE PLANTA FABRICADO",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2012 70270",
+            "priorityDate": "22/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "MERETHE ELLEGAARD",
+        "CARSTEN KULMBACH"
+    ],
+    "holders": [
+        146970
+    ],
+    "ipcCodes": [
+        "A01G 9/02",
+        "A01G 9/029"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2018 073042-8",
+    "filingDate": "08/11/2018",
+    "grantDate": null,
+    "title": "CABINE FOTOGR\u00c1FICA GIRAT\u00d3RIA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "EZEQUIEL LUIS PIACINI",
+        "M\u00c1RIO GUILHERME CUNHA MERCADO"
+    ],
+    "holders": [
+        43522,
+        43523
+    ],
+    "ipcCodes": [
+        "H04N 5/247",
+        "H04N 5/232",
+        "G06T 1/00"
+    ]
+}

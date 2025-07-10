@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2017 016098-6",
+    "filingDate": "04/02/2016",
+    "grantDate": "23/08/2022",
+    "title": "M\u00c9TODO DE PRODU\u00c7\u00c3O DE UM OBJETO TRIDIMENSIONAL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-022148",
+            "priorityDate": "06/02/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-101743",
+            "priorityDate": "19/05/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-153935",
+            "priorityDate": "04/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "HIROKI SAWADA",
+        "TADANORI YOSHIMURA",
+        "JOUJI HIRAI",
+        "TAKUMA KIMURA"
+    ],
+    "holders": [
+        8482
+    ],
+    "ipcCodes": [
+        "B29C 67/00",
+        "B33Y 10/00",
+        "B33Y 70/00"
+    ]
+}

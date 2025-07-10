@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2018 014985-7",
+    "filingDate": "23/07/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE BATERIA SOLAR E M\u00c9TODO DE CONTROLE DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "CN201810247432.0",
+            "priorityDate": "23/03/2018"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "CN201820403826.6",
+            "priorityDate": "23/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "QIUSHENG YANG"
+    ],
+    "holders": [
+        40265
+    ],
+    "ipcCodes": [
+        "H02S 40/38",
+        "H02S 10/20",
+        "H02S 10/40"
+    ]
+}

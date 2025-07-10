@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2014 000536-2",
+    "filingDate": "27/07/2012",
+    "grantDate": "23/06/2020",
+    "title": "POL\u00cdMERO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/512,974",
+            "priorityDate": "29/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/512,977",
+            "priorityDate": "29/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2721"
+        }
+    ],
+    "inventors": [
+        "FREDERICK K MALLON",
+        "SEUNG LEE",
+        "TAI LUE",
+        "FRANCIS C RIX",
+        "TIMOTHY M BOLLER",
+        "GARTH R GIESBRECHT",
+        "MARK G GOODE",
+        "JAMES M FARLEY",
+        "CHUEH KAO",
+        "DONGMING LI",
+        "R ERIC PEQUENO",
+        "DANIEL P ZILKER JR",
+        "TAI LUE",
+        "FRANCIS C RIX",
+        "TIMOTHY M BOLLER",
+        "GARTH R GIESBRECHT",
+        "MARK G GOODE",
+        "CHUEH KAO",
+        "DONGMING LI",
+        "R ERIC PEQUENO",
+        "DANIEL P ZILKER JR",
+        "ROBERT DJ FROESE",
+        "TERESITA KASHYAP",
+        "OSCAR D REDWINE",
+        "DANIEL J ARRIOLA",
+        "ROBERT L SAMMLER",
+        "CORNELIS FJ DEN DOELDER"
+    ],
+    "holders": [
+        1101,
+        90421,
+        81270
+    ],
+    "ipcCodes": [
+        "C08F 4/64",
+        "C08F 210/18"
+    ]
+}

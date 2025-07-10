@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 013097-8",
+    "filingDate": "26/06/2018",
+    "grantDate": null,
+    "title": "SISTEMA PARA AVALIAR A SA\u00daDE DE UM PASSAGEIRO DE UM VE\u00cdCULO A\u00c9REO E M\u00c9TODO PARA AVALIAR A SA\u00daDE DE UM PASSAGEIRO DE UM VE\u00cdCULO A\u00c9REO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/634,021",
+            "priorityDate": "27/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "RANDY E BOLLING"
+    ],
+    "holders": [
+        8
+    ],
+    "ipcCodes": [
+        "G08B 21/02",
+        "A61B 5/0402",
+        "A61B 5/0205",
+        "G08G 5/00",
+        "A61B 5/021"
+    ]
+}

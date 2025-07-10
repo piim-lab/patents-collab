@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2021 002413-5",
+    "filingDate": "08/02/2021",
+    "grantDate": null,
+    "title": "EXTRATOR DE ILHOSES",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2813"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o - Art. 87 da LPI",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "GENYR KAPPLER"
+    ],
+    "holders": [
+        9514,
+        2053,
+        65422
+    ],
+    "ipcCodes": [
+        "B09B 3/00"
+    ]
+}

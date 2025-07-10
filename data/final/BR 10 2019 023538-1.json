@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2019 023538-1",
+    "filingDate": "08/11/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DEPOSI\u00c7\u00c3O DE INSUMOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2807"
+        }
+    ],
+    "inventors": [
+        "DANIEL DA SILVA FOGA\u00c7A",
+        "MARCELO LUIS SEDOSKI JUNIOR",
+        "GUILHERME SIONEK"
+    ],
+    "holders": [
+        2559
+    ],
+    "ipcCodes": [
+        "A01C 17/00",
+        "A01C 3/06",
+        "A01B 35/00"
+    ]
+}

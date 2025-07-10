@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "BR 10 2016 019796-1",
+    "filingDate": "26/08/2016",
+    "grantDate": null,
+    "title": "MOTOR MONOF\u00c1SICO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510546028.X",
+            "priorityDate": "28/08/2015"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510543420.9",
+            "priorityDate": "28/08/2015"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510543842.6",
+            "priorityDate": "28/08/2015"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510556517.3",
+            "priorityDate": "02/09/2015"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201510867364.4",
+            "priorityDate": "27/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "15.30",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [
+        "YUE LI",
+        "CHUI YOU ZHOU",
+        "YONG WANG",
+        "YONG LI"
+    ],
+    "holders": [
+        5640
+    ],
+    "ipcCodes": [
+        "H02K 1/27",
+        "H02K 1/12",
+        "H02P 1/42",
+        "H02K 17/00"
+    ]
+}

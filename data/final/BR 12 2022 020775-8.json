@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2022 020775-8",
+    "filingDate": "30/06/2017",
+    "grantDate": null,
+    "title": "PROCESSO PARA MEDIR A QUANTIDADE DE RAMIFICA\u00c7\u00c3O DE CADEIA LONGA DO TIPO Y-PE POR 1.000 CARBONOS TOTAIS EM UM INTERPOL\u00cdMERO DE ETILENO/ALFA OLEFINA/DIENO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/357,041",
+            "priorityDate": "30/06/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/06/2017",
+        "applicationNumber": "BR 11 2018 077391-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "JUAN C TUBERQUIA",
+        "COLIN LIPISHAN",
+        "ZHE ZHOU"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "C08F 4/64",
+        "C08F 210/18"
+    ]
+}

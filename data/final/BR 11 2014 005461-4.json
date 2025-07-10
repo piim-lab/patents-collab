@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 005461-4",
+    "filingDate": "13/09/2012",
+    "grantDate": null,
+    "title": "ESTRUTURA SOLDADA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-199230",
+            "priorityDate": "13/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        }
+    ],
+    "inventors": [
+        "TSUNEHISA HANDA",
+        "SATOSHI IGI",
+        "SHIGERU ENDO",
+        "TERUKI SADASUE",
+        "TSUNEHISA HANDA",
+        "SATOSHI IGI"
+    ],
+    "holders": [
+        1442
+    ],
+    "ipcCodes": [
+        "B23K 9/00",
+        "B23K 9/02"
+    ]
+}

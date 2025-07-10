@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2020 006033-3",
+    "filingDate": "25/03/2020",
+    "grantDate": null,
+    "title": "COLETOR DE CORRENTE, CONJUNTO QUE FORMA UM \u00c2NODO OU UM C\u00c1TODO E DISPOSITIVO DE ARMAZENAMENTO DE ENERGIA EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1903146",
+            "priorityDate": "26/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "ANNE BLIN",
+        "PIERRE GUICHARD",
+        "CYRIL PAIREAU"
+    ],
+    "holders": [
+        34889
+    ],
+    "ipcCodes": [
+        "H01M 4/66"
+    ]
+}

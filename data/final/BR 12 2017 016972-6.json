@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 12 2017 016972-6",
+    "filingDate": "27/05/2004",
+    "grantDate": null,
+    "title": "M\u00e9todo de manuten\u00e7\u00e3o do enchimento de um acolchoado de um artigo de cal\u00e7ado e artigo de cal\u00e7ado incluindo um acolchoado",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/447,095",
+            "priorityDate": "28/05/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/05/2004",
+        "applicationNumber": "PI 0410954-6"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        }
+    ],
+    "inventors": [
+        "MARION FRANKLIN RUDY"
+    ],
+    "holders": [
+        350922
+    ],
+    "ipcCodes": [
+        "B01J 7/00",
+        "F16F 1/36",
+        "F16F 9/04",
+        "A43B 13/20",
+        "A43B 21/28"
+    ]
+}

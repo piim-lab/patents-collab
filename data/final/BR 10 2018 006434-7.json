@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 10 2018 006434-7",
+    "filingDate": "29/03/2018",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE SIMULA\u00c7\u00c3O EM MULTIRESOLU\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        }
+    ],
+    "inventors": [
+        "RICARDO LUIZ PAUL",
+        "RAUL CERETTA NUNES",
+        "VANDERLAN DUPONT DE OLIVEIRA"
+    ],
+    "holders": [
+        1697,
+        37401
+    ],
+    "ipcCodes": [
+        "G05B 13/02",
+        "G06F 17/50",
+        "G06N 3/02"
+    ]
+}

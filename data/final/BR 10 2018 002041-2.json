@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 10 2018 002041-2",
+    "filingDate": "30/01/2018",
+    "grantDate": null,
+    "title": "PROCESSO DE REGISTRO ELETRONICO DE IMOVEIS FINANCIADOS",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "LEONEL DANCZUK"
+    ],
+    "holders": [
+        36007
+    ],
+    "ipcCodes": [
+        "G06Q 30/06"
+    ]
+}

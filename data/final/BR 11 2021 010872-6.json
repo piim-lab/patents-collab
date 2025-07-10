@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2021 010872-6",
+    "filingDate": "27/11/2019",
+    "grantDate": null,
+    "title": "POLIA ROLANTE CATEN\u00c1RIA",
+    "nationalPhaseDate": [
+        "04/06/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/063651",
+        "pctDate": "27/11/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/774,992",
+            "priorityDate": "04/12/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/696,973",
+            "priorityDate": "26/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "JOSHUA A GRAHAM",
+        "CHARLES W AARON"
+    ],
+    "holders": [
+        290867
+    ],
+    "ipcCodes": [
+        "B65G 39/12",
+        "B65G 15/60",
+        "B65G 39/14"
+    ]
+}

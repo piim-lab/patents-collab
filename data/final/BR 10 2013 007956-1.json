@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2013 007956-1",
+    "filingDate": "02/04/2013",
+    "grantDate": null,
+    "title": "APARELHO DE EXIBI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012088755",
+            "priorityDate": "09/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "TAKESHI YAMAMOTO",
+        "TAKESHI YAMAMOTO",
+        "HIDEKI ITO",
+        "KAZUMASA KUROKAWA",
+        "MIN GYU YOON",
+        "HEONG SEOG LEE",
+        "CHUNG HOON LEE",
+        "JONG MIN JANG",
+        "CHANG YEON KIM",
+        "CHUNG HOON LEE",
+        "DAE SUNG CHO",
+        "TAKAYUKI SAKURAI"
+    ],
+    "holders": [
+        3204,
+        326,
+        5134,
+        8378,
+        158043,
+        180317
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "G06F 3/00",
+        "G06T 11/20",
+        "G06T 11/80",
+        "G06F 15/02"
+    ]
+}

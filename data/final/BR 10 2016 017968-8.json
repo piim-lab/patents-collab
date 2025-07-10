@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2016 017968-8",
+    "filingDate": "03/08/2016",
+    "grantDate": null,
+    "title": "CIRCUITO E PROCESSO PARA PONDERA\u00c7\u00c3O COM CARACTER\u00cdSTICA N\u00c3O LINEAR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2015 112852.7",
+            "priorityDate": "05/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "DANIEL LOPEZ",
+        "THOMAS NIEDERFRINIGER",
+        "ALEXANDER KAHL",
+        "STEFFEN TRAUTMANN"
+    ],
+    "holders": [
+        24111
+    ],
+    "ipcCodes": [
+        "H03M 1/12",
+        "H03M 1/46"
+    ]
+}

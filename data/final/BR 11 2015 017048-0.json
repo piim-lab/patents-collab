@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2015 017048-0",
+    "filingDate": "15/01/2014",
+    "grantDate": "13/12/2022",
+    "title": "DISPOSITIVO DE CODIFICA\u00c7\u00c3O, M\u00c9TODO PARA GERAR UM FLUXO DE BITS CODIFICADO, M\u00c9TODO PARA DETERMINAR UM N\u00cdVEL DE CONFIAN\u00c7A DE UM FLUXO DE BITS CODIFICADO RECEBIDO, M\u00c9TODO PARA TRANSCODIFICAR UM FLUXO DE BITS DE ENTRADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/754,893",
+            "priorityDate": "21/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "ANDREAS SCHNEIDER",
+        "CHRISTOF FERSCH",
+        "MARTIN WOLTERS",
+        "JEFFREY RIEDMILLER",
+        "SCOTT GREGORY NORCROSS",
+        "MICHAEL GRANT"
+    ],
+    "holders": [
+        82053,
+        91998
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04N 21/84",
+        "G10L 19/16",
+        "H04H 60/73"
+    ]
+}

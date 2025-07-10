@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2017 003879-0",
+    "filingDate": "10/09/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CONTAGEM DE EVENTOS OCORRIDOS DURANTE UMA DURA\u00c7\u00c3O T E CONTADORES MEC\u00c2NICOS DE EVENTOS ASSOCIADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1402022",
+            "priorityDate": "10/09/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2679"
+        }
+    ],
+    "inventors": [
+        "LOUVIGN\u00c9 PIERRE",
+        "MINOTTI PATRICE",
+        "SADOULET VIANNEY",
+        "GIRARDIN PASCAL",
+        "HAYE CHARLES"
+    ],
+    "holders": [
+        125572,
+        125573
+    ],
+    "ipcCodes": [
+        "G01B 5/30",
+        "G01D 5/04",
+        "G01P 15/03",
+        "G01D 5/245"
+    ]
+}

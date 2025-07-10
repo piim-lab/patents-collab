@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 13 2021 001024-9",
+    "filingDate": "19/01/2021",
+    "grantDate": null,
+    "title": "EQUIPAMENTO AUTOMATIZADO DE ABERTURA E FECHAMENTO DE CAIXAS DE TRANSPORTE DE PRODUTOS PARA ACONDICIONAMENTO EM NAVIOS",
+    "parentApplication": {
+        "filingDate": "06/12/2012",
+        "applicationNumber": "BR 10 2012 031119-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "PEDRO PAULO FATORELLI CARNEIRO"
+    ],
+    "holders": [
+        352659
+    ],
+    "ipcCodes": [
+        "B66C 1/12",
+        "B66C 3/12",
+        "B65D 88/58"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2019 026365-2",
+    "filingDate": "12/12/2019",
+    "grantDate": null,
+    "title": "\u201cM\u00c9TODO PARA MONITORAR O COMPORTAMENTO DE UM AGENTE EMSEGMENTOS GEOGR\u00c1FICOS, SISTEMA DE COMPUTADOR E M\u00c9TODO DEMONITORAMENTO ALERTA E PREVIS\u00c3O PARA DESCUMPRIMENTO DE MEDIDAS PROTETIVAS QUE UTILIZA SISTEMAS DE COMPUTADOR E M\u00c9TODOS DE MONITORAMENTO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "BEATRIZ GRITLET DE FARIAS"
+    ],
+    "holders": [
+        54799
+    ],
+    "ipcCodes": [
+        "G08B 21/02",
+        "H04W 4/02"
+    ]
+}

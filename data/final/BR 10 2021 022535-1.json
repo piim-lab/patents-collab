@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 022535-1",
+    "filingDate": "09/11/2021",
+    "grantDate": null,
+    "title": "PROCESSO PARA CONTROLE DE UMA UNIDADE DE UM DISPOSITIVO AGR\u00cdCOLA M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102020214075.8",
+            "priorityDate": "10/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN JUETTE",
+        "NICOLAS HOUIS",
+        "PABLO LUIS GUARNIZO"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "G01N 21/3554"
+    ]
+}

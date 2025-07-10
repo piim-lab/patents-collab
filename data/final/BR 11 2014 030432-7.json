@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2014 030432-7",
+    "filingDate": "05/06/2013",
+    "grantDate": "07/12/2021",
+    "title": "M\u00c1QUINA DE LAVAR.",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2012-0060405",
+            "priorityDate": "05/06/2012"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2012-0060406",
+            "priorityDate": "05/06/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2793"
+        }
+    ],
+    "inventors": [
+        "JEONG HOON KANG",
+        "MIN SUNG KIM",
+        "DONG HA JUNG",
+        "DOO YOUNG RYU"
+    ],
+    "holders": [
+        697,
+        5134
+    ],
+    "ipcCodes": [
+        "D06F 37/22"
+    ]
+}

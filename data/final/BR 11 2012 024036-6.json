@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2012 024036-6",
+    "filingDate": "23/03/2011",
+    "grantDate": null,
+    "title": "PROFILAXIA DE C\u00c2NCER COLORRETAL E GASTROINTESTINAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/317,245",
+            "priorityDate": "24/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2565"
+        }
+    ],
+    "inventors": [
+        "LEILA HOUHOU",
+        "DOMINIQUE JOUBERT",
+        "FR\u00c9D\u00c9RIC HOLLANDE",
+        "MATHIEU PETREMANN"
+    ],
+    "holders": [
+        2043,
+        87540,
+        17099
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "G01N 33/53",
+        "C07K 16/46",
+        "C12N 15/13",
+        "C12N 5/12",
+        "C07K 16/26"
+    ]
+}

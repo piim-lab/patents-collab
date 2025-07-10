@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 12 2017 003181-3",
+    "filingDate": "18/02/2014",
+    "grantDate": null,
+    "title": "COMPOSTO INIBIDOR DE TRK, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E MEDICAMENTO COMPREENDENDO DITO COMPOSTO E SEU USO PARA PROFILAXIA E/OU TERAPIA DE DOEN\u00c7A RELACIONADA \u00c0 TRK E/OU PARA INIBIR TRK",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-029563",
+            "priorityDate": "19/02/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-141246",
+            "priorityDate": "05/07/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/02/2014",
+        "applicationNumber": "BR 11 2015 019921-6"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "JUN TAKEUCHI",
+        "SATOSHI ITADANI",
+        "KAZUYA HASHIMURA",
+        "MASAHIRO IKURA",
+        "MASATO HIGASHINO",
+        "TETSUYA YASUHIRO",
+        "TAKESHI NAGAURA"
+    ],
+    "holders": [
+        80977
+    ],
+    "ipcCodes": [
+        "C07D 487/04",
+        "A61K 31/519",
+        "A61K 31/136",
+        "A61P 11/06",
+        "A61K 31/506",
+        "A61P 1/04",
+        "A61P 43/00",
+        "A61P 33/10",
+        "C07D 239/47",
+        "A61P 11/02",
+        "C07D 401/12",
+        "C07D 401/14",
+        "C07D 471/04",
+        "A61P 17/04",
+        "A61K 31/444",
+        "A61K 31/663",
+        "A61K 45/00",
+        "A61P 13/02",
+        "C07D 213/75"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2017 028328-3",
+    "filingDate": "27/12/2017",
+    "grantDate": null,
+    "title": "PROCESSO DE SEGURAN\u00c7A E TORRE DE SEGURAN\u00c7A CONTROLANDO VE\u00cdCULOS CHEGANDO EM PONTO DE VERIFICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16382655.5",
+            "priorityDate": "27/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "PEDRO CASATEJADA HERRERA"
+    ],
+    "holders": [
+        35371
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "G06Q 50/26",
+        "G08B 19/00"
+    ]
+}

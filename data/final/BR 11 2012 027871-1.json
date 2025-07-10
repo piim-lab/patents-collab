@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2012 027871-1",
+    "filingDate": "21/04/2011",
+    "grantDate": "09/06/2020",
+    "title": "PROCESSO DE FABRICA\u00c7\u00c3O DE POLIAMIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1053371",
+            "priorityDate": "30/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        }
+    ],
+    "inventors": [
+        "AUDREY DI MARTINO",
+        "THIERRY CHARBONNEAUX",
+        "FRAN\u00c7OIS THIERRY",
+        "VIRGINIE THIEBLEMONT",
+        "FRAN\u00c7OIS THIERRY"
+    ],
+    "holders": [
+        79480,
+        89981
+    ],
+    "ipcCodes": [
+        "C08G 69/26",
+        "C08G 69/28"
+    ]
+}

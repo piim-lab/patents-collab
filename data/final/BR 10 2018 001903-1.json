@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2018 001903-1",
+    "filingDate": "29/01/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE ALIMENTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-016056",
+            "priorityDate": "31/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "KEIICHI NAKAMURA",
+        "MASAHIKO TAHARA",
+        "ATSUSHI TEZUKA",
+        "TOMOYUKI KOIKE",
+        "MUNEMITSU WATANABE",
+        "AKIFUMI KOISHI",
+        "TERUMASA TSUCHIYA",
+        "MICHAEL LALONDE",
+        "ZAC CUTT",
+        "MICHAEL SUTTON",
+        "ROBERT DORION"
+    ],
+    "holders": [
+        79937,
+        315983,
+        5783
+    ],
+    "ipcCodes": [
+        "B65G 65/00",
+        "B65H 79/00",
+        "B65H 77/00",
+        "B65H 37/00"
+    ]
+}

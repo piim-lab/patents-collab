@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2018 067616-7",
+    "filingDate": "05/12/2006",
+    "grantDate": null,
+    "title": "MATERIAL DE HIPOC\u00d3TILO DA SOJA, FERMENTADO, ALIMENTO, PREPARA\u00c7\u00c3O FARMAC\u00caUTICA E PRODUTO COSMETICO CONTENDO O REFERIDO MATERIAL, USO DO MESMO E SEU M\u00c9TODO DE PRODU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2005-352337",
+            "priorityDate": "06/12/2005"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-277934",
+            "priorityDate": "11/10/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/12/2006",
+        "applicationNumber": "PI 0619484-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        102661
+    ],
+    "ipcCodes": []
+}

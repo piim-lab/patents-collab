@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2019 007778-6",
+    "filingDate": "16/04/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O, M\u00c9TODO DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O E M\u00cdDIA DE ARMAZENAMENTO DE GRAVA\u00c7\u00c3O N\u00c3O TRANSIT\u00d3RIA QUE ARMAZENA UM PROGRAMA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-089492",
+            "priorityDate": "07/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "HIROYUKI TOKITA",
+        "HIROYUKI SAWADA",
+        "SHOJIRO SUGA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60W 50/10"
+    ]
+}

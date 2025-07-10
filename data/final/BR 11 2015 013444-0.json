@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2015 013444-0",
+    "filingDate": "23/07/2013",
+    "grantDate": null,
+    "title": "USO DE UM IMUNOCONJUGADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/736,684",
+            "priorityDate": "13/12/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/749,548",
+            "priorityDate": "07/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.12",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia para tratamento de sa\u00fade",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        }
+    ],
+    "inventors": [
+        "SERENGULAM V GOVINDAN",
+        "DAVID M GOLDENBERG"
+    ],
+    "holders": [
+        157299
+    ],
+    "ipcCodes": [
+        "A61K 51/00",
+        "A61M 36/14"
+    ]
+}

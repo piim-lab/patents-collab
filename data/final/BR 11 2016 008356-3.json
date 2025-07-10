@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 008356-3",
+    "filingDate": "13/10/2014",
+    "grantDate": null,
+    "title": "PROCESSO/M\u00c9TODO PARA PREPARA\u00c7\u00c3O DE UMA PEL\u00cdCULA SOL\u00daVEL EM \u00c1GUA DE R\u00c1PIDA DISSOLU\u00c7\u00c3O ORAL E PEL\u00cdCULA ORAL FINA",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "3221/MUM/2013",
+            "priorityDate": "14/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "ANWAR SIRAJ DAUD",
+        "NIDHI PRAKASH SAPKAL",
+        "MINAL NANDKUMAR BONDE"
+    ],
+    "holders": [
+        172986
+    ],
+    "ipcCodes": [
+        "A61K 9/58"
+    ]
+}

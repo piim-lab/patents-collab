@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 000432-8",
+    "filingDate": "08/01/2020",
+    "grantDate": null,
+    "title": "CONJUNTO DE PAINEL PARA USO EM UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/389,219",
+            "priorityDate": "19/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "BRANDON HEIN"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B64D 11/00",
+        "B64C 1/12"
+    ]
+}

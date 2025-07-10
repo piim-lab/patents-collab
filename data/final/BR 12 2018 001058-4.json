@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2018 001058-4",
+    "filingDate": "18/10/2007",
+    "grantDate": "04/09/2018",
+    "title": "APARELHO PARA CONTINUAMENTE PRODUZIR \u00c1CIDO PEROXIMONOSSULF\u00daRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-284218",
+            "priorityDate": "18/10/2006"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2006-284219",
+            "priorityDate": "18/10/2006"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/10/2007",
+        "applicationNumber": "PI 0717530-2"
+    },
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "KIYOSHI YOSHIDA",
+        "TETSUO KOSHITSUKA",
+        "KAORU TSUYUKI",
+        "WAKANA UESUGI"
+    ],
+    "holders": [
+        80138
+    ],
+    "ipcCodes": [
+        "B01F 13/10",
+        "B01F 15/06",
+        "C01B 15/06"
+    ]
+}

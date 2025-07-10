@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 000074-0",
+    "filingDate": "08/07/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA FORMAR UM REVESTIMENTO PROTETOR NA SUPERF\u00cdCIE DE UMA PE\u00c7A MET\u00c1LICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1055633",
+            "priorityDate": "09/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "JUSTINE MENUEY",
+        "ANDR\u00c9 HUBERT LOUIS MALIE"
+    ],
+    "holders": [
+        79254
+    ],
+    "ipcCodes": [
+        "C23C 10/52",
+        "C23C 10/06",
+        "C23C 10/14",
+        "C23C 10/34",
+        "C23C 10/50"
+    ]
+}

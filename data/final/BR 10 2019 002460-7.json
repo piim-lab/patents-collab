@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2019 002460-7",
+    "filingDate": "07/02/2019",
+    "grantDate": null,
+    "title": "SISTEMA INTEGRADO E AUTOMATIZADO DE REGISTRO DE PAR\u00c2METROS DE ARMAZENAMENTO COM CONEX\u00c3O A BANCO DE DADOS CENTRALIZADO E APLICA\u00c7\u00c3O DE ALGORITMOS INTELIGENTES PARA FINS DE REPOSI\u00c7\u00c3O LOG\u00cdSTICA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "ALEXANDRE AUSTRICLIANO BARBOSA DE SAN GALO",
+        "\u00c2NGELO FERREIRA CHAVES"
+    ],
+    "holders": [
+        46283,
+        46284
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G06Q 10/10"
+    ]
+}

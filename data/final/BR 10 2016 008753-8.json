@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2016 008753-8",
+    "filingDate": "19/04/2016",
+    "grantDate": null,
+    "title": "PROCESSO PARA SECAGEM DE MATERIAL \u00daMIDO COM O AUX\u00cdLIO DE UMA INSTALA\u00c7\u00c3O DE SECAGEM E INSTALA\u00c7\u00c3O DE SECAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2015 106 120.1",
+            "priorityDate": "21/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "STEFAN OSTERMANN"
+    ],
+    "holders": [
+        18394
+    ],
+    "ipcCodes": [
+        "C02F 11/12",
+        "F26B 25/22"
+    ]
+}

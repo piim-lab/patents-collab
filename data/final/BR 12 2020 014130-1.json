@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2020 014130-1",
+    "filingDate": "16/03/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA DESCOBRIR SERVI\u00c7O DE DIFUS\u00c3O/MULTIDIFUS\u00c3O DE MULTIM\u00cdDIA EM UM SISTEMA DE COMUNICA\u00c7\u00c3O SEM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/453,893",
+            "priorityDate": "17/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/494,795",
+            "priorityDate": "08/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/421,819",
+            "priorityDate": "15/03/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/03/2012",
+        "applicationNumber": "BR 11 2013 023801-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        }
+    ],
+    "inventors": [
+        "XIAOXIA ZHANG",
+        "JUN WANG",
+        "ZHENGWEI LIU",
+        "ANDREA GARAVAGLIA",
+        "CHUN LEE",
+        "GEORGE CHERIAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 72/00"
+    ]
+}

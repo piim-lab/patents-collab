@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2018 006102-6",
+    "filingDate": "11/08/2016",
+    "grantDate": null,
+    "title": "?T\u00c9CNICAS PARA GERENCIAR CERTIFICADOS EM UM DISPOSITIVO DE COMPUTA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "26/03/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/046586",
+        "pctDate": "11/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/865,448",
+            "priorityDate": "25/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2549"
+        }
+    ],
+    "inventors": [
+        "MARIA MIRANDA",
+        "QAZI BASHIR",
+        "SATYAJIT PATNE",
+        "RON KEIDAR"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 9/32"
+    ]
+}

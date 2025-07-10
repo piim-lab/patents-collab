@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2017 000079-2",
+    "filingDate": "08/07/2015",
+    "grantDate": "11/07/2023",
+    "title": "SISTEMA OPERADO REMOTAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1401530",
+            "priorityDate": "08/07/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "J\u00c9R\u00c9MIE SOULIER"
+    ],
+    "holders": [
+        182582
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "H04L 29/06",
+        "G01C 15/00",
+        "B64C 39/02",
+        "H04W 12/10"
+    ]
+}

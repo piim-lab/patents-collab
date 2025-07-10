@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 022498-1",
+    "filingDate": "19/12/2014",
+    "grantDate": null,
+    "title": "REBOQUE DE TREM DE REBOQUES",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2014 101 510.8",
+            "priorityDate": "31/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "FRITZ BERGHAMMER"
+    ],
+    "holders": [
+        180505
+    ],
+    "ipcCodes": [
+        "B62D 53/00",
+        "B60P 1/43",
+        "B60P 1/02"
+    ]
+}

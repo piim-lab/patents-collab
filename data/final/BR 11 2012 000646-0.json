@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2012 000646-0",
+    "filingDate": "08/07/2010",
+    "grantDate": "03/09/2019",
+    "title": "FILTRO EL\u00c9TRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2009 032 910.2",
+            "priorityDate": "10/07/2009"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2009 060 254.2",
+            "priorityDate": "23/12/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "CLAUDE BRUPBACHER",
+        "JAN ADAMS",
+        "THILO W\u00dcBBELS"
+    ],
+    "holders": [
+        79826
+    ],
+    "ipcCodes": [
+        "B03C 3/41",
+        "B03C 3/86",
+        "B03C 3/49"
+    ]
+}

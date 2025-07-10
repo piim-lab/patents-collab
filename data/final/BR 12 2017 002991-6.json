@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 12 2017 002991-6",
+    "filingDate": "04/10/2004",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES IMUNOG\u00caNICAS AQUOSAS PARA M\u00daLTIPLOS SOROGRUPOS MENINGOC\u00d3CICOS E USO DE ANT\u00cdGENO DE SACAR\u00cdDEO CAPSULAR CONJUGADO DO SOROGRUPO C, W135, Y, B, A NA FABRICA\u00c7\u00c3O DE UM MEDICAMENTO PARA DESPERTAR UMA RESPOSTA IMUNE EM UM MAM\u00cdFERO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0323102.4",
+            "priorityDate": "02/10/2003"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0412052.3",
+            "priorityDate": "28/05/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/10/2004",
+        "applicationNumber": "PI 0415025-2"
+    },
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "MARIO CONTORNI"
+    ],
+    "holders": [
+        350785
+    ],
+    "ipcCodes": [
+        "A61K 39/095",
+        "A61K 39/102",
+        "A61K 39/09"
+    ]
+}

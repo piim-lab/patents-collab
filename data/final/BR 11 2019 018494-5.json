@@ -1,0 +1,94 @@
+{
+    "applicationNumber": "BR 11 2019 018494-5",
+    "filingDate": "10/08/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE REMO\u00c7\u00c3O DE UMA AMINA AROM\u00c1TICA, M\u00c9TODO DE PREPARA\u00c7\u00c3O DE UMA SOLU\u00c7\u00c3O AQUOSA DE LEUCO\u00cdNDIGO, SOLU\u00c7\u00c3O AQUOSA EST\u00c1VEL DE LEUCO\u00cdNDIGO E M\u00c9TODO DE PRODU\u00c7\u00c3O DE \u00cdNDIGO",
+    "nationalPhaseDate": [
+        "05/09/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2018/071800",
+        "pctDate": "10/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17185980.4",
+            "priorityDate": "11/08/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17185971.3",
+            "priorityDate": "11/08/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17185976.2",
+            "priorityDate": "11/08/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18173343.7",
+            "priorityDate": "18/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2763"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2769"
+        }
+    ],
+    "inventors": [
+        "ERWIN LUCIC",
+        "J\u00d6RG H\u00dcBNER",
+        "DAVID HYETT",
+        "MICH\u00c8LE CATHERINE CHRISTIANNE JANSSEN",
+        "KARIN HENDRIKA MARIA BESSEMBINDER",
+        "PIERRE L WOESTENBORGHS",
+        "MARINUS PETRUS WILHELMUS MARIA RIJKERS"
+    ],
+    "holders": [
+        91608
+    ],
+    "ipcCodes": [
+        "C09B 67/54",
+        "C09B 67/44",
+        "D06P 1/22",
+        "D06P 1/673",
+        "C09B 7/02",
+        "C09B 7/12"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 12 2020 026383-0",
+    "filingDate": "13/01/2017",
+    "grantDate": null,
+    "title": "SAT\u00c9LITE PARA FORNECER COMUNICA\u00c7\u00d5ES ENTRE UMA PLURALIDADE DE N\u00d3S DE ACESSO E M\u00c9TODO PARA FORNECER UM SERVI\u00c7O DE COMUNICA\u00c7\u00c3O A TERMINAIS DE USU\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/278,368",
+            "priorityDate": "13/01/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/298,911",
+            "priorityDate": "23/02/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/312,342",
+            "priorityDate": "23/03/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/314,921",
+            "priorityDate": "29/03/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2016/026815",
+            "priorityDate": "08/04/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/431,416",
+            "priorityDate": "07/12/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/01/2017",
+        "applicationNumber": "BR 11 2017 021549-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER CRONIN",
+        "MARK MILLER",
+        "MARK DANKBERG",
+        "KENNETH BUER",
+        "DONALD RUNYON"
+    ],
+    "holders": [
+        79341
+    ],
+    "ipcCodes": [
+        "H04B 7/185",
+        "H04B 7/204"
+    ]
+}

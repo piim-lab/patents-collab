@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 019290-9",
+    "filingDate": "27/09/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA MONITORAR A QUALIDADE DO SPRAY",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/106,038",
+            "priorityDate": "27/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2679"
+        }
+    ],
+    "inventors": [
+        "NATHAN BROOKS",
+        "SCOTT ALLEN LONG",
+        "TREVOR STANHOPE",
+        "MONTE GENE WELLER"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "A01M 7/00"
+    ]
+}

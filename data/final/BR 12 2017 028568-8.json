@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2017 028568-8",
+    "filingDate": "11/11/2011",
+    "grantDate": null,
+    "title": "Uso de PM01183, ou um sal farmaceuticamente aceit\u00e1vel do mesmo, em combina\u00e7\u00e3o sin\u00e9rgica com um inibidor mit\u00f3tico e kit",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10382300.1",
+            "priorityDate": "12/11/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/11/2011",
+        "applicationNumber": "BR 11 2013 011480-0"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "VICTORIA MONEO OCA\u00d1A",
+        "GEMA SANTAMAR\u00cdA N\u00da\u00d1EZ",
+        "LUIS FRANCISCO GARC\u00cdA FERN\u00c1NDEZ",
+        "CARLOS MAR\u00cdA GALMARINI",
+        "MAR\u00cdA JOS\u00c9 GUILL\u00c9N NAVARRO",
+        "PABLO MANUEL AVIL\u00c9S MAR\u00cdN"
+    ],
+    "holders": [
+        101979
+    ],
+    "ipcCodes": [
+        "A61K 31/519",
+        "A61P 35/02",
+        "A61K 31/4995",
+        "A61K 31/513",
+        "A61K 38/15",
+        "A61K 31/69",
+        "A61K 31/7068",
+        "A61K 45/06"
+    ]
+}

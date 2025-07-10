@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2017 012289-8",
+    "filingDate": "14/09/2015",
+    "grantDate": null,
+    "title": "AGENTE PARA INJE\u00c7\u00c3O HIPOD\u00c9RMICA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-252327",
+            "priorityDate": "12/12/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-129289",
+            "priorityDate": "26/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "ATSUSHI KANAUCHI"
+    ],
+    "holders": [
+        191856
+    ],
+    "ipcCodes": [
+        "A61K 9/08",
+        "A61K 47/38",
+        "A61P 17/00",
+        "A61K 33/42",
+        "A61L 27/00"
+    ]
+}

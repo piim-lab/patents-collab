@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2017 015301-7",
+    "filingDate": "12/01/2016",
+    "grantDate": null,
+    "title": "TRANSPORTADOR DE OVOS SEM FIM",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2014157",
+            "priorityDate": "19/01/2015"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2014156",
+            "priorityDate": "19/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "HENDRIK ELFERINK",
+        "JAN HORDIJK"
+    ],
+    "holders": [
+        193353
+    ],
+    "ipcCodes": [
+        "A01K 43/00",
+        "B41J 3/407",
+        "B65B 65/02",
+        "B65G 17/06",
+        "B65B 23/06",
+        "B65G 17/12",
+        "A01K 43/10",
+        "B41F 17/30"
+    ]
+}

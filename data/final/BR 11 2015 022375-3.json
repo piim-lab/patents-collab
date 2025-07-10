@@ -1,0 +1,94 @@
+{
+    "applicationNumber": "BR 11 2015 022375-3",
+    "filingDate": "13/03/2014",
+    "grantDate": "30/05/2023",
+    "title": "PROTE\u00cdNAS F DE RSV PR\u00c9-FUS\u00c3O E SEU USO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/780,910",
+            "priorityDate": "13/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/798,389",
+            "priorityDate": "15/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/857,613",
+            "priorityDate": "23/07/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/863,909",
+            "priorityDate": "09/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "JEFFREY BOYINGTON",
+        "IVELIN STEFANOV GEORGIEV",
+        "MARIE PANCERA",
+        "CINQUE SOTO",
+        "SANJAY SRIVATSAN",
+        "GUILLAUME STEWART",
+        "PETER D KWONG",
+        "BARNEY S GRAHAM",
+        "JASON S MCLELLAN",
+        "MICHAEL GORDON JOYCE",
+        "MASARU KANEKIYO",
+        "BAOSHAN ZHANG",
+        "LEI CHEN",
+        "MAN CHEN",
+        "YU CHUANG",
+        "JASON GORMAN",
+        "YONGPING YANG",
+        "TONGQING ZHOU",
+        "GILAD OFEK",
+        "MALLIKA SASTRY"
+    ],
+    "holders": [
+        98525
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "C12N 15/62",
+        "A61K 38/10",
+        "A61P 43/00",
+        "A61K 39/155",
+        "C07K 14/135",
+        "C12N 15/45"
+    ]
+}

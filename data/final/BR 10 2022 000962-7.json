@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 000962-7",
+    "filingDate": "18/01/2022",
+    "grantDate": null,
+    "title": "MECANISMO ROTATIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/301,821",
+            "priorityDate": "15/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "RAMESH KRISHNA DANDAGE",
+        "BHUVAN KOTHARI",
+        "BRENT R GERNANT"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "H02K 7/20"
+    ]
+}

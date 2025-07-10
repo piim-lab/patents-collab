@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2022 024877-6",
+    "filingDate": "04/06/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PROCESSAMENTO DE ROTA E DISPOSITIVO RELATIVO",
+    "nationalPhaseDate": [
+        "06/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2021/098243",
+        "pctDate": "04/06/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202010549885.6",
+            "priorityDate": "16/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "WEIGUO HAO",
+        "HAIBO WANG",
+        "XINGJIAN HE",
+        "GANG YAN",
+        "LIANGCHUAN GAO"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 12/751",
+        "H04L 12/703"
+    ]
+}

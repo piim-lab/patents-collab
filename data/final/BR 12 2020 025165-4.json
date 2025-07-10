@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 12 2020 025165-4",
+    "filingDate": "04/04/2018",
+    "grantDate": null,
+    "title": "Conjunto de \u00e2ncora intracard\u00edaca",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/481,846",
+            "priorityDate": "05/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/509,587",
+            "priorityDate": "22/05/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/558,315",
+            "priorityDate": "13/09/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/943,792",
+            "priorityDate": "03/04/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/04/2018",
+        "applicationNumber": "BR 11 2019 020864-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "VIVEK RAJAGOPAL",
+        "JAIME EDUARDO SARABIA",
+        "YENCHIN LIAO"
+    ],
+    "holders": [
+        252087
+    ],
+    "ipcCodes": [
+        "A61B 17/00",
+        "A61B 17/04",
+        "A61B 17/064",
+        "A61F 2/24",
+        "A61B 17/08"
+    ]
+}

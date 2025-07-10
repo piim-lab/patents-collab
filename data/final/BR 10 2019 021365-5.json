@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2019 021365-5",
+    "filingDate": "10/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE VENDAS DE PRODUTOS INDUSTRIALIZADOS PARA USU\u00c1RIOS ATRAV\u00c9S DE UMA M\u00c1QUINA DE VENDAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "TIAGO VIDAL GODOI",
+        "GUILHERME AUGUSTO BILEKI"
+    ],
+    "holders": [
+        52757
+    ],
+    "ipcCodes": [
+        "G06Q 20/18",
+        "G07F 7/00"
+    ]
+}

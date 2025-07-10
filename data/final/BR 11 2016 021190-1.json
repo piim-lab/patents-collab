@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2016 021190-1",
+    "filingDate": "01/04/2015",
+    "grantDate": "26/04/2022",
+    "title": "CONECTOR EL\u00c9TRICO MULTIPOLAR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 004 832.2",
+            "priorityDate": "02/04/2014"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 015 715.6",
+            "priorityDate": "23/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "VOLKER THURAU",
+        "RENE REISSMANN",
+        "DANIEL REIMANN"
+    ],
+    "holders": [
+        87350
+    ],
+    "ipcCodes": [
+        "H01R 13/52",
+        "H01R 13/58",
+        "H01R 13/436"
+    ]
+}

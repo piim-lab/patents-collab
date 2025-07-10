@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2023 000782-4",
+    "filingDate": "17/11/2017",
+    "grantDate": null,
+    "title": "FITA ISOLANTE",
+    "divisionalApplication": {
+        "filingDate": "17/11/2017",
+        "applicationNumber": "BR 11 2019 009569-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        242042
+    ],
+    "ipcCodes": []
+}

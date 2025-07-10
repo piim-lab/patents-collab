@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2020 004273-7",
+    "filingDate": "16/07/2016",
+    "grantDate": null,
+    "title": "CARTUCHO DE AN\u00c1LISE DE AMOSTRAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/194,101",
+            "priorityDate": "17/07/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/07/2016",
+        "applicationNumber": "BR 11 2018 000851-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "AYUB KHATTAK",
+        "CLINTON SEVER",
+        "PAUL NELSON",
+        "RYAN COOPER",
+        "THOMAS CONGDON",
+        "JUSTIN DEMARTINO",
+        "RAPHAEL SHAPIRO",
+        "MARK DUNCAN"
+    ],
+    "holders": [
+        162240
+    ],
+    "ipcCodes": []
+}

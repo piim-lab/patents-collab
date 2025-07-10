@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2021 012828-0",
+    "filingDate": "16/12/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR C2 A C5 PARAFINAS",
+    "nationalPhaseDate": [
+        "28/06/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/066532",
+        "pctDate": "16/12/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/785,831",
+            "priorityDate": "28/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "ALEXEY KIRILIN",
+        "ADAM CHOJECKI",
+        "GLENN POLLEFEYT",
+        "DAVY LS NIESKENS",
+        "KYLE C ANDREWS",
+        "VERA P SANTOS CASTRO",
+        "JOSEPH F DEWILDE",
+        "DAVID F YANCEY",
+        "ANDRZEJ MALEK"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "B01J 29/70",
+        "B01J 23/08",
+        "C10G 2/00"
+    ]
+}

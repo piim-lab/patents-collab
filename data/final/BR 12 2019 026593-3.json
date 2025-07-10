@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 12 2019 026593-3",
+    "filingDate": "04/11/2013",
+    "grantDate": null,
+    "title": "PROCESSOS PARA HIDROPROCESSAMENTO DE UMA ALIMENTA\u00c7\u00c3O DE HIDROCARBONETOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/669,540",
+            "priorityDate": "06/11/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/051,495",
+            "priorityDate": "11/10/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/11/2013",
+        "applicationNumber": "BR 11 2015 009859-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "HASAN DINDI",
+        "ALAN HOWARD PULLEY",
+        "THANH GIA TA",
+        "VINCENT ADAM KUPERAVAGE JR"
+    ],
+    "holders": [
+        119901
+    ],
+    "ipcCodes": [
+        "C10G 65/12",
+        "C10G 7/00",
+        "C10G 45/22"
+    ]
+}

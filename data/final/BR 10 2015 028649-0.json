@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2015 028649-0",
+    "filingDate": "16/11/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA MANUSEIO DE ARTIGOS COM UM DISPOSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 223 393.3",
+            "priorityDate": "17/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN WESTERMEIER",
+        "JOSEF UNTERSEHER",
+        "MANUEL KOLLMUSS",
+        "MARCO EHBERGER",
+        "MICHAEL HARTL",
+        "PETER ZEINER"
+    ],
+    "holders": [
+        183
+    ],
+    "ipcCodes": [
+        "B65G 47/90",
+        "B25J 11/00",
+        "B25J 17/02"
+    ]
+}

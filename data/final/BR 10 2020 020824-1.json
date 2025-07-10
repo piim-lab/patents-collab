@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 020824-1",
+    "filingDate": "09/10/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE PARA CONTROLAR UMA M\u00c1QUINA AGR\u00cdCOLA, E, M\u00c9TODO IMPLEMENTADO POR COMPUTADOR.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/923869",
+            "priorityDate": "21/10/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/010324",
+            "priorityDate": "02/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "SANDEEP EKHE",
+        "MANDAR MHALSAKANT KALE",
+        "SEAN A MAHRT",
+        "WILLIAM DOUGLAS GRAHAM",
+        "PETER R NEDVED",
+        "GRANT J WONDERLICH",
+        "ROBERT T CASPER",
+        "OMKAR JOSHI"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 7/20",
+        "A01B 69/04",
+        "A01C 7/10"
+    ]
+}

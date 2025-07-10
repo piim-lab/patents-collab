@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 014636-0",
+    "filingDate": "18/12/2014",
+    "grantDate": "03/05/2022",
+    "title": "APARELHO E M\u00c9TODO PARA MEDI\u00c7\u00c3O DE RADIA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1322939.8",
+            "priorityDate": "23/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "ANDREW MICHAEL LUKE AMBROSE",
+        "KEVAN BRADLEY DALES",
+        "EMANUELE RONCHI",
+        "CHRISTOPHER THOMAS HUDSON"
+    ],
+    "holders": [
+        83854
+    ],
+    "ipcCodes": [
+        "G01V 5/00",
+        "G01T 1/36",
+        "G01T 1/40",
+        "G01T 1/175"
+    ]
+}

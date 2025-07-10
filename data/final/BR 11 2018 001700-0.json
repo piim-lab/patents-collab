@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2018 001700-0",
+    "filingDate": "22/07/2016",
+    "grantDate": "30/05/2023",
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE CORRE\u00c7\u00c3O DE ERRO RS",
+    "nationalPhaseDate": [
+        "26/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2016/091012",
+        "pctDate": "22/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "2015104611884",
+            "priorityDate": "31/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2746"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "JIANG SHENGZHANG",
+        "WU WEIDONG"
+    ],
+    "holders": [
+        206351
+    ],
+    "ipcCodes": [
+        "H03M 13/15"
+    ]
+}

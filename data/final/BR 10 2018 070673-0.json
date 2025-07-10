@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2018 070673-0",
+    "filingDate": "08/10/2018",
+    "grantDate": null,
+    "title": "GERAR DI\u00c1LOGO BASEADO EM PONTUA\u00c7\u00d5ES DE VERIFICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/806,667",
+            "priorityDate": "08/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        }
+    ],
+    "inventors": [
+        "JONATHAN HUANG",
+        "DAVID PEARCE",
+        "WILLEM M BELTMAN"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "G10L 15/18",
+        "G10L 17/02",
+        "G10L 17/06"
+    ]
+}

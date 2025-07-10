@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2016 001590-8",
+    "filingDate": "05/11/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REDUZIR \u00d3XIDO DE FERRO A FERRO MET\u00c1LICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/955654",
+            "priorityDate": "31/07/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/069493",
+            "priorityDate": "01/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "GARY E METIUS",
+        "JAMES M MCCLELLAND JR",
+        "DAVID C MEISSNER",
+        "STEPHEN C MONTAGUE"
+    ],
+    "holders": [
+        126730
+    ],
+    "ipcCodes": [
+        "C21B 13/02",
+        "C01B 3/24",
+        "C21C 5/40"
+    ]
+}

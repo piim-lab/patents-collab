@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2022 006511-0",
+    "filingDate": "04/04/2022",
+    "grantDate": null,
+    "title": "MICRODOSAGEM PARA COMPRESS\u00c3O DE V\u00cdDEO DE BAIXA TAXA DE BITS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/172,315",
+            "priorityDate": "08/04/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/255,280",
+            "priorityDate": "13/10/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/704,722",
+            "priorityDate": "25/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "ABDELAZIZ DJELOUAH",
+        "LEONHARD MARKUS HELMINGER",
+        "ROBERTO GERSON DE ALBUQUERQUE AZEVEDO",
+        "SCOTT LABROZZI",
+        "CHRISTOPHER RICHARD SCHROERS",
+        "YUANYI XUE"
+    ],
+    "holders": [
+        75225,
+        30358
+    ],
+    "ipcCodes": [
+        "G06N 7/00",
+        "H04N 19/42",
+        "G06N 20/00"
+    ]
+}

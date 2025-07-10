@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 074656-1",
+    "filingDate": "29/11/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICAR UM ARRANJO DE VEDA\u00c7\u00c3O DE JANELA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/826,010",
+            "priorityDate": "29/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "MATT THOMSON",
+        "STEPHEN J MURREE",
+        "TOM GROTERS",
+        "ROBERT KRUEGER",
+        "MARKO JOSTEN"
+    ],
+    "holders": [
+        44144
+    ],
+    "ipcCodes": [
+        "B60J 10/70",
+        "B60J 10/84",
+        "B60J 10/18"
+    ]
+}

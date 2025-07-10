@@ -1,0 +1,81 @@
+{
+    "applicationNumber": "BR 12 2021 025287-4",
+    "filingDate": "26/06/2020",
+    "grantDate": null,
+    "title": "CATALISADOR DE OXIDA\u00c7\u00c3O COMP\u00d3SITO, SISTEMA DE ESCAPE, VE\u00cdCULO A DIESEL, E, USO DE UM CATALISADOR DE OXIDA\u00c7\u00c3O COMP\u00d3SITO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19182733.6",
+            "priorityDate": "26/06/2019"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1914958.2",
+            "priorityDate": "16/10/2019"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2004768.4",
+            "priorityDate": "31/03/2020"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/06/2020",
+        "applicationNumber": "BR 11 2021 023675-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "ANDREW CHIFFEY",
+        "KIERAN COLE",
+        "OLIVER COOPER",
+        "CHRISTOPHER DALY",
+        "LEE GILBERT",
+        "ROBERT HANLEY",
+        "DAVID MICALLEF",
+        "FRANCOIS MOREAU",
+        "PAUL PHILLIPS",
+        "GEORGE PLATT"
+    ],
+    "holders": [
+        83854
+    ],
+    "ipcCodes": [
+        "B01D 53/94",
+        "F01N 3/10",
+        "B01J 37/02",
+        "B01J 35/00",
+        "B01J 23/58"
+    ]
+}

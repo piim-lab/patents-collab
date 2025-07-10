@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2015 026766-1",
+    "filingDate": "25/04/2014",
+    "grantDate": null,
+    "title": "PROCESSAMENTO DE HIDROXICARBOX\u00cdLICO \u00c1CIDOS PARA POL\u00cdMEROS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/816,664",
+            "priorityDate": "26/04/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/941,771",
+            "priorityDate": "19/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "MARSHALL MEDOFF",
+        "THOMAS CRAIG MASTERMAN",
+        "ROBERT PARADIS"
+    ],
+    "holders": [
+        87483
+    ],
+    "ipcCodes": [
+        "B01J 3/00"
+    ]
+}

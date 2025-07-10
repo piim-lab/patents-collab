@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2018 003879-2",
+    "filingDate": "31/08/2016",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA SUBCONJUNTO E FABRICA\u00c7\u00c3O DE VE\u00cdCULOS",
+    "nationalPhaseDate": [
+        "27/02/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/049796",
+        "pctDate": "31/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/212.556",
+            "priorityDate": "31/08/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/255.372",
+            "priorityDate": "13/11/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2754"
+        }
+    ],
+    "inventors": [
+        "KEVIN R CZINGER",
+        "WILLIAM BRADLEY BALZER",
+        "PRAVEEN VARMA PENMETSA",
+        "ZACHARY MEYER OMOHUNDRO",
+        "MATTHEW M OBRIEN",
+        "BROC WILLIAM TENHOUTEN",
+        "RICHARD W HOYLE"
+    ],
+    "holders": [
+        185222
+    ],
+    "ipcCodes": [
+        "B29C 67/00",
+        "B33Y 10/00",
+        "B62D 23/00",
+        "B33Y 80/00",
+        "B62D 27/02",
+        "B29C 64/00"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 012172-3",
+    "filingDate": "14/06/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ALOCAR CANAIS DE FREQU\u00caNCIA A UMA S\u00c9RIE DE PONTOS DE ACESSO VIZINHOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17305724.1",
+            "priorityDate": "14/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "OLIVIER JEUNEN",
+        "PATRICK BOSCH",
+        "ENSAR ZELJKOVIC",
+        "KAREL VAN DOORSELAER",
+        "NICK GODMAN"
+    ],
+    "holders": [
+        34116
+    ],
+    "ipcCodes": [
+        "H04L 5/00"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 012545-2",
+    "filingDate": "03/12/2013",
+    "grantDate": null,
+    "title": "BASE DE RECIPIENTE COM P\u00c9S",
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "WALTER J STRASSER",
+        "MARK WOLOSZYK",
+        "GUIZHANG ZHENG",
+        "THEODORE F EBERLE",
+        "PANKAJ KUMAR",
+        "NITIN GULATI"
+    ],
+    "holders": [
+        81484
+    ],
+    "ipcCodes": [
+        "B65D 1/02",
+        "B65D 1/40",
+        "B65D 25/24"
+    ]
+}

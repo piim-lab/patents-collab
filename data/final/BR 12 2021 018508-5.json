@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2021 018508-5",
+    "filingDate": "06/12/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO REALIZADO EM UM DISPOSITIVO DE IMAGEM E DISPOSITIVO DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/567,579",
+            "priorityDate": "06/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/674/503",
+            "priorityDate": "23/07/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/703.449",
+            "priorityDate": "20/09/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/12/2012",
+        "applicationNumber": "BR 11 2014 012927-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "JON SCOTT MILLER",
+        "SCOTT DALY",
+        "MAHDI NEZAMABADI",
+        "ROBIN ATKINS"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "G09G 5/00",
+        "G06F 3/14",
+        "G06T 5/00"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2021 013284-1",
+    "filingDate": "05/07/2021",
+    "grantDate": null,
+    "title": "PROCESSO DE HIDRORREFINAMENTO DE MAT\u00c9RIAS-PRIMAS BIOL\u00d3GICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/923,152",
+            "priorityDate": "08/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "DOMINIC DEBONIS"
+    ],
+    "holders": [
+        7745
+    ],
+    "ipcCodes": [
+        "C10G 49/00"
+    ]
+}

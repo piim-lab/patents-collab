@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2022 019912-4",
+    "filingDate": "30/09/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O ADITIVA DE UMA ESTRUTURA COM UMA ABERTURA DE ACESSO REFOR\u00c7ADA E ESTRUTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/515,608",
+            "priorityDate": "01/11/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "XIAOPENG LI",
+        "BIAO FANG",
+        "PASCAL MEYER",
+        "CHRISTOPHER JAMES KENNY"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "B28B 1/14",
+        "E04H 12/12",
+        "B28B 1/00"
+    ]
+}

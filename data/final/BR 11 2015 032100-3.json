@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2015 032100-3",
+    "filingDate": "26/06/2014",
+    "grantDate": "06/09/2022",
+    "title": "PROCESSO DE GERA\u00c7\u00c3O DE GERM\u00c2NIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/840,103",
+            "priorityDate": "27/06/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "DR WILLIAM C UHLAND",
+        "DR DAVID WAYNE PIPES",
+        "MELISSA DIANNE PERRIGO"
+    ],
+    "holders": [
+        117222
+    ],
+    "ipcCodes": [
+        "G21G 1/10",
+        "G21G 1/00"
+    ]
+}

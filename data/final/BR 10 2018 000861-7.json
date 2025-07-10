@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 000861-7",
+    "filingDate": "16/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA A DETERMINA\u00c7\u00c3O DA LOCALIZA\u00c7\u00c3O DE FALHA DE UMA FALHA DE TERRA RELATIVA A UMA LINHA DE UMA REDE DE ALIMENTA\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA TRIF\u00c1SICA QUE POSSUI UM PONTO NEUTRO N\u00c3O ATERRADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17151996.0",
+            "priorityDate": "18/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "CEZARY DZIENIS",
+        "ANDREAS JURISCH"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "G01R 31/08"
+    ]
+}

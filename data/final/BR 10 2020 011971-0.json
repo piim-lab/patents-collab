@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 011971-0",
+    "filingDate": "15/06/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c1QUINA DE TRABALHO PARA UMA OPERA\u00c7\u00c3O DE PLANTIO COM ALTA EFICI\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/512,050",
+            "priorityDate": "15/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "RITESH KONDEKAR",
+        "SYED GOUSE MOIDDIN"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 11/02"
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "applicationNumber": "BR 11 2013 006783-7",
+    "filingDate": "20/09/2011",
+    "grantDate": null,
+    "title": "SISTEMA DE REDE",
+    "nationalPhaseDate": [
+        "25/03/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2011/052420",
+        "pctDate": "20/09/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/384,456",
+            "priorityDate": "20/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/385,020",
+            "priorityDate": "21/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/418,509",
+            "priorityDate": "01/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/422,574",
+            "priorityDate": "13/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/237,827",
+            "priorityDate": "20/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "15.9",
+            "description": "Perda de Prioridade",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "12.6",
+            "description": "Outros Recursos",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "GREGORY G RALEIGH",
+        "JAMES LAVINE",
+        "GREGORY G RALEIGH",
+        "JAMES LAVINE"
+    ],
+    "holders": [
+        103596
+    ],
+    "ipcCodes": [
+        "G06Q 30/04",
+        "H04W 4/24",
+        "H04M 15/00"
+    ]
+}

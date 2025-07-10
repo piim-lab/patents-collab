@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2019 004994-0",
+    "filingDate": "19/09/2016",
+    "grantDate": "17/01/2023",
+    "title": "M\u00c9TODO DE SUPORTE \u00c0 DECIS\u00c3O PARA EMISS\u00c3O DE ALERTAS E PARA SELE\u00c7\u00c3O DE A\u00c7\u00d5ES DE MITIGA\u00c7\u00c3O PARAMETRIZADO POR \u00cdNDICE DE DECIS\u00c3O METEOROL\u00d3GICO-CLIM\u00c1TICO BASEADO NAS PREFER\u00caNCIAS DOS USU\u00c1RIOS",
+    "nationalPhaseDate": [
+        "14/03/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT BR2016/050232",
+        "pctDate": "19/09/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "24.4",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "AMAURY CARUZZO",
+        "MISCHEL CARMEN NEYRA BELDERRAIN",
+        "GILBERTO FERNANDO FISCH"
+    ],
+    "holders": [
+        13013,
+        2413
+    ],
+    "ipcCodes": [
+        "G06Q 10/04",
+        "G06Q 50/00",
+        "G01W 1/00"
+    ]
+}

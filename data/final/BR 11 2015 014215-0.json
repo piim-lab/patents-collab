@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2015 014215-0",
+    "filingDate": "20/12/2013",
+    "grantDate": "22/06/2021",
+    "title": "M\u00c9TODO DE TRATAMENTO DE \u00c1GUAS INDUSTRIAIS.",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20126356",
+            "priorityDate": "20/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "VAN DER MEER TUOMAS",
+        "NEVATALO LAURA",
+        "TANNINEN JUKKA"
+    ],
+    "holders": [
+        139098
+    ],
+    "ipcCodes": [
+        "C02F 1/463",
+        "C02F 9/04",
+        "C02F 101/10",
+        "C02F 1/58",
+        "C02F 9/06"
+    ]
+}

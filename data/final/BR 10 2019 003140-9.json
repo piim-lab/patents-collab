@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 003140-9",
+    "filingDate": "15/02/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE LOCALIZA\u00c7\u00c3O DE POSI\u00c7\u00c3O H\u00cdBRIDO EM UM AMBIENTE DE FABRICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/908,471",
+            "priorityDate": "28/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "STEPHEN JOHN BENNISON",
+        "KARL LOREN JOHNSON"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G05B 19/00",
+        "G05B 19/18",
+        "G05B 19/02"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 001224-0",
+    "filingDate": "20/01/2020",
+    "grantDate": null,
+    "title": "UMA INSTALA\u00c7\u00c3O SANIT\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "ZA",
+            "priorityNumber": "ZA 2018/07756",
+            "priorityDate": "19/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "LUKAS PIETER FOURIE"
+    ],
+    "holders": [
+        50870
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 021373-9",
+    "filingDate": "20/10/2022",
+    "grantDate": null,
+    "title": "PROCESSO DE CONTROLE DA USINAGEM, CADEIA DE PRODU\u00c7\u00c3O, E, PROGRAMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR2111173",
+            "priorityDate": "21/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "CARVALHO HUGO",
+        "OLIVEIRA RENATO",
+        "SCHMIDT MARCO",
+        "SILVA ANTONIO",
+        "SILVA LUIS",
+        "SOARES LEONARDO"
+    ],
+    "holders": [
+        528
+    ],
+    "ipcCodes": [
+        "B23D 79/00"
+    ]
+}

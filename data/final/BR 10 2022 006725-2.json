@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 006725-2",
+    "filingDate": "07/04/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE AUTENTICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-070925",
+            "priorityDate": "20/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2704"
+        }
+    ],
+    "inventors": [
+        "NAOYA OKA",
+        "HITOSHI KAGEYAMA",
+        "FENG XU",
+        "DAI SASAKI",
+        "BHARATH TV"
+    ],
+    "holders": [
+        75311,
+        5783
+    ],
+    "ipcCodes": [
+        "H04L 9/32",
+        "H04W 8/18",
+        "G06Q 50/30",
+        "H04L 9/40"
+    ]
+}

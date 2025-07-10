@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2013 029206-7",
+    "filingDate": "11/05/2012",
+    "grantDate": null,
+    "title": "COMPOSTO, E, USO DE UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11165994.2",
+            "priorityDate": "13/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/485898",
+            "priorityDate": "13/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "ANDERS BACH",
+        "KRISTIAN STR\u00d8MGAARD",
+        "KAORI KOBAYASHI",
+        "TAMOTSU SUZUKI",
+        "MIZUKI KAWAHIRA",
+        "TOMOHIRO FUJII",
+        "MASAYUKI SUGIKI",
+        "KOJI OHSUMI",
+        "TATSUYA OKUZUMI",
+        "VENKAT RAO GADHACHANDA",
+        "QIUPING WANG",
+        "GODWIN PAIS",
+        "AKIHIRO HASHIMOTO",
+        "DAWEI CHEN",
+        "XIANGZHU WANG",
+        "ATUL AGARWAL",
+        "MILIND DESHPANDE",
+        "JASON ALLAN WILES",
+        "AVINASH PHADKE",
+        "JEFFREY L CLELAND",
+        "MING YANG",
+        "JOHN G BAUMAN",
+        "NU HOANG",
+        "EMMETT CUNNINGHAM"
+    ],
+    "holders": [
+        178956,
+        210909,
+        97878,
+        126747,
+        199037
+    ],
+    "ipcCodes": []
+}

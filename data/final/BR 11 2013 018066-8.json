@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2013 018066-8",
+    "filingDate": "15/11/2011",
+    "grantDate": null,
+    "title": "M\u00e9todo para preparar um \u00e1cido polil\u00e1ctico",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11154929.1",
+            "priorityDate": "18/02/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11154930.9",
+            "priorityDate": "18/02/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11187571.2",
+            "priorityDate": "02/11/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11187572.0",
+            "priorityDate": "02/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "MANFRED STEPANSKI",
+        "FRAN\u00c7OIS LOVIAT",
+        "ANDRZEJ KUSZLIK"
+    ],
+    "holders": [
+        5589
+    ],
+    "ipcCodes": [
+        "B01D 9/02",
+        "C07D 319/12",
+        "C08G 63/08",
+        "B01D 9/00",
+        "B01D 9/04"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 12 2019 004595-0",
+    "filingDate": "10/03/2016",
+    "grantDate": null,
+    "title": "UNIDADE DE PROCESSAMENTO DE \u00c1UDIO, M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE UM FLUXO DE BITS DE \u00c1UDIO CODIFICADO E MEIO LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15159067.6",
+            "priorityDate": "13/03/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/133,800",
+            "priorityDate": "16/03/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "10/03/2016",
+        "applicationNumber": "BR 11 2017 019499-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "LARS VILLEMOES",
+        "HEIKO PURNHAGEN",
+        "PER EKSTRAND"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "G10L 19/00"
+    ]
+}

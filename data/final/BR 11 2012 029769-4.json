@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2012 029769-4",
+    "filingDate": "25/05/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA A DETEC\u00c7\u00c3O ELETROQU\u00cdMICA DE REA\u00c7\u00d5ES DE LIGA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10005425.3",
+            "priorityDate": "25/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        }
+    ],
+    "inventors": [
+        "JULIA ETTLINGER",
+        "NENAD GAJOVIC",
+        "BURKHARD MICHEEL",
+        "GUDRUN SCHARTE",
+        "J\u00d6RG SCHENK"
+    ],
+    "holders": [
+        15580
+    ],
+    "ipcCodes": [
+        "G01N 33/543",
+        "G01N 33/74",
+        "G01N 33/542"
+    ]
+}

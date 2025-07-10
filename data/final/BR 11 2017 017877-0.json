@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2017 017877-0",
+    "filingDate": "19/02/2016",
+    "grantDate": null,
+    "title": "APERFEI\u00c7OAMENTO EM ALGORITMO DE SISTEMA T\u00c1TIL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/118,543",
+            "priorityDate": "20/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/141,935",
+            "priorityDate": "02/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/193,125",
+            "priorityDate": "16/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/193,194",
+            "priorityDate": "16/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/268,573",
+            "priorityDate": "17/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/275,002",
+            "priorityDate": "05/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "BENJAMIN JOHN OLIVER LONG",
+        "SRIRAM SUBRAMANIAN",
+        "THOMAS ANDREW CARTER"
+    ],
+    "holders": [
+        187907
+    ],
+    "ipcCodes": [
+        "G06F 3/01",
+        "H04R 1/40"
+    ]
+}

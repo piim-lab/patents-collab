@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 10 2018 071952-1",
+    "filingDate": "25/10/2018",
+    "grantDate": "28/09/2021",
+    "title": "SISTEMA E M\u00c9TODO PARA ATIVAR AUTOMATICAMENTE CONJUNTOS DE ASA DE UM IMPLEMENTO AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/794,126",
+            "priorityDate": "26/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "17.1",
+            "description": "Notifica\u00e7\u00e3o de Interposi\u00e7\u00e3o de Nulidade Administrativa",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "205",
+            "description": "Intima\u00e7\u00e3o para manifesta\u00e7\u00e3o por parte do titular e do requerente",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "201",
+            "description": "Processo administrativo de Nulidade conhecido, negado provimento. Mantida a concess\u00e3o da Patente.",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "JASON T CZAPKA",
+        "KEVIN D MCKEE",
+        "KEVIN M SMITH",
+        "ROBERT J LONGUA",
+        "KEITH W WENDTE",
+        "MARVIN A PRICKEL"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01B 63/00",
+        "A01B 73/02"
+    ]
+}

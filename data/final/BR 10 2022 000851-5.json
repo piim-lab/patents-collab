@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 000851-5",
+    "filingDate": "17/01/2022",
+    "grantDate": null,
+    "title": "UM M\u00c9TODO PARA SUBSTITUIR UM COMPONENTE DE P\u00d3S-TRATAMENTO PARA ESCAPE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP 21152928.4",
+            "priorityDate": "22/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "OVE WAHLSTR\u00d6M"
+    ],
+    "holders": [
+        73644
+    ],
+    "ipcCodes": [
+        "F01N 3/20"
+    ]
+}

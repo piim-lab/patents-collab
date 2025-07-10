@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2019 026977-7",
+    "filingDate": "21/12/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE SUTURA",
+    "divisionalApplication": {
+        "filingDate": "21/12/2011",
+        "applicationNumber": "BR 11 2013 016226-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "NICOLAS BOUDUBAN",
+        "ALEXANDER LUDIN"
+    ],
+    "holders": [
+        117907,
+        7452
+    ],
+    "ipcCodes": [
+        "A61B 17/00",
+        "A61B 17/04"
+    ]
+}

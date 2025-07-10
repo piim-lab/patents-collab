@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2021 024867-6",
+    "filingDate": "11/06/2020",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE PER\u00d3XIDOS DE DIACILA",
+    "nationalPhaseDate": [
+        "09/12/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/066229",
+        "pctDate": "11/06/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19179622.6",
+            "priorityDate": "12/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "MARTINUS CATHARINUS TAMMER",
+        "AUKE GERARDUS TALMA",
+        "MARTINUS CATHARINUS TAMMER",
+        "ANTONIE DEN BRABER",
+        "CAROLINA ANNA MARIA CHRISTINA DIRIX",
+        "MARTINUS CATHARINUS TAMMER"
+    ],
+    "holders": [
+        63439
+    ],
+    "ipcCodes": [
+        "C07C 51/41",
+        "C07C 51/56",
+        "C07C 407/00",
+        "C07C 409/02",
+        "C07C 409/34",
+        "C07C 51/083",
+        "C07C 409/36"
+    ]
+}

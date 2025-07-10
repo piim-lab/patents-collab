@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2018 011694-7",
+    "filingDate": "09/12/2016",
+    "grantDate": null,
+    "title": "LOCALIZA\u00c7\u00c3O DE EMBARQUE SUGERIDA PARA SERVI\u00c7OS DE TRANSPORTE",
+    "nationalPhaseDate": [
+        "08/06/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/066030",
+        "pctDate": "09/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/265,747",
+            "priorityDate": "10/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/228,732",
+            "priorityDate": "04/08/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "BRIAN TOLKIN",
+        "QING XU",
+        "SAMI AREF",
+        "PETER NG",
+        "YUHKI BRENT YAMASHITA",
+        "SIDDHARTH KAR",
+        "NIKHIL GOEL"
+    ],
+    "holders": [
+        56369
+    ],
+    "ipcCodes": [
+        "G06Q 50/30",
+        "G06Q 50/10",
+        "G06Q 50/14"
+    ]
+}

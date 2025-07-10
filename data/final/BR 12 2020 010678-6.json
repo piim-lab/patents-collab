@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2020 010678-6",
+    "filingDate": "16/09/2013",
+    "grantDate": null,
+    "title": "M\u00c1QUINA MINERADORA, CABE\u00c7A DE CORTE PARA M\u00c1QUINA MINERADORA, M\u00c9TODO DE REMO\u00c7\u00c3O DE MATERIAL DE UMA PAREDE DE ROCHA, E M\u00c9TODO DE CONTROLE DE M\u00c1QUINA MINERADORA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/701,256",
+            "priorityDate": "14/09/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/09/2013",
+        "applicationNumber": "BR 11 2015 005645-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "RUSSEL P SMITH",
+        "ANDREW D HUNTER",
+        "PETER A LUGG",
+        "IAN B SCHIRMER",
+        "GEOFFREY W KEECH",
+        "CHRISTOPHER COATES",
+        "BRADLEY M NIELSON"
+    ],
+    "holders": [
+        40994
+    ],
+    "ipcCodes": [
+        "E21C 25/00"
+    ]
+}

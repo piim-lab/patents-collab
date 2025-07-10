@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 015554-2",
+    "filingDate": "05/08/2022",
+    "grantDate": null,
+    "title": "TRAVAMENTO COM TECLADO UTILIZ\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/477,262",
+            "priorityDate": "16/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "JAMES DAVID BACON"
+    ],
+    "holders": [
+        67628
+    ],
+    "ipcCodes": [
+        "E05B 65/00",
+        "E05B 49/00",
+        "E05B 9/08"
+    ]
+}

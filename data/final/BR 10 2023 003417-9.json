@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2023 003417-9",
+    "filingDate": "24/02/2023",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA MONITORAMENTO DE APARELHOS DE REFRIGERA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/686,986",
+            "priorityDate": "04/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "KEVIN KNATT"
+    ],
+    "holders": [
+        76788
+    ],
+    "ipcCodes": [
+        "G06Q 20/20",
+        "F25D 29/00",
+        "G05B 19/04"
+    ]
+}

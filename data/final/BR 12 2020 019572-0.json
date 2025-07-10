@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2020 019572-0",
+    "filingDate": "22/05/2007",
+    "grantDate": null,
+    "title": "USO DE (1R-TRANS)-N-[[2-(2,3-DI-IDRO-4-BENZOFURANIL)CICLOPROPIL] METIL]PROPANAMIDA (MA-1)",
+    "divisionalApplication": {
+        "filingDate": "22/05/2007",
+        "applicationNumber": "PI 0712206-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        140827
+    ],
+    "ipcCodes": []
+}

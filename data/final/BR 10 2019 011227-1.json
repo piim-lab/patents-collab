@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2019 011227-1",
+    "filingDate": "31/05/2019",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE VENDAS AUTOM\u00c1TICA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000005953",
+            "priorityDate": "01/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "ROBERTO SICHICH"
+    ],
+    "holders": [
+        5832,
+        49238
+    ],
+    "ipcCodes": []
+}

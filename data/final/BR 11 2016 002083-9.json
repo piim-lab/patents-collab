@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2016 002083-9",
+    "filingDate": "29/07/2014",
+    "grantDate": null,
+    "title": "COMPOSTO TETRAZOLINONA E USO PARA O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-158729",
+            "priorityDate": "31/07/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-238579",
+            "priorityDate": "19/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "TAKAYUKI SHIODA",
+        "SADAYUKI ARIMORI"
+    ],
+    "holders": [
+        59
+    ],
+    "ipcCodes": [
+        "A61P 33/00",
+        "A01P 3/00",
+        "C07D 401/12",
+        "C07D 401/14",
+        "A61K 31/4439",
+        "A61K 31/444",
+        "A01N 43/713"
+    ]
+}

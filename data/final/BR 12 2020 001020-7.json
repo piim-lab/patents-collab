@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 12 2020 001020-7",
+    "filingDate": "16/12/2011",
+    "grantDate": null,
+    "title": "MATERIAL ESTRUTURAL COMP\u00d3SITO N\u00c3O CURADO EM SANDU\u00cdCHE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/427,776",
+            "priorityDate": "28/12/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/12/2011",
+        "applicationNumber": "BR 11 2013 015506-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "CARMELO LUCA RESTUCCIA",
+        "EMILIANO FRULLONI"
+    ],
+    "holders": [
+        82695
+    ],
+    "ipcCodes": [
+        "B32B 5/28",
+        "B32B 5/26"
+    ]
+}

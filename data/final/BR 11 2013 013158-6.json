@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 11 2013 013158-6",
+    "filingDate": "25/11/2011",
+    "grantDate": "28/04/2020",
+    "title": "PEPT\u00cdDEOS DE TOMM34 E VACINAS INCLUINDO OS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/419,181",
+            "priorityDate": "02/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "YUSUKE NAKAMURA",
+        "TAKUYA TSUNODA",
+        "RYUJI OSAWA",
+        "SACHIKO YOSHIMURA",
+        "TOMOHISA WATANABE",
+        "GAKU NAKAYAMA"
+    ],
+    "holders": [
+        99563
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07K 7/06",
+        "A61K 38/00",
+        "A61K 39/00",
+        "C12N 5/10",
+        "C12N 1/21",
+        "A61P 37/04",
+        "C12N 1/15",
+        "C12N 15/00",
+        "C12N 1/19",
+        "A61P 35/04",
+        "G01N 33/574",
+        "C12N 5/0783",
+        "C07K 16/32",
+        "C12N 5/0784"
+    ]
+}

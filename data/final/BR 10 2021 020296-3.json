@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2021 020296-3",
+    "filingDate": "08/10/2021",
+    "grantDate": null,
+    "title": "EMOLIENTE E AGENTE DE LIMPEZA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20306171.8",
+            "priorityDate": "08/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2801"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [
+        "AUR\u00c9LIE FIEVEZ",
+        "MARJORIE PIERRE",
+        "PIETER VAN DER WEE\u00cbN"
+    ],
+    "holders": [
+        70940
+    ],
+    "ipcCodes": [
+        "A61K 8/81",
+        "A61Q 19/00",
+        "A61K 8/34",
+        "A61Q 17/00"
+    ]
+}

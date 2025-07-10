@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2012 027409-4",
+    "filingDate": "25/10/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E SEU M\u00c9TODO DE PREPARO",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2012-0031154",
+            "priorityDate": "27/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "KIM DONG",
+        "SHIN JAE SOO",
+        "LIM HYUN TAE",
+        "KIM DAE SUNG",
+        "LEE SEUNG HYOUN",
+        "SUNG JUN HO"
+    ],
+    "holders": [
+        4038
+    ],
+    "ipcCodes": [
+        "A61K 47/30",
+        "A61K 9/16",
+        "A61K 47/44",
+        "A61K 47/38",
+        "A61K 31/506"
+    ]
+}

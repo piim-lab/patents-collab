@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2013 019608-8",
+    "filingDate": "01/08/2013",
+    "grantDate": null,
+    "title": "EQUIPAMENTO DE TRATAMENTO POR ELETROCOAGULA\u00c7\u00c3O DE \u00c1GUA USADA EM LAVAGENS DE AUTOM\u00d3VEIS E M\u00c9TODO DE OPERA\u00c7\u00c3O DO EQUIPAMENTO",
+    "parentApplication": {
+        "filingDate": "07/02/2013",
+        "applicationNumber": "BR 10 2013 003010-4"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "CARLOS ALBERTO ZEPPINI",
+        "LUIZ CARLOS OLIVEIRA DA CUNHA",
+        "CARLOS ALBERTO ZEPPINI",
+        "LUIZ CARLOS OLIVEIRA DA CUNHA"
+    ],
+    "holders": [
+        5565,
+        5566
+    ],
+    "ipcCodes": [
+        "C02F 103/44",
+        "C02F 1/463",
+        "C02F 9/02"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2022 021036-5",
+    "filingDate": "17/10/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE C\u00c1LCULO DE MISS\u00c3O DE AERONAVE E M\u00c9TODO DE C\u00c1LCULO DE UMA MISS\u00c3O DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "21 11028",
+            "priorityDate": "18/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "BENOIT URIEN",
+        "CYRILLE GRIMALD"
+    ],
+    "holders": [
+        931
+    ],
+    "ipcCodes": [
+        "G05D 1/00",
+        "G06Q 10/04",
+        "B64C 19/00",
+        "B64C 3/00",
+        "G01C 21/20",
+        "G08G 5/00",
+        "G01S 5/06",
+        "G01C 7/00",
+        "G01C 15/02",
+        "B64C 15/00",
+        "G01C 21/14",
+        "G01C 21/24",
+        "G01S 3/44",
+        "G09B 9/24"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 017549-5",
+    "filingDate": "11/02/2016",
+    "grantDate": null,
+    "title": "RECEP\u00c7\u00c3O DESCONT\u00cdNUA ESTENDIDA DE MODO CONECTADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/116,819",
+            "priorityDate": "16/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/040,702",
+            "priorityDate": "10/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": []
+}

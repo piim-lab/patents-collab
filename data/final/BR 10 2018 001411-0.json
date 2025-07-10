@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2018 001411-0",
+    "filingDate": "23/01/2018",
+    "grantDate": null,
+    "title": "SISTEMA PARA MONITORAMENTO DE AUDI\u00caNCIA EM M\u00cdDIA EXTERNA",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "SILVIO FAVARO",
+        "HALISSON TADEU PONTAROLA",
+        "ADRIANO FAVARO",
+        "OTO MAZZIOTTI MOREIRA"
+    ],
+    "holders": [
+        35816,
+        35817,
+        35818,
+        35815
+    ],
+    "ipcCodes": [
+        "G06Q 30/02",
+        "H04L 29/08"
+    ]
+}

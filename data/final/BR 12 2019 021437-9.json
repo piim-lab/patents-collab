@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2019 021437-9",
+    "filingDate": "25/04/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE UM POLIPEPT\u00cdDEO RECOMBINANTE ATRAV\u00c9S DO CULTIVO DE C\u00c9LULAS APRIMORADO",
+    "divisionalApplication": {
+        "filingDate": "25/04/2011",
+        "applicationNumber": "BR 11 2012 027430-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": []
+}

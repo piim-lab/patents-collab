@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2017 003238-4",
+    "filingDate": "23/06/2015",
+    "grantDate": null,
+    "title": "Dispositivo de sintoniza\u00e7\u00e3o de acionamento de acess\u00f3rio",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/038,834",
+            "priorityDate": "18/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/039,413",
+            "priorityDate": "19/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/713,769",
+            "priorityDate": "15/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "PETER WARD",
+        "JOE CHEN",
+        "JOHN HARVEY",
+        "KEMING LIU"
+    ],
+    "holders": [
+        80305
+    ],
+    "ipcCodes": [
+        "F16H 55/36"
+    ]
+}

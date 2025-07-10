@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2015 027443-9",
+    "filingDate": "01/05/2014",
+    "grantDate": null,
+    "title": "REVESTIMENTO DE SUPERF\u00cdCIE DE BAL\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2013/059191",
+            "priorityDate": "02/05/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2013/002936",
+            "priorityDate": "01/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        }
+    ],
+    "inventors": [
+        "MICHAEL ORLOWSKI"
+    ],
+    "holders": [
+        165515
+    ],
+    "ipcCodes": [
+        "A61L 29/16",
+        "A61L 29/08"
+    ]
+}

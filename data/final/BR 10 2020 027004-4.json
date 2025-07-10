@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 027004-4",
+    "filingDate": "30/12/2020",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE SELENETOS DE DIALQUILA SIM\u00c9TRICOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "MARLITO GOMES JUNIOR",
+        "AUGUSTO CESAR DE CARVALHO PERES",
+        "RAPHAEL BEZERRA DE MENEZES",
+        "ANDERSON ROUGE DOS SANTOS",
+        "CARLOS RENE KLOTZ RABELLO",
+        "BERNARDO GALVAO SIQUEIRA"
+    ],
+    "holders": [
+        214
+    ],
+    "ipcCodes": [
+        "B01D 11/00",
+        "C07C 391/00",
+        "C10L 10/10",
+        "C10L 1/24"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2018 001663-6",
+    "filingDate": "26/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FORMA\u00c7\u00c3O DE PEL\u00cdCULA DE N\u00cdQUEL E SOLU\u00c7\u00c3O COMPREENDENDO \u00cdONS DE N\u00cdQUEL E \u00cdONS DE CLORETO USADA PARA O M\u00c9TODO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-57862",
+            "priorityDate": "23/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "YUKI SATO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "C25D 3/12"
+    ]
+}

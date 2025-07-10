@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2017 007166-5",
+    "filingDate": "09/10/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO EM UM DISPOSITIVO SEM FIO, E, DISPOSITIVO SEM FIO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/062,551",
+            "priorityDate": "10/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "STEFANO SORRENTINO",
+        "XINGHUA SONG"
+    ],
+    "holders": [
+        79444
+    ],
+    "ipcCodes": [
+        "H04W 56/00",
+        "H04W 76/00",
+        "H04B 17/318",
+        "H04W 52/38"
+    ]
+}

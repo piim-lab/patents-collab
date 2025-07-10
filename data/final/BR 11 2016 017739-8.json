@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 017739-8",
+    "filingDate": "20/02/2015",
+    "grantDate": null,
+    "title": "SOPRADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-031516",
+            "priorityDate": "21/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "TOSHIKATSU KONDOU",
+        "MASASHI MATSUKAWA",
+        "YOUHEI KAMIYA",
+        "MASARU KAMIYA",
+        "TAKESHI MIYAMOTO",
+        "ISAO KONDOH",
+        "TAKASHI ITO",
+        "KAZUHIRO TAKEUCHI"
+    ],
+    "holders": [
+        3204
+    ],
+    "ipcCodes": []
+}

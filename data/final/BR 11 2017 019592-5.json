@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2017 019592-5",
+    "filingDate": "07/03/2016",
+    "grantDate": null,
+    "title": "CONJUNTO DE FECHAMENTO E RECIPIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2015/074702",
+            "priorityDate": "20/03/2015"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15165625.3",
+            "priorityDate": "29/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "JUN CHEN",
+        "NURANI DHARMARAJ KRISHNAPRAKASH IYER",
+        "PETER ERICH PARGEN"
+    ],
+    "holders": [
+        82156
+    ],
+    "ipcCodes": [
+        "B65D 47/28"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2019 012787-5",
+    "filingDate": "07/09/2017",
+    "grantDate": null,
+    "title": "ACOPLAMENTO PARA CONECTAR ELEMENTOS DE TUBO, COMBINA\u00c7\u00c3O DE UM ELEMENTO DE TUBO E UM ACOPLAMENTO, E, ELEMENTO DE TUBO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/449,765",
+            "priorityDate": "24/01/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/09/2017",
+        "applicationNumber": "BR 11 2019 010203-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "JUSTIN P BRANDT",
+        "ANTHONY J CUVO",
+        "PHILIP WAYNE BANCROFT"
+    ],
+    "holders": [
+        87183
+    ],
+    "ipcCodes": [
+        "F16L 21/06",
+        "F16L 23/18",
+        "F16L 21/00",
+        "F16L 23/00",
+        "F16L 21/02",
+        "F16L 21/03"
+    ]
+}

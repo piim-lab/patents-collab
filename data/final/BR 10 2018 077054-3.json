@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 10 2018 077054-3",
+    "filingDate": "26/12/2018",
+    "grantDate": null,
+    "title": "CONJUNTO DE SUPERF\u00cdCIES DE CONTROLE DE VOO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 131 451.2",
+            "priorityDate": "29/12/2017"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 128 555.8",
+            "priorityDate": "14/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2789"
+        }
+    ],
+    "inventors": [
+        "BERNHARD SCHLIPF",
+        "PETER LUCKEN"
+    ],
+    "holders": [
+        42551
+    ],
+    "ipcCodes": [
+        "B64D 45/00",
+        "B64C 13/50",
+        "B64C 9/26",
+        "B64C 9/20"
+    ]
+}

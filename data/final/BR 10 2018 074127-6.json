@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2018 074127-6",
+    "filingDate": "23/11/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA SELECIONAR E EXIBIR UM PROTOCOLO OPERACIONAL PARA UM VE\u00cdCULO A\u00c9REO USANDO UMA ARQUITETURA MULTICAMADA E ARQUITETURA MULTICAMADA PARA CONTROLAR A OPERA\u00c7\u00c3O DE UM VE\u00cdCULO A\u00c9REO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1719529.8",
+            "priorityDate": "24/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "TZVETOMIR TZVETKOV"
+    ],
+    "holders": [
+        6576
+    ],
+    "ipcCodes": [
+        "H04L 12/24"
+    ]
+}

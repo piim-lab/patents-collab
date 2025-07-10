@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2020 019650-5",
+    "filingDate": "19/11/2013",
+    "grantDate": null,
+    "title": "Processo para a fabrica\u00e7\u00e3o de um produto farmac\u00eautico veterin\u00e1rio mastig\u00e1vel macio para administra\u00e7\u00e3o oral, produto farmac\u00eautico veterin\u00e1rio mastig\u00e1vel macio para administra\u00e7\u00e3o oral e uso do referido produto",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/728,379",
+            "priorityDate": "20/11/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/791,385",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/11/2013",
+        "applicationNumber": "BR 11 2015 011383-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "DOMINIQUE KLUGER",
+        "ALBIN HAULER",
+        "CARSTEN SCHMIDT",
+        "DAVID SCHROECKENFUCHS",
+        "NIKI WALDRON"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "A61K 9/00"
+    ]
+}

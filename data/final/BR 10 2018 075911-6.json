@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2018 075911-6",
+    "filingDate": "13/12/2018",
+    "grantDate": null,
+    "title": "M\u00c1QUINA PARA ABERTURA E ESVAZIAMENTO AUTOM\u00c1TICO DE SACOS",
+    "priorityClaims": [
+        {
+            "countryCode": "AR",
+            "priorityNumber": "20180100072",
+            "priorityDate": "11/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        }
+    ],
+    "inventors": [
+        "RUIZ LUIS MARIO",
+        "NISSENSOHN FERNANDO DANIEL"
+    ],
+    "holders": [
+        44685
+    ],
+    "ipcCodes": [
+        "B65B 69/00",
+        "B65B 43/26"
+    ]
+}

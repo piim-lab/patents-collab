@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2013 013134-9",
+    "filingDate": "17/01/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PREPARA\u00c7\u00c3O DE METAXALONA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11152849.3",
+            "priorityDate": "01/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/439,127",
+            "priorityDate": "03/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        }
+    ],
+    "inventors": [
+        "TOMMASO IACOANGELI",
+        "MARIO CHIAVARINI",
+        "ANTONELLO FAZIO",
+        "MARCELLO MARCHETTI",
+        "GIOVANNI BATTISTA CIOTOLI"
+    ],
+    "holders": [
+        79577
+    ],
+    "ipcCodes": [
+        "C07D 405/06",
+        "C07D 405/14",
+        "A61K 31/421",
+        "C07D 263/24"
+    ]
+}

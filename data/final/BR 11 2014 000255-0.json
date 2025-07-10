@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 000255-0",
+    "filingDate": "05/07/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE SUPLEMENTO DE FERRO",
+    "priorityClaims": [
+        {
+            "countryCode": "CA",
+            "priorityNumber": "2,745,267",
+            "priorityDate": "05/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        }
+    ],
+    "inventors": [
+        "REINHOLD VIETH"
+    ],
+    "holders": [
+        129760
+    ],
+    "ipcCodes": [
+        "A61K 33/26",
+        "A61K 47/44",
+        "A61P 3/02",
+        "A61P 7/06"
+    ]
+}

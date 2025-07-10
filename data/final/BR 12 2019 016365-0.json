@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2019 016365-0",
+    "filingDate": "11/08/2009",
+    "grantDate": null,
+    "title": "PLACA DE CIRCUITO IMPRESSO E M\u00c9TODO",
+    "divisionalApplication": {
+        "filingDate": "11/08/2009",
+        "applicationNumber": "PI 0917289-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        97559
+    ],
+    "ipcCodes": []
+}

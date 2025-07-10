@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2020 004227-0",
+    "filingDate": "02/03/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO DE DISTRIBUI\u00c7\u00c3O DE INSECTICIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/815,677",
+            "priorityDate": "08/03/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/875,654",
+            "priorityDate": "18/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "JEREMY ELI HIRSCH",
+        "CHRISTOPHER MICHAEL BONNER"
+    ],
+    "holders": [
+        56741,
+        56742
+    ],
+    "ipcCodes": [
+        "A01M 1/02",
+        "A01M 1/10"
+    ]
+}

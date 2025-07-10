@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2013 013956-0",
+    "filingDate": "05/12/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA LIQUEFAZER PROTE\u00cdNAS DE CEREAL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10193859.5",
+            "priorityDate": "06/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "WALTER JOSEPHINA LEO BUX",
+        "NICOLE SJ DE COCK"
+    ],
+    "holders": [
+        12231
+    ],
+    "ipcCodes": [
+        "A23K 50/10",
+        "A23J 3/34",
+        "A23K 20/142",
+        "A23K 50/80",
+        "A23K 20/147",
+        "A23L 33/18",
+        "A23K 50/60",
+        "A23K 50/30",
+        "A23J 3/18"
+    ]
+}

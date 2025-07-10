@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2017 011561-1",
+    "filingDate": "03/12/2015",
+    "grantDate": null,
+    "title": "PAINEL COMP\u00d3SITO E PROCESSO PARA A FABRICA\u00c7\u00c3O DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14196169.8",
+            "priorityDate": "03/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "RUDY GALLE"
+    ],
+    "holders": [
+        191488,
+        191489,
+        191490
+    ],
+    "ipcCodes": [
+        "B32B 9/02",
+        "B32B 5/26",
+        "B32B 5/08"
+    ]
+}

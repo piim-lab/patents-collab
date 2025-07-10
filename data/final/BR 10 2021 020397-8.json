@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 020397-8",
+    "filingDate": "11/10/2021",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE PERCEP\u00c7\u00c3O DIANTEIRO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/111,687",
+            "priorityDate": "10/11/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/466,143",
+            "priorityDate": "03/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "TROY K MADDOX",
+        "JORDAN L ZERR",
+        "TYLER NIDAY",
+        "JEFFREY E RUNDE",
+        "MARGAUX M ASCHERL"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "B62D 33/06",
+        "B60K 11/08",
+        "B60R 11/04",
+        "H04N 13/243",
+        "B62D 49/06"
+    ]
+}

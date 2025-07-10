@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2018 000850-8",
+    "filingDate": "05/11/2015",
+    "grantDate": null,
+    "title": "?M\u00c9TODO EM INTERRUP\u00c7\u00c3O DE CALDEIRA DE RECUPERA\u00c7\u00c3O E APARELHO?",
+    "nationalPhaseDate": [
+        "15/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT FI2015/050762",
+        "pctDate": "05/11/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20155558",
+            "priorityDate": "16/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "TIMO KARJUNEN"
+    ],
+    "holders": [
+        55927
+    ],
+    "ipcCodes": [
+        "D21C 11/12",
+        "B08B 3/10",
+        "F22B 37/52"
+    ]
+}

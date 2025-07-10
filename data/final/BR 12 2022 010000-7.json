@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2022 010000-7",
+    "filingDate": "28/12/2016",
+    "grantDate": null,
+    "title": "GLICOSAMINOGLICANO PELO MENOS PARCIALMENTE DESACETILADO",
+    "divisionalApplication": {
+        "filingDate": "28/12/2016",
+        "applicationNumber": "BR 11 2018 013504-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2762"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o - Art. 87 da LPI",
+            "bulletinNumber ": "2779"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        112904
+    ],
+    "ipcCodes": []
+}

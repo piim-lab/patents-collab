@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2013 034001-0",
+    "filingDate": "16/05/2012",
+    "grantDate": null,
+    "title": "PROCESSO DE PREPARO DE  5-HIDR\u00d3XI METIL FURFURAL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "11 54232",
+            "priorityDate": "16/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2528"
+        }
+    ],
+    "inventors": [
+        "NADINE ESSAYEM",
+        "RODRIGO LOPES DE SOUZA",
+        "FRANCK RATABOUL"
+    ],
+    "holders": [
+        97001,
+        17099
+    ],
+    "ipcCodes": [
+        "C07D 307/48",
+        "C07D 307/50",
+        "C07D 307/46"
+    ]
+}

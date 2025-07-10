@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2020 012244-0",
+    "filingDate": "18/12/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR UMA SE\u00c7\u00c3O DE TUBOS",
+    "nationalPhaseDate": [
+        "17/06/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IB2018/001616",
+        "pctDate": "18/12/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1721536.9",
+            "priorityDate": "21/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "JAVAD SAFARI",
+        "MATTHEW PAUL GREADY"
+    ],
+    "holders": [
+        13885
+    ],
+    "ipcCodes": [
+        "C21D 9/08",
+        "C21D 1/42",
+        "C21D 9/14",
+        "B23K 9/235",
+        "B23K 26/60",
+        "B23K 11/34",
+        "B23K 20/24"
+    ]
+}

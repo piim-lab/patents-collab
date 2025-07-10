@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 12 2022 016844-2",
+    "filingDate": "26/01/2017",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O ASF\u00c1LTICA E/OU BETUMINOSA E COMPOSI\u00c7\u00c3O ADESIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/286,974",
+            "priorityDate": "26/01/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/01/2017",
+        "applicationNumber": "BR 11 2018 015146-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "SERGIO ALBERTO MOCTEZUMA ESPIRICUETO",
+        "JES\u00daS ALBERTO MEXICANO GARC\u00cdA",
+        "ELISA TIERRABLANCA MALDONADO",
+        "GABRIEL HERN\u00c1NDEZ ZAMORA",
+        "ALEJANDRO CLAUDIO ESQUIVEL DE LA GARZA"
+    ],
+    "holders": [
+        220711
+    ],
+    "ipcCodes": [
+        "C08L 9/06",
+        "C08F 297/04"
+    ]
+}

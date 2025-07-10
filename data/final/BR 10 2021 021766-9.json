@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2021 021766-9",
+    "filingDate": "29/10/2021",
+    "grantDate": null,
+    "title": "PROCESSO PARA A COMPACTA\u00c7\u00c3O DE MATERIAL ASF\u00c1LTICO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2020 128 842.5",
+            "priorityDate": "03/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "AXEL M\u00dcHLHAUSEN",
+        "KLAUS MEINDL",
+        "FRANK STEGNER"
+    ],
+    "holders": [
+        17659
+    ],
+    "ipcCodes": [
+        "E01C 19/28"
+    ]
+}

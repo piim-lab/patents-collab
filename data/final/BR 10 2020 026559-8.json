@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 026559-8",
+    "filingDate": "23/12/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ADSOR\u00c7\u00c3O DE COMBUST\u00cdVEL E APARELHO DE PROCESSAMENTO DE COMBUST\u00cdVEL EVAPORADO INCLUINDO O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-234228",
+            "priorityDate": "25/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "TAKASHI HASUMI",
+        "HIROSHI IWAUCHI",
+        "JUNPEI OMICHI",
+        "YUYA YAMASHITA"
+    ],
+    "holders": [
+        1852,
+        64573
+    ],
+    "ipcCodes": [
+        "F02M 25/08"
+    ]
+}

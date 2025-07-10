@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2015 028274-8",
+    "filingDate": "19/12/2005",
+    "grantDate": "17/12/2019",
+    "title": "M\u00c9TODO DE PRODU\u00c7\u00c3O DE UM REDUTOR DO ARRASTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/026,758",
+            "priorityDate": "30/12/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/12/2005",
+        "applicationNumber": "PI 0517729-4"
+    },
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "WILLIAM F HARRIS",
+        "KENNETH W SMITH",
+        "STUART N MILLIGAN",
+        "RAY L JOHNSTON",
+        "VINCENT S ANDERSON"
+    ],
+    "holders": [
+        96577
+    ],
+    "ipcCodes": [
+        "F17D 1/17"
+    ]
+}

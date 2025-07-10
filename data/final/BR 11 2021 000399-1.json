@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2021 000399-1",
+    "filingDate": "12/07/2019",
+    "grantDate": null,
+    "title": "ANTICORPOS ANTIMESOTELINA",
+    "nationalPhaseDate": [
+        "11/01/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/068800",
+        "pctDate": "12/07/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1811415.7",
+            "priorityDate": "12/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "JOSE MUNOZ",
+        "REMI FERTIN",
+        "FRANCISCA WOLLERTON",
+        "MIHRIBAN TUNA",
+        "NEIL BREWIS"
+    ],
+    "holders": [
+        231991
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07K 16/30",
+        "A61K 39/00"
+    ]
+}

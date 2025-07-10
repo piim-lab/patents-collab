@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2020 012814-3",
+    "filingDate": "14/07/2008",
+    "grantDate": "12/01/2021",
+    "title": "M\u00c9TODO DE ADAPTA\u00c7\u00c3O DE SINALIZA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/778,746",
+            "priorityDate": "17/07/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/07/2008",
+        "applicationNumber": "PI 0813531-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "GEORGE CHERIAN",
+        "POORNIMA A LALWANEY"
+    ],
+    "holders": [
+        21580
+    ],
+    "ipcCodes": [
+        "H04W 36/14",
+        "H04W 36/00",
+        "H04W 36/02"
+    ]
+}

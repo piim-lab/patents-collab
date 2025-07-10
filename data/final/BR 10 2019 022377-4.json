@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2019 022377-4",
+    "filingDate": "25/10/2019",
+    "grantDate": null,
+    "title": "PLACAS DENTADAS SUPORTADAS EM UM DISPERSOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/752,077",
+            "priorityDate": "29/10/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/844,570",
+            "priorityDate": "07/05/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/656,721",
+            "priorityDate": "08/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2759"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "LUC GINGRAS"
+    ],
+    "holders": [
+        3041
+    ],
+    "ipcCodes": [
+        "D21D 1/30",
+        "B02C 7/12",
+        "D21D 1/00"
+    ]
+}

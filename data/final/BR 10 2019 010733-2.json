@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2019 010733-2",
+    "filingDate": "24/05/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ROLDANA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810531512.9",
+            "priorityDate": "29/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "JIANGDE XU"
+    ],
+    "holders": [
+        49084
+    ],
+    "ipcCodes": [
+        "E05D 15/06"
+    ]
+}

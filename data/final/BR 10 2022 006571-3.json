@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 006571-3",
+    "filingDate": "05/04/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO E M\u00c9TODO PARA MONITORAR UM EIXO GIRAT\u00d3RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/229,235",
+            "priorityDate": "13/04/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "GORDON ELLIOTT WINER",
+        "SHIHAB T A MUHAMMED"
+    ],
+    "holders": [
+        1795
+    ],
+    "ipcCodes": [
+        "B64C 13/16"
+    ]
+}

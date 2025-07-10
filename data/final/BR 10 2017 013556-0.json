@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2017 013556-0",
+    "filingDate": "22/06/2017",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO PARA A INERTIZA\u00c7\u00c3O DE UM G\u00c1S QUE CONT\u00c9M OXIG\u00caNIO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 007 751.4",
+            "priorityDate": "24/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "FRANZ TICHY",
+        "BERND SPETH",
+        "EDUARD HARWARDT"
+    ],
+    "holders": [
+        11520
+    ],
+    "ipcCodes": [
+        "H01M 8/04",
+        "A62C 3/00",
+        "A62C 99/00"
+    ]
+}

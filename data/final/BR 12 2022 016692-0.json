@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2022 016692-0",
+    "filingDate": "15/07/2016",
+    "grantDate": null,
+    "title": "SISTEMA DE TESTE FLU\u00cdDICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/193,884",
+            "priorityDate": "17/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/210,734",
+            "priorityDate": "14/07/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/07/2016",
+        "applicationNumber": "BR 11 2018 000907-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "JORDI CARRERA FABRA",
+        "MATHIAS KUPHAL",
+        "RAFAEL BRU GIBERT",
+        "ANNA COMENG\u00c9S CASAS"
+    ],
+    "holders": [
+        143616
+    ],
+    "ipcCodes": [
+        "B01L 3/00"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2021 024066-0",
+    "filingDate": "29/11/2021",
+    "grantDate": null,
+    "title": "MULTICOMUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20383047.6",
+            "priorityDate": "01/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "JESUS BALDEMAR ROJAS ADAMEZ",
+        "RIQUE REBULL ADRIA",
+        "PLAJA MIR\u00d3 SALVI",
+        "BATISTE MAYAS CLARA",
+        "V\u00c1ZQUEZ VILLA FRANCESC XAVIER"
+    ],
+    "holders": [
+        16868
+    ],
+    "ipcCodes": [
+        "H01R 39/04"
+    ]
+}

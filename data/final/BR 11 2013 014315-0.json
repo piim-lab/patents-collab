@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 014315-0",
+    "filingDate": "07/12/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE OLEFINA, DE POLIOLEFINA E DE \u00d3XIDO DE OLEFINA.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-273663",
+            "priorityDate": "08/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "TETSUO SUZUKI",
+        "TAKAHIRO KAKINUMA",
+        "HIROSHI OHASHI",
+        "MASAKAZU IWAMOTO"
+    ],
+    "holders": [
+        85705,
+        59,
+        82729
+    ],
+    "ipcCodes": [
+        "C07C 1/20",
+        "B01J 23/10",
+        "B01J 21/06",
+        "C07B 61/00",
+        "C07C 11/06",
+        "B01J 23/08"
+    ]
+}

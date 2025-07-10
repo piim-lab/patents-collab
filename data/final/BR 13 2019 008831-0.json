@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 13 2019 008831-0",
+    "filingDate": "30/04/2019",
+    "grantDate": null,
+    "title": "PROCESSO PARA FACILITAR A REALIZA\u00c7\u00c3O DE SERVI\u00c7OS  QUE ENVOLVAM LOGISTICA DE VAI-E-VEM",
+    "parentApplication": {
+        "filingDate": "11/09/2013",
+        "applicationNumber": "BR 10 2013 023283-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        8546
+    ],
+    "ipcCodes": []
+}

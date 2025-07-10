@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 010295-0",
+    "filingDate": "27/05/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO POR COMPUTADOR PARA CONTROLAR UMA M\u00c1QUINA AGR\u00cdCOLA M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/895,145",
+            "priorityDate": "08/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "PRADEEP KALE",
+        "JASON D WALTER",
+        "OMKAR JOSHI"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01C 7/04",
+        "A01B 79/02"
+    ]
+}

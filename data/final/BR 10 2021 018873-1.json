@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 018873-1",
+    "filingDate": "22/09/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA REGISTRAR E/OU CANCELAR O REGISTRO DE UM USU\u00c1RIO COMO O ATUAL MOTORISTA EM UM TAC\u00d3GRAFO DIGITAL DE UM VE\u00cdCULO, TAC\u00d3GRAFO CORRESPONDENTE E VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102020212061.7",
+            "priorityDate": "24/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "RALF DOHMEN",
+        "THIAGO CARVALHO",
+        "WILLIAM SANTOS"
+    ],
+    "holders": [
+        496
+    ],
+    "ipcCodes": [
+        "G07C 9/00",
+        "G07C 5/08"
+    ]
+}

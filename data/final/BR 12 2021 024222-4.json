@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 12 2021 024222-4",
+    "filingDate": "17/09/2013",
+    "grantDate": null,
+    "title": "USO DE COMPOSTOS DE PIRIDAZINONA PARA TRATAR UMA RESIST\u00caNCIA AO HORM\u00d4NIO DA TIREOIDE",
+    "divisionalApplication": {
+        "filingDate": "17/09/2013",
+        "applicationNumber": "BR 11 2015 005891-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        152873,
+        152874
+    ],
+    "ipcCodes": []
+}

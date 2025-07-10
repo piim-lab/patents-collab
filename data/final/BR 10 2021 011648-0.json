@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 011648-0",
+    "filingDate": "15/06/2021",
+    "grantDate": null,
+    "title": "PACOTE COM VISIBILIDADE PARA ELEMENTOS DE ARMAZENAMENTO DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20183715.0",
+            "priorityDate": "02/07/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "OTTO HESSEL",
+        "DIETMAR K\u00d6HNLEIN",
+        "WERNER REGNER"
+    ],
+    "holders": [
+        68216,
+        68217
+    ],
+    "ipcCodes": [
+        "B65D 5/42",
+        "B65D 5/54",
+        "B65D 73/00"
+    ]
+}

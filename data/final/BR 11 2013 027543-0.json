@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2013 027543-0",
+    "filingDate": "12/04/2012",
+    "grantDate": "26/12/2018",
+    "title": "M\u00c9TODO DE TRATAMENTO DE SUPERF\u00cdCIE PARA UM MATERIAL DE METAL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-101602",
+            "priorityDate": "28/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "YUICHI FURUKAWA",
+        "MASAHIRO OKUMIYA",
+        "YOSHIKI TSUNEKAWA",
+        "NAO KUMEMOTO",
+        "FUMIO KAWAHARA",
+        "KATSUHIRO TAKAMI"
+    ],
+    "holders": [
+        125786,
+        5783
+    ],
+    "ipcCodes": [
+        "B82Y 30/00",
+        "B82Y 40/00",
+        "C01B 32/15",
+        "B22C 9/12",
+        "B22D 17/20",
+        "C23C 8/26",
+        "C21D 7/06",
+        "B22C 3/00",
+        "C23C 8/24",
+        "C23C 8/80",
+        "C21D 1/74",
+        "C21D 1/68",
+        "C21D 1/72"
+    ]
+}

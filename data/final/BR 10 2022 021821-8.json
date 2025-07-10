@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 021821-8",
+    "filingDate": "26/10/2022",
+    "grantDate": null,
+    "title": "SECADOR COM VENTILA\u00c7\u00c3O EXTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/557,152",
+            "priorityDate": "21/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "ERIC W MERROW",
+        "MARCOS JAVIER RIOS ACEBAL",
+        "BRIAN K ROGERS",
+        "DENNIS J TUCKOWSKI",
+        "NICHOLAS B VAIVE"
+    ],
+    "holders": [
+        2420
+    ],
+    "ipcCodes": [
+        "D06F 58/26",
+        "D06F 58/06"
+    ]
+}

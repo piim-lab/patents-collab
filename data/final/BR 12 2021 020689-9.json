@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2021 020689-9",
+    "filingDate": "14/03/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PRODU\u00c7\u00c3O DE CELULOSE MICROFIBRILADA COM ATRIBUTOS APRIMORADOS PARA A PRODU\u00c7\u00c3O DE UM PRODUTO DE PAPEL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13290070.5",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/03/2014",
+        "applicationNumber": "BR 11 2015 022072-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "KAI LEE",
+        "GUILLAUME TELLIER",
+        "FELIX JOHN GUNNAR BACON",
+        "DAVID ROBERT SKUSE"
+    ],
+    "holders": [
+        114379
+    ],
+    "ipcCodes": [
+        "D21H 21/20",
+        "D21H 11/18"
+    ]
+}

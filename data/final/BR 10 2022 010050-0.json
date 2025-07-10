@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 010050-0",
+    "filingDate": "24/05/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE ESPELHO DE C\u00c2MERA PANOR\u00c2MICA AUTOM\u00c1TICA INCLUINDO ESTIMATIVA PONDERADA DO \u00c2NGULO DE REBOQUE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/209,006",
+            "priorityDate": "10/06/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/723,775",
+            "priorityDate": "19/04/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "UTKARSH SHARMA",
+        "LIANG MA",
+        "TROY OTIS COOPRIDER"
+    ],
+    "holders": [
+        75174
+    ],
+    "ipcCodes": [
+        "B60R 1/00",
+        "B60R 1/26"
+    ]
+}

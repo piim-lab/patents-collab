@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 012901-5",
+    "filingDate": "24/06/2020",
+    "grantDate": null,
+    "title": "MOVIMENTADOR DE MANGUEIRAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "ROGER TOALIARI DA SILVA"
+    ],
+    "holders": [
+        59483
+    ],
+    "ipcCodes": [
+        "F16L 11/12",
+        "B08B 9/053",
+        "F28G 3/16"
+    ]
+}

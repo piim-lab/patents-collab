@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 11 2020 019672-0",
+    "filingDate": "26/03/2019",
+    "grantDate": null,
+    "title": "M\u00c1QUINA E M\u00c9TODO PARA TRABALHAR PRODUTOS DE METAL",
+    "nationalPhaseDate": [
+        "26/09/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IT2019/050065",
+        "pctDate": "26/03/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000003971",
+            "priorityDate": "26/03/2018"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102019000000947",
+            "priorityDate": "22/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "GIORGIO DEL FABRO"
+    ],
+    "holders": [
+        172912
+    ],
+    "ipcCodes": [
+        "B21D 43/00",
+        "B65G 17/00",
+        "B21D 43/28"
+    ]
+}

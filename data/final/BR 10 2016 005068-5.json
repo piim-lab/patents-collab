@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2016 005068-5",
+    "filingDate": "07/03/2016",
+    "grantDate": "27/04/2021",
+    "title": "COMPOSI\u00c7\u00c3O INSETICIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1503950.6",
+            "priorityDate": "09/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "MAHESH DHARMA BORANE",
+        "RITESH PAGARE",
+        "LUIZ CAMPOS",
+        "LINDSEY G FISCHER",
+        "GARY D CROUSE",
+        "THOMAS C SPARKS",
+        "MIRIAM E GOLDSMITH",
+        "DANIEL I KNUEPPEL",
+        "AYAKA MIKI",
+        "SHINGO NAKANO",
+        "HIDEO TATEISHI"
+    ],
+    "holders": [
+        32320,
+        8262,
+        46359,
+        42776,
+        60
+    ],
+    "ipcCodes": [
+        "A01P 7/04",
+        "A01N 37/46"
+    ]
+}

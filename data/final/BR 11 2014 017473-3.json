@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2014 017473-3",
+    "filingDate": "23/01/2013",
+    "grantDate": null,
+    "title": "EMBALAGEM CONTENDO UM ARTIGO CONSUM\u00cdVEL",
+    "nationalPhaseDate": [
+        "16/07/2014"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT GB2013/050138",
+        "pctDate": "23/01/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1201693.7",
+            "priorityDate": "31/01/2012"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1205363.3",
+            "priorityDate": "27/03/2012"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1214587.6",
+            "priorityDate": "15/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "COOPER HELEN",
+        "COOPER GAVIN"
+    ],
+    "holders": [
+        140305
+    ],
+    "ipcCodes": [
+        "B65D 1/02"
+    ]
+}

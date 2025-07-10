@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 031862-0",
+    "filingDate": "18/06/2013",
+    "grantDate": null,
+    "title": "CONFIGURA\u00c7\u00c3O DE CHAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1250652-3",
+            "priorityDate": "19/06/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "SERDAR ULUSOY",
+        "EMMA SVENSSON"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "H01H 13/10",
+        "H01H 23/08"
+    ]
+}

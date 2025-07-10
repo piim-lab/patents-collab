@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2021 003805-8",
+    "filingDate": "12/04/2011",
+    "grantDate": "13/10/2021",
+    "title": "PIRIMIDINAS MODIFICADAS NA POSI\u00c7\u00c3O 5",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/323,145",
+            "priorityDate": "12/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/04/2011",
+        "applicationNumber": "BR 11 2012 025872-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "JOHN ROHLOFF",
+        "NEBOJSA JANJIC",
+        "JEFFREY D CARTER",
+        "CATHERINE FOWLER"
+    ],
+    "holders": [
+        101076
+    ],
+    "ipcCodes": [
+        "C07H 19/06",
+        "C07H 19/00"
+    ]
+}

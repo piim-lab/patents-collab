@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 017194-4",
+    "filingDate": "30/08/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UMA M\u00c1QUINA AGR\u00cdCOLA M\u00d3VEL, E, M\u00c1QUINA AGR\u00cdCOLA M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/086,756",
+            "priorityDate": "02/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "DUANE M BOMLENY",
+        "NATHAN R VANDIKE",
+        "NOEL W ANDERSON",
+        "NOEL W ANDERSON",
+        "FABIO P BOUFLEUR",
+        "MARLON L CHRISTMANN",
+        "CARY S HUBNER"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 69/00"
+    ]
+}

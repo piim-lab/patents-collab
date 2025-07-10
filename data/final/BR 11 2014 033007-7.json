@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2014 033007-7",
+    "filingDate": "11/07/2013",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE BRA\u00c7ADEIRA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-164777",
+            "priorityDate": "25/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "KATSUYA SATO"
+    ],
+    "holders": [
+        112876
+    ],
+    "ipcCodes": [
+        "F16L 23/08"
+    ]
+}

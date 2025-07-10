@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2020 002812-2",
+    "filingDate": "15/05/2012",
+    "grantDate": null,
+    "title": "APARELHO RESPIRAT\u00d3RIO AUT\u00d4NOMO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/519,603",
+            "priorityDate": "25/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/217,703",
+            "priorityDate": "25/08/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/05/2012",
+        "applicationNumber": "BR 11 2013 029997-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        }
+    ],
+    "inventors": [
+        "JERRY A PHIFER",
+        "WILLIAM E PARSON",
+        "RONALD B MELE"
+    ],
+    "holders": [
+        108051
+    ],
+    "ipcCodes": [
+        "F17C 1/00",
+        "A62B 7/02"
+    ]
+}

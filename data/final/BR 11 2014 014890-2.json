@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2014 014890-2",
+    "filingDate": "21/12/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO  PARA  EXTENS\u00c3O  DE  REDE EXISTENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/579,803",
+            "priorityDate": "23/12/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/723,832",
+            "priorityDate": "21/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "28.1",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "EDGAR AGUILAR",
+        "CURTIS S RUHLMAN",
+        "KEVIN S CARNEY",
+        "HASAN A ALHALWACHI"
+    ],
+    "holders": [
+        42483
+    ],
+    "ipcCodes": [
+        "H04L 12/54",
+        "G06Q 20/02",
+        "G06Q 20/16"
+    ]
+}

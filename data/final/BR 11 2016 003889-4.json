@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2016 003889-4",
+    "filingDate": "18/08/2014",
+    "grantDate": null,
+    "title": "APARELHO PARA DISTRIBUI\u00c7\u00c3O DE UM FLUIDO MISTURADO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "20 2013 007 590.2",
+            "priorityDate": "26/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        }
+    ],
+    "inventors": [
+        "HEINZ BLOCK",
+        "PAUL KRAMPE",
+        "MARTIN HERTWIG"
+    ],
+    "holders": [
+        17532,
+        170511
+    ],
+    "ipcCodes": [
+        "A01C 23/00",
+        "A01C 7/10"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2018 015212-2",
+    "filingDate": "25/07/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE MONTAGEM DE CAPA DE MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/661,230",
+            "priorityDate": "27/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "BLAINE SCHWALBE",
+        "LAWRENCE R BORUCKI JR",
+        "ROSS CHRISTIANSEN",
+        "STEVEN N WINKEL"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "E05D 5/10",
+        "B62D 25/12",
+        "E05D 5/06",
+        "E05D 5/02",
+        "E05D 3/02",
+        "E05D 5/14"
+    ]
+}

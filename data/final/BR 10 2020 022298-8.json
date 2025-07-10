@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2020 022298-8",
+    "filingDate": "30/10/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERAR UM SISTEMA DE ENERGIA DE TURBINA E\u00d3LICA CONECTADO A UMA REDE EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/671,682",
+            "priorityDate": "01/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2810"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "ROBERT GREGORY WAGONER",
+        "DALE ROBERT MASHTARE",
+        "PEDRO ARSUAGA SANTOS",
+        "JAMES GREGORY ROTBERT"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "F03D 9/25",
+        "H02P 9/00",
+        "H02P 9/04"
+    ]
+}

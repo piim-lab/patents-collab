@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2023 002970-1",
+    "filingDate": "16/02/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA APLICAR VALOR DE REFER\u00caNCIA DE CONTROLE AO ANALISADOR DE AMOSTRA, ANALISADOR DE AMOSTRA E PROGRAMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-030425",
+            "priorityDate": "28/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "KEI SHIRASUNA",
+        "DAIGO FUKUMA",
+        "YUTO NAGAO",
+        "FUMIAKI HAYASHI",
+        "KANAKO KISO",
+        "TOMOMI KOHNO"
+    ],
+    "holders": [
+        4991
+    ],
+    "ipcCodes": [
+        "G01N 35/00"
+    ]
+}

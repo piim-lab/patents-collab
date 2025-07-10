@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2017 002434-9",
+    "filingDate": "10/08/2015",
+    "grantDate": "11/01/2022",
+    "title": "UMA COMPOSI\u00c7\u00c3O, UMA PEL\u00cdCULA FEITA DA MESMA E UM ARTIGO INCLUINDO UMA PEL\u00cdCULA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US62/037,858",
+            "priorityDate": "15/08/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "US62/038,928",
+            "priorityDate": "19/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "DOUGLAS E BEYER",
+        "STEVEN R JENKINS",
+        "KURT W OLSON"
+    ],
+    "holders": [
+        131641
+    ],
+    "ipcCodes": [
+        "C08J 5/18",
+        "B65D 65/40",
+        "C08L 23/08",
+        "C08L 27/08"
+    ]
+}

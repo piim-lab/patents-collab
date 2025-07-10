@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 015200-1",
+    "filingDate": "24/07/2019",
+    "grantDate": null,
+    "title": "ESTRUTURA DE SUPORTE PARA UMA UNIDADE DE SISTEMA DE ESTIRAMENTO E SISTEMA DE ESTIRAMENTO COMPREENDENDO TAL UNIDADE DE SISTEMA DE ESTIRAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102018005998.8",
+            "priorityDate": "31/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "PHILIPP SCHIFFERS",
+        "RALF SIEWERT",
+        "HEIKO TOEPKE",
+        "LOTHAR UEDINGER"
+    ],
+    "holders": [
+        50644
+    ],
+    "ipcCodes": [
+        "D01H 5/56"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2015 007295-0",
+    "filingDate": "30/09/2013",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE COMPOSTOS; COMPOSTOS; E USO DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12006822.6",
+            "priorityDate": "01/10/2012"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13003616.3",
+            "priorityDate": "18/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "HANSJ\u00d6RG GR\u00dcTZMACHER",
+        "GEORGINA M\u00dcLLER"
+    ],
+    "holders": [
+        101504
+    ],
+    "ipcCodes": [
+        "C07F 9/50",
+        "C07F 9/53"
+    ]
+}

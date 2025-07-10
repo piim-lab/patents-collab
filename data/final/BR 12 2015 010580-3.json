@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2015 010580-3",
+    "filingDate": "30/12/2011",
+    "grantDate": null,
+    "title": "ARTIGO ABSORVENTE E M\u00c9TODO PARA FORMA\u00c7\u00c3O DE UMA CAMADA SUPERIOR DE UM ARTIGO ABSORVENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/111,155",
+            "priorityDate": "19/05/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/12/2011",
+        "applicationNumber": "BR 11 2013 028593-1"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "FRANZ ASCHEBRENNER",
+        "PRISCILLA GOH ENG CHOO",
+        "XUEEN GEORGE HAO",
+        "DOOHONG KIM",
+        "SANGWOOK LEE",
+        "LIN MIAO",
+        "MEIJIA NG",
+        "YEINSZE ONG",
+        "CHUNLEI PU"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "A61F 13/511",
+        "A61F 13/472"
+    ]
+}

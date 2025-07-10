@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 20 2023 002102-1",
+    "filingDate": "03/02/2023",
+    "grantDate": null,
+    "title": "APARELHO DE L\u00cdQUIDO MARCADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP22155729.1",
+            "priorityDate": "08/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "XAVIER C\u00c9DRIC RAEMY"
+    ],
+    "holders": [
+        34272
+    ],
+    "ipcCodes": [
+        "B01L 3/00",
+        "B01L 9/06"
+    ]
+}

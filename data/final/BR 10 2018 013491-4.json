@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 10 2018 013491-4",
+    "filingDate": "29/06/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO, E, SISTEMA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/718,704",
+            "priorityDate": "28/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2778"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN GORDON",
+        "ANDREW KLIMOVSKI",
+        "VINCENT R LOPRESTO",
+        "WESTON D C HEUER",
+        "NICHOLAS S ERGANG",
+        "RONALD V DAVIS",
+        "BARRY HOFFMAN",
+        "AJITH THEKADATH",
+        "SUMAN MUKHERJEE",
+        "SEBASTIAN SERRANO",
+        "LUCIANA MARCELA GRUSZECZKA",
+        "DAVID GARCIA"
+    ],
+    "holders": [
+        81026,
+        258018,
+        10348,
+        1331,
+        225590,
+        1208
+    ],
+    "ipcCodes": [
+        "G06Q 40/02",
+        "G06Q 20/36"
+    ]
+}

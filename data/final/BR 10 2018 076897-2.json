@@ -1,0 +1,93 @@
+{
+    "applicationNumber": "BR 10 2018 076897-2",
+    "filingDate": "21/12/2018",
+    "grantDate": null,
+    "title": "RECIPIENTE",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "FABRICE GALLAY",
+        "SCOTT W DEMAREST",
+        "DONALD J SCHUMACHER",
+        "CHRISTINE D BEILSTEIN",
+        "DIRK K NICKEL",
+        "BRETT CHRISTOPHER DOMOY",
+        "GRAHAME HUGHES",
+        "KATHERINE ROSELAAR",
+        "MICHAEL SPALLEK",
+        "JOHANNES GESER",
+        "SIMON M CONWAY",
+        "LINDA J BABINSKI",
+        "BERND HANSEN",
+        "CHRISTOPHER WEIKART",
+        "RALF KIBELE",
+        "MATTIA TESTA",
+        "PETER LISCHETZKI",
+        "TOM REINHARDT",
+        "HARALD KROEGER",
+        "ROBERT HUBER",
+        "JACOB ANTHONY REDRUP",
+        "ALEXANDER HAMMER",
+        "DANIEL BOJBIC",
+        "OLIVER KENGETER",
+        "FRANO LUBURIC",
+        "JOHN HOMAN",
+        "JACOB ANTHONY REDRUP",
+        "MORGAN LEE ROHAN",
+        "JAN SINNAEVE",
+        "STEF VANQUICKENBORNE",
+        "RICHARD R MATHABEL",
+        "HOWARD C CHASTEEN",
+        "ALEJANDRO J SANTAMARIA",
+        "ANDREW F CLARKE",
+        "MARK A JACOBER",
+        "EVAN IRA PHILLIPS"
+    ],
+    "holders": [
+        132736,
+        64515,
+        267875,
+        81443,
+        80936,
+        81194,
+        82156,
+        91215,
+        45137,
+        156756,
+        17748,
+        408503,
+        252569,
+        350714,
+        117212,
+        250877,
+        83838
+    ],
+    "ipcCodes": [
+        "B65D 17/34"
+    ]
+}

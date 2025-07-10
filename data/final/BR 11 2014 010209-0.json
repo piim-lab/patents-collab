@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2014 010209-0",
+    "filingDate": "02/11/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE CONTROLE DE PESTE DE ARTR\u00d3PODE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-242556",
+            "priorityDate": "04/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        }
+    ],
+    "inventors": [
+        "KATSUYA NATSUHARA",
+        "YUSUKE KIMURA",
+        "MAMORU TAKIUCHI"
+    ],
+    "holders": [
+        135769,
+        59
+    ],
+    "ipcCodes": [
+        "A01N 25/04",
+        "A01N 43/76",
+        "A01P 7/00"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2019 004885-9",
+    "filingDate": "13/03/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE SUPORTE AUXILIAR PARA UM FLAP DE UMA ASA DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/922,626",
+            "priorityDate": "15/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2783"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2795"
+        }
+    ],
+    "inventors": [
+        "BRET A BOWERS",
+        "MIRELA ISIC"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64C 9/16",
+        "B64C 9/04",
+        "B64C 9/18"
+    ]
+}

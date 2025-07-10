@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2019 022776-1",
+    "filingDate": "30/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA ELETR\u00d4NICO PARA CONTROLE AUTOM\u00c1TICO DE PASTEURIZA\u00c7\u00c3O DE CERVEJA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "15.22.2",
+            "description": "Devolu\u00e7\u00e3o de Prazo por falha de Sistema",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "FL\u00c1VIO DA SILVA VITORINO GOMES",
+        "KRISTERSON REINALDO DE LUNA FREIRE",
+        "JOS\u00c9 OT\u00c1VIO CAVALCANTI MACIEL",
+        "ADEMAR GON\u00c7ALVES DA COSTA JUNIOR"
+    ],
+    "holders": [
+        45412,
+        2469,
+        935
+    ],
+    "ipcCodes": [
+        "G05B 11/01",
+        "C12H 1/08"
+    ]
+}

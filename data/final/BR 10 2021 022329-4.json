@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2021 022329-4",
+    "filingDate": "08/11/2021",
+    "grantDate": null,
+    "title": "PROCESSO PARA O TRANSPORTE DE UM FLUIDO ATRAV\u00c9S DE UMA BOMBA HELICOIDAL E UMA BOMBA HELICOIDAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102020133760.4",
+            "priorityDate": "16/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2804"
+        }
+    ],
+    "inventors": [
+        "ROLAND MAURISCHAT"
+    ],
+    "holders": [
+        38437
+    ],
+    "ipcCodes": [
+        "F04C 28/08"
+    ]
+}

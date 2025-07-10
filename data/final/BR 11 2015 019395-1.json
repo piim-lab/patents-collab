@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2015 019395-1",
+    "filingDate": "12/02/2014",
+    "grantDate": "25/01/2022",
+    "title": "COMPOSI\u00c7\u00d5ES E M\u00c9TODOS PARA TRATAR E REPARAR TEND\u00d5ES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/763,908",
+            "priorityDate": "12/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "ROLF HOFFMANN",
+        "KEVIN JOHN MCELWEE"
+    ],
+    "holders": [
+        160528
+    ],
+    "ipcCodes": [
+        "C12N 5/0775",
+        "C12N 5/077",
+        "A61K 35/36"
+    ]
+}

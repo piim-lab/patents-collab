@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2015 006790-5",
+    "filingDate": "24/09/2013",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o t\u00f3pica e uso de cetoprofeno",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/706.163",
+            "priorityDate": "27/09/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/826.706",
+            "priorityDate": "14/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "SERVET BUYUKTIMKIN",
+        "NADIR BUYUKTIMKIN",
+        "JAMES L YEAGER"
+    ],
+    "holders": [
+        153448
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61K 31/192",
+        "A61K 31/19"
+    ]
+}

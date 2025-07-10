@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 018688-0",
+    "filingDate": "19/09/2022",
+    "grantDate": null,
+    "title": "ARTIGO COSM\u00c9TICO EM FORMA DE BAST\u00c3O E M\u00c9TODO PARA PRODUZI-LO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102021000024155",
+            "priorityDate": "21/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "DAVIDE COSTO LUCCO",
+        "STEFANO LUCA INDACO"
+    ],
+    "holders": [
+        62646
+    ],
+    "ipcCodes": [
+        "A61K 8/02",
+        "B22C 9/22",
+        "A45D 40/16"
+    ]
+}

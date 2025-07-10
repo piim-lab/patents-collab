@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2012 028529-0",
+    "filingDate": "07/11/2012",
+    "grantDate": null,
+    "title": "PROCESSO CONT\u00cdNUO PARA A PRODU\u00c7\u00c3O DE PER\u00d3XIDO DE HIDROG\u00caNIO PELO PROCESSO DE ANTRAQUINONA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11188044.9",
+            "priorityDate": "07/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "ANDREW WILLSON"
+    ],
+    "holders": [
+        4186
+    ],
+    "ipcCodes": [
+        "C01B 15/023"
+    ]
+}

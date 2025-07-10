@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2017 016386-1",
+    "filingDate": "27/01/2016",
+    "grantDate": null,
+    "title": "EMBALAGEM REUTILIZ\u00c1VEL E ARTIGO DE ARMAZENAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1501578.7",
+            "priorityDate": "30/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "KEVIN PAN",
+        "PIOTR ZABORNIAK",
+        "TEUN FRANCISCUS VAN WETTEN"
+    ],
+    "holders": [
+        193908
+    ],
+    "ipcCodes": [
+        "B65D 75/32",
+        "A61F 6/00"
+    ]
+}

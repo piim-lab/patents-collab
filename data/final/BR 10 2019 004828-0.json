@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 004828-0",
+    "filingDate": "12/03/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA PRODU\u00c7\u00c3O DE FLUXO DE A\u00c7\u00daCAR COM SEPARA\u00c7\u00c3O DE \u00d3LEO EM FRONT END",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/921,783",
+            "priorityDate": "15/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2813"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "NEAL JAKEL",
+        "ALBERT POLLMEIER"
+    ],
+    "holders": [
+        44053
+    ],
+    "ipcCodes": [
+        "C13B 20/16"
+    ]
+}

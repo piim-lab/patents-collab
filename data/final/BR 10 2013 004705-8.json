@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2013 004705-8",
+    "filingDate": "27/02/2013",
+    "grantDate": null,
+    "title": "MACROESFERAS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1207356.5",
+            "priorityDate": "27/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        }
+    ],
+    "inventors": [
+        "ROBERT KENNETH ORAM"
+    ],
+    "holders": [
+        5764
+    ],
+    "ipcCodes": [
+        "B63B 35/00",
+        "B32B 17/06",
+        "B32B 7/06"
+    ]
+}

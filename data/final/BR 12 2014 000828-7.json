@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 12 2014 000828-7",
+    "filingDate": "15/07/2002",
+    "grantDate": "23/03/2021",
+    "title": "PROCESSO DE OBTEN\u00c7\u00c3O DE UM EXTRATO METAN\u00d3LICO FARMACEUTICAMENTE ATIVO DE CORDIA CURASSAVICA",
+    "divisionalApplication": {
+        "filingDate": "15/07/2002",
+        "applicationNumber": "PI 0203068-3"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "LUIZ FRANCISCO PIANOWSKI",
+        "JO\u00c3O BATISTA CALIXTO",
+        "DAGOBERTO DE CASTRO BRAND\u00c3O"
+    ],
+    "holders": [
+        17135
+    ],
+    "ipcCodes": [
+        "A61K 36/30"
+    ]
+}

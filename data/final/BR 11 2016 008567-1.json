@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2016 008567-1",
+    "filingDate": "20/10/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA O PROCESSAMENTO DE UMMATERIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1318468.4",
+            "priorityDate": "18/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "ALAN PEEL",
+        "ANDREW GIBBS"
+    ],
+    "holders": [
+        173115
+    ],
+    "ipcCodes": [
+        "C22B 21/00",
+        "B01D 1/18"
+    ]
+}

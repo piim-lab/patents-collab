@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2023 016981-0",
+    "filingDate": "25/02/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MEDI\u00c7\u00c3O DO CONTE\u00daDO DE UM ELEMENTO QU\u00cdMICO EM UM REVESTIMENTO",
+    "nationalPhaseDate": [
+        "23/08/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2022/054835",
+        "pctDate": "25/02/2022",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2021/078074",
+            "priorityDate": "26/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "1.3",
+            "description": "Pedido PCT Admitido na Fase Nacional",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [
+        "DEGUI XIA",
+        "BART ALLAERT",
+        "SEBASTIAAN FORREZ"
+    ],
+    "holders": [
+        79373
+    ],
+    "ipcCodes": [
+        "G01N 23/223",
+        "G01N 33/202"
+    ]
+}

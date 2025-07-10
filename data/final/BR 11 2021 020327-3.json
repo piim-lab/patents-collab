@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2021 020327-3",
+    "filingDate": "06/04/2020",
+    "grantDate": null,
+    "title": "PROGRESS\u00c3O ADIAB\u00c1TICA COM RE-OTIMIZA\u00c7\u00c3O INTERMEDI\u00c1RIA PARA RESOLVER PROBLEMAS QU\u00c2NTICOS DE VARIA\u00c7\u00c3O DURA NA COMPUTA\u00c7\u00c3O QU\u00c2NTICA",
+    "nationalPhaseDate": [
+        "08/10/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/059733",
+        "pctDate": "06/04/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/831,418",
+            "priorityDate": "09/04/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/427,043",
+            "priorityDate": "30/05/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/427,080",
+            "priorityDate": "30/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "DON GREENBERG",
+        "MARCO PISTOIA",
+        "RICHARD CHEN",
+        "GIACOMO NANNICINI"
+    ],
+    "holders": [
+        33313
+    ],
+    "ipcCodes": [
+        "G06N 5/00",
+        "G06N 10/00"
+    ]
+}

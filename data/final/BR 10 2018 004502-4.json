@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2018 004502-4",
+    "filingDate": "07/03/2018",
+    "grantDate": null,
+    "title": "ESTOJO DE CARTUCHO LONGO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/451,717",
+            "priorityDate": "07/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "JEFFREY W CARPER",
+        "CHRISTOPHER W SNAVELY"
+    ],
+    "holders": [
+        36733
+    ],
+    "ipcCodes": [
+        "B21K 27/04",
+        "F42B 5/02",
+        "B21C 25/02",
+        "B21C 23/20",
+        "B21K 21/04",
+        "B21J 13/08"
+    ]
+}

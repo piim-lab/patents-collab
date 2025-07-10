@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2017 013242-0",
+    "filingDate": "20/06/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE GERENCIAMENTO DE RES\u00cdDUO RESIDENCIAL QUE TEM PREVIS\u00c3O DE SERVI\u00c7O BASEADA EM CONSUMO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/352,391",
+            "priorityDate": "20/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "PHILIP RODONI"
+    ],
+    "holders": [
+        30452
+    ],
+    "ipcCodes": [
+        "G05B 13/02"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 20 2013 013587-4",
+    "filingDate": "03/06/2013",
+    "grantDate": "12/02/2019",
+    "title": "DISPOSI\u00c7\u00c3O INTRODUZIDA EM LUMIN\u00c1RIA DE EMERG\u00caNCIA",
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "18.1",
+            "description": "Notifica\u00e7\u00e3o de Pedido de Caducidade",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "18.4",
+            "description": "Caducidade Indeferida",
+            "bulletinNumber ": "2782"
+        }
+    ],
+    "inventors": [
+        "ALTAIR MICHELS"
+    ],
+    "holders": [
+        353664,
+        72309
+    ],
+    "ipcCodes": [
+        "H02J 9/00",
+        "F21S 9/02"
+    ]
+}

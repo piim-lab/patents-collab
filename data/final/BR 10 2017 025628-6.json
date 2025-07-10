@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 10 2017 025628-6",
+    "filingDate": "29/11/2017",
+    "grantDate": null,
+    "title": "FLUXOGRAMA DE FUNCIONAMENTO DO PROCESSO DE UM SISTEMA QUE GERA SOLU\u00c7\u00d5ES JUR\u00cdDICAS E PE\u00c7AS PROCESSUAIS",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2629"
+        }
+    ],
+    "inventors": [
+        "GILEADY LEANDRO PEREIRA DA SILVA"
+    ],
+    "holders": [
+        34296
+    ],
+    "ipcCodes": [
+        "G06Q 50/18"
+    ]
+}

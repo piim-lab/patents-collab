@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2019 001866-6",
+    "filingDate": "30/01/2019",
+    "grantDate": null,
+    "title": "ACIONADOR DE FREIO DE VE\u00cdCULO ELETROMEC\u00c2NICO, QUE COMPREENDE UMA REGI\u00c3O DE RUPTURA MEC\u00c2NICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1850988",
+            "priorityDate": "06/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "GILLES NEGRE"
+    ],
+    "holders": [
+        46026
+    ],
+    "ipcCodes": [
+        "B60W 10/08"
+    ]
+}

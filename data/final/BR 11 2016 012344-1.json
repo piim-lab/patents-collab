@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2016 012344-1",
+    "filingDate": "06/10/2014",
+    "grantDate": null,
+    "title": "ACOPLAMENTO DE FLUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 113 360.6",
+            "priorityDate": "03/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "ANTON D\u00d6RNH\u00d6FER",
+        "HERMANN STAUFF"
+    ],
+    "holders": [
+        175189
+    ],
+    "ipcCodes": [
+        "F16L 37/088",
+        "F16L 37/32"
+    ]
+}

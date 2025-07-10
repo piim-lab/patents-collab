@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2013 028526-5",
+    "filingDate": "27/04/2012",
+    "grantDate": null,
+    "title": "CARBODIIMIDAS, PROCESSO PARA A PREPARA\u00c7\u00c3O DE CARBODIIMIDAS, USO DAS CARBODIIMIDAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11164899.4",
+            "priorityDate": "05/05/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11188364.1",
+            "priorityDate": "09/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        }
+    ],
+    "inventors": [
+        "WILHELM LAUFER",
+        "BENJAMIN BECHEM",
+        "ARMIN ECKERT"
+    ],
+    "holders": [
+        160
+    ],
+    "ipcCodes": [
+        "C08G 18/02",
+        "C08K 5/29",
+        "C07C 267/00"
+    ]
+}

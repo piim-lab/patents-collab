@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 11 2013 010324-8",
+    "filingDate": "20/10/2011",
+    "grantDate": null,
+    "title": "Liga Ni-Fe-Cr-Mo",
+    "priorityClaims": [
+        {
+            "countryCode": "10",
+            "priorityNumber": "2010 049 781.9",
+            "priorityDate": "29/10/2010 DE"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        }
+    ],
+    "inventors": [
+        "HELENA ALVES",
+        "RAINER BEHRENS"
+    ],
+    "holders": [
+        113459
+    ],
+    "ipcCodes": [
+        "C22C 38/08",
+        "C22C 19/05",
+        "B23K 35/02",
+        "B23K 35/30",
+        "B32B 15/01",
+        "C22C 30/00",
+        "C22C 38/44",
+        "C22F 1/10"
+    ]
+}

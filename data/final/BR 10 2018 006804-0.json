@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2018 006804-0",
+    "filingDate": "04/04/2018",
+    "grantDate": null,
+    "title": "POLTRONA CONVERS\u00cdVEL COM APOIO PARA PERNAS OU SEM APOIO PARA PERNAS E PROCESSO DE CONVERS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1752931",
+            "priorityDate": "04/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "LAURENT TEXERAUD"
+    ],
+    "holders": [
+        19467
+    ],
+    "ipcCodes": [
+        "B60N 2/90",
+        "B64D 11/06"
+    ]
+}

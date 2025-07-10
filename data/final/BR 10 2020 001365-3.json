@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 001365-3",
+    "filingDate": "22/01/2020",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES ADJUVANTES AGR\u00cdCOLAS MULTIFUNCIONAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/796,236",
+            "priorityDate": "24/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "CHRISTINE M COLBY",
+        "DANNY M BROWN",
+        "ELIZABETH ALONZI"
+    ],
+    "holders": [
+        11309
+    ],
+    "ipcCodes": []
+}

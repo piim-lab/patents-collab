@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2013 023127-0",
+    "filingDate": "09/03/2012",
+    "grantDate": "11/02/2020",
+    "title": "PROCESSO PARA SUPLEMENTA\u00c7\u00c3O DE BEBIDAS COM FERRO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11157624.5",
+            "priorityDate": "10/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "GEORG STEIGER"
+    ],
+    "holders": [
+        16355
+    ],
+    "ipcCodes": [
+        "A61K 33/26",
+        "C07F 9/02",
+        "A23L 2/52",
+        "A23L 2/385",
+        "C07F 15/02"
+    ]
+}

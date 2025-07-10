@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2013 009994-1",
+    "filingDate": "28/10/2011",
+    "grantDate": "28/04/2020",
+    "title": "PROCESSO E DISPOSITIVO DE CLARIFICA\u00c7\u00c3O DAS \u00c1GUAS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "10/04285",
+            "priorityDate": "29/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "PATRICE CAPEAU",
+        "MICHEL LOPEZ",
+        "PASCAL GENDROT"
+    ],
+    "holders": [
+        113206
+    ],
+    "ipcCodes": [
+        "C02F 11/14",
+        "C02F 1/54"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2012 008481-3",
+    "filingDate": "11/04/2012",
+    "grantDate": null,
+    "title": "DETERMINA\u00c7\u00c3O DE UM N\u00daMERO DE OBJETOS EM UMA IMAGEM IR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/086,006",
+            "priorityDate": "13/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2501"
+        }
+    ],
+    "inventors": [
+        "YAO RONG WANG",
+        "ZHIGANG FAN",
+        "LALIT K MESTHA"
+    ],
+    "holders": [
+        456
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "G06K 9/60"
+    ]
+}

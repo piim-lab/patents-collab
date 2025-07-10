@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2013 023788-0",
+    "filingDate": "15/02/2012",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO DE CONFIGURA\u00c7\u00c3O PARA A GEST\u00c3O DE APARELHOS DE UM SISTEMA COM BASE EM REGRAS DE GEST\u00c3O, MEIOS DE ARMAZENAMENTO E INTERFACE GR\u00c1FICA DE DEFINI\u00c7\u00c3O DE REGRAS DE GEST\u00c3O PARA A GEST\u00c3O DE APARELHOS DE UM SISTEMA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "11/52337",
+            "priorityDate": "22/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "ERIC MASERA"
+    ],
+    "holders": [
+        51460
+    ],
+    "ipcCodes": [
+        "H04L 12/24",
+        "H04L 12/28"
+    ]
+}

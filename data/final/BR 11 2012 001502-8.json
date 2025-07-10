@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2012 001502-8",
+    "filingDate": "16/07/2010",
+    "grantDate": null,
+    "title": "BOLSA E RECIPIENTE DE COMBINA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "23/01/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2010/042288",
+        "pctDate": "16/07/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/460,682",
+            "priorityDate": "23/07/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/655,752",
+            "priorityDate": "05/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "NEIL J KOZARSKY",
+        "ELIOT M KOZARSKY",
+        "STEPHEN P BELKO",
+        "JOHN A CARPORASO"
+    ],
+    "holders": [
+        80646
+    ],
+    "ipcCodes": [
+        "B65D 5/42",
+        "B65D 30/16",
+        "B65D 33/25",
+        "B31B 1/90",
+        "B31B 49/00"
+    ]
+}

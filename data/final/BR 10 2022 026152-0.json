@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 026152-0",
+    "filingDate": "21/12/2022",
+    "grantDate": null,
+    "title": "AVALIA\u00c7\u00c3O BASEADA EM RECONHECIMENTO DE VOZ DE CONDI\u00c7\u00c3O(\u00d5ES) DE DOEN\u00c7A DE PARKINSON",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/292,570",
+            "priorityDate": "22/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "ERAN SHOR",
+        "TAMIR BEN DAVID",
+        "URI DAVID"
+    ],
+    "holders": [
+        77775
+    ],
+    "ipcCodes": [
+        "A61B 5/00",
+        "G10L 25/66"
+    ]
+}

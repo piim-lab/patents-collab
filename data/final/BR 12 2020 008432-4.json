@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 12 2020 008432-4",
+    "filingDate": "05/05/2017",
+    "grantDate": null,
+    "title": "CONJUNTO DE DESGASTE PARA EQUIPAMENTO DE TERRAPLANAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/332,286",
+            "priorityDate": "05/05/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/05/2017",
+        "applicationNumber": "BR 11 2018 072566-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "SCOTT H ZENIER",
+        "MICHAEL B ROSKA",
+        "JOEL S HANKLAND"
+    ],
+    "holders": [
+        124482
+    ],
+    "ipcCodes": [
+        "F16C 11/00",
+        "E02F 9/28"
+    ]
+}

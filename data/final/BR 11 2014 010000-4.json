@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2014 010000-4",
+    "filingDate": "22/10/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA RESFRIAMENTO DE PLACAS DE CIRCUITO IMPRESSO SOLDADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11186531.7",
+            "priorityDate": "25/10/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11008959.6",
+            "priorityDate": "10/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2518"
+        }
+    ],
+    "inventors": [
+        "HOLGER LIEBERT",
+        "PATRICK RIDGEWAY",
+        "ANDR\u00c9 KAST",
+        "LAURENT COUDURIER"
+    ],
+    "holders": [
+        2085
+    ],
+    "ipcCodes": [
+        "B23K 3/08",
+        "B23K 1/00",
+        "B23K 1/008"
+    ]
+}

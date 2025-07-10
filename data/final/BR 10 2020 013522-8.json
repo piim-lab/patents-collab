@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2020 013522-8",
+    "filingDate": "01/07/2020",
+    "grantDate": null,
+    "title": "BICO DE SUPRIMENTO DE \u00c1GUA PARA ANIMAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/869,655",
+            "priorityDate": "02/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "TOM MCADAMS",
+        "ETHAN HOFER",
+        "LUCIEN DNESTRIANSCHII"
+    ],
+    "holders": [
+        59732
+    ],
+    "ipcCodes": [
+        "A01K 7/06"
+    ]
+}

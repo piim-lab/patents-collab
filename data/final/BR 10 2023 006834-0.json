@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2023 006834-0",
+    "filingDate": "12/04/2023",
+    "grantDate": null,
+    "title": "COMPRESSOR DE PIST\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2022 001 448.3",
+            "priorityDate": "14/04/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "HEINZ BAUMANN",
+        "ANDI ZIERMANN",
+        "KENICHI KADOGUCHI",
+        "SHINYA YAMAMOTO",
+        "HISAYA KONDO",
+        "KEI NISHII",
+        "SATORU SHIMADA",
+        "AKIHIRO MURANISHI"
+    ],
+    "holders": [
+        6195,
+        78540
+    ],
+    "ipcCodes": [
+        "F04B 39/10",
+        "F04B 27/12"
+    ]
+}

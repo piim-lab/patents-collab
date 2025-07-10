@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2017 028045-0",
+    "filingDate": "27/06/2016",
+    "grantDate": null,
+    "title": "INIBIDORES DE IDO",
+    "nationalPhaseDate": [
+        "22/12/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/039564",
+        "pctDate": "27/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/184,984",
+            "priorityDate": "26/06/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "JAMES AARON BALOG",
+        "EMILY CHARLOTTE CHERNEY",
+        "JAY A MARKWALDER",
+        "WEIFANG SHAN",
+        "DAVID K WILLIAMS"
+    ],
+    "holders": [
+        82049
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/17",
+        "A61K 31/136",
+        "C07D 285/12",
+        "C07D 239/42",
+        "C07D 261/14",
+        "C07C 275/42"
+    ]
+}

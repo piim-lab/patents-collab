@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 10 2022 003708-6",
+    "filingDate": "25/02/2022",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO INTEGRADO PARA A EMISS\u00c3O DE ATIVOS DIGITAIS OU TOKENS LASTREADOS EM M\u00c9TRICAS DE CONSERVA\u00c7\u00c3O AUTENTICADAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "RICARDO AMARAL REMER",
+        "ROGERIO ATEM DE CARVALHO",
+        "RODRIGO MARTINS FERNANDES"
+    ],
+    "holders": [
+        51289,
+        9676,
+        74405
+    ],
+    "ipcCodes": [
+        "G06F 21/64",
+        "G16Z 99/00"
+    ]
+}

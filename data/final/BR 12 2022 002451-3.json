@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2022 002451-3",
+    "filingDate": "14/02/2019",
+    "grantDate": null,
+    "title": "MISTURA CAPAZ DE BIOCEMENTA\u00c7\u00c3O DE UM SUBSTRATO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2018 103 314.1",
+            "priorityDate": "14/02/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/02/2019",
+        "applicationNumber": "BR 11 2019 025548-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "LUITPOLD FRIED",
+        "MARTIN SPITZNAGEL",
+        "SASKIA PAZUR",
+        "PHILIPP SPRAU"
+    ],
+    "holders": [
+        255896
+    ],
+    "ipcCodes": [
+        "C04B 28/10"
+    ]
+}

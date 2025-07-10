@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2019 027754-0",
+    "filingDate": "19/03/2018",
+    "grantDate": "18/08/2020",
+    "title": "M\u00c9TODO E DECODIFICADOR PARA DECODIFICAR UM FLUXO DE BITS DE \u00c1UDIO CODIFICADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/475.619",
+            "priorityDate": "23/03/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "19/03/2018",
+        "applicationNumber": "BR 11 2019 014125-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "LARS VILLEMOES",
+        "HEIKO PURNHAGEN",
+        "PER EKSTRAND"
+    ],
+    "holders": [
+        82053
+    ],
+    "ipcCodes": [
+        "G06F 17/10",
+        "G10L 19/02",
+        "G10L 19/24",
+        "G10L 19/22",
+        "G10L 19/26"
+    ]
+}

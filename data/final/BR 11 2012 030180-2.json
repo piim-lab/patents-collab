@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2012 030180-2",
+    "filingDate": "24/05/2011",
+    "grantDate": null,
+    "title": "AMASSADEIRA EXTRUSORA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-122848",
+            "priorityDate": "28/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        }
+    ],
+    "inventors": [
+        "KOHEI SAWA"
+    ],
+    "holders": [
+        103919
+    ],
+    "ipcCodes": [
+        "B29B 7/38",
+        "B29C 47/92",
+        "B29B 7/72",
+        "B29C 47/36",
+        "B29C 47/72"
+    ]
+}

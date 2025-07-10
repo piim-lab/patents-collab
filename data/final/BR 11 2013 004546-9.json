@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 004546-9",
+    "filingDate": "25/08/2011",
+    "grantDate": null,
+    "title": "Processo para fabrica\u00e7\u00e3o de 2, 3, 5 - trimetil-hidro-p-benzoquinona",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10174083.5",
+            "priorityDate": "26/08/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "WERNER BONRATH",
+        "THOMAS NETSCHER",
+        "JAN SCH\u00dcTZ",
+        "BETTINA W\u00dcSTENBERG"
+    ],
+    "holders": [
+        16355
+    ],
+    "ipcCodes": [
+        "C07C 37/00",
+        "C07D 207/06",
+        "C07D 311/72",
+        "C07C 213/08",
+        "C07C 39/08",
+        "C07D 295/096",
+        "C07C 215/50",
+        "C07C 37/07"
+    ]
+}

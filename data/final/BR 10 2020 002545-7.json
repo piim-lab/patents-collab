@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2020 002545-7",
+    "filingDate": "06/02/2020",
+    "grantDate": null,
+    "title": "PROCESSO DE TRATAMENTO DE \u00c1GUA DE ALTA EFICI\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "GB1916571.1",
+            "priorityDate": "14/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2799"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2802"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "ALEX DRAK",
+        "TOMER EFRAT"
+    ],
+    "holders": [
+        56223
+    ],
+    "ipcCodes": [
+        "C02F 1/44",
+        "B01D 61/02"
+    ]
+}

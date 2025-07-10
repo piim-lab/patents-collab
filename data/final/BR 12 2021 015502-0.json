@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2021 015502-0",
+    "filingDate": "12/03/2014",
+    "grantDate": null,
+    "title": "\"QUIMERAS DE\u00c1CIDO NUCLEICO, MOL\u00c9CULAS DE POLIPEPT\u00cdDEO,COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS, USO DAS COMPOSI\u00c7\u00d5ES,VETORES, SEQU\u00caNCIAS DE \u00c1CIDOS NUCLEICOS, COMPOSI\u00c7\u00d5ESIMUNOG\u00caNICAS, KIT, QUIMERA DE V\u00cdRUS DA DENGUE-1, V\u00cdRUS DADENGUE 1 VIVO ATENUADO, QUIMERA DE V\u00cdRUS DA DENGUE 3,QUIMERA DE V\u00cdRUS DA DENGUE 4, C\u00c9LULA ISOLADA\".",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/800,204",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/03/2014",
+        "applicationNumber": "BR 11 2015 023635-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "DAN T STINCHCOMB",
+        "CLAIRE KINNEY",
+        "RICHARD M KINNEY",
+        "JILL A LIVENGOOD",
+        "DAN T STINCHCOMB",
+        "CLAIRE KINNEY",
+        "RICHARD M KINNEY",
+        "JILL A LIVENGOOD"
+    ],
+    "holders": [
+        130003,
+        163518
+    ],
+    "ipcCodes": [
+        "A61K 39/12"
+    ]
+}

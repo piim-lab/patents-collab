@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2012 023157-0",
+    "filingDate": "15/03/2011",
+    "grantDate": null,
+    "title": "PROCESSOS PARA PREPARAR UM COMPOSTO, COMPOSTOS, USO DE UM COMPOSTO E USO DE UM REAGENTE DE GRIGNARD",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10156601.6",
+            "priorityDate": "16/03/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/314,185",
+            "priorityDate": "16/03/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10159510.6",
+            "priorityDate": "09/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "MAXIMILIAN DOCHNAHL",
+        "BERND WOLF",
+        "FREDERIK MENGES",
+        "JENS RENNER",
+        "JOACHIM GEBHARDT",
+        "MICHAEL KEIL",
+        "MICHAEL RACK",
+        "UWE JOSEF VOGELBACHER"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C07D 405/06",
+        "C07F 3/00",
+        "C07F 3/02"
+    ]
+}

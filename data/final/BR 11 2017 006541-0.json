@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2017 006541-0",
+    "filingDate": "04/09/2015",
+    "grantDate": null,
+    "title": "ESQUEMA DE CONFIGURA\u00c7\u00c3O DE CONFORMA\u00c7\u00c3O DE FEIXE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/058,513",
+            "priorityDate": "01/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/693,624",
+            "priorityDate": "22/04/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "JUNYI LI",
+        "ASHWIN SAMPATH",
+        "SUNDAR SUBRAMANIAN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04L 5/00",
+        "H04B 7/06"
+    ]
+}

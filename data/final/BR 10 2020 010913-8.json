@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2020 010913-8",
+    "filingDate": "29/05/2020",
+    "grantDate": null,
+    "title": "CONJUNTO DE CONTATO DE BAIXA TENS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19177384.5",
+            "priorityDate": "29/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "MARCO BONFANTI",
+        "MAURO GHISLOTTI",
+        "MICHELE CERONI"
+    ],
+    "holders": [
+        6970
+    ],
+    "ipcCodes": [
+        "H01H 71/10",
+        "H01H 1/50",
+        "H01H 1/20",
+        "H01H 1/34"
+    ]
+}

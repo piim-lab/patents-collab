@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 11 2018 005784-3",
+    "filingDate": "26/09/2016",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA TESTAR DEGRADA\u00c7\u00c3O DE DISPOSITIVO FOTOSSENS\u00cdVEL",
+    "nationalPhaseDate": [
+        "22/03/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/053806",
+        "pctDate": "26/09/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/232,088",
+            "priorityDate": "24/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "25.5",
+            "description": "Altera\u00e7\u00e3o de Nome Indeferida",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "MICHAEL D IRWIN",
+        "JEROME LOVELACE",
+        "KAMIL MIELCZAREK"
+    ],
+    "holders": [
+        174948
+    ],
+    "ipcCodes": [
+        "G09G 3/00",
+        "H02S 50/10",
+        "H05B 33/10"
+    ]
+}

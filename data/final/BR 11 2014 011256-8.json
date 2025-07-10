@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 011256-8",
+    "filingDate": "26/10/2012",
+    "grantDate": null,
+    "title": "INSTALA\u00c7\u00c3O DE TRATAMENTO DE ARTIGOS POR BOMBARDEIO ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1160242",
+            "priorityDate": "10/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "R\u00c9MY FALLET",
+        "DELPHINE GUEGUEN"
+    ],
+    "holders": [
+        116570
+    ],
+    "ipcCodes": [
+        "A61L 2/08"
+    ]
+}

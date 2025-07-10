@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 007162-9",
+    "filingDate": "09/04/2018",
+    "grantDate": null,
+    "title": "PRODUTO DE CONFEITARIA QUE POSSUI UM CORPO OCO",
+    "priorityClaims": [
+        {
+            "countryCode": "LU",
+            "priorityNumber": "100167",
+            "priorityDate": "10/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "MAZZETI MARCO",
+        "ENRICO PAVESI",
+        "SERGIO MANSUINO"
+    ],
+    "holders": [
+        346
+    ],
+    "ipcCodes": [
+        "A23G 1/32",
+        "A21D 13/24",
+        "A23G 3/50",
+        "A23G 1/54"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2017 008957-2",
+    "filingDate": "04/08/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE SELE\u00c7\u00c3O DE INDIV\u00cdDUOS, M\u00c9TODO DE PREDI\u00c7\u00c3O DO RISCO DE DOEN\u00c7AS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/069,007",
+            "priorityDate": "27/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/093,713",
+            "priorityDate": "18/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "MARK COOPER",
+        "CARLOS MESSINA",
+        "FRANK TECHNOW",
+        "LIVIU RADU TOTIR"
+    ],
+    "holders": [
+        87913
+    ],
+    "ipcCodes": [
+        "C12Q 1/68",
+        "A01H 1/04",
+        "A01H 1/02"
+    ]
+}

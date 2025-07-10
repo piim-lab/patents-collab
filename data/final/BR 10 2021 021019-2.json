@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2021 021019-2",
+    "filingDate": "20/10/2021",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O DE PLACAS DE CANAL PARA UMA M\u00c1QUINA DE ACABAMENTO DE ESTRADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20203308.0",
+            "priorityDate": "22/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2791"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2803"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUSCHMANN",
+        "FRANK GRIMM",
+        "BERNHARD ERDTMANN",
+        "THOMAS SEITHER",
+        "ALESSANDRO DE SANTIS",
+        "NICOLE ANGERMANN",
+        "CHRISTIAN JENEWEIN"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48"
+    ]
+}

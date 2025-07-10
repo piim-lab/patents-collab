@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 011498-6",
+    "filingDate": "12/11/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE PAPEL OU PAPEL\u00c3O ENCOLADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/559198",
+            "priorityDate": "14/11/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11189013.3",
+            "priorityDate": "14/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        }
+    ],
+    "inventors": [
+        "ALOIS KINDLER",
+        "MARI GRANSTR\u00d6M",
+        "HUBERTUS KR\u00d6NER",
+        "HOLGER KERN"
+    ],
+    "holders": [
+        25067
+    ],
+    "ipcCodes": [
+        "D21H 17/17"
+    ]
+}

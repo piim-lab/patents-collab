@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 10 2019 027649-5",
+    "filingDate": "23/12/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO E LOCALIZA\u00c7\u00c3O DE REBANHO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "GUSTAVO FRAIDENRAICH",
+        "PATRICK DE CARVALHO TAVARES REZENDE FERREIRA",
+        "MARCELO BARSAM"
+    ],
+    "holders": [
+        221
+    ],
+    "ipcCodes": [
+        "G01S 5/02",
+        "G06F 13/00",
+        "G06F 17/00",
+        "A01K 29/00",
+        "A01K 11/00"
+    ]
+}

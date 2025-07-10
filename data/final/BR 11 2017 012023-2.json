@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 012023-2",
+    "filingDate": "04/12/2015",
+    "grantDate": null,
+    "title": "Sistema e aparelho",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US 14/575,032",
+            "priorityDate": "18/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "GERALDO NOJIMA"
+    ],
+    "holders": [
+        12470
+    ],
+    "ipcCodes": [
+        "F04D 13/10",
+        "F04D 13/08"
+    ]
+}

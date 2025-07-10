@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2012 025695-5",
+    "filingDate": "26/05/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE SELE\u00c7\u00c3O DE C\u00c9LULA B E M\u00c9TODO DE PRODU\u00c7\u00c3O DE UM ANTICORPO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10005602.7",
+            "priorityDate": "28/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "JOSEF ENDL",
+        "BASILE SIEWE",
+        "IRMGARD THOREY",
+        "JOSEF PLATZER",
+        "NATALIE SCHUHMACHER",
+        "SONJA OFFNER"
+    ],
+    "holders": [
+        61582
+    ],
+    "ipcCodes": [
+        "G01N 33/50"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 13 2019 019026-3",
+    "filingDate": "13/09/2019",
+    "grantDate": null,
+    "title": "ANEL INTRACORNEANO EL\u00cdPTICO",
+    "parentApplication": {
+        "filingDate": "04/10/2004",
+        "applicationNumber": "PI 0404515-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "11.17",
+            "description": "Arquivamento do pedido de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o \u2013 Art. 77 da LPI",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "12.3",
+            "description": "Recurso Contra o Arquivamento",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "102",
+            "description": "Recurso conhecido e provido. Desarquivado o processo para prosseguir o exame",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "15.10",
+            "description": "Mudan\u00e7a de Natureza",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        336236
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2022 013557-2",
+    "filingDate": "08/01/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA DADOS DE SERVI\u00c7O DE MULTIDIFUS\u00c3O/DIFUS\u00c3O",
+    "nationalPhaseDate": [
+        "07/07/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2020/070986",
+        "pctDate": "08/01/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "15.22.2",
+            "description": "Devolu\u00e7\u00e3o de Prazo por falha de Sistema",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "HAO ZHU",
+        "TAO QI",
+        "FENG XIE",
+        "KUN CAO",
+        "ZIJIANG MA"
+    ],
+    "holders": [
+        79199
+    ],
+    "ipcCodes": [
+        "H04L 12/18"
+    ]
+}

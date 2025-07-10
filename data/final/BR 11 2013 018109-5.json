@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 11 2013 018109-5",
+    "filingDate": "20/01/2012",
+    "grantDate": "11/05/2021",
+    "title": "SISTEMA E M\u00c9TODO DE IMAGEAMENTO DE RAIOS X E DETECTOR DE RAIOS X DIGITAL",
+    "nationalPhaseDate": [
+        "16/07/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2012/021962",
+        "pctDate": "20/01/2012",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/011,016",
+            "priorityDate": "21/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/010,982",
+            "priorityDate": "21/01/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/011,033",
+            "priorityDate": "21/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "JAMES ZHENGSHE LIU",
+        "BRIAN JOHN KOST",
+        "DONALD FAYETTE LANGLER",
+        "KENNETH SCOTT KUMP",
+        "PAUL RICHARD GRANFORS",
+        "PING XUE"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "A61B 6/00"
+    ]
+}

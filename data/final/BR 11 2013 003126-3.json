@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2013 003126-3",
+    "filingDate": "28/07/2011",
+    "grantDate": null,
+    "title": "VIGA PARA UM REVERSOR DE EMPUXO EM CASCATA",
+    "nationalPhaseDate": [
+        "07/02/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT FR2011/051826",
+        "pctDate": "28/07/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1056647",
+            "priorityDate": "18/08/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "ALEXANDRE BELLANGER",
+        "FLORENT BOUILLON",
+        "LAURENT DUBOIS"
+    ],
+    "holders": [
+        108302
+    ],
+    "ipcCodes": [
+        "F02K 1/72",
+        "F02K 1/80"
+    ]
+}

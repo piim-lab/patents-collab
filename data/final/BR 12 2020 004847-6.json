@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2020 004847-6",
+    "filingDate": "11/03/2013",
+    "grantDate": null,
+    "title": "GUIA DE RESSEC\u00c7\u00c3O CONFIGURADA PARA GUIAR UMA FERRAMENTA DE RESSEC\u00c7\u00c3O EM DIRE\u00c7\u00c3O A UMA FONTE DE ENXERTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/642,063",
+            "priorityDate": "03/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/645,890",
+            "priorityDate": "11/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/699,938",
+            "priorityDate": "12/09/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "11/03/2013",
+        "applicationNumber": "BR 11 2014 027426-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "ANDREW C DAVISON",
+        "MICHAEL BARTHOLD"
+    ],
+    "holders": [
+        7452
+    ],
+    "ipcCodes": [
+        "A61B 17/17",
+        "A61B 17/15"
+    ]
+}

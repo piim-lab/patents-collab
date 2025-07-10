@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 003484-0",
+    "filingDate": "24/02/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA CONTROLAR UMA CALDEIRA DE RECUPERA\u00c7\u00c3O QU\u00cdMICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20205240",
+            "priorityDate": "06/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "JARMO MANSIKKASALO"
+    ],
+    "holders": [
+        39466
+    ],
+    "ipcCodes": [
+        "G05B 23/02",
+        "G05B 1/00",
+        "G05B 13/04",
+        "D21C 11/12",
+        "G05B 19/04",
+        "G05B 17/00",
+        "G05B 21/00"
+    ]
+}

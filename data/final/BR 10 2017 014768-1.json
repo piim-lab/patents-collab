@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2017 014768-1",
+    "filingDate": "07/07/2017",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA GERENCIAMENTO DE SERVI\u00c7OS DE RES\u00cdDUOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/206,492",
+            "priorityDate": "11/07/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2609"
+        }
+    ],
+    "inventors": [
+        "PHILIP RODONI"
+    ],
+    "holders": [
+        30452
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G06Q 20/10",
+        "H04W 84/12",
+        "G06Q 50/26",
+        "H04W 4/021"
+    ]
+}

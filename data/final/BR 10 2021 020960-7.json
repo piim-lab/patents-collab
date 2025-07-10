@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 020960-7",
+    "filingDate": "19/10/2021",
+    "grantDate": null,
+    "title": "PIST\u00c3O PARA UM MOTOR DE COMBUST\u00c3O INTERNA E M\u00c9TODO DE PRODU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2020 213 242.9",
+            "priorityDate": "20/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2678"
+        }
+    ],
+    "inventors": [
+        "PETER BECHTOLD",
+        "MICHAEL BISWURM"
+    ],
+    "holders": [
+        1852
+    ],
+    "ipcCodes": [
+        "F02F 3/00"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2016 027233-8",
+    "filingDate": "12/02/2009",
+    "grantDate": "05/06/2018",
+    "title": "HIDRAZONA  DE  \u00c1CIDO  ACR\u00cdLICO  2-ACILADA  OU  2- IMINOALQUILADA",
+    "priorityClaims": [
+        {
+            "countryCode": "08",
+            "priorityNumber": "151891.2",
+            "priorityDate": "25/02/2008 EP"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/02/2009",
+        "applicationNumber": "PI 0908891-1"
+    },
+    "events": [
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2520"
+        }
+    ],
+    "inventors": [
+        "SERGII PAZENOK",
+        "NORBERT LUI",
+        "DIETMAR HEINRICH",
+        "THOMAS WOLLNER"
+    ],
+    "holders": [
+        79417
+    ],
+    "ipcCodes": [
+        "C07C 251/86",
+        "C07D 231/14"
+    ]
+}

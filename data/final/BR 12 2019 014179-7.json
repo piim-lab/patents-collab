@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 12 2019 014179-7",
+    "filingDate": "02/07/2012",
+    "grantDate": null,
+    "title": "APARELHO DE DECODIFICA\u00c7\u00c3O DE V\u00cdDEO, M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE V\u00cdDEO, APARELHO DE CODIFICA\u00c7\u00c3O DE V\u00cdDEO, E MEIO LEG\u00cdVEL POR M\u00c1QUINA N\u00c3O TRANSIT\u00d3RIO PARA ARMAZENAR DADOS ASSOCIADOS A UM V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/503,685",
+            "priorityDate": "01/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/548,423",
+            "priorityDate": "18/10/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/07/2012",
+        "applicationNumber": "BR 11 2013 033899-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "TAMMY LEE",
+        "JIANLE CHEN"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/18",
+        "H04N 19/13",
+        "H04N 19/157",
+        "H04N 19/186",
+        "H04N 19/119"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2014 020450-0",
+    "filingDate": "20/02/2013",
+    "grantDate": null,
+    "title": "HIDROG\u00c9IS \u00c0 BASE DE CUCURBITURILA E M\u00c9TODOS PARA PREPARA\u00c7\u00c3O DOS DITOS HIDROG\u00c9IS",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1202834.6",
+            "priorityDate": "20/02/2012"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1301648.0",
+            "priorityDate": "30/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "OREN SCHERMAN",
+        "ERIC APPEL",
+        "XIAN JUN LOH",
+        "MATTHEW ROWLAND",
+        "FRANK BIEDERMANN"
+    ],
+    "holders": [
+        95191
+    ],
+    "ipcCodes": [
+        "C08G 83/00",
+        "A61K 47/00",
+        "C08J 3/075"
+    ]
+}

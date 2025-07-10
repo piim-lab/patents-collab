@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2013 008591-6",
+    "filingDate": "14/10/2011",
+    "grantDate": "20/04/2021",
+    "title": "TERMINAL EL\u00c9TRICO PARA TERMINA\u00c7\u00c3O DE UM FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/394.260",
+            "priorityDate": "18/10/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/976,707",
+            "priorityDate": "22/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "15.7",
+            "description": "Peti\u00e7\u00e3o n\u00e3o Conhecida",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "NED EUGENE CORMAN",
+        "UWE BLUMMEL",
+        "HELGE SCHMIDT",
+        "CHARLES DUDLEY COPPER",
+        "RAYMOND D BOYER",
+        "DAVID B WEAVER",
+        "JOHN WESLEY HALL",
+        "JOHN MARK MYER"
+    ],
+    "holders": [
+        8736,
+        9846
+    ],
+    "ipcCodes": [
+        "H01R 4/18",
+        "H01R 13/52"
+    ]
+}

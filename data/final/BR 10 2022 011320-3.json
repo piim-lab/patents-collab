@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2022 011320-3",
+    "filingDate": "09/06/2022",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE C\u00c2MERA, DISPOSITIVO ELETR\u00d4NICO E INSTRUMENTO DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/209,016",
+            "priorityDate": "10/06/2021"
+        },
+        {
+            "countryCode": "TW",
+            "priorityNumber": "110137630",
+            "priorityDate": "08/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "YU TSAI",
+        "PANG CHANG",
+        "AN CHANG",
+        "TA CHOU",
+        "FENG LIN",
+        "CHIANG CHU"
+    ],
+    "holders": [
+        42378
+    ],
+    "ipcCodes": [
+        "H01L 27/146",
+        "G03B 17/12",
+        "G02B 3/00",
+        "G02B 1/115",
+        "G02B 1/14",
+        "H04N 23/54",
+        "H04N 23/55",
+        "H04N 23/57"
+    ]
+}

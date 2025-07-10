@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 011310-1",
+    "filingDate": "29/10/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UM CILINDRO YANKEE DE A\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1351368-4",
+            "priorityDate": "19/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "STEFAN MOD\u00c9N",
+        "MAGNUS H\u00d6GMAN",
+        "ANDREAS HJ\u00c4RTQVIST"
+    ],
+    "holders": [
+        43163
+    ],
+    "ipcCodes": [
+        "B23K 9/035",
+        "D21F 5/02"
+    ]
+}

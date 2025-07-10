@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2019 013223-6",
+    "filingDate": "22/12/2017",
+    "grantDate": "25/07/2023",
+    "title": "DIODO MAGN\u00c9TICO DE COMUTA\u00c7\u00c3O DE POLARIDADE",
+    "nationalPhaseDate": [
+        "26/06/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/068334",
+        "pctDate": "22/12/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/391,106",
+            "priorityDate": "27/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/398,520",
+            "priorityDate": "04/01/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2754"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "CHAD VANDENBERG"
+    ],
+    "holders": [
+        245633
+    ],
+    "ipcCodes": [
+        "H01F 7/14",
+        "H01F 7/08",
+        "H01F 27/40"
+    ]
+}

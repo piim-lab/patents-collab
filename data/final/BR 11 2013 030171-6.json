@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2013 030171-6",
+    "filingDate": "29/05/2012",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o comest\u00edvel",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11168797.6",
+            "priorityDate": "06/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "MARK JOHN BERRY",
+        "MARK IAN FOWLER",
+        "ALAN DAVID HEATH",
+        "FENG SHI",
+        "HARRY RENES",
+        "ESTHER VAN OMMEREN",
+        "SUSANNA MAGDALENA VORSTER",
+        "YILI WANG",
+        "ADRI DE KLERK",
+        "JENIFER AUGELLI"
+    ],
+    "holders": [
+        82156,
+        92015
+    ],
+    "ipcCodes": [
+        "C07D 207/16",
+        "C07C 233/47",
+        "C07C 321/14",
+        "C07C 233/49",
+        "A23L 1/227"
+    ]
+}

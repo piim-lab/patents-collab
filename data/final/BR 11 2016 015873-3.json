@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2016 015873-3",
+    "filingDate": "08/01/2015",
+    "grantDate": null,
+    "title": "Junta de expans\u00e3o flex\u00edvel",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/925,009",
+            "priorityDate": "08/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "LOUIS J MATTINA",
+        "STEPHEN JOSEPH CRAMB",
+        "BRANDON T PHILLIPS",
+        "BENJAMIN JAMES WHIPPLE",
+        "SHERWIN A DAMDAR"
+    ],
+    "holders": [
+        89880
+    ],
+    "ipcCodes": [
+        "F16K 7/02",
+        "F16K 7/04"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2012 016880-0",
+    "filingDate": "05/01/2011",
+    "grantDate": "17/03/2020",
+    "title": "CABO H\u00cdBRIDO E PROCESSO PARA TERMINAR UM CABO H\u00cdBRIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10150241.7",
+            "priorityDate": "07/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2756"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "PAULUS JOHANNES HYACINTHUS MARIE SMEETS",
+        "CHRISTIAAN HENRI PETER DIRKS",
+        "LAMBERTUS MARIA JOZEF TABOR",
+        "XAVIER AMILS"
+    ],
+    "holders": [
+        94488,
+        16355
+    ],
+    "ipcCodes": [
+        "F16G 11/04"
+    ]
+}

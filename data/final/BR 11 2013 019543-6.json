@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 11 2013 019543-6",
+    "filingDate": "03/02/2012",
+    "grantDate": "08/12/2020",
+    "title": "PROCESSO PARA PRODUZIR UM SISTEMA DE MULTISUBST\u00c2NCIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 010 346.5",
+            "priorityDate": "04/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2812"
+        }
+    ],
+    "inventors": [
+        "KARSTEN BECK",
+        "SVEN ALBRECHT",
+        "CHRISTOPH SCHNITTER",
+        "TIMO LANGETEPE",
+        "RALPH OTTERSTEDT"
+    ],
+    "holders": [
+        120398
+    ],
+    "ipcCodes": [
+        "C04B 35/495",
+        "C04B 35/626",
+        "H01L 41/187",
+        "H01G 9/042"
+    ]
+}

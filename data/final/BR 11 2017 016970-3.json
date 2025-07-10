@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 016970-3",
+    "filingDate": "08/02/2016",
+    "grantDate": null,
+    "title": "ELEMENTO DE FILTRO E CONJUNTO DE LIMPADOR DE AR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/113,740",
+            "priorityDate": "09/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/010,572",
+            "priorityDate": "29/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "TIMOTHY S FINN",
+        "MICHAEL KAUFMANN",
+        "DIETER RUHLAND"
+    ],
+    "holders": [
+        4558
+    ],
+    "ipcCodes": [
+        "B01D 46/00",
+        "B01D 50/00",
+        "B01D 46/42",
+        "B01D 46/10"
+    ]
+}

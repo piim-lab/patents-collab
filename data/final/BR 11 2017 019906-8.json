@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2017 019906-8",
+    "filingDate": "31/03/2016",
+    "grantDate": null,
+    "title": "PEDA\u00c7O DE AN\u00c1LISE",
+    "nationalPhaseDate": [
+        "18/09/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2016/060840",
+        "pctDate": "31/03/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-072737",
+            "priorityDate": "31/03/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-255380",
+            "priorityDate": "25/12/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2806"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2817"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        83273
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2013 000933-0",
+    "filingDate": "22/06/2011",
+    "grantDate": null,
+    "title": "JUNTA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 027 059.8",
+            "priorityDate": "14/07/2010"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 032 419.1",
+            "priorityDate": "27/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "MATTHIAS LUTZ",
+        "THOMAS GREGOR"
+    ],
+    "holders": [
+        86370,
+        10236
+    ],
+    "ipcCodes": [
+        "F16D 3/223"
+    ]
+}

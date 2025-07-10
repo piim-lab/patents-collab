@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 10 2020 025455-3",
+    "filingDate": "11/12/2020",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE VACINA DE SUBUNIDADE CONTRA DENGUE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/906,134",
+            "priorityDate": "19/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "28.10.12",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia para tratamento de sa\u00fade",
+            "bulletinNumber ": "2787"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2787"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2802"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2819"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "SHIN LIN",
+        "MING YEH",
+        "CHUN CHUANG",
+        "YI YU",
+        "WEI CHEN",
+        "WEN WAN",
+        "YING WANG",
+        "SHIANN HO",
+        "BIN SHIEH"
+    ],
+    "holders": [
+        64080
+    ],
+    "ipcCodes": [
+        "C07K 14/18",
+        "A61P 31/14",
+        "A61K 39/12"
+    ]
+}

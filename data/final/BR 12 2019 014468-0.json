@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 12 2019 014468-0",
+    "filingDate": "14/05/2009",
+    "grantDate": "15/09/2020",
+    "title": "PEPT\u00cdDEOS DE MHC DE CLASSE II DERIVADOS DE SURVIVINA E SEU M\u00c9TODO DE PRODU\u00c7\u00c3O, \u00c1CIDO NUCLEICO, C\u00c9LULA HOSPEDEIRA, USO DOS ANTERIORES, KIT, ANTICORPO, E M\u00c9TODO IN VITRO PARA A PRODU\u00c7\u00c3O DE LINF\u00d3CITOS T CITOT\u00d3XICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08 008944.4",
+            "priorityDate": "14/05/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/053,182",
+            "priorityDate": "14/05/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/05/2009",
+        "applicationNumber": "PI 0912622-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "STEFAN STEVANOVIC",
+        "C\u00c9CILE GOUTTEFANGEAS",
+        "GEORG RAMMENSEE",
+        "TONI WEINSCHENK",
+        "PETER LEWANDROWSKI"
+    ],
+    "holders": [
+        99444
+    ],
+    "ipcCodes": [
+        "C07K 14/47",
+        "C07K 16/18",
+        "A61K 38/00",
+        "C12N 15/12"
+    ]
+}

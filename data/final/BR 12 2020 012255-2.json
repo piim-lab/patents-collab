@@ -1,0 +1,87 @@
+{
+    "applicationNumber": "BR 12 2020 012255-2",
+    "filingDate": "16/12/2011",
+    "grantDate": null,
+    "title": "USO DE UM ANTICORPO ANTI-IL-13, USOS DE UMA QUANTIDADE TERAPEUTICAMENTE EFICAZ DE LEBRIKIZUMAB, USO DE UM INIBIDOR DA VIA DE TH2, M\u00c9TODO DE AVALIA\u00c7\u00c3O DE EVENTOS ADVERSOS, ANTICORPOS ANTI-PERIOSTINA E TESTE DE PERIOSTINA TOTAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/459,760",
+            "priorityDate": "16/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/465,425",
+            "priorityDate": "18/03/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/484,650",
+            "priorityDate": "10/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/574,485",
+            "priorityDate": "02/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/557,295",
+            "priorityDate": "08/11/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/12/2011",
+        "applicationNumber": "BR 11 2013 013460-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2692"
+        }
+    ],
+    "inventors": [
+        "JOSEPH R ARRON",
+        "RICHARD W ERICKSON",
+        "MICHELLE FREEMER",
+        "MEREDITH HAZEN",
+        "GUIQUAN JIA",
+        "JOHN G MATTHEWS",
+        "WENDY PUTNAM",
+        "HELEEN SCHEERENS",
+        "YANAN ZHENG"
+    ],
+    "holders": [
+        32509
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "G01N 33/53"
+    ]
+}

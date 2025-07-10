@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 13 2019 000163-0",
+    "filingDate": "04/01/2019",
+    "grantDate": "01/08/2023",
+    "title": "ALICATE EXTRATOR DE DENTES E RA\u00cdZES DENT\u00c1RIAS REMANESCENTES",
+    "parentApplication": {
+        "filingDate": "21/02/2017",
+        "applicationNumber": "BR 11 2018 015733-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "DOUGLAS LAUFER SCHMIDT",
+        "JOAQUIM FRANCISCO BERTUOL PORTO",
+        "RICARDO ALBERTO HEINE",
+        "ANDR\u00c9 SCHAAN CASAGRANDE"
+    ],
+    "holders": [
+        221354
+    ],
+    "ipcCodes": [
+        "A61C 3/00",
+        "A61C 3/14"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 13 2016 012645-1",
+    "filingDate": "02/06/2016",
+    "grantDate": null,
+    "title": "SUPORTE EXPOSITOR",
+    "parentApplication": {
+        "filingDate": "23/09/2015",
+        "applicationNumber": "BR 10 2015 024435-5"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "11.17",
+            "description": "Arquivamento do pedido de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o \u2013 Art. 77 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "11.20",
+            "description": "Manuten\u00e7\u00e3o do arquivamento",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [
+        "GILBERTO GON\u00c7ALVES DE OLIVEIRA FILHO"
+    ],
+    "holders": [
+        352451
+    ],
+    "ipcCodes": [
+        "F16M 11/04",
+        "F16M 13/02",
+        "A47F 7/024",
+        "G09F 7/18",
+        "H04M 1/04"
+    ]
+}

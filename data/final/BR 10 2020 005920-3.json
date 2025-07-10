@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2020 005920-3",
+    "filingDate": "25/03/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UM LAMINADO N\u00c3O TECIDO E LAMINADO N\u00c3O TECIDO COM PELO MENOS DUAS CAMADAS TERMOSSOLADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102019107771.0",
+            "priorityDate": "26/03/2019"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20161281.9",
+            "priorityDate": "05/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [
+        "TOBIAS WAGNER",
+        "PATRICK BOHL",
+        "DETLEF FREY"
+    ],
+    "holders": [
+        3318
+    ],
+    "ipcCodes": [
+        "B32B 5/02",
+        "D01D 5/088",
+        "D04H 3/007",
+        "D04H 3/14",
+        "D01D 5/22",
+        "D01D 5/30"
+    ]
+}

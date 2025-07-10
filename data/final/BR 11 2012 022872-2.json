@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2012 022872-2",
+    "filingDate": "10/03/2011",
+    "grantDate": null,
+    "title": "CARCA\u00c7A DE PNEU E PROCESSO PARA FORMAR UM PNEU",
+    "nationalPhaseDate": [
+        "11/09/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2011/053601",
+        "pctDate": "10/03/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/661,170",
+            "priorityDate": "11/03/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/836,256",
+            "priorityDate": "14/07/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/027,487",
+            "priorityDate": "15/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2494"
+        }
+    ],
+    "inventors": [
+        "DANY F MICHIELS",
+        "FRANCK CATTEAU",
+        "JOHANN PESCHEK",
+        "PETER EECKHOUT"
+    ],
+    "holders": [
+        87699
+    ],
+    "ipcCodes": [
+        "B60C 1/00",
+        "B60C 9/00",
+        "B60C 9/11"
+    ]
+}

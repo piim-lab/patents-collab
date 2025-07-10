@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2014 027420-3",
+    "filingDate": "03/11/2011",
+    "grantDate": null,
+    "title": "ANTICORPOS ANTI C-MET",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/409,866",
+            "priorityDate": "03/11/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "03/11/2011",
+        "applicationNumber": "BR 11 2013 010688-3"
+    },
+    "events": [
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        113692
+    ],
+    "ipcCodes": []
+}

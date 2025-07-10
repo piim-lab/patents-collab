@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2015 014180-3",
+    "filingDate": "16/12/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES DE GEL",
+    "nationalPhaseDate": [
+        "16/06/2015"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2013/076677",
+        "pctDate": "16/12/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12197473.7",
+            "priorityDate": "17/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "SCOTT ALLEN",
+        "ADRIAN CHISHOLM",
+        "MUKHTIAR SOHAL",
+        "IVAN TORY",
+        "SCOTT ALLEN",
+        "ADRIAN CHISHOLM",
+        "MUKHTIAR SOHAL",
+        "IVAN TORY"
+    ],
+    "holders": [
+        112737,
+        274971,
+        335190
+    ],
+    "ipcCodes": [
+        "C08L 91/00"
+    ]
+}

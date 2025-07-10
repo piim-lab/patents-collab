@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2014 022469-2",
+    "filingDate": "28/02/2013",
+    "grantDate": null,
+    "title": "SISTEMA PARA FAZER BEBIDAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "VR2012A000043",
+            "priorityDate": "14/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "PAOLO DIGIUNI",
+        "STEFANO TONELLI",
+        "CRISTIANO CASTELLI",
+        "ERCOLE ESPOSITO"
+    ],
+    "holders": [
+        48372
+    ],
+    "ipcCodes": [
+        "A47J 31/36",
+        "A47J 31/44",
+        "B65D 85/804"
+    ]
+}

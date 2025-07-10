@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 12 2016 008098-6",
+    "filingDate": "09/04/2013",
+    "grantDate": null,
+    "title": "ANTICORPO OU FRAGMENTO FUNCIONAL DO MESMO, E, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-088299",
+            "priorityDate": "09/04/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/04/2013",
+        "applicationNumber": "BR 11 2014 025037-5"
+    },
+    "events": [
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento - Art. 212 da LPI",
+            "bulletinNumber ": "2790"
+        }
+    ],
+    "inventors": [
+        "TOSHIAKI OHTSUKA",
+        "CHIGUSA YOSHIMURA",
+        "TOSHINORI AGATSUMA",
+        "ATSUSHI URANO",
+        "TAKAKO KIMURA",
+        "YUMI MATSUI",
+        "TATSUJI MATSUOKA",
+        "JUN HASEGAWA",
+        "YASUKI KAMAI",
+        "REIMI KAWAIDA"
+    ],
+    "holders": [
+        88250
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "C12N 5/10",
+        "C12N 1/21",
+        "C12N 1/15",
+        "C12P 21/08",
+        "C12N 15/09",
+        "C12N 1/19",
+        "G01N 33/574",
+        "C07K 16/28"
+    ]
+}

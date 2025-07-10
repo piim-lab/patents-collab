@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 12 2016 024209-9",
+    "filingDate": "20/05/2004",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA AUMENTAR A BIOMASSA E/OU TOLER\u00c2NCIA DE UMA PLANTA AO ESTRESSE SALINO E CONSTRUTO DE \u00c1CIDO NUCLEICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/472,433",
+            "priorityDate": "22/05/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/05/2004",
+        "applicationNumber": "PI 0411182-6"
+    },
+    "events": [
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "HAGAI KARCHI",
+        "RAFAEL MEISSNER",
+        "GIL RONEN",
+        "EZEKIEL GOLAN"
+    ],
+    "holders": [
+        81747
+    ],
+    "ipcCodes": [
+        "C12N 15/82",
+        "C12N 15/29",
+        "A01H 5/00"
+    ]
+}

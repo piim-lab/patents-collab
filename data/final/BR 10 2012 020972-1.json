@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2012 020972-1",
+    "filingDate": "21/08/2012",
+    "grantDate": null,
+    "title": "REVESTIMENTO DE REVESTIMENTO B\u00c1SICO/REVESTIMENTO CLARO",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201110316594.3",
+            "priorityDate": "25/08/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "ADAM J FASULA",
+        "QIANQIAN JANE LI",
+        "SARADA NAMHATA",
+        "MEGAN DONOVAN",
+        "EDWIN H NUNGESSER",
+        "WEI ZHANG"
+    ],
+    "holders": [
+        1101,
+        606
+    ],
+    "ipcCodes": [
+        "B05D 5/00"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2021 022366-1",
+    "filingDate": "29/03/2007",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA LIGA\u00c7\u00c3O DE UM COMPOSTO A UM RECEPTOR NUCLEAR",
+    "divisionalApplication": {
+        "filingDate": "29/03/2007",
+        "applicationNumber": "PI 0709682-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        23919
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 004822-8",
+    "filingDate": "11/03/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE ENERGIA, E, SISTEMA DE ENERGIA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/386001",
+            "priorityDate": "16/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "STEVEN R FLIEARMAN",
+        "DOUGLAS S BASE"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "F02N 15/02",
+        "F02N 11/08",
+        "F16H 61/38"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 006435-2",
+    "filingDate": "29/03/2017",
+    "grantDate": null,
+    "title": "CONTROLE PNEUM\u00c1TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 206 582.3",
+            "priorityDate": "19/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "ALAIN TIERRY CHAMAKEN KAMDE",
+        "WILHELM MOSER"
+    ],
+    "holders": [
+        15353
+    ],
+    "ipcCodes": [
+        "F15B 11/028",
+        "F16H 61/28"
+    ]
+}

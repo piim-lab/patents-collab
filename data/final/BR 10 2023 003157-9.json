@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2023 003157-9",
+    "filingDate": "17/02/2023",
+    "grantDate": null,
+    "title": "ELEMENTO DE LENTE, CONJUNTO DE LENTE DE IMAGEM, M\u00d3DULO DE C\u00c2MERA E DISPOSITIVO ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "111107139",
+            "priorityDate": "25/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "HUA TSAI",
+        "AN CHANG"
+    ],
+    "holders": [
+        42378
+    ],
+    "ipcCodes": [
+        "G02B 7/02",
+        "G02B 1/04",
+        "G02B 3/04",
+        "G02B 13/00",
+        "H04N 23/55"
+    ]
+}

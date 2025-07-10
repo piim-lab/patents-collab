@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2012 019435-6",
+    "filingDate": "18/01/2011",
+    "grantDate": null,
+    "title": "Processo substituto de fosfatiza\u00e7\u00e3o de zinco e substituto de processo de fosfodesengorduramento",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2010 A 000094",
+            "priorityDate": "26/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        }
+    ],
+    "inventors": [
+        "MATTEO DAMIANI",
+        "CLAUDIO CALDANA"
+    ],
+    "holders": [
+        96384
+    ],
+    "ipcCodes": [
+        "C23C 22/36"
+    ]
+}

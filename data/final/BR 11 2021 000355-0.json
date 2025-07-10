@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2021 000355-0",
+    "filingDate": "02/08/2019",
+    "grantDate": null,
+    "title": "PROCESSO DE BIOCONVERS\u00c3O DE DI\u00d3XIDO DE CARBONO",
+    "nationalPhaseDate": [
+        "08/01/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/044895",
+        "pctDate": "02/08/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/716,071",
+            "priorityDate": "08/08/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/716,083",
+            "priorityDate": "08/08/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/716,053",
+            "priorityDate": "08/08/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/741,797",
+            "priorityDate": "05/10/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/741,871",
+            "priorityDate": "05/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "25.11",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        }
+    ],
+    "inventors": [
+        "RYAN SENARATNE",
+        "ABEL PRICE",
+        "BRANDON BEARD"
+    ],
+    "holders": [
+        276833
+    ],
+    "ipcCodes": [
+        "C12P 7/40",
+        "C12P 7/54"
+    ]
+}

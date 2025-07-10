@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2012 018375-3",
+    "filingDate": "24/01/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE ATIVA\u00c7\u00c3O PARA UM CATALISADOR DE FISCHER-TROPSCH",
+    "nationalPhaseDate": [
+        "24/07/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT GB2011/050105",
+        "pctDate": "24/01/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1001144.3",
+            "priorityDate": "25/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "25.5",
+            "description": "Altera\u00e7\u00e3o de Nome Indeferida",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "ROBERT PEAT",
+        "NEIL MAXTED"
+    ],
+    "holders": [
+        95574
+    ],
+    "ipcCodes": [
+        "B01J 37/02",
+        "B01J 37/16",
+        "B01J 37/12",
+        "C10G 2/00",
+        "C07C 1/04"
+    ]
+}

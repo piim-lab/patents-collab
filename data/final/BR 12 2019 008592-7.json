@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2019 008592-7",
+    "filingDate": "09/06/2009",
+    "grantDate": "23/06/2020",
+    "title": "DISPOSITIVO E M\u00c9TODO PARA A VERIFICA\u00c7\u00c3O DE UM ALINHAMENTO CORRETO DE UMA ROLHA DENTRO UMA SERINGA CONVENCIONAL OU SERINGA DO TIPO CARPULE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2008 030 038.1",
+            "priorityDate": "12/06/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/06/2009",
+        "applicationNumber": "PI 0915144-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "2.6",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER GLUNZ",
+        "ARNO SCHROFF"
+    ],
+    "holders": [
+        351474
+    ],
+    "ipcCodes": [
+        "A61M 5/00",
+        "B65D 3/00"
+    ]
+}

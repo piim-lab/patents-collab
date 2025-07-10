@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2020 002598-8",
+    "filingDate": "06/02/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE DOSAGEM DE PART\u00cdCULAS PARA DISTRIBUI\u00c7\u00c3O COM V\u00c1LVULA DE REGULA\u00c7\u00c3O GIRAT\u00d3RIA E M\u00c1QUINA AGR\u00cdCOLA CORRESPONDENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1901211",
+            "priorityDate": "07/02/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2792"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2806"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "GWENNVEL ARRIBARD",
+        "LIONEL LEVEILLE"
+    ],
+    "holders": [
+        24498
+    ],
+    "ipcCodes": [
+        "A01C 15/00",
+        "B05C 19/04"
+    ]
+}

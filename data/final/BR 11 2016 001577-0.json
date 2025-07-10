@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2016 001577-0",
+    "filingDate": "18/07/2014",
+    "grantDate": "15/03/2022",
+    "title": "DISPOSITIVO DE CANCELAMENTO DE RU\u00cdDO PASSIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1313187.5",
+            "priorityDate": "24/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "MARK ATHERTON"
+    ],
+    "holders": [
+        169446
+    ],
+    "ipcCodes": [
+        "G10K 11/172",
+        "A61F 11/08"
+    ]
+}

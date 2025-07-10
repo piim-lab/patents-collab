@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2019 016675-7",
+    "filingDate": "12/07/2012",
+    "grantDate": null,
+    "title": "R\u00c9PLICA DE CARNE COMPREENDENDO UMA PROTE\u00cdNA PORTADORA DE FERRO",
+    "divisionalApplication": {
+        "filingDate": "12/07/2012",
+        "applicationNumber": "BR 11 2014 000614-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2567"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        129963
+    ],
+    "ipcCodes": []
+}

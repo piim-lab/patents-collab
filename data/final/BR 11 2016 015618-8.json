@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 11 2016 015618-8",
+    "filingDate": "07/01/2015",
+    "grantDate": null,
+    "title": "DECODIFICADOR, PRODUTO DE PROGRAMA DE COMPUTADOR E DISPOSITIVO DE HARDWARE DE REDE PARA REPRESENTA\u00c7\u00c3O DOS VETORES DE MOVIMENTO EM UM FLUXO CONT\u00cdNUO DE BITS CODIFICADO",
+    "nationalPhaseDate": [
+        "04/07/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2015/010391",
+        "pctDate": "07/01/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/925,108",
+            "priorityDate": "08/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/934,506",
+            "priorityDate": "31/01/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/530,625",
+            "priorityDate": "31/10/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2774"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "SERGEY SILKIN",
+        "SERGEY SABLIN",
+        "YOU ZHOU",
+        "LUNG LIN",
+        "CHIEH LEE",
+        "GARY J SULLIVAN"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "H04N 19/70",
+        "H04N 19/52",
+        "H04N 19/513",
+        "H04N 19/523",
+        "H04N 19/43"
+    ]
+}

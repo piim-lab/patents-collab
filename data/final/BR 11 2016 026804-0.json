@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 026804-0",
+    "filingDate": "15/04/2015",
+    "grantDate": null,
+    "title": "Resfriador para resfriar min\u00e9rio sinterizado",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-105191",
+            "priorityDate": "21/05/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-243624",
+            "priorityDate": "02/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [
+        "KAZUO KAWABUCHI",
+        "TOMOAKI OIKAWA",
+        "YOSHIKI TATSUMI"
+    ],
+    "holders": [
+        91410
+    ],
+    "ipcCodes": [
+        "F27B 21/00",
+        "F27D 15/02",
+        "B01D 45/12",
+        "F27D 17/00",
+        "C22B 1/26"
+    ]
+}

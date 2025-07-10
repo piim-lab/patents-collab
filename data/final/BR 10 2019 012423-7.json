@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2019 012423-7",
+    "filingDate": "17/06/2019",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE TENSOATIVO BASEADA EM SAIS DE AMIDA DE GLICINA BETA\u00cdNA, PROCESSO DE PREPARA\u00c7\u00c3O DA MESMA E USOS DO MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "18 55359",
+            "priorityDate": "19/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2805"
+        }
+    ],
+    "inventors": [
+        "FREDDY PESSEL",
+        "FRANCIS GALLE",
+        "YVES DIVET",
+        "XAVIER ROUSSEL"
+    ],
+    "holders": [
+        49590
+    ],
+    "ipcCodes": [
+        "A01P 1/00",
+        "A01N 25/30"
+    ]
+}

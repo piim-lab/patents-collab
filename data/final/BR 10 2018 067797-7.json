@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 067797-7",
+    "filingDate": "04/09/2018",
+    "grantDate": null,
+    "title": "EXTRUSORA, E, SISTEMA PARA DEPOSI\u00c7\u00c3O DE MATERIAL.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/717,349",
+            "priorityDate": "27/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "SAMUEL HARRISON",
+        "NICK S EVANS",
+        "FARAON TORRES",
+        "MICHAEL P KOZAR",
+        "MARK S WILENSKI"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B29C 48/30",
+        "B29C 64/209",
+        "B29C 64/227"
+    ]
+}

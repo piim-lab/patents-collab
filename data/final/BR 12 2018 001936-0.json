@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2018 001936-0",
+    "filingDate": "08/01/2008",
+    "grantDate": null,
+    "title": "PROCESSOS PARA O TRATAMENTO DE UM \u00d3LEO PESADO",
+    "divisionalApplication": {
+        "filingDate": "08/01/2008",
+        "applicationNumber": "PI 0808352-5"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        170074
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 10 2021 026329-6",
+    "filingDate": "23/12/2021",
+    "grantDate": null,
+    "title": "PROCESSO PARA A CONVERS\u00c3O DE MAT\u00c9RIA-PRIMA E APARELHO PARA REALIZAR O PROCESSO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21150402.2",
+            "priorityDate": "06/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "28.21",
+            "description": "Exig\u00eancia formal de tr\u00e2mite priorit\u00e1rio",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2757"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2764"
+        }
+    ],
+    "inventors": [
+        "ELYAS M MOGHADDAM",
+        "AVISHEK GOEL",
+        "DOBRIN TOPOROV",
+        "WIM VAN DER ZANDE",
+        "CHRIS VAN DER ZANDE",
+        "ALIREZA MOHAMMADI"
+    ],
+    "holders": [
+        73246
+    ],
+    "ipcCodes": [
+        "C10J 3/72",
+        "C10J 3/46",
+        "C10J 3/48",
+        "C10J 3/82",
+        "C10J 3/84",
+        "C10J 3/56",
+        "C10K 1/02",
+        "C10K 1/00",
+        "C10K 1/12"
+    ]
+}

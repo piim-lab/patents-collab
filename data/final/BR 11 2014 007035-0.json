@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2014 007035-0",
+    "filingDate": "24/09/2012",
+    "grantDate": null,
+    "title": "AGENTES DE LIGA\u00c7\u00c3O A VEGF/DLL4 E USOS DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/538,454",
+            "priorityDate": "23/09/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/597,409",
+            "priorityDate": "10/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/692,978",
+            "priorityDate": "24/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        }
+    ],
+    "inventors": [
+        "AUSTIN L GURNEY",
+        "AARON KEN SATO",
+        "CHRISTOPHER JOHN BOND"
+    ],
+    "holders": [
+        133775
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "C12P 21/08",
+        "C07K 16/00"
+    ]
+}

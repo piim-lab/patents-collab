@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 011804-1",
+    "filingDate": "04/12/2015",
+    "grantDate": null,
+    "title": "ESTRUTURA DE VEDA\u00c7\u00c3O COM AMORTECEDOR TORCIONAL E VEDA\u00c7\u00c3O DE \u00d3LEO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-246245",
+            "priorityDate": "04/12/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-025925",
+            "priorityDate": "13/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [
+        "YUSUKE KAMIYA",
+        "HIROKI MATSUI",
+        "SHINYA OMOTO",
+        "TORU NAKASHIMA",
+        "HIROTAKA MIZUTA"
+    ],
+    "holders": [
+        31297
+    ],
+    "ipcCodes": [
+        "F16F 15/10",
+        "F16J 15/44"
+    ]
+}

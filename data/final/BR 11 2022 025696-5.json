@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2022 025696-5",
+    "filingDate": "16/06/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE EXTRA\u00c7\u00c3O",
+    "nationalPhaseDate": [
+        "15/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AU2021/050622",
+        "pctDate": "16/06/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2020901996",
+            "priorityDate": "16/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2816"
+        }
+    ],
+    "inventors": [
+        "RAMON DUDLEY MOUNTFORT",
+        "LUCIANA ANDREIA DE SOUZA CUNHA",
+        "FABIO MAGALHAES DE MELLO",
+        "KARL CHEVALIER"
+    ],
+    "holders": [
+        332804,
+        92015
+    ],
+    "ipcCodes": [
+        "A23F 5/26",
+        "A23L 33/105",
+        "A23F 3/18",
+        "A23L 2/80",
+        "A23F 5/18",
+        "A23L 2/82"
+    ]
+}

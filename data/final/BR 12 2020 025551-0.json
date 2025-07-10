@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 12 2020 025551-0",
+    "filingDate": "13/12/2014",
+    "grantDate": null,
+    "title": "MOL\u00c9CULA DE \u00c1CIDO NUCLEICO, COMPOSI\u00c7\u00c3O, VACINA, E, USO DA MOL\u00c9CULA DE \u00c1CIDO NUCLEICO",
+    "divisionalApplication": {
+        "filingDate": "13/12/2014",
+        "applicationNumber": "BR 11 2016 013493-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2758"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        89060,
+        89061
+    ],
+    "ipcCodes": []
+}

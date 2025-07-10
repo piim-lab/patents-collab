@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 13 2020 023347-4",
+    "filingDate": "16/11/2020",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE UM MEDICAMENTO E COMPOSI\u00c7\u00c3O MEDICAMENTOSA",
+    "parentApplication": {
+        "filingDate": "21/12/2009",
+        "applicationNumber": "BR 11 2012 015325-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "S\u00c9RGIO ALBUQUERQUE",
+        "JAIRO KENUPP BASTOS",
+        "PAULO S\u00c9RGIO CALEFI",
+        "K\u00c1TIA JORGE CIUFFI",
+        "WILSON ROBERTO CUNHA",
+        "ROSANGELA DA SILVA DE LAURENTIZ",
+        "RODRIGO LUCARINI",
+        "EDUARDO JOS\u00c9 NASSAR",
+        "ADEMAR ALVES DA SILVA FILHO",
+        "M\u00c1RCIO LUIS ANDRADE E SILVA"
+    ],
+    "holders": [
+        75178
+    ],
+    "ipcCodes": [
+        "A61P 15/10",
+        "A61K 31/34",
+        "A61K 31/36"
+    ]
+}

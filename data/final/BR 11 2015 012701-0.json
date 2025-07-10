@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2015 012701-0",
+    "filingDate": "25/11/2013",
+    "grantDate": "27/08/2019",
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE UMA PR\u00d3TESE DENT\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 111 683.0",
+            "priorityDate": "30/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "PETER KREUDER"
+    ],
+    "holders": [
+        80772
+    ],
+    "ipcCodes": [
+        "A61K 6/027",
+        "A61K 6/02",
+        "C03C 4/00",
+        "C03C 10/00",
+        "B22D 13/06"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2020 013770-3",
+    "filingDate": "15/07/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DECODIFICAR UMA IMAGEM, E M\u00c9TODO PARA CODIFICAR UMA IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/364,986",
+            "priorityDate": "16/07/2010"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0097424",
+            "priorityDate": "06/10/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/07/2011",
+        "applicationNumber": "BR 11 2013 001093-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "HYE MIN",
+        "IL LEE",
+        "JIN HAN"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/105",
+        "H04N 19/593",
+        "H04N 19/11",
+        "H04N 19/14",
+        "H04N 19/196",
+        "H04N 19/80"
+    ]
+}

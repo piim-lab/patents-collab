@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2016 009602-9",
+    "filingDate": "28/10/2014",
+    "grantDate": null,
+    "title": "INDICA\u00c7\u00c3O DE PORTADOR CRUZADO DE CONFIGURA\u00c7\u00d5ES DE SUBQUADRO DE UPLINK/DOWNLINK",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCTCN2013086229",
+            "priorityDate": "30/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "WANSHI CHEN",
+        "CHAO WEI",
+        "PETER GAAL",
+        "HAO XU",
+        "NENG WANG"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 28/16"
+    ]
+}

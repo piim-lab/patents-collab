@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 014993-8",
+    "filingDate": "23/07/2018",
+    "grantDate": null,
+    "title": "DISPOSI\u00c7\u00c3O DE MANCAL PARA APOIAR UM EIXO DE UMA ENGRENAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 116 786.2",
+            "priorityDate": "25/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "MATHIAS BERTRAM",
+        "ABDELHAKIM LAABID",
+        "EDGAR GUST",
+        "THILO KOCH"
+    ],
+    "holders": [
+        40267
+    ],
+    "ipcCodes": [
+        "F16C 33/06",
+        "F16C 17/03"
+    ]
+}

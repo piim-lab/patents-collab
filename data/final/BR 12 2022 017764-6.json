@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2022 017764-6",
+    "filingDate": "21/09/2017",
+    "grantDate": null,
+    "title": "CORPO OCO DE CAMADAS M\u00daLTIPLAS COM ALTA RESIST\u00caNCIA \u00c0 LIXIVIA\u00c7\u00c3O, USO DO MESMO E SISTEMA DE COMBUST\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16189917",
+            "priorityDate": "21/09/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/09/2017",
+        "applicationNumber": "BR 10 2017 020226-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2744"
+        }
+    ],
+    "inventors": [
+        "JASMIN BERGER",
+        "KARL KUHMANN",
+        "MARIO RESING",
+        "JAN HEIMINK",
+        "OLIVIER FARGES",
+        "STEFAN ALTKEMPER"
+    ],
+    "holders": [
+        962
+    ],
+    "ipcCodes": [
+        "B32B 27/30",
+        "B32B 27/08",
+        "B32B 27/34"
+    ]
+}

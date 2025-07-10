@@ -1,0 +1,90 @@
+{
+    "applicationNumber": "BR 11 2012 024268-7",
+    "filingDate": "25/03/2011",
+    "grantDate": "01/06/2021",
+    "title": "\u201cDispositivo m\u00e9dico intra card\u00edaco para intensificar a circula\u00e7\u00e3o sangu\u00ednea intra card\u00edaca de um cora\u00e7\u00e3o em um paciente e conjunto\u201d.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/317,631",
+            "priorityDate": "25/03/2010"
+        },
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1050283-9",
+            "priorityDate": "25/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "25.5",
+            "description": "Altera\u00e7\u00e3o de Nome Indeferida",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2767"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "JAN OTTO SOLEM"
+    ],
+    "holders": [
+        99842
+    ],
+    "ipcCodes": [
+        "A61F 2/24",
+        "A61H 31/00"
+    ]
+}

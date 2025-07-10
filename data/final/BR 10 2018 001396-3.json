@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 001396-3",
+    "filingDate": "23/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO, DISPOSITIVO E SISTEMA DE DETEC\u00c7\u00c3O DE INTERFER\u00caNCIAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17305158.2",
+            "priorityDate": "13/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2550"
+        }
+    ],
+    "inventors": [
+        "THIERRY FILOCHE",
+        "GHISLAINE PONDAVEN",
+        "PASCAL LE GUYADEC",
+        "CHRISTOPH NEUMANN"
+    ],
+    "holders": [
+        34116
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04W 24/08",
+        "H04W 88/08",
+        "H04W 72/08",
+        "H04W 84/12",
+        "H04W 4/80",
+        "H04W 24/02",
+        "H04B 17/318",
+        "H04W 16/16",
+        "H04W 92/20",
+        "H04B 17/345"
+    ]
+}

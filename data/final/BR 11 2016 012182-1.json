@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2016 012182-1",
+    "filingDate": "26/11/2014",
+    "grantDate": null,
+    "title": "COMPOSTO, PROCESSO PARA PREPARAR UM COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, INTERMEDI\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1320905.1",
+            "priorityDate": "27/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "ANNE GOLDBY",
+        "KERRY JENKINS",
+        "MARTIN TEALL"
+    ],
+    "holders": [
+        82909
+    ],
+    "ipcCodes": [
+        "A61K 31/454",
+        "A61P 25/28",
+        "A61K 31/445",
+        "C07D 401/14",
+        "C07D 401/04",
+        "A61K 31/4545"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 022933-0",
+    "filingDate": "16/11/2021",
+    "grantDate": null,
+    "title": "UNIDADE DE BOMBA PARA PROP\u00d3SITOS M\u00c9DICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20210402.2",
+            "priorityDate": "27/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "MICHAEL FEHRENBACHER"
+    ],
+    "holders": [
+        436
+    ],
+    "ipcCodes": [
+        "A61M 5/00",
+        "A61M 39/00"
+    ]
+}

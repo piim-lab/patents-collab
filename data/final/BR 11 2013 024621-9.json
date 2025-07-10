@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2013 024621-9",
+    "filingDate": "29/03/2012",
+    "grantDate": "07/07/2020",
+    "title": "PROCESSO PARA O TRATAMENTO DE T\u00caXTEIS T\u00c9CNICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1152702",
+            "priorityDate": "31/03/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2768"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "CHARLOTTE BASIRE"
+    ],
+    "holders": [
+        108881
+    ],
+    "ipcCodes": [
+        "B29L 22/02",
+        "B29B 17/04",
+        "B29B 17/02",
+        "B29K 283/00"
+    ]
+}

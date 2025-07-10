@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 12 2020 018232-6",
+    "filingDate": "01/10/2013",
+    "grantDate": null,
+    "title": "SISTEMA DE CODIFICA\u00c7\u00c3O E DECODIFICA\u00c7\u00c3O DE V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-219663",
+            "priorityDate": "01/10/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/10/2013",
+        "applicationNumber": "BR 10 2013 025344-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "KIMIHIKO KAZUI",
+        "JUNPEI KOYAMA",
+        "SATOSHI SHIMADA"
+    ],
+    "holders": [
+        1953
+    ],
+    "ipcCodes": [
+        "H04N 19/70",
+        "H04N 19/46",
+        "H04N 19/44",
+        "H04N 19/503"
+    ]
+}

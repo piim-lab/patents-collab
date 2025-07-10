@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 025904-6",
+    "filingDate": "19/12/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA DE JOGOS COMPUTADORIZADO PARA FACILITAR A A\u00c7\u00c3O DE UM USU\u00c1RIO EM UM TERMINAL SITUADO EM UM LOCAL DE TERMINAL,  M\u00cdDIA DE ARMAZENAMENTO N\u00c3O TRANSIT\u00d3RIO LEG\u00cdVEL POR COMPUTADOR E M\u00c9TODO COMPUTADORIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21216125.1",
+            "priorityDate": "20/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "MARKUS HUTTER",
+        "ANDREAS HUTTER",
+        "GEORG SCHINAGL"
+    ],
+    "holders": [
+        77734
+    ],
+    "ipcCodes": [
+        "G06Q 20/32",
+        "G06Q 20/40"
+    ]
+}

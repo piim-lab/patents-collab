@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 003714-8",
+    "filingDate": "26/02/2021",
+    "grantDate": null,
+    "title": "CABINE EQUIPADA COM UM DISPOSITIVO PARA TRAVAMENTO E DESTRAVAMENTO DE PORTAS E INSTALA\u00c7\u00c3O DE TRANSPORTE DE PASSAGEIROS QUE COMPREENDE PELO MENOS UMA TAL CABINE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2002019",
+            "priorityDate": "28/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "XAVIER LIBERT",
+        "THIERRY VITTOZ"
+    ],
+    "holders": [
+        19058
+    ],
+    "ipcCodes": [
+        "B61B 12/00"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 022596-3",
+    "filingDate": "22/05/2012",
+    "grantDate": null,
+    "title": "SISTEMA DE CONSTRU\u00c7\u00c3O DE BRINQUEDO, M\u00c9TODO IMPLEMENTADO POR COMPUTADOR, SISTEMA DE PROCESSAMENTO DE DADOS, PROGRAMA DE COMPUTADOR E CONJUNTO CONSTRUTIVO DE BRINQUEDO",
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2011 70254",
+            "priorityDate": "23/05/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/05/2012",
+        "applicationNumber": "BR 11 2013 029916-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "SIDDHARTH MUTHYALA",
+        "HARM JAN VAN BEEK",
+        "NICOLAS DAVID ALAIN GUYON",
+        "FRANTZ LASORNE",
+        "MIKKEL HOLM JENSEN"
+    ],
+    "holders": [
+        86336
+    ],
+    "ipcCodes": [
+        "G06T 19/00",
+        "A63F 9/24",
+        "A63H 33/04"
+    ]
+}

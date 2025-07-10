@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2014 031871-2",
+    "filingDate": "18/12/2014",
+    "grantDate": null,
+    "title": "VE\u00cdCULO DE MANUSEIO DE MATERIAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "UK",
+            "priorityNumber": "1322350.8",
+            "priorityDate": "18/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "ANTHONY PAUL BAMFORD",
+        "TIM BURNHOPE",
+        "FRANZ POSCHL",
+        "TIMOTHY A WELLMAN",
+        "STEFAN HANNEMAN",
+        "MARTIN OKROY",
+        "STEFAN SAUER",
+        "JESS DONNELY"
+    ],
+    "holders": [
+        13722,
+        82700
+    ],
+    "ipcCodes": [
+        "B66F 9/06",
+        "G05D 1/02"
+    ]
+}

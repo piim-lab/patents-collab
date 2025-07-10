@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 11 2020 004919-0",
+    "filingDate": "12/03/2019",
+    "grantDate": null,
+    "title": "COMPOSTO DE M-DIAMIDA E M\u00c9TODO DE PREPARA\u00c7\u00c3O DO MESMO E USO DO MESMO",
+    "nationalPhaseDate": [
+        "12/03/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2019/077756",
+        "pctDate": "12/03/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810669847.7",
+            "priorityDate": "26/06/2018"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201811555432.3",
+            "priorityDate": "18/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        }
+    ],
+    "inventors": [
+        "LIANG LV",
+        "JIYONG LIU",
+        "JUNCHENG XIANG",
+        "WENJING MA",
+        "LIQI ZHOU",
+        "SHUANG HOU",
+        "JUEPING NI",
+        "ZONGCHENG LI"
+    ],
+    "holders": [
+        262419
+    ],
+    "ipcCodes": [
+        "C07D 271/06",
+        "A01P 7/04",
+        "A01N 37/18",
+        "A01N 43/836",
+        "A01N 41/10",
+        "A01N 37/34",
+        "A01N 37/46",
+        "A01N 37/48",
+        "C07C 255/50",
+        "C07C 237/42"
+    ]
+}

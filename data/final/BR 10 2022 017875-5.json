@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2022 017875-5",
+    "filingDate": "06/09/2022",
+    "grantDate": null,
+    "title": "ESTA\u00c7\u00c3O AUTOMATIZADA PARA UM SISTEMA DE TRANSPORTE PNEUM\u00c1TICO DE AMOSTRAS HISTOL\u00d3GICAS, CONFIGURADA PARA O CARREGAMENTO E/OU DESCARREGAMENTO AUTOMATIZADO DE AMOSTRAS HISTOL\u00d3GICAS E PROCESSO PARA O TRANSPORTE E MANUSEIO DE AMOSTRAS HISTOL\u00d3GICAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102021000023804",
+            "priorityDate": "15/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "GIANANDREA PEDRAZZINI"
+    ],
+    "holders": [
+        76763
+    ],
+    "ipcCodes": [
+        "B65G 53/50"
+    ]
+}

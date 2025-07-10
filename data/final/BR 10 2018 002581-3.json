@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2018 002581-3",
+    "filingDate": "07/02/2018",
+    "grantDate": null,
+    "title": "SISTEMAS DE DISTRIBUI\u00c7\u00c3O DE L\u00cdQUIDO E DE RESFRIAMENTO, E, M\u00c9TODO PARA OPERAR UM SISTEMA DE DISPENSA\u00c7\u00c3O DE L\u00cdQUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/456873",
+            "priorityDate": "09/02/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/888938",
+            "priorityDate": "05/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2819"
+        }
+    ],
+    "inventors": [
+        "PHILIP HOLLANDER",
+        "GREGORY MARTELL",
+        "WIM UYTTERHOEVEN",
+        "THOMAS VAN DIJCK",
+        "DAVID ANDREW AARON"
+    ],
+    "holders": [
+        33101
+    ],
+    "ipcCodes": [
+        "F24F 5/00",
+        "F25B 39/00",
+        "F28B 1/02"
+    ]
+}

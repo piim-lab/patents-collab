@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 000504-1",
+    "filingDate": "12/01/2021",
+    "grantDate": null,
+    "title": "ACIONADOR DE LAN\u00c7A ASSISTIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/835,962",
+            "priorityDate": "31/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "KIMBERLY A HINSON",
+        "JUNG SOON JANG",
+        "BLAIN A LAWSON",
+        "CHRISTOPHER M JACOBUS"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 39/02",
+        "B64D 39/04"
+    ]
+}

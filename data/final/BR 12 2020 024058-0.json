@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2020 024058-0",
+    "filingDate": "14/03/2014",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA MEDIR O VOLUME DE FLUXO DE FLUIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/833,582",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/03/2014",
+        "applicationNumber": "BR 11 2015 022553-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        }
+    ],
+    "inventors": [
+        "EUGENE TOKHTUEV",
+        "ANATOLY SKIRDA",
+        "CHRISTOPHER J OWEN",
+        "WILLIAM M CHRISTENSEN",
+        "PAUL SIMON SCHILLING"
+    ],
+    "holders": [
+        10348
+    ],
+    "ipcCodes": [
+        "G01D 5/12",
+        "G01F 3/10"
+    ]
+}

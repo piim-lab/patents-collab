@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2021 017560-8",
+    "filingDate": "05/10/2012",
+    "grantDate": null,
+    "title": "ANTICORPO, POLINUCLEOT\u00cdDEO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, USOS DE UM ANTICORPO, M\u00c9TODO IN VITRO, M\u00c9TODO DE DETEC\u00c7\u00c3O POST-MORTEM DE MULTIM\u00caROS DO FOSFO-TAU, M\u00c9TODO DE DETEC\u00c7\u00c3O IN VITRO DA FORMA\u00c7\u00c3O DE UM COMPLEXO IMUNOL\u00d3GICO, KITS DE TESTE, LINHAGEM CELULAR ISOLADA E M\u00c9TODO DE DETEC\u00c7\u00c3O IN VITRO DE MULTIM\u00caROS DE FOSFO-TAU",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2011/067604",
+            "priorityDate": "07/10/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12163319.2",
+            "priorityDate": "05/04/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/10/2012",
+        "applicationNumber": "BR 11 2014 008202-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "ANDREA PFEIFER",
+        "ANDREAS MUHS",
+        "MARIA PIHLGREN",
+        "OSKAR ADOLFSSON",
+        "FRED VAN LEUVEN"
+    ],
+    "holders": [
+        112060,
+        87621
+    ],
+    "ipcCodes": [
+        "G01N 33/68",
+        "C07K 16/18",
+        "A61K 39/00"
+    ]
+}

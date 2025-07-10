@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 010149-0",
+    "filingDate": "25/05/2021",
+    "grantDate": null,
+    "title": "PAVIMENTADORA DE ESTRADAS E M\u00c9TODO PARA OPERAR UMA PAVIMENTADORA DE ESTRADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20177342.1",
+            "priorityDate": "29/05/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUSCHMANN",
+        "TOM GL\u00d6CKNER",
+        "RALF WEISER",
+        "BASTIAN FLEISCHER",
+        "MAXIMILIAN THEOBALD"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48",
+        "E01C 23/00"
+    ]
+}

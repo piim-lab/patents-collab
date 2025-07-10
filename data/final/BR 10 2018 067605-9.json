@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 067605-9",
+    "filingDate": "03/09/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FRENAGEM DE UM MOTOR DE COMBUST\u00c3O INTERNA, TREM DE V\u00c1LVULAS VARI\u00c1VEL E VE\u00cdCULO A MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 120 150.5",
+            "priorityDate": "01/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "THOMAS MALISCHEWSKI",
+        "DOMINIK RENNER"
+    ],
+    "holders": [
+        125
+    ],
+    "ipcCodes": [
+        "F02D 13/04"
+    ]
+}

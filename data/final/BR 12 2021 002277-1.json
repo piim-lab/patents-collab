@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 12 2021 002277-1",
+    "filingDate": "12/10/2011",
+    "grantDate": null,
+    "title": "EMBARCA\u00c7\u00c3O DE TRANSPORTE DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/392,135",
+            "priorityDate": "12/10/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/10/2011",
+        "applicationNumber": "BR 11 2013 009092-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "BRUCE HALL",
+        "IAN MORRIS",
+        "TOLULOPE O OKIKIOLU"
+    ],
+    "holders": [
+        112585
+    ],
+    "ipcCodes": [
+        "F17C 11/00"
+    ]
+}

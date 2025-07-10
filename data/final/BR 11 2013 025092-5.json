@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2013 025092-5",
+    "filingDate": "21/03/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA O TRATAMENTO SUPERFICIAL DE UM PIGMENTO DE DI\u00d3XIDO DE TIT\u00c2NIO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 015 856.1",
+            "priorityDate": "01/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        124092
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 023670-9",
+    "filingDate": "19/11/2020",
+    "grantDate": null,
+    "title": "TRATOR AGR\u00cdCOLA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "MARTYN JOHN RANDALL",
+        "ADRIAN IORGULESCU",
+        "FREDRIC DUCROQUET",
+        "BRUNO SAP",
+        "TIMO RUOKOLA"
+    ],
+    "holders": [
+        155570,
+        47651,
+        89212
+    ],
+    "ipcCodes": [
+        "B60K 17/28",
+        "F16H 3/089"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2021 004659-0",
+    "filingDate": "05/04/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DECODIFICAR V\u00cdDEO PARA COMPENSAR QUANTO A UM VALOR DE PIXEL",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2010-0031143",
+            "priorityDate": "05/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/04/2011",
+        "applicationNumber": "BR 11 2012 025312-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        }
+    ],
+    "inventors": [
+        "ALEXANDER ALSHIN",
+        "ELENA ALSHINA",
+        "NIKOLAY SHLYAKHOV"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/176",
+        "H04N 19/96",
+        "H04N 19/85",
+        "H04N 19/117",
+        "H04N 19/82",
+        "H04N 19/182",
+        "H04N 19/17",
+        "H04N 19/196"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 013099-4",
+    "filingDate": "26/06/2020",
+    "grantDate": null,
+    "title": "PLATAFORMA DE COMUNICA\u00c7\u00c3O, PESQUISA, PERCEP\u00c7\u00c3O DE SENTIMENTO, PROSPEC\u00c7\u00c3O E VENDAS COM BIGDATA GEO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "REGIS RENZI"
+    ],
+    "holders": [
+        59553
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "H04M 3/51"
+    ]
+}

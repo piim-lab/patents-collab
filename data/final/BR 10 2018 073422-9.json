@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 073422-9",
+    "filingDate": "13/11/2018",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O AQUOSA, E, M\u00c9TODO PARA TRATAR SUPERF\u00cdCIES MACIAS COM \u00cdON DE PRATA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/586,919",
+            "priorityDate": "16/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "KEVIN B VARGO",
+        "DAVID L FRATTARELLI",
+        "MICHELLE GALLAGHER"
+    ],
+    "holders": [
+        1101,
+        606
+    ],
+    "ipcCodes": [
+        "C11D 7/32",
+        "C11D 7/10"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 13 2020 002188-4",
+    "filingDate": "31/01/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO AUTOLIMPANTE PARA ASSENTO DE BANHEIRO P\u00daBLICO M\u00d3VEL",
+    "parentApplication": {
+        "filingDate": "06/07/2016",
+        "applicationNumber": "BR 10 2016 015815-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "JEOVANI JOS\u00c9 STUERMER"
+    ],
+    "holders": [
+        23706
+    ],
+    "ipcCodes": [
+        "A47K 13/22"
+    ]
+}

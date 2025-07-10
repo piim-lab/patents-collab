@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2018 075338-0",
+    "filingDate": "06/12/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TESTAR UMA BATERIA, E, SISTEMA IMPLEMENTADO POR COMPUTADOR PARA USO NO TESTE DE UMA BATERIA .",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/864748",
+            "priorityDate": "08/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2766"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2786"
+        }
+    ],
+    "inventors": [
+        "ELIZABETH KILLELEA",
+        "JOSEPH GONZALEZ",
+        "JAN WEI PAN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G01R 31/36"
+    ]
+}

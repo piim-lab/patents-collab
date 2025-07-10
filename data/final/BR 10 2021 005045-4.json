@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2021 005045-4",
+    "filingDate": "17/03/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CRIA\u00c7\u00c3O DE BLOCOS DE CONSTRU\u00c7\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2777"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "PEDRO GOMES DO NASCIMENTO"
+    ],
+    "holders": [
+        66296,
+        66295
+    ],
+    "ipcCodes": [
+        "C04B 30/02",
+        "C04B 28/14"
+    ]
+}

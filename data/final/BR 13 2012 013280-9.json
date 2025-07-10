@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 13 2012 013280-9",
+    "filingDate": "01/06/2012",
+    "grantDate": "08/01/2019",
+    "title": "APARELHO ELETR\u00d4NICO PARA MONITORAMENTO DA CONCENTRA\u00c7\u00c3O DE \u00c1LCOOL EM BEBIDAS",
+    "parentApplication": {
+        "filingDate": "10/10/2002",
+        "applicationNumber": "PI 0204519-2"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "EDVAL JOS\u00c9 PINHEIRO SANTOS"
+    ],
+    "holders": [
+        1427
+    ],
+    "ipcCodes": [
+        "G01N 22/00"
+    ]
+}

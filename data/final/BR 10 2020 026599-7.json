@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 10 2020 026599-7",
+    "filingDate": "23/12/2020",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES ORAIS PARA IMPLANTES P\u00d3S-DENTAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/096,856",
+            "priorityDate": "12/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "ARIEL LENHARO"
+    ],
+    "holders": [
+        64587
+    ],
+    "ipcCodes": [
+        "A61K 8/37",
+        "A61K 8/46",
+        "A61Q 11/00",
+        "A61K 8/73",
+        "A61K 8/60",
+        "A61K 8/25",
+        "A61K 8/29",
+        "A61K 8/9783"
+    ]
+}

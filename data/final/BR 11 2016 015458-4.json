@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2016 015458-4",
+    "filingDate": "31/12/2014",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA PADR\u00d5ES DE PROTOCOLO BIOM\u00c9TRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/922,438",
+            "priorityDate": "31/12/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/201,438",
+            "priorityDate": "07/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "HECTOR HOYOS",
+        "SCOTT STREIT",
+        "JASON BRAVERMAN",
+        "JOHN RAYMOND CALLAHAN",
+        "ASEM OTHMAN"
+    ],
+    "holders": [
+        166096
+    ],
+    "ipcCodes": [
+        "G06K 19/07",
+        "G06F 21/00",
+        "G06Q 20/02",
+        "G06K 19/073",
+        "G06F 1/00"
+    ]
+}

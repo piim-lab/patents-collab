@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2019 025496-6",
+    "filingDate": "17/09/2008",
+    "grantDate": null,
+    "title": "APARELHO DE SEGURAN\u00c7A PARA BARBEAR OU DEPILAR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/994,075",
+            "priorityDate": "17/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/208,544",
+            "priorityDate": "11/09/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/09/2008",
+        "applicationNumber": "PI 0816984-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        81691
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2019 010482-1",
+    "filingDate": "22/05/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE FERRAMENTAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18 174 788.2",
+            "priorityDate": "29/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "UWE HENZLER",
+        "MICHAEL NITSCHE"
+    ],
+    "holders": [
+        49038
+    ],
+    "ipcCodes": [
+        "B23B 27/10",
+        "B23B 27/16",
+        "B23B 29/04"
+    ]
+}

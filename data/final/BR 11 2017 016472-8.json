@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2017 016472-8",
+    "filingDate": "03/02/2016",
+    "grantDate": "02/02/2021",
+    "title": "DISPOSITIVO DE INSPE\u00c7\u00c3O DE RECIPIENTES.",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2015 001 332.7",
+            "priorityDate": "03/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2776"
+        }
+    ],
+    "inventors": [
+        "RALF FREIBERGER",
+        "GUENTER HOCHWIMMER",
+        "ULF PORTH"
+    ],
+    "holders": [
+        193957
+    ],
+    "ipcCodes": [
+        "G01N 21/90"
+    ]
+}

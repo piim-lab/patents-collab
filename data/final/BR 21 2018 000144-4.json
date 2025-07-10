@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 21 2018 000144-4",
+    "filingDate": "29/06/2016",
+    "grantDate": "31/08/2021",
+    "title": "ELEMENTO DE FILTRO COM INDICADOR DE RUPTURA CONDUTIVA",
+    "nationalPhaseDate": [
+        "03/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT FI2016/050479",
+        "pctDate": "29/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20155525",
+            "priorityDate": "03/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "ANTTI VESALA",
+        "MIKA ILLI",
+        "ANTTI VESALA",
+        "MIKA ILLI",
+        "KARI V\u00c4NTTINEN",
+        "KARI V\u00c4NTTINEN",
+        "MIKA ILLI",
+        "ROLF HINDSTR\u00d6M",
+        "ANTTI VESALA",
+        "MIKA ILLI",
+        "MATTI LUUKKONEN",
+        "ISMO JUVONEN"
+    ],
+    "holders": [
+        139098
+    ],
+    "ipcCodes": [
+        "B01D 35/143",
+        "B01D 33/21",
+        "B01D 33/23",
+        "B01D 33/15"
+    ]
+}

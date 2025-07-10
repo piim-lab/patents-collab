@@ -1,0 +1,99 @@
+{
+    "applicationNumber": "BR 11 2023 007766-4",
+    "filingDate": "27/10/2021",
+    "grantDate": null,
+    "title": "DERIVADO DE AMIDA QUE CONT\u00c9M ATIVIDADE ANTIVIRAL",
+    "nationalPhaseDate": [
+        "25/04/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2021/039623",
+        "pctDate": "27/10/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-180856",
+            "priorityDate": "28/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2812"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "AZUSA OKANO",
+        "YUSUKE TATENO",
+        "KOUHEI NODU",
+        "SHINJI SUZUKI",
+        "TOSHIYUKI AKIYAMA",
+        "MASAAKI MATOYAMA",
+        "HIROTO AKAZA",
+        "TAKASHI FUKUDA"
+    ],
+    "holders": [
+        184680,
+        92106
+    ],
+    "ipcCodes": [
+        "C07D 487/04",
+        "A61K 31/506",
+        "A61P 31/14",
+        "A61K 31/4045",
+        "C07D 405/12",
+        "C07D 405/14",
+        "C07D 401/14",
+        "C07D 403/04",
+        "C07D 471/04",
+        "A61K 31/4439",
+        "A61K 31/444",
+        "C07D 413/14",
+        "C07D 519/00",
+        "A61K 31/437",
+        "A61K 31/5377",
+        "A61K 31/4545",
+        "C07D 417/14",
+        "C07D 403/14",
+        "C07D 409/14",
+        "C07D 471/10",
+        "C07D 491/107",
+        "C07D 495/10",
+        "C07D 209/18",
+        "C07D 491/20"
+    ]
+}

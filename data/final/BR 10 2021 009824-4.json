@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 009824-4",
+    "filingDate": "20/05/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONITORAR O TR\u00c1FEGO PARA UMA AERONAVE, SISTEMA DE MONITORAMENTO DE AERONAVE, E, PRODUTO PROGRAMA DE COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/899864",
+            "priorityDate": "12/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "JEFFREY H HURT",
+        "PAMELA L BLAKE"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "A61B 5/00",
+        "G06K 9/00",
+        "G06N 3/02",
+        "A61B 5/1171"
+    ]
+}

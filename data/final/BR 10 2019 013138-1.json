@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2019 013138-1",
+    "filingDate": "25/06/2019",
+    "grantDate": null,
+    "title": "PRENDEDORES",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201821024021",
+            "priorityDate": "27/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "MAHANTESH GOKAVI",
+        "SATISH JADHAV",
+        "RAVINDRA DESAI",
+        "BHUPENDRA PANDEY",
+        "LOKESH CHAUHAN",
+        "MICHAEL GARVER"
+    ],
+    "holders": [
+        17650,
+        37046
+    ],
+    "ipcCodes": [
+        "F16B 23/00"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2021 005891-5",
+    "filingDate": "07/08/2019",
+    "grantDate": null,
+    "title": "RELAT\u00d3RIO DE FALHA DE FEIXE",
+    "nationalPhaseDate": [
+        "26/03/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2019/099691",
+        "pctDate": "07/08/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2018/108130",
+            "priorityDate": "27/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "TIMO KOSKELA",
+        "SAMULI TURTINEN",
+        "CHUNLI WU",
+        "MIHAI ENESCU",
+        "SAMI HAKOLA",
+        "SAMULI TURTINEN",
+        "TIMO KOSKELA",
+        "CHUNLI WU"
+    ],
+    "holders": [
+        14120
+    ],
+    "ipcCodes": [
+        "H04W 24/10"
+    ]
+}

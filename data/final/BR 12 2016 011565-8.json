@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2016 011565-8",
+    "filingDate": "23/05/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA COMUNICA\u00c7\u00c3O ENTRE UM CLIENTE DE MONITORAMENTO E UMA BASE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/651,322",
+            "priorityDate": "24/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/480,444",
+            "priorityDate": "24/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2012/000257",
+            "priorityDate": "24/05/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/05/2013",
+        "applicationNumber": "BR 11 2014 029093-8"
+    },
+    "events": [
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "TODD A BALLANTYNE",
+        "BRIAN K YEE",
+        "MICHAEL J WILT",
+        "JONATHAN P ROSSE"
+    ],
+    "holders": [
+        130218
+    ],
+    "ipcCodes": [
+        "G06F 19/00"
+    ]
+}

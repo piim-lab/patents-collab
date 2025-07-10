@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 11 2017 026396-3",
+    "filingDate": "21/10/2016",
+    "grantDate": null,
+    "title": "PROCESSO INTEGRADO PARA RECUPERAR METAIS DE VALOR A PARTIR DE MIN\u00c9RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/334557",
+            "priorityDate": "11/05/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "ANTHONY OWEN FILMER",
+        "DANIEL JOHN ALEXANDER"
+    ],
+    "holders": [
+        202526
+    ],
+    "ipcCodes": [
+        "B09B 1/00",
+        "B03D 1/10",
+        "B03D 1/08"
+    ]
+}

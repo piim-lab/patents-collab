@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2019 006824-0",
+    "filingDate": "13/06/2006",
+    "grantDate": null,
+    "title": "APARELHO DE ESTA\u00c7\u00c3O BASE, M\u00c9TODO DE TRANSMISS\u00c3O, APARELHO DE RECEP\u00c7\u00c3O E M\u00c9TODO DE RECEP\u00c7\u00c3O",
+    "divisionalApplication": {
+        "filingDate": "13/06/2006",
+        "applicationNumber": "PI 0612061-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2583"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        87815
+    ],
+    "ipcCodes": []
+}

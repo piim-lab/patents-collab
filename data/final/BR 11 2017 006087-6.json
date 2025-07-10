@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2017 006087-6",
+    "filingDate": "24/09/2015",
+    "grantDate": null,
+    "title": "Sistema de tanque de combust\u00edvel",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "US62/054,657",
+            "priorityDate": "24/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "US62/056,063",
+            "priorityDate": "26/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "US62/061,344",
+            "priorityDate": "08/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "US62/114,548",
+            "priorityDate": "10/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "US62/140,112",
+            "priorityDate": "30/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "MATTHEW MEMMER",
+        "VAUGHN K MILLS",
+        "CURTIS T MOY",
+        "STEVEN AMBROSE",
+        "RUSSELL TRAPP",
+        "ROBERT BENJEY"
+    ],
+    "holders": [
+        12470
+    ],
+    "ipcCodes": [
+        "F02M 37/00",
+        "F02M 25/08"
+    ]
+}

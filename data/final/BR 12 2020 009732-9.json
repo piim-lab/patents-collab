@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2020 009732-9",
+    "filingDate": "14/05/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA  A GERA\u00c7\u00c3O DE UM SINAL ESQUERDO E DE UM SINAL DIREITO A PARTIR DE UM SINAL DE \u2018DOWNMIX\u2019 MONO COM BASE EM PAR\u00c2METROS ESPACIAIS, MEIO LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO, APARELHO DE \u2018DOWNMIX\u2019 EST\u00c9REO PARAM\u00c9TRICO PARA  A GERA\u00c7\u00c3O DE UM SINAL DE  \u2018DOWNMIX\u2019 MONO A PARTIR DE UM SINAL ESQUERDO E DE UM SINAL DIREITO COM BASE EM  PAR\u00c2METROS ESPACIAIS E M\u00c9TODO PARA  A GERA\u00c7\u00c3O DE UM SINAL RESIDUAL DE PREVIS\u00c3O PARA UM  SINAL DE DIFEREN\u00c7A  A PARTIR DE UM SINAL ESQUERDO E DE UM SINAL DIREITO CO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08156801.6",
+            "priorityDate": "23/05/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/05/2009",
+        "applicationNumber": "PI 0908630-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "ERIK G P SCHUIJERS"
+    ],
+    "holders": [
+        79434
+    ],
+    "ipcCodes": [
+        "G10L 19/00",
+        "H04S 3/02"
+    ]
+}

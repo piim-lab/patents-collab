@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2020 004154-4",
+    "filingDate": "19/12/2014",
+    "grantDate": null,
+    "title": "USOS DE UM COMPOSTO ISOXAZOLINA",
+    "divisionalApplication": {
+        "filingDate": "19/12/2014",
+        "applicationNumber": "BR 11 2016 014216-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": []
+}

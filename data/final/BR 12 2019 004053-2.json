@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 12 2019 004053-2",
+    "filingDate": "18/05/2012",
+    "grantDate": null,
+    "title": "Processo para fabrica\u00e7\u00e3o de produto aliment\u00edcio por extrus\u00e3o",
+    "divisionalApplication": {
+        "filingDate": "18/05/2012",
+        "applicationNumber": "BR 10 2012 011861-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "EDERSON MOROZ BRAMBILLA",
+        "LEVI KISHBAUGH",
+        "TED BURNHAM",
+        "LEONARDO JOS\u00c9 FERREIRA MIYATA"
+    ],
+    "holders": [
+        1289,
+        1700
+    ],
+    "ipcCodes": [
+        "A23P 30/20"
+    ]
+}

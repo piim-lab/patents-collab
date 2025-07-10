@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2022 019594-3",
+    "filingDate": "28/09/2022",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE TURBINA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21306353.0",
+            "priorityDate": "30/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2797"
+        }
+    ],
+    "inventors": [
+        "EMILIEN DURUPT",
+        "DAMIEN ANDREU",
+        "CARL ST\u00c4HLE"
+    ],
+    "holders": [
+        58672,
+        76975
+    ],
+    "ipcCodes": [
+        "F03B 3/12",
+        "E02B 1/00",
+        "E02B 8/08"
+    ]
+}

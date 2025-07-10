@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2021 004575-5",
+    "filingDate": "27/06/2012",
+    "grantDate": null,
+    "title": "APARELHO PARA DECODIFICA\u00c7\u00c3O DE V\u00cdDEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/502,018",
+            "priorityDate": "28/06/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/06/2012",
+        "applicationNumber": "BR 11 2013 033701-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "ELENA ALSHINA",
+        "ALEXANDER ALSHIN",
+        "ELENA ALSHINA",
+        "ALEXANDER ALSHIN",
+        "KYUNG JUNG",
+        "SU CHEON",
+        "HYE MIN",
+        "KOO KIM"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 7/24"
+    ]
+}

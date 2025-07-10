@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2023 004825-0",
+    "filingDate": "15/03/2023",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE CARDAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "000342/2022",
+            "priorityDate": "28/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "DANIEL BOMMER"
+    ],
+    "holders": [
+        987
+    ],
+    "ipcCodes": [
+        "D01G 19/28"
+    ]
+}

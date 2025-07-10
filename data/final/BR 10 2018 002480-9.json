@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2018 002480-9",
+    "filingDate": "06/02/2018",
+    "grantDate": null,
+    "title": "BOLSA FLEX\u00cdVEL DE M\u00daLTIPLAS C\u00c2MARAS E M\u00c9TODOS DE USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/609,870",
+            "priorityDate": "31/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        }
+    ],
+    "inventors": [
+        "ANTONIO FRANCESCO DI NARO"
+    ],
+    "holders": [
+        36150
+    ],
+    "ipcCodes": [
+        "A61J 1/20",
+        "A61J 1/10",
+        "A61M 5/14",
+        "F26B 5/06"
+    ]
+}

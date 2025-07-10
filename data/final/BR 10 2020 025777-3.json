@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 025777-3",
+    "filingDate": "16/12/2020",
+    "grantDate": null,
+    "title": "SISTEMA PARA DETECTAR UM DEFEITO EM UM PINO DE TRAVAMENTO PARA USO EM UMA AERONAVE, M\u00c9TODO IMPLEMENTADO POR COMPUTADOR, E, M\u00c9TODO PARA DETECTAR UM DEFEITO EM UM PINO DE TRAVAMENTO PARA USO EM UMA AERONAVE.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20275028.7",
+            "priorityDate": "07/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2782"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2784"
+        }
+    ],
+    "inventors": [
+        "GRAHAM JAMES BURGESS",
+        "DANIEL FOSTER"
+    ],
+    "holders": [
+        17664
+    ],
+    "ipcCodes": [
+        "B64F 5/60",
+        "B65D 55/10"
+    ]
+}

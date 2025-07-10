@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 013580-0",
+    "filingDate": "07/07/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE PROPOSI\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-118413",
+            "priorityDate": "19/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "HIROAKI OKUCHI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60W 10/08",
+        "B60L 58/12"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 12 2019 005902-0",
+    "filingDate": "13/10/2009",
+    "grantDate": "14/07/2020",
+    "title": "PROCESSO PARA A RECICLAGEM DE POL\u00cdMEROS SUPERABSORVENTES FINOS NA PRODU\u00c7\u00c3O DO GEL DE POL\u00cdMERO SUPERABSORVENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/256,038",
+            "priorityDate": "22/10/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/10/2009",
+        "applicationNumber": "PI 0920200-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "GONGLU TIAN",
+        "SCOTT J SMITH",
+        "JANET PATE"
+    ],
+    "holders": [
+        17026
+    ],
+    "ipcCodes": [
+        "C08F 265/06",
+        "C08J 3/00",
+        "A61L 15/60",
+        "C08F 265/04",
+        "C08L 51/00",
+        "C08L 101/02"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 004280-7",
+    "filingDate": "02/03/2018",
+    "grantDate": null,
+    "title": "PRINC\u00cdPIO ATIVO PARA COMBATE DE PERCEVEJOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17158906.2",
+            "priorityDate": "02/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "TOBIAS HARSCHNECK",
+        "MICHAEL MAUE",
+        "MARC MOSRIN",
+        "OLGA MALSAM",
+        "SASCHA EILMUS",
+        "CHRISTIAN MARIENHAGEN"
+    ],
+    "holders": [
+        36674
+    ],
+    "ipcCodes": [
+        "A01P 7/04",
+        "A01N 43/56"
+    ]
+}

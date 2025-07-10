@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2020 024769-7",
+    "filingDate": "03/12/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA ORDENA\u00c7\u00c3O, REPLICA\u00c7\u00c3O E REGISTRO TRANSPARENTES N\u00c3O REPUDI\u00c1VEIS DE OPERA\u00c7\u00d5ES ENVOLVENDO DADOS PESSOAIS E MEIO N\u00c3O TRANSIT\u00d3RIO LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19383082",
+            "priorityDate": "05/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2808"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "F\u00c9LIX BREZO FERN\u00c1NDEZ",
+        "YAIZA RUBIO VI\u00d1UELA"
+    ],
+    "holders": [
+        12617
+    ],
+    "ipcCodes": [
+        "G06Q 20/38",
+        "G06N 3/08",
+        "G06Q 20/06"
+    ]
+}

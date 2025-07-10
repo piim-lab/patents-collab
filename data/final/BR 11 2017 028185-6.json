@@ -1,0 +1,114 @@
+{
+    "applicationNumber": "BR 11 2017 028185-6",
+    "filingDate": "24/06/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES FARMAC\u00caUTICAS S\u00d3LIDAS PARA TRATAR HCV",
+    "nationalPhaseDate": [
+        "26/12/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/039266",
+        "pctDate": "24/06/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/185,145",
+            "priorityDate": "26/06/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/186,154",
+            "priorityDate": "29/06/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/193,639",
+            "priorityDate": "17/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/295,309",
+            "priorityDate": "15/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2756"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "NANCY SEVER",
+        "ULRICH WESTEDT",
+        "UTE LANDER",
+        "KATRIN SCHNEIDER",
+        "BENEDIKT STEITZ",
+        "THOMAS MUELLER",
+        "REGINA REUL",
+        "CONSTANZE OBERMILLER",
+        "ADIVARAHA JAYASANKAR",
+        "MICHAEL SIMON",
+        "YI GAO",
+        "HARALD HACH",
+        "SAMUEL KYEREMATENG",
+        "KATHARINA ASMUS",
+        "PING TONG",
+        "MARIUS NARIS",
+        "DONGHUA ZHU",
+        "COLLEEN GARRETT",
+        "WEI LIU",
+        "HOI KEI LON",
+        "SVEN MENSING",
+        "JEFFREY SCHMIDT",
+        "NEHA THAKRE",
+        "THIN YU TU"
+    ],
+    "holders": [
+        12773
+    ],
+    "ipcCodes": [
+        "A61K 9/16",
+        "A61K 9/00",
+        "A61K 31/498",
+        "A61K 31/454"
+    ]
+}

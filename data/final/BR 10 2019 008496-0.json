@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2019 008496-0",
+    "filingDate": "26/04/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA DESIGNAR DINAMICAMENTE OPERADORES PARA CONTROLAR REMOTAMENTE E/ OU MONITORAR MOVIMENTOS DE UM OU MAIS SISTEMAS DE VE\u00cdCULOS E SISTEMA DE DESIGNA\u00c7\u00c3O DE OPERADOR DE VE\u00cdCULO REMOTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/046,493",
+            "priorityDate": "26/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "JAMES D BROOKS"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "H04W 4/029"
+    ]
+}

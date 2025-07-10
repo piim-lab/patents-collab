@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 000801-6",
+    "filingDate": "15/01/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE CONDU\u00c7\u00c3O DE IMPLEMENTO, E, CONJUNTO DE VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/710,351",
+            "priorityDate": "16/02/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/112,344",
+            "priorityDate": "24/08/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2818"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "DWAYNE B WATT",
+        "RANDALL L LONG"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 34/68"
+    ]
+}

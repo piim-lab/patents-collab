@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 10 2018 017078-3",
+    "filingDate": "21/08/2018",
+    "grantDate": "28/03/2023",
+    "title": "TUBO DE \u00c1GUA COM MULTICAMADAS SINCRONICAMENTE RETR\u00c1TEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201721235801.1",
+            "priorityDate": "25/09/2017"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201721826273.7",
+            "priorityDate": "22/12/2017"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810011674.X",
+            "priorityDate": "05/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2788"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2804"
+        }
+    ],
+    "inventors": [
+        "SONGLIN DAI"
+    ],
+    "holders": [
+        41113
+    ],
+    "ipcCodes": [
+        "F16L 11/04",
+        "F16L 11/02",
+        "F16L 11/20",
+        "F16L 11/112"
+    ]
+}

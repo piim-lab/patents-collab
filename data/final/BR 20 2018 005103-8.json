@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 20 2018 005103-8",
+    "filingDate": "14/03/2018",
+    "grantDate": null,
+    "title": "APARELHO DE BARBEAR TRANSPORT\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/459734",
+            "priorityDate": "15/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "LEILA KASHANI MANSHOORY"
+    ],
+    "holders": [
+        359050
+    ],
+    "ipcCodes": [
+        "B26B 21/00",
+        "A45D 27/00"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 023091-6",
+    "filingDate": "17/11/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MONITORAR E DIAGNOSTICAR ATIVOS DE SISTEMA DE ENERGIA E SISTEMA PARA MONITORAR E DIAGNOSTICAR ATIVOS DE SISTEMA DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/951,998",
+            "priorityDate": "18/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "BALAKRISHNA PAMULAPARTHY",
+        "ALI SHAHID",
+        "SUMITHA MOHAN",
+        "RAJAGOPAL KOMMU",
+        "RAJU GURRAPU",
+        "SERGIO DOMINGUEZ RUIZ"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "G05B 19/048",
+        "G06F 9/06"
+    ]
+}

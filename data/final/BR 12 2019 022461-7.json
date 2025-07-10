@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2019 022461-7",
+    "filingDate": "07/09/2011",
+    "grantDate": null,
+    "title": "Processo para preparar uma fra\u00e7\u00e3o \u00e1cida isolada de goma m\u00e1stique",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/380.339",
+            "priorityDate": "07/09/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/09/2011",
+        "applicationNumber": "BR 11 2013 005300-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "ZADIK HAZAN",
+        "ANDRE C B LUCASSEN"
+    ],
+    "holders": [
+        109888
+    ],
+    "ipcCodes": [
+        "A61K 36/00",
+        "A61K 31/19"
+    ]
+}

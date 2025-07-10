@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 12 2023 000211-3",
+    "filingDate": "25/09/2018",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE OSCILA\u00c7\u00c3O PARA UM ROLO COMPACTADOR DE UM COMPACTADOR DE SOLO E COMPACTADOR DE SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017122370.3",
+            "priorityDate": "27/09/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/09/2018",
+        "applicationNumber": "BR 11 2020 002972-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        17659
+    ],
+    "ipcCodes": []
+}

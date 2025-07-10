@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2017 025116-0",
+    "filingDate": "23/11/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E CONJUNTO DE CARENAGEM DE VENTILADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/386829",
+            "priorityDate": "21/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "JOSHUA B FROMMER",
+        "ANDREW C KULAK",
+        "MICHAEL P ROETHLE",
+        "LESLIE R NEILL",
+        "PAUL E HERMANSON",
+        "RHONDA REBECCA TOLIVER"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "F04D 27/00",
+        "E05B 41/00",
+        "F04D 29/52",
+        "B64D 29/08"
+    ]
+}

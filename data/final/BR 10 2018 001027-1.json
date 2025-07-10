@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 001027-1",
+    "filingDate": "18/01/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA ELABORA\u00c7\u00c3O DE BASE DE DADOS CARTOGR\u00c1FICA GLOBAL MULTI-CAMADA",
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "15.22.2",
+            "description": "Devolu\u00e7\u00e3o de Prazo por falha de Sistema",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "25.6",
+            "description": "Altera\u00e7\u00e3o de Nome em Exig\u00eancia",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "LAILA FABI MOREIRA",
+        "SHAILA FABI MOREIRA",
+        "DIETER LUBECK"
+    ],
+    "holders": [
+        30450
+    ],
+    "ipcCodes": [
+        "G09G 5/14",
+        "G01C 21/36"
+    ]
+}

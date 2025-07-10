@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2015 020019-2",
+    "filingDate": "31/03/2014",
+    "grantDate": null,
+    "title": "Forma de dosagem farmac\u00eautica e seu uso",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13161902.5",
+            "priorityDate": "02/04/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "JULIA BONI",
+        "BERND PLOHMANN",
+        "SANDRA SAUERLAND"
+    ],
+    "holders": [
+        26587
+    ],
+    "ipcCodes": [
+        "A61K 36/09"
+    ]
+}

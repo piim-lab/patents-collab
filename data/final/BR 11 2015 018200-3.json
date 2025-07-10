@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 018200-3",
+    "filingDate": "12/02/2014",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o para administra\u00e7\u00e3o oral, composi\u00e7\u00e3o farmac\u00eautica e processo para preparar as mesmas",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "13305172.2",
+            "priorityDate": "14/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "GEORGES DASTE",
+        "BENJAMIN DEROUET",
+        "MARIE RENOUARD"
+    ],
+    "holders": [
+        79177
+    ],
+    "ipcCodes": [
+        "A61K 9/00",
+        "A23G 3/36",
+        "A61K 9/20",
+        "A61K 31/445",
+        "A23G 3/48"
+    ]
+}

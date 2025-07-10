@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2020 006094-5",
+    "filingDate": "26/03/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE SENSOR DE PESO TESTE, E, M\u00c1QUINA AGR\u00cdCOLA.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/386656",
+            "priorityDate": "17/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        }
+    ],
+    "inventors": [
+        "ANDREW C LOCKEN",
+        "BRIAN J BOOTH",
+        "WILLIAM D TODD"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 41/127",
+        "G01N 27/22"
+    ]
+}

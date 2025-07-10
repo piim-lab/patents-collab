@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2014 020961-8",
+    "filingDate": "14/02/2013",
+    "grantDate": null,
+    "title": "RECINTO DE DESCONTAMINA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/601,614",
+            "priorityDate": "22/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/764,814",
+            "priorityDate": "12/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "AARON LEIF HILL",
+        "THADDEUS JOSEPH MIELNIK"
+    ],
+    "holders": [
+        85519
+    ],
+    "ipcCodes": [
+        "A61L 2/20"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2021 001466-3",
+    "filingDate": "16/09/2014",
+    "grantDate": null,
+    "title": "SISTEMA DE FILTRA\u00c7\u00c3O DE CIRCUITO ABERTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/878,502",
+            "priorityDate": "16/09/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/09/2014",
+        "applicationNumber": "BR 11 2016 005545-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        }
+    ],
+    "inventors": [
+        "HANG ZHOU",
+        "BENJAMIN WRIGHT",
+        "MARCELLA YU",
+        "JIN YIN",
+        "KONSTANTIN KONSTANTINOV"
+    ],
+    "holders": [
+        83413
+    ],
+    "ipcCodes": [
+        "C12M 1/00"
+    ]
+}

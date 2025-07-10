@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2014 016936-9",
+    "filingDate": "09/07/2014",
+    "grantDate": null,
+    "title": "ELEMENTO DE FILTRO, FILTRO PARA FLU\u00cdDO E ALOJAMENTO DE FILTRO DE UM FILTRO PARA FLU\u00cdDO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 011 610.4",
+            "priorityDate": "12/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "PASCAL NEEF",
+        "WERNER BLOSSEY",
+        "MARIO RIEGER",
+        "ROBERT HASENFRATZ",
+        "NADINE SORGER",
+        "ANDREAS WEBER"
+    ],
+    "holders": [
+        4558
+    ],
+    "ipcCodes": [
+        "B01D 29/01"
+    ]
+}

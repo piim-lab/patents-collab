@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2015 009473-2",
+    "filingDate": "04/11/2013",
+    "grantDate": null,
+    "title": "HIDROLISADO DE COL\u00c1GENO, SEU PROCESSO PARA PRODU\u00c7\u00c3O E SUPLEMENTO ALIMENTAR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102012110612.6",
+            "priorityDate": "06/11/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "MONIKA GIESEN",
+        "ULRICH FRECH",
+        "STEPHAN HAUSMANNS",
+        "STEFFEN OESSER"
+    ],
+    "holders": [
+        79928
+    ],
+    "ipcCodes": [
+        "A61K 35/32",
+        "A61K 38/01",
+        "A61P 19/10"
+    ]
+}

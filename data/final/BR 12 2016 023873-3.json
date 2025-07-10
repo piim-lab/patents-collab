@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 12 2016 023873-3",
+    "filingDate": "13/11/2003",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA INSPECIONAR PARTES OFT\u00c1LMICAS COMPREENDENDO SUBST\u00c2NCIAS CORANTES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/425,938",
+            "priorityDate": "13/11/2002"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "13/11/2003",
+        "applicationNumber": "PI 0316198-6"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2480"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        }
+    ],
+    "inventors": [
+        "RUSSELL J EDWARDS",
+        "GARY S HALL"
+    ],
+    "holders": [
+        7836
+    ],
+    "ipcCodes": [
+        "G01M 11/00"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2022 000530-6",
+    "filingDate": "01/03/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ELETROPORA\u00c7\u00c3O E MATRIZ DO MESMO CAPAZ DE FORNECER A UM INDIV\u00cdDUO UM POTENCIAL EL\u00c9TRICO TOLER\u00c1VEL AO TECIDO EPID\u00c9RMICO QUE RESULTA EM ELETROPORA\u00c7\u00c3O DE C\u00c9LULAS NO DITO TECIDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/309,422",
+            "priorityDate": "01/03/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/03/2011",
+        "applicationNumber": "BR 11 2012 021805-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "KATE BRODERICK",
+        "JAY MCCOY",
+        "STEPHEN V KEMMERRER",
+        "FENG LIN",
+        "RUNE KJEKEN"
+    ],
+    "holders": [
+        89060
+    ],
+    "ipcCodes": [
+        "A61N 1/32"
+    ]
+}

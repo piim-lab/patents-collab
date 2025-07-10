@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 074609-0",
+    "filingDate": "28/11/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE CLIMATIZA\u00c7\u00c3O PARA UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102017128338.2",
+            "priorityDate": "29/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "THOMAS HEUER",
+        "PATRICK B\u00c4UMLE",
+        "THOMAS SCHERER"
+    ],
+    "holders": [
+        42551
+    ],
+    "ipcCodes": [
+        "B64D 13/08"
+    ]
+}

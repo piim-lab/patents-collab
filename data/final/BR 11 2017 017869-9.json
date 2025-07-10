@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2017 017869-9",
+    "filingDate": "19/02/2016",
+    "grantDate": null,
+    "title": "SISTEMA T\u00c1TIL, M\u00c9TODOS E PROCESSOS RELACIONADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/118,560",
+            "priorityDate": "20/02/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62,193,234",
+            "priorityDate": "16/07/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/206,393",
+            "priorityDate": "18/08/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/275,216",
+            "priorityDate": "05/01/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "BENJAMIN JOHN OLIVER LONG",
+        "SRIRAM SUBRAMANIAN",
+        "THOMAS ANDREW CARTER",
+        "ROBERT CHARLES BLENKINSOPP",
+        "SUE ANN SEAH",
+        "WILLIAM THIERRY ALAIN FRIER"
+    ],
+    "holders": [
+        187907
+    ],
+    "ipcCodes": [
+        "G06F 3/01",
+        "G06F 3/16",
+        "H04S 7/00"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2022 001846-7",
+    "filingDate": "26/09/2008",
+    "grantDate": null,
+    "title": "USO DE POLIPEPT\u00cdDEO DE DUAS CADEIAS PARA PREPARO DE MEDICAMENTO PARA REDUZIR SANGRAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/976,343",
+            "priorityDate": "28/09/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/090,574",
+            "priorityDate": "20/08/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/09/2008",
+        "applicationNumber": "PI 0816837-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "GENMIN LU",
+        "DAVID R PHILLIPS",
+        "PATRICK ANDRE",
+        "UMA SINHA"
+    ],
+    "holders": [
+        136979
+    ],
+    "ipcCodes": [
+        "C12N 9/64",
+        "A61P 7/04"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2017 028234-8",
+    "filingDate": "12/08/2016",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O ANTIMICROBIANA",
+    "nationalPhaseDate": [
+        "27/12/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT GB2016/052515",
+        "pctDate": "12/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1514490.0",
+            "priorityDate": "14/08/2015"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1611468.8",
+            "priorityDate": "30/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2682"
+        }
+    ],
+    "inventors": [
+        "MONICA BANDERA",
+        "NICHOLAS OLEARY",
+        "GARY MARR",
+        "J\u00c9R\u00d4ME GUYONNET",
+        "CLAUDINE ZEMIRILINE",
+        "PASCAL BUTTY",
+        "MICHAEL POLITOPOULIS",
+        "AUTUMN N RYAN",
+        "GUSTAVE J SCANNAPIECO",
+        "LI LIANG CHIA",
+        "EILEEN FLECK WARWICK",
+        "OLGA O BILIAIEVA",
+        "VIACHESLAV V NESHTA",
+        "ALEXANDR A GOLUB"
+    ],
+    "holders": [
+        306915,
+        19683,
+        393829,
+        114379,
+        105520,
+        84722,
+        606
+    ],
+    "ipcCodes": [
+        "A01N 63/00",
+        "A61L 26/00"
+    ]
+}

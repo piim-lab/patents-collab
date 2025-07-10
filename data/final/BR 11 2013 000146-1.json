@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2013 000146-1",
+    "filingDate": "30/06/2011",
+    "grantDate": "01/12/2020",
+    "title": "SISTEMA DE QUADRO BRANCO DIGITAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/398,892",
+            "priorityDate": "06/07/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/156,023",
+            "priorityDate": "08/06/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2779"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        106305
+    ],
+    "ipcCodes": []
+}

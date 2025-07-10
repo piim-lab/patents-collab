@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 071471-6",
+    "filingDate": "18/10/2018",
+    "grantDate": null,
+    "title": "ATUADOR PARA UM MOTOR DE AVI\u00c3O, E, CONJUNTO DE MOTOR DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201711037206",
+            "priorityDate": "20/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "PAVAN KUMAR VINJANAMPATI",
+        "RAJASEKARAN JANAKIRAMAN"
+    ],
+    "holders": [
+        1795
+    ],
+    "ipcCodes": [
+        "F02C 7/00"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2017 004241-0",
+    "filingDate": "02/09/2015",
+    "grantDate": "01/12/2020",
+    "title": "M\u00c9TODO DE PR\u00c9-TRATAMENTO E KIT PARA EXTRA\u00c7\u00c3O DE \u00c1CIDO NUCL\u00c9ICO US\u00c1VEL PARA O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-179111",
+            "priorityDate": "03/09/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "KAZUTOMI YAMAKAWA",
+        "TAKASHI NAGANO"
+    ],
+    "holders": [
+        187675
+    ],
+    "ipcCodes": [
+        "C12N 15/09"
+    ]
+}

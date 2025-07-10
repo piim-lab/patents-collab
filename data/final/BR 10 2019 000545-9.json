@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2019 000545-9",
+    "filingDate": "11/01/2019",
+    "grantDate": null,
+    "title": "APARELHO DE REPRODU\u00c7\u00c3O, ESTRUTURA DE REPRODU\u00c7\u00c3O, PROCESSO OPERACIONAL E USO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102018000216.1",
+            "priorityDate": "12/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2781"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2788"
+        }
+    ],
+    "inventors": [
+        "MARTIN BACHHUBER",
+        "FRANK SCHMID"
+    ],
+    "holders": [
+        11520
+    ],
+    "ipcCodes": [
+        "B60Q 3/47",
+        "B60Q 3/80"
+    ]
+}

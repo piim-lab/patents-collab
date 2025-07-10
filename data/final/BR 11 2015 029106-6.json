@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2015 029106-6",
+    "filingDate": "23/05/2014",
+    "grantDate": "15/12/2020",
+    "title": "FERRAMENTA E CONJUNTO DE FERRAMENTA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "FI2013A000119",
+            "priorityDate": "23/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "EMANUELE CIGNI"
+    ],
+    "holders": [
+        140385
+    ],
+    "ipcCodes": [
+        "B23C 5/10",
+        "B23C 5/28",
+        "B23B 31/11"
+    ]
+}

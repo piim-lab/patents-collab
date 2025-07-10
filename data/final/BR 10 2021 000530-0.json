@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2021 000530-0",
+    "filingDate": "12/01/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA DETEC\u00c7\u00c3O DE OSCILA\u00c7\u00d5ES SUBS\u00cdNCRONAS EM UM SISTEMA DE ALIMENTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20159530.3",
+            "priorityDate": "26/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "WALDEMAR REBIZANT",
+        "JOACHIM HERRMANN",
+        "SEBASTIAN SCHNEIDER",
+        "PAWEL REGULSKI"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "G01R 19/25",
+        "G01R 19/165",
+        "H02H 7/06",
+        "G01R 23/177",
+        "H02H 3/48"
+    ]
+}

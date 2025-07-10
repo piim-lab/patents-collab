@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 21 2013 014455-1",
+    "filingDate": "08/12/2011",
+    "grantDate": null,
+    "title": "ARTIGO PARA FUMO TENDO INV\u00d3LUCRO EXTERNO COM POR\u00c7\u00c3O RECORTADA.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10252093.9",
+            "priorityDate": "10/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "ALEN KADIRIC"
+    ],
+    "holders": [
+        80986
+    ],
+    "ipcCodes": [
+        "A24D 3/04",
+        "A24D 1/02"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2012 018111-8",
+    "filingDate": "20/07/2012",
+    "grantDate": null,
+    "title": "FORNO PARA RECOZER CHAPAS DE VIDRO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RE2011A000055",
+            "priorityDate": "25/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "STEFANO SPEZZANI"
+    ],
+    "holders": [
+        2619
+    ],
+    "ipcCodes": [
+        "C03B 25/02",
+        "C03B 27/012"
+    ]
+}

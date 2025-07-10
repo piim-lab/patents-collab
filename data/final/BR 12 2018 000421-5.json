@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 12 2018 000421-5",
+    "filingDate": "25/07/2006",
+    "grantDate": null,
+    "title": "COMPONENTE EL\u00c9TRICO",
+    "divisionalApplication": {
+        "filingDate": "25/07/2006",
+        "applicationNumber": "PI 0603937-5"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2508"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        170246
+    ],
+    "ipcCodes": []
+}

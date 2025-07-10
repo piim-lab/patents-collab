@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2015 030772-8",
+    "filingDate": "05/06/2014",
+    "grantDate": null,
+    "title": "TERMINAL DE INFORMA\u00c7\u00d5ES E M\u00c9TODO E PARA CONTROLAR APLICATIVOS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-123673",
+            "priorityDate": "12/06/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-123674",
+            "priorityDate": "12/06/2013"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2013-257684",
+            "priorityDate": "13/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "KEIICHI TAKIKAWA",
+        "AKIRA IIHOSHI"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "G06F 3/0488",
+        "B60R 16/02"
+    ]
+}

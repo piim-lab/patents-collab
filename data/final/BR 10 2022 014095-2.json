@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2022 014095-2",
+    "filingDate": "15/07/2022",
+    "grantDate": null,
+    "title": "IMPLEMENTO DE PLANTIO AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/384289",
+            "priorityDate": "23/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "MONTE DEKAM",
+        "BRIAN J ANDERSON",
+        "MICHAEL J CONNORS",
+        "JOHNATHON DIENST",
+        "CHAD JOHNSON",
+        "MAYUR JOSHI",
+        "BRANDON JAMES KUBOUSHEK",
+        "JACOB ALLAN WEIS",
+        "BRIAN J ANDERSON",
+        "CHRISTOPHER HUBER",
+        "JACOB ALLAN WEIS"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01C 19/00",
+        "A01B 59/02"
+    ]
+}

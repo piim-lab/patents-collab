@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 021670-0",
+    "filingDate": "28/10/2021",
+    "grantDate": null,
+    "title": "PROCESSO PARA MANUFATURA DE UM M\u00d3DULO PARA UM CART\u00c3O COM CHIP, M\u00d3DULO DE CART\u00c3O COM CHIP E CART\u00c3O COM CHIP",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2011177",
+            "priorityDate": "30/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "MATHIEU CHRISTOPHE",
+        "GIMBERT GUILLAUME"
+    ],
+    "holders": [
+        71376
+    ],
+    "ipcCodes": [
+        "G06K 19/067"
+    ]
+}

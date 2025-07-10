@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 20 2020 001715-8",
+    "filingDate": "27/01/2020",
+    "grantDate": null,
+    "title": "CANETA COM ABA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "2.6",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "GILBERTO FERRATTO BEZERRA"
+    ],
+    "holders": [
+        362535
+    ],
+    "ipcCodes": [
+        "B43K 23/004",
+        "G09B 11/02",
+        "B43K 23/008"
+    ]
+}

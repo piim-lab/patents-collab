@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2014 028365-2",
+    "filingDate": "23/06/2000",
+    "grantDate": "28/01/2020",
+    "title": "ARTIGO INDUSTRIALIZADO COMPREENDENDO UM PRIMEIRO RECIPIENTE QUE COMPREENDE UMA COMPOSI\u00c7\u00c3O DE huMAb4D5-8 NELE CONTIDA E UM SEGUNDO RECIPIENTE QUE COMPREENDE UMA COMPOSI\u00c7\u00c3O rhuMAb 2C4 NELE CONTIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/141,316",
+            "priorityDate": "25/06/1999"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/06/2000",
+        "applicationNumber": "PI 0012198-3"
+    },
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "CAMELLIA W ADAMS",
+        "LEONARD G PRESTA",
+        "MARK SLIWKOWSKI"
+    ],
+    "holders": [
+        32509
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395"
+    ]
+}

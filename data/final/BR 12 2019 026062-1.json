@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2019 026062-1",
+    "filingDate": "12/07/2012",
+    "grantDate": null,
+    "title": "Compostos 3-(4-((3-(piridin-4-il)isoxazol-4-il)metoxi)fenil)-3-hidroxi-azetidin-1-il,  3-(4-((1-(piridin-)4-il)-1H-1,2,3-triazol-5-il)metoxi)fenil)-3-hidroxi-azetidin-1-il, 3-(4-((4-(piridin-4-il)-1H-1,2,3-triazol-5-il)metoxi)fenil)-3-hidroxi-azetidin-1-il,  e  3-(4-((1-(piridin-4-il)-1H-pirazol-5-il)metoxi)fenil)-3-hidroxi-azetidin-1-il substitu\u00eddos e \u00f3xidos dos mesmos",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11005722.1",
+            "priorityDate": "13/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/507,153",
+            "priorityDate": "13/07/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/07/2012",
+        "applicationNumber": "BR 11 2014 000260-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "OLAF KINZEL",
+        "CHRISTOPH STEENECK",
+        "CLAUS KREMOSER"
+    ],
+    "holders": [
+        11788
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61P 1/16",
+        "A61P 3/10",
+        "C07D 413/12",
+        "C07D 413/14",
+        "A61K 31/42",
+        "C07D 261/08"
+    ]
+}

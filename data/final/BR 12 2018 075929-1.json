@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 12 2018 075929-1",
+    "filingDate": "01/10/2009",
+    "grantDate": null,
+    "title": "ADITIVOS PARA REDUZIR A CAPTA\u00c7\u00c3O DE METAL EM COMBUST\u00cdVEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/104,304",
+            "priorityDate": "10/10/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/10/2009",
+        "applicationNumber": "PI 0920665-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "ROBERT H BARBOUR",
+        "PAUL R STEVENSON",
+        "EMMA FAHEY",
+        "ROBERT HBARBOUR",
+        "PAUL R STEVENSON",
+        "EMMA FAHEY"
+    ],
+    "holders": [
+        82795
+    ],
+    "ipcCodes": [
+        "C10L 10/04",
+        "C10L 10/00",
+        "C10L 1/188",
+        "C10L 1/198",
+        "C10L 1/14"
+    ]
+}

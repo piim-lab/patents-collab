@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2013 030496-0",
+    "filingDate": "15/12/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA A S\u00cdNTESE DE FIPRONIL",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "1589/MUM/2011",
+            "priorityDate": "30/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "KEKI HORMUSJI GHARDA"
+    ],
+    "holders": [
+        125629
+    ],
+    "ipcCodes": [
+        "A01P 7/00",
+        "C07D 231/44"
+    ]
+}

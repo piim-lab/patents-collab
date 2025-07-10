@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2017 015166-5",
+    "filingDate": "19/01/2006",
+    "grantDate": null,
+    "title": "USO DE COLAGENASE",
+    "divisionalApplication": {
+        "filingDate": "19/01/2006",
+        "applicationNumber": "PI 0607280-1"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2591"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        350902
+    ],
+    "ipcCodes": []
+}

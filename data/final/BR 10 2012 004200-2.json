@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2012 004200-2",
+    "filingDate": "27/02/2012",
+    "grantDate": null,
+    "title": "DETECTOR DE RADIA\u00c7\u00c3O MULTIPROP\u00d3SITO",
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "MAUR\u00cdCIO MORALLES",
+        "M\u00c1RCIO BOTTARO",
+        "MAUR\u00cdCIO LANDI"
+    ],
+    "holders": [
+        568,
+        222
+    ],
+    "ipcCodes": [
+        "G01T 1/185",
+        "H01J 47/02"
+    ]
+}

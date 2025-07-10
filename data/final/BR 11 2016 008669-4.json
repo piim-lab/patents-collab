@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2016 008669-4",
+    "filingDate": "04/11/2014",
+    "grantDate": "14/12/2021",
+    "title": "FILTRO PRENSA",
+    "priorityClaims": [
+        {
+            "countryCode": "FI",
+            "priorityNumber": "20136081",
+            "priorityDate": "05/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "TEPPO SUUTARI"
+    ],
+    "holders": [
+        139098
+    ],
+    "ipcCodes": [
+        "B01D 25/38"
+    ]
+}

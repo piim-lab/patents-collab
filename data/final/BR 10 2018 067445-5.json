@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 10 2018 067445-5",
+    "filingDate": "01/09/2018",
+    "grantDate": "31/01/2023",
+    "title": "M\u00c9TODO DE CONSTRUIR UM PNEU",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/693,583",
+            "priorityDate": "01/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2790"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2806"
+        }
+    ],
+    "inventors": [
+        "GEORGE MICHAEL STOILA",
+        "MICHAEL JAMES HOGAN"
+    ],
+    "holders": [
+        1958
+    ],
+    "ipcCodes": [
+        "B60C 23/00",
+        "B29D 30/00",
+        "B60C 5/00",
+        "B60C 15/00"
+    ]
+}

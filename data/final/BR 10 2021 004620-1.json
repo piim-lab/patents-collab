@@ -1,0 +1,38 @@
+{
+    "applicationNumber": "BR 10 2021 004620-1",
+    "filingDate": "11/03/2021",
+    "grantDate": null,
+    "title": "CAPA ANTIFURTO DE CELULAR",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "LUIZ CARLOS AUGUSTO",
+        "JURANDYR BAPTISTA BASTOS JUNIOR",
+        "RONALDO SILVA TEFFEHA",
+        "TARIK SANTOS TEFFEHA"
+    ],
+    "holders": [
+        66145,
+        66146,
+        66147,
+        66148
+    ],
+    "ipcCodes": [
+        "A45C 11/00"
+    ]
+}

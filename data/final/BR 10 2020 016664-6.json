@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 016664-6",
+    "filingDate": "14/08/2020",
+    "grantDate": null,
+    "title": "M\u00c1QUINA PARA GERA\u00c7\u00c3O DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "CO",
+            "priorityNumber": "NC2019/0014395",
+            "priorityDate": "19/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2743"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [
+        "OMAR RODR\u00cdGUEZ S\u00c1NCHEZ"
+    ],
+    "holders": [
+        60982
+    ],
+    "ipcCodes": [
+        "H02K 7/18",
+        "H02K 7/00",
+        "H02K 7/02",
+        "H02P 11/00",
+        "H02P 11/06"
+    ]
+}

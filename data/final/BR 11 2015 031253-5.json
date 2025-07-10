@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2015 031253-5",
+    "filingDate": "13/06/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE UMA POPULA\u00c7\u00c3O DE C\u00c9LULAS TRANSDIFERENCIADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/834,759",
+            "priorityDate": "13/06/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/834,767",
+            "priorityDate": "13/06/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "SARAH FERBER"
+    ],
+    "holders": [
+        167637,
+        167638
+    ],
+    "ipcCodes": [
+        "A61K 35/12"
+    ]
+}

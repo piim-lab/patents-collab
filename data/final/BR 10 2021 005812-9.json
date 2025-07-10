@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 005812-9",
+    "filingDate": "25/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA REALIZAR UMA OPERA\u00c7\u00c3O DE TERRAPLENAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/832646",
+            "priorityDate": "27/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        }
+    ],
+    "inventors": [
+        "SCOTT A ELKINS"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "G01N 33/24",
+        "E02F 3/32",
+        "E02F 3/43"
+    ]
+}

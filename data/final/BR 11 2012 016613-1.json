@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2012 016613-1",
+    "filingDate": "06/01/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE FLOTA\u00c7\u00c3O PARA RECUPERA\u00c7\u00c3O DE FELDSPATO DE UM MIN\u00c9RIO DE FELDSPATO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10 290006.5",
+            "priorityDate": "08/01/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "LEV O FILIPPOV"
+    ],
+    "holders": [
+        94297,
+        94298,
+        17099
+    ],
+    "ipcCodes": [
+        "B03D 101/02",
+        "B03D 103/04",
+        "B03D 1/01",
+        "B03D 1/008"
+    ]
+}

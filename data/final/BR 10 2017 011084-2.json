@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2017 011084-2",
+    "filingDate": "25/05/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA O APLANAMENTO DE UM PARAFUSO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016006673.3",
+            "priorityDate": "31/05/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2739"
+        }
+    ],
+    "inventors": [
+        "FRANK MUELLER"
+    ],
+    "holders": [
+        17082,
+        3775
+    ],
+    "ipcCodes": [
+        "B23F 5/04",
+        "B23F 21/02",
+        "B24B 53/075",
+        "B24B 53/085"
+    ]
+}

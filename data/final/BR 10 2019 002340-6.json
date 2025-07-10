@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 002340-6",
+    "filingDate": "05/02/2019",
+    "grantDate": null,
+    "title": "ESTRUTURA DE PARTE LATERAL DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-028171",
+            "priorityDate": "20/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "SHINYA KAMIMURA",
+        "KOKI IKEDA",
+        "SHUNSUKE KANAGAI",
+        "TOMOKI MATSUMURA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B62D 25/04"
+    ]
+}

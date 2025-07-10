@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2020 005942-4",
+    "filingDate": "25/03/2020",
+    "grantDate": null,
+    "title": "CAL\u00c7O ANTIRRU\u00cdDO APERFEI\u00c7OADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19165101.7",
+            "priorityDate": "26/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [
+        "GUSTAF ANDERSSON",
+        "NILS MARCUS OLSSON",
+        "LARS CHRISTIAN DAHL"
+    ],
+    "holders": [
+        57369
+    ],
+    "ipcCodes": [
+        "B60T 3/00",
+        "B60T 8/173"
+    ]
+}

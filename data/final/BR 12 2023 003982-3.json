@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2023 003982-3",
+    "filingDate": "12/09/2017",
+    "grantDate": null,
+    "title": "ELEMENTO DE FILTRO REDONDO DE UM DISPOSITIVO DE FILTRO, EM PARTICULAR PARA FILTRAGEM DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2016 012 325.7",
+            "priorityDate": "17/10/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/09/2017",
+        "applicationNumber": "BR 11 2019 002427-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "PASCAL NEEF",
+        "NADINE DONAUER",
+        "FABIAN WAGNER",
+        "TORSTEN FRITZSCHING"
+    ],
+    "holders": [
+        4558
+    ],
+    "ipcCodes": [
+        "B01D 46/00",
+        "B01D 46/24"
+    ]
+}

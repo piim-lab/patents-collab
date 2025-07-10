@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 006184-8",
+    "filingDate": "15/09/2015",
+    "grantDate": null,
+    "title": "OPERA\u00c7\u00c3O DE ESPECTRO COMPARTILHADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/056,266",
+            "priorityDate": "26/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/853,294",
+            "priorityDate": "14/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "NAGA BHUSHAN",
+        "JOHN EDWARD SMEE",
+        "TINGFANG JI",
+        "AHMED KAMEL SADEK",
+        "KRISHNA KIRAN MUKKAVILLI",
+        "JOSEPH BINAMIRA SORIAGA"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 16/14",
+        "H04W 74/08"
+    ]
+}

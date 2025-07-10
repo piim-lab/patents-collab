@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 018806-8",
+    "filingDate": "01/02/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA MOLDAGEM DE PRODUTOS ALIMENT\u00cdCIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2008223",
+            "priorityDate": "03/02/2012"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "2008560",
+            "priorityDate": "29/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        }
+    ],
+    "inventors": [
+        "JOHANNES MARTINUS MEULENDIJKS",
+        "THOMAS WILLEM DEKKER",
+        "MARTINUS JOHANNES WILLEBRORDUS VAN ZOELEN",
+        "JEROEN ROBERT WILLEMSEN"
+    ],
+    "holders": [
+        79713
+    ],
+    "ipcCodes": [
+        "A22C 7/00"
+    ]
+}

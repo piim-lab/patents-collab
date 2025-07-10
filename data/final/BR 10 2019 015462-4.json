@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 015462-4",
+    "filingDate": "26/07/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERAR UM SISTEMA MANIPULADOR DE FARDO, E, SISTEMA MANIPULADOR DE FARDO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/197,880",
+            "priorityDate": "21/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2809"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "STEVEN D WALLESTAD",
+        "MARK A CRACAFT",
+        "JAMES T NOONAN"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 46/08",
+        "A01D 46/20"
+    ]
+}

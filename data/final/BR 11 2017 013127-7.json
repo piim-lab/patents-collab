@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2017 013127-7",
+    "filingDate": "18/12/2015",
+    "grantDate": "29/11/2022",
+    "title": "DISPOSITIVO DE RFID",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/578,526",
+            "priorityDate": "22/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2806"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "IAN J FORSTER",
+        "ADAM LOWE"
+    ],
+    "holders": [
+        102522,
+        182908
+    ],
+    "ipcCodes": [
+        "G06K 19/077"
+    ]
+}

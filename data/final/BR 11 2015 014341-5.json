@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2015 014341-5",
+    "filingDate": "18/12/2013",
+    "grantDate": "15/06/2021",
+    "title": "PIPETA DE DOSAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 112 498.1",
+            "priorityDate": "18/12/2012"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 114 336.9",
+            "priorityDate": "18/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2806"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "HEINZ FUCHS"
+    ],
+    "holders": [
+        157826
+    ],
+    "ipcCodes": [
+        "A61M 5/315",
+        "B01L 3/02"
+    ]
+}

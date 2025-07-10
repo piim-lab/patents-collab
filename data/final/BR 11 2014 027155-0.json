@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 027155-0",
+    "filingDate": "30/04/2013",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES DE CEL\u00daLAS T DEFICIENTES DO RE-CEPTOR DE C\u00c9LULAS T",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/459,664",
+            "priorityDate": "30/04/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "CHARLES L SENTMAN"
+    ],
+    "holders": [
+        145824
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C12N 5/10",
+        "A61K 35/12",
+        "C12N 5/0783"
+    ]
+}

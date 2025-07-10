@@ -1,0 +1,88 @@
+{
+    "applicationNumber": "BR 11 2016 021567-2",
+    "filingDate": "19/03/2015",
+    "grantDate": "23/05/2023",
+    "title": "SISTEMA E M\u00c9TODO PARA TRANSFER\u00caNCIA ESPEC\u00cdFICA DE UE",
+    "nationalPhaseDate": [
+        "19/09/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2015/074558",
+        "pctDate": "19/03/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/955,606",
+            "priorityDate": "19/03/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/972,965",
+            "priorityDate": "31/03/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/659,260",
+            "priorityDate": "16/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "XIAOLEI TIE",
+        "CARMELA COZZO",
+        "PENG ZHANG",
+        "ZONGJIE WANG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04W 36/00",
+        "H04W 36/30",
+        "H04W 36/22"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 022760-2",
+    "filingDate": "09/11/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE TENSIONAMENTO DE CORREIA DE BORRACHA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/686,432",
+            "priorityDate": "18/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "JOEL T COOK"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01D 57/20",
+        "A01D 61/02",
+        "B65G 15/32",
+        "A01D 75/00",
+        "B65G 23/44",
+        "A01D 61/04",
+        "A01D 41/06"
+    ]
+}

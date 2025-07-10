@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 12 2018 073754-9",
+    "filingDate": "20/12/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODU\u00c7\u00c3O DE UMA CHAPA DE A\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-285567",
+            "priorityDate": "27/12/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/12/2012",
+        "applicationNumber": "BR 11 2014 015789-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "KAZUKUNI HASE",
+        "YOSHIKO TAKEUCHI",
+        "KIMIHIRO NISHIMURA",
+        "SHINJI MITAO"
+    ],
+    "holders": [
+        1442
+    ],
+    "ipcCodes": [
+        "C22C 38/00",
+        "C22C 38/06",
+        "B21B 3/00",
+        "C21D 8/02",
+        "C22C 38/58"
+    ]
+}

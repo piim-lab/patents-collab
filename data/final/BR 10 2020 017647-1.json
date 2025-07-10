@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 017647-1",
+    "filingDate": "28/08/2020",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O OPACA, PROCESSO DE PREPARA\u00c7\u00c3O E USO DA MESMA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19195481.7",
+            "priorityDate": "05/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "PETER SCHWAB",
+        "DOMINIK SCHUCH",
+        "PATRICK WINTER",
+        "NICO NEUHAUS",
+        "PETER SCHWAB",
+        "DOMINIK SCHUCH",
+        "PATRICK WINTER",
+        "PETER MUSS"
+    ],
+    "holders": [
+        962
+    ],
+    "ipcCodes": [
+        "A61Q 5/02",
+        "A61K 8/37",
+        "A61Q 19/10",
+        "A61K 8/46",
+        "A61K 8/86",
+        "A61K 8/36"
+    ]
+}

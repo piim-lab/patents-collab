@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2021 002801-7",
+    "filingDate": "12/02/2021",
+    "grantDate": null,
+    "title": "PROCESSO DE PR\u00c9-TRATAMENTO COMBINADO POR ULTRASSOM E PRECIPITA\u00c7\u00c3O QU\u00cdMICA DE ESTRUVITA INTREGADO \u00c0 CODIGEST\u00c3O ANAER\u00d3BIA",
+    "priorityClaims": [
+        {
+            "countryCode": "PT",
+            "priorityNumber": "116114",
+            "priorityDate": "13/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "RENATA DARC COURA"
+    ],
+    "holders": [
+        65560,
+        65559
+    ],
+    "ipcCodes": [
+        "C02F 1/36",
+        "C02F 9/14",
+        "C02F 11/04",
+        "C02F 1/66"
+    ]
+}

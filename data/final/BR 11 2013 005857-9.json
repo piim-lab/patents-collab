@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 11 2013 005857-9",
+    "filingDate": "09/09/2011",
+    "grantDate": null,
+    "title": "\u201cPROCESSO PARA REFOR\u00c7O DE UM VELO DE FIBRAS E N\u00c3O TECIDO REFOR\u00c7ADO POR JATO D\u2019\u00c1GUA\u201d.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10 009534.8",
+            "priorityDate": "14/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        }
+    ],
+    "inventors": [
+        "INGO BERNT",
+        "WALTER ROGGENSTEIN",
+        "ANEMONE TAUTENHAHN"
+    ],
+    "holders": [
+        110346
+    ],
+    "ipcCodes": [
+        "D04H 1/46"
+    ]
+}

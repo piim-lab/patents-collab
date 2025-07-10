@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2013 024250-7",
+    "filingDate": "20/02/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO DE PROCESSAMENTO CRIPTOGR\u00c1FICO, PROGRAMA, E, DISPOSITIVO DE PROCESSAMENTO DE INFORMA\u00c7\u00c3O.",
+    "nationalPhaseDate": [
+        "20/09/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2012/053930",
+        "pctDate": "20/02/2012",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-069182",
+            "priorityDate": "28/03/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-207702",
+            "priorityDate": "22/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "KYOJI SHIBUTANI",
+        "TORU AKISHITA",
+        "TAKANORI ISOBE",
+        "TAIZO SHIRAI",
+        "HARUNAGA HIWATARI",
+        "ATSUSHI MITSUDA"
+    ],
+    "holders": [
+        326
+    ],
+    "ipcCodes": [
+        "H04L 9/06",
+        "G09C 1/00"
+    ]
+}

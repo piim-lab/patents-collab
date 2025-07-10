@@ -1,0 +1,89 @@
+{
+    "applicationNumber": "BR 11 2021 004234-2",
+    "filingDate": "03/09/2019",
+    "grantDate": null,
+    "title": "PLATAFORMA DE BANCO DE DADOS DE AGREGA\u00c7\u00c3O E DE ACESSO AUTENTICADO",
+    "nationalPhaseDate": [
+        "05/03/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/049377",
+        "pctDate": "03/09/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/727,479",
+            "priorityDate": "05/09/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/826,319",
+            "priorityDate": "29/03/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/446,213",
+            "priorityDate": "19/06/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/445,647",
+            "priorityDate": "19/06/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/445,808",
+            "priorityDate": "19/06/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/446,299",
+            "priorityDate": "19/06/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/446,336",
+            "priorityDate": "19/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "MICHELLE FELICE",
+        "MICHELE RANERI",
+        "PAUL DESAULNIERS",
+        "JOE MANNA",
+        "JEFF SOFTLEY",
+        "SRIKUMAR PUTHUPADI KANTHADAI",
+        "AGA DZHAFAR HADY OGIU DZHAFAROV",
+        "PAT FINNERAN",
+        "DONNA MERYL SMITH",
+        "GREGORY LENNOX WRIGHT",
+        "MUKESHKUMAR G PATEL",
+        "RAVI DEVESETTI",
+        "MARIZETTE GALVEZ",
+        "UJJAYAN BANERJEE",
+        "SHIVAKUMAR RAMANATHAN"
+    ],
+    "holders": [
+        283904
+    ],
+    "ipcCodes": [
+        "G06F 21/60",
+        "G06F 21/62",
+        "G06F 21/57"
+    ]
+}

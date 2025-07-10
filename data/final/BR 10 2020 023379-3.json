@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 023379-3",
+    "filingDate": "16/11/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA SUPRIR G\u00c1S TERAP\u00caUTICO, PARTICULARMENTE NO OU N2O, A UM PACIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1912769",
+            "priorityDate": "15/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "YANN BLANDIN",
+        "LOUISE THEVENET",
+        "MARIE AMORY"
+    ],
+    "holders": [
+        2085
+    ],
+    "ipcCodes": [
+        "A61M 16/00",
+        "A61M 16/12"
+    ]
+}

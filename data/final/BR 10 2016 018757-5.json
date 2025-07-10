@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2016 018757-5",
+    "filingDate": "15/08/2016",
+    "grantDate": null,
+    "title": "CONJUNTO DE EIXO TENDO UM ANEL DE AJUSTE.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/851,000",
+            "priorityDate": "11/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "BRIAN D HAYES",
+        "ROBERT J MARTIN"
+    ],
+    "holders": [
+        2335
+    ],
+    "ipcCodes": [
+        "B60B 35/16",
+        "B60B 35/18"
+    ]
+}

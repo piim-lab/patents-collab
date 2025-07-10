@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2020 018527-9",
+    "filingDate": "05/01/2012",
+    "grantDate": null,
+    "title": "Dispositivo de criptografia de v\u00eddeo, dispositivo de decodifica\u00e7\u00e3o de v\u00eddeo, m\u00e9todo de criptografia de v\u00eddeo e m\u00e9todo de decodifica\u00e7\u00e3o de v\u00eddeo.",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-004964",
+            "priorityDate": "13/01/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/01/2012",
+        "applicationNumber": "BR 11 2013 017799-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2681"
+        }
+    ],
+    "inventors": [
+        "KENTA SENZAKI",
+        "YUZO SENDA",
+        "KEIICHI CHONO",
+        "HIROFUMI AOKI"
+    ],
+    "holders": [
+        5254
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/70",
+        "H04N 19/61",
+        "H04N 19/46",
+        "H04N 19/157",
+        "H04N 19/44",
+        "H04N 19/503",
+        "H04N 19/91",
+        "H04N 19/65",
+        "H04N 19/119",
+        "H04N 19/147",
+        "H04N 19/109"
+    ]
+}

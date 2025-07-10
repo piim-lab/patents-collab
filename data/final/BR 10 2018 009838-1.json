@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 10 2018 009838-1",
+    "filingDate": "15/05/2018",
+    "grantDate": null,
+    "title": "CONVERSOR DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-098130",
+            "priorityDate": "17/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [
+        "YOSHIHIRO KIDA",
+        "KAORU TORII",
+        "HIROKI MIYAKE",
+        "YUKI JOJIMA",
+        "SHUICHI IWATA",
+        "HIROMI YAMASAKI",
+        "TAKANORI KAWASHIMA",
+        "MASATAKA DEGUCHI",
+        "AKIHIRO UEDA",
+        "KOJI YASUI",
+        "HIROTAKA OHNO",
+        "TOSHIAKI SATOU",
+        "HIRONORI KOYANO",
+        "TAKAMASA NAKAMURA",
+        "MASAO SAITO",
+        "KOUJI YAMAMOTO",
+        "TSUTOMU MATSUKAWA",
+        "MANABU KOSHIJO",
+        "JUNICHI ITOH",
+        "YOSHIYA OHNUMA",
+        "SHIGEHARU YAMAGAMI",
+        "KHAI DOAN THE NGO",
+        "NOBUO HAYASHI",
+        "TAKUROU OGAWA",
+        "MORIMITSU SEKIMOTO",
+        "TOMOISA TANIGUCHI"
+    ],
+    "holders": [
+        79937,
+        95112,
+        5783,
+        34600,
+        82927,
+        127671
+    ],
+    "ipcCodes": [
+        "H02P 27/06",
+        "H02M 7/48"
+    ]
+}

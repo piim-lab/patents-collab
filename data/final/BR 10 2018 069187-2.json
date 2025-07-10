@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2018 069187-2",
+    "filingDate": "20/09/2018",
+    "grantDate": null,
+    "title": "PROCESSO LOG\u00cdSTICO AGROINDUSTRIAL OTIMIZADO PARA CORTE, CARREGAMENTO, TRANSPORTE E PLANTIO DE CANA-DE-A\u00c7\u00daCAR",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2769"
+        }
+    ],
+    "inventors": [
+        "IAN ERHARD DOBEREINER"
+    ],
+    "holders": [
+        10990
+    ],
+    "ipcCodes": [
+        "A01C 14/00"
+    ]
+}

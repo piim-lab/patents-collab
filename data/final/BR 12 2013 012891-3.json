@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 12 2013 012891-3",
+    "filingDate": "09/05/2008",
+    "grantDate": null,
+    "title": "SISTEMA DE CONVERS\u00c3O DE POLARIZA\u00c7\u00c3O E M\u00c9TODO PARA PROJE\u00c7\u00c3O ESTEREOSC\u00d3PICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/916,970",
+            "priorityDate": "09/05/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/988,929",
+            "priorityDate": "19/11/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/028,476",
+            "priorityDate": "13/02/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/05/2008",
+        "applicationNumber": "PI 0810740-8"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "MILLER H SCHUCK",
+        "MICHAEL G ROBINSON",
+        "GARY D SHARP"
+    ],
+    "holders": [
+        129857
+    ],
+    "ipcCodes": [
+        "G02B 5/30"
+    ]
+}

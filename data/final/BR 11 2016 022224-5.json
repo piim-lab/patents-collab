@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2016 022224-5",
+    "filingDate": "25/03/2015",
+    "grantDate": null,
+    "title": "COORDENA\u00c7\u00c3O SIMULT\u00c2NEA OPERACIONAL E SISTEMA DE PLANEJAMENTO",
+    "nationalPhaseDate": [
+        "26/09/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2015/022500",
+        "pctDate": "25/03/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/970,825",
+            "priorityDate": "26/03/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/578,135",
+            "priorityDate": "19/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        120792
+    ],
+    "ipcCodes": []
+}

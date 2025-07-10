@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2021 013130-9",
+    "filingDate": "15/03/2013",
+    "grantDate": "23/11/2021",
+    "title": "COMPOSI\u00c7\u00d5ES PARA TINTA E TINTA EM LATA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12290139.0",
+            "priorityDate": "19/04/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/03/2013",
+        "applicationNumber": "BR 11 2014 025801-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "JONATHAN PHIPPS",
+        "SOPHIE BOURGOIN",
+        "ANNABELLE HUGUETTE REN\u00c9E LEGRIX",
+        "GEMMA VINNICOMBE"
+    ],
+    "holders": [
+        114379
+    ],
+    "ipcCodes": [
+        "C09D 7/00",
+        "C09D 101/02",
+        "C09D 5/04"
+    ]
+}

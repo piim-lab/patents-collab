@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2019 005538-0",
+    "filingDate": "23/09/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE MAPEAMENTO DE RECURSO, EXTREMIDADE DE TRANSMISS\u00c3O, E EXTREMIDADE DE RECEBIMENTO",
+    "nationalPhaseDate": [
+        "21/03/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2016/099858",
+        "pctDate": "23/09/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2782"
+        }
+    ],
+    "inventors": [
+        "YONGPING ZHANG"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 27/26"
+    ]
+}

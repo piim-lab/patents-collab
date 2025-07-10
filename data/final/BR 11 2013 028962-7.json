@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 028962-7",
+    "filingDate": "14/05/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA ESCANEAR UM TUBO PLANEJADO PARA SER TRABALHADO EM UMA M\u00c1QUINA DE CORTE A LASER USANDO UM SENSOR PARA MEDIR A IRRADIA\u00c7\u00c3O REFLETIDA OU EMITIDA PELO TUBO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "TO2011A000425",
+            "priorityDate": "12/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "PAOLO GALVAGNINI",
+        "SERGIO NICOLETTI",
+        "MATTEO BRIGADUE"
+    ],
+    "holders": [
+        12429
+    ],
+    "ipcCodes": [
+        "G01B 11/00",
+        "B23K 26/03",
+        "B23K 26/08",
+        "B23K 26/38"
+    ]
+}

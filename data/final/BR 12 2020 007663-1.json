@@ -1,0 +1,82 @@
+{
+    "applicationNumber": "BR 12 2020 007663-1",
+    "filingDate": "08/04/2011",
+    "grantDate": null,
+    "title": "CODIFICA\u00c7\u00c3O DE UMA AMOSTRAGEM ESPACIAL DE UM SINAL DE INFORMA\u00c7\u00c3O BIDIMENSIONAL USANDO SUBDIVIS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10159819.1",
+            "priorityDate": "13/04/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2010/054843",
+            "priorityDate": "13/04/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "08/04/2011",
+        "applicationNumber": "BR 11 2012 026383-8"
+    },
+    "events": [
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "PHILIPP HELLE",
+        "DETLEV MARPE",
+        "THOMAS WIEGAND",
+        "HEINER KIRCHHOFFER",
+        "HEIKO SCHWARZ",
+        "MARTIN WINKEN",
+        "PHILIPP HELLE",
+        "DETLEV MARPE",
+        "THOMAS WIEGAND",
+        "HEINER KIRCHHOFFER",
+        "HEIKO SCHWARZ",
+        "MARTIN WINKEN",
+        "PHILIPP HELLE",
+        "DETLEV MARPE",
+        "THOMAS WIEGAND",
+        "HEINER KIRCHHOFFER",
+        "HEIKO SCHWARZ",
+        "MARTIN WINKEN"
+    ],
+    "holders": [
+        101422
+    ],
+    "ipcCodes": [
+        "H04N 19/46",
+        "H04N 19/96",
+        "H04N 19/91"
+    ]
+}

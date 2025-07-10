@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2014 022506-0",
+    "filingDate": "12/03/2013",
+    "grantDate": null,
+    "title": "VARIANTES DE CBH1A",
+    "nationalPhaseDate": [
+        "11/09/2014"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2013/030558",
+        "pctDate": "12/03/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/609,843",
+            "priorityDate": "12/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2583"
+        }
+    ],
+    "inventors": [
+        "BEHNAZ BEHROUZIAN",
+        "XINKAI XIE",
+        "KUI CHAN",
+        "XYUN ZHANG",
+        "VESNA MITCHELL",
+        "DOUGLAS A HATTENDORF"
+    ],
+    "holders": [
+        105857
+    ],
+    "ipcCodes": [
+        "C12P 7/08",
+        "C12N 9/42"
+    ]
+}

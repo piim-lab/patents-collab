@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2013 001367-2",
+    "filingDate": "27/06/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA FORMAR UM ARTIGO DE LIGA DE TIT\u00c2NIO a+\u00df",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/838.674",
+            "priorityDate": "19/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        }
+    ],
+    "inventors": [
+        "DAVID JBRYAN"
+    ],
+    "holders": [
+        90228
+    ],
+    "ipcCodes": [
+        "C22F 1/18",
+        "C22C 14/00"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2013 005232-1",
+    "filingDate": "25/07/2008",
+    "grantDate": null,
+    "title": "PEPT\u00cdDEO; \u00c1CIDO NUCLEICO OU VETOR DE EXPRESS\u00c3O; C\u00c9LULA HOSPEDEIRA; M\u00c9TODO IN VITRO PARA PRODUZIR LINF\u00d3CITOS T CITOT\u00d3XICOS ATIVADOS; TAIS LINF\u00d3CITOS; E USOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "07 014796.2",
+            "priorityDate": "27/07/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/953,109",
+            "priorityDate": "31/07/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/981,241",
+            "priorityDate": "19/10/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "25/07/2008",
+        "applicationNumber": "PI 0814140-1"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2686"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        99444
+    ],
+    "ipcCodes": []
+}

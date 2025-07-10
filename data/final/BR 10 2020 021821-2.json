@@ -1,0 +1,87 @@
+{
+    "applicationNumber": "BR 10 2020 021821-2",
+    "filingDate": "23/10/2020",
+    "grantDate": null,
+    "title": "PROCESSO DE PREPARO DE ADSORVENTES SULFETADOS, ADSORVENTES SULFETADOS E USO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "28.10.11",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia verde",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "VERA MARIA MARTINS SALIM",
+        "JAILTON FERREIRA DO NASCIMENTO",
+        "NEUMAN SOLANGE DE RESENDE",
+        "CARLA LUCIANE MANSKE CAMARGO",
+        "AMANDA GERHARDT DE OLIVEIRA FERREIRA"
+    ],
+    "holders": [
+        620,
+        214
+    ],
+    "ipcCodes": [
+        "B01J 37/03",
+        "C01G 23/047",
+        "C10L 3/10",
+        "B01J 21/06",
+        "B01J 23/72",
+        "B01J 20/02",
+        "B01D 53/02",
+        "C01G 23/04",
+        "B01D 53/04",
+        "B01J 20/04",
+        "B01J 23/80"
+    ]
+}

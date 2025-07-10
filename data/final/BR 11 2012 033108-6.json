@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2012 033108-6",
+    "filingDate": "01/06/2011",
+    "grantDate": null,
+    "title": "M\u00d3DULO SOLAR",
+    "nationalPhaseDate": [
+        "21/12/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT AT2011/000249",
+        "pctDate": "01/06/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "A 1097/2010",
+            "priorityDate": "29/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPH SCH\u00d6NDORFER",
+        "ELMAR ST\u00d6GER",
+        "ALEXANDER SWATEK",
+        "ZHENYU WU",
+        "LISONG TAO",
+        "JUNPENG WAN",
+        "YI YAN",
+        "SHIZHONG YANG",
+        "ZHENLEI FANG"
+    ],
+    "holders": [
+        40265,
+        105700
+    ],
+    "ipcCodes": [
+        "H01L 31/0216",
+        "H01L 31/055"
+    ]
+}

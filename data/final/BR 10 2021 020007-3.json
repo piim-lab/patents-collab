@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 020007-3",
+    "filingDate": "05/10/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO, SISTEMA, E, M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/303,070",
+            "priorityDate": "19/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "PABLO VIEIRA REGO",
+        "JEFFREY JAMES CRAWFORD",
+        "RANDOLPH S COLES"
+    ],
+    "holders": [
+        2701
+    ],
+    "ipcCodes": [
+        "G01N 23/095"
+    ]
+}

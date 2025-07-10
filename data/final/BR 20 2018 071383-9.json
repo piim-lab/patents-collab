@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 20 2018 071383-9",
+    "filingDate": "17/10/2018",
+    "grantDate": null,
+    "title": "SISTEMA PARA AGREGA\u00c7\u00c3O DE ITENS EM UM RECIPIENTE",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2760"
+        },
+        {
+            "code": "15.10",
+            "description": "Mudan\u00e7a de Natureza",
+            "bulletinNumber ": "2774"
+        }
+    ],
+    "inventors": [
+        "FRANCISCO DE ASSIS OLIVEIRA"
+    ],
+    "holders": [
+        34272
+    ],
+    "ipcCodes": [
+        "G06K 7/10",
+        "G07D 7/12",
+        "B65B 59/02",
+        "B65B 61/26",
+        "G06K 19/08",
+        "B65B 19/28",
+        "G06K 5/02"
+    ]
+}

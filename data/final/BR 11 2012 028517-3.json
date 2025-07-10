@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2012 028517-3",
+    "filingDate": "12/05/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA RECUPERA\u00c7\u00c3O DE BETA\u00cdNA A PARTIR DO MELA\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP 10005025",
+            "priorityDate": "12/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "JAN VAN LOO"
+    ],
+    "holders": [
+        102741
+    ],
+    "ipcCodes": [
+        "C12P 19/18",
+        "C12P 13/00",
+        "C12P 19/16",
+        "C12P 19/20"
+    ]
+}

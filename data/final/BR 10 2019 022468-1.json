@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2019 022468-1",
+    "filingDate": "25/10/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE IDENTIFICA\u00c7\u00c3O E PLANEJAMENTO E M\u00c9TODO PARA O ATENDIMENTO DE PEDIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/170,958",
+            "priorityDate": "25/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2729"
+        }
+    ],
+    "inventors": [
+        "ANIRUDH SINGH SHEKHAWAT",
+        "SAMEER NARKAR",
+        "AKASH PATIL",
+        "AVILASH KUMAR",
+        "VAIBHAV TOLIA"
+    ],
+    "holders": [
+        52825
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G06Q 10/06"
+    ]
+}

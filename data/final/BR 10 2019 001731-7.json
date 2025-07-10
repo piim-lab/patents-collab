@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2019 001731-7",
+    "filingDate": "28/01/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA DETECTAR UM PADR\u00c3O DE EVENTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/044,529",
+            "priorityDate": "25/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2691"
+        }
+    ],
+    "inventors": [
+        "ILYA KOLCHINSKY",
+        "ASSAF SCHUSTER"
+    ],
+    "holders": [
+        45973
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "H04L 12/24",
+        "G06F 21/55"
+    ]
+}

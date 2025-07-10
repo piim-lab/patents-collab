@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2014 020194-3",
+    "filingDate": "13/02/2013",
+    "grantDate": null,
+    "title": "CONJUNTO DE COMPARTIMENTO ARTICULADO E AERONAVE",
+    "nationalPhaseDate": [
+        "14/08/2014"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2013/025962",
+        "pctDate": "13/02/2013",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/598.856",
+            "priorityDate": "14/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/598.816",
+            "priorityDate": "14/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/765.652",
+            "priorityDate": "12/02/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.5",
+            "description": "Exig\u00eancias Diversas",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "11.4",
+            "description": "Arquivamento - Art. 38 \u00a7 2\u00b0 da LPI",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        141881
+    ],
+    "ipcCodes": []
+}

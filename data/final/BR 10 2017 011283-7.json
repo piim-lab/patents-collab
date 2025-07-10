@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 011283-7",
+    "filingDate": "29/05/2017",
+    "grantDate": null,
+    "title": "AEROF\u00d3LIO E M\u00c9TODO PARA IMPEDIR A FORMA\u00c7\u00c3O DE GELO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/183,563",
+            "priorityDate": "15/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "JOHN RALPH HULL",
+        "MINAS H TANIELIAN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 15/16",
+        "B64D 15/04"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 014357-9",
+    "filingDate": "20/07/2022",
+    "grantDate": null,
+    "title": "COPOS DE PAPEL OU DE MATERIAL SEMELHANTE A PAPEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102021208450.8",
+            "priorityDate": "04/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "UWE MESSERSCHMID"
+    ],
+    "holders": [
+        17879
+    ],
+    "ipcCodes": [
+        "B65D 81/38",
+        "B65D 3/14",
+        "B65D 21/02",
+        "B65D 3/22"
+    ]
+}

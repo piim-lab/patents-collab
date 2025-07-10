@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2016 029989-9",
+    "filingDate": "15/03/2006",
+    "grantDate": null,
+    "title": "VULCANIZADO TERMOPL\u00c1STICO E ARTIGO MANUFATURADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "PCT/US2005/008917",
+            "priorityDate": "17/03/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/718,186",
+            "priorityDate": "16/09/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/03/2006",
+        "applicationNumber": "PI 0609839-8"
+    },
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2504"
+        }
+    ],
+    "inventors": [
+        "KIM LOUIS WALTON",
+        "MORGAN MARK HUGHES",
+        "GARY L RATH",
+        "YUNWA WILSON CHEUNG",
+        "KIM LOUIS WALTON",
+        "MORGAN MARK HUGHES",
+        "GARY L RATH",
+        "YUNWA WILSON CHEUNG"
+    ],
+    "holders": [
+        9272
+    ],
+    "ipcCodes": [
+        "C08F 10/00",
+        "C08L 23/10",
+        "C08L 23/08",
+        "C08L 23/06",
+        "C08F 10/14",
+        "C08L 23/16",
+        "C08F 110/02",
+        "C08F 210/16",
+        "C08F 297/08",
+        "C08F 295/00"
+    ]
+}

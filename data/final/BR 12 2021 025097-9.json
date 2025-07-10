@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2021 025097-9",
+    "filingDate": "24/06/2009",
+    "grantDate": null,
+    "title": "Composi\u00e7\u00e3o Imunog\u00eanica, Composi\u00e7\u00e3o de Vacina e Uso da Mesma",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/076,232",
+            "priorityDate": "27/06/2008"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/214,557",
+            "priorityDate": "24/04/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "24/06/2009",
+        "applicationNumber": "PI 0913954-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "CEDO MARTIN BAGI",
+        "TEDD ALAN CHILDERS",
+        "PAUL JOSEPH DOMINOWSKI",
+        "RICHARD LEE KREBS",
+        "RAMASAMY MANNAR MANNAN",
+        "MARY KATHRYN OLSEN",
+        "JAMES RICHARD THOMPSON",
+        "RISINI DHAMMIKA WEERATNA",
+        "ROBERT JOHN YANCEY JR",
+        "SHUCHENG ZHANG"
+    ],
+    "holders": [
+        46388
+    ],
+    "ipcCodes": [
+        "A61K 39/00",
+        "A61K 39/39",
+        "A61K 39/02",
+        "A61K 39/012"
+    ]
+}

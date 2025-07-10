@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2014 009758-1",
+    "filingDate": "28/04/2011",
+    "grantDate": "27/10/2020",
+    "title": "Dispositivo de limpeza para limpar material de esfreg\u00e3o e esta\u00e7\u00e3o de limpeza",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1007927.5",
+            "priorityDate": "12/05/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/04/2011",
+        "applicationNumber": "BR 11 2012 028768-0"
+    },
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "RONALD ALEXANDER SCOT YOUNG"
+    ],
+    "holders": [
+        94283
+    ],
+    "ipcCodes": [
+        "A47L 13/60"
+    ]
+}

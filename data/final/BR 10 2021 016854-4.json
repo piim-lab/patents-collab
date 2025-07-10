@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2021 016854-4",
+    "filingDate": "25/08/2021",
+    "grantDate": null,
+    "title": "VE\u00cdCULO GUIADO AUTOMATICAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "MX/a/2020/008872",
+            "priorityDate": "25/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2800"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN DANIEL DEL MORAL PI\u00d1A",
+        "JES\u00daS EMMANUEL HERN\u00c1NDEZ MENDOZA",
+        "EMILIO RAM\u00cdREZ FLORES",
+        "ALEJANDRA DEL CARMEN FUENTES",
+        "KEVIN ALEJANDRO D\u00cdAZ RODR\u00cdGUEZ",
+        "EDGAR GUZM\u00c1N RAM\u00cdREZ",
+        "JULIO JORD\u00c1N GARDU\u00d1O NAVA",
+        "JUAN CARLOS V\u00c1ZQUEZ G\u00d3MEZ",
+        "JUAN MANUEL GARC\u00cdA OSNAYA",
+        "CARLOS ALBERTO MORALES SU\u00c1REZ"
+    ],
+    "holders": [
+        69843
+    ],
+    "ipcCodes": [
+        "G06Q 10/08",
+        "G05D 1/02",
+        "B62D 63/02",
+        "B25J 5/00"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 20 2017 020244-0",
+    "filingDate": "21/09/2017",
+    "grantDate": null,
+    "title": "BASE DE CAIXA DE EMENDAS DE CABOS",
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        }
+    ],
+    "inventors": [
+        "VALCIR FABRIS"
+    ],
+    "holders": [
+        26085,
+        11839
+    ],
+    "ipcCodes": [
+        "G02B 6/44",
+        "G02B 6/38"
+    ]
+}

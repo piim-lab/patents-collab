@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2021 002888-2",
+    "filingDate": "17/02/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE CLASSIFICA\u00c7\u00c3O DE USO DO SOLO EM IMAGENS DE SAT\u00c9LITE E EXTRA\u00c7\u00c3O DE REDES HIDROGR\u00c1FICAS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "25.11",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "PEDRO MALLMANN",
+        "ADRIANO FARIAS DULZ",
+        "FRANCISCO CARUSO GOMES J\u00daNIOR",
+        "HENRIQUE DOS SANTOS DELABARY",
+        "M\u00c1RCIO LUCIANO DE VARGAS GODOY",
+        "ROBSON SANTOS DA ROSA"
+    ],
+    "holders": [
+        4407,
+        65599
+    ],
+    "ipcCodes": [
+        "G06K 9/00",
+        "G06K 9/62",
+        "G06N 20/00"
+    ]
+}

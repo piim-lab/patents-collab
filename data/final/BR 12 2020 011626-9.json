@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2020 011626-9",
+    "filingDate": "12/04/2006",
+    "grantDate": "19/01/2021",
+    "title": "PROCESSO PARA PREPARAR 5-(4-[4-(5-CIANO-3-INDOLIL)BUTIL]-1-PIPERAZINIL)BENZOFURAN-2-CARBOXA-MIDA OU SEU SAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2005 019 670.5",
+            "priorityDate": "26/04/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/04/2006",
+        "applicationNumber": "PI 0610336-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "ANDREAS BATHE"
+    ],
+    "holders": [
+        351605
+    ],
+    "ipcCodes": [
+        "C07D 405/14"
+    ]
+}

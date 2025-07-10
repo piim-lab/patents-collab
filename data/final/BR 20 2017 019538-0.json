@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 20 2017 019538-0",
+    "filingDate": "13/09/2017",
+    "grantDate": null,
+    "title": "SUPORTE PARA TESTES DE FLEX\u00c3O E RUPTURA COM L\u00c2MINAS REMOV\u00cdVEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "202016000095039",
+            "priorityDate": "22/09/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "GABBRIELLI FRANCO"
+    ],
+    "holders": [
+        12709
+    ],
+    "ipcCodes": [
+        "G01N 3/08"
+    ]
+}

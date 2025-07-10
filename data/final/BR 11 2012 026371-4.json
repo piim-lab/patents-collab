@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2012 026371-4",
+    "filingDate": "01/04/2011",
+    "grantDate": null,
+    "title": "DISPOSITIVO EMISSOR DE LUZ E M\u00c9TODO PARA A SUA FABRICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2010-094717",
+            "priorityDate": "16/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        }
+    ],
+    "inventors": [
+        "HARUAKI SASANO"
+    ],
+    "holders": [
+        5000
+    ],
+    "ipcCodes": [
+        "H01L 33/62",
+        "H01L 33/60"
+    ]
+}

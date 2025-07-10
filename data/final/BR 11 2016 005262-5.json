@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 11 2016 005262-5",
+    "filingDate": "05/09/2014",
+    "grantDate": null,
+    "title": "ARIL \u00c9TERES E USO DOS MESMOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/875,674",
+            "priorityDate": "09/09/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/978,421",
+            "priorityDate": "11/04/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "28.10.12",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de tecnologia para tratamento de sa\u00fade",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "28.22",
+            "description": "Requerimento de tr\u00e2mite priorit\u00e1rio encaminhado para confirma\u00e7\u00e3o tecnol\u00f3gica.",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "DIXON DARRYL DAVID",
+        "GRINA JONAS",
+        "JOSEY JOHN A",
+        "RIZZI JAMES P",
+        "SCHLACHTER STEPHEN T",
+        "WALLACE ELI M",
+        "WANG BIN",
+        "WEHN PAUL",
+        "XU RUI",
+        "YANG HANBIAO"
+    ],
+    "holders": [
+        171203
+    ],
+    "ipcCodes": [
+        "A61K 31/085"
+    ]
+}

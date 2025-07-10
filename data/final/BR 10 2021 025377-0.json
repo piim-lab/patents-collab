@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2021 025377-0",
+    "filingDate": "16/12/2021",
+    "grantDate": null,
+    "title": "PROCESSO PARA REGENERA\u00c7\u00c3O DE CATALISADORES DE HIDROGENA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20215552.9",
+            "priorityDate": "18/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "JOHAN ANTON",
+        "MICHAEL GRASS",
+        "JOHANNES KRAFT",
+        "THOMAS SCHNEIDER",
+        "GRZEGORZ ZIOMEK"
+    ],
+    "holders": [
+        962
+    ],
+    "ipcCodes": [
+        "B01J 35/00",
+        "B01J 21/06",
+        "B01J 38/02",
+        "B01J 23/94",
+        "B01J 23/46",
+        "B01J 38/12",
+        "C07C 69/75",
+        "B01J 23/96",
+        "B01J 38/04",
+        "C07C 67/303"
+    ]
+}

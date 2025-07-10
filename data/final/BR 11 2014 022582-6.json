@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2014 022582-6",
+    "filingDate": "14/03/2013",
+    "grantDate": null,
+    "title": "Dispositivo de agulha de seguran\u00e7a",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/610,576",
+            "priorityDate": "14/03/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/793,831",
+            "priorityDate": "11/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2637"
+        }
+    ],
+    "inventors": [
+        "ANDREW WONG",
+        "MATTHEW ZACHEK",
+        "ANDREW WONG",
+        "THOMAS C KURACINA",
+        "TIM L KITCHEN"
+    ],
+    "holders": [
+        79552,
+        122236
+    ],
+    "ipcCodes": [
+        "A61M 5/00",
+        "A61M 25/06",
+        "A61M 5/32",
+        "A61M 5/178",
+        "A61B 5/15",
+        "A61M 25/09"
+    ]
+}

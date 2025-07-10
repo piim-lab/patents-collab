@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 001138-7",
+    "filingDate": "21/04/2015",
+    "grantDate": "06/12/2022",
+    "title": "PINO DE COXIM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-171317",
+            "priorityDate": "26/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "ATSUSHI FUJIHIRA",
+        "TAKUMI MATSUZAWA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "B21D 24/02"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2012 023390-4",
+    "filingDate": "08/03/2011",
+    "grantDate": "19/11/2019",
+    "title": "DISPOSITIVO PARA A AERA\u00c7\u00c3O DE UMA SUSPENS\u00c3O MANTIDA EM UM TANQUE DE TRATAMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 002 959.9",
+            "priorityDate": "17/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "MARCUS H\u00d6FKEN"
+    ],
+    "holders": [
+        85353
+    ],
+    "ipcCodes": [
+        "B01F 3/04",
+        "C02F 3/20"
+    ]
+}

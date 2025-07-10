@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 008302-3",
+    "filingDate": "25/04/2018",
+    "grantDate": null,
+    "title": "SAPATA COLETORA DE CORRENTE COM RETRA\u00c7\u00c3O R\u00c1PIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1753588",
+            "priorityDate": "25/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "PATRICK DUPRAT",
+        "LEONARDO FORMENTI"
+    ],
+    "holders": [
+        389
+    ],
+    "ipcCodes": [
+        "B60M 1/36",
+        "B60L 5/04"
+    ]
+}

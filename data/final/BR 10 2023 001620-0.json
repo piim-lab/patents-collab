@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2023 001620-0",
+    "filingDate": "27/01/2023",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA MONITORAR UMA SONDA TRANSPORTADA POR VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202241006327",
+            "priorityDate": "07/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "RAMESHKUMAR BALASUBRAMANIAN",
+        "CAL ROESKE"
+    ],
+    "holders": [
+        1331
+    ],
+    "ipcCodes": [
+        "B64F 5/60"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2017 002044-7",
+    "filingDate": "04/12/2013",
+    "grantDate": null,
+    "title": "SUPERAMOSTRAGEM DE ALTA PRECIS\u00c3O EM CODIFIFICA\u00c7\u00c3O ESCAL\u00c1VEL DE V\u00cdDEO DE ALTA INTENSIDADE DE BITS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/745,050",
+            "priorityDate": "21/12/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/12/2013",
+        "applicationNumber": "BR 11 2015 014277-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "PENG YIN",
+        "TAORAN LU",
+        "TAO CHEN"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "H04N 19/80",
+        "H04N 19/33"
+    ]
+}

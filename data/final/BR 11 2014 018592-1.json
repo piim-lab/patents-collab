@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2014 018592-1",
+    "filingDate": "25/01/2013",
+    "grantDate": null,
+    "title": "ANTICORPO MONOCLONAL ISOLADO QUE SE LIGA \u00c0 MOL\u00c9CULA DE ORIENTA\u00c7\u00c3O REPULSIVA A (RGMa)",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/591,324",
+            "priorityDate": "27/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2671"
+        }
+    ],
+    "inventors": [
+        "BERNHARD MUELLER",
+        "LILI HUANG",
+        "PHILIP D BARDWELL",
+        "YULIYA KUTSKOVA",
+        "JOHN MEMMOTT"
+    ],
+    "holders": [
+        12773,
+        118478
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "C07K 16/28"
+    ]
+}

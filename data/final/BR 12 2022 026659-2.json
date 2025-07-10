@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2022 026659-2",
+    "filingDate": "17/03/2014",
+    "grantDate": "16/05/2023",
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE 4 AMINO-1-((1S,4R,5S)-2-FLUORO-4,5-DI-HIDR\u00d3XI-3-(HIDROXIMETIL)-CICLOPENT-2-EN-1-IL)-PIRIMIDIN-2(1H)-ONA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/800,475",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/03/2014",
+        "applicationNumber": "BR 11 2015 023591-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2794"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "HAIFENG YIN",
+        "DEOG JOONG KIM",
+        "ELIEZER FALB",
+        "LEIGH ANDRE PEARCEY",
+        "JONATHAN CUMMINS",
+        "PETRA DIETERICH",
+        "FRANCOIS CARNIAUX",
+        "YI WANG",
+        "VIKRAIN CHANDRAKANT PUROHIT"
+    ],
+    "holders": [
+        163468
+    ],
+    "ipcCodes": [
+        "C07D 239/47",
+        "A61K 31/513"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "applicationNumber": "BR 11 2013 015745-3",
+    "filingDate": "02/12/2011",
+    "grantDate": null,
+    "title": "POLINUCLEOT\u00cdDEOS REFERENTE AO EVENTO DE TOLER\u00c2NCIA A HERBICIDA 8291.45.36.2, CASSETE DE EXPRESS\u00c3O, SONDA, BEM COMO PROCESSOS PARA IDENTIFICA\u00c7\u00c3O DO EVENTO, DETERMINA\u00c7\u00c3O DA ZIGOSIDADE, PRODU\u00c7\u00c3O DE UMA PLANTA DE SOJA TRANSG\u00caNICA E PRODU\u00c7\u00c3O DE UMA PROTE\u00cdNA EM UMA C\u00c9LULA DE PLANTA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/419,709",
+            "priorityDate": "03/12/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/471,845",
+            "priorityDate": "05/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/511,664",
+            "priorityDate": "26/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/521,798",
+            "priorityDate": "10/08/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "YUNXING CUI",
+        "THOM HOFFMAN",
+        "NING ZHOU",
+        "STEPHEN N NOVAK",
+        "JULISSA COLON",
+        "DAWN PARKHURST",
+        "SANDRA TOLEDO",
+        "TERRY WRIGHT",
+        "SEAN RUSSELL",
+        "BRUCE HELD",
+        "VAITHILINGAM SEKAR"
+    ],
+    "holders": [
+        60,
+        2548
+    ],
+    "ipcCodes": [
+        "A01H 5/00",
+        "C07H 21/04"
+    ]
+}

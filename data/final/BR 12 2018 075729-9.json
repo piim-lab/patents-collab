@@ -1,0 +1,84 @@
+{
+    "applicationNumber": "BR 12 2018 075729-9",
+    "filingDate": "15/01/2003",
+    "grantDate": "11/02/2020",
+    "title": "FLAVIV\u00cdRUS NA PREPARA\u00c7\u00c3O DE UMA COMPOSI\u00c7\u00c3O DE VACINA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/348,949",
+            "priorityDate": "15/01/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/385,281",
+            "priorityDate": "31/05/2002"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/01/2003",
+        "applicationNumber": "PI 0306905-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "21.1",
+            "description": "Extin\u00e7\u00e3o - Art. 78 inciso I da LPI",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "THOMAS P MONATH",
+        "FARSHAD GUIRAKHOO",
+        "JUAN ARROYO",
+        "KONSTANTIN V PUGACHEV"
+    ],
+    "holders": [
+        350694
+    ],
+    "ipcCodes": [
+        "A61K 39/12",
+        "C12N 7/02",
+        "C12N 7/04",
+        "A61K 39/295"
+    ]
+}

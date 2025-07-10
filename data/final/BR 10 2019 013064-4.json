@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 013064-4",
+    "filingDate": "24/06/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2018-142733",
+            "priorityDate": "30/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2780"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2796"
+        }
+    ],
+    "inventors": [
+        "HAYATO NAKADA",
+        "TAKESHI SANO",
+        "SAHIN KURUTEPE",
+        "EMRAH ISBILEN"
+    ],
+    "holders": [
+        172284,
+        5783
+    ],
+    "ipcCodes": [
+        "F17C 13/02",
+        "F17C 5/00",
+        "G01N 21/90"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2022 005718-7",
+    "filingDate": "04/09/2013",
+    "grantDate": null,
+    "title": "MOL\u00c9CULA DE \u00c1CIDO NUCLEICO, CASSETE DE EXPRESS\u00c3O, VETOR E C\u00c9LULA HOSPEDEIRA",
+    "divisionalApplication": {
+        "filingDate": "04/09/2013",
+        "applicationNumber": "BR 11 2015 004696-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        80096
+    ],
+    "ipcCodes": []
+}

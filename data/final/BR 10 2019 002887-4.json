@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 002887-4",
+    "filingDate": "12/02/2019",
+    "grantDate": null,
+    "title": "SISTEMA CONFIGURADO PARA MONITORAR A TEMPERATURA EM UMA PLURALIDADE DE ZONAS DE UMA AERONAVE, M\u00c9TODO DE SINCRONIZA\u00c7\u00c3O ESPACIAL DE UMA S\u00c9RIE DE SENSORES DISPOSTOS EM UMA FIBRA \u00d3PTICA EM UM SISTEMA, E, SISTEMA DE DETEC\u00c7\u00c3O DE SUPERAQUECIMENTO.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/913696",
+            "priorityDate": "06/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2511"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "MARK SHERWOOD MILLER"
+    ],
+    "holders": [
+        1798
+    ],
+    "ipcCodes": [
+        "G01K 11/32",
+        "B64D 45/00"
+    ]
+}

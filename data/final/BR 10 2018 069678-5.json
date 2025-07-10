@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 069678-5",
+    "filingDate": "26/09/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE COMPUTA\u00c7\u00c3O, E, M\u00c9TODO IMPLEMENTADO POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/819589",
+            "priorityDate": "21/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [
+        "MICHAEL G KEAN",
+        "GIOVANNI A WUISAN",
+        "LEAH B LEFFLER",
+        "WILLIAM W STAIDL"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G05B 19/418",
+        "F04B 49/06"
+    ]
+}

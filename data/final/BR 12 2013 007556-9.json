@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2013 007556-9",
+    "filingDate": "20/05/2010",
+    "grantDate": null,
+    "title": "COMPOSTOS DE FOSFORAMIDATOS DE NUCLEOS\u00cdDEO E PROCESSOS PARA PREPARA\u00c7\u00c3O DESTES COMPOSTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/179,923",
+            "priorityDate": "20/05/2009"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/319,513",
+            "priorityDate": "31/03/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/05/2010",
+        "applicationNumber": "PI 1012781-0"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "136",
+            "description": "Peti\u00e7\u00e3o n\u00e3o Conhecida",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2551"
+        }
+    ],
+    "inventors": [
+        "BRUCE ROSS",
+        "PEIYUAN WANG",
+        "KWON CHUN",
+        "REN ZHANG",
+        "SUGUNA RACHAKONDA",
+        "GANAPATI REDDY PAMULAPATI",
+        "MICHAEL J SOFIA"
+    ],
+    "holders": [
+        100280
+    ],
+    "ipcCodes": [
+        "A61P 31/14",
+        "A61K 31/7072",
+        "C07H 19/073",
+        "C07H 19/10"
+    ]
+}

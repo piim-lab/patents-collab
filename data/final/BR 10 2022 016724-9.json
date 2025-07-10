@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 016724-9",
+    "filingDate": "22/08/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE DOSAGEM PARA MATERIAIS A GRANEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 005 028.2",
+            "priorityDate": "05/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "GEROLD M\u00dcLLER",
+        "ANDREAS STEINKE"
+    ],
+    "holders": [
+        76594
+    ],
+    "ipcCodes": [
+        "B65G 47/16"
+    ]
+}

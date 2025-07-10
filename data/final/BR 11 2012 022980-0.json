@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 022980-0",
+    "filingDate": "10/03/2011",
+    "grantDate": null,
+    "title": "CONECTOR DE ACESSO SEM AGULHA COM DESLOCAMENTO POSITIVO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/730,961",
+            "priorityDate": "24/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2611"
+        }
+    ],
+    "inventors": [
+        "GEORGE M MANSOUR"
+    ],
+    "holders": [
+        79497
+    ],
+    "ipcCodes": [
+        "A61M 39/10",
+        "A61M 39/04",
+        "A61M 39/22"
+    ]
+}

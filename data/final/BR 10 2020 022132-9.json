@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2020 022132-9",
+    "filingDate": "29/10/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE ESCAVA\u00c7\u00c3O DE LAN\u00c7A ARTICULADA INTELIGENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/744,386",
+            "priorityDate": "16/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2758"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "TODD F VELDE",
+        "ZACHARY RITCHIE",
+        "HARRY K VOELP IV"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "E02F 3/43"
+    ]
+}

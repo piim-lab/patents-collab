@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2016 010785-3",
+    "filingDate": "11/11/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE OPERA\u00c7\u00c3O DE UMA INSTALA\u00c7\u00c3O PROJETADA PARA REALIZA\u00c7\u00c3O DE PELO MENOS UMA REA\u00c7\u00c3O QU\u00cdMICA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13193132.1",
+            "priorityDate": "15/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        }
+    ],
+    "inventors": [
+        "NICOLAI KRASBERG",
+        "LUKAS HOHMANN"
+    ],
+    "holders": [
+        140083
+    ],
+    "ipcCodes": [
+        "G05B 13/02"
+    ]
+}

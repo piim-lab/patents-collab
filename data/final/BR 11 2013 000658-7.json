@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 11 2013 000658-7",
+    "filingDate": "08/07/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE OPERA\u00c7\u00c3O DE UM DISPOSITIVO M\u00d3VEL, MEIOS LEG\u00cdVEIS POR COMPUTADOR E APARELHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/363,142",
+            "priorityDate": "09/07/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/940,913",
+            "priorityDate": "05/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "SHAMIK BANDYOPADHYAY",
+        "DONALD A BARNETT",
+        "VIKRAM KAPOOR",
+        "VERONICA Y LAW",
+        "KATHRYN C LEMSON",
+        "TIRTHANKAR SENGUPTA",
+        "DIVYA TYAMAGUNDLU",
+        "AHMAD BILAL"
+    ],
+    "holders": [
+        79547
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "G06F 3/01",
+        "G06F 1/16",
+        "G06F 3/0484",
+        "H04W 12/06",
+        "G06K 9/00",
+        "G06F 1/32",
+        "G06F 3/0488",
+        "H04W 88/02",
+        "G06F 21/62",
+        "H04N 5/232",
+        "H04N 7/18",
+        "H04M 1/725",
+        "G06F 3/0481",
+        "G06F 21/36",
+        "G06F 21/31",
+        "H04N 5/225"
+    ]
+}

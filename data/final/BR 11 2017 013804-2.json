@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2017 013804-2",
+    "filingDate": "29/12/2015",
+    "grantDate": null,
+    "title": "DISPOSITIVO E PROCESSO DE TRIAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "PCT/EP2014/079478",
+            "priorityDate": "30/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "EMMANUEL ROTH"
+    ],
+    "holders": [
+        36755
+    ],
+    "ipcCodes": [
+        "B65G 47/14",
+        "B65G 47/57"
+    ]
+}

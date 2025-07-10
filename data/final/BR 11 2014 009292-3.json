@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2014 009292-3",
+    "filingDate": "18/10/2012",
+    "grantDate": null,
+    "title": "PROCESSO PARA  A PREPARA\u00c7\u00c3O DE FIBRAS",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2011904299",
+            "priorityDate": "18/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        }
+    ],
+    "inventors": [
+        "ALESSADRA SUTTI",
+        "TONG LIN",
+        "MARK ALEXANDER KIRKLAND"
+    ],
+    "holders": [
+        135202
+    ],
+    "ipcCodes": [
+        "D01F 1/00",
+        "D01F 2/00",
+        "D01D 5/40",
+        "D01D 5/06",
+        "D01F 6/00",
+        "D01D 5/26"
+    ]
+}

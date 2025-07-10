@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2014 004409-4",
+    "filingDate": "25/02/2014",
+    "grantDate": null,
+    "title": "PROCESSO E APARELHO DE MOLDAGEM POR SOPRO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102013203085.1",
+            "priorityDate": "25/02/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/134,607",
+            "priorityDate": "19/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        }
+    ],
+    "inventors": [
+        "ALBERT J BOECKER",
+        "ANDREAS W DOBMAIER",
+        "ALEX EHLER",
+        "PATRICK GMUEND",
+        "PETER GRAUER",
+        "GERRIT A MICHAELIS",
+        "MATTHIAS B OLBRICH",
+        "ALBERT J BOECKER",
+        "ANDREAS W DOBMAIER",
+        "ALEX EHLER",
+        "PATRICK GMUEND",
+        "PETER GRAUER",
+        "GERRIT A MICHAELIS",
+        "MATTHIAS B OLBRICH"
+    ],
+    "holders": [
+        5470
+    ],
+    "ipcCodes": [
+        "B29C 49/56",
+        "B60K 15/03",
+        "B29C 49/04",
+        "B29D 22/00"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 13 2021 004301-5",
+    "filingDate": "08/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA AQUECIMENTO DE UM MATERIAL ATRAV\u00c9S DE MICRO-ONDAS",
+    "parentApplication": {
+        "filingDate": "17/06/2020",
+        "applicationNumber": "BR 10 2020 012185-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "MAURO FUMIO YAMAMOTO",
+        "PEDRO PORTO SILVA CAVALCANTI",
+        "FERNANDO OLIVEIRA BOECHAT",
+        "REGINALDO ELIAS DA SILVA",
+        "LEONARDO RODRIGUES VENTURA",
+        "EDVANDRO REZENDE RODRIGUES J\u00daNIOR",
+        "THAILLI CONTE"
+    ],
+    "holders": [
+        59314
+    ],
+    "ipcCodes": [
+        "H05B 6/64",
+        "H05B 6/78"
+    ]
+}

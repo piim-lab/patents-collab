@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 12 2022 000531-4",
+    "filingDate": "09/07/2013",
+    "grantDate": null,
+    "title": "CEPA MUTANTE DE MHYO, VACINA E KIT DE VACINA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12382277.7",
+            "priorityDate": "10/07/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/07/2013",
+        "applicationNumber": "BR 11 2015 000585-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "LUIS GONZALEZ GONZALEZ",
+        "JAUME PI\u00d1OL RIBAS",
+        "JORDI MONTANE GIRALT",
+        "MARIA CAMATS MALET",
+        "ENRIQUE QUEROL MURILLO",
+        "MARTA SITJA ARNAU"
+    ],
+    "holders": [
+        149738
+    ],
+    "ipcCodes": [
+        "C12N 15/74",
+        "A61K 39/02",
+        "C12R 1/35"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2020 003628-5",
+    "filingDate": "20/09/2018",
+    "grantDate": null,
+    "title": "ANTICORPO ANTI-PACAP",
+    "nationalPhaseDate": [
+        "20/02/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/051898",
+        "pctDate": "20/09/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/565,278",
+            "priorityDate": "29/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        }
+    ],
+    "inventors": [
+        "CATHERINE BRAUTIGAM BEIDLER",
+        "MICHAEL PARVIN JOHNSON",
+        "CHETANKUMAR NATVARLAL PATEL"
+    ],
+    "holders": [
+        87687
+    ],
+    "ipcCodes": [
+        "C07K 16/18",
+        "A61K 39/00",
+        "C07K 16/44"
+    ]
+}

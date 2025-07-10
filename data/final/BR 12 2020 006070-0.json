@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2020 006070-0",
+    "filingDate": "07/11/2014",
+    "grantDate": null,
+    "title": "DERIVADOS DE N-ACETIL-L-CISTE\u00cdNA SUBSTITU\u00cdDOS E COMPOSTOS RELACIONADOS",
+    "divisionalApplication": {
+        "filingDate": "07/11/2014",
+        "applicationNumber": "BR 11 2016 010446-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        351853
+    ],
+    "ipcCodes": []
+}

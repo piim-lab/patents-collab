@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2018 070247-8",
+    "filingDate": "25/03/2008",
+    "grantDate": null,
+    "title": "REMODELADOR AJUST\u00c1VEL",
+    "divisionalApplication": {
+        "filingDate": "25/03/2008",
+        "applicationNumber": "PI 0801486-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "100.1",
+            "description": "Recurso conhecido e provido. Reformada a decis\u00e3o recorrida e deferido o pedido.",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "LINDSAY G MERRITHEW",
+        "MOIRA M MERRITHEW",
+        "VIRAL BHATT",
+        "CARLOS BAEZ"
+    ],
+    "holders": [
+        351284
+    ],
+    "ipcCodes": [
+        "A61H 1/02",
+        "A63B 23/00",
+        "A63B 21/00"
+    ]
+}

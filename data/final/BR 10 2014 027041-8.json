@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2014 027041-8",
+    "filingDate": "29/10/2014",
+    "grantDate": "17/02/2021",
+    "title": "Sistema de controle de temperatura",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/066,282",
+            "priorityDate": "29/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2617"
+        }
+    ],
+    "inventors": [
+        "HER YANG"
+    ],
+    "holders": [
+        53
+    ],
+    "ipcCodes": [
+        "F25B 1/00",
+        "F28F 27/02",
+        "H01L 23/473",
+        "G05D 23/20"
+    ]
+}

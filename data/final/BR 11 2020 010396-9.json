@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2020 010396-9",
+    "filingDate": "27/11/2018",
+    "grantDate": null,
+    "title": "MICROC\u00c1PSULAS N\u00c3O ESF\u00c9RICA, PROCESSO DE PREPARA\u00c7\u00c3O DA MICROC\u00c1PSULA E COMPOSI\u00c7\u00c3O DE CUIDADOS PESSOAIS OU DOM\u00c9STICOS",
+    "nationalPhaseDate": [
+        "25/05/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2018/082683",
+        "pctDate": "27/11/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2017/119827",
+            "priorityDate": "29/12/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18156844.5",
+            "priorityDate": "15/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "HUAJIN JIN",
+        "XIAOYUN PAN"
+    ],
+    "holders": [
+        82156
+    ],
+    "ipcCodes": [
+        "A61K 8/11",
+        "A61K 8/37",
+        "A61K 8/02",
+        "C11D 17/00",
+        "C11D 3/50",
+        "C11D 3/20",
+        "C11D 7/26"
+    ]
+}

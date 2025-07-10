@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 10 2018 004086-3",
+    "filingDate": "28/02/2018",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA RASTREAMENTO DE FOCO APRIMORADO USANDO ESTRUTURAS DE BLOQUEIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/468,355",
+            "priorityDate": "07/03/2017"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "N2018854",
+            "priorityDate": "05/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "15.50",
+            "description": "Notifica\u00e7\u00e3o de dep\u00f3sito de um pedido dividido",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "DANILO CONDELLO",
+        "SIMON PRINCE",
+        "DAVID HARGIS",
+        "JOHN OSHAUHNESSY",
+        "WILLIAM BUTTERFIELD",
+        "JEFFREY BENDICK",
+        "PETER CLARKE NEWMAN"
+    ],
+    "holders": [
+        36618
+    ],
+    "ipcCodes": [
+        "G02B 21/00"
+    ]
+}

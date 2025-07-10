@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2013 014846-2",
+    "filingDate": "18/04/2011",
+    "grantDate": "26/12/2018",
+    "title": "PROCESSO PARA PRODUZIR TIRAS DE MACARR\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-033625",
+            "priorityDate": "18/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2640"
+        }
+    ],
+    "inventors": [
+        "YOSHIAKI NAGAYAMA"
+    ],
+    "holders": [
+        109690
+    ],
+    "ipcCodes": [
+        "A23L 7/113",
+        "A21C 11/22"
+    ]
+}

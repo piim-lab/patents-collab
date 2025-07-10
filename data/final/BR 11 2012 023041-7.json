@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2012 023041-7",
+    "filingDate": "14/03/2011",
+    "grantDate": "17/12/2019",
+    "title": "PROCESSO PARA PRODUZIR HIDROG\u00caNIO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/314218",
+            "priorityDate": "16/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "CHANG JIE GUO",
+        "MAHESH VENKATARAMAN IYER",
+        "CHANG JIE GUO",
+        "MAHESH VENKATARAMAN IYER"
+    ],
+    "holders": [
+        13060
+    ],
+    "ipcCodes": []
+}

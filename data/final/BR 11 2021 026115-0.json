@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2021 026115-0",
+    "filingDate": "19/11/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RELAXAMENTO DE MEDI\u00c7\u00c3O, EQUIPAMENTO DE USU\u00c1RIO E DISPOSITIVO DE LADO DE REDE",
+    "nationalPhaseDate": [
+        "22/12/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2020/130247",
+        "pctDate": "19/11/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/937,766",
+            "priorityDate": "19/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2767"
+        }
+    ],
+    "inventors": [
+        "HAITAO LI",
+        "CONG SHI"
+    ],
+    "holders": [
+        79352
+    ],
+    "ipcCodes": [
+        "H04W 52/02"
+    ]
+}

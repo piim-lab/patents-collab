@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2022 009886-0",
+    "filingDate": "16/03/2017",
+    "grantDate": "17/01/2023",
+    "title": "M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE UM PRODUTO DE CELULOSE, APARELHO DE FORMA\u00c7\u00c3O DE PRODUTO DE CELULOSE, E, PRODUTO DE CELULOSE",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1630058-4",
+            "priorityDate": "18/03/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/03/2017",
+        "applicationNumber": "BR 11 2018 068720-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2721"
+        }
+    ],
+    "inventors": [
+        "OVE LARSSON",
+        "LINUS LARSSON",
+        "OVE LARSSON",
+        "LINUS LARSSON"
+    ],
+    "holders": [
+        224339
+    ],
+    "ipcCodes": [
+        "B29C 51/42",
+        "B31B 50/59",
+        "B65B 43/08"
+    ]
+}

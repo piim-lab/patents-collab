@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 12 2019 017005-3",
+    "filingDate": "20/04/2012",
+    "grantDate": "29/03/2022",
+    "title": "COMPOSI\u00c7\u00d5ES QUE SE RELACIONAM A UMA TOXINA DE CLOSTRIDIUM DIFFICILE MUTANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/478,474",
+            "priorityDate": "22/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/478,899",
+            "priorityDate": "25/04/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/04/2012",
+        "applicationNumber": "BR 11 2013 027229-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1.2",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2742"
+        }
+    ],
+    "inventors": [
+        "MANINDER K SIDHU",
+        "ANNALIESA SYBIL ANDERSON",
+        "ROBERT GK DONALD",
+        "KATHRIN UTE JANSEN",
+        "NARENDER K KALYAN",
+        "TERRI L MININNI",
+        "JUSTIN KEITH MORAN",
+        "MARK E RUPPEN",
+        "MICHAEL JAMES FLINT"
+    ],
+    "holders": [
+        87326
+    ],
+    "ipcCodes": [
+        "C07K 16/12",
+        "C07K 14/33",
+        "A61K 39/08"
+    ]
+}

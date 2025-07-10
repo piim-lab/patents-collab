@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2017 025787-8",
+    "filingDate": "30/11/2017",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE EXIBI\u00c7\u00c3O VEICULAR E M\u00c9TODO DE EXIBI\u00c7\u00c3O EM DISPOSITIVO DE EXIBI\u00c7\u00c3O VEICULAR",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-252022",
+            "priorityDate": "26/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "KOICHI MASAMURA",
+        "KOJI AIKAWA"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "B60K 35/00",
+        "G06F 3/0484",
+        "G06F 3/0482"
+    ]
+}

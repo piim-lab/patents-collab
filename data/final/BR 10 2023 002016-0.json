@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2023 002016-0",
+    "filingDate": "02/02/2023",
+    "grantDate": null,
+    "title": "BATENTE DE ABERTURA CONTROL\u00c1VEL, M\u00d3DULO DE C\u00c2MERA COMPACTA E DISPOSITIVO ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "111107076",
+            "priorityDate": "25/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "HAO JAN CHEN",
+        "YU CHEN LAI"
+    ],
+    "holders": [
+        42378
+    ],
+    "ipcCodes": [
+        "G02B 13/00",
+        "G02B 15/00",
+        "G03B 19/00"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 11 2013 010767-7",
+    "filingDate": "01/07/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PREPARA\u00c7\u00c3O DE UM FILTRO DE PARTICULADO CATALISADO E FILTRO DE PARTICULADO CATALISADO",
+    "nationalPhaseDate": [
+        "30/04/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2011/003258",
+        "pctDate": "01/07/2011",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 00991",
+            "priorityDate": "02/11/2010"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2010 01111",
+            "priorityDate": "09/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        }
+    ],
+    "inventors": [
+        "KELD JOHANSEN"
+    ],
+    "holders": [
+        95077
+    ],
+    "ipcCodes": [
+        "B01D 53/94",
+        "B01J 23/44",
+        "B01J 35/02",
+        "B01J 37/02",
+        "B01J 35/00",
+        "B01J 37/00",
+        "F01N 3/035",
+        "B01J 29/76",
+        "B01J 29/85",
+        "B01J 37/025"
+    ]
+}

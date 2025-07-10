@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2018 068204-0",
+    "filingDate": "10/09/2018",
+    "grantDate": null,
+    "title": "FITA ADESIVA E MATERIAL EM FOLHA PLANO COM UMA FITA ADESIVA DESSE TIPO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 217 094.8",
+            "priorityDate": "26/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "NIELS CZERWONATIS",
+        "MARCO WALPER"
+    ],
+    "holders": [
+        41622
+    ],
+    "ipcCodes": [
+        "C09J 7/20",
+        "B65H 19/18",
+        "C09J 7/30",
+        "C09J 7/40"
+    ]
+}

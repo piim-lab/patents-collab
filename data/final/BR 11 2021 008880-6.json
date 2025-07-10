@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2021 008880-6",
+    "filingDate": "07/11/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA DETERMINAR UMA PROBABILIDADE DE UM VALOR DE GLICOSE NO SANGUE PARA UM PACIENTE QUE EST\u00c1 EM UMA FAIXA ADVERSA DE GLICOSE NO SANGUE EM UM MOMENTO DE PREDI\u00c7\u00c3O E PRODUTO DE PROGRAMA DE COMPUTADOR",
+    "nationalPhaseDate": [
+        "06/05/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/080486",
+        "pctDate": "07/11/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/756630",
+            "priorityDate": "07/11/2018"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18209230.4",
+            "priorityDate": "29/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2643"
+        }
+    ],
+    "inventors": [
+        "DAVID L DUKE",
+        "RAFAEL BANKOSEGGER",
+        "JAN WREDE"
+    ],
+    "holders": [
+        288778,
+        61582
+    ],
+    "ipcCodes": [
+        "G16H 50/30",
+        "G06K 9/62",
+        "G16H 50/20",
+        "G16H 50/70"
+    ]
+}

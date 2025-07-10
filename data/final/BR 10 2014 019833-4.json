@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 10 2014 019833-4",
+    "filingDate": "11/08/2014",
+    "grantDate": null,
+    "title": "DISPOSITIVO DISTRIBUIDOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102013013307.6",
+            "priorityDate": "12/08/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14001437.4",
+            "priorityDate": "22/04/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2474"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2533"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "11.14",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        }
+    ],
+    "inventors": [
+        "NORBERT RAUCH",
+        "FRANZ DOLL",
+        "THOMAS ZEITVOGEL"
+    ],
+    "holders": [
+        13280
+    ],
+    "ipcCodes": [
+        "A01C 15/12"
+    ]
+}

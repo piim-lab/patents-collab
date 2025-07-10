@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2019 004487-0",
+    "filingDate": "07/03/2019",
+    "grantDate": null,
+    "title": "CONJUNTO DO EIXO DE FOR\u00c7A",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/915,516",
+            "priorityDate": "08/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "HERBERT M FARLEY",
+        "JOSEPH R BEST",
+        "DAN L GARLAND"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "B62D 49/00",
+        "A63H 29/10"
+    ]
+}

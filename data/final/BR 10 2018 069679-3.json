@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 069679-3",
+    "filingDate": "26/09/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E ARRANJO DE CONTROLE PARA DESLOCAMENTO LATERAL DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "1751283-1",
+            "priorityDate": "16/10/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "JENNY ERIKSSON",
+        "JONNY ANDERSSON",
+        "JOSEPH AH",
+        "JOHANNES SLETTENGREN"
+    ],
+    "holders": [
+        312
+    ],
+    "ipcCodes": [
+        "B60W 30/12",
+        "B62D 6/00",
+        "G05D 1/02",
+        "B62D 15/00",
+        "B60W 10/20",
+        "B60W 40/103"
+    ]
+}

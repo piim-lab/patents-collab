@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2017 011049-0",
+    "filingDate": "03/12/2015",
+    "grantDate": null,
+    "title": "SISTEMA COMPREENDENDO UM INTERFER\u00d4METRO INSENS\u00cdVEL \u00c0 PRESS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/093,187",
+            "priorityDate": "17/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        }
+    ],
+    "inventors": [
+        "WILLARD WOMACK"
+    ],
+    "holders": [
+        87
+    ],
+    "ipcCodes": [
+        "G01L 1/24",
+        "G01L 11/02"
+    ]
+}

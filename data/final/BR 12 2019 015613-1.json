@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2019 015613-1",
+    "filingDate": "22/02/2017",
+    "grantDate": null,
+    "title": "PROCESSO PARA DISSOLU\u00c7\u00c3O MASSIVA DE GASES EM L\u00cdQUIDOS",
+    "divisionalApplication": {
+        "filingDate": "22/02/2017",
+        "applicationNumber": "BR 10 2017 003701-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        21754
+    ],
+    "ipcCodes": []
+}

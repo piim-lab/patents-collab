@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2012 015268-8",
+    "filingDate": "17/06/2011",
+    "grantDate": null,
+    "title": "PROJ\u00c9TIL",
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2604"
+        }
+    ],
+    "inventors": [
+        "PETER PICHLER",
+        "CHRISTIAN M\u00dcLLER",
+        "MARTIN EMSENHUBER",
+        "BERNHARD MAYER",
+        "FLORIAN SPANNER"
+    ],
+    "holders": [
+        169897,
+        93326,
+        179759
+    ],
+    "ipcCodes": [
+        "F42B 12/36",
+        "F42B 12/34"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 027798-8",
+    "filingDate": "28/05/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA UNIR DOIS OBJETOS, M\u00c1QUINA PARA EXECUTAR O M\u00c9TODO  E CONJUNTO",
+    "priorityClaims": [
+        {
+            "countryCode": "CH",
+            "priorityNumber": "00824/14",
+            "priorityDate": "28/05/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        }
+    ],
+    "inventors": [
+        "J\u00d6RG MAYER",
+        "MARIO LEHMANN",
+        "LAURENT TORRIANI"
+    ],
+    "holders": [
+        147913,
+        183390
+    ],
+    "ipcCodes": [
+        "F16B 5/00",
+        "B29C 65/56",
+        "B29C 65/64"
+    ]
+}

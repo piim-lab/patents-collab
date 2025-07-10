@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2018 012409-1",
+    "filingDate": "20/06/2011",
+    "grantDate": null,
+    "title": "COMPOSTO DE CARBOXAMIDA PARA CONTROLE DE DOEN\u00c7AS DE PLANTAS",
+    "divisionalApplication": {
+        "filingDate": "20/06/2011",
+        "applicationNumber": "BR 11 2012 033013-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        59
+    ],
+    "ipcCodes": []
+}

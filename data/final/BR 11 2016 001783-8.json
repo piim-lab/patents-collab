@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2016 001783-8",
+    "filingDate": "14/08/2014",
+    "grantDate": null,
+    "title": "COMPOSTOS COMO INIBIDORES DE MEK",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "2418/DEL/13",
+            "priorityDate": "14/08/2013"
+        },
+        {
+            "countryCode": "IN",
+            "priorityNumber": "1686/DEL/14",
+            "priorityDate": "24/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "MARK GARY BOCK",
+        "HENRIK MOEBITZ",
+        "SUNIL KUMAR PANIGRAHI",
+        "RAMULU PODDUTOORI",
+        "SUSANTA SAMAJDAR"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07D 471/04",
+        "A61K 31/437"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2014 029709-6",
+    "filingDate": "30/05/2013",
+    "grantDate": null,
+    "title": "COMPOSTO, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, COMBINA\u00c7\u00c3O, PRODUTO, E, USO DE UM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1209613.7",
+            "priorityDate": "30/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/653,081",
+            "priorityDate": "30/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/782,233",
+            "priorityDate": "14/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        }
+    ],
+    "inventors": [
+        "GORDON SAXTY",
+        "CHRISTOPHER CHARLES FREDERICK HAMLETT",
+        "VALERIO BERDINI",
+        "CHRISTOPHER WILLIAM MURRAY",
+        "PATRICK REN\u00c9 ANGIBAUD",
+        "OLIVIER ALEXIS GEORGES QUEROLLE",
+        "VIRGINIE SOPHIE PONCELET"
+    ],
+    "holders": [
+        102045
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/519",
+        "C07D 475/00"
+    ]
+}

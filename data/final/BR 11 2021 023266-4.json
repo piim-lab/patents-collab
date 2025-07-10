@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2021 023266-4",
+    "filingDate": "09/08/2019",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO DE DETEC\u00c7\u00c3O DE OBJETO NO FUNDO DO MAR",
+    "nationalPhaseDate": [
+        "19/11/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/045983",
+        "pctDate": "09/08/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/446,408",
+            "priorityDate": "19/06/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/446,411",
+            "priorityDate": "19/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "GRAHAM GILLOTT",
+        "TERENCE HIBBEN",
+        "GRAHAM GILLOTT",
+        "GRAHAM GILLOTT"
+    ],
+    "holders": [
+        155187
+    ],
+    "ipcCodes": [
+        "G01V 1/38"
+    ]
+}

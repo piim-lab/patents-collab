@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 017438-0",
+    "filingDate": "10/01/2011",
+    "grantDate": null,
+    "title": "M\u00e9todo para recuperar um solvente de um g\u00e1s de combust\u00e3o descarbonificado",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/294,971",
+            "priorityDate": "14/01/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/985,613",
+            "priorityDate": "06/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "MICHAEL W PONTBRIAND",
+        "BARATH BABURAO"
+    ],
+    "holders": [
+        4554
+    ],
+    "ipcCodes": [
+        "B01D 53/14",
+        "B01D 53/18"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2015 028177-0",
+    "filingDate": "07/05/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RENDERIZAR UM CONTE\u00daDO DE M\u00cdDIA E SISTEMA CORRELATO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13166886.5",
+            "priorityDate": "07/05/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2579"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "ADITEE ANIL PATHAK",
+        "PHILIPPE STRANSKY",
+        "GYANVEER SINGH"
+    ],
+    "holders": [
+        15529
+    ],
+    "ipcCodes": [
+        "H04W 12/06",
+        "H04L 29/08",
+        "H04W 4/18"
+    ]
+}

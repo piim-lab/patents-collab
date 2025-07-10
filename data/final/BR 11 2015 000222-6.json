@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2015 000222-6",
+    "filingDate": "08/07/2013",
+    "grantDate": "15/10/2019",
+    "title": "DESENVOLVIMENTO INTENSIFICADO DE UMA PLANTA.",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "PCT/CN2012/078274",
+            "priorityDate": "06/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2821"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "PENGFEI JI",
+        "GALDER CRISTOBAL"
+    ],
+    "holders": [
+        79480
+    ],
+    "ipcCodes": [
+        "A01P 21/00",
+        "A01N 25/26",
+        "A01C 1/06",
+        "A01N 43/32"
+    ]
+}

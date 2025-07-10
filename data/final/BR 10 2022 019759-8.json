@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2022 019759-8",
+    "filingDate": "29/09/2022",
+    "grantDate": null,
+    "title": "SERVOTRANSMISS\u00c3O, E, VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/265,731",
+            "priorityDate": "20/12/2021"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/647,541",
+            "priorityDate": "10/01/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "KEVIN B STAFSHOLT",
+        "ANDREW D DOSTAL",
+        "BENJAMIN E SHORES",
+        "BRETT D MCCLAIN",
+        "AJIT R BEHERA",
+        "AMBER R MISCHEL"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 71/06"
+    ]
+}

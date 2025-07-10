@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 022367-4",
+    "filingDate": "03/03/2011",
+    "grantDate": "14/01/2020",
+    "title": "DISPOSI\u00c7\u00c3O E M\u00c9TODO DE CONTROLE DE FLUXO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/718,510",
+            "priorityDate": "05/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "DANIEL NEWTON",
+        "YANG XU"
+    ],
+    "holders": [
+        2932
+    ],
+    "ipcCodes": [
+        "E21B 34/06",
+        "E21B 21/10"
+    ]
+}

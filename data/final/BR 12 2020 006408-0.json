@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2020 006408-0",
+    "filingDate": "28/03/2014",
+    "grantDate": null,
+    "title": "DOSE UNIT\u00c1RIA DE UNIDADES FORMADORAS DE COL\u00d4NIA DE C. NOVYI, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA E USO DE C. NOVYI NT PARA TRATAR OU ATENUAR UM EFEITO DE UM TUMOR S\u00d3LIDO PRESENTE EM UM SER HUMANO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/806,497",
+            "priorityDate": "29/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "28/03/2014",
+        "applicationNumber": "BR 11 2015 024621-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "SAURABH SAHA",
+        "SHIBIN ZHOU",
+        "BERT VOGELSTEIN",
+        "KENNETH W KINZLER"
+    ],
+    "holders": [
+        82297,
+        164004
+    ],
+    "ipcCodes": [
+        "A61K 35/66"
+    ]
+}

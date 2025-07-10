@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 12 2021 004504-6",
+    "filingDate": "12/03/2018",
+    "grantDate": null,
+    "title": "COMPOSTOS ANTIMICROBIANOS, BEM COMO SEUS USOS E SUA COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/470,025",
+            "priorityDate": "10/03/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/470,039",
+            "priorityDate": "10/03/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/03/2018",
+        "applicationNumber": "BR 11 2019 018615-8"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "STEVEN A KATES",
+        "RANDOLPH B SLEET",
+        "STEVEN PARKINSON"
+    ],
+    "holders": [
+        249994
+    ],
+    "ipcCodes": [
+        "A61P 31/04",
+        "A61K 31/6615",
+        "A01N 57/16"
+    ]
+}

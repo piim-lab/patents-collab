@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2016 001140-6",
+    "filingDate": "16/07/2014",
+    "grantDate": null,
+    "title": "APARELHO E M\u00c9TODO PARA CODIFICA\u00c7\u00c3O EFICIENTE DE METADADOS DE OBJETO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13177367.3",
+            "priorityDate": "22/07/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13177365.7",
+            "priorityDate": "22/07/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13177378.0",
+            "priorityDate": "22/07/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13189284.6",
+            "priorityDate": "18/10/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN BORSS",
+        "CHRISTIAN ERTEL"
+    ],
+    "holders": [
+        78782
+    ],
+    "ipcCodes": [
+        "G10L 19/008"
+    ]
+}

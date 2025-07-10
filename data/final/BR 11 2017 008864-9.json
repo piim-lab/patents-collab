@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2017 008864-9",
+    "filingDate": "13/11/2015",
+    "grantDate": "28/06/2022",
+    "title": "DISPOSITIVO ANTIFURTO DE COLUNA DE DIRE\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14307092.8",
+            "priorityDate": "18/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2758"
+        }
+    ],
+    "inventors": [
+        "RENAUD JULIEN"
+    ],
+    "holders": [
+        62904
+    ],
+    "ipcCodes": [
+        "B60R 25/021",
+        "H01H 27/06"
+    ]
+}

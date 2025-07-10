@@ -1,0 +1,91 @@
+{
+    "applicationNumber": "BR 12 2018 074176-7",
+    "filingDate": "27/11/2015",
+    "grantDate": null,
+    "title": "CARTUCHO QUE \u00c9 MONT\u00c1VEL A UM CONJUNTO PRINCIPAL DE APARELHO DE UM APARELHO FORMADOR DE IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-242578",
+            "priorityDate": "28/11/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-242577",
+            "priorityDate": "28/11/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-242601",
+            "priorityDate": "28/11/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-242602",
+            "priorityDate": "28/11/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-231356",
+            "priorityDate": "27/11/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/11/2015",
+        "applicationNumber": "BR 11 2017 011150-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2504"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2754"
+        }
+    ],
+    "inventors": [
+        "MASAAKI SATO",
+        "YUKIO KUBO",
+        "HIROYUKI MUNETSUGU",
+        "KOJI WADA"
+    ],
+    "holders": [
+        245
+    ],
+    "ipcCodes": [
+        "G03G 21/16"
+    ]
+}

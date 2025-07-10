@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2013 009849-0",
+    "filingDate": "27/07/2011",
+    "grantDate": null,
+    "title": "MAQUINA DE TRIC\u00d4, EM ESPECIAL, COM UM GRANDE CALIBRE",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2010A001974",
+            "priorityDate": "26/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        }
+    ],
+    "inventors": [
+        "ETTORE LONATI",
+        "FAUSTO LONATI",
+        "TIBERIO LONATI"
+    ],
+    "holders": [
+        113106
+    ],
+    "ipcCodes": [
+        "D04B 15/10",
+        "D04B 15/14",
+        "D04B 15/18"
+    ]
+}

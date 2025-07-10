@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2020 000330-5",
+    "filingDate": "07/01/2020",
+    "grantDate": null,
+    "title": "SUPORTE DE DESCARO\u00c7ADOR E SISTEMA PARA PROCESSAMENTO DE CARO\u00c7OS DE ALGOD\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16688484",
+            "priorityDate": "19/11/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "4.3",
+            "description": "Desarquivamento - Art. 33 par\u00e1grafo \u00fanico da LPI.",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2763"
+        }
+    ],
+    "inventors": [
+        "MARK DAVID CORY",
+        "HAROLD EUGENE DAVIS JR"
+    ],
+    "holders": [
+        42540
+    ],
+    "ipcCodes": [
+        "D01B 1/00",
+        "D01B 1/08",
+        "D01B 1/04"
+    ]
+}

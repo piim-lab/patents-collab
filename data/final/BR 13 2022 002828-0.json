@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 13 2022 002828-0",
+    "filingDate": "15/02/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE MONITORAMENTO E ENVIO DE DADOS BIOM\u00c9TRICOS",
+    "parentApplication": {
+        "filingDate": "04/09/2008",
+        "applicationNumber": "PI 0804086-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "15.22.1",
+            "description": "Devolu\u00e7\u00e3o de Prazo Negada",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "ANTONIO DE PADUA MORAIS FILHO",
+        "FERNANDO SKACKAUSKAS DIAS"
+    ],
+    "holders": [
+        352694
+    ],
+    "ipcCodes": [
+        "G06V 40/50"
+    ]
+}

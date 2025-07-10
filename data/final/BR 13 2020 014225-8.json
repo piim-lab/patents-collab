@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 13 2020 014225-8",
+    "filingDate": "11/07/2020",
+    "grantDate": null,
+    "title": "ADI\u00c7\u00c3O DE SISTEMA PARA GERA\u00c7\u00c3O DE ENERGIA COM REAPROVEITAMENTO DA \u00c1GUA NOS CANAIS DE FUGA DAS HIDREL\u00c9TRICAS",
+    "parentApplication": {
+        "filingDate": "27/02/2015",
+        "applicationNumber": "BR 10 2015 004339-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        }
+    ],
+    "inventors": [
+        "PAULO AUGUSTO CARDOSO DE AZEVEDO"
+    ],
+    "holders": [
+        16540
+    ],
+    "ipcCodes": [
+        "E02B 9/02"
+    ]
+}

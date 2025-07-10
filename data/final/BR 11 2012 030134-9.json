@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2012 030134-9",
+    "filingDate": "20/05/2011",
+    "grantDate": null,
+    "title": "Processo para prepara\u00e7\u00e3o de um extrato de folhas de Vitis vinifera L",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10164316.1",
+            "priorityDate": "28/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2537"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        }
+    ],
+    "inventors": [
+        "UWE SCHEURING",
+        "MARTIN LANGER",
+        "BERND PLOHMANN",
+        "BJOERN FEISTEL",
+        "BERND WALBROEL"
+    ],
+    "holders": [
+        26587
+    ],
+    "ipcCodes": [
+        "A61K 36/87"
+    ]
+}

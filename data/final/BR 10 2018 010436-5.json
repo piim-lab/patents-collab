@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2018 010436-5",
+    "filingDate": "23/05/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CONEX\u00c3O E DESCONEX\u00c3O PARA EMBREAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2017-104027",
+            "priorityDate": "25/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "SHINYA KITAI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "F16D 25/061",
+        "F16D 48/06",
+        "F16D 25/063"
+    ]
+}

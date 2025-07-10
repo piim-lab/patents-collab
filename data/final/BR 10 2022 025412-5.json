@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 025412-5",
+    "filingDate": "13/12/2022",
+    "grantDate": null,
+    "title": "DISPENSADOR DE PRODUTO E SEU M\u00c9TODO DE FABRICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2118258.9",
+            "priorityDate": "16/12/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "KIM ACHTON"
+    ],
+    "holders": [
+        77641
+    ],
+    "ipcCodes": [
+        "A47K 5/12",
+        "A47K 10/32",
+        "E05C 19/06",
+        "E05B 35/00",
+        "E05B 15/04",
+        "E05C 3/16",
+        "E05C 19/10"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 11 2016 000234-2",
+    "filingDate": "16/07/2014",
+    "grantDate": null,
+    "title": "PNEU DE CARRO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RM2013A000422",
+            "priorityDate": "16/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2637"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "GIANFRANCO COLOMBO",
+        "ROBERTO BOLZONI",
+        "STEFANO BIZZI",
+        "DANIELE LORENZETTI",
+        "GIANFRANCO COLOMBO",
+        "ROBERTO BOLZONI",
+        "STEFANO BIZZI",
+        "DANIELE LORENZETTI",
+        "GIANFRANCO COLOMBO",
+        "ROBERTO BOLZONI",
+        "STEFANO BIZZI",
+        "DANIELE LORENZETTI"
+    ],
+    "holders": [
+        79920
+    ],
+    "ipcCodes": [
+        "B60C 11/00",
+        "B60C 11/03"
+    ]
+}

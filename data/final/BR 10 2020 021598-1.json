@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 021598-1",
+    "filingDate": "21/10/2020",
+    "grantDate": null,
+    "title": "SISTEMA PARA INTERFACEAR COM UMA M\u00c1QUINA LOCALIZADA EM AMBIENTE PERIGOSO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/925017",
+            "priorityDate": "23/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2797"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2813"
+        }
+    ],
+    "inventors": [
+        "VU K NGUYEN",
+        "TOM HERBERT"
+    ],
+    "holders": [
+        36386
+    ],
+    "ipcCodes": [
+        "H04B 3/56"
+    ]
+}

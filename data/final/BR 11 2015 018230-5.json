@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2015 018230-5",
+    "filingDate": "14/05/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE UM MATERIAL CONFORMADO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-057529",
+            "priorityDate": "20/03/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "NAOFUMI NAKAMURA",
+        "YUDAI YAMAMOTO",
+        "JUN KUROBE"
+    ],
+    "holders": [
+        123471
+    ],
+    "ipcCodes": [
+        "B21D 22/20"
+    ]
+}

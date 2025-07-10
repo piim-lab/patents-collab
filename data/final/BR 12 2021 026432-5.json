@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2021 026432-5",
+    "filingDate": "09/12/2009",
+    "grantDate": null,
+    "title": "SAL DE CITRATO DE 11-(2-PIRROLIDIN-1-IL-ET\u00d3XI)-14,19-DIOXA-5,7,26-TRIAZA-TETRACICLO [19.3.1.1(2,6).1(8,12)]HEPTACOSA-1(25),2(26),3,5,8,10,12(27),16,21,23-DECAENO E USO DESTE",
+    "divisionalApplication": {
+        "filingDate": "09/12/2009",
+        "applicationNumber": "PI 0922736-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        79941
+    ],
+    "ipcCodes": []
+}

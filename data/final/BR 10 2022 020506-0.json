@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 020506-0",
+    "filingDate": "10/10/2022",
+    "grantDate": null,
+    "title": "ARRANJO DE C\u00c2MERA ENDOSC\u00d3PICA E M\u00c9TODO PARA CORRE\u00c7\u00c3O DE ERRO DE ALINHAMENTO DE C\u00c2MERA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21204573.6",
+            "priorityDate": "25/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "SHIRISH JOSHI",
+        "SUBHAMOY MANDAL",
+        "FAISAL KALIM"
+    ],
+    "holders": [
+        77081
+    ],
+    "ipcCodes": [
+        "A61B 1/00",
+        "A61B 17/94",
+        "A61B 1/05",
+        "G06T 7/80"
+    ]
+}

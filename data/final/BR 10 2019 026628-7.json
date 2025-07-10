@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2019 026628-7",
+    "filingDate": "13/12/2019",
+    "grantDate": null,
+    "title": "SEPARADOR CENTR\u00cdFUGO COMPREENDENDO RODA DO SEPARADOR ESPECIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102018132155.4",
+            "priorityDate": "13/12/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2571"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2774"
+        }
+    ],
+    "inventors": [
+        "SERGIO ALEGRE"
+    ],
+    "holders": [
+        16099
+    ],
+    "ipcCodes": [
+        "B07B 7/08"
+    ]
+}

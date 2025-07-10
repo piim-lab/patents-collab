@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2022 006681-7",
+    "filingDate": "07/04/2022",
+    "grantDate": null,
+    "title": "MONTAGEM DE ACESS\u00d3RIOS HIDR\u00c1ULICOS INTEGRADOS",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202110486143.8",
+            "priorityDate": "01/05/2021"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202110486148.0",
+            "priorityDate": "01/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2805"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2821"
+        }
+    ],
+    "inventors": [
+        "XIANGJI ZHENG"
+    ],
+    "holders": [
+        75287
+    ],
+    "ipcCodes": [
+        "F04D 13/12",
+        "E03D 5/01",
+        "E03D 1/34"
+    ]
+}

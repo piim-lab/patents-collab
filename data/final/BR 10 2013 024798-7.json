@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2013 024798-7",
+    "filingDate": "26/09/2013",
+    "grantDate": null,
+    "title": "BOMBA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12 187834.2",
+            "priorityDate": "09/10/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2564"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        }
+    ],
+    "inventors": [
+        "THOMAS WELSCHINGER",
+        "MARCELO INFORSATI",
+        "THOMAS WELSCHINGER",
+        "MARCELO INFORSATI",
+        "HSIUNG HUANG",
+        "ADRIAN MARICA",
+        "ACHIM STAEDELE",
+        "ERIC MAYER",
+        "RICHARD PAUL HAYES",
+        "PETER WILLIAM ROSS"
+    ],
+    "holders": [
+        90948,
+        83304,
+        24495,
+        208948,
+        5589,
+        134650,
+        49118
+    ],
+    "ipcCodes": []
+}

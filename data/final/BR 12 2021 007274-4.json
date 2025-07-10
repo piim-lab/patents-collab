@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2021 007274-4",
+    "filingDate": "09/10/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE REPARO DE V\u00c1LVULA PARA REPARAR UMA V\u00c1LVULA NATIVA DE UM PACIENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/744,031",
+            "priorityDate": "10/10/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/10/2019",
+        "applicationNumber": "BR 11 2020 023021-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "ALEX PHILIP MCCANN",
+        "GRANT MATTHEW STEARNS",
+        "ERIC R DIXON",
+        "YOON HEE KWON",
+        "MICHAEL J POPP",
+        "SERGIO DELGADO",
+        "LAUREN R FRESCHAUF",
+        "RACHEL ANN GOHRES",
+        "RACHEL LIAT DAVID FOREMAN",
+        "ERIC ROBERT DIXON",
+        "LAUREN R FRESCHAUF",
+        "RACHEL LIAT DAVID FOREMAN",
+        "RACHEL ANN GOHRES",
+        "MICHAEL J POPP",
+        "CHRIS J OKOS",
+        "ERIC MICHAEL OBERWISE",
+        "STEVEN M FORD",
+        "STEFAN FLORIAN KEPLINGER"
+    ],
+    "holders": [
+        94761
+    ],
+    "ipcCodes": [
+        "A61F 2/24"
+    ]
+}

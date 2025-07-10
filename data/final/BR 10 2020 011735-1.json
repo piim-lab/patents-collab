@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2020 011735-1",
+    "filingDate": "10/06/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA MONITORAR AS CONDI\u00c7\u00d5ES DO SOLO COM BASE EM DADOS RECEBIDOS DE UM SENSOR MONTADO DENTRO DE UM DENTE DE FERRAMENTA DE ENGATE AO SOLO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/442,160",
+            "priorityDate": "14/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHER SCHOENY",
+        "TREVOR STANHOPE"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "G01N 33/24"
+    ]
+}

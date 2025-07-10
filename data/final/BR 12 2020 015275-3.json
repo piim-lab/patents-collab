@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2020 015275-3",
+    "filingDate": "10/12/2007",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE DERIVADOS DE PIPERAZINIL E DIAZEPANIL BENZAMIDA",
+    "divisionalApplication": {
+        "filingDate": "10/12/2007",
+        "applicationNumber": "PI 0721088-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento - Art. 212 da LPI",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "ANUSUYA CHOUDHURY",
+        "JEFFREY S GRIMM",
+        "KIRK L SORGI",
+        "DAVID PALMER",
+        "JING LIU"
+    ],
+    "holders": [
+        79692
+    ],
+    "ipcCodes": [
+        "A61P 25/00",
+        "C07D 241/04",
+        "C07D 413/10",
+        "C07D 401/10",
+        "A61K 31/5377",
+        "C07D 403/10",
+        "A61K 31/4965"
+    ]
+}

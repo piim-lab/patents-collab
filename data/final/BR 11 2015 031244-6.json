@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2015 031244-6",
+    "filingDate": "08/07/2014",
+    "grantDate": null,
+    "title": "ENFARDADEIRA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "BE2013/0481",
+            "priorityDate": "10/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        }
+    ],
+    "inventors": [
+        "KAREL NAEYAERT",
+        "PATRICK STAELENS",
+        "HANS JOSEPH DE GERSEM",
+        "TENBULT HENRIEKUS THEODORUS HUBERTUS",
+        "JEROEN DEVROE",
+        "DIETER KINDT",
+        "DRIES LIEFOOGHE",
+        "BRAM ROSSEEL"
+    ],
+    "holders": [
+        13869,
+        91557
+    ],
+    "ipcCodes": [
+        "A01F 15/10"
+    ]
+}

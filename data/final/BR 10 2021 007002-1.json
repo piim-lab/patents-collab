@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2021 007002-1",
+    "filingDate": "13/04/2021",
+    "grantDate": null,
+    "title": "RADAR META SECUND\u00c1RIO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "2003806",
+            "priorityDate": "16/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE BILLAUD",
+        "SYLVAIN COLIN",
+        "PHILIPPE JOLY"
+    ],
+    "holders": [
+        936
+    ],
+    "ipcCodes": [
+        "H01Q 25/00",
+        "H01Q 21/28",
+        "G01S 13/78",
+        "H01Q 25/02"
+    ]
+}

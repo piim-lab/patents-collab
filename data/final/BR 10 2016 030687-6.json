@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2016 030687-6",
+    "filingDate": "27/12/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO, E, M\u00cdDIA LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/294727",
+            "priorityDate": "15/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "15.30",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2750"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        15529
+    ],
+    "ipcCodes": []
+}

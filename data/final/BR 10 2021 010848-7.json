@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2021 010848-7",
+    "filingDate": "04/06/2021",
+    "grantDate": null,
+    "title": "DISPENSADOR DE HIGIENIZANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2020901859",
+            "priorityDate": "05/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "MOSHE MAOR",
+        "EDWARD JOSEPH KHOURY"
+    ],
+    "holders": [
+        48102
+    ],
+    "ipcCodes": [
+        "A47K 5/12",
+        "B65D 81/00",
+        "B65D 77/04",
+        "B65D 83/00",
+        "B65D 47/20",
+        "A61L 2/18",
+        "B65D 47/06",
+        "B65D 25/04",
+        "B65D 77/06",
+        "B65D 35/28",
+        "B65D 35/56",
+        "B65D 35/22"
+    ]
+}

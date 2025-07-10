@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2020 011337-5",
+    "filingDate": "22/11/2011",
+    "grantDate": null,
+    "title": "ANTICORPOS HUMANOS PARA O RECEPTOR DE GLUCAGON, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, USOS DOS MESMOS, MOL\u00c9CULA DE \u00c1CIDO NUCLEICO ISOLADA E VETOR DE EXPRESS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/416,409",
+            "priorityDate": "23/11/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/481,958",
+            "priorityDate": "03/05/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/551,032",
+            "priorityDate": "25/10/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/11/2011",
+        "applicationNumber": "BR 11 2013 012782-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        }
+    ],
+    "inventors": [
+        "HARUKA OKAMOTO",
+        "MARK SLEEMAN",
+        "JOYCE HARP"
+    ],
+    "holders": [
+        81137
+    ],
+    "ipcCodes": [
+        "C07K 16/28"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2020 019659-6",
+    "filingDate": "26/09/2020",
+    "grantDate": null,
+    "title": "ATUALIZA\u00c7\u00c3O DE PAR\u00c2METRO PARA POSICIONAMENTO COM BASE EM ALCANCE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/729,104",
+            "priorityDate": "27/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "SEOK CHOI",
+        "JEONGSIK CHOI"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "H04W 84/12",
+        "H04W 64/00",
+        "G01S 13/87",
+        "G01S 5/06"
+    ]
+}

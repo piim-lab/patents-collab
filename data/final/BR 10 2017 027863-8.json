@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 027863-8",
+    "filingDate": "22/12/2017",
+    "grantDate": null,
+    "title": "MODIFICA\u00c7\u00c3O DE MENU BASEADA EM DADOS DE MANIPULA\u00c7\u00c3O DE CONTROLADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/422,221",
+            "priorityDate": "01/02/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2801"
+        }
+    ],
+    "inventors": [
+        "PAUL STREIT",
+        "MARC STOKSIK"
+    ],
+    "holders": [
+        8651
+    ],
+    "ipcCodes": [
+        "G06F 3/0482",
+        "H04N 5/445"
+    ]
+}

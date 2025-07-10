@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2016 011612-0",
+    "filingDate": "20/05/2016",
+    "grantDate": null,
+    "title": "PASSARELA AUTOM\u00c1TICA PARA PEDESTRES",
+    "events": [
+        {
+            "code": "15.24",
+            "description": "Notifica\u00e7\u00e3o de requerimento de exame priorit\u00e1rio de pedido de patente",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "15.24.2",
+            "description": "Concedido o exame priorit\u00e1rio do pedido de patente",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2561"
+        }
+    ],
+    "inventors": [
+        "SERGIO RUOSO"
+    ],
+    "holders": [
+        22490
+    ],
+    "ipcCodes": [
+        "E01D 18/00"
+    ]
+}

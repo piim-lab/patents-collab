@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2020 009797-0",
+    "filingDate": "15/05/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE PORTAS GIRAT\u00d3RIAS E UM DISPOSITIVO CONGELADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "19172797.3",
+            "priorityDate": "06/05/2019"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "202019105967.2",
+            "priorityDate": "28/10/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "JOCHEN DIEDERICHS",
+        "PETR SMAJSER",
+        "MARTIN RAFAJ",
+        "MICHAEL LAMMEL",
+        "BENJAMIN LEDERHOFER",
+        "MARKUS HELLER",
+        "JAROSLAV KUKULIS",
+        "JAROSLAV PLACEK"
+    ],
+    "holders": [
+        58145,
+        1405
+    ],
+    "ipcCodes": [
+        "F25D 23/02",
+        "A47F 3/04"
+    ]
+}

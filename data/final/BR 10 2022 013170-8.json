@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 013170-8",
+    "filingDate": "30/06/2022",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA CONFIGURAR AUTOMATICAMENTE UMA BARRA DE CORTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/447,083",
+            "priorityDate": "08/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "SHREYAS P MODAK",
+        "ALEX A BRIMEYER",
+        "SHALLY JARQUIN CADENA"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 34/04"
+    ]
+}

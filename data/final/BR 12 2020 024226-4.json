@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2020 024226-4",
+    "filingDate": "05/08/2010",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR UMA FOLHA DE POLPA FOFA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/231,399",
+            "priorityDate": "05/08/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/08/2010",
+        "applicationNumber": "BR 11 2012 002427-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "JIANER JIANG",
+        "JAMES E SEALEY"
+    ],
+    "holders": [
+        68231
+    ],
+    "ipcCodes": [
+        "D21C 9/00",
+        "D21H 21/24",
+        "D21H 27/00",
+        "D21H 17/07",
+        "D21H 11/16",
+        "D21H 21/22",
+        "D21H 17/63",
+        "D21H 17/66"
+    ]
+}

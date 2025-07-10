@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2017 028099-3",
+    "filingDate": "26/12/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA CONTROLAR A INJE\u00c7\u00c3O DE UMA MISTURA DE COMBUST\u00cdVEIS EM UM MOTOR DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2017-0062862",
+            "priorityDate": "22/05/2017"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2017-0150492",
+            "priorityDate": "13/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2796"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2807"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2823"
+        }
+    ],
+    "inventors": [
+        "YOUNG KYU OH"
+    ],
+    "holders": [
+        4438,
+        4439
+    ],
+    "ipcCodes": [
+        "F02D 19/06",
+        "F02D 41/34"
+    ]
+}

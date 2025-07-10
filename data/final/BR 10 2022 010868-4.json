@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2022 010868-4",
+    "filingDate": "03/06/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODOS E SISTEMAS PARA GERAR PLANO DE COBERTURA IDEAL PARA REALIZAR ATIVIDADES AGR\u00cdCOLAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202121046952",
+            "priorityDate": "14/10/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2728"
+        }
+    ],
+    "inventors": [
+        "SWAGATAM BOSE CHOUDHURY",
+        "SANAT SARANGI",
+        "SRINIVASU PAPPULA"
+    ],
+    "holders": [
+        873
+    ],
+    "ipcCodes": [
+        "G06Q 10/06",
+        "G06Q 50/02",
+        "G16Z 99/00"
+    ]
+}

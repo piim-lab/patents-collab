@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2020 002351-5",
+    "filingDate": "02/08/2018",
+    "grantDate": null,
+    "title": "DI-HIDRO-OXADIAZINONAS",
+    "nationalPhaseDate": [
+        "04/02/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2018/071039",
+        "pctDate": "02/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/541,627",
+            "priorityDate": "04/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2786"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "MANUEL ELLERMANN",
+        "STEFAN NIKOLAUS GRADL",
+        "CHARLOTTE CHRISTINE KOPITZ",
+        "MARTIN LANGE",
+        "ADRIAN TERSTEEGEN",
+        "PHILIP LIENAU",
+        "CHRISTA HEGELE",
+        "DETLEV S\u00dcLZLE",
+        "TIMOTHY A LEWIS",
+        "HEIDI GREULICH",
+        "XIAOYUN WU",
+        "MATTHEW MEYERSON",
+        "ALEX BURGIN"
+    ],
+    "holders": [
+        140083,
+        98742,
+        98741,
+        88766
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07D 413/10",
+        "A61K 31/5395",
+        "C07D 417/10",
+        "C07D 491/107",
+        "C07D 273/04"
+    ]
+}

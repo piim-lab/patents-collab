@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2023 000947-6",
+    "filingDate": "18/01/2023",
+    "grantDate": null,
+    "title": "REGULADOR DE G\u00c1S",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2022-064996",
+            "priorityDate": "11/04/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "KATSUYA NORITAKE",
+        "KOTARO KUZUYA"
+    ],
+    "holders": [
+        20830
+    ],
+    "ipcCodes": [
+        "F16K 7/00"
+    ]
+}

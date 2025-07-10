@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2014 007896-3",
+    "filingDate": "27/11/2013",
+    "grantDate": "29/12/2020",
+    "title": "M\u00c9TODO DE PREPARA\u00c7\u00c3O DE LAMA AN\u00d3DICA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2012-0138528",
+            "priorityDate": "30/11/2012"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2013-0144588",
+            "priorityDate": "26/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "YOON AH KANG",
+        "YONG JU LEE",
+        "RAE HWAN JO",
+        "JE YOUNG KIM"
+    ],
+    "holders": [
+        1960
+    ],
+    "ipcCodes": [
+        "H01M 4/62",
+        "H01M 4/02",
+        "H01M 4/36",
+        "H01M 10/05",
+        "H01M 4/583"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2012 012608-7",
+    "filingDate": "25/05/2012",
+    "grantDate": null,
+    "title": "MA\u00c7AROQUEIRA DE UMA LINHA DE FIA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "BS2011A000081",
+            "priorityDate": "01/06/2011"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "BS2011A000112",
+            "priorityDate": "05/08/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "FLAVIO MORANDI",
+        "ANDREA CATTANEO",
+        "ROSARIO ASSENZA",
+        "PIETRO SANGALETTI"
+    ],
+    "holders": [
+        1728
+    ],
+    "ipcCodes": [
+        "D01H 13/16",
+        "D01H 1/00"
+    ]
+}

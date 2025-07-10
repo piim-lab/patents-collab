@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2021 004600-0",
+    "filingDate": "23/12/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE DECODIFICAR UMA IMAGEM, E M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE UMA IMAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/426,684",
+            "priorityDate": "23/12/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "23/12/2011",
+        "applicationNumber": "BR 11 2013 016095-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        }
+    ],
+    "inventors": [
+        "VADIM SEREGIN",
+        "JIANLE CHEN",
+        "IL LEE",
+        "TAMMY LEE"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04N 19/463",
+        "H04N 19/13",
+        "H04N 19/46",
+        "H04N 19/186",
+        "H04N 19/593",
+        "H04N 19/11",
+        "H04N 19/119",
+        "H04N 19/154"
+    ]
+}

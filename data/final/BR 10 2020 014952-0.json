@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2020 014952-0",
+    "filingDate": "22/07/2020",
+    "grantDate": null,
+    "title": "M\u00c1QUINA FINALIZADORA DE ESTRADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "202019104082.3",
+            "priorityDate": "24/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2745"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2756"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUSCHMANN",
+        "RALF WEISER",
+        "TOM GL\u00d6CKNER",
+        "MAXIMILIAN THEOBALD"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48",
+        "E01C 19/42",
+        "E01C 23/06"
+    ]
+}

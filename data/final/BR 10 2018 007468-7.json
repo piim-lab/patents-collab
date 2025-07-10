@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 10 2018 007468-7",
+    "filingDate": "13/04/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PREPARO DE COMPONENTES DE SAPATO",
+    "priorityClaims": [
+        {
+            "countryCode": "TW",
+            "priorityNumber": "106122699",
+            "priorityDate": "06/07/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "MU WANG"
+    ],
+    "holders": [
+        7545
+    ],
+    "ipcCodes": [
+        "A43D 25/18",
+        "A43B 13/12",
+        "A43B 13/00",
+        "A43B 9/12",
+        "A43D 25/07"
+    ]
+}

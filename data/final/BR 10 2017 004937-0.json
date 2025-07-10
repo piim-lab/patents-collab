@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2017 004937-0",
+    "filingDate": "13/03/2017",
+    "grantDate": "19/07/2022",
+    "title": "ASSENTO, E, M\u00c9TODO PARA OPERA\u00c7\u00c3O DE ASSENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/083,532",
+            "priorityDate": "29/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "KEITH M FERGUSON"
+    ],
+    "holders": [
+        21128
+    ],
+    "ipcCodes": [
+        "B64D 11/06"
+    ]
+}

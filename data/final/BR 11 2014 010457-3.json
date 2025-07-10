@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 11 2014 010457-3",
+    "filingDate": "29/10/2012",
+    "grantDate": "28/05/2019",
+    "title": "PROCESSOS PARA A FABRICA\u00c7\u00c3O DE UMA COMPOSI\u00c7\u00c3O COSM\u00c9TICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1159941",
+            "priorityDate": "03/11/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/564,316",
+            "priorityDate": "29/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2486"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2538"
+        }
+    ],
+    "inventors": [
+        "ANNE SIMONNET"
+    ],
+    "holders": [
+        13734
+    ],
+    "ipcCodes": [
+        "A61K 8/34",
+        "A61K 8/37",
+        "A61Q 1/10",
+        "A61K 8/98",
+        "A61K 8/49",
+        "A61K 8/73",
+        "A61K 8/42",
+        "A61K 8/02",
+        "A61K 8/25",
+        "A61K 8/26",
+        "A61Q 1/08"
+    ]
+}

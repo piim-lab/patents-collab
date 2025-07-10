@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 20 2021 022510-1",
+    "filingDate": "09/11/2021",
+    "grantDate": null,
+    "title": "COLETOR DE SALIVA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "202022570498.9",
+            "priorityDate": "09/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2824"
+        }
+    ],
+    "inventors": [
+        "CHEN TAO",
+        "ZHANG ZHAO",
+        "DENG SHIZHOU",
+        "YU FENGXI"
+    ],
+    "holders": [
+        366203,
+        366204
+    ],
+    "ipcCodes": [
+        "A61C 17/06"
+    ]
+}

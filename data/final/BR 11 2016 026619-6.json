@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2016 026619-6",
+    "filingDate": "14/05/2015",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O PIROT\u00c9CNICA",
+    "nationalPhaseDate": [
+        "14/11/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2015/030780",
+        "pctDate": "14/05/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "15.9",
+            "description": "Perda de Prioridade",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "12.6",
+            "description": "Outros Recursos",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "104",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida.",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2713"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "JOHN HULTMAN",
+        "PATRICK MCKEE"
+    ],
+    "holders": [
+        182698
+    ],
+    "ipcCodes": [
+        "C06B 21/00",
+        "C06B 33/00",
+        "C06B 33/04"
+    ]
+}

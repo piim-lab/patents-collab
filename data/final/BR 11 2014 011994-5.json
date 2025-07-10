@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2014 011994-5",
+    "filingDate": "20/11/2012",
+    "grantDate": "06/04/2021",
+    "title": "FAIXA LED",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201110370522.7",
+            "priorityDate": "21/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2713"
+        }
+    ],
+    "inventors": [
+        "LI RONGBAO"
+    ],
+    "holders": [
+        136788
+    ],
+    "ipcCodes": [
+        "H01L 25/075",
+        "H01L 33/48",
+        "F21Y 101/00",
+        "H01L 33/54",
+        "F21S 4/22",
+        "F21V 23/06",
+        "F21Y 115/10",
+        "F21S 4/00",
+        "F21S 4/28",
+        "F21V 23/02",
+        "F21S 4/20",
+        "F21K 9/20"
+    ]
+}

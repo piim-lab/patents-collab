@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2012 023623-7",
+    "filingDate": "18/03/2011",
+    "grantDate": "07/01/2020",
+    "title": "Solu\u00e7\u00e3o para uso em di\u00e1lise",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 012 183.5",
+            "priorityDate": "19/03/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2508"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "THOMAS FICHERT",
+        "INGO BICHLMAIER",
+        "DOMINIK FENN",
+        "THOMAS SCHWEITZER"
+    ],
+    "holders": [
+        81796
+    ],
+    "ipcCodes": [
+        "A61K 31/715",
+        "A61P 7/08",
+        "A61M 1/28"
+    ]
+}

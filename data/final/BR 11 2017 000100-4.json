@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2017 000100-4",
+    "filingDate": "29/06/2015",
+    "grantDate": null,
+    "title": "Processo para fabrica\u00e7\u00e3o de uma p\u00e1 com dois componentes para um motor de turbina a g\u00e1s",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1456426",
+            "priorityDate": "04/07/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        }
+    ],
+    "inventors": [
+        "FRAN\u00c7OIS CASTEILLA",
+        "S\u00c9BASTIEN DIGARD BROU DE CUISSART",
+        "SERGE FARGEAS",
+        "VINCENT HERB",
+        "CHANTAL SYLVETTE LANGLOIS"
+    ],
+    "holders": [
+        167805
+    ],
+    "ipcCodes": [
+        "F01D 5/28",
+        "B22D 19/00",
+        "B22D 19/04"
+    ]
+}

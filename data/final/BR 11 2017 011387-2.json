@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2017 011387-2",
+    "filingDate": "09/12/2015",
+    "grantDate": null,
+    "title": "USO DE COMPOSTOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14196988.1",
+            "priorityDate": "09/12/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "LAURENCE POTTIE",
+        "ANSGAR BEHLER",
+        "STANISLAW KRUS",
+        "JOCHEN GIESINGER"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "A61K 8/35",
+        "A61K 8/37",
+        "A61K 8/49"
+    ]
+}

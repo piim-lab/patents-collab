@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2019 021298-1",
+    "filingDate": "12/04/2018",
+    "grantDate": "12/09/2023",
+    "title": "SISTEMA DE CONTROLE DE PRAGAS DE VALOR AGREGADO COM APRENDIZADO INTELIGENTE",
+    "nationalPhaseDate": [
+        "10/10/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2018/059393",
+        "pctDate": "12/04/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/485,838",
+            "priorityDate": "12/04/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "VOLKER GUTSMANN",
+        "MICHAEL ZIMMERMANN",
+        "CHRIS PIENAAR",
+        "GAELLE FAGES",
+        "BYRON REID",
+        "PETER JARDINE"
+    ],
+    "holders": [
+        140083
+    ],
+    "ipcCodes": [
+        "H04L 29/08",
+        "A01M 1/02",
+        "A01M 1/00"
+    ]
+}

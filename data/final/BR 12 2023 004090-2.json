@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 12 2023 004090-2",
+    "filingDate": "16/05/2013",
+    "grantDate": null,
+    "title": "ARTIGO ABSORVENTE PARA CUIDADOS PESSOAIS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/649,742",
+            "priorityDate": "21/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/894,516",
+            "priorityDate": "15/05/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "16/05/2013",
+        "applicationNumber": "BR 11 2014 028158-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "KENNETH B CLOSE",
+        "MICHAEL A SCHMIDT",
+        "JILLIAN A WALTER"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "D04H 1/72",
+        "D04H 1/736"
+    ]
+}

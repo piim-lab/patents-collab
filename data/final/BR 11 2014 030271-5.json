@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 11 2014 030271-5",
+    "filingDate": "19/06/2013",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE JATEAMENTO DE GRANALHA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-173714",
+            "priorityDate": "06/08/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2586"
+        }
+    ],
+    "inventors": [
+        "SHOICHI YAMAMOTO",
+        "RYO TATEMATSU",
+        "TAKESHI SUGIURA",
+        "KYOUJI YAMASHITA"
+    ],
+    "holders": [
+        1658
+    ],
+    "ipcCodes": [
+        "B24C 9/00"
+    ]
+}

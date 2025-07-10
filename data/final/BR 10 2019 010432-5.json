@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2019 010432-5",
+    "filingDate": "22/05/2019",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE COLETA DE S\u00caMEN ANIMAL",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1854410",
+            "priorityDate": "24/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2773"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento - Art. 76 \u00a74\u00b0 e Art. 212 da LPI",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento - Art. 212 da LPI",
+            "bulletinNumber ": "2815"
+        }
+    ],
+    "inventors": [
+        "ERIC SCHMITT",
+        "CHARLES GORGES",
+        "ERIC SCHMITT",
+        "CHARLES GORGES"
+    ],
+    "holders": [
+        49030
+    ],
+    "ipcCodes": [
+        "A61D 19/02",
+        "A61M 1/00"
+    ]
+}

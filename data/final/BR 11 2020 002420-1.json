@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2020 002420-1",
+    "filingDate": "31/07/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE APERTO R\u00c1PIDO",
+    "nationalPhaseDate": [
+        "05/02/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2018/070744",
+        "pctDate": "31/07/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2017 214 117.4",
+            "priorityDate": "11/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "DANIEL BARTH"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "B24B 23/02",
+        "B24B 45/00"
+    ]
+}

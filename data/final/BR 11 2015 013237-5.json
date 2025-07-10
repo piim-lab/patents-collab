@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2015 013237-5",
+    "filingDate": "13/12/2013",
+    "grantDate": null,
+    "title": "PROCESSO E APARELHO PARA CONSTRUIR PNEUS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2012A002148",
+            "priorityDate": "17/12/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/746,404",
+            "priorityDate": "27/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2638"
+        }
+    ],
+    "inventors": [
+        "MAURIZIO MARCHINI",
+        "GIANNI MANCINI",
+        "CHRISTIAN DE COL",
+        "MARIO MARIANI",
+        "ANDREA TROMBIN",
+        "STEFANO SANGIOVANNI",
+        "IVAN GILDO BOSCAINO",
+        "MAURIZIO MARCHINI",
+        "GAETANO LO PRESTI",
+        "GIANNI MANCINI",
+        "PIERANGELO MISANI"
+    ],
+    "holders": [
+        79920
+    ],
+    "ipcCodes": [
+        "B29D 30/24",
+        "B29D 30/32"
+    ]
+}

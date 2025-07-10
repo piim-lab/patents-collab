@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 12 2019 023616-0",
+    "filingDate": "14/11/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PREPARAR UM ARTIGO ABSORVENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/971,741",
+            "priorityDate": "17/12/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/11/2011",
+        "applicationNumber": "BR 11 2013 014540-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "SIMON PORUTHOOR",
+        "REBECCA GRIFFIN",
+        "LEI HUANG",
+        "BALAJI K KANDADAI",
+        "SUZANNE MURAY",
+        "HUE SCOTT SNOWDEN",
+        "HERB VELAZQUEZ",
+        "DEAN M WYDEVEN",
+        "ALI YAHIAOUI"
+    ],
+    "holders": [
+        80315
+    ],
+    "ipcCodes": [
+        "A61F 13/00",
+        "A61F 13/84",
+        "A61F 13/472",
+        "A61F 13/475",
+        "A61L 15/42"
+    ]
+}

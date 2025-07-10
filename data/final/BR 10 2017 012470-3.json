@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2017 012470-3",
+    "filingDate": "12/06/2017",
+    "grantDate": null,
+    "title": "ROLO DE PNEU DE BORRACHA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102016007170.2",
+            "priorityDate": "13/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN BERG",
+        "JOSEF EINOLF",
+        "THOMAS HAUBRICH",
+        "THOMAS KLEIN",
+        "TOBIAS SCH\u00d6NBERG"
+    ],
+    "holders": [
+        30311
+    ],
+    "ipcCodes": [
+        "E01C 19/23",
+        "E01C 19/26",
+        "B60R 19/03",
+        "E01C 19/27",
+        "B60R 19/00"
+    ]
+}

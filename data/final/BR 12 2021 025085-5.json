@@ -1,0 +1,91 @@
+{
+    "applicationNumber": "BR 12 2021 025085-5",
+    "filingDate": "17/12/2014",
+    "grantDate": null,
+    "title": "ANTICORPO ANTI-CD3, C\u00c9LULA HOSPEDEIRA PROCARI\u00d3TICA, M\u00c9TODO DE PRODU\u00c7\u00c3O DO ANTICORPO BIESPEC\u00cdFICO, IMUNOCONJUGADO, COMPOSI\u00c7\u00c3O, USO DO ANTICORPO BIESPEC\u00cdFICO E KIT",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/917,346",
+            "priorityDate": "17/12/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/949,950",
+            "priorityDate": "07/03/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/026,594",
+            "priorityDate": "18/07/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/053,582",
+            "priorityDate": "22/09/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/091,441",
+            "priorityDate": "12/12/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/12/2014",
+        "applicationNumber": "BR 11 2016 014022-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2659"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "XIAOCHENG CHEN",
+        "MARK S DENNIS",
+        "ALLEN J EBENS JR",
+        "TEEMU T JUNTTILA",
+        "ROBERT F KELLEY",
+        "MARY A MATHIEU",
+        "LIPING L SUN",
+        "XIAOCHENG CHEN",
+        "MARK S DENNIS",
+        "ALLEN J EBENS JR",
+        "TEEMU T JUNTTILA",
+        "ROBERT F KELLEY",
+        "MARY A MATHIEU",
+        "LIPING L SUN"
+    ],
+    "holders": [
+        32509
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 39/395",
+        "C07K 16/30",
+        "A61P 37/00",
+        "C07K 16/28",
+        "C07K 16/32"
+    ]
+}

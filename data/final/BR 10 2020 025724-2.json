@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2020 025724-2",
+    "filingDate": "16/12/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ACIONAMENTO DE EMERG\u00caNCIA  PARA ABRIR UMA PORTA, E, PORTA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20305126.3",
+            "priorityDate": "10/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "EMMANUEL HOURADOU",
+        "RAPHAEL PLATA"
+    ],
+    "holders": [
+        28880
+    ],
+    "ipcCodes": [
+        "B64C 1/14",
+        "B64D 25/00",
+        "E05F 15/53"
+    ]
+}

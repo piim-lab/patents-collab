@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 012343-8",
+    "filingDate": "21/06/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE M\u00c1QUINA, E, M\u00c9TODO IMPLEMENTADO POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/473,215",
+            "priorityDate": "13/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        }
+    ],
+    "inventors": [
+        "DAVID AUGUST JOHNSON",
+        "CURTIS A MAEDER",
+        "JEFFREY M TOTT",
+        "MEGAN L LEININGER"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 69/00",
+        "G05D 1/02",
+        "E02F 9/26",
+        "H04W 4/021"
+    ]
+}

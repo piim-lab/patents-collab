@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2023 007788-5",
+    "filingDate": "07/07/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA SINCRONIZAR UM FLUXO DE DADOS E M\u00c9TODO DE SINCRONIZA\u00c7\u00c3O DE UM FLUXO DE DADOS",
+    "nationalPhaseDate": [
+        "25/04/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/040756",
+        "pctDate": "07/07/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/137,112",
+            "priorityDate": "29/12/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "GLENN ANDREW WILSON",
+        "JOHN LAURETO MAIDA JR",
+        "ANDREAS ELLMAUTHALER"
+    ],
+    "holders": [
+        2701
+    ],
+    "ipcCodes": [
+        "G01V 1/30",
+        "G01S 19/01",
+        "G01H 9/00",
+        "G01V 1/18",
+        "G01V 8/16",
+        "G01V 1/22",
+        "G01V 1/50",
+        "E21B 47/14"
+    ]
+}

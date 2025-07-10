@@ -1,0 +1,108 @@
+{
+    "applicationNumber": "BR 11 2018 011131-7",
+    "filingDate": "05/12/2016",
+    "grantDate": null,
+    "title": "TERAPIA DE COMBINA\u00c7\u00c3O BASEADA EM INIBIDORES DE SINAL DE PD-1",
+    "nationalPhaseDate": [
+        "30/05/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2016/086045",
+        "pctDate": "05/12/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-238511",
+            "priorityDate": "07/12/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-119695",
+            "priorityDate": "16/06/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2611"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "TASUKU HONJO",
+        "KENJI CHAMOTO",
+        "SIDONIA FAGARASAN"
+    ],
+    "holders": [
+        17247
+    ],
+    "ipcCodes": [
+        "A61P 33/00",
+        "A61P 31/22",
+        "A61P 31/18",
+        "A61P 31/04",
+        "A61P 35/00",
+        "A61K 39/395",
+        "A61K 31/045",
+        "A61P 31/00",
+        "A61P 33/02",
+        "A61P 33/06",
+        "A61P 31/10",
+        "A61P 31/12",
+        "A61P 35/02",
+        "A61P 31/14",
+        "A61P 31/20",
+        "A61P 43/00",
+        "A61P 33/12",
+        "A61P 33/10",
+        "A61K 31/122",
+        "A61P 31/06",
+        "A61P 31/08",
+        "A61K 31/06",
+        "A61K 31/661",
+        "A61K 31/53",
+        "A61P 31/16",
+        "A61K 31/275",
+        "A61K 45/06",
+        "A61K 31/327",
+        "A61P 33/04"
+    ]
+}

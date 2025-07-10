@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2018 007814-3",
+    "filingDate": "18/04/2018",
+    "grantDate": null,
+    "title": "MICROBATERIA FLEX\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/487,272",
+            "priorityDate": "19/04/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/882,158",
+            "priorityDate": "29/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "FRAN\u00c7OIS AUDEBERT",
+        "FREDERICK A FLITSCH",
+        "ZACHARY KANNER",
+        "MILLBURN EBENEZE MUTH",
+        "LEONARD PAGLIARO",
+        "RANDALL B PUGH",
+        "LAWRENCE EDWARD WEINSTEIN",
+        "SERENA PETERSON",
+        "JONATHAN HOWARTH",
+        "FRAN\u00c7OIS AUDEBERT",
+        "ZACHARY KANNER",
+        "LEONARD PAGLIARO",
+        "LAWRENCE EDWARD WEINSTEIN",
+        "SERENA PETERSON",
+        "JONATHAN HOWARTH"
+    ],
+    "holders": [
+        7836
+    ],
+    "ipcCodes": [
+        "A61F 2/16",
+        "H01M 6/00",
+        "H01M 2/02",
+        "H01M 2/10",
+        "H01M 2/14"
+    ]
+}

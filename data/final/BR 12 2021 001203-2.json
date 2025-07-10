@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 12 2021 001203-2",
+    "filingDate": "02/08/2011",
+    "grantDate": null,
+    "title": "APARELHO PARA ACOPLAR UM FIXADOR ROSCADO E UM DISPOSITIVO DE ENTRADA DE TORQUE, GEOMETRIA PARA ACOPLAR UM FIXADOR ROSCADO E UM DISPOSITIVO DE ENTRADA DE TORQUE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/370,015",
+            "priorityDate": "02/08/2010"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "02/08/2011",
+        "applicationNumber": "BR 11 2013 002666-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2653"
+        }
+    ],
+    "inventors": [
+        "MICHAEL F DOLAN"
+    ],
+    "holders": [
+        107954
+    ],
+    "ipcCodes": [
+        "F16B 31/02"
+    ]
+}

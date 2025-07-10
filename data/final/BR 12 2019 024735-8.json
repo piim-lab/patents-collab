@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 12 2019 024735-8",
+    "filingDate": "20/11/2012",
+    "grantDate": null,
+    "title": "EXTRATOR DO SUBSTRATO FORMADOR DE AEROSSOL, DISPOSITIVO GERADOR DE AEROSSOL E EXTRATOR PARA UM SISTEMA DE FUMO AQUECIDO ELETRICAMENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11250907.0",
+            "priorityDate": "21/11/2011"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12155245.9",
+            "priorityDate": "13/02/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/11/2012",
+        "applicationNumber": "BR 11 2014 012065-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "JULIEN PLOJOUX",
+        "OLIVIER GREIM",
+        "DANI RUSCIO"
+    ],
+    "holders": [
+        80986
+    ],
+    "ipcCodes": [
+        "A24F 47/00"
+    ]
+}

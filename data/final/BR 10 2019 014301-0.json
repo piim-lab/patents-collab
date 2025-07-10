@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 10 2019 014301-0",
+    "filingDate": "10/07/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA MEDIR DIST\u00c2NCIA ENTRE EIXOS DE TREM, E, MEIO DE ARMAZENAMENTO DE MEM\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810756122.1",
+            "priorityDate": "11/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [
+        "JIAN LI",
+        "YANWEI XU",
+        "YONGMING WANG",
+        "WEIFENG YU",
+        "JUXUAN LI",
+        "YUAN MA",
+        "SHANGMIN SUN",
+        "CHUNGUANG ZONG",
+        "YU HU"
+    ],
+    "holders": [
+        12100,
+        50303
+    ],
+    "ipcCodes": [
+        "B61K 9/08"
+    ]
+}

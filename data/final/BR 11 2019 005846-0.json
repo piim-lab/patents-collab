@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2019 005846-0",
+    "filingDate": "24/07/2017",
+    "grantDate": null,
+    "title": "UNIDADE DE FONTE DE CALOR",
+    "nationalPhaseDate": [
+        "25/03/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2017/026613",
+        "pctDate": "24/07/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-191398",
+            "priorityDate": "29/09/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2558"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "FUMIAKI KOIKE",
+        "SHIGEKI KAMITANI",
+        "TAKUYA HORITA",
+        "DAIKI HIRAWA",
+        "YUUSUKE TANAKA",
+        "TAICHI KOSHIJI"
+    ],
+    "holders": [
+        34600
+    ],
+    "ipcCodes": [
+        "F24F 13/20",
+        "F24F 1/56",
+        "F24F 1/16",
+        "F24F 1/50",
+        "F24F 1/10"
+    ]
+}

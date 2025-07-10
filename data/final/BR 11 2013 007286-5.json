@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2013 007286-5",
+    "filingDate": "29/09/2011",
+    "grantDate": null,
+    "title": "Pel\u00edcula e bolsa de autoclave",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/388,439",
+            "priorityDate": "30/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        }
+    ],
+    "inventors": [
+        "WENBIN LIANG",
+        "KIM L WALTON",
+        "GARY R MARCHAND"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "B32B 27/32",
+        "C08J 5/18",
+        "C08L 23/14",
+        "C08F 297/08"
+    ]
+}

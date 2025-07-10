@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 013802-8",
+    "filingDate": "12/07/2022",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE EIXO DE CAME PARA UM MOTOR DE COMBUST\u00c3O INTERNA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 207 428.6",
+            "priorityDate": "13/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2715"
+        }
+    ],
+    "inventors": [
+        "TILO HENTSCHEL",
+        "JUSTUS HIMSTEDT",
+        "ANTONIO MENONNA",
+        "LUIS NEUMANN"
+    ],
+    "holders": [
+        1852
+    ],
+    "ipcCodes": [
+        "F01L 1/047"
+    ]
+}

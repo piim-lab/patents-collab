@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2014 027065-1",
+    "filingDate": "30/04/2013",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA MOLDAGEM ROTACIONAL",
+    "priorityClaims": [
+        {
+            "countryCode": "BE",
+            "priorityNumber": "2012/0288",
+            "priorityDate": "30/04/2012"
+        },
+        {
+            "countryCode": "NL",
+            "priorityNumber": "N2010182",
+            "priorityDate": "25/01/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "JAN KUIJT",
+        "BEN KUIJT",
+        "FRANK HARLEMAN",
+        "FILIP CLAUS",
+        "JOHAN POTARGENT"
+    ],
+    "holders": [
+        145768
+    ],
+    "ipcCodes": [
+        "B29C 33/02",
+        "B29C 41/38",
+        "B29C 41/06",
+        "B29C 41/34",
+        "B29C 41/52",
+        "B29C 41/46"
+    ]
+}

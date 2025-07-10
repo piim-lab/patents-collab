@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 018336-8",
+    "filingDate": "13/09/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE COMBUST\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/485,667",
+            "priorityDate": "27/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "SUMIT DAS",
+        "SOMNATH BAROLE",
+        "VISHRAM NANDEDKAR",
+        "PADMAPRABHA SUBBARAJ"
+    ],
+    "holders": [
+        12441
+    ],
+    "ipcCodes": [
+        "F02D 45/00"
+    ]
+}

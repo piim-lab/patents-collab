@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2022 003001-0",
+    "filingDate": "11/08/2020",
+    "grantDate": null,
+    "title": "CARV\u00c3O ATIVADO POR ADSOR\u00c7\u00c3O DE COMPOSTOS PER- E POLIFLUOROALQUILA",
+    "nationalPhaseDate": [
+        "17/02/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2020/030575",
+        "pctDate": "11/08/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2019-150393",
+            "priorityDate": "20/08/2019"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2020-135048",
+            "priorityDate": "07/08/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2792"
+        }
+    ],
+    "inventors": [
+        "NOBUYOSHI YAMASHITA",
+        "SACHI TANIYASU",
+        "TSUTOMU KOUSAKA",
+        "MAKOTO YOKOI",
+        "CHIHARU HORI",
+        "KODAI SHIMAMURA",
+        "TAKUYA ASANO"
+    ],
+    "holders": [
+        129483,
+        112095
+    ],
+    "ipcCodes": [
+        "B01J 20/28",
+        "C01B 32/30",
+        "B01J 20/20",
+        "B01D 53/70"
+    ]
+}

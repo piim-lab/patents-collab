@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2020 008387-2",
+    "filingDate": "28/04/2020",
+    "grantDate": null,
+    "title": "VEDA\u00c7\u00c3O, DISPOSITIVO DE PREENS\u00c3O, E, CONJUNTO DE PREENS\u00c3O DE TUBOS.",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1904668",
+            "priorityDate": "03/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2751"
+        }
+    ],
+    "inventors": [
+        "DYLAN CLERC",
+        "ARNAUD JACQUELIN"
+    ],
+    "holders": [
+        48487
+    ],
+    "ipcCodes": [
+        "F16L 21/00"
+    ]
+}

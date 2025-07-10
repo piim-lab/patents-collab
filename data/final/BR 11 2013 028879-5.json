@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2013 028879-5",
+    "filingDate": "21/07/2011",
+    "grantDate": "03/11/2020",
+    "title": "APARELHO DE FILTRAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-104627",
+            "priorityDate": "09/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        }
+    ],
+    "inventors": [
+        "NORIHIDE YAMASE",
+        "DAISUKE OIKAWA",
+        "JONATHAN COYLE",
+        "CLAIRE COYLE"
+    ],
+    "holders": [
+        170514,
+        170515,
+        88292
+    ],
+    "ipcCodes": [
+        "B01D 63/08",
+        "E03B 3/02",
+        "B01D 29/92",
+        "B01D 29/90",
+        "B01D 29/64",
+        "E03B 3/00"
+    ]
+}

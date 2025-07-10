@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2012 021426-4",
+    "filingDate": "05/12/2003",
+    "grantDate": null,
+    "title": "SISTEMA CATAL\u00cdTICO COMPREENDENO UM CATALISADOR DE CROMO SUPORTADO E PROCESSO PARA PRODU\u00c7\u00c3O DE UM POL\u00cdMERO DE ETILENO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/436,790",
+            "priorityDate": "27/12/2002"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "10/716,291",
+            "priorityDate": "18/11/2003"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "05/12/2003",
+        "applicationNumber": "PI 0317788-2"
+    },
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "KEVIN J CANN",
+        "MINGHUI ZHANG",
+        "JOSE FERNANDO CEVALLOS",
+        "JOHN H MOORHOUSE",
+        "MARK G GOODE",
+        "MARIA A APECETCHE",
+        "DANIEL P ZILKER JR"
+    ],
+    "holders": [
+        90421
+    ],
+    "ipcCodes": [
+        "B01J 31/00"
+    ]
+}

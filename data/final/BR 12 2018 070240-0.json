@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2018 070240-0",
+    "filingDate": "06/06/2008",
+    "grantDate": null,
+    "title": "PROCESSO PARA AN\u00c1LISE DA DISTRIBUI\u00c7\u00c3O DE TAMANHOS DE LIPOPROTE\u00cdNAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/760,672",
+            "priorityDate": "08/06/2007"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "11/760,700",
+            "priorityDate": "08/06/2007"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/06/2008",
+        "applicationNumber": "PI 0812412-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        }
+    ],
+    "inventors": [
+        "MICHAEL P CAULFIELD",
+        "RICHARD E REITZ",
+        "SHUGUANG LI",
+        "GLORIA KWANGJA LEE",
+        "RONALD KRAUSS",
+        "PATRICIA J BLANCHE",
+        "W HENRY BENNER",
+        "EARL CORNELL"
+    ],
+    "holders": [
+        136959
+    ],
+    "ipcCodes": [
+        "G01N 27/26"
+    ]
+}

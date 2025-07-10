@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 007655-8",
+    "filingDate": "16/04/2020",
+    "grantDate": null,
+    "title": "APRENDIZADO DE M\u00c1QUINA ORIENTADO A DADOS PARA MODELAGEM DE SENSORES DE AERONAVES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/433,822",
+            "priorityDate": "06/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "ANDREW LOUIS BERESON",
+        "DEBRA ALICE RIGDON",
+        "MICHAEL THOMAS SWAYNE",
+        "HIEU TRUNG NGUYEN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "G05B 23/02",
+        "H04L 29/08"
+    ]
+}

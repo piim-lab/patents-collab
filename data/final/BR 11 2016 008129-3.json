@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2016 008129-3",
+    "filingDate": "12/08/2015",
+    "grantDate": null,
+    "title": "VE\u00cdCULO TODO-O-TERRENO E SUSPENS\u00c3O DO MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "RU",
+            "priorityNumber": "2014135075",
+            "priorityDate": "26/08/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "ALEKSEY GARAGASHYAN"
+    ],
+    "holders": [
+        172843
+    ],
+    "ipcCodes": [
+        "B60F 3/00",
+        "B60G 17/04",
+        "B60C 23/10",
+        "B60G 21/06"
+    ]
+}

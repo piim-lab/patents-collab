@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2021 024450-0",
+    "filingDate": "03/12/2021",
+    "grantDate": null,
+    "title": "GUINDASTE DE LAN\u00c7A DE ARTICULA\u00c7\u00c3O, PARA APLICA\u00c7\u00c3O OFFSHORE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR2012580",
+            "priorityDate": "03/12/2020"
+        },
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR2108433",
+            "priorityDate": "30/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "FRANK HEEN",
+        "BART BURGER"
+    ],
+    "holders": [
+        14604
+    ],
+    "ipcCodes": [
+        "B66C 23/08"
+    ]
+}

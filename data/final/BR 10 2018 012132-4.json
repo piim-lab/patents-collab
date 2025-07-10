@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 10 2018 012132-4",
+    "filingDate": "14/06/2018",
+    "grantDate": null,
+    "title": "DISPENSADOR DE VOLUME PARA UM ELETRODOM\u00c9STICO DE TRATAMENTO DE ROUPAS A SEREM LAVADAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/520,146",
+            "priorityDate": "15/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/958,090",
+            "priorityDate": "20/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2766"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "FERNANDA K PIERETTI",
+        "BRUNO T RAMASCO"
+    ],
+    "holders": [
+        2420
+    ],
+    "ipcCodes": [
+        "D06F 39/02"
+    ]
+}

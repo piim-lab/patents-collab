@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 12 2019 001738-7",
+    "filingDate": "12/09/2012",
+    "grantDate": "05/11/2019",
+    "title": "Composi\u00e7\u00f5es parasiticidas compreendendo um agente ativo de isoxazolina e usos das mesmas",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/533,308",
+            "priorityDate": "12/09/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/09/2012",
+        "applicationNumber": "BR 11 2014 005514-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "25.12",
+            "description": "Publica\u00e7\u00e3o Anulada",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.3",
+            "description": "Transfer\u00eancia em Exig\u00eancia",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "MARK D SOLL",
+        "JOSEPH K ROSENTEL",
+        "JAMES PATE",
+        "NATALYA SHUB",
+        "MONICA TEJWANI",
+        "CAROL BELANSKY"
+    ],
+    "holders": [
+        81379
+    ],
+    "ipcCodes": [
+        "A61P 33/00",
+        "A01N 25/00",
+        "A61K 31/42"
+    ]
+}

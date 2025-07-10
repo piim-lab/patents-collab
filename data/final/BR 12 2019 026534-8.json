@@ -1,0 +1,66 @@
+{
+    "applicationNumber": "BR 12 2019 026534-8",
+    "filingDate": "26/06/2013",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA SELECIONAR UMA PLANTA ALFAFA COM COMPONENTES DE VALOR ALIMENTAR MELHORADOS DE UMA POPULA\u00c7\u00c3O DE PLANTAS ALFAFA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/664,359",
+            "priorityDate": "26/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/06/2013",
+        "applicationNumber": "BR 11 2014 032343-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "WILLIAM HIATT",
+        "MARRY S REDDY",
+        "MARK MCCASLIN",
+        "STEPHEN TEMPLE",
+        "DAVID WHALEN",
+        "RICHARD ERIC CERNY"
+    ],
+    "holders": [
+        26665,
+        125533
+    ],
+    "ipcCodes": [
+        "C12N 15/82",
+        "A01H 1/04",
+        "A01H 5/04"
+    ]
+}

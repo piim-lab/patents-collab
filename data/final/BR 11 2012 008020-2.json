@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2012 008020-2",
+    "filingDate": "18/12/2009",
+    "grantDate": "15/01/2019",
+    "title": "M\u00c1QUINA DE PERFURA\u00c7\u00c3O.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/576,103",
+            "priorityDate": "08/10/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "TIMOTHY W LEDBETTER",
+        "IAIN A PEEBLES"
+    ],
+    "holders": [
+        86796
+    ],
+    "ipcCodes": [
+        "E21B 7/02",
+        "E21B 21/16"
+    ]
+}

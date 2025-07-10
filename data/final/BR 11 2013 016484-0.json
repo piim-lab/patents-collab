@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 11 2013 016484-0",
+    "filingDate": "15/12/2011",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR \u00d3LEO E COMBUST\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "AU",
+            "priorityNumber": "2011900020",
+            "priorityDate": "05/01/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2490"
+        },
+        {
+            "code": "25.11",
+            "description": "Republica\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "25.13",
+            "description": "Anota\u00e7\u00e3o de Limita\u00e7\u00e3o ou \u00d4nus",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "THOMAS MASCHMEYER"
+    ],
+    "holders": [
+        88763,
+        88764,
+        88765
+    ],
+    "ipcCodes": [
+        "C10G 1/00",
+        "C10L 1/00"
+    ]
+}

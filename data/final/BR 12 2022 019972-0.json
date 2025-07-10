@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 12 2022 019972-0",
+    "filingDate": "31/05/2017",
+    "grantDate": null,
+    "title": "USINA EL\u00c9TRICA FOTOVOLTAICA FLUTUANTE E PISCICULTURA",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20160927",
+            "priorityDate": "31/05/2016"
+        },
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20170728",
+            "priorityDate": "03/05/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "31/05/2017",
+        "applicationNumber": "BR 11 2018 073762-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2731"
+        }
+    ],
+    "inventors": [
+        "B\u00d8RGE BJ\u00d8RNEKLETT"
+    ],
+    "holders": [
+        229359
+    ],
+    "ipcCodes": [
+        "H02S 40/42",
+        "H02S 20/30",
+        "H02S 10/12",
+        "H02S 30/10",
+        "F24J 2/52",
+        "F24J 2/04"
+    ]
+}

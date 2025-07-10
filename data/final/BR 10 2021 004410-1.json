@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 004410-1",
+    "filingDate": "09/03/2021",
+    "grantDate": null,
+    "title": "MONTAGEM DE JOYSTICK DE DIRE\u00c7\u00c3O, PAINEL OPERACIONAL E M\u00c1QUINA DE CONSTRU\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20 161 839.4",
+            "priorityDate": "09/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2776"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "ACHIM EUL",
+        "HEINZ JUNGMANN"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E02F 9/20",
+        "G05G 1/30"
+    ]
+}

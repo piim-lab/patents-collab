@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2017 006578-9",
+    "filingDate": "28/09/2015",
+    "grantDate": null,
+    "title": "CANAL DE ENLACE DESCENDENTE E ENLACE ASCENDENTE COM BAIXA LAT\u00caNCIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/059,726",
+            "priorityDate": "03/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/059,831",
+            "priorityDate": "03/10/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/866,465",
+            "priorityDate": "25/09/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "HAO XU",
+        "PETER GAAL",
+        "ALEKSANDAR DAMNJANOVIC",
+        "WANSHI CHEN",
+        "YONGBIN WEI",
+        "DURGA PRASAD MALLADI"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 72/04",
+        "H04W 72/12"
+    ]
+}

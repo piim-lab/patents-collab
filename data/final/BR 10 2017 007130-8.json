@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2017 007130-8",
+    "filingDate": "06/04/2017",
+    "grantDate": "10/01/2023",
+    "title": "Ferramenta de inser\u00e7\u00e3o de \u00e2ncora \u00f3ssea",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/093,948",
+            "priorityDate": "08/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2769"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "GEROME MILLER",
+        "JUSTIN M PICCIRILLO",
+        "SHERRI SA"
+    ],
+    "holders": [
+        18789
+    ],
+    "ipcCodes": [
+        "A61F 2/08",
+        "A61B 17/56"
+    ]
+}

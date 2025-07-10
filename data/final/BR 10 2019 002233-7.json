@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 10 2019 002233-7",
+    "filingDate": "04/02/2019",
+    "grantDate": null,
+    "title": "FORNO DE M\u00daLTIPLAS CAVIDADES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/888,687",
+            "priorityDate": "05/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2793"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "PHILIP R MCKEE",
+        "LEE THOMAS VANLANEN",
+        "JEFF MADDOX",
+        "PHILIP R MCKEE",
+        "LEE THOMAS VANLANEN",
+        "TODD COLEMAN"
+    ],
+    "holders": [
+        46195,
+        46199
+    ],
+    "ipcCodes": [
+        "F24C 15/16",
+        "F24C 15/00",
+        "F24C 15/32"
+    ]
+}

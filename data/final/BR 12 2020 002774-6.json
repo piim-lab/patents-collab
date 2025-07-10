@@ -1,0 +1,71 @@
+{
+    "applicationNumber": "BR 12 2020 002774-6",
+    "filingDate": "14/03/2014",
+    "grantDate": null,
+    "title": "L\u00cdQUIDO E C\u00c1PSULA RESISTENTES AO ABUSO PARENTERAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/794,714",
+            "priorityDate": "15/03/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/204,259",
+            "priorityDate": "11/03/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "14/03/2014",
+        "applicationNumber": "BR 11 2015 022583-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "SIMONE WENGNER",
+        "SIMONE WENGNER"
+    ],
+    "holders": [
+        84851
+    ],
+    "ipcCodes": [
+        "A61K 47/14",
+        "A61K 9/10",
+        "A61K 9/08",
+        "A61K 47/26",
+        "A61K 47/44",
+        "A61K 47/36",
+        "A61K 9/48",
+        "A61K 9/06"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2022 000960-0",
+    "filingDate": "18/01/2022",
+    "grantDate": null,
+    "title": "ESTRUTURA DE MONTAGEM DE BATERIA PARA MOTOCICLETA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2021-059531",
+            "priorityDate": "31/03/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2822"
+        }
+    ],
+    "inventors": [
+        "TAKAO FUJIWARA"
+    ],
+    "holders": [
+        147
+    ],
+    "ipcCodes": [
+        "H01M 50/584",
+        "H01M 50/50",
+        "H01M 50/572",
+        "H01M 50/588"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2012 030107-5",
+    "filingDate": "27/11/2012",
+    "grantDate": "24/04/2019",
+    "title": "PROCESSO PARA RECICLAR PRODUTOS ABSORVENTES DE HIGIENE SANIT\u00c1RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "TO2011A001090",
+            "priorityDate": "28/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2766"
+        }
+    ],
+    "inventors": [
+        "MARCELLO SOMMA",
+        "GIORGIO VACCARO",
+        "JAN K MICHALEK",
+        "THEODORE THOMAS"
+    ],
+    "holders": [
+        4397
+    ],
+    "ipcCodes": [
+        "B09B 3/00",
+        "A61L 11/00",
+        "A61L 2/07",
+        "B02C 23/00",
+        "A61F 13/505"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2012 026898-8",
+    "filingDate": "14/04/2011",
+    "grantDate": null,
+    "title": "RECIPIENTE COM UM INDICADOR DE ABERTURA DE TAMPA",
+    "priorityClaims": [
+        {
+            "countryCode": "RU",
+            "priorityNumber": "2010115900",
+            "priorityDate": "21/04/2010"
+        },
+        {
+            "countryCode": "RU",
+            "priorityNumber": "2010115907",
+            "priorityDate": "21/04/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2548"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        }
+    ],
+    "inventors": [
+        "ANDREY VYACHESLAVOVICH AGARKOV"
+    ],
+    "holders": [
+        101681
+    ],
+    "ipcCodes": [
+        "B65D 41/34"
+    ]
+}

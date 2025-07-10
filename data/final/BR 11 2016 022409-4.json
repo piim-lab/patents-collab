@@ -1,0 +1,77 @@
+{
+    "applicationNumber": "BR 11 2016 022409-4",
+    "filingDate": "04/03/2015",
+    "grantDate": null,
+    "title": "DESENHO DE LAT\u00caNCIA ULTRA BAIXA PARA LTE",
+    "nationalPhaseDate": [
+        "27/09/2016"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2015/018697",
+        "pctDate": "04/03/2015",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/972,111",
+            "priorityDate": "28/03/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/636,361",
+            "priorityDate": "03/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2639"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "HAO XU",
+        "DURGA PRASAD MALLADI",
+        "NAGA BHUSHAN",
+        "TINGFANG JI",
+        "PETER GAAL",
+        "WANSHI CHEN",
+        "TAO LUO",
+        "YONGBIN WEI",
+        "ALEKSANDAR DAMNJANOVIC"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 56/00",
+        "H04L 5/06"
+    ]
+}

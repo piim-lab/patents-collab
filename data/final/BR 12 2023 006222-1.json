@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2023 006222-1",
+    "filingDate": "09/04/2018",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O E M\u00c9TODO PARA AUMENTAR A RECUPERA\u00c7\u00c3O DE PETR\u00d3LEO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/483,425",
+            "priorityDate": "09/04/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "09/04/2018",
+        "applicationNumber": "BR 11 2019 020271-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2734"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2759"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        244001
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2020 019667-7",
+    "filingDate": "26/09/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA CRIPTOGRAFIA DE MEM\u00d3RIA TOTAL MULTICHAVE BASEADA EM DERIVA\u00c7\u00c3O DE CHAVE DIN\u00c2MICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/728,712",
+            "priorityDate": "27/12/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2764"
+        }
+    ],
+    "inventors": [
+        "HORMUZD KHOSRAVI",
+        "SIDDHARTHA CHHABRA",
+        "VINCENT VON BOKERN",
+        "VEDVYAS SHANBHOGUE",
+        "BARRY HUNTLEY",
+        "RAMYA JAYARAM MASTI"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "H04L 9/08",
+        "H04L 9/30"
+    ]
+}

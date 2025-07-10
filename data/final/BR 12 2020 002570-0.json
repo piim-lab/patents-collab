@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2020 002570-0",
+    "filingDate": "07/02/2017",
+    "grantDate": null,
+    "title": "TRAVA PARA PRENDER UM MEMBRO DE DESGASTE A UMA BASE NO EQUIPAMENTO DE TRABALHO NA TERRA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/292,490",
+            "priorityDate": "08/02/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/02/2017",
+        "applicationNumber": "BR 11 2018 016138-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2748"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2758"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        124482
+    ],
+    "ipcCodes": []
+}

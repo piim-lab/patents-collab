@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2021 007210-5",
+    "filingDate": "15/04/2021",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA REALIZAR UMA AN\u00c1LISE DE POTENCIAL REDOX, E, APARELHO DE CONTROLE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20170049.9",
+            "priorityDate": "17/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2791"
+        }
+    ],
+    "inventors": [
+        "ILKKA RAHIKAINEN",
+        "MARKO NOUSIAINEN",
+        "JYRKI HYV\u00c4RINEN"
+    ],
+    "holders": [
+        66939
+    ],
+    "ipcCodes": [
+        "G01N 33/18",
+        "G01N 27/48",
+        "C02F 1/00",
+        "G01N 27/416",
+        "C02F 103/00",
+        "G01N 27/27"
+    ]
+}

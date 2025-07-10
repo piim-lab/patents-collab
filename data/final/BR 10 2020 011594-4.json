@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 10 2020 011594-4",
+    "filingDate": "09/06/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODOS PARA IMITAR ITENS ALIMENT\u00cdCIOS ALVO USANDO INTELIG\u00caNCIA ARTIFICIAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/416,095",
+            "priorityDate": "17/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2698"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2699"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "KARIM PICHARA",
+        "PABLO ZAMORA",
+        "MATIAS MUCHNICK",
+        "ORLANDO VASQUEZ"
+    ],
+    "holders": [
+        59124
+    ],
+    "ipcCodes": [
+        "G06N 3/04",
+        "G06N 3/02",
+        "G06N 3/06"
+    ]
+}

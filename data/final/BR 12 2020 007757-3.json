@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2020 007757-3",
+    "filingDate": "30/03/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODOS DE PRODU\u00c7\u00c3O DE UM POLIPEPT\u00cdDEO,  E DE UMA COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, MOL\u00c9CULA DE \u00c1CIDO NUCLEICO, VETOR E C\u00c9LULA",
+    "divisionalApplication": {
+        "filingDate": "30/03/2012",
+        "applicationNumber": "BR 11 2013 024781-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        86875
+    ],
+    "ipcCodes": []
+}

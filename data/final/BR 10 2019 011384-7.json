@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 10 2019 011384-7",
+    "filingDate": "03/06/2019",
+    "grantDate": null,
+    "title": "SUPORTE DE CONTROLE REMOTO PARA UM FINALIZADOR DE RODOVIA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18176294.9",
+            "priorityDate": "06/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2527"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "BERNHARD ERDTMANN",
+        "THOMAS SEITHER",
+        "JOHANNES PONTIUS"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "B60R 11/00",
+        "E01C 19/48"
+    ]
+}

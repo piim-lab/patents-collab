@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 11 2016 016075-4",
+    "filingDate": "20/01/2015",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O COMPREENDENDO AGENTE DE BENEF\u00cdCIO E SOLVENTE APR\u00d3TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/941,536",
+            "priorityDate": "19/02/2014"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/597,370",
+            "priorityDate": "15/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        }
+    ],
+    "inventors": [
+        "EDUARDO TORRES",
+        "SANJEEV KUMAR DEY",
+        "JOHN DAVID BRUHNKE",
+        "GREGORY SCOT MIRACLE"
+    ],
+    "holders": [
+        87699
+    ],
+    "ipcCodes": [
+        "C11D 3/43",
+        "C11D 3/40",
+        "C11D 3/50",
+        "C11D 3/20"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2017 026619-2",
+    "filingDate": "11/12/2017",
+    "grantDate": null,
+    "title": "ENSAIO MELHORADO PARA A DIAGNOSE DE ALERGIA A AMENDOIM",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17000245.5",
+            "priorityDate": "15/02/2017"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17001081.3",
+            "priorityDate": "26/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2698"
+        }
+    ],
+    "inventors": [
+        "WALTRAUD SUER",
+        "STEFANIE ROHWER",
+        "BETTINA BRIX",
+        "ALF WEIMANN"
+    ],
+    "holders": [
+        34669
+    ],
+    "ipcCodes": [
+        "C07K 14/415",
+        "G01N 33/68",
+        "A61P 37/08",
+        "A61K 39/35",
+        "C07K 16/16"
+    ]
+}

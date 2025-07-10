@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2020 012888-0",
+    "filingDate": "08/02/2019",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES DE IL-12 DE DIRECIONAMENTO DE EDB",
+    "nationalPhaseDate": [
+        "24/06/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/053136",
+        "pctDate": "08/02/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18156141.6",
+            "priorityDate": "09/02/2018"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18179313.4",
+            "priorityDate": "22/06/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRA VILLA",
+        "MATTIA MATASCI",
+        "TIZIANO ONGARO"
+    ],
+    "holders": [
+        111276
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "C07K 16/18",
+        "C07K 14/54",
+        "A61K 47/68"
+    ]
+}

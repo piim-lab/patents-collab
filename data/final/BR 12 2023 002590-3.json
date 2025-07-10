@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2023 002590-3",
+    "filingDate": "04/07/2014",
+    "grantDate": "05/12/2023",
+    "title": "ANTICORPO HUMANIZADO OU QUIM\u00c9RICO DE LIGA\u00c7\u00c3O AO CD3 HUMANO, ANTICORPO BIESPEC\u00cdFICO, MICRORGANISMO, COMPOSI\u00c7\u00c3O, COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA, USO DOS MESMOS, M\u00c9TODO PARA PRODUZIR UM ANTICORPO, COMPOSI\u00c7\u00c3O DE DIAGN\u00d3STICO, M\u00c9TODO IN VITRO PARA DETECTAR A PRESEN\u00c7A DE ANT\u00cdGENO CD3, OU UMA C\u00c9LULA EXPRESSANDO CD3, EM UMA AMOSTRA, KIT PARA DETECTAR A PRESEN\u00c7A DE ANT\u00cdGENO CD3, OU UMA C\u00c9LULA QUE EXPRESSA CD3, EM UMA AMOSTRA E ANTICORPO ANTI-IDIOT\u00cdPICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2013/064330",
+            "priorityDate": "05/07/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "PCT/EP2014/050340",
+            "priorityDate": "09/01/2014"
+        },
+        {
+            "countryCode": "DK",
+            "priorityNumber": "PA 2014 00009",
+            "priorityDate": "09/01/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/07/2014",
+        "applicationNumber": "BR 11 2015 032986-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2751"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2761"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2814"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        98612
+    ],
+    "ipcCodes": []
+}

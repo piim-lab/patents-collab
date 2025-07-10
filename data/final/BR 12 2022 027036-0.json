@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2022 027036-0",
+    "filingDate": "31/01/2018",
+    "grantDate": null,
+    "title": "F\u00d3RMULA AGR\u00cdCOLA SIN\u00c9RGICA",
+    "divisionalApplication": {
+        "filingDate": "31/01/2018",
+        "applicationNumber": "BR 11 2019 015725-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        },
+        {
+            "code": "2.4",
+            "description": "Pedido dividido depositado - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        75241
+    ],
+    "ipcCodes": []
+}

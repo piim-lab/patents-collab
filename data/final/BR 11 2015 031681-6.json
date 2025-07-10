@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2015 031681-6",
+    "filingDate": "13/03/2014",
+    "grantDate": null,
+    "title": "ELEMENTO SENSOR E SENSOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2013 211 791.4",
+            "priorityDate": "21/06/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        }
+    ],
+    "inventors": [
+        "THOMAS JUESTEL",
+        "JENS SCHNEIDER",
+        "CARSTEN GALLINGER",
+        "ANDREAS ROTTMANN",
+        "FRANK BUSE",
+        "MARKUS LUX",
+        "MARC ROSENLAND"
+    ],
+    "holders": [
+        1193
+    ],
+    "ipcCodes": [
+        "G01N 27/407",
+        "G01N 27/406"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2018 005988-2",
+    "filingDate": "26/03/2018",
+    "grantDate": null,
+    "title": "CAP\u00d4 INTEGRADO PARA VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP 17163013.0",
+            "priorityDate": "27/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2646"
+        }
+    ],
+    "inventors": [
+        "JEROEN KRIJNEN",
+        "CARLOS PEREIRA"
+    ],
+    "holders": [
+        37265
+    ],
+    "ipcCodes": [
+        "B62D 25/16",
+        "B62D 25/12",
+        "B62D 29/04"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "applicationNumber": "BR 12 2014 005491-2",
+    "filingDate": "30/07/2003",
+    "grantDate": "22/10/2019",
+    "title": "DISPOSI\u00c7\u00c3O DO DESAGLOMERADOR E INALADOR DE P\u00d3",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "02016908.2",
+            "priorityDate": "31/07/2002"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/07/2003",
+        "applicationNumber": "PI 0313357-5"
+    },
+    "events": [
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "JOHN PINON",
+        "SAMEER SHIRGAONKAR",
+        "CHRISTOPHER JAMES SMITH",
+        "SIMON BURGE",
+        "MAX WILLIAM MIDDLETON",
+        "DAVID AHERN",
+        "MATTHEW NEIL SARKAR",
+        "BEN ARLETT",
+        "EMMA LESLEY LYE",
+        "SIMON SMITH"
+    ],
+    "holders": [
+        83608
+    ],
+    "ipcCodes": [
+        "A61M 15/00"
+    ]
+}

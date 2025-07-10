@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2019 015751-8",
+    "filingDate": "30/07/2019",
+    "grantDate": null,
+    "title": "CONJUNTO DO VASO SANIT\u00c1RIO, ASSENTO E TAMPA",
+    "priorityClaims": [
+        {
+            "countryCode": "ZA",
+            "priorityNumber": "2018/05128",
+            "priorityDate": "31/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "LUKAS PIETER FOURIE"
+    ],
+    "holders": [
+        50870
+    ],
+    "ipcCodes": [
+        "A47K 13/24"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2023 005934-1",
+    "filingDate": "29/03/2023",
+    "grantDate": null,
+    "title": "SISTEMA PARA CONTROLAR A TEMPERATURA DE UM ASSENTO EM UM AUTOM\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202241018471",
+            "priorityDate": "29/03/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2752"
+        }
+    ],
+    "inventors": [
+        "RAGAVENDRA PRASAD",
+        "PRASHANTH KUMAR RAVIKUMAR",
+        "RAMANATHAN VAISHALI"
+    ],
+    "holders": [
+        33987
+    ],
+    "ipcCodes": [
+        "G05B 11/01",
+        "G05B 13/02"
+    ]
+}

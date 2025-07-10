@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 019060-1",
+    "filingDate": "12/01/2011",
+    "grantDate": null,
+    "title": "Embarca\u00e7\u00e3o para assentar um duto e m\u00e9todo de assentar um duto a partir de uma embarca\u00e7\u00e3o",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "10 00556.9",
+            "priorityDate": "13/01/2010"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "10 10305.9",
+            "priorityDate": "18/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2619"
+        }
+    ],
+    "inventors": [
+        "DIEGO LAZZARIN",
+        "GIANLUCA TOSO",
+        "ENRICO RUARO"
+    ],
+    "holders": [
+        80457
+    ],
+    "ipcCodes": [
+        "B63B 35/03"
+    ]
+}

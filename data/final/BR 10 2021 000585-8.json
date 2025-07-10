@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 000585-8",
+    "filingDate": "13/01/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE DEGELO DE P\u00c1, E, M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UM SISTEMA DE DEGELO DE P\u00c1",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20305270.9",
+            "priorityDate": "16/03/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2647"
+        }
+    ],
+    "inventors": [
+        "LUDOVIC PRUNET",
+        "ARNAUD ANDRZEJEWSKI"
+    ],
+    "holders": [
+        28880
+    ],
+    "ipcCodes": [
+        "B64D 15/20"
+    ]
+}

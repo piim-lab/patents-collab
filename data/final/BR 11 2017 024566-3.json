@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2017 024566-3",
+    "filingDate": "28/03/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA A PRODU\u00c7\u00c3O DE XILOPOLISSACAR\u00cdDEO MODIFICADO",
+    "nationalPhaseDate": [
+        "16/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2016/059939",
+        "pctDate": "28/03/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-100629",
+            "priorityDate": "18/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        200472
+    ],
+    "ipcCodes": []
+}

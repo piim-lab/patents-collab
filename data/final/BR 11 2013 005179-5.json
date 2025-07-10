@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 11 2013 005179-5",
+    "filingDate": "31/08/2011",
+    "grantDate": null,
+    "title": "Filtro compreendendo ao menos um par de elementos filtrantes planos",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1057029",
+            "priorityDate": "03/09/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2522"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        }
+    ],
+    "inventors": [
+        "CLAUDE CHRUPALLA"
+    ],
+    "holders": [
+        109815
+    ],
+    "ipcCodes": [
+        "B01D 25/26"
+    ]
+}

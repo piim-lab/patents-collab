@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2019 003981-7",
+    "filingDate": "26/02/2019",
+    "grantDate": null,
+    "title": "ATUADOR, E, M\u00c9TODO PARA AJUSTAR A EXTENS\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18166121.6",
+            "priorityDate": "06/04/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "GIACOMO MEZZINO",
+        "ENRICO QUAGLIA"
+    ],
+    "holders": [
+        22920
+    ],
+    "ipcCodes": [
+        "B64C 13/36",
+        "F16J 1/10"
+    ]
+}

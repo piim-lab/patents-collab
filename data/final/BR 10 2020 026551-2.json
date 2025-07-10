@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2020 026551-2",
+    "filingDate": "23/12/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE GERENCIAMENTO DE ESPA\u00c7O INTERNO PARA UMA AERONAVE, AERONAVE COM O SISTEMA DE GERENCIAMENTO DE ESPA\u00c7O INTERNO, BEM COMO PROCESSO PARA O CONTROLE DO SISTEMA DE GERENCIAMENTO DE ESPA\u00c7O INTERNO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102020000373.7",
+            "priorityDate": "23/01/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2783"
+        }
+    ],
+    "inventors": [
+        "LOTHAR TRUNK",
+        "MARCEL SCHMEDES",
+        "GOONESHWAREE HURRY"
+    ],
+    "holders": [
+        11520
+    ],
+    "ipcCodes": [
+        "G06Q 50/30"
+    ]
+}

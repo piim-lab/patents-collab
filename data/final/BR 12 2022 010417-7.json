@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2022 010417-7",
+    "filingDate": "29/12/2016",
+    "grantDate": null,
+    "title": "SISTEMA CATALISADOR ISENTO DE FTALATO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/273,584",
+            "priorityDate": "31/12/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/278,256",
+            "priorityDate": "13/01/2016"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/12/2016",
+        "applicationNumber": "BR 11 2018 013506-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "BRANDI MITCHELL",
+        "CRAIG MEVERDEN"
+    ],
+    "holders": [
+        82017
+    ],
+    "ipcCodes": [
+        "C08F 2/00",
+        "C08F 4/00",
+        "C08F 4/64",
+        "B01J 31/38",
+        "C08F 4/654"
+    ]
+}

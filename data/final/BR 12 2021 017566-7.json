@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 12 2021 017566-7",
+    "filingDate": "01/07/2015",
+    "grantDate": null,
+    "title": "M\u00c9TODO E COMPOSI\u00c7\u00c3O PARA MELHORAR REPEL\u00caNCIA A P\u00c1SSARO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/028,900",
+            "priorityDate": "25/07/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/07/2015",
+        "applicationNumber": "BR 11 2017 001522-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "KENNETH E BALLINGER JR",
+        "SCOTT JOHN WERNER"
+    ],
+    "holders": [
+        79997,
+        177317
+    ],
+    "ipcCodes": [
+        "A01M 29/06"
+    ]
+}

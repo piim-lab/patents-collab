@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 031318-0",
+    "filingDate": "12/06/2013",
+    "grantDate": null,
+    "title": "Processo de entalhe de tubo e m\u00e1quina de entalhe associada",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "12 55602",
+            "priorityDate": "15/06/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "S\u00c9BASTIEN BAUDY"
+    ],
+    "holders": [
+        143927
+    ],
+    "ipcCodes": [
+        "B21J 5/12",
+        "B60N 2/00",
+        "B21C 37/15",
+        "B21K 1/76",
+        "B21K 23/00",
+        "B21D 17/02",
+        "B21C 37/26",
+        "B21C 37/20",
+        "B21D 22/04"
+    ]
+}

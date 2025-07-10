@@ -1,0 +1,35 @@
+{
+    "applicationNumber": "BR 10 2018 016189-0",
+    "filingDate": "08/08/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA UM TRANSPONDER VIRTUAL EM UM VE\u00cdCULO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2502"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        }
+    ],
+    "inventors": [
+        "ROBERT J WINIG",
+        "ERIC ANDEN",
+        "KRISTINA MILLER",
+        "DIMITRI D THOMAS"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "H04B 7/185"
+    ]
+}

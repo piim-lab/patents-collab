@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 011288-3",
+    "filingDate": "10/06/2021",
+    "grantDate": null,
+    "title": "SISTEMA PARA GEST\u00c3O DE ARMAMENTOS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2647"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "CRIST\u00d3V\u00c3O DINIZ TREVISAN",
+        "CARLUS FLAVIUS AUGUSTUS BRAND\u00c3O E MACIEL"
+    ],
+    "holders": [
+        68120
+    ],
+    "ipcCodes": [
+        "G06F 13/00",
+        "G08C 17/00",
+        "F41A 17/06",
+        "G16Z 99/00",
+        "G08C 25/04"
+    ]
+}

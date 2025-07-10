@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2016 007337-5",
+    "filingDate": "01/04/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO EMISSOR DE LUZ E M\u00c9TODO PARA FABRICAR O MESMO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-076137",
+            "priorityDate": "02/04/2015"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-048776",
+            "priorityDate": "11/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2575"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "IKUKO BAIKE",
+        "RYO SUZUKI",
+        "HIROKI TAKAHASHI",
+        "YOSHITAKA BANDO"
+    ],
+    "holders": [
+        5000
+    ],
+    "ipcCodes": [
+        "H01L 33/48",
+        "H01L 23/31",
+        "H01L 23/29",
+        "H01L 33/56"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 10 2022 010233-3",
+    "filingDate": "25/05/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE ESTEIRA POR PEDAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2760"
+        }
+    ],
+    "inventors": [
+        "FERNANDO MARTINS DE CASTRO CHAIB",
+        "TIAGO ALEXANDRE SILVA",
+        "LEANDRO C\u00c9SAR DA SILVA",
+        "CHARLES AUGUSTO BRAGA LEANDRO"
+    ],
+    "holders": [
+        136,
+        474,
+        231
+    ],
+    "ipcCodes": [
+        "G10D 13/00"
+    ]
+}

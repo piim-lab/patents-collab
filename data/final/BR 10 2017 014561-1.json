@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2017 014561-1",
+    "filingDate": "05/07/2017",
+    "grantDate": null,
+    "title": "VE\u00cdCULO COM SELIM",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-189544",
+            "priorityDate": "28/09/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "SHUNSUKE AOBA",
+        "TOMOHIRO SUZUKI",
+        "KEITA MIKURA",
+        "DAIKI HAMAGUCHI"
+    ],
+    "holders": [
+        2553,
+        147
+    ],
+    "ipcCodes": []
+}

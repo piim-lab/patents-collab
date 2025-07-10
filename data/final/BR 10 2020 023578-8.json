@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 10 2020 023578-8",
+    "filingDate": "18/11/2020",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES E M\u00c9TODOS PARA TRATAMENTO DO OLHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/937,467",
+            "priorityDate": "19/11/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/937,450",
+            "priorityDate": "19/11/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/099,166",
+            "priorityDate": "16/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2718"
+        }
+    ],
+    "inventors": [
+        "HWA TING LI",
+        "KHALID MAHMOOD",
+        "RAMINE PARSA",
+        "MINGQI BAI",
+        "KENNETH T HOLEVA"
+    ],
+    "holders": [
+        19604
+    ],
+    "ipcCodes": [
+        "A61K 36/28",
+        "A61K 8/9789",
+        "A61P 27/04",
+        "C07C 49/215"
+    ]
+}

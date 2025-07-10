@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2022 009005-0",
+    "filingDate": "09/05/2022",
+    "grantDate": "16/05/2023",
+    "title": "KIT DE PERFIS E ACESS\u00d3RIOS PARA FECHAMENTO DE V\u00c3OS",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "28.10.4",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de depositante MEI, ME ou EPP",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "3.2",
+            "description": "Publica\u00e7\u00e3o Antecipada",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2775"
+        }
+    ],
+    "inventors": [
+        "DURVAL MIOLA FILHO"
+    ],
+    "holders": [
+        75547
+    ],
+    "ipcCodes": [
+        "E06B 1/14",
+        "E06B 3/64"
+    ]
+}

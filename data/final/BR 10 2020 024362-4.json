@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2020 024362-4",
+    "filingDate": "29/11/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO IMPLEMENTADO COMPUTACIONALMENTE DE INJE\u00c7\u00c3O TERMINOL\u00d3GICA BASEADA EM SEM\u00c2NTICA NA ETAPA DE P\u00d3S-EDI\u00c7\u00c3O DE SISTEMAS DE TRADU\u00c7\u00c3O POR M\u00c1QUINA",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2803"
+        },
+        {
+            "code": "8.7",
+            "description": "Restaura\u00e7\u00e3o - Art. 87 da LPI",
+            "bulletinNumber ": "2808"
+        }
+    ],
+    "inventors": [
+        "TIAGO TIMPONI TORRENT",
+        "ELY EDISON DA SILVA MATOS",
+        "ALEXANDRE DINIZ DA COSTA",
+        "MATEUS COUTINHO MARIM"
+    ],
+    "holders": [
+        136,
+        1939
+    ],
+    "ipcCodes": [
+        "G06F 40/58",
+        "G06F 16/36",
+        "G06F 40/30"
+    ]
+}

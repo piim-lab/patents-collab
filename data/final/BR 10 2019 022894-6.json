@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2019 022894-6",
+    "filingDate": "31/10/2019",
+    "grantDate": null,
+    "title": "IMPLANTE M\u00c9DICO COM RECURSO DE C\u00d3DIGO IMPRESSO EM 3D",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/182,831",
+            "priorityDate": "07/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        }
+    ],
+    "inventors": [
+        "EDWARD P KAVANAGH",
+        "AOIFE M DEVLIN"
+    ],
+    "holders": [
+        46877
+    ],
+    "ipcCodes": [
+        "A61F 2/02",
+        "G06K 7/10",
+        "A61F 2/28",
+        "G06K 7/14",
+        "A61F 2/32",
+        "A61F 2/30",
+        "B29C 64/10"
+    ]
+}

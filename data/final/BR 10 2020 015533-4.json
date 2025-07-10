@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 015533-4",
+    "filingDate": "30/07/2020",
+    "grantDate": null,
+    "title": "ALOJAMENTO DE ALIMENTADOR PARA M\u00c1QUINA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/525,746",
+            "priorityDate": "30/07/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        }
+    ],
+    "inventors": [
+        "CALE BORIACK",
+        "WAYNE T FLICKINGER",
+        "JISHAN JIN",
+        "MICHAEL MINNICH",
+        "KAI ZHAO"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01F 12/16"
+    ]
+}

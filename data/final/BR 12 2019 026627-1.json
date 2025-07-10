@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2019 026627-1",
+    "filingDate": "04/07/2012",
+    "grantDate": null,
+    "title": "USO DE CE\u00b4LULAS DENDRI\u00b4TICAS IMATURAS CARREGADAS COM CE\u00b4LULAS TUMORAIS APOPTO\u00b4TICAS PARA A PREPARAC\u00b8A~O DE UMA VACINA TUMORAL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11 172622.0",
+            "priorityDate": "05/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/504,387",
+            "priorityDate": "05/07/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/07/2012",
+        "applicationNumber": "BR 11 2013 031084-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2610"
+        }
+    ],
+    "inventors": [
+        "JIRINA BARTUNKOV\u00c1",
+        "RADEK SPISEK"
+    ],
+    "holders": [
+        127967
+    ],
+    "ipcCodes": [
+        "A61K 39/00"
+    ]
+}

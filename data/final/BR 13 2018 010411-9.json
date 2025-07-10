@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 13 2018 010411-9",
+    "filingDate": "22/05/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE CORTE PARA M\u00c1QUINA COLHEDORA DE CANA-DE-A\u00c7\u00daCAR E M\u00c1QUINA COLHEDORA DE CANA-DE-A\u00c7\u00daCAR",
+    "parentApplication": {
+        "filingDate": "09/04/2012",
+        "applicationNumber": "BR 11 2014 025168-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2475"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        }
+    ],
+    "inventors": [
+        "LUIS B FRACCAROLI",
+        "WALTERLEY SOUZA"
+    ],
+    "holders": [
+        16942
+    ],
+    "ipcCodes": [
+        "A01D 45/10",
+        "A01D 34/66"
+    ]
+}

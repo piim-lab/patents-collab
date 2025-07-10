@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 11 2012 023852-3",
+    "filingDate": "11/03/2011",
+    "grantDate": "10/11/2020",
+    "title": "VACINAS RECOMBINANTES DO V\u00cdRUS DA L\u00cdNGUA AZUL E USOS DAS MESMAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/313,164",
+            "priorityDate": "12/03/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/366,363",
+            "priorityDate": "21/07/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2556"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2765"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "CHRISTOPHE AUDONNET",
+        "XUAN GUO",
+        "KEVIN COX"
+    ],
+    "holders": [
+        81379,
+        98980
+    ],
+    "ipcCodes": [
+        "C12N 15/82",
+        "C07K 14/14",
+        "A61K 39/15"
+    ]
+}

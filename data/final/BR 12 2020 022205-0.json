@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 12 2020 022205-0",
+    "filingDate": "29/10/2015",
+    "grantDate": null,
+    "title": "SISTEMA DE COMUNICA\u00c7\u00d5ES VIA SAT\u00c9LITE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "14191164.4",
+            "priorityDate": "30/10/2014"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15171421.9",
+            "priorityDate": "10/06/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/10/2015",
+        "applicationNumber": "BR 10 2015 027507-2"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2752"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2762"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        20104
+    ],
+    "ipcCodes": []
+}

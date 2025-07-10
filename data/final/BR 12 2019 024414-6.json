@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2019 024414-6",
+    "filingDate": "20/11/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA RESFRIAR UM ARRANJO DE TRANSFER\u00caNCIA DE HIDROCARBONETOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "08169566.0",
+            "priorityDate": "20/11/2008"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "09159105.7",
+            "priorityDate": "29/04/2009"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "20/11/2009",
+        "applicationNumber": "PI 0921922-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "PIETER LIEM",
+        "ROBERT FOURNIER",
+        "CHARLES RINALDI"
+    ],
+    "holders": [
+        85433
+    ],
+    "ipcCodes": [
+        "B63B 27/34"
+    ]
+}

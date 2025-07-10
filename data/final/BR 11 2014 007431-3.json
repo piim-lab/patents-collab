@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2014 007431-3",
+    "filingDate": "21/09/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O E PNEU DE BORRACHA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-218119",
+            "priorityDate": "30/09/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2012-039412",
+            "priorityDate": "24/02/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2597"
+        }
+    ],
+    "inventors": [
+        "SHIGENAO KUWAHARA",
+        "KEI HIRATA",
+        "DAISUKE KODA"
+    ],
+    "holders": [
+        91624,
+        94460
+    ],
+    "ipcCodes": [
+        "B60C 1/00",
+        "C08L 7/00",
+        "C08K 3/04",
+        "C08L 47/00",
+        "C08F 136/22"
+    ]
+}

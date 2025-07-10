@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 10 2023 008351-0",
+    "filingDate": "02/05/2023",
+    "grantDate": null,
+    "title": "PROCESSO AUTOMATIZADO PARA BENEFICIAMENTO DE ALGOD\u00c3O",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2732"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "MAGNO T\u00daLIO MARTINS BORGES"
+    ],
+    "holders": [
+        73082
+    ],
+    "ipcCodes": [
+        "F26B 21/00"
+    ]
+}

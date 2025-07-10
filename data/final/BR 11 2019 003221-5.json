@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2019 003221-5",
+    "filingDate": "31/07/2017",
+    "grantDate": null,
+    "title": "Z\u00cdPER COM GANCHO AUTOM\u00c1TICO.",
+    "nationalPhaseDate": [
+        "18/02/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT ES2017/070556",
+        "pctDate": "31/07/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "P201631113",
+            "priorityDate": "22/08/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "CARLOS FERN\u00c1NDEZ VERD\u00da"
+    ],
+    "holders": [
+        236251
+    ],
+    "ipcCodes": [
+        "A44B 19/00"
+    ]
+}

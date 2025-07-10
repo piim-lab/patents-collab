@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 11 2020 015129-7",
+    "filingDate": "24/01/2019",
+    "grantDate": null,
+    "title": "CORRE\u00c7\u00c3O DE COR",
+    "nationalPhaseDate": [
+        "24/07/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2019/051696",
+        "pctDate": "24/01/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18382043.0",
+            "priorityDate": "26/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "ISMAEL BENITO ALTAMIRANO",
+        "OLGA CASALS GUILLEN",
+        "CRISTIAN FABREGA GALLEGO",
+        "JUAN DANIEL PRADES GARC\u00cdA",
+        "ANDREAS HANS WILHELM WAAG"
+    ],
+    "holders": [
+        149153
+    ],
+    "ipcCodes": [
+        "H04N 1/60",
+        "H04N 1/32",
+        "G01J 3/02",
+        "G01J 3/52"
+    ]
+}

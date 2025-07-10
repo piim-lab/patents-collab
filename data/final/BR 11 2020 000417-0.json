@@ -1,0 +1,86 @@
+{
+    "applicationNumber": "BR 11 2020 000417-0",
+    "filingDate": "30/03/2018",
+    "grantDate": null,
+    "title": "TRAVESSEIRO DE VIAGEM E CAPA PARA TRAVESSEIRO DE VIAGEM",
+    "nationalPhaseDate": [
+        "08/01/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/025520",
+        "pctDate": "30/03/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/531,278",
+            "priorityDate": "11/07/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/571,785",
+            "priorityDate": "12/10/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/574,366",
+            "priorityDate": "19/10/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/904,400",
+            "priorityDate": "25/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2684"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "DAVID BRET STERNLIGHT",
+        "JOHN EDWARD WILKENING"
+    ],
+    "holders": [
+        120078
+    ],
+    "ipcCodes": [
+        "A47G 9/10",
+        "A47C 7/38",
+        "A47C 21/02"
+    ]
+}

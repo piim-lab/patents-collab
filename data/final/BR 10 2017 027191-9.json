@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2017 027191-9",
+    "filingDate": "15/12/2017",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE JUNTA DE SOQUETE, DISPOSITIVO DE FIXA\u00c7\u00c3O E SISTEMA INDIRETO VISUAL PARA VE\u00cdCULOS",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "1020162252933",
+            "priorityDate": "16/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2477"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "WERNER LANG",
+        "GEORG HECHT"
+    ],
+    "holders": [
+        106
+    ],
+    "ipcCodes": [
+        "B60R 1/04",
+        "B60R 1/06",
+        "F16C 11/06",
+        "B60R 1/02",
+        "F16B 1/02"
+    ]
+}

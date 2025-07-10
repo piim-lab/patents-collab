@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2017 008239-3",
+    "filingDate": "20/04/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE CONDICIONAMENTO DE AR DE AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/136,139",
+            "priorityDate": "22/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2654"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "LOUIS J BRUNO"
+    ],
+    "holders": [
+        1795
+    ],
+    "ipcCodes": [
+        "B64D 13/06",
+        "F25B 13/00"
+    ]
+}

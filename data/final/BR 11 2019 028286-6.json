@@ -1,0 +1,79 @@
+{
+    "applicationNumber": "BR 11 2019 028286-6",
+    "filingDate": "30/11/2018",
+    "grantDate": null,
+    "title": "DETECTOR COM RU\u00cdDO DE FAIXA DE FLUORESC\u00caNCIA REDUZIDO",
+    "nationalPhaseDate": [
+        "30/12/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2018/063395",
+        "pctDate": "30/11/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/611,464",
+            "priorityDate": "28/12/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/644,804",
+            "priorityDate": "19/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2557"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2601"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2619"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "TRACY H FUNG",
+        "POORYA SABOUNCHI",
+        "BERNARD HIRSCHBEIN",
+        "JOSEPH PINTO",
+        "TARUN KHURANA",
+        "RANDALL SMITH",
+        "WENYI FENG"
+    ],
+    "holders": [
+        36618
+    ],
+    "ipcCodes": [
+        "G01N 21/64"
+    ]
+}

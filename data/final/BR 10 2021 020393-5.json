@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2021 020393-5",
+    "filingDate": "11/10/2021",
+    "grantDate": null,
+    "title": "M\u00d3DULO DE PERCEP\u00c7\u00c3O TRASEIRO, E, VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/111,687",
+            "priorityDate": "10/11/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/466,215",
+            "priorityDate": "03/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        }
+    ],
+    "inventors": [
+        "TROY K MADDOX",
+        "JORDAN L ZERR",
+        "TYLER NIDAY",
+        "JEFFREY E RUNDE",
+        "MARGAUX M ASCHERL"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "G05D 1/10",
+        "B60R 21/0134",
+        "G06V 20/56",
+        "G06V 10/96"
+    ]
+}

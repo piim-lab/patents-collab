@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 071402-3",
+    "filingDate": "17/10/2018",
+    "grantDate": null,
+    "title": "DIFERENCIAL DE VE\u00cdCULO A MOTOR COM UM DISPOSITIVO DE FAIXA BAIXA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18158994.6",
+            "priorityDate": "27/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "MARCO CONSANI",
+        "GIANLUIGI PREGNOLATO"
+    ],
+    "holders": [
+        18011
+    ],
+    "ipcCodes": [
+        "F16H 48/06",
+        "F16H 37/08",
+        "F16H 48/05",
+        "F16H 37/10"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2015 012863-0",
+    "filingDate": "02/06/2015",
+    "grantDate": "26/01/2021",
+    "title": "PROCESSO PARA PRODU\u00c7\u00c3O DE UM COPO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2014 210 960.4",
+            "priorityDate": "06/06/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2689"
+        }
+    ],
+    "inventors": [
+        "UWE MESSERSCHMID"
+    ],
+    "holders": [
+        17879
+    ],
+    "ipcCodes": [
+        "B29C 65/00",
+        "B29L 31/00",
+        "B31B 50/81",
+        "B29C 65/10",
+        "B31B 105/00",
+        "B31B 50/44",
+        "B31B 50/00",
+        "B31B 120/00",
+        "B31B 110/10",
+        "B31B 50/28",
+        "B65D 3/10"
+    ]
+}

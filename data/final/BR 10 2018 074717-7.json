@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 074717-7",
+    "filingDate": "29/11/2018",
+    "grantDate": null,
+    "title": "COMPRIMENTO CRESCENTE DOS TEL\u00d4MEROS EM UMA C\u00c9LULA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/827,223",
+            "priorityDate": "30/11/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2529"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "9.2.4",
+            "description": "Manuten\u00e7\u00e3o do Indeferimento",
+            "bulletinNumber ": "2768"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        44169
+    ],
+    "ipcCodes": []
+}

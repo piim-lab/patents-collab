@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 11 2016 001983-0",
+    "filingDate": "22/07/2014",
+    "grantDate": null,
+    "title": "CESTO PARA TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "AT",
+            "priorityNumber": "GM 254/2013",
+            "priorityDate": "02/08/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2641"
+        }
+    ],
+    "inventors": [
+        "CHRISTIAN HORA"
+    ],
+    "holders": [
+        105012
+    ],
+    "ipcCodes": [
+        "B66F 11/04",
+        "B66F 17/00"
+    ]
+}

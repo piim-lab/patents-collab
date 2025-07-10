@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 001439-3",
+    "filingDate": "26/01/2021",
+    "grantDate": null,
+    "title": "SISTEMAS E M\u00c9TODOS PARA DETERMINAR A DISPONIBILIDADE DE ESPA\u00c7O EM UMA AERONAVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/797,061",
+            "priorityDate": "21/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2628"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2781"
+        }
+    ],
+    "inventors": [
+        "AMAR PATEL",
+        "VINUTHA PATEL"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64D 11/00",
+        "G06Q 50/30",
+        "B64D 45/00",
+        "B64F 5/60",
+        "G01S 11/00",
+        "G01S 11/10"
+    ]
+}

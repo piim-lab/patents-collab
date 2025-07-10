@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 10 2017 002236-6",
+    "filingDate": "02/02/2017",
+    "grantDate": null,
+    "title": "PISTOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "16155097.5",
+            "priorityDate": "10/02/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2749"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2756"
+        }
+    ],
+    "inventors": [
+        "MIROSLAV NOV\u00c1K",
+        "NICOLA BANDINI",
+        "LAURENT BALHAN",
+        "DORIAN DELVAUX"
+    ],
+    "holders": [
+        249375,
+        271697,
+        233684,
+        26234,
+        308159
+    ],
+    "ipcCodes": [
+        "F41C 3/00",
+        "F41A 19/13",
+        "F41A 19/30"
+    ]
+}

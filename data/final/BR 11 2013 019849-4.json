@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 11 2013 019849-4",
+    "filingDate": "01/02/2012",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00c3O DE SOLDA LIVRE DE CHUMBO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/439,538",
+            "priorityDate": "04/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/540,213",
+            "priorityDate": "28/09/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2493"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2631"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2724"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2746"
+        }
+    ],
+    "inventors": [
+        "JENNIE S HWANG",
+        "JOHN PEREIRA",
+        "ALEXANDRA M MACKIN",
+        "JOSEPH C GONSALVES"
+    ],
+    "holders": [
+        120685
+    ],
+    "ipcCodes": [
+        "C22C 28/00",
+        "B23K 35/24"
+    ]
+}

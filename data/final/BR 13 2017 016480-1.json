@@ -1,0 +1,32 @@
+{
+    "applicationNumber": "BR 13 2017 016480-1",
+    "filingDate": "31/07/2017",
+    "grantDate": null,
+    "title": "SIRENE ELETR\u00d4NICA, COM ALERTA VISUAL DE ATIVA\u00c7\u00c3O",
+    "parentApplication": {
+        "filingDate": "24/06/2010",
+        "applicationNumber": "PI 1001903-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2750"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2757"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        352512
+    ],
+    "ipcCodes": []
+}

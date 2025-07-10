@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 010727-8",
+    "filingDate": "29/11/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA PRODUZIR ETILENO GLICOL A PARTIR DE ETILENO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10193003.0",
+            "priorityDate": "29/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2494"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2544"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2554"
+        }
+    ],
+    "inventors": [
+        "ABRAHAM ADRIAAN SMAARDIJK FALECIDO",
+        "HENDRIK STICHTER"
+    ],
+    "holders": [
+        13060
+    ],
+    "ipcCodes": [
+        "C07C 29/80",
+        "C07C 31/20",
+        "C07C 31/36",
+        "C07C 29/09",
+        "C07D 301/04",
+        "C07D 317/38",
+        "C07C 29/12",
+        "C07D 317/12",
+        "C07D 301/32",
+        "C07C 29/64"
+    ]
+}

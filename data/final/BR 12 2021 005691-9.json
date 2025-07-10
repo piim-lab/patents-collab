@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2021 005691-9",
+    "filingDate": "03/03/2014",
+    "grantDate": null,
+    "title": "PROCESSO PARA A FABRICA\u00c7\u00c3O DE UMA SUBST\u00c2NCIA MEDICAMENTOSA DE PROTE\u00cdNA TERAP\u00caUTICA",
+    "divisionalApplication": {
+        "filingDate": "03/03/2014",
+        "applicationNumber": "BR 11 2015 021495-9"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2623"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        83413
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2015 019015-4",
+    "filingDate": "03/02/2015",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE LAVAR ROUPA, E M\u00c9TODO PARA CONTROLAR UMA M\u00c1QUINA DE LAVAR ROUPA",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2014-0026898",
+            "priorityDate": "07/03/2014"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2014-0027340",
+            "priorityDate": "07/03/2014"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2015-0006041",
+            "priorityDate": "13/01/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2679"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "YEON WOO KIM"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "D06F 39/08"
+    ]
+}

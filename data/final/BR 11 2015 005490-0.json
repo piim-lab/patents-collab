@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2015 005490-0",
+    "filingDate": "11/09/2013",
+    "grantDate": null,
+    "title": "Estrutura de filme",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/613,975",
+            "priorityDate": "13/09/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "JO\u00c3O GARGALAKA",
+        "FELIPE MARTINEZ BARRENECHE",
+        "JORGE CAMINERO GOMES",
+        "NICOLAS C MAZZOLA"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "B32B 27/32",
+        "B32B 27/30",
+        "B32B 27/08"
+    ]
+}

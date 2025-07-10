@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2018 074488-0",
+    "filingDate": "27/01/2009",
+    "grantDate": null,
+    "title": "GERADOR LINEAR COM UMA ESTRUTURA DE CILINDRO DE PRESS\u00c3O DE FLU\u00cdDO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "JP2008-27923",
+            "priorityDate": "07/02/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/01/2009",
+        "applicationNumber": "PI 0905732-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2518"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2537"
+        }
+    ],
+    "inventors": [
+        "TAKAITSU KOBAYASHI",
+        "TAKAITSU KOBAYASHI"
+    ],
+    "holders": [
+        99193
+    ],
+    "ipcCodes": [
+        "H02K 35/02",
+        "H02K 35/00"
+    ]
+}

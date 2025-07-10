@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 012736-5",
+    "filingDate": "22/06/2020",
+    "grantDate": null,
+    "title": "SISTEMA E M\u00c9TODO PARA INTERA\u00c7\u00c3O DE ESPECTADORES EM UM EVENTO TRANSMITIDO POR V\u00cdDEO EM TEMPO REAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2755"
+        }
+    ],
+    "inventors": [
+        "LUCIANO BARTH LOPES"
+    ],
+    "holders": [
+        59439
+    ],
+    "ipcCodes": [
+        "H04N 21/4788",
+        "H04N 21/4722"
+    ]
+}

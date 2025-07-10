@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 002572-7",
+    "filingDate": "10/02/2021",
+    "grantDate": null,
+    "title": "ALMOFADA ERGON\u00d4MICA CONFIGUR\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/790,403",
+            "priorityDate": "13/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "REBECCA COOK"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "A47G 9/10",
+        "A47C 27/00"
+    ]
+}

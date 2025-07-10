@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2020 005669-7",
+    "filingDate": "20/03/2020",
+    "grantDate": null,
+    "title": "DISPENSADOR DE BEBIDAS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "EP19164408.7",
+            "priorityDate": "21/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2600"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "DR MONIQUE BISSEN",
+        "JOSEF SCHUCKER",
+        "JEROME PELLAUD",
+        "DANIEL PEIRSMAN",
+        "ROBERT WILLIAM BALSTAD",
+        "SCOTT THOMAS LOOMIS",
+        "GIOVANNI JOS\u00c9 MONDINI"
+    ],
+    "holders": [
+        100000,
+        361849,
+        50140,
+        91080
+    ],
+    "ipcCodes": [
+        "B67D 1/04"
+    ]
+}

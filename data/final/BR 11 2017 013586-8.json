@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 11 2017 013586-8",
+    "filingDate": "14/12/2015",
+    "grantDate": null,
+    "title": "FREIO A DISCO DE VE\u00cdCULO",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2014-261903",
+            "priorityDate": "25/12/2014"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-211664",
+            "priorityDate": "28/10/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2692"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2702"
+        }
+    ],
+    "inventors": [
+        "TORU AONUMA",
+        "KAZUMASA UEHARA",
+        "YOSHIYUKI IMAI",
+        "CHIHIRO IIDA"
+    ],
+    "holders": [
+        147,
+        21950
+    ],
+    "ipcCodes": [
+        "F16D 65/092",
+        "F16D 65/095"
+    ]
+}

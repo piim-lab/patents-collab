@@ -1,0 +1,65 @@
+{
+    "applicationNumber": "BR 12 2020 007580-5",
+    "filingDate": "21/01/2013",
+    "grantDate": null,
+    "title": "Decodificador, codificador e m\u00e9todo para decodifica\u00e7\u00e3o de um fluxo cont\u00ednuo de dados.",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/588,846",
+            "priorityDate": "20/01/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "21/01/2013",
+        "applicationNumber": "BR 11 2014 017916-6"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "28.20",
+            "description": "Peti\u00e7\u00e3o de tr\u00e2mite priorit\u00e1rio n\u00e3o conhecida",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2643"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2651"
+        }
+    ],
+    "inventors": [
+        "TUNG NGUYEN",
+        "HEINER KIRCHHOFFER",
+        "DETLEV MARPE"
+    ],
+    "holders": [
+        101422
+    ],
+    "ipcCodes": [
+        "H03M 7/40"
+    ]
+}

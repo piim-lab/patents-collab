@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2019 003350-9",
+    "filingDate": "19/02/2019",
+    "grantDate": null,
+    "title": "SISTEMAS DE GERENCIAMENTO T\u00c9RMICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/901,779",
+            "priorityDate": "21/02/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2730"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "DAVID W FOUTCH",
+        "FREDERICK THEODORE CALKINS"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "F28F 13/00",
+        "G05D 23/275",
+        "F28F 27/00",
+        "G05D 23/02",
+        "G05D 23/185"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2019 013576-6",
+    "filingDate": "29/12/2017",
+    "grantDate": null,
+    "title": "TERAPIA GENICA PARA O TRATAMENTO DA FENILCETONURIA",
+    "nationalPhaseDate": [
+        "28/06/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/068897",
+        "pctDate": "29/12/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/440,651",
+            "priorityDate": "30/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/469,898",
+            "priorityDate": "10/03/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/505,373",
+            "priorityDate": "12/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2704"
+        }
+    ],
+    "inventors": [
+        "JAMES M WILSON",
+        "JENNY AGNES SIDRANE",
+        "SCOTT ASHLEY"
+    ],
+    "holders": [
+        89061
+    ],
+    "ipcCodes": [
+        "A61K 48/00",
+        "A61P 3/00",
+        "A61K 35/76"
+    ]
+}

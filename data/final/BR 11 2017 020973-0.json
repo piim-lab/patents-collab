@@ -1,0 +1,74 @@
+{
+    "applicationNumber": "BR 11 2017 020973-0",
+    "filingDate": "01/04/2016",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA TRATAR C\u00c2NCER EM UM PACIENTE",
+    "nationalPhaseDate": [
+        "29/09/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/025482",
+        "pctDate": "01/04/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/142569",
+            "priorityDate": "03/04/2015"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/079136",
+            "priorityDate": "24/03/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2479"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2809"
+        }
+    ],
+    "inventors": [
+        "MATTHEW V LORENZI",
+        "SUSO JESUS PLATERO",
+        "RALUCA VERONA",
+        "JAYAPRAKASH KARKERA",
+        "STEVEN HOFFMAN",
+        "STEVEN HOFFMAN"
+    ],
+    "holders": [
+        140371,
+        102045
+    ],
+    "ipcCodes": [
+        "A61P 35/00",
+        "A61K 31/404",
+        "A61K 31/198",
+        "A61K 31/436",
+        "A61K 31/415",
+        "A61K 38/34"
+    ]
+}

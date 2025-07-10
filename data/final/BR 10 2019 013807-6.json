@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2019 013807-6",
+    "filingDate": "03/07/2019",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE CONSTRU\u00c7\u00c3O COM UM SISTEMA DE CORREIA TRANSPORTADORA COM SENSOR DE PESO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18183360.9",
+            "priorityDate": "13/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2764"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2775"
+        }
+    ],
+    "inventors": [
+        "STEFFEN FICKEISEN",
+        "ARNOLD RUTZ",
+        "ROMAN MUNZ",
+        "MARTIN BUSCHMANN"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48",
+        "G01G 11/04",
+        "G01G 11/00",
+        "G01G 11/12"
+    ]
+}

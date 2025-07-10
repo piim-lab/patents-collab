@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 10 2018 003043-4",
+    "filingDate": "16/02/2018",
+    "grantDate": null,
+    "title": "ATUADOR DE CILINDRO DE G\u00c1S COM DISPOSITIVO DE SEGURAN\u00c7A PARA RETORNO N\u00c3O CONTROLADO DO PIST\u00c3O-HASTE",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102017000018002",
+            "priorityDate": "17/02/2017"
+        },
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102017000051549",
+            "priorityDate": "12/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2495"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2727"
+        }
+    ],
+    "inventors": [
+        "MASSIMO FIORESE",
+        "DANIEL FANTINATO",
+        "FRANCESCO BORDIN"
+    ],
+    "holders": [
+        5824
+    ],
+    "ipcCodes": [
+        "F15B 15/22",
+        "F16F 9/02",
+        "F15B 15/14"
+    ]
+}

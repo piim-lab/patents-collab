@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2017 021249-1",
+    "filingDate": "03/10/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO PARA EXECUTAR UM PROCESSO DE DEPOSI\u00c7\u00c3O DE VAPOR QU\u00cdMICO PLASM\u00c1TICO",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "NL 2017575",
+            "priorityDate": "04/10/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "MATTHEUS JACOBUS NICOLAAS VAN STRALEN",
+        "IGOR MILICEVIC",
+        "GERTJAN KRABSHUIS",
+        "TON BREULS"
+    ],
+    "holders": [
+        1807
+    ],
+    "ipcCodes": [
+        "C03B 37/018",
+        "C23C 16/511"
+    ]
+}

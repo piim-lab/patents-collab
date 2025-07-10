@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2014 000516-8",
+    "filingDate": "11/07/2012",
+    "grantDate": null,
+    "title": "Pain\u00e9is de constru\u00e7\u00e3o providos com sistema de travamento mec\u00e2nico",
+    "priorityClaims": [
+        {
+            "countryCode": "SE",
+            "priorityNumber": "11 50713-4",
+            "priorityDate": "19/07/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/509,309",
+            "priorityDate": "19/07/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2549"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "DARKO PERVAN",
+        "TONY PERVAN"
+    ],
+    "holders": [
+        129192
+    ],
+    "ipcCodes": [
+        "E04F 15/02",
+        "E04F 15/04"
+    ]
+}

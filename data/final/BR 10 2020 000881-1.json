@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2020 000881-1",
+    "filingDate": "15/01/2020",
+    "grantDate": null,
+    "title": "SISTEMA PARA PRODUZIR ASFALTO QUENTE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/353,580",
+            "priorityDate": "14/03/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2559"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2595"
+        }
+    ],
+    "inventors": [
+        "GILBERTO BARBOSA DA LUZ"
+    ],
+    "holders": [
+        55830
+    ],
+    "ipcCodes": [
+        "E01C 7/22",
+        "E01C 7/18",
+        "E01C 19/08"
+    ]
+}

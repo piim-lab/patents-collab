@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 000337-5",
+    "filingDate": "08/01/2019",
+    "grantDate": null,
+    "title": "ASA, E, M\u00c9TODO PARA FABRICA\u00c7\u00c3O DE NERVURAS DE ASA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/879,789",
+            "priorityDate": "25/01/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2510"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2785"
+        }
+    ],
+    "inventors": [
+        "GERFRIED R ACHTNER",
+        "YOUNG L ZEON"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B64C 3/18",
+        "B64F 5/10"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 20 2019 014327-0",
+    "filingDate": "10/07/2019",
+    "grantDate": null,
+    "title": "VEDA\u00c7\u00c3O MEC\u00c2NICA COM SISTEMA ANTIRROTA\u00c7\u00c3O MELHORADO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "102018000007098",
+            "priorityDate": "11/07/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2560"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2770"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2777"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO VENTURA",
+        "LUIGI MASSIMILIANO FERRI"
+    ],
+    "holders": [
+        361420
+    ],
+    "ipcCodes": [
+        "F16J 15/3268"
+    ]
+}

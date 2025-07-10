@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2014 003042-1",
+    "filingDate": "08/08/2012",
+    "grantDate": null,
+    "title": "PNEU PARA MOTOCICLETAS",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "RM2011A000432",
+            "priorityDate": "09/08/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/557629",
+            "priorityDate": "09/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        }
+    ],
+    "inventors": [
+        "MARIO MARIANI",
+        "LUCA BRUSCHELLI",
+        "SILVIO MONTANARI",
+        "FRANCESCO GAGLIARDI",
+        "PIERANGELO MISANI",
+        "PIERANGELO MISANI",
+        "MARIO MARIANI",
+        "PAOLO BRIVIO",
+        "SILVIO MONTANARI",
+        "GUIDO LUIGI DAGHINI",
+        "STEFANO TRESOLDI",
+        "MARIO MARIANI",
+        "LUCA MIRAGLIOTTA",
+        "FABRIZIO CRISTOFANI",
+        "ROBERTA GIAMBELLI",
+        "MARIO MARIANI",
+        "LISA GRASSI",
+        "LUCA MIRAGLIOTTA",
+        "MARIO MARIANI",
+        "LISA GRASSI",
+        "ROBERTA GIAMBELLI",
+        "LUCA BRUSCHELLI",
+        "LUCA MIRAGLIOTTA",
+        "MARIO MARIANI",
+        "SILVIO MONTANARI",
+        "PIERANGELO MISANI",
+        "LUCA BRUSCHELLI",
+        "FRANCESCO GAGLIARDI",
+        "MARIO MARIANI"
+    ],
+    "holders": [
+        79920,
+        89006
+    ],
+    "ipcCodes": [
+        "B60C 1/00",
+        "B60C 9/00",
+        "B60C 9/04"
+    ]
+}

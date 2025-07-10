@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 12 2020 001099-1",
+    "filingDate": "22/07/2005",
+    "grantDate": null,
+    "title": "PROCESSOS PARA DETEC\u00c7\u00c3O DE C\u00c2NCER DE BEXIGA, ANTICORPO, MISTURA DE ANTICORPOS, DISPOSITIVO PARA A DETEC\u00c7\u00c3O DE UM BTM, KIT PARA DETEC\u00c7\u00c3O DE C\u00c2NCER, PROCESSO PARA DISTINGUIR DOEN\u00c7A MALIGNA DA BEXIGA DA DOEN\u00c7A N\u00c3O MALIGNA DA BEXIGA E PROCESSO PARA A DETERMINA\u00c7\u00c3O DA EFICI\u00caNCIA DA TERAPIA PARA C\u00c2NCER DE BEXIGA",
+    "priorityClaims": [
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "534,289",
+            "priorityDate": "23/07/2004"
+        },
+        {
+            "countryCode": "NZ",
+            "priorityNumber": "539,219",
+            "priorityDate": "04/04/2005"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/692,619",
+            "priorityDate": "20/06/2005"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "22/07/2005",
+        "applicationNumber": "PI 0513692-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2617"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2658"
+        }
+    ],
+    "inventors": [
+        "PARRY JOHN GUILFORD",
+        "NATALIE JANE KERR",
+        "ROBERT POLLOCK"
+    ],
+    "holders": [
+        351778
+    ],
+    "ipcCodes": [
+        "C07K 14/47",
+        "G01N 33/574",
+        "C12Q 1/6886"
+    ]
+}

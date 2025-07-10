@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2021 026841-7",
+    "filingDate": "30/12/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA VERIFICAR VULNERABILIDADES DE DISPOSITIVOS DE REDE USANDO ENTRADAS DE CVE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/140,906",
+            "priorityDate": "04/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2688"
+        }
+    ],
+    "inventors": [
+        "ALESSANDRO CAVALLARO CORTI",
+        "MORENO CARULLO",
+        "ANDREA CARCANO"
+    ],
+    "holders": [
+        45393
+    ],
+    "ipcCodes": [
+        "G06F 21/57"
+    ]
+}

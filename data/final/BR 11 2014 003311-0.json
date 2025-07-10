@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2014 003311-0",
+    "filingDate": "10/08/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OBTEN\u00c7\u00c3O DE UMA C\u00c9LULA VEGETAL, M\u00c9TODO DE OBTEN\u00c7\u00c3O DE UMA PLANTA, VETOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/523,012",
+            "priorityDate": "12/08/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "DELIN LIANG",
+        "NICKOLAI ALEXANDROV",
+        "PING LU"
+    ],
+    "holders": [
+        80393
+    ],
+    "ipcCodes": [
+        "C12N 15/82",
+        "A01H 1/00",
+        "C12N 5/04",
+        "C12N 15/113",
+        "C12N 15/05"
+    ]
+}

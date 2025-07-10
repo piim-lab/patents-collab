@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2019 004909-0",
+    "filingDate": "13/03/2019",
+    "grantDate": null,
+    "title": "FERRAMENTA DE INSTALA\u00c7\u00c3O PARA UM FIXADOR CEGO E PROCEDIMENTO DE INSTALA\u00c7\u00c3O PARA UM FIXADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1852169",
+            "priorityDate": "13/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2540"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2697"
+        }
+    ],
+    "inventors": [
+        "LUC LEGER",
+        "AUR\u00c9LIEN BECHARD BOUQUIN"
+    ],
+    "holders": [
+        16000
+    ],
+    "ipcCodes": [
+        "F16B 37/00"
+    ]
+}

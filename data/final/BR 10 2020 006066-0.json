@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2020 006066-0",
+    "filingDate": "26/03/2020",
+    "grantDate": null,
+    "title": "PRENDEDOR TIPO PINO POR PRESS\u00c3O ADAPT\u00c1VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/824.758",
+            "priorityDate": "27/03/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/797.555",
+            "priorityDate": "21/02/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2587"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "KILEEAN BELL",
+        "MARK LEPPER"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": [
+        "F16B 21/07",
+        "F16B 21/08",
+        "F16B 37/08"
+    ]
+}

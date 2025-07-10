@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2013 021520-8",
+    "filingDate": "23/02/2012",
+    "grantDate": null,
+    "title": "APARELHO DE GERA\u00c7\u00c3O DE ENERGIA DE ONDA",
+    "nationalPhaseDate": [
+        "22/08/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT KR2012/001376",
+        "pctDate": "23/02/2012",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2011-0015944",
+            "priorityDate": "23/02/2011"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2011-0025432",
+            "priorityDate": "22/03/2011"
+        },
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2011-0131019",
+            "priorityDate": "08/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "DONG IN LEE"
+    ],
+    "holders": [
+        121930
+    ],
+    "ipcCodes": [
+        "F03B 17/02",
+        "F03B 13/18",
+        "F16D 41/069"
+    ]
+}

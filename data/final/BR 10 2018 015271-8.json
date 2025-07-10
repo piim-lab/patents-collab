@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 10 2018 015271-8",
+    "filingDate": "26/07/2018",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE REDE E M\u00c9TODO PARA DETERMINAR PROBLEMAS DE SEGURAN\u00c7A EM UM DISPOSITIVO DE REDE",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17306032.8",
+            "priorityDate": "02/08/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2483"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2663"
+        }
+    ],
+    "inventors": [
+        "RONAN VIGOUROUX",
+        "ANNE LAMBERT",
+        "GHISLAINE PONDAVEN",
+        "ERWAN LE MERRER"
+    ],
+    "holders": [
+        34116
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "H04L 29/08",
+        "G06F 21/57",
+        "G06F 16/9535"
+    ]
+}

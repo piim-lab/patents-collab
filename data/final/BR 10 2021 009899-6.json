@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2021 009899-6",
+    "filingDate": "21/05/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE DESINFEC\u00c7\u00c3O DE AR E DE SUPERF\u00cdCIE",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/029,463",
+            "priorityDate": "23/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/035,657",
+            "priorityDate": "05/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2789"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2800"
+        }
+    ],
+    "inventors": [
+        "ALAN KIVIAT"
+    ],
+    "holders": [
+        67689
+    ],
+    "ipcCodes": [
+        "A61L 9/18"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2021 005521-5",
+    "filingDate": "05/06/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO E DISPOSITIVO PARA TRATAMENTO DE G\u00c1S DE PETR\u00d3LEO",
+    "nationalPhaseDate": [
+        "23/03/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2020/094728",
+        "pctDate": "05/06/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201910492804.0",
+            "priorityDate": "06/06/2019"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201910575665.8",
+            "priorityDate": "28/06/2019"
+        },
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201910740666.3",
+            "priorityDate": "12/08/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2804"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2811"
+        }
+    ],
+    "inventors": [
+        "MENGQI HUANG",
+        "LONGHONG YU",
+        "LEI WU",
+        "SHENGYANG JIANG",
+        "YUWEN DING",
+        "NA GAO",
+        "DI WU",
+        "DAN DUAN"
+    ],
+    "holders": [
+        285163,
+        130926
+    ],
+    "ipcCodes": [
+        "B01D 53/14",
+        "C07C 7/00",
+        "C07C 11/06",
+        "C07C 9/06",
+        "C10G 53/02"
+    ]
+}

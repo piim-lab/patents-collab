@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2014 010874-9",
+    "filingDate": "06/12/2012",
+    "grantDate": "30/03/2021",
+    "title": "SISTEMA DE SUSPENS\u00c3O PNEUM\u00c1TICA DE UM VE\u00cdCULO A MOTOR",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2011 121 753.7",
+            "priorityDate": "21/12/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2621"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2684"
+        }
+    ],
+    "inventors": [
+        "TOBIAS G\u00d6MANN",
+        "MICHAEL HAVERKAMP",
+        "ANDREAS RUTSCH"
+    ],
+    "holders": [
+        13702
+    ],
+    "ipcCodes": [
+        "B60G 17/052",
+        "B60G 17/015",
+        "B60G 21/10",
+        "B60G 21/073"
+    ]
+}

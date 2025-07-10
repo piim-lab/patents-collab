@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 10 2018 005422-8",
+    "filingDate": "19/03/2018",
+    "grantDate": null,
+    "title": "SISTEMA DE SOLDAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/465,021",
+            "priorityDate": "21/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "JOSEPH A DANIEL",
+        "STEVEN R PETERS",
+        "DANIEL P FLEMING",
+        "JUDAH B HENRY"
+    ],
+    "holders": [
+        35633
+    ],
+    "ipcCodes": [
+        "B23K 9/10",
+        "B23K 9/12",
+        "B23K 9/09"
+    ]
+}

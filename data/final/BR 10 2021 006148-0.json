@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 006148-0",
+    "filingDate": "30/03/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE DE MOTOR DE VE\u00cdCULO DE TRABALHO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/853,587",
+            "priorityDate": "20/04/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2624"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2685"
+        }
+    ],
+    "inventors": [
+        "SCOTT N CLARK"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "F01M 11/10",
+        "F02D 41/22",
+        "F02B 77/08",
+        "F02D 17/04"
+    ]
+}

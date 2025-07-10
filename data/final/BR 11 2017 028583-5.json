@@ -1,0 +1,55 @@
+{
+    "applicationNumber": "BR 11 2017 028583-5",
+    "filingDate": "09/07/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO PARA A MEDI\u00c7\u00c3O EL\u00c9TRICA DE FOR\u00c7A",
+    "nationalPhaseDate": [
+        "29/12/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT DE2016/100305",
+        "pctDate": "09/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2015 111 425.9",
+            "priorityDate": "14/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2487"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2626"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2633"
+        }
+    ],
+    "inventors": [
+        "JAN KLEMM"
+    ],
+    "holders": [
+        204752
+    ],
+    "ipcCodes": [
+        "G01L 1/18",
+        "G01L 1/26",
+        "G01L 1/20"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2016 013325-0",
+    "filingDate": "08/12/2014",
+    "grantDate": null,
+    "title": "Sistema de administra\u00e7\u00e3o de droga",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/914,500",
+            "priorityDate": "11/12/2013"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13196737.4",
+            "priorityDate": "12/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        }
+    ],
+    "inventors": [
+        "WILLY J H VERHOEVEN",
+        "WOUTER DE GRAAFF"
+    ],
+    "holders": [
+        80757
+    ],
+    "ipcCodes": [
+        "A61K 9/00",
+        "A61K 31/569",
+        "A61K 31/565",
+        "A61K 47/32"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 13 2017 022195-3",
+    "filingDate": "16/10/2017",
+    "grantDate": null,
+    "title": "APERFEI\u00c7OAMENTOS APLICADOS EM JANELAS DESLIZANTES",
+    "parentApplication": {
+        "filingDate": "28/07/2015",
+        "applicationNumber": "BR 10 2015 017967-7"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2718"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2724"
+        }
+    ],
+    "inventors": [
+        "JOS\u00c9 GUILHERME ACETO"
+    ],
+    "holders": [
+        8759
+    ],
+    "ipcCodes": [
+        "E06B 3/46",
+        "E06B 3/02"
+    ]
+}

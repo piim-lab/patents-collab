@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 12 2022 022441-5",
+    "filingDate": "01/06/2018",
+    "grantDate": null,
+    "title": "PROCESSO E DISPOSITIVO PARA O AJUSTE VIRTUAL DE UMA ARMA\u00c7\u00c3O DE \u00d3CULOS",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17173929.5",
+            "priorityDate": "01/06/2017"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/06/2018",
+        "applicationNumber": "BR 11 2019 025221-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2742"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "OLIVER SCHWARZ",
+        "IVO IHRKE"
+    ],
+    "holders": [
+        15131
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2012 032727-5",
+    "filingDate": "21/06/2011",
+    "grantDate": null,
+    "title": "M\u00e9todo de captura de uma amostra de um material de interesse e dispositivo de amostragem",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "12/823,718",
+            "priorityDate": "25/06/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2574"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        }
+    ],
+    "inventors": [
+        "PETER ALFRED BLACKLIN",
+        "WAYNE FOWLER JR",
+        "JOEL MICHAEL HAWKINS",
+        "HOWARD WILLIAM WARD II"
+    ],
+    "holders": [
+        105475
+    ],
+    "ipcCodes": [
+        "G01N 35/10",
+        "G01N 1/20",
+        "B01L 3/02"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 10 2022 022110-3",
+    "filingDate": "31/10/2022",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE FABRICA\u00c7\u00c3O ADITIVA DE HASTES DE TIT\u00c2NIO, ARTIGO DE FABRICA\u00c7\u00c3O, E, M\u00c9TODO DE FORMA\u00c7\u00c3O DE UMA MAT\u00c9RIA-PRIMA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/525,722",
+            "priorityDate": "12/11/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2705"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2734"
+        }
+    ],
+    "inventors": [
+        "NOEL C HAYNES",
+        "SERGEY MIRONETS"
+    ],
+    "holders": [
+        1612
+    ],
+    "ipcCodes": [
+        "B22F 1/00",
+        "B22F 3/12",
+        "C22C 1/04",
+        "B22F 5/04",
+        "C22C 14/00",
+        "B22F 3/15",
+        "B22F 10/64"
+    ]
+}

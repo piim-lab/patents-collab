@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 10 2021 001391-5",
+    "filingDate": "25/01/2021",
+    "grantDate": null,
+    "title": "ACELERA\u00c7\u00c3O POR MULTIPLICA\u00c7\u00c3O MATRICIAL ESPARSA ESCAL\u00c1VEL COM O USO DE ARRANJOS SIST\u00d3LICOS COM ENTRADAS DE RETROALIMENTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202041019059",
+            "priorityDate": "05/05/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/913,800",
+            "priorityDate": "26/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2613"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2654"
+        }
+    ],
+    "inventors": [
+        "SUBRAMANIAM MAIYURAN",
+        "VARGHESE GEORGE",
+        "SUPRATIM PAL",
+        "ASHUTOSH GARG",
+        "DARIN STARKEY",
+        "JORGE PARRA",
+        "DURGESH BORKAR",
+        "CHANDRA GURRAM",
+        "SHUBRA MARWAHA"
+    ],
+    "holders": [
+        10102
+    ],
+    "ipcCodes": [
+        "G06T 1/20"
+    ]
+}

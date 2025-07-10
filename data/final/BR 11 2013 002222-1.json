@@ -1,0 +1,72 @@
+{
+    "applicationNumber": "BR 11 2013 002222-1",
+    "filingDate": "09/05/2012",
+    "grantDate": "09/02/2021",
+    "title": "MOTOR E VE\u00cdCULO DO TIPO SELA",
+    "nationalPhaseDate": [
+        "29/01/2013"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT JP2012/061821",
+        "pctDate": "09/05/2012",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-114019",
+            "priorityDate": "20/05/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "1.3.1",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2610"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "TOSHINORI INOMORI",
+        "AKITOSHI NAKAJIMA"
+    ],
+    "holders": [
+        2553
+    ],
+    "ipcCodes": [
+        "F16H 7/08",
+        "F02B 67/06",
+        "F02B 61/02",
+        "F16H 7/18"
+    ]
+}

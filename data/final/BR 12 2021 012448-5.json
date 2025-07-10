@@ -1,0 +1,75 @@
+{
+    "applicationNumber": "BR 12 2021 012448-5",
+    "filingDate": "15/01/2020",
+    "grantDate": "22/03/2022",
+    "title": "M\u00c9TODO DE DECODIFICA\u00c7\u00c3O DE UMA IMAGEM REALIZADO POR UM APARELHO DE DECODIFICA\u00c7\u00c3O, M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE UMA IMAGEM REALIZADO POR UM APARELHO DE CODIFICA\u00c7\u00c3O, APARELHO DE DECODIFICA\u00c7\u00c3O PARA DECODIFICA\u00c7\u00c3O DE IMAGEM, APARELHO DE CODIFICA\u00c7\u00c3O PARA CODIFICA\u00c7\u00c3O DE IMAGEM E M\u00cdDIA DE ARMAZENAMENTO DIGITAL LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/792,423",
+            "priorityDate": "15/01/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "15/01/2020",
+        "applicationNumber": "BR 11 2021 012366-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2644"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2645"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2672"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "SUMMI YOO",
+        "JUNGAH CHOI",
+        "JANGWON CHOI",
+        "SEUNGHWAN KIM",
+        "SUMMI YOO",
+        "JUNGAH CHOI",
+        "JANGWON CHOI",
+        "SEUNGHWAN KIM"
+    ],
+    "holders": [
+        697
+    ],
+    "ipcCodes": [
+        "H04N 19/132",
+        "H04N 19/70",
+        "H04N 19/61",
+        "H04N 19/122",
+        "H04N 19/105",
+        "H04N 19/137"
+    ]
+}

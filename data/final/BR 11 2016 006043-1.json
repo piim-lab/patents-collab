@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2016 006043-1",
+    "filingDate": "18/09/2014",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO DE ENVELOPAMENTO DE RECIPIENTES",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "MI2013A001550",
+            "priorityDate": "20/09/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2620"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        }
+    ],
+    "inventors": [
+        "CATTANEO ALESSANDRO"
+    ],
+    "holders": [
+        183
+    ],
+    "ipcCodes": [
+        "B65B 11/02",
+        "B65B 35/40",
+        "B65B 35/30",
+        "B65B 11/00",
+        "B65B 11/10",
+        "B65B 21/24",
+        "B65B 21/06",
+        "B65G 47/08"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2022 013739-0",
+    "filingDate": "11/07/2022",
+    "grantDate": null,
+    "title": "PRIMEIRO DISPOSITIVO ASS\u00cdNCRONO, E, M\u00c9TODO PARA REAGENDAR UM PRIMEIRO DISPOSITIVO ASS\u00cdNCRONO",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "21290048.4",
+            "priorityDate": "19/07/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2717"
+        }
+    ],
+    "inventors": [
+        "ARNAUD BOUCHET",
+        "PATRICE GARANX"
+    ],
+    "holders": [
+        28880
+    ],
+    "ipcCodes": [
+        "H04W 76/28"
+    ]
+}

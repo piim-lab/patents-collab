@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2017 027604-0",
+    "filingDate": "20/12/2017",
+    "grantDate": null,
+    "title": "TRILHO DESLIZANTE",
+    "priorityClaims": [
+        {
+            "countryCode": "ES",
+            "priorityNumber": "U 201700310",
+            "priorityDate": "30/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2478"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2498"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2703"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "RENATO DE BARROS NOGUEIRA",
+        "FELIPE GUSTAVO EMILIANO DOS SANTOS"
+    ],
+    "holders": [
+        5355
+    ],
+    "ipcCodes": [
+        "B60P 1/44"
+    ]
+}

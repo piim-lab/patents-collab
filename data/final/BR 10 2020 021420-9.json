@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 10 2020 021420-9",
+    "filingDate": "20/10/2020",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PAGAMENTO ELETR\u00d4NICO PARA STREAMING DIGITAL",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2756"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2772"
+        }
+    ],
+    "inventors": [
+        "FREDERICO MARQUES ALMEIDA DE LAFFITTE"
+    ],
+    "holders": [
+        53744
+    ],
+    "ipcCodes": [
+        "G06Q 20/02",
+        "G06Q 20/00"
+    ]
+}

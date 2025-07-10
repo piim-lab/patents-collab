@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2016 005442-7",
+    "filingDate": "11/03/2016",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CONTROLE DE APARELHO EL\u00c9TRICO E SISTEMA DE GERENCIAMENTO DE ENERGIA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2015-048593",
+            "priorityDate": "11/03/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2712"
+        }
+    ],
+    "inventors": [
+        "TOMOYA OONO"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "G06Q 50/06",
+        "H02J 3/14"
+    ]
+}

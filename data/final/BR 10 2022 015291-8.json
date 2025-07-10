@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2022 015291-8",
+    "filingDate": "02/08/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE ASSIST\u00caNCIA DE ORIENTA\u00c7\u00c3O DE PASSAGEIROS COM DEFICI\u00caNCIA VISUAL",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/228,922",
+            "priorityDate": "03/08/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2693"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2696"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2719"
+        }
+    ],
+    "inventors": [
+        "DARREN C MCINTOSH"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "A61F 9/08",
+        "H04W 4/80",
+        "H04W 4/30",
+        "H04W 4/024"
+    ]
+}

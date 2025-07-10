@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2012 029007-0",
+    "filingDate": "17/05/2011",
+    "grantDate": "24/03/2020",
+    "title": "Filtro, elemento de filtro e parte de alojamento fixadora",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102010020727.6",
+            "priorityDate": "17/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o da patente para fins da restaura\u00e7\u00e3o nos termos do art. 87 da LPI.",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "24.10",
+            "description": "Manuten\u00e7\u00e3o da Extin\u00e7\u00e3o - Art. 78 inciso IV da LPI",
+            "bulletinNumber ": "2687"
+        }
+    ],
+    "inventors": [
+        "ANDR\u00c9 R\u00d6SGEN"
+    ],
+    "holders": [
+        4558
+    ],
+    "ipcCodes": [
+        "B01D 35/16",
+        "B01D 29/13",
+        "B01D 29/96"
+    ]
+}

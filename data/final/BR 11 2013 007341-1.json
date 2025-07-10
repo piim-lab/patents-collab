@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2013 007341-1",
+    "filingDate": "27/09/2011",
+    "grantDate": null,
+    "title": "PNEU DE CHUVA DE ALTO DESEMPENHO",
+    "priorityClaims": [
+        {
+            "countryCode": "IT",
+            "priorityNumber": "PD2010A000289",
+            "priorityDate": "29/09/2010"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/389465",
+            "priorityDate": "04/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2588"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2630"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2635"
+        }
+    ],
+    "inventors": [
+        "MAURIZIO BOIOCCHI",
+        "PIERO LOSI",
+        "ALFREDO BALINI"
+    ],
+    "holders": [
+        79920
+    ],
+    "ipcCodes": [
+        "B60C 11/03"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2018 006136-4",
+    "filingDate": "27/03/2018",
+    "grantDate": null,
+    "title": "PAVIMENTADORA DE RODOVIAS COM ELEMENTO DE AQUECIMENTO PARA MESA E M\u00c9TODO PARA O AQUECIMENTO DE UNIDADES DE COMPACTA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "17163614.5",
+            "priorityDate": "29/03/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2484"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2704"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2735"
+        }
+    ],
+    "inventors": [
+        "MARTIN BUSCHMANN",
+        "RALF WEISER",
+        "ROMAN MUNZ",
+        "CHRISTIAN PAWLIK"
+    ],
+    "holders": [
+        14700
+    ],
+    "ipcCodes": [
+        "E01C 19/48",
+        "E01C 23/14",
+        "E01C 19/42"
+    ]
+}

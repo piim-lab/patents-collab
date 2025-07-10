@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 11 2013 015009-2",
+    "filingDate": "21/12/2011",
+    "grantDate": null,
+    "title": "VACINA E, M\u00c9TODOS PARA AUXILIAR NA PROTE\u00c7\u00c3O DE UM CANINO E DE UM ANIMAL CONTRA UMA DOEN\u00c7A CL\u00cdNICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/425855",
+            "priorityDate": "22/12/2010"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "11152829.5",
+            "priorityDate": "01/02/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/556975",
+            "priorityDate": "08/11/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2601"
+        }
+    ],
+    "inventors": [
+        "KEVIN A O CONNELL",
+        "RHONDA LAFLEUR",
+        "GOWDA JAYAPPA HUCHAPPA",
+        "TERRI LEE WASMOEN"
+    ],
+    "holders": [
+        80362
+    ],
+    "ipcCodes": [
+        "C12N 1/00",
+        "A61K 39/145",
+        "A61K 39/295",
+        "A61K 39/155",
+        "A61K 39/10",
+        "C07K 14/235"
+    ]
+}

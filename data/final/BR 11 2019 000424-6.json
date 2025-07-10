@@ -1,0 +1,98 @@
+{
+    "applicationNumber": "BR 11 2019 000424-6",
+    "filingDate": "18/07/2017",
+    "grantDate": null,
+    "title": "TRANSFORMA\u00c7\u00c3O DE METADADOS DIN\u00c2MICOS PARA SUPORTAR RENDERIZA\u00c7\u00c3O DE TOM ALTERNATIVO",
+    "nationalPhaseDate": [
+        "09/01/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/042642",
+        "pctDate": "18/07/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/364.780",
+            "priorityDate": "20/07/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/584.368",
+            "priorityDate": "02/05/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2507"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2516"
+        },
+        {
+            "code": "28.1",
+            "description": "Solicita\u00e7\u00e3o Concedida",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "28.92",
+            "description": "Publica\u00e7\u00e3o de despacho de tr\u00e2mite priorit\u00e1rio anulada",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "28.21",
+            "description": "Exig\u00eancia formal de tr\u00e2mite priorit\u00e1rio",
+            "bulletinNumber ": "2568"
+        },
+        {
+            "code": "28.40",
+            "description": "Tr\u00e2mite priorit\u00e1rio negado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio concedido",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "28.92",
+            "description": "Publica\u00e7\u00e3o de despacho de tr\u00e2mite priorit\u00e1rio anulada",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        }
+    ],
+    "inventors": [
+        "RAYMOND YEUNG",
+        "PATRICK GRIFFIS",
+        "THADDEUS BEIER",
+        "ROBERT ATKINS"
+    ],
+    "holders": [
+        91998
+    ],
+    "ipcCodes": [
+        "H04N 1/32",
+        "H04N 9/68",
+        "H04N 5/202"
+    ]
+}

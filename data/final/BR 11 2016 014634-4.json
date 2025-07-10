@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 11 2016 014634-4",
+    "filingDate": "18/12/2014",
+    "grantDate": "13/07/2021",
+    "title": "APARELHO DE ESCANEAMENTO SUBMARINO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1322944.8",
+            "priorityDate": "23/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2633"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2802"
+        }
+    ],
+    "inventors": [
+        "JAMES CAMPBELL",
+        "EMANUELE RONCHI"
+    ],
+    "holders": [
+        83854
+    ],
+    "ipcCodes": [
+        "G01N 23/18"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2015 002129-8",
+    "filingDate": "24/07/2013",
+    "grantDate": "05/01/2021",
+    "title": "POLI\u00c9STERES E SEUS PROCESSOS DE PREPARA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12 005 549.6",
+            "priorityDate": "31/07/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2550"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2602"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2609"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2618"
+        }
+    ],
+    "inventors": [
+        "DIRK FISCHER",
+        "THOMAS LINDNER"
+    ],
+    "holders": [
+        87377
+    ],
+    "ipcCodes": [
+        "C11D 3/37",
+        "C08G 63/183",
+        "C08G 63/672"
+    ]
+}

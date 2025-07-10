@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2020 017288-6",
+    "filingDate": "26/02/2015",
+    "grantDate": "19/04/2022",
+    "title": "PAINEL INTERCONECT\u00c1VEL COM PAIN\u00c9IS SIMILARES PARA FORMAR UM REVESTIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "NL",
+            "priorityNumber": "PCT/NL2014/050118",
+            "priorityDate": "26/02/2014"
+        },
+        {
+            "countryCode": "BY",
+            "priorityNumber": "a20150107",
+            "priorityDate": "23/02/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "26/02/2015",
+        "applicationNumber": "BR 11 2016 019490-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2591"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2599"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2665"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2799"
+        }
+    ],
+    "inventors": [
+        "EDDY ALBERIC BOUCK\u00c9",
+        "JOHAN CHRISTIAAN RIETVELDT"
+    ],
+    "holders": [
+        178948
+    ],
+    "ipcCodes": [
+        "E04F 15/02"
+    ]
+}

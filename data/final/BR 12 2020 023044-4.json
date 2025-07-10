@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 12 2020 023044-4",
+    "filingDate": "06/05/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODOS DE RECEP\u00c7\u00c3O E DE ENVIO DE UM SINAL DE REFER\u00caNCIA DE DEMODULA\u00c7\u00c3O, APARELHOS DE COMUNICA\u00c7\u00d5ES E MEIOS DE ARMAZENAMENTO LEG\u00cdVEIS POR COMPUTADOR",
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810451399.3",
+            "priorityDate": "11/05/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/05/2019",
+        "applicationNumber": "BR 11 2020 002725-1"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2603"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2622"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2638"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2642"
+        }
+    ],
+    "inventors": [
+        "YONG LIU",
+        "XIANG REN",
+        "XIAOYAN BI"
+    ],
+    "holders": [
+        23187
+    ],
+    "ipcCodes": [
+        "H04L 27/26",
+        "H04L 5/00",
+        "H04W 52/14",
+        "H04W 52/32"
+    ]
+}

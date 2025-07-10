@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2016 028869-6",
+    "filingDate": "29/06/2015",
+    "grantDate": null,
+    "title": "PROCESSO DE FERMENTA\u00c7\u00c3O IBE",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "14/56294",
+            "priorityDate": "01/07/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "NICOLAS LOPES FERREIRA",
+        "CAROLINE AYMARD",
+        "R\u00c9MY MARCHAL",
+        "FR\u00c9D\u00c9RIC MONOT"
+    ],
+    "holders": [
+        32
+    ],
+    "ipcCodes": [
+        "C10L 1/02",
+        "C12P 7/08",
+        "C12P 7/06",
+        "C12P 7/10",
+        "C12P 7/04",
+        "C12P 7/16",
+        "C12P 7/14"
+    ]
+}

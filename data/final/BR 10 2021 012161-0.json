@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 10 2021 012161-0",
+    "filingDate": "18/06/2021",
+    "grantDate": null,
+    "title": "M\u00c1QUINA DE FUNDI\u00c7\u00c3O DE MATRIZ E M\u00c9TODO OPERACIONAL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "102020207704.5",
+            "priorityDate": "22/06/2020"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "20210020.2",
+            "priorityDate": "26/11/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "DANIEL GERNER",
+        "ANDREAS SYDLO"
+    ],
+    "holders": [
+        67298
+    ],
+    "ipcCodes": [
+        "B22D 17/00"
+    ]
+}

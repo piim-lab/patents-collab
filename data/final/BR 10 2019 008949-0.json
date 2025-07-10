@@ -1,0 +1,78 @@
+{
+    "applicationNumber": "BR 10 2019 008949-0",
+    "filingDate": "02/05/2019",
+    "grantDate": null,
+    "title": "MEMBRANA DE FIBRA OCA PARA FILTRA\u00c7\u00c3O DE L\u00cdQUIDOS",
+    "priorityClaims": [
+        {
+            "countryCode": "PK",
+            "priorityNumber": "319/2018",
+            "priorityDate": "03/05/2018"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1816030.9",
+            "priorityDate": "01/10/2018"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1906074.8",
+            "priorityDate": "30/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2523"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2725"
+        },
+        {
+            "code": "6.7",
+            "description": "Outras Exig\u00eancias",
+            "bulletinNumber ": "2736"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2753"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2764"
+        }
+    ],
+    "inventors": [
+        "SHAYAN SOHAIL",
+        "ARSLAN AHMED",
+        "HAFIZ USAMA TANVEER"
+    ],
+    "holders": [
+        48677
+    ],
+    "ipcCodes": [
+        "C02F 1/44",
+        "B01D 63/02",
+        "B01D 65/08"
+    ]
+}

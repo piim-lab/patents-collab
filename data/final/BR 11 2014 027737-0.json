@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2014 027737-0",
+    "filingDate": "09/05/2013",
+    "grantDate": null,
+    "title": "SISTEMA DE TESTE FLU\u00cdDICO, E, M\u00c9TODO PARA PREENCHER UMA C\u00c2MARA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/644858",
+            "priorityDate": "09/05/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/837007",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2627"
+        }
+    ],
+    "inventors": [
+        "RAFAEL BRU GIBERT",
+        "JORDI CARRERA FABRA",
+        "ANNA COMENG\u00c9S CASAS",
+        "JOS\u00c9 ANTONIO GARC\u00cdA S\u00c1NCHEZ"
+    ],
+    "holders": [
+        143616
+    ],
+    "ipcCodes": [
+        "B01L 3/00"
+    ]
+}

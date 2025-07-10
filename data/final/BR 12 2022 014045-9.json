@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2022 014045-9",
+    "filingDate": "01/02/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA IDENTIFICAR S\u00cdTIOS DE INTERA\u00c7\u00c3O N\u00c3O COVALENTE OU INTERFACES DE DIMERIZA\u00c7\u00c3O EM UM MEDICAMENTO PROTEICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/625,732",
+            "priorityDate": "02/02/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/738,051",
+            "priorityDate": "28/09/2018"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "01/02/2019",
+        "applicationNumber": "BR 11 2020 013009-5"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2733"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2736"
+        }
+    ],
+    "inventors": [
+        "SHUNHAI WANG",
+        "YUETIAN YAN"
+    ],
+    "holders": [
+        81137
+    ],
+    "ipcCodes": [
+        "G01N 33/68"
+    ]
+}

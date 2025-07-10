@@ -1,0 +1,54 @@
+{
+    "applicationNumber": "BR 10 2020 013275-0",
+    "filingDate": "29/06/2020",
+    "grantDate": null,
+    "title": "CONECTOR EL\u00c9TRICO E M\u00c9TODO DE MONTAGEM",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/425,075",
+            "priorityDate": "29/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2583"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2597"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2753"
+        }
+    ],
+    "inventors": [
+        "ZLATAN LJUBIJANKIC",
+        "BARBARA H MARTEN",
+        "ALFRANCO SALCEDO"
+    ],
+    "holders": [
+        16511
+    ],
+    "ipcCodes": [
+        "H01R 13/405",
+        "H01R 13/514",
+        "H01R 13/516",
+        "H01R 13/6473"
+    ]
+}

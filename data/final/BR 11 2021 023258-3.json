@@ -1,0 +1,48 @@
+{
+    "applicationNumber": "BR 11 2021 023258-3",
+    "filingDate": "15/05/2020",
+    "grantDate": null,
+    "title": "EXECU\u00c7\u00c3O DE CHAMADAS DO SISTEMA NO ESPA\u00c7O DE ENDERE\u00c7O ISOLADO NO KERNEL DO SISTEMA OPERACIONAL",
+    "nationalPhaseDate": [
+        "19/11/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2020/063618",
+        "pctDate": "15/05/2020",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/416,229",
+            "priorityDate": "19/05/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2661"
+        }
+    ],
+    "inventors": [
+        "MICHAEL RAPOPORT",
+        "JOEL KELLY NIDER",
+        "JAMES BOTTOMLEY"
+    ],
+    "holders": [
+        33313
+    ],
+    "ipcCodes": [
+        "G06F 21/62",
+        "G06F 12/14",
+        "G06F 9/46",
+        "G06F 9/54"
+    ]
+}

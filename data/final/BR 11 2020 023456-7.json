@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 11 2020 023456-7",
+    "filingDate": "17/05/2019",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES, SISTEMAS E M\u00c9TODOS PARA A LIBERA\u00c7\u00c3O DE UM ELEMENTO EM RESPOSTA \u00c0 DEMANDA BIOL\u00d3GICA",
+    "nationalPhaseDate": [
+        "17/11/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CA2019/050684",
+        "pctDate": "17/05/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/673,691",
+            "priorityDate": "18/05/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/771,801",
+            "priorityDate": "27/11/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2604"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2616"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2658"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica - Art. 36 da LPI",
+            "bulletinNumber ": "2818"
+        }
+    ],
+    "inventors": [
+        "NEIL ROBIN BRANDA",
+        "FARAHNAZ NOURMOHAMMADIAN",
+        "PETER GROSS"
+    ],
+    "holders": [
+        277108
+    ],
+    "ipcCodes": [
+        "C05G 5/00",
+        "C05G 3/00",
+        "C05D 11/00"
+    ]
+}

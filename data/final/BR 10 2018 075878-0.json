@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2018 075878-0",
+    "filingDate": "13/12/2018",
+    "grantDate": null,
+    "title": "RESTRITOR DE FLUXO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/844,237",
+            "priorityDate": "15/12/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2671"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2687"
+        },
+        {
+            "code": "25.2",
+            "description": "Transfer\u00eancia Indeferida",
+            "bulletinNumber ": "2787"
+        }
+    ],
+    "inventors": [
+        "BEN FRYER"
+    ],
+    "holders": [
+        28027
+    ],
+    "ipcCodes": [
+        "A61L 2/20",
+        "A61L 2/26",
+        "A61L 2/14"
+    ]
+}

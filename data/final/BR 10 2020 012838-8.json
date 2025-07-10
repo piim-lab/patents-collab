@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2020 012838-8",
+    "filingDate": "23/06/2020",
+    "grantDate": null,
+    "title": "SISTEMA DE SENSOR INTELIGENTE PARA IMPLEMENTOS AGR\u00cdCOLAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/450,081",
+            "priorityDate": "24/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2582"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2608"
+        }
+    ],
+    "inventors": [
+        "TREVOR L KOWALCHUK"
+    ],
+    "holders": [
+        7150
+    ],
+    "ipcCodes": [
+        "A01C 7/08",
+        "A01B 79/00"
+    ]
+}

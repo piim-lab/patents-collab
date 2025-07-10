@@ -1,0 +1,73 @@
+{
+    "applicationNumber": "BR 11 2023 006399-0",
+    "filingDate": "08/10/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO DE PREVEN\u00c7\u00c3O DE DANO A UMA BOMBA",
+    "nationalPhaseDate": [
+        "05/04/2023"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT NO2021/050209",
+        "pctDate": "08/10/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2016035.4",
+            "priorityDate": "09/10/2020"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2016038.8",
+            "priorityDate": "09/10/2020"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2016040.4",
+            "priorityDate": "09/10/2020"
+        },
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2016039.6",
+            "priorityDate": "09/10/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2728"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2733"
+        }
+    ],
+    "inventors": [
+        "\u00c5GE HOFSTAD",
+        "RANDHIR MOHITE",
+        "SERGIO WALSH GOLDVAG",
+        "P\u00c5L ERIK TYSV\u00c6R S\u00d8RENSEN",
+        "TARJE OLDERHEIM",
+        "DAG ELVEBAKKEN",
+        "BASTIAEN VAN DER REST",
+        "EINAR MARIUS HAAVERSTAD",
+        "RUNE PETTERSEN"
+    ],
+    "holders": [
+        77190
+    ],
+    "ipcCodes": [
+        "F04D 13/10",
+        "F04D 13/08",
+        "F04D 27/00",
+        "F04D 29/06",
+        "F04D 29/58",
+        "F04D 29/047",
+        "F04D 27/02",
+        "F04D 29/043"
+    ]
+}

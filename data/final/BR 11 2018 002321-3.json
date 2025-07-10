@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2018 002321-3",
+    "filingDate": "04/08/2016",
+    "grantDate": null,
+    "title": "ANALISADOR DE URINA DO PONTO DE ATENDIMENTO",
+    "nationalPhaseDate": [
+        "02/02/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT IL2016/050855",
+        "pctDate": "04/08/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/201,118",
+            "priorityDate": "05/08/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2590"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2702"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2711"
+        }
+    ],
+    "inventors": [
+        "GAVRIEL J IDDAN",
+        "LIRON ELIA"
+    ],
+    "holders": [
+        95903
+    ],
+    "ipcCodes": [
+        "A61M 5/168",
+        "A61B 5/20"
+    ]
+}

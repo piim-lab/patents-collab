@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2016 014953-0",
+    "filingDate": "09/01/2015",
+    "grantDate": null,
+    "title": "M\u00e9todos para liberar fatores de crescimento",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/157,819",
+            "priorityDate": "17/01/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.7",
+            "description": "Notifica\u00e7\u00e3o de devolu\u00e7\u00e3o do pedido por n\u00e3o se enquadrar no Art. 229-C da LPI",
+            "bulletinNumber ": "2554"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2580"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2737"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2749"
+        }
+    ],
+    "inventors": [
+        "VASILE BOGDAN NECULAES",
+        "ANDREW SOLIZ TORRES",
+        "ANTONIO CAIAFA",
+        "BRIAN DUH",
+        "ALLEN LAWRENCE GARNER"
+    ],
+    "holders": [
+        113
+    ],
+    "ipcCodes": [
+        "C12M 1/00",
+        "C12N 13/00",
+        "A61B 18/12",
+        "C12M 1/42",
+        "G01N 33/49",
+        "A61K 35/19",
+        "H03K 3/00"
+    ]
+}

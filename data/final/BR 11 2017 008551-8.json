@@ -1,0 +1,52 @@
+{
+    "applicationNumber": "BR 11 2017 008551-8",
+    "filingDate": "06/11/2015",
+    "grantDate": null,
+    "title": "PROCESSO PARA EXTRUS\u00c3O DE POLIPROPILENO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/084,119",
+            "priorityDate": "25/11/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2642"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2656"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2664"
+        }
+    ],
+    "inventors": [
+        "KEMPER D LAKE",
+        "CHRISTOPHER T KOCHANOWICZ",
+        "JOSEPH J PETERSON",
+        "CLIFFORD S BYNUM",
+        "KEITH A KELLER"
+    ],
+    "holders": [
+        87699
+    ],
+    "ipcCodes": [
+        "C08J 5/18",
+        "C08K 3/22",
+        "C08K 3/34",
+        "C08K 5/521",
+        "C08K 5/098"
+    ]
+}

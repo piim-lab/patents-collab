@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 10 2023 005231-2",
+    "filingDate": "21/03/2023",
+    "grantDate": null,
+    "title": "BASE DE REL\u00c9",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "202241022030",
+            "priorityDate": "13/04/2022"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "22176291.7",
+            "priorityDate": "31/05/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "3.1",
+            "description": "Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o Publicado",
+            "bulletinNumber ": "2755"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "GURUSIDDAIAH KOTRAIAH",
+        "MANJUNATH AJ"
+    ],
+    "holders": [
+        78393
+    ],
+    "ipcCodes": [
+        "H01H 45/02",
+        "H01H 45/14"
+    ]
+}

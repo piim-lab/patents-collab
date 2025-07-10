@@ -1,0 +1,63 @@
+{
+    "applicationNumber": "BR 11 2014 016762-1",
+    "filingDate": "14/01/2013",
+    "grantDate": "28/04/2020",
+    "title": "SISTEMA DE REATOR BIOL\u00d3GICO TENDO UM RECIPIENTE FLEX\u00cdVEL DE \u00daNICO USO E UM M\u00d3DULO DE TROCA DE CALOR",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/586398",
+            "priorityDate": "13/01/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/691998",
+            "priorityDate": "03/12/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2608"
+        }
+    ],
+    "inventors": [
+        "PARRIS M GALLIHER",
+        "THOMAS ERDENBERGER",
+        "COLIN R TUOHEY",
+        "JOSEPH D CROWELL",
+        "RICHARD L DAMREN"
+    ],
+    "holders": [
+        80743
+    ],
+    "ipcCodes": [
+        "C12M 1/02"
+    ]
+}

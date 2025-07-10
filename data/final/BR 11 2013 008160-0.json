@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2013 008160-0",
+    "filingDate": "06/10/2011",
+    "grantDate": null,
+    "title": "PROCESSO PARA EXTRA\u00c7\u00c3O DE CS-137 DE UMA SOLU\u00c7\u00c3O \u00c1CIDA",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "10 16935.7",
+            "priorityDate": "07/10/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2563"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2569"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2605"
+        }
+    ],
+    "inventors": [
+        "LUIS AMM BARBOSA"
+    ],
+    "holders": [
+        5579
+    ],
+    "ipcCodes": [
+        "G21G 1/00",
+        "G21G 1/08"
+    ]
+}

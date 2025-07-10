@@ -1,0 +1,91 @@
+{
+    "applicationNumber": "BR 11 2021 003595-8",
+    "filingDate": "06/09/2019",
+    "grantDate": null,
+    "title": "SA\u00cdDAS DE ENERGIA COORDENADAS DE M\u00d3DULOS SEPARADOS, POR\u00c9M CONECTADOS",
+    "nationalPhaseDate": [
+        "25/02/2021"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2019/049979",
+        "pctDate": "06/09/2019",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/728,480",
+            "priorityDate": "07/09/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/826,584",
+            "priorityDate": "29/03/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/826,587",
+            "priorityDate": "29/03/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/826,592",
+            "priorityDate": "29/03/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/826,588",
+            "priorityDate": "29/03/2019"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/562,167",
+            "priorityDate": "05/09/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2618"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2628"
+        }
+    ],
+    "inventors": [
+        "JOSHUA HENDERSON",
+        "JOSHUA P MORGAN",
+        "ANDREW W CARROLL",
+        "JEFFREY L ALDRIDGE",
+        "EITAN T WIENER",
+        "JAMES M VACHON",
+        "BENJAMIN J DANZIGER"
+    ],
+    "holders": [
+        46877
+    ],
+    "ipcCodes": [
+        "H04L 29/06",
+        "A61B 18/00",
+        "H02J 3/46",
+        "A61B 17/00",
+        "A61B 17/32",
+        "H04L 29/08",
+        "A61B 18/12",
+        "H02J 9/06",
+        "A61B 34/30",
+        "A61B 90/00",
+        "A61B 90/90",
+        "A61B 34/20",
+        "H02J 3/14",
+        "H02J 3/32",
+        "A61B 34/37",
+        "H05K 1/14",
+        "G16H 40/63",
+        "A61B 34/35"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2017 006928-4",
+    "filingDate": "26/06/2006",
+    "grantDate": null,
+    "title": "USO DE UMA COMPOSI\u00c7\u00c3O COMO UM SOLVENTE",
+    "divisionalApplication": {
+        "filingDate": "26/06/2006",
+        "applicationNumber": "PI 0611590-0"
+    },
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2530"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2592"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        271
+    ],
+    "ipcCodes": []
+}

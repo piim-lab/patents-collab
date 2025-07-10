@@ -1,0 +1,45 @@
+{
+    "applicationNumber": "BR 10 2017 024452-0",
+    "filingDate": "14/11/2017",
+    "grantDate": null,
+    "title": "MATERIAL ISOLANTE PARA BOBINA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2016-233984",
+            "priorityDate": "01/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2722"
+        }
+    ],
+    "inventors": [
+        "YOSHITOMO KAWANISHI"
+    ],
+    "holders": [
+        5783
+    ],
+    "ipcCodes": [
+        "H01F 5/06",
+        "H01F 41/063"
+    ]
+}

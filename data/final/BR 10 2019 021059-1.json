@@ -1,0 +1,47 @@
+{
+    "applicationNumber": "BR 10 2019 021059-1",
+    "filingDate": "07/10/2019",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA ASSOCIAR DINAMICAMENTE CAMADAS ESPACIAIS A FEIXES EM REDES DE ACESSO SEM FIO FIXA",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "18382719.5",
+            "priorityDate": "10/10/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.8",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2741"
+        }
+    ],
+    "inventors": [
+        "JAVIER LORCA HERNANDO",
+        "ELENA SERNA SANTIAGO"
+    ],
+    "holders": [
+        15812
+    ],
+    "ipcCodes": [
+        "H04W 28/02",
+        "H04B 7/06",
+        "H04B 7/0408"
+    ]
+}

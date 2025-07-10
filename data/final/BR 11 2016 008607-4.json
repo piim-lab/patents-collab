@@ -1,0 +1,53 @@
+{
+    "applicationNumber": "BR 11 2016 008607-4",
+    "filingDate": "10/12/2014",
+    "grantDate": null,
+    "title": "SISTEMA DE COMUNICA\u00c7\u00c3O SEM FIO DE E-CAMPO DE FURO DE PO\u00c7O",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20131657",
+            "priorityDate": "12/12/2013"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "14/105,113",
+            "priorityDate": "12/12/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2589"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2661"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "\u00d8IVIND GODAGER",
+        "NIAN KONG"
+    ],
+    "holders": [
+        121902
+    ],
+    "ipcCodes": [
+        "E21B 47/12",
+        "H01Q 9/16",
+        "H01Q 1/36",
+        "H01Q 1/04"
+    ]
+}

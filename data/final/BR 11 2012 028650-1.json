@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2012 028650-1",
+    "filingDate": "10/05/2011",
+    "grantDate": null,
+    "title": "PROCESSO DE PRODU\u00c7\u00c3O DE BIOG\u00c1S.",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "10162425.2",
+            "priorityDate": "10/05/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        }
+    ],
+    "inventors": [
+        "JAN BACH",
+        "JORG BURGSTALER",
+        "DENNY WIEDOW",
+        "FREDERIK DEGRAEVE"
+    ],
+    "holders": [
+        4186
+    ],
+    "ipcCodes": [
+        "C12P 5/02",
+        "B01D 53/40"
+    ]
+}

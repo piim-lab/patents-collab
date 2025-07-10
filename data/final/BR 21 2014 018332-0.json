@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 21 2014 018332-0",
+    "filingDate": "25/01/2013",
+    "grantDate": null,
+    "title": "DISPOSITIVO MANUAL DE GERA\u00c7\u00c3O DE IMAGEM E RETRODI-FUS\u00c3O DE RAIO X",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/591,360",
+            "priorityDate": "27/01/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/598,576",
+            "priorityDate": "14/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/598,521",
+            "priorityDate": "14/02/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/607,066",
+            "priorityDate": "06/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2500"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2532"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2555"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2577"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2585"
+        }
+    ],
+    "inventors": [
+        "LOUIS WAINWRIGHT",
+        "PETER ROTHSCHILD",
+        "LEE GRODZINS",
+        "PAUL BRADSHAW"
+    ],
+    "holders": [
+        81382
+    ],
+    "ipcCodes": [
+        "G01V 5/00",
+        "G01N 23/203"
+    ]
+}

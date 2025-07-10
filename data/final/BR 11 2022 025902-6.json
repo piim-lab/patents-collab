@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2022 025902-6",
+    "filingDate": "23/06/2021",
+    "grantDate": null,
+    "title": "POSICIONAMENTO PASSIVO COM ASSIST\u00caNCIA DE ENLACE LATERAL",
+    "nationalPhaseDate": [
+        "19/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/038567",
+        "pctDate": "23/06/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "63/045,565",
+            "priorityDate": "29/06/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/354,108",
+            "priorityDate": "22/06/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "XIAOXIA ZHANG",
+        "SRINIVAS YERRAMALLI",
+        "JING SUN"
+    ],
+    "holders": [
+        79428
+    ],
+    "ipcCodes": [
+        "H04W 64/00",
+        "H04W 92/18"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "applicationNumber": "BR 12 2017 012186-3",
+    "filingDate": "07/06/2013",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE ALIMENTA\u00c7\u00c3O DE FIO",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 104 976.9",
+            "priorityDate": "08/06/2012"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "07/06/2013",
+        "applicationNumber": "BR 11 2014 030508-0"
+    },
+    "events": [
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2629"
+        },
+        {
+            "code": "11.2",
+            "description": "Arquivamento - Art. 36 \u00a71\u00b0 da LPI",
+            "bulletinNumber ": "2644"
+        }
+    ],
+    "inventors": [
+        "UWE MARTIN GROSCH",
+        "ATTILA HORVARTH",
+        "CHRISTOPH WOERNER"
+    ],
+    "holders": [
+        98212
+    ],
+    "ipcCodes": [
+        "D04B 15/48"
+    ]
+}

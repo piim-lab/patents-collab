@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2021 002204-3",
+    "filingDate": "05/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE EDIF\u00cdCIO PR\u00c9-FABRICADO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2615"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2627"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2771"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2782"
+        }
+    ],
+    "inventors": [
+        "MANOLO DONNINI"
+    ],
+    "holders": [
+        65378
+    ],
+    "ipcCodes": [
+        "E04B 1/343"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "applicationNumber": "BR 11 2018 000356-5",
+    "filingDate": "05/07/2016",
+    "grantDate": null,
+    "title": "BOMBA SUBMARINA E SISTEMA E M\u00c9TODO PARA CONTROLE",
+    "nationalPhaseDate": [
+        "08/01/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT NO2016/050152",
+        "pctDate": "05/07/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/190,831",
+            "priorityDate": "10/07/2015"
+        },
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20150973",
+            "priorityDate": "27/07/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2488"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2720"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "ROBIN SLATER",
+        "GUNDER HOMSTVEDT",
+        "MARCELO SANTOS"
+    ],
+    "holders": [
+        31532,
+        77190
+    ],
+    "ipcCodes": [
+        "F04D 15/00",
+        "E21B 43/12",
+        "F04D 13/08",
+        "F04B 49/20",
+        "F04D 31/00"
+    ]
+}

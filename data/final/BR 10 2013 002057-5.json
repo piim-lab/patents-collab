@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2013 002057-5",
+    "filingDate": "28/01/2013",
+    "grantDate": null,
+    "title": "Processo para a produ\u00e7\u00e3o de alimentos de luxo com base em massas contendo gordura",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2012 001 417.1",
+            "priorityDate": "26/01/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2546"
+        }
+    ],
+    "inventors": [
+        "HORST ZETTL",
+        "DIMITRIOS MAKRAKIS",
+        "THERON HARBS",
+        "MICHAEL SCHMIDT"
+    ],
+    "holders": [
+        5466
+    ],
+    "ipcCodes": [
+        "A23G 1/10"
+    ]
+}

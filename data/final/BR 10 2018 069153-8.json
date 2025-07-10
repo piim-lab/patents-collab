@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 10 2018 069153-8",
+    "filingDate": "20/09/2018",
+    "grantDate": null,
+    "title": "ESPALHADOR DE UMA COMBINADA, E, COLHEITADEIRA COMBINADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/562,159",
+            "priorityDate": "22/09/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/121,811",
+            "priorityDate": "05/09/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2499"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2519"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2689"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2744"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2748"
+        }
+    ],
+    "inventors": [
+        "MARTIN RITTERSHOFER",
+        "GREGOR DIESSNER",
+        "MARCO BROSCHART",
+        "OLIVER KLEIN"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01D 41/12"
+    ]
+}

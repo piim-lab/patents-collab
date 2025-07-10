@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2015 025864-6",
+    "filingDate": "10/04/2014",
+    "grantDate": "13/10/2021",
+    "title": "APARELHO DE ALIMENTA\u00c7\u00c3O EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20130481",
+            "priorityDate": "10/04/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2586"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2636"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2649"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2710"
+        }
+    ],
+    "inventors": [
+        "MORTEN HALLERAKER",
+        "HELMUT MAYER",
+        "G\u00dcNTER BITZ"
+    ],
+    "holders": [
+        164665
+    ],
+    "ipcCodes": [
+        "H01B 17/26"
+    ]
+}

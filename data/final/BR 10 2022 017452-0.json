@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 017452-0",
+    "filingDate": "31/08/2022",
+    "grantDate": null,
+    "title": "ACIONAMENTO DE L\u00c2MINAS COMUT\u00c1VEL PARA UM APARELHO ADICIONAL AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2021 124 148.0",
+            "priorityDate": "17/09/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2697"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2701"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2726"
+        }
+    ],
+    "inventors": [
+        "STEFFEN SUDHUES",
+        "MICHAEL POKRIEFKE"
+    ],
+    "holders": [
+        16679
+    ],
+    "ipcCodes": [
+        "A01D 41/12",
+        "A01D 34/38"
+    ]
+}

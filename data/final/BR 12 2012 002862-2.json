@@ -1,0 +1,37 @@
+{
+    "applicationNumber": "BR 12 2012 002862-2",
+    "filingDate": "23/08/2004",
+    "grantDate": null,
+    "title": "FORMA DE DOSAGEM FARMAC\u00caUTICA S\u00d3LIDA",
+    "divisionalApplication": {
+        "filingDate": "23/08/2004",
+        "applicationNumber": "PI 0413882-1"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2497"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "10.1",
+            "description": "Desist\u00eancia Homologada",
+            "bulletinNumber ": "2582"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        12773
+    ],
+    "ipcCodes": []
+}

@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2013 023465-2",
+    "filingDate": "30/03/2012",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA PRODUZIR L-CISTE\u00cdNA",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-081981",
+            "priorityDate": "01/04/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/470,573",
+            "priorityDate": "01/04/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2534"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2576"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2599"
+        }
+    ],
+    "inventors": [
+        "SHUNSUKE YAMAZAKI",
+        "GEN NONAKA",
+        "KAZUHIRO TAKUMI"
+    ],
+    "holders": [
+        2988
+    ],
+    "ipcCodes": [
+        "C12R 1/01",
+        "C12N 15/09",
+        "C12R 1/19",
+        "C12P 13/12"
+    ]
+}

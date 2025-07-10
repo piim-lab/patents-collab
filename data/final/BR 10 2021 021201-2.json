@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 021201-2",
+    "filingDate": "22/10/2021",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA DETECTAR UMA CONDI\u00c7\u00c3O DE FALHA EM UMA OU MAIS ENFARDADEIRAS, E, SISTEMA PARA IDENTIFICAR UMA CONDI\u00c7\u00c3O DE FALHA EM UMA OU MAIS ENFARDADEIRAS",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/151,932",
+            "priorityDate": "19/01/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2690"
+        }
+    ],
+    "inventors": [
+        "DANIEL E DERSCHEID",
+        "COLE L MURRAY"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01F 15/00"
+    ]
+}

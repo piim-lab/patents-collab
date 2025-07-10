@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 11 2012 002115-0",
+    "filingDate": "27/07/2010",
+    "grantDate": null,
+    "title": "CONECTOR DE TELECOMUNICA\u00c7\u00d5ES",
+    "nationalPhaseDate": [
+        "30/01/2012"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2010/043413",
+        "pctDate": "27/07/2010",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "0914025.2",
+            "priorityDate": "11/08/2009"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2542"
+        },
+        {
+            "code": "8.6",
+            "description": "Arquivamento - Art. 86 da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "8.11",
+            "description": "Manuten\u00e7\u00e3o do Arquivamento",
+            "bulletinNumber ": "2559"
+        }
+    ],
+    "inventors": [
+        "MATHIEU NESME",
+        "GUENTER M ZILLIGEN",
+        "CHRISTIAN WEINMANN"
+    ],
+    "holders": [
+        80415
+    ],
+    "ipcCodes": [
+        "H01R 24/00",
+        "H01R 107/00"
+    ]
+}

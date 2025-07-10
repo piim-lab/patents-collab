@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2013 011011-2",
+    "filingDate": "31/10/2011",
+    "grantDate": "15/09/2020",
+    "title": "FILTRO COM UMA PE\u00c7A EMBUTIDA DE FILTRO SUBSTITU\u00cdVEL",
+    "priorityClaims": [
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 043433.7",
+            "priorityDate": "04/11/2010"
+        },
+        {
+            "countryCode": "DE",
+            "priorityNumber": "10 2010 043 836.7",
+            "priorityDate": "12/11/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2525"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2570"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2593"
+        },
+        {
+            "code": "21.6",
+            "description": "Extin\u00e7\u00e3o - Art. 86 da LPI",
+            "bulletinNumber ": "2799"
+        },
+        {
+            "code": "21.8",
+            "description": "Despacho Anulado",
+            "bulletinNumber ": "2810"
+        }
+    ],
+    "inventors": [
+        "WILHELM ARDES"
+    ],
+    "holders": [
+        93750
+    ],
+    "ipcCodes": [
+        "B01D 35/147",
+        "B01D 35/16",
+        "B01D 29/21",
+        "B01D 29/96",
+        "B01D 35/153"
+    ]
+}

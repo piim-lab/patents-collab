@@ -1,0 +1,51 @@
+{
+    "applicationNumber": "BR 12 2020 010418-0",
+    "filingDate": "29/04/2016",
+    "grantDate": null,
+    "title": "PROCESSO DE PRODU\u00c7\u00c3O DE ACELERADOR DE PEGA, MISTURA E PROCESSO DE PRODU\u00c7\u00c3O DE ADESIVO DE AZULEJO E PASTA DE ADESIVO DE AZULEJO",
+    "priorityClaims": [
+        {
+            "countryCode": "NO",
+            "priorityNumber": "20150525",
+            "priorityDate": "30/04/2015"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "29/04/2016",
+        "applicationNumber": "BR 11 2017 023160-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2594"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2674"
+        }
+    ],
+    "inventors": [
+        "GIANLUCA ROMEGIALLI",
+        "WOLFRAM FRANKE",
+        "GIUSEPPE CILLUFFO"
+    ],
+    "holders": [
+        75572
+    ],
+    "ipcCodes": [
+        "C04B 28/02",
+        "C04B 22/08"
+    ]
+}

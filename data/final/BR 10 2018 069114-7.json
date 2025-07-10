@@ -1,0 +1,69 @@
+{
+    "applicationNumber": "BR 10 2018 069114-7",
+    "filingDate": "20/09/2018",
+    "grantDate": "11/07/2023",
+    "title": "CONJUNTO DO PAINEL DE ABSOR\u00c7\u00c3O DE SOM COMPOSTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/719,854",
+            "priorityDate": "29/09/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2491"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2501"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2677"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.3",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2747"
+        }
+    ],
+    "inventors": [
+        "OM PRAKASH",
+        "SHANTANU BHATTACHARYA",
+        "SANJAY KUMAR",
+        "PULAK BHUSHAN"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "B32B 7/00",
+        "B32B 25/00",
+        "B32B 15/00"
+    ]
+}

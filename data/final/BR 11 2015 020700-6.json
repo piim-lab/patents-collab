@@ -1,0 +1,58 @@
+{
+    "applicationNumber": "BR 11 2015 020700-6",
+    "filingDate": "27/02/2014",
+    "grantDate": null,
+    "title": "FIBRA E PANO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/776,379",
+            "priorityDate": "11/03/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2545"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2640"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2674"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2691"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "ARNALDO T LORENZO",
+        "JACQUELYN A DEGROOT",
+        "SELIM BENSASON"
+    ],
+    "holders": [
+        1101
+    ],
+    "ipcCodes": [
+        "D04H 3/16",
+        "D01D 5/08",
+        "D01F 6/46"
+    ]
+}

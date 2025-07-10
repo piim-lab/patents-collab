@@ -1,0 +1,49 @@
+{
+    "applicationNumber": "BR 11 2016 001522-3",
+    "filingDate": "23/07/2014",
+    "grantDate": null,
+    "title": "COMPOSI\u00c7\u00d5ES DE ANTICORPO ESTABILIZADO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "13177699.9",
+            "priorityDate": "23/07/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2539"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2543"
+        }
+    ],
+    "inventors": [
+        "BERNHARD G\u00dcNTHER",
+        "DIETER SCHERER",
+        "ANTHONY PETTIGREW",
+        "GESCHE GRAF"
+    ],
+    "holders": [
+        92409
+    ],
+    "ipcCodes": [
+        "A61K 39/395",
+        "A61K 47/06",
+        "C07K 16/28"
+    ]
+}

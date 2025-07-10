@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 10 2020 012982-1",
+    "filingDate": "25/06/2020",
+    "grantDate": null,
+    "title": "PROCESSO APRIMORADO PARA A PRODU\u00c7\u00c3O DE ETANOL DE SEGUNDA GERA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "IN",
+            "priorityNumber": "201921025442",
+            "priorityDate": "26/06/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2595"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2614"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2775"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2825"
+        }
+    ],
+    "inventors": [
+        "SHARMA AJAY KUMAR",
+        "SWAIN MANAS RANJAN",
+        "SINGH AJIT",
+        "MATHUR ANSHU SHANKAR",
+        "GUPTA RAVI PRAKASH",
+        "PURI SURESH KUMAR",
+        "RAMAKUMAR SANKARA SRI VENKATA"
+    ],
+    "holders": [
+        26252,
+        14502
+    ],
+    "ipcCodes": [
+        "C12N 9/42",
+        "C12R 1/72",
+        "C12P 7/10",
+        "C12R 1/85",
+        "C12R 1/84"
+    ]
+}

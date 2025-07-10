@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2021 017926-0",
+    "filingDate": "10/09/2021",
+    "grantDate": null,
+    "title": "BANDEJA DE ENTREGA E SISTEMA DE EMBALAGEM PARA ARTIGOS M\u00c9DICOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "FR2009215",
+            "priorityDate": "11/09/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2652"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2673"
+        }
+    ],
+    "inventors": [
+        "REY GA\u00cbTAN"
+    ],
+    "holders": [
+        17275
+    ],
+    "ipcCodes": [
+        "A61J 1/16",
+        "B65B 5/06"
+    ]
+}

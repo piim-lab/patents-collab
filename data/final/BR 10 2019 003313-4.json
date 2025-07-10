@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 10 2019 003313-4",
+    "filingDate": "18/02/2019",
+    "grantDate": null,
+    "title": "SISTEMA DE H\u00c9LICES, E, M\u00c9TODO DE OPERAR UM SISTEMA DE H\u00c9LICES",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/924,030",
+            "priorityDate": "16/03/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2512"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2726"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento - Art. 38 da LPI e Resolu\u00e7\u00e3o 72/2013",
+            "bulletinNumber ": "2779"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2786"
+        }
+    ],
+    "inventors": [
+        "CHAD M HENZE"
+    ],
+    "holders": [
+        1795
+    ],
+    "ipcCodes": [
+        "B64C 11/30",
+        "B64C 11/48",
+        "B64D 35/04"
+    ]
+}

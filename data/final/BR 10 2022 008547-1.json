@@ -1,0 +1,40 @@
+{
+    "applicationNumber": "BR 10 2022 008547-1",
+    "filingDate": "03/05/2022",
+    "grantDate": null,
+    "title": "ENTRADA DE MEDI\u00c7\u00c3O, E, DISPOSITIVO EL\u00c9TRICO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21172444.8",
+            "priorityDate": "06/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2680"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2706"
+        }
+    ],
+    "inventors": [
+        "ANDREAS JURISCH",
+        "STEFAN WERBEN"
+    ],
+    "holders": [
+        259
+    ],
+    "ipcCodes": [
+        "H01F 38/00"
+    ]
+}

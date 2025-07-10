@@ -1,0 +1,91 @@
+{
+    "applicationNumber": "BR 12 2020 024986-2",
+    "filingDate": "18/06/2012",
+    "grantDate": "22/02/2022",
+    "title": "CODIFICA\u00c7\u00c3O DE ENTROPIA DAS DIFEREN\u00c7AS DO VETOR DE MOVIMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/497,794",
+            "priorityDate": "16/06/2011"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/508,506",
+            "priorityDate": "15/07/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "18/06/2012",
+        "applicationNumber": "BR 11 2013 032333-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2606"
+        },
+        {
+            "code": "2.5",
+            "description": "Exig\u00eancia - Art. 21 da LPI",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2612"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2660"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2695"
+        }
+    ],
+    "inventors": [
+        "VALERI GEORGE",
+        "BENJAMIN BROSS",
+        "HEINER KIRCHHOFFER",
+        "DETLEV MARPE",
+        "TUNG NGUYEN",
+        "MATTHIAS PREISS",
+        "MISCHA SIEKMANN",
+        "JAN STEGEMANN",
+        "THOMAS WIEGAND",
+        "GEORGE VALERI",
+        "BENJAMIN BROSS",
+        "KIRCHHOFFER HEINER",
+        "MARPE DETLEV",
+        "TUNG NGUYEN",
+        "MATTHIAS PREISS",
+        "MISCHA SIEKMANN",
+        "JAN STEGEMANN",
+        "THOMAS WIEGAND"
+    ],
+    "holders": [
+        101422
+    ],
+    "ipcCodes": [
+        "H04N 19/132",
+        "H04N 19/70",
+        "H04N 19/61",
+        "H04N 19/13",
+        "H04N 19/91",
+        "H04N 19/174",
+        "H04N 19/52",
+        "H04N 19/50",
+        "H04N 19/124",
+        "H04N 19/513",
+        "H04N 19/184",
+        "H03M 7/42"
+    ]
+}

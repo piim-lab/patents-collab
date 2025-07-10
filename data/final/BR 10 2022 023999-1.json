@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 10 2022 023999-1",
+    "filingDate": "24/11/2022",
+    "grantDate": null,
+    "title": "SISTEMA DE I\u00c7AMENTO DE M\u00daLTIPLOS GUINCHOS E M\u00c9TODO PARA COMBINAR M\u00daLTIPLOS GUINCHOS EM UM SISTEMA DE I\u00c7AMENTO",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "21215109.6",
+            "priorityDate": "16/12/2021"
+        },
+        {
+            "countryCode": "EP",
+            "priorityNumber": "22206050.1",
+            "priorityDate": "08/11/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2711"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2737"
+        }
+    ],
+    "inventors": [
+        "FRANK T\u00d8NNESSEN"
+    ],
+    "holders": [
+        22265
+    ],
+    "ipcCodes": [
+        "F16G 11/00"
+    ]
+}

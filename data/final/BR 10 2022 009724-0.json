@@ -1,0 +1,41 @@
+{
+    "applicationNumber": "BR 10 2022 009724-0",
+    "filingDate": "18/05/2022",
+    "grantDate": null,
+    "title": "SISTEMA AGR\u00cdCOLA E M\u00c9TODO PARA CONTROLAR AUTOMATICAMENTE UMA POSI\u00c7\u00c3O DE UM IMPLEMENTO DE COLHEITA DE UMA COLHEITADEIRA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/324,654",
+            "priorityDate": "19/05/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2682"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2685"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2707"
+        }
+    ],
+    "inventors": [
+        "JETHRO MARTIN",
+        "CORY DOUGLAS HUNT"
+    ],
+    "holders": [
+        79
+    ],
+    "ipcCodes": [
+        "A01B 79/00",
+        "A01D 45/00"
+    ]
+}

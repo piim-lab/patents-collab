@@ -1,0 +1,100 @@
+{
+    "applicationNumber": "BR 12 2018 014389-4",
+    "filingDate": "17/01/2005",
+    "grantDate": "25/04/2023",
+    "title": "COMPRIMIDO FARMAC\u00caUTICO PRODUZIDO POR COMPRESS\u00c3O OU COMPRIMIDO FARMAC\u00caUTICO PRODUZIDO POR COMPRESS\u00c3O DIRETA, PROCESSOS PARA SUA PREPARA\u00c7\u00c3O, E COMPOSI\u00c7\u00c3O FARMAC\u00caUTICA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/537,706",
+            "priorityDate": "20/01/2004"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "60/604,274",
+            "priorityDate": "25/08/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "17/01/2005",
+        "applicationNumber": "PI 0507007-4"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2489"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2492"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2520"
+        },
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2547"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2608"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "121",
+            "description": "Exig\u00eancia",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "100",
+            "description": "Recurso conhecido e provido. Reformada a Decis\u00e3o recorrida e deferido o pedido",
+            "bulletinNumber ": "2727"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2729"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2739"
+        },
+        {
+            "code": "22.15",
+            "description": "Patente \u201cSUB JUDICE\u201d",
+            "bulletinNumber ": "2770"
+        }
+    ],
+    "inventors": [
+        "JAMES KOWALSKI",
+        "LAKSHMAN JAYANTH PARTHIBAN",
+        "ARUN P PATEL"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61K 9/20"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "applicationNumber": "BR 11 2019 010623-5",
+    "filingDate": "19/12/2017",
+    "grantDate": null,
+    "title": "SISTEMA DE CONTROLE PARA ADAPTADOR EST\u00c9RIL E INTERFACE DE COMUNICA\u00c7\u00c3O PARA USO EM UM SISTEMA CIR\u00daRGICO ROB\u00d3TICO",
+    "nationalPhaseDate": [
+        "23/05/2019"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/067320",
+        "pctDate": "19/12/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/436,957",
+            "priorityDate": "20/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/436,965",
+            "priorityDate": "20/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/436,974",
+            "priorityDate": "20/12/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/436,981",
+            "priorityDate": "20/12/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2648"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2667"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2716"
+        }
+    ],
+    "inventors": [
+        "CHARLES J SCHEIB",
+        "MATTHEW COLIN VARGAS",
+        "ANDREA BAJO",
+        "KORAY SAHIN",
+        "JAIME HERNANDEZ",
+        "ROBERT ELLIOT DECOU"
+    ],
+    "holders": [
+        237127
+    ],
+    "ipcCodes": [
+        "A61B 17/00"
+    ]
+}

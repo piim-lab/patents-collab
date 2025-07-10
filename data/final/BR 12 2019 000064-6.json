@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2019 000064-6",
+    "filingDate": "06/01/2009",
+    "grantDate": null,
+    "title": "M\u00c9TODO E APARELHO DE MEDI\u00c7\u00c3O DE ESPESSURA DE REFRAT\u00c1RIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2008-001349",
+            "priorityDate": "08/01/2008"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "06/01/2009",
+        "applicationNumber": "PI 0906943-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2506"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2513"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2541"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2552"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2558"
+        }
+    ],
+    "inventors": [
+        "TAKUO UEHARA",
+        "HITOSHI NAKAMURA",
+        "RYOUJI KAWASHIMA",
+        "HIRONOBU YAMANAKA",
+        "TAKUO UEHARA",
+        "HITOSHI NAKAMURA",
+        "RYOUJI KAWASHIMA",
+        "HIRONOBU YAMANAKA"
+    ],
+    "holders": [
+        188,
+        61
+    ],
+    "ipcCodes": [
+        "G01B 21/08",
+        "G01B 15/02"
+    ]
+}

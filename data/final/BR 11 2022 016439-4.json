@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2022 016439-4",
+    "filingDate": "17/02/2021",
+    "grantDate": null,
+    "title": "SISTEMA DE APLICA\u00c7\u00c3O TRANSMUCOSAL DE F\u00c1RMACO",
+    "nationalPhaseDate": [
+        "18/08/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2021/018318",
+        "pctDate": "17/02/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/979,239",
+            "priorityDate": "20/02/2020"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/177,430",
+            "priorityDate": "17/02/2021"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2695"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2700"
+        }
+    ],
+    "inventors": [
+        "JOHN J MASIZ",
+        "ZHEN ZHU"
+    ],
+    "holders": [
+        323464,
+        283412
+    ],
+    "ipcCodes": [
+        "A61K 47/10",
+        "A61K 47/14",
+        "A61K 47/26",
+        "A61K 9/00",
+        "A61K 47/44",
+        "A61K 31/00",
+        "A61K 47/12"
+    ]
+}

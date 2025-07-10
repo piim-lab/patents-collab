@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2014 028878-0",
+    "filingDate": "21/05/2013",
+    "grantDate": "17/03/2020",
+    "title": "Composi\u00e7\u00e3o cosm\u00e9tica e m\u00e9todo de tratamento cosm\u00e9tico",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1254657",
+            "priorityDate": "22/05/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2524"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2546"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2561"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2567"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2707"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2709"
+        }
+    ],
+    "inventors": [
+        "THOMAS GONZAGA CANOVA",
+        "GABRIEL GORESCU",
+        "TARCIS CORDEIRO BASTOS"
+    ],
+    "holders": [
+        83744
+    ],
+    "ipcCodes": [
+        "A61Q 19/08",
+        "A61K 8/19",
+        "A61K 8/02",
+        "A61K 8/29",
+        "A61K 8/26",
+        "A61K 8/88"
+    ]
+}

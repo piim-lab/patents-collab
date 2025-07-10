@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 11 2017 025340-2",
+    "filingDate": "18/05/2016",
+    "grantDate": null,
+    "title": "PROCESSO PARA A PREPARA\u00c7\u00c3O DE COMPOSTOS, COMPOSTO E USO DE UM COMPOSTO",
+    "nationalPhaseDate": [
+        "27/11/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2016/061060",
+        "pctDate": "18/05/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "15169705.9",
+            "priorityDate": "28/05/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2650"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2660"
+        }
+    ],
+    "inventors": [
+        "JULIA GOESCHEL",
+        "STEFAN BOKERN",
+        "RAGNAR STOLL"
+    ],
+    "holders": [
+        17748
+    ],
+    "ipcCodes": [
+        "C08G 18/32",
+        "C08G 18/48",
+        "C08G 18/40",
+        "C08G 18/22",
+        "C08G 18/58"
+    ]
+}

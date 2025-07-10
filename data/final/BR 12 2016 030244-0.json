@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 12 2016 030244-0",
+    "filingDate": "13/10/2009",
+    "grantDate": null,
+    "title": "LIGAS DE N\u00cdQUEL-CROMO",
+    "divisionalApplication": {
+        "filingDate": "13/10/2009",
+        "applicationNumber": "PI 0920279-0"
+    },
+    "events": [
+        {
+            "code": "9.2",
+            "description": "Indeferimento",
+            "bulletinNumber ": "2496"
+        },
+        {
+            "code": "12.2",
+            "description": "Recurso Contra o Indeferimento",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2536"
+        },
+        {
+            "code": "120",
+            "description": "Tome Conhecimento do Parecer T\u00e9cnico",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "111",
+            "description": "Recurso conhecido e negado provimento. Mantido o indeferimento do pedido",
+            "bulletinNumber ": "2612"
+        }
+    ],
+    "inventors": [],
+    "holders": [
+        114806
+    ],
+    "ipcCodes": []
+}

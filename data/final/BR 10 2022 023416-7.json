@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2022 023416-7",
+    "filingDate": "17/11/2022",
+    "grantDate": null,
+    "title": "ELEVA\u00c7\u00c3O E ABAIXAMENTO AUTOMATIZADO DE IMPLEMENTO PARA M\u00c1QUINA AGR\u00cdCOLA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "17/591,088",
+            "priorityDate": "02/02/2022"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2710"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2745"
+        }
+    ],
+    "inventors": [
+        "KEVIN J GOERING"
+    ],
+    "holders": [
+        328
+    ],
+    "ipcCodes": [
+        "A01B 63/00"
+    ]
+}

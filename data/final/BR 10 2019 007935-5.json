@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 10 2019 007935-5",
+    "filingDate": "18/04/2019",
+    "grantDate": null,
+    "title": "MONTAGENS DE FIXADOR DE ACOPLAMENTO VEDADO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/659.736",
+            "priorityDate": "19/04/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/699.514",
+            "priorityDate": "17/07/2018"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "16/377.472",
+            "priorityDate": "08/04/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2521"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2526"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2573"
+        },
+        {
+            "code": "11.1",
+            "description": "Arquivamento - Art. 33 da LPI",
+            "bulletinNumber ": "2690"
+        },
+        {
+            "code": "11.1.1",
+            "description": "Arquivamento definitivo - Art. 33 da LPI",
+            "bulletinNumber ": "2701"
+        }
+    ],
+    "inventors": [
+        "JOEL ROBERT LEE"
+    ],
+    "holders": [
+        37046
+    ],
+    "ipcCodes": [
+        "F16B 21/07"
+    ]
+}

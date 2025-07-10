@@ -1,0 +1,67 @@
+{
+    "applicationNumber": "BR 12 2020 004124-2",
+    "filingDate": "12/06/2013",
+    "grantDate": null,
+    "title": "Conjunto de injetor e misturador de g\u00e1s port\u00e1til e m\u00e9todo para misturar gases",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/658,765",
+            "priorityDate": "12/06/2012"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/799,840",
+            "priorityDate": "15/03/2013"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "12/06/2013",
+        "applicationNumber": "BR 11 2014 030895-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2566"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2592"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2666"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        }
+    ],
+    "inventors": [
+        "JACK R AULD",
+        "JOHN C HUCULAK",
+        "CHRISTOPHER L MCCOLLAM"
+    ],
+    "holders": [
+        12581
+    ],
+    "ipcCodes": [
+        "A61D 7/00",
+        "A61F 9/007",
+        "A61D 1/02"
+    ]
+}

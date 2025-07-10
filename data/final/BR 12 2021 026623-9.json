@@ -1,0 +1,64 @@
+{
+    "applicationNumber": "BR 12 2021 026623-9",
+    "filingDate": "24/04/2020",
+    "grantDate": null,
+    "title": "DISPOSITIVOS DE COMUNICA\u00c7\u00c3O PORT\u00c1TEIS",
+    "priorityClaims": [
+        {
+            "countryCode": "KR",
+            "priorityNumber": "10-2019-0050282",
+            "priorityDate": "30/04/2019"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "24/04/2020",
+        "applicationNumber": "BR 11 2021 021913-7"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "28.10.32",
+            "description": "Notifica\u00e7\u00e3o de requerimento de tr\u00e2mite priorit\u00e1rio de PPH",
+            "bulletinNumber ": "2669"
+        },
+        {
+            "code": "28.30",
+            "description": "Tr\u00e2mite priorit\u00e1rio admitido",
+            "bulletinNumber ": "2670"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2731"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2738"
+        }
+    ],
+    "inventors": [
+        "JAEHO KANG",
+        "MINSUNG LEE",
+        "SEUNGHYUN HWANG",
+        "CHUNGKEUN YOO",
+        "JUNGJIN KIM",
+        "JONGYOON KIM"
+    ],
+    "holders": [
+        5134
+    ],
+    "ipcCodes": [
+        "H04M 1/02",
+        "G06F 1/16"
+    ]
+}

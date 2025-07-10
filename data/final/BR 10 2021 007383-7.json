@@ -1,0 +1,33 @@
+{
+    "applicationNumber": "BR 10 2021 007383-7",
+    "filingDate": "17/04/2021",
+    "grantDate": null,
+    "title": "SISTEMA RESERVAT\u00d3RIO E PROCESSO DE FIXA\u00c7\u00c3O DE RESERVAT\u00d3RIO",
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2625"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2634"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2703"
+        }
+    ],
+    "inventors": [
+        "LUIZ FELIPE GAIOSO LUCAS"
+    ],
+    "holders": [
+        40252
+    ],
+    "ipcCodes": [
+        "E03B 11/02",
+        "E04H 7/02"
+    ]
+}

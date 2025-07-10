@@ -1,0 +1,85 @@
+{
+    "applicationNumber": "BR 11 2017 018413-3",
+    "filingDate": "26/02/2016",
+    "grantDate": null,
+    "title": "TRATAMENTO DE PANCREATITE",
+    "nationalPhaseDate": [
+        "28/08/2017"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2016/019924",
+        "pctDate": "26/02/2016",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/126,386",
+            "priorityDate": "27/02/2015"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2476"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2481"
+        },
+        {
+            "code": "6.6.1",
+            "description": "Exig\u00eancia Formal - art. 38 (I) da Lei 13.123/2015",
+            "bulletinNumber ": "2515"
+        },
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2543"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2607"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2708"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2722"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2730"
+        }
+    ],
+    "inventors": [
+        "GONUL VELICELEBI",
+        "KENNETH STAUDERMAN",
+        "MICHAEL DUNN",
+        "JACK ROOS"
+    ],
+    "holders": [
+        194881
+    ],
+    "ipcCodes": [
+        "A61K 31/44",
+        "C07D 401/04",
+        "A61K 31/444",
+        "A61K 31/4427",
+        "C07D 401/02"
+    ]
+}

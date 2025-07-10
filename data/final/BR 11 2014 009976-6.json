@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 009976-6",
+    "filingDate": "25/10/2012",
+    "grantDate": null,
+    "title": "Processo para Preparar 1,2-benzisotiazolin-3-ona ou seu sal de s\u00f3dio",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "13/281,600",
+            "priorityDate": "26/10/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2514"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2538"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2542"
+        }
+    ],
+    "inventors": [
+        "CARSTEN BERG",
+        "DIDIER HOULLEMARE",
+        "SANGITA SINGH"
+    ],
+    "holders": [
+        135634
+    ],
+    "ipcCodes": [
+        "C07D 275/04"
+    ]
+}

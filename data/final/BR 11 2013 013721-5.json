@@ -1,0 +1,43 @@
+{
+    "applicationNumber": "BR 11 2013 013721-5",
+    "filingDate": "05/12/2011",
+    "grantDate": null,
+    "title": "TUBO, E, M\u00c9TODO PARA FABRICAR UM TUBO",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1020514.4",
+            "priorityDate": "03/12/2010"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2581"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2651"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2656"
+        }
+    ],
+    "inventors": [
+        "MARTIN PETER WILLIAM JONES",
+        "CHARLES ALEXANDER TAVNER",
+        "RICHARD DAMON GOODMAN ROBERTS"
+    ],
+    "holders": [
+        115951
+    ],
+    "ipcCodes": [
+        "E21B 17/01",
+        "F16L 11/08",
+        "B29C 70/06"
+    ]
+}

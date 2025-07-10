@@ -1,0 +1,62 @@
+{
+    "applicationNumber": "BR 12 2021 026776-6",
+    "filingDate": "27/02/2015",
+    "grantDate": null,
+    "title": "COMPONENTE DE RESERVAT\u00d3RIO DE L\u00cdQUIDO DE UM DISPOSITIVO DE VAPORA\u00c7\u00c3O ELETR\u00d4NICO",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "61/946,376",
+            "priorityDate": "28/02/2014"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "27/02/2015",
+        "applicationNumber": "BR 11 2016 019938-3"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2662"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2663"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2683"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2700"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2716"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "EDMOND J CADIEUX",
+        "DOUGLAS A BURTON",
+        "BARRY S SMITH",
+        "PETER LIPOWICZ",
+        "PATRICK J COBLER"
+    ],
+    "holders": [
+        179215
+    ],
+    "ipcCodes": [
+        "A24F 47/00"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "applicationNumber": "BR 11 2016 017844-0",
+    "filingDate": "03/02/2015",
+    "grantDate": null,
+    "title": "PROCESSO DE DETEC\u00c7\u00c3O DE ARCO EL\u00c9TRICO, CIRCUITO DE DETEC\u00c7\u00c3O, E, DISPOSITIVO DE COMUTA\u00c7\u00c3O EL\u00c9TRICA",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1450817",
+            "priorityDate": "03/02/2014"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2572"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2655"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2667"
+        }
+    ],
+    "inventors": [
+        "ETIENNE TISSERAND",
+        "MARC BOURNAT",
+        "JONATHAN ANDREA",
+        "PATRICK SCHWEITZER",
+        "SERGE WEBER"
+    ],
+    "holders": [
+        94297,
+        178172
+    ],
+    "ipcCodes": [
+        "H02H 1/00"
+    ]
+}

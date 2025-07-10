@@ -1,0 +1,59 @@
+{
+    "applicationNumber": "BR 12 2017 009404-1",
+    "filingDate": "04/08/2005",
+    "grantDate": null,
+    "title": "USOS DE UM ANTICORPO ANTI-IL-17",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "04 17487.6",
+            "priorityDate": "05/08/2004"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "04/08/2005",
+        "applicationNumber": "PI 0513078-6"
+    },
+    "events": [
+        {
+            "code": "7.4",
+            "description": "Ci\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2509"
+        },
+        {
+            "code": "7.5",
+            "description": "Notifica\u00e7\u00e3o de Anu\u00eancia relacionada com o Art. 229-C da LPI",
+            "bulletinNumber ": "2632"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico",
+            "bulletinNumber ": "2641"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2668"
+        }
+    ],
+    "inventors": [
+        "FRANCO E DI PADOVA",
+        "HERMANN GRAM",
+        "HANS HOFSTETTER",
+        "MARGIT JESCHKE",
+        "MICHEL RONDEAU",
+        "WIM VAN DEN BERG"
+    ],
+    "holders": [
+        79188
+    ],
+    "ipcCodes": [
+        "A61P 29/00",
+        "A61K 39/395"
+    ]
+}

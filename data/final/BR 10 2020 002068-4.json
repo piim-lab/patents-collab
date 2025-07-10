@@ -1,0 +1,39 @@
+{
+    "applicationNumber": "BR 10 2020 002068-4",
+    "filingDate": "30/01/2020",
+    "grantDate": null,
+    "title": "DIPOSITIVO DE CONTROLE ELETR\u00d4NICO DE AUTOMA\u00c7\u00c3O DOM\u00c9STICA COM DOIS FIOS",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1900944",
+            "priorityDate": "31/01/2019"
+        }
+    ],
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2562"
+        },
+        {
+            "code": "2.1",
+            "description": "Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o depositado",
+            "bulletinNumber ": "2578"
+        },
+        {
+            "code": "3.1",
+            "description": "Publica\u00e7\u00e3o do Pedido de Patente ou de Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2588"
+        }
+    ],
+    "inventors": [
+        "S\u00c9BASTIEN VALL\u00c9E",
+        "LAURENT COUJEAN"
+    ],
+    "holders": [
+        10,
+        11
+    ],
+    "ipcCodes": []
+}

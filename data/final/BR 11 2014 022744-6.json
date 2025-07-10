@@ -1,0 +1,46 @@
+{
+    "applicationNumber": "BR 11 2014 022744-6",
+    "filingDate": "13/03/2013",
+    "grantDate": null,
+    "title": "PROCESSO PARA PREPARAR F\u00d3RMULA INFANTIL",
+    "priorityClaims": [
+        {
+            "countryCode": "EP",
+            "priorityNumber": "12159671.2",
+            "priorityDate": "15/03/2012"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.20",
+            "description": "Exig\u00eanciaPr\u00e9-Exame \u2013 Art. 34 da LPI",
+            "bulletinNumber ": "2528"
+        },
+        {
+            "code": "15.11",
+            "description": "Altera\u00e7\u00e3o de Classifica\u00e7\u00e3o",
+            "bulletinNumber ": "2551"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2553"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2563"
+        }
+    ],
+    "inventors": [
+        "JOEP VAN DEN BREINK",
+        "KOEN CORNELIS VAN DIJKE",
+        "ADRIANA MARTINA LAMBERTA VAN DER STEEN",
+        "RAOUL CHARLES JOHAN MOONEN",
+        "ANTONIE VAN BAALEN"
+    ],
+    "holders": [
+        79945
+    ],
+    "ipcCodes": []
+}

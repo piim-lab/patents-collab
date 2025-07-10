@@ -1,0 +1,68 @@
+{
+    "applicationNumber": "BR 12 2020 013893-9",
+    "filingDate": "30/05/2012",
+    "grantDate": null,
+    "title": "DISPOSITIVO DE CODIFICA\u00c7\u00c3O DE IMAGEM M\u00d3VEL E M\u00c9TODO DE CODIFICA\u00c7\u00c3O DE IMAGEM M\u00d3VEL",
+    "priorityClaims": [
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-122770",
+            "priorityDate": "31/05/2011"
+        },
+        {
+            "countryCode": "JP",
+            "priorityNumber": "2011-122771",
+            "priorityDate": "31/05/2011"
+        }
+    ],
+    "divisionalApplication": {
+        "filingDate": "30/05/2012",
+        "applicationNumber": "BR 11 2013 030935-0"
+    },
+    "events": [
+        {
+            "code": "2.10",
+            "description": "Requerimento de Pedido de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2584"
+        },
+        {
+            "code": "2.4",
+            "description": "Notifica\u00e7\u00e3o de Dep\u00f3sito do Pedido Dividido - Art 26 inciso I da LPI",
+            "bulletinNumber ": "2596"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2678"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2688"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2694"
+        }
+    ],
+    "inventors": [
+        "HIROYA NAKAMURA",
+        "MASAYOSHI NISHITANI",
+        "SHIGERU FUKUSHIMA",
+        "MOTOHARU UEDA"
+    ],
+    "holders": [
+        127879
+    ],
+    "ipcCodes": [
+        "H04N 19/176",
+        "H04N 19/105",
+        "H04N 19/52",
+        "H04N 19/124",
+        "H04N 19/159",
+        "H04N 19/172",
+        "H04N 19/513",
+        "H04N 19/184"
+    ]
+}

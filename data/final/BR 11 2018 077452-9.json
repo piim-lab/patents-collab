@@ -1,0 +1,105 @@
+{
+    "applicationNumber": "BR 11 2018 077452-9",
+    "filingDate": "19/06/2017",
+    "grantDate": null,
+    "title": "SONDAGENS S\u00cdSMICAS COM LIGA\u00c7\u00d5ES DE COMUNICA\u00c7\u00c3O \u00d3PTICA",
+    "nationalPhaseDate": [
+        "28/12/2018"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT US2017/038166",
+        "pctDate": "19/06/2017",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/357,136",
+            "priorityDate": "30/06/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/357,145",
+            "priorityDate": "30/06/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "62/357,118",
+            "priorityDate": "30/06/2016"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/625,722",
+            "priorityDate": "16/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/625,730",
+            "priorityDate": "16/06/2017"
+        },
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/625,708",
+            "priorityDate": "16/06/2017"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2505"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2517"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2646"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2735"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2738"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2740"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2743"
+        }
+    ],
+    "inventors": [
+        "MICHAEL MORRIS",
+        "TOM OBRIEN",
+        "WILLIAM GUYTON",
+        "CHRIS NIKIRK",
+        "MATTHEW STUBBE"
+    ],
+    "holders": [
+        155187
+    ],
+    "ipcCodes": [
+        "G01V 1/38",
+        "G01V 1/24",
+        "G01V 13/00",
+        "G01V 1/22"
+    ]
+}

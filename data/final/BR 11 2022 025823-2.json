@@ -1,0 +1,56 @@
+{
+    "applicationNumber": "BR 11 2022 025823-2",
+    "filingDate": "18/06/2021",
+    "grantDate": null,
+    "title": "PROCESSO DE PREPARA\u00c7\u00c3O DE TENSOATIVO",
+    "nationalPhaseDate": [
+        "16/12/2022"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT EP2021/066619",
+        "pctDate": "18/06/2021",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "2009388.6",
+            "priorityDate": "19/06/2020"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2712"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "STEFAN ULVENLUND",
+        "MARIA ANDERSSON",
+        "MARIA VILORIA COLS",
+        "NIKOLINA BARCHAN",
+        "CHRISTIAN WELLS",
+        "JOHAN SANDER",
+        "MAGDALENA AXENSTRAND"
+    ],
+    "holders": [
+        91881,
+        332911
+    ],
+    "ipcCodes": [
+        "A61K 8/60",
+        "C12P 19/04",
+        "C12P 7/04",
+        "C12P 19/12",
+        "C11D 1/66",
+        "C07H 15/04",
+        "A61K 31/01"
+    ]
+}

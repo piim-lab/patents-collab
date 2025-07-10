@@ -1,0 +1,61 @@
+{
+    "applicationNumber": "BR 11 2012 019514-0",
+    "filingDate": "12/01/2012",
+    "grantDate": null,
+    "title": "REATOR",
+    "priorityClaims": [
+        {
+            "countryCode": "GB",
+            "priorityNumber": "1102551.7",
+            "priorityDate": "14/02/2011"
+        }
+    ],
+    "events": [
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2482"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2485"
+        },
+        {
+            "code": "6.1",
+            "description": "Exig\u00eancia T\u00e9cnica",
+            "bulletinNumber ": "2503"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2531"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2535"
+        }
+    ],
+    "inventors": [
+        "EDWARD ADRIAN LORD",
+        "ARTHUR JAMES REASON",
+        "HIROYUKI KAMATA",
+        "KOKI HAMADA",
+        "TAKUYA YOSHINOYA",
+        "KAZUYA TSURUSAKI",
+        "YOHEI EGUCHI",
+        "YASUHIRO MAYUMI"
+    ],
+    "holders": [
+        113632,
+        88091,
+        61,
+        235254
+    ],
+    "ipcCodes": [
+        "H01F 27/28",
+        "H01F 37/00",
+        "H01F 21/00"
+    ]
+}

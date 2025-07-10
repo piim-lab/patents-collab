@@ -1,0 +1,42 @@
+{
+    "applicationNumber": "BR 10 2017 005323-7",
+    "filingDate": "16/03/2017",
+    "grantDate": null,
+    "title": "M\u00c9TODO PARA OPERAR UMA M\u00c1QUINA AUTOMATIZADA, E, M\u00c1QUINA DE INSER\u00c7\u00c3O DE FIOS AUTOMATIZADA",
+    "priorityClaims": [
+        {
+            "countryCode": "US",
+            "priorityNumber": "15/137556",
+            "priorityDate": "25/04/2016"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2686"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2709"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2714"
+        }
+    ],
+    "inventors": [
+        "EERIK J HELMICK",
+        "BRADLEY J MITCHELL",
+        "NICK S EVANS"
+    ],
+    "holders": [
+        1208
+    ],
+    "ipcCodes": [
+        "H01R 43/20",
+        "H01L 23/488"
+    ]
+}

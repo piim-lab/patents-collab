@@ -1,0 +1,80 @@
+{
+    "applicationNumber": "BR 11 2016 011216-4",
+    "filingDate": "19/11/2014",
+    "grantDate": "19/04/2022",
+    "title": "DOCUMENTO DE IDENTIFICA\u00c7\u00c3O E M\u00c9TODOS PARA PRODUZIR E LER UM DOCUMENTO DE IDENTIFICA\u00c7\u00c3O",
+    "priorityClaims": [
+        {
+            "countryCode": "FR",
+            "priorityNumber": "1302660",
+            "priorityDate": "19/11/2013"
+        }
+    ],
+    "events": [
+        {
+            "code": "6.21",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes",
+            "bulletinNumber ": "2565"
+        },
+        {
+            "code": "9.1",
+            "description": "Deferimento",
+            "bulletinNumber ": "2673"
+        },
+        {
+            "code": "9.1.4",
+            "description": "Retifica\u00e7\u00e3o",
+            "bulletinNumber ": "2675"
+        },
+        {
+            "code": "16.1",
+            "description": "Concess\u00e3o de Patente ou Certificado de Adi\u00e7\u00e3o de Inven\u00e7\u00e3o",
+            "bulletinNumber ": "2676"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2715"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2717"
+        },
+        {
+            "code": "25.1",
+            "description": "Transfer\u00eancia Deferida",
+            "bulletinNumber ": "2719"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2721"
+        },
+        {
+            "code": "25.4",
+            "description": "Altera\u00e7\u00e3o de Nome Deferida",
+            "bulletinNumber ": "2723"
+        },
+        {
+            "code": "25.7",
+            "description": "Altera\u00e7\u00e3o de Sede Deferida",
+            "bulletinNumber ": "2725"
+        }
+    ],
+    "inventors": [
+        "PHILIPPE ROBIN",
+        "MARC COHEN",
+        "YVES QUEMENEUR",
+        "DJILALI BELKHITER",
+        "PIERRE LAFON",
+        "PATRICK NOUVEL"
+    ],
+    "holders": [
+        936
+    ],
+    "ipcCodes": [
+        "G06K 19/06",
+        "B42D 25/00"
+    ]
+}

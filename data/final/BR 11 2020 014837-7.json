@@ -1,0 +1,60 @@
+{
+    "applicationNumber": "BR 11 2020 014837-7",
+    "filingDate": "30/08/2018",
+    "grantDate": null,
+    "title": "M\u00c9TODO E SISTEMA PARA AJUSTAR AUTOMATICAMENTE A POT\u00caNCIA \u00d3PTICA DO CABO COM BASE NO CAMINHO DO CANAL \u00d3PTICO",
+    "nationalPhaseDate": [
+        "21/07/2020"
+    ],
+    "internationalApplication": {
+        "pctNumber": "PCT CN2018/103222",
+        "pctDate": "30/08/2018",
+        "wipoNumber": null,
+        "wipoDate": null
+    },
+    "priorityClaims": [
+        {
+            "countryCode": "CN",
+            "priorityNumber": "201810475653.3",
+            "priorityDate": "17/05/2018"
+        }
+    ],
+    "events": [
+        {
+            "code": "1.1",
+            "description": "Publica\u00e7\u00e3o Internacional \u2013 PCT. Apresenta\u00e7\u00e3o de peti\u00e7\u00e3o de requerimento de entrada na fase nacional",
+            "bulletinNumber ": "2598"
+        },
+        {
+            "code": "1.3",
+            "description": "Notifica\u00e7\u00e3o - Fase Nacional - PCT",
+            "bulletinNumber ": "2605"
+        },
+        {
+            "code": "15.35",
+            "description": "Atualiza\u00e7\u00e3o de informa\u00e7\u00f5es no portal",
+            "bulletinNumber ": "2657"
+        },
+        {
+            "code": "6.23",
+            "description": "Exig\u00eancia preliminar - pedidos com buscas realizadas por outros Escrit\u00f3rios de Patentes - Art. 36 da LPI",
+            "bulletinNumber ": "2784"
+        },
+        {
+            "code": "7.1",
+            "description": "Conhecimento de Parecer T\u00e9cnico - Art. 36 da LPI",
+            "bulletinNumber ": "2820"
+        }
+    ],
+    "inventors": [
+        "DECHAO ZHANG"
+    ],
+    "holders": [
+        169929
+    ],
+    "ipcCodes": [
+        "H04B 10/079",
+        "H04J 14/02",
+        "H04Q 11/00"
+    ]
+}
