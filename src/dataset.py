@@ -2,33 +2,49 @@ import json, glob
 from settings import engine
 from models import *
 
+from datetime import datetime
+
+from sqlalchemy.dialects.mysql import insert as mysql_insert
 from sqlalchemy import func, case, select
 from sqlalchemy import select
 from sqlalchemy.orm import sessionmaker, joinedload, with_loader_criteria
 from utils import get_or_create
+from deduplication import deduplicate_participants
 
-Session = sessionmaker(engine)
+Session = sessionmaker(
+    engine,
+    autoflush=False,
+    expire_on_commit=False
+)
+
+participant_cache = {}
+classification_cache = {}
+patent_cache = {}
 
 
-def populate():
-    names = glob.glob('..\data\\raw\\*.json')
-    total = len(names)
-
-    for i in range(0, total):
-        with Session.begin() as session:
-            name = names[i]
-            data = {}
-            with open(name, encoding="utf-8") as f:
+def populate(batch_size=500):
+    names = glob.glob('../data/raw/*.json')
+    session = Session()
+    err = 0
+    try:
+        for i, path in enumerate(names, 1):
+            with open(path, encoding="utf-8") as f:
                 data = json.load(f)
+
             try:
                 if 'titulo' in data:
-                    insert_record(session, data)
+                        insert_record(session, data)
+                if i % batch_size == 0:
+                    session.commit()
+                    session.expunge_all()
+                    print(f'{i}/{len(names)}')
             except Exception as e:
-                print(f'Erro ao inserir {data["numero"]}')
+                err += 1
 
-        if i % 3000 == 0:
-            print(f'{min(i, total)}/{total} - {(i * 100 / total):.2f} %')
-
+        session.commit()
+    finally:
+        session.close()
+        print(err)
 
 def insert_record(session, data):
     production = insert_production(session, data)
@@ -38,20 +54,13 @@ def insert_record(session, data):
     if 'inventores' in data:
         inventors = insert_inventors(session, data)
 
-    classifications = []
-    if 'IPC' in data:
-        classifications = insert_classifications(session, data)
-        
+    classifications = insert_classifications(session, production, data)
     participations = insert_participations(session, production, holders, inventors)
-
-    production.participations.extend(participations)
-    production.international_classifications = []
-    production.international_classifications.extend(classifications)
 
 
 def insert_production(session, data):
-    default_values = {'number': data['numero'], 'filling_date': data['dataDeposito']}
-    production, _ = get_or_create(session, Patent, default_values, name = data['titulo'])
+    default_values = {'number': data['numero'], 'filling_date': datetime.strptime(data['dataDeposito'], "%d/%m/%Y")}
+    production, _ = get_or_create(session, Patent, default_values, name = data['titulo'][:500])
     return production
 
 
@@ -61,6 +70,10 @@ def insert_holders(session, data):
         name = holder_data['nomeCompleto']
         country = holder_data.get('pais', '')
         unit = None
+        
+        if country and len(country) > 2:
+            country = None
+
         if 'uf' in holder_data:
             unit = holder_data['uf']
         
@@ -86,36 +99,64 @@ def insert_inventors(session, data):
 
 
 def insert_participations(session, production, holders, inventors):
-    participations = []
+    rows = []
 
-    for holder in holders:
-        p = Participation(
-            patent = production,
-            participant = holder,
-            participation_type = "holder"
+    rows.extend(
+        Participation(
+            patent_id=production.id,
+            participant_id=h.id,
+            participation_type=ParticipationType.holder
         )
-        session.add(p)
-        participations.append(p)
+        for h in holders
+    )
 
-    for inventor in inventors:
-        p = Participation(
-            patent = production,
-            participant = inventor,
-            participation_type = "inventor"
+    rows.extend(
+        Participation(
+            patent_id=production.id,
+            participant_id=i.id,
+            participation_type=ParticipationType.inventor
         )
-        session.add(p)
-        participations.append(p)
+        for i in inventors
+    )
 
-    return participations
+    session.bulk_save_objects(rows)
 
 
-def insert_classifications(session, data):
-    classifications = list()
-    for code in data['IPC']:
-        classification, _ = get_or_create(session, InternationalClassification, {}, code = code)
-        classifications.append(classification)
+def insert_classifications(session, production, data):
+    codes = data.get("IPC")
+    if not codes:
+        return
 
-    return classifications
+    unique_codes = set(codes)
+
+    classifications = []
+
+    for code in unique_codes:
+        c = classification_cache.get(code)
+        if not c:
+            c = session.query(InternationalClassification)\
+                       .filter_by(code=code)\
+                       .one_or_none()
+            if not c:
+                c = InternationalClassification(code=code)
+                session.add(c)
+            classification_cache[code] = c
+
+        classifications.append(c)
+
+    session.flush()
+
+    rows = [
+        {
+            "patent_id": production.id,
+            "classification_id": c.id
+        }
+        for c in classifications
+    ]
+
+    stmt = mysql_insert(icp_patent).values(rows)
+    stmt = stmt.prefix_with("IGNORE")
+    session.execute(stmt)
 
 
 def count_elements():
@@ -274,9 +315,9 @@ def save_data_as_json():
                     json.dump(data, f, indent = 4)
 
 if __name__ == '__main__':
-    create_models()
+    #create_models()
     populate()
     deduplicate_participants()
     count_elements()
-    classify_participants
-    save_data_as_json()
+    #classify_participants()
+    #save_data_as_json()

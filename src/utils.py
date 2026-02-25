@@ -67,3 +67,17 @@ def get_or_create(session, model, default_values=None, **kwargs):
         session.add(instance)
         session.flush()
         return instance, True
+    
+
+def create(session, model, default_values=None):
+    instance = model(**default_values)
+    session.add(instance)
+    session.flush()
+    return instance, True
+
+
+def get_model(session, model, default_values=None, **kwargs):
+    instance = session.query(model).filter_by(**kwargs).first()
+    if instance and instance not in session:
+        instance = session.merge(instance)
+    return instance, False
